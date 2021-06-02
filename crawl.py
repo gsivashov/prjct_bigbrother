@@ -1,4 +1,3 @@
-import os
 import csv
 import random
 import logging
@@ -162,15 +161,6 @@ def start_crawl(file, folder):
 
                 if text:
                     yield link.url, h1, title, description, text
-
-                    # filename = f'{h1.replace("/","").replace(" ","_")}.txt'
-
-                    # if not os.path.exists(folder):
-                    #     os.makedirs(folder)
-
-                    # with open(Path.cwd() / folder / filename, 'w', encoding='utf-8') as txt_file:
-                    #     txt_file.write(
-                    #         f'URL: {link.url}\nTitle: {title}\nDescription: {description}\n\n{text}')
 
 
 if __name__ == '__main__':

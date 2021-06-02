@@ -18,7 +18,7 @@ def write_file(response, project, folder):
 
 
 def main():
-    # receive_links()
+    receive_links()
 
     for project in PROJECTS:
         for competitor in PROJECTS[project]:
