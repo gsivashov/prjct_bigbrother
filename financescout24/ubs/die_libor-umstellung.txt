@@ -1,0 +1,171 @@
+URL: https://www.ubs.com/global/de/libor.html
+Title: Die LIBOR-Umstellung | UBS Globale Themen
+Description: Die LIBOR-Umstellung. Der LIBOR (London Interbank Offered Rate) wird bis Ende 2021 eingestellt. Erfahren Sie mehr über die LIBOR-Umstellung und wie UBS darin involviert ist.
+
+Skip LinksContent AreaMain NavigationHeaderLIBORMeta Navigation
+Domizil wählen
+Standorte
+Search Title
+Globale Suche
+LöschenSuchen
+Die LIBOR-Umstellung
+Eine Zukunft nach dem LIBORDie Welt der Referenzzinssätze befindet sich im Umbruch. Wir haben für Sie das Wesentliche zusammengefasst.
+Die ISDA hat das IBOR Fallbacks Supplement sowie das IBOR Fallbacks Protocol lanciert. UBS befolgt dieses bereits, vor dem eigentlichen Inkrafttreten im Januar 2021
+ÜberblickDer LIBOR (London Interbank Offered Rate), eine der wichtigsten Kennzahlen an den Finanzmärkten, wird bis Ende 2021 eingestellt.Als Ersatz wurden sogenannte alternative Referenzzinssätze (sog. ARR, Alternative Reference Rates) identifiziert, die auch als risikofreie Zinssätze (RFR, Risk-Free Rates) bezeichnet werden. Die Suche nach Alternativen für den LIBOR ist jedoch keine einfache Aufgabe. Verträge im Wert von Billionen US-Dollar sind an den LIBOR gekoppelt. Aus diesem Grund engagieren wir uns aktiv und arbeiten gemeinsam mit Regulierungsbehörden, Zentralbanken und Branchengremien darauf hin, dass die Branche diese Veränderung meistern kann. Wir wollen dafür sorgen, dass der Übergang so reibungslos wie möglich verläuft, und zwar nicht nur für unsere Kunden, sondern auch im Interesse der Widerstandsfähigkeit der Finanzmärkte.In einigen Ländern werden ARR bereits heute genutzt. Sie sind an aktive Basismärkte gekoppelt und gelten als robuster als der LIBOR. Wir befürworten den Umstieg auf ARR und wollen unseren Kunden helfen, in einem Umfeld ohne LIBOR zurechtzukommen.Warum der LIBOR ersetzt wirdDer LIBOR wurde 1969 eingeführt. Damals wurde eines der ersten syndizierten Darlehen im Umfang von 80 Millionen US-Dollar an den LIBOR gekoppelt (Quelle: Reuters, August 2012). In den letzten Jahrzehnten dienten der LIBOR sowie andere Interbank Offered Rates (IBOR) als effiziente und effektive Benchmarksätze. Sie bildeten die Zinssätze ab, die ausgewählte Panel-Banken für unbesicherte Interbankenkredite zahlen mussten. Weltweit basieren Nennwerte von Derivaten, Darlehen und anderen Finanzprodukten im Wert von mehr als 400 Billionen US-Dollar auf IBOR-Sätzen (Quelle: BIS Quarterly Review, März 2019). Darüber hinaus sind IBOR-Sätze fester Bestandteil vieler Finanzprozesse, so auch von Bewertungen und Risikomanagement.Nach der Finanzkrise ist die Zahl der Transaktionen am Interbankenmarkt deutlich zurückgegangen. Das warf Fragen hinsichtlich der Nachhaltigkeit des LIBOR-Konzepts auf.2017 gab die britische Finanzmarktaufsicht schliesslich bekannt, dass sie die Panel-Banken ab Ende 2021 nicht mehr zu LIBOR-Meldungen verpflichten werde. Danach mehrten sich die Diskussionen um eine Umstellung des LIBOR rapide. Ausserdem begannen die Marktteilnehmer, sich auf den Übergang zu alternativen Methoden einzustellen, die dazu beitragen sollen, dass der Finanzmarkt solide und widerstandsfähig bleibt.Folgen für unsere KundenDer Übergang vom LIBOR und einigen anderen IBOR dürfte sich auf laufende und künftige Transaktionen auswirken und alle Vertragsarten und Kundensegmente betreffen. Gleiches gilt für Hypotheken von Privathaushalten, Unternehmenskredite und den Derivatehandel.Wir bewerten kontinuierlich die möglichen Konsequenzen aus der Umstellung von IBOR gekoppelten Geschäften und Produkten und wollen gleichzeitig unser Produktangebot ausbauen. Ausserdem behalten wir die Marktentwicklungen genau im Blick und erwägen, welche Optionen wir Ihnen anbieten können.Wir werden Sie über die weiteren Entwicklungen im Zusammenhang mit der LIBOR-Umstellung auf dem Laufenden halten. Zwischenzeitlich empfehlen wir Ihnen, sich weiter mit dem Thema zu befassen und die potenziellen Auswirkungen auf Ihre Produkte abzuwägen.Haben Sie noch Fragen? Dann wenden Sie sich bitte an Ihren Kundenberater oder Ansprechpartner im Vertrieb.
+Wir gehen davon aus, dass die LIBOR-Panels nach Ende 2021 zahlenmässig stark zurückgehen oder ganz von der Bildfläche verschwinden. Unternehmen müssen dann bei ihren Geschäften ohne LIBOR auskommen und den Bestand an ‚alten‘ LIBOR-Verträgen abbauen.
+Andrew Bailey, Chief Executive der britischen Finanzmarktaufsicht (Financial Conduct Authority), in seiner Rede vor der Securities Industry and Financial Markets Association im Juli 2019
+Die risikofreien Zinssätze unterscheiden sich ökonomisch vom LIBOR und auch von Währung zu Währung. Dadurch wird der für die globalen Finanzmärkte ohnehin bereits sehr schwierige Übergang noch komplexer.
+Angus Graham, UBS LIBOR Migration LeadUmfang des IBOR-Marktes in den 5 Hauptwährungen
+Die Nennwerte stehen für den Umfang des LIBOR-Marktes. Das gilt nicht für den EUR und den JPY, bei denen zusätzlich der EURIBOR beziehungsweise der TIBOR berücksichtigt sind.
+Quellen: ISDA, IBOR Global Benchmark Survey, 2018 Transition Roadmap, Februar 2018; MPG Final Report on Reforming Interest Rate Benchmarks, März 2014
+Häufig gestellte FragenWir wissen, dass es viele Fragen im Zusammenhang mit der Umstellung des LIBOR gibt. Wir werden Sie auf dem Laufenden halten, sobald neue Informationen vorliegen.Was ist der LIBOR?Der LIBOR (London Interbank Offered Rate) ist ein weit verbreiteter Referenzzinssatz bzw. Benchmark und bildet den Zinssatz ab, den ausgewählte Panel-Banken auf unbesicherte Interbankenkredite zahlen müssen.Funktionsweise: Die ausgewählten Panel-Banken melden täglich Zinssätze an den LIBOR-Administrator, die ICE Benchmark Administration (IBA). Dies geschieht für fünf Währungen (USD, EUR, GBP, CHF und JPY) und sieben Laufzeiten (Overnight eine Woche, einen Monat, zwei Monate, drei Monate, sechs Monate und zwölf Monate). Die IBA ermittelt den LIBOR als Durchschnitt der von den Panel-Banken gemeldeten Zinssätze, zu denen sich diese Geld am Interbankenmarkt ausleihen könnten.In den letzten Jahrzehnten dienten der LIBOR sowie andere Interbank Offered Rates (IBOR) als effiziente und effektive Benchmarksätze und wurden sehr häufig als Referenzzinssätze in Verträgen und bei Sicherungsgeschäften verwendet. Weltweit basieren Nennwerte von Derivaten, Krediten und anderen Bankprodukten im Wert von mehr als 400 Billionen US-Dollar auf IBOR-Sätzen (Quelle: BIS Quarterly Review, März 2019).Warum wird die Umstellung des LIBOR in Betracht gezogen?Das Tagesvolumen der für die Festsetzung des LIBOR relevanten Interbankentransaktionen ist seit der Finanzkrise 2007/2008 eingebrochen.Obwohl die IBA und die Panel-Banken erhebliche Verbesserungen am LIBOR vorgenommen haben, konnten diese das Fehlen eines aktiven Basismarktes nicht ausgleichen.Die Panel-Banken sind angesichts des geschrumpften Umfangs an zugrundeliegenden Transaktionen immer weniger bereit, weitere Meldungen für die Festsetzung des LIBOR zu machen.Die britische Finanzmarktaufsicht FCA gelangte zu dem Schluss, dass der LIBOR möglicherweise nicht mehr zukunftsfähig sei und gab im Juli 2017 bekannt, dass sie die Panel-Banken ab Ende 2021 nicht mehr zur Meldung von Zinssätzen zur LIBOR-Bestimmung verpflichten werde.Im Juni 2019 erklärte die FCA erneut, dass Unternehmen ab Ende 2021 in allen Währungen und Laufzeiten nicht mehr auf den LIBOR vertrauen könnten und empfahl ihnen, sich ernsthaft auf eine Umstellung vorzubereiten. Es besteht somit das Risiko, dass der LIBOR nach diesem Datum dauerhaft eingestellt wird. Wann wird die LIBOR-Umstellung greifen?Die FCA wird eigenen Angaben zufolge die Panel-Banken nach Ende 2021 nicht mehr zu Meldungen von Zinssätzen für die Berechnung des LIBOR verpflichten. Unternehmen sollten die Umstellung des LIBOR als gegeben hinnehmen und sich darauf vorbereiten.Die Regulierungsbehörden rechnen damit, dass die Umstellung vom Markt geführt wird, und haben daher keinen festen Termin für das Inkrafttreten bestimmt. Wir gehen davon aus, dass der Markt für verschiedene LIBOR-Währungen möglicherweise zu unterschiedlichen Zeitpunkten zu den neuen alternativen Referenzzinssätzen übergehen wird.Wie wird sich die Umstellung auf IBOR-basierte Produkte auswirken?Der Übergang vom LIBOR und von anderen IBOR dürfte Konsequenzen für laufende und künftige Transaktionen haben. Dies gilt insbesondere für Derivate, Anleihen, strukturierte Produkte, verbriefte Produkte, Kredite und Hypotheken, aber auch für andere Produkte und Vertragsarten, die IBOR als Referenzzinssätze haben.Ausserdem planen wir den Ausbau unseres Produktangebots um neue Produkte, welche die neuen alternativen Referenzzinssätze abbilden.Welche Folgen wird die Umstellung für Ihr Portfolio haben?Wir sind derzeit damit beschäftigt, die möglichen Konsequenzen für an IBOR gekoppelte Geschäfte und Produkte abzuschätzen, und behalten gleichzeitig die Marktentwicklungen genau im Blick. Zum jetzigen Zeitpunkt lassen sich die Folgen der LIBOR-Umstellung noch nicht exakt vorhersehen. Wir werden Sie jedoch über die weiteren Veränderungen auf dem Laufenden halten.Zwischenzeitlich empfehlen wir Ihnen, sich weiter mit dem Thema zu befassen und die potenziellen Auswirkungen auf Ihre Produkte abzuwägen.Wie steht UBS zur LIBOR-Umstellung und inwieweit sind wir involviert?Eine international anerkannte nachhaltige Benchmarklösung ist der Eckpfeiler eines effizienten Finanzmarktes. Daher unterstützen wir die Umstellung des Marktes vom LIBOR sowie von anderen IBOR und beteiligen uns aktiv an den Branchendiskussionen.Wir leisten einen Beitrag zum Dialog der Branche mit den Regulierungsbehörden, den Zentralbanken und den Branchengremien und wollen so die Kontinuität benchmarkbasierter Produkte und damit auch die Widerstandsfähigkeit des Finanzmarktes sichern.Mithilfe eines divisions- und funktionsübergreifenden Transformationsprogramms werden wir die Folgen der LIBOR-Umstellung unter anderem für Prozesse, Systeme, die Dokumentation und das Produktangebot abschätzen und in Angriff nehmen.Welche Alternative zum LIBOR gibt es?Wichtige Rechtssysteme, die vom LIBOR betroffen sind (die USA, das Vereinigte Königreich, die Schweiz, Japan und die Eurozone) haben alternative Referenzzinssätze ermittelt, die auch als risikofreie Zinssätze bezeichnet werden. Viele andere Länder ziehen derzeit Alternativen in Betracht. Informationen zu den Alternativen zum LIBOR finden Sie über die Registerkarte „Alternative Zinssätze“.UBS hält sich an das IBOR Fallbacks Protocol der ISDA. Was bedeutet das?Sofern sich beide bilaterale Parteien in Bezug auf ausserbörslich gehandelte Derivate («OTC-Derivaten») an das IBOR Fallbacks Protocol der ISDA halten, werden für entsprechende Geschäfte beim Rückfall Ersatzzinssätze garantiert.Der Rückfall im Sinne des Protokolls wird ausgelöst, sobald der LIBOR nicht mehr als repräsentativ erachtet wird oder nicht mehr veröffentlicht wird. Als solche Geschäfte werden Transaktionen betrachtet, die vor dem 25. Januar 2021 ausgeführt wurden und die in der Liste von Dokumentationstypen im ISDA IBOR Fallbacks Protocol aufgeführt sind.Was versteht man unter Rückfallklauseln?Rückfallklauseln sind vertragliche Bestimmungen, die den Auslöser einer Umstellung zu einem Ersatzzinssatz festlegen, sowie auch den Ersatzzinssatz an sich und die Spread-Anpassung, womit der Ersatzzinssatz demjenigen Referenzzinssatz angeglichen wird, den er ersetzt.Mit Ausnahme von OTC-Derivaten hat UBS bereits robuste Rückfallklauseln in allen neuen Verträgen umgesetzt, um den reibungslosen Übergang zu alternativen Referenzzinssätzen (ARR) zu unterstützen. UBS will auch weiterhin sicherstellen, dass die Rückfallklauseln in von UBS ausgestellten Verträgen im Einklang mit den allgemeinen Marktstandards verbleiben.Das IBOR Fallbacks Supplement und IBOR Fallbacks Protocol der ISDA, welche am 23. Oktober 2020 veröffentlicht wurden und am 25. Januar 2021 in Kraft treten, sehen für OTC-Derivate einen wichtigen Mechanismus vor, mit dem Rückfallklauseln in Derivateverträgen umgesetzt werden. Ab dem Inkrafttreten werden alle neuen Derivateverträge, die auf bestimmten IBORs basieren, Rückfallklauseln enthalten. Bestehende Derivateverträge werden dann neue Rückfallklauseln enthalten, wenn sich beide Parteien an das Protokoll halten oder sich bilateral auf Rückfallklauseln einigen.Wichtig ist zu beachten, dass Rückfallklauseln nicht der einzige Weg sind, um LIBOR-basierte Verträge umzustellen. Regulatoren erwarten als primäre Umstellungsstrategie eine aktive Umstellung auf neue ARR-Produkte. Dies kann Neuverhandlungen, Vertragsänderungen, neue Vertragsunterzeichnungen und/oder Umbuchungen sowie auch eine Bewertung der Risiken und Kosten bedeuten.Alternative Zinssätze Die Marktteilnehmer haben sich in Bezug auf die alternativen Referenzzinssätze (ARR) – auch als risikofreie Zinssätze (RFR) bezeichnet – auf einen Konsens verständigt. Für alle wichtigen Währungen wurden nationale Arbeitsgruppen eingerichtet, welche die Umstellung auf die neuen Zinssätze steuern sollen.Wichtigste Punkte:Die ARR unterscheiden sich strukturell vom LIBOR und sind in den jeweiligen Währungen keine wirtschaftlichen Äquivalente desselben.In den neuen ARR entwickelt sich zwar Liquidität, allerdings noch nicht genug.Es laufen verschiedene Initiativen zur Schaffung von Terminstrukturen für die ARR. Als Methoden werden derzeit etwa die Aufzinsung der Overnight-Sätze über einen bestimmten Zeitraum oder auch die Ableitung einer Terminstruktur auf der Grundlage von Overnight Index Swaps und Futures in Betracht gezogen.Alternative Referenzzinssätze nach LandRechtssystemRechtssystemArbeitsgruppeArbeitsgruppeAlternativer ZinssatzAlternativer ZinssatzBesichert / UnbesichertBesichert / UnbesichertOvernight / TerminstrukturOvernight / TerminstrukturZinsverwaltungZinsverwaltungVerfügbar abVerfügbar abRechtssystem USAArbeitsgruppeAlternative Reference Rates CommitteeAlternativer ZinssatzSecured Overnight Financing Rate (SOFR)Besichert / Unbesichert BesichertOvernight / TerminstrukturOvernightZinsverwaltungFederal Reserve Bank of New YorkVerfügbar ab3. April 2018Rechtssystem Vereinigtes Königreich ArbeitsgruppeWorking group on Sterling Risk-Free Reference RatesAlternativer ZinssatzReformed Sterling Overnight Index Average (SONIA)Besichert / UnbesichertUnbesichertOvernight / TerminstrukturOvernightZinsverwaltungBank of EnglandVerfügbar ab23. April 2018Rechtssystem SchweizArbeitsgruppeDie Nationale Arbeitsgruppe für Referenzzinssätze in FrankenAlternativer ZinssatzSwiss Average Rate Overnight (SARON)Besichert / UnbesichertBesichertOvernight / TerminstrukturOvernightZinsverwaltungSIX Schweizer BörseVerfügbar ab25. August 2009Rechtssystem JapanArbeitsgruppeCross-Industry Committee on Japanese Yen Interest Rate BenchmarksAlternativer ZinssatzTokyo Overnight Average Rate (TONA)Besichert / UnbesichertUnbesichertOvernight / TerminstrukturOvernightZinsverwaltungBank of JapanVerfügbar ab1. November 1997Rechtssystem EurozoneArbeitsgruppeWorking Group on Euro Risk-Free RatesAlternativer ZinssatzEuro Short-Term Rate (€STR)Besichert / UnbesichertUnbesichertOvernight / TerminstrukturOvernightZinsverwaltungEuropäische ZentralbankVerfügbar ab2. Oktober 2019Auf der Grundlage der vom Alternative Reference Rates Committee veröffentlichten häufig gestellten Fragen (Frequently Asked Questions), Version vom 19. September 2019, ergänzt um Informationen in der Spalte 'Verfügbar ab'.Herausforderungen der UmstellungDie International Swaps and Derivatives Association (ISDA)1 hat für die Umstellung des Referenzsatzes eine Reihe von Herausforderungen ermittelt. Diese erläutern wir im Folgenden. Mit diesen Herausforderungen befassen sich nationale Arbeitsgruppen und Branchenforen, an denen sich UBS aktiv beteiligt. Hierbei handelt es sich nicht um eine abschliessende Aufzählung.Akzeptanz des RFR (risikofreier Zinssatz) durch den MarktIm Interesse einer geordneten und kontrollierten Umstellung ist eine breite und gleichzeitige Marktakzeptanz erforderlich.Rechtliche AspekteDie Umstellung sollte im Kontext der zugrunde liegenden rechtlichen Dokumentation für Transaktionen jeder Art betrachtet werden.LiquiditätUm die Umstellung auf die neuen RFR sowie die Entwicklung vorausschauender Terminstrukturen zu erleichtern, muss ausreichend Liquidität aufgebaut werden.Regulatorische  AnforderungenBestehende regulatorische Anforderungen könnten die Umstellung verkomplizieren und/oder behindern.InfrastrukturFür die Einführung neuer RFR werden von der Transaktionserfassung bis hin zur Abwicklung umfangreiche Aktualisierungen mit Blick auf operative Abläufe sowie Infrastrukturen erforderlich sein, unter anderem bei Technologien für Compliance, Risikomodellierung und Portfolioüberwachung.Governance und KontrollenUm die Umstellung zu ermöglichen und die Compliance zu gewährleisten, müssen die Verfahren für Governance, Kontrollen und zur Überwachung des Verhaltensrisikos erweitert werden. Bewertung und RisikomanagementDurch die Umstellung alter Verträge könnten Sicherungsgeschäfte an Effektivität verlieren und/oder Probleme im Zusammenhang mit der Marktbewertung aufkommen.Rechnungswesen und SteuernFair-Value-Veränderungen könnten sich auf die Besteuerung von Unternehmen auswirken. Auch die Bilanzierung von Sicherungsgeschäften sowie die Strukturen zur Bilanzierung von Geschäften zwischen verbundenen Unternehmen könnten betroffen sein.1Quelle: ISDA, IBOR Global Benchmark Survey, 2018 Transition Roadmap
+MarktengagementsDas Ausmass der HerausforderungIBOR-Sätze stützen weltweite Engagements im Umfang von etwa 400 Billionen US-Dollar. Sie finden allgemein Einsatz bei der Preisstellung für eine Vielzahl von Kredit- und Derivateprodukten und sind fester Bestandteil finanzieller Prozesse wie Bewertungen und Bilanzierung.USD 400 Billionenin IBOR-MarktengagementsFünf Währungenund verschiedene LaufzeitenKlicken Sie auf die interaktive Karte, um weitere Informationen zu den IBOR-Marktengagements nach Produkt gegliedert zu sehen.EURIBOR>$150-180 Bio.EURO-LIBOR>$2 Bio.Syndizierte KrediteFirmenkreditePrivatkrediteFloating-Rate-NotesVerbriefungenOTC-DerivateBörsengehandelte DerivateEinlagenGering (Mittel ($100 Mrd. < x < $1 Bio.)Hoch (>$1 Bio.)JPY-LIBOR>$30 Bio.TIBOR>$5 Bio.Syndizierte Kredite
+FirmenkreditePrivatkrediteFloating-Rate-NotesVerbriefungenOTC-DerivateBörsengehandelte DerivateEinlagenGering (Mittel ($100 Mrd. < x Hoch (>$1 Bio.)USD-LIBOR>$150-160 Bio.Syndizierte KrediteFirmenkreditePrivatkrediteFloating-Rate-Notes VerbriefungenOTC-Derivate Börsengehandelte DerivateEinlagenGering (Mittel ($100 Mrd. < x Hoch (>$1 Bio.)GBP-LIBOR>$30 Bio.Syndizierte Kredite FirmenkreditePrivatkrediteFloating-Rate-Notes VerbriefungenOTC-DerivateBörsengehandelte DerivateEinlagen	Gering (	Mittel ($100 Mrd. < x 	Hoch (>$1 Bio.)CHF-LIBOR>$6.5 Bio.Syndizierte Kredite FirmenkreditePrivatkrediteFloating-Rate-Notes
+VerbriefungenOTC-Derivate
+Börsengehandelte Derivate
+Einlagen	Gering (Mittel ($100 Mrd. < x Hoch (>$1 Bio.)
+Quellen: BIS Quarterly Review, März 2019; MPG Final Report on Reforming Interest Rate Benchmarks, März 2014; ISDA, IBOR Global Benchmark Survey, 2018 Transition Roadmap, Februar 2018
+Die Engagements nach Währung bilden eher globale als regionale Engagements ab
+Der Weg bis 2021Von 2017 bis 2021: regulatorische und markttechnische Meilensteine 2017 - 2018201920202021PrevNextApril 2017Entscheidung für SONIA als bevorzugten risikofreien GBP-ZinssatzJuli 2017A. Bailey (FCA) erklärt in seiner Rede, dass die Panel-Banken nach 2021 keine LIBOR-Meldungen mehr machen müssenOktober 2017Empfehlung von SARON als Alternative zum CHF-LIBORApril 2018Veröffentlichung SOFRJuni 2018Erste Floating-Rate-Note auf SONIA-Basis, ausgegeben von der Europäischen InvestitionsbankJuli 2018Erste Floating-Rate-Note auf SOFR-Basis, ausgegeben von Fannie MaeSeptember 2018Empfehlung von €STR als alternativen EUR-RFR und Ersatz für EONIAJuli 2019EURIBOR nach EU-Benchmark-Verordnung zugelassenOktober 2019Veröffentlichung €STR. EONIA wird €STR+SpreadDezember 2019Voraussichtliche Umstellung auf Hybrid-EURIBOR23. Juli 2020 London Clearing House (LCH), Chicago Mercantile Exchange Group (CME Group) und Eurex wechseln zu €STR Price Aligned Interest (PAI) und DiskontierungOktober 2020Die International Swaps and Derivatives Association (ISDA) veröffentlicht das ISDA Fallbacks Supplement (in Form von Ergänzungen der ISDA-Definitionen von 2006) sowie ein zugehöriges ProtokollOktober 2020Umstellung des London Clearing House (LCH) und der Chicago Mercantile Exchange Group (CME Group) auf SOFR Price Alignment Interest (PAI) und Diskontierung1 Quartal 2021SONIA-Terminzinssatz verfügbarErstes Halbjahr 2021Voraussichtliche Einführung des SOFR-TerminzinssatzeEnde Dezember 2021Die FCA wird die Panel-Banken von weiteren LIBOR-Meldungen entbinden, EONIA existiert nicht mehrWeitere InformationenMöchten Sie mehr erfahren?Hier finden Sie weitere Informationen zur LIBOR-Umstellung nach Geschäftsbereichen. Die über diese Links bereitgestellten Informationen sind nur für bestehende Kunden mit bestehenden LIBOR-basierten Transaktionen, Geschäften oder Produkten in den betroffenen UBS-Geschäftsbereichen bestimmt.
+Investment Banking
+Global Wealth Management
+Americas
+Asia, Europe and Switzerland
+Asset Management
+Personal & Corporate Banking
+Switzerland
+Libor
+Alternative Reference Rates Committee
+The Working Group on Sterling Risk-Free Reference Rates
+Die Nationale Arbeitsgruppe für Referenzzinssätze in Schweizer Franken
+The Working Group on Euro Risk-Free Rates
+International Swaps and Derivatives Association, Inc
+Loan Market Association, LIBOR-Mikrosite
+Rechtliche Hinweise
+Diese Materialien wurden von UBS AG beziehungsweise ihren Tochtergesellschaften und/oder verbundenen Unternehmen erstellt („UBS“).
+Diese Materialien dürfen nur unter den Bestimmungen des geltenden Rechts verteilt werden. Sie wurden nicht unter Berücksichtigung der spezifischen Anlageziele, finanziellen Verhältnisse oder besonderen Bedürfnisse spezifischer Empfänger ausgearbeitet. Sie wurden ausschliesslich zu Informationszwecken erstellt und sind nicht als Werbung oder Kauf- oder Verkaufsangebot für Wertpapiere oder die damit im Zusammenhang stehenden Anlageinstrumente oder zur Beteiligung an bestimmten Trading-Strategien zu verstehen. Optionen, Derivate und Futures sind nicht für alle Anleger geeignet und der Handel mit solchen Instrumenten gilt als risikoreich. Der Empfänger sollte die Inhalte dieser Materialien nicht als Rechts- oder Steuerberatung, als buchhalterische, regulatorische oder sonstige Experten- oder Fachberatung oder -dienstleistung oder als Anlageberatung oder persönliche Empfehlung auslegen.
+Wir lehnen jedwede vertragliche oder stillschweigende Haftung für in dieser Publikation enthaltene Information in Bezug auf Richtigkeit, Vollständigkeit oder Zuverlässigkeit ab, ausser im Hinblick auf Informationen, die sich auf UBS beziehen. Darüber hinaus sind diese Materialien weder als vollständige Darstellung oder Zusammenfassung der in diesen Materialien genannten Wertpapiermärkte oder Entwicklungen noch als Garantie dafür auszulegen, dass die beschriebenen Dienstleistungen allen geltenden Gesetzen, Vorschriften und Verordnungen entsprechen. Die Empfänger sollten diese Materialien nicht als Ersatz für die eigene Beurteilung ansehen. Alle in diesen Materialien geäusserten Ansichten können sich ohne  vorherige Ankündigung ändern und aufgrund abweichender Annahmen und Kriterien von jenen Ansichten abweichen oder jenen Ansichten widersprechen, die von anderen Geschäftsbereichen oder Gruppen innerhalb von UBS vertreten werden. UBS ist nicht verpflichtet, die hier enthaltenen Informationen zu aktualisieren bzw. auf dem neuesten Stand zu halten, und die vergangene Performance ist nicht unbedingt ein Hinweis für die zukünftige Entwicklung.
+UBS, ihre Verwaltungsräte, Geschäftsführer, Mitarbeitenden oder Kunden können Zinsen oder Long- oder Short-Positionen in den hierin genannten Wertschriften oder anderen Anlageinstrumenten haben oder gehabt haben und können jederzeit als Eigenhändler oder Vermittler Käufe und/oder Verkäufe in diesen Anlageinstrumenten tätigen. UBS kann als Market Maker für die in diesen Unterlagen beschriebenen Wertschriften oder für andere Anlageinstrumente fungieren oder fungiert haben. Darüber hinaus kann UBS eine Beziehung zu den betreffenden Unternehmen haben oder kann für sie Dienstleistungen hinsichtlich Investment Banking, Kapitalmärkten und/oder andere Finanzdienstleistungen erbringen oder erbracht haben. Weder UBS noch ihre Verwaltungsräte, Geschäftsführer,  Mitarbeitenden oder Vertreter sind für Verluste oder Schäden in Zusammenhang mit der Verwendung dieser Materialien, ob vollständig oder teilweise, oder die Berufung auf die hierin enthaltenen Informationen haftbar. Weitere Informationen können auf Anfrage zur Verfügung gestellt werden.
+Kunden, die Transaktionen ausführen möchten, sollten sich an ihren zuständigen Vertriebspartner wenden. Diese Website verwendet Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf unserer Website erhalten. Weitere Informationen finden Sie in der Datenschutzerklärung. Sie können die Einstellungen Ihrer Cookies in den Datenschutzeinstellungen ändern.
+Zu den Datenschutzeinstellungen
+OkayMain NavigationLIBOR
+LIBOR
+LIBOR
+Site Navigation
+Main Navigation
+Domizil
+Back
+Bitte wählen Sie Ihr Domizil
+Domizil
+Domizil
+Globale Homepage
+Back
+Region
+Europa
+Nordamerika
+Region Asien-Pazifik
+Naher Osten & Afrika
+Lateinamerika & Karibik
+Back
+Domicile
+Dänemark
+Deutschland
+Finnland
+Frankreich
+Grossbritannien
+Island
+Italien
+Jersey
+Luxemburg
+Monaco
+Niederlande
+Norwegen
+Österreich
+Russland
+Schweden
+Schweiz
+Spanien
+Türkei
+Kanada
+Vereinigte Staaten
+Australien
+China
+Hongkong
+Indien
+Indonesien
+Japan
+Korea
+Malaysia
+Neuseeland
+Philippinen
+Singapur
+Taiwan
+Thailand
+Bahrain
+Israel
+Katar
+Libanon
+Saudi-Arabien
+Südafrika
+Vereinigte Arabische Emirate
+Bahamas
+Brasilien
+Chile
+Kolumbien
+Mexiko
+Panama
+Dänemark
+Deutschland
+Finnland
+Frankreich
+Grossbritannien
+Island
+Italien
+Jersey
+Luxemburg
+Monaco
+Niederlande
+Norwegen
+Österreich
+Russland
+Schweden
+Schweiz
+Spanien
+Türkei
+Kanada
+Vereinigte Staaten
+Australien
+China
+Hongkong
+Indien
+Indonesien
+Japan
+Korea
+Malaysia
+Neuseeland
+Philippinen
+Singapur
+Taiwan
+Thailand
+Bahrain
+Israel
+Katar
+Libanon
+Saudi-Arabien
+Südafrika
+Vereinigte Arabische Emirate
+Bahamas
+Brasilien
+Chile
+Kolumbien
+Mexiko
+Panama
+Standorte
+Sprache
+Sprache
+de
+EnglishenDeutschdeFrançaisfrItalianoitEspañoles
+Schliessen
+Zum SeitenanfangFooter NavigationSie sind hier: Globale ThemenDie LIBOR-UmstellungInformation zu UBSNutzungsbedingungenDatenschutzerklärungBetrügerische E-Mails melden
+Datenschutzeinstellungen
+Legal InformationDie auf dieser Website angebotenen Produkte, Dienstleistungen, Informationen und/oder Unterlagen sind Personen mit Wohnsitz in bestimmten Ländern möglicherweise nicht zugänglich. Bitte beachten Sie die geltenden Verkaufsbeschränkungen für die entsprechenden Produkte oder Dienstleistungen. © UBS 1998 - 2021. Alle Rechte vorbehalten.

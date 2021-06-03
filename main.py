@@ -7,7 +7,10 @@ from get_urls import PROJECTS, receive_links, file_name
 
 def write_file(response, project, folder):
     for url, h1, title, description, text in response:
-        filename = f'{h1.replace("/","").replace(" ","_")}.txt'
+        clean_keyword = re.sub(r'[^\'\d\w\s-]+', '', h1).replace(
+            ' ', '{}').replace('}{', '').replace('{}', ' ').replace('\t', '').lower().strip()
+
+        filename = f'{clean_keyword.replace(" ","_")}.txt'
 
         if not os.path.exists(f'{project}/{folder}'):
             os.makedirs(f'{project}/{folder}')

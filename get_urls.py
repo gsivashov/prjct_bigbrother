@@ -6,7 +6,7 @@ from google.cloud import bigquery
 DATE = date.today().strftime('%Y-%m-%d')
 
 PROJECTS = {
-    'anibis': ['tutti.ch', 'ricardo.ch', 'ebay.ch'],
+    'anibis': ['ebay.ch', 'tutti.ch'],
     'immoscout24': ['homegate.ch', 'immostreet.ch', 'comparis.ch'],
     'autoscout24': ['carforyou.ch', 'autolina.ch', 'comparis.ch'],
     'motoscout24': ['carforyou.ch', 'autolina.ch', 'comparis.ch'],

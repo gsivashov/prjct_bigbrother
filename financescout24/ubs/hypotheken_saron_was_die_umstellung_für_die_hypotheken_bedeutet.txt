@@ -1,0 +1,279 @@
+URL: https://www.ubs.com/ch/de/private/mortgages/information/magazine/2020/saron-what-changeover-means.html
+Title: SARON: Was die Umstellung für die Hypotheken bedeutet | UBS Schweiz
+Description: Hier finden Sie Antworten auf die wichtigsten Fragen zu den neuen SARON-Hypotheken.
+
+Skip LinksContent AreaMain NavigationHeaderPrivatkundenMeta Navigation
+Schweiz
+Standorte
+UBS LoginsLoginsUBS LoginsWählen Sie Ihr UBS LoginPrivatpersonenUBS E-Banking in der SchweizUBS SafeUBS Immo-CheckUBS QuotesUBS KeyClub eStoreUBS Digital Networks and EventsUnternehmen und InstitutionelleUBS E-Banking und Online Services in der SchweizUBS ConnectUBS NEOKundenportale der Investment BankUBS Asset WizardWeitere LoginsGeht’s auch ohne Kartenleser?Ja, mit der UBS Access App loggen Sie sich einfach und sicher per Smartphone ins E-Banking ein.
+Jetzt App herunterladen
+Search Title
+Globale Suche
+LöschenSuchen
+Hypotheken
+SARON: Was die Umstellung für die Hypotheken bedeutet
+Hier finden Sie Antworten auf die wichtigsten Fragen zu den neuen SARON-Hypotheken.
+von UBS Wissen
+27. Nov 2020
+Der Referenzzinsatz LIBOR, jahrelang weltweit der wichtigste Zinssatz und die Basis für viele an Finanzmärkten abgeschlossene Verträge für Kredite und Hypotheken, gehört Ende 2021 der Vergangenheit an. In der Schweiz ist für variabel verzinste Hypotheken neu der SARON (Swiss Average Rate Overnight) die massgebene Grösse, ein bewährter Referenzzinssatz, der bereits seit 2009 existiert.Weshalb kommt es zur Ablösung?Die britische Finanzmarktaufsicht gab Mitte 2017 bekannt, die Ermittlung des LIBOR (London Interbank Offered Rate) nur noch bis Ende 2021 zu unterstützen. Hauptgrund für diesen Entscheid war die Finanzmarktkrise in den Jahren 2008/2009, nach welcher immer weniger Geschäftsbanken bereit waren, sich ungesicherte Kredite zu vergeben. Dadurch wurde der LIBOR immer weniger durch real durchgeführte Transaktionen unterstützt. Vielmehr basierte er stattdessen immer mehr auf Schätzungen und verlor in der Folge an Aussagekraft und Glaubwürdigkeit.Warum setzt die Schweiz auf den SARON?Die Etablierung des SARON als neuer Referenzzinssatz in der Schweiz geht auf eine Empfehlung der Nationalen Arbeitsgruppe (NAG) für Referenzzinssätze aus dem Jahr 2017 zurück. Der 2009 eingeführte SARON wird auf Basis von abgeschlossenen Transaktionen und verbindlichen Preisanfragen im Schweizer Geldmarkt ermittelt – die Schweizerische Nationalbank (SNB) und die SIX Group AG entwickelten die Methode zu seiner Berechnung. Der Referenzzinssatz ist öffentlich einsehbar und wird von der SIX täglich nach Handelsschluss berechnet und publiziert. Alfred Ledermann, Head Lending & Deposit Products bei UBS Schweiz und Mitglied der NAG, erklärt die Stärken des SARON: «Hinter dem SARON steht ein liquider und transparenter Markt mit vielen Transaktionen. Der Zinssatz ist robust, repräsentativ und in der Schweiz administriert.»Was ist der Compounded SARON?Der SARON ist ein Tagesgeldsatz, der für die Zinsperiode von heute auf morgen gilt. Für die Geldmarkthypotheken benötigt es jedoch längerfristige Zinsperioden und auch einen längerfristigen Zinssatz. Dieser wird als Compounded SARON bezeichnet. Der Compounded SARON wird ebenfalls von SIX berechnet, ausgehend von den aufgezinsten Tagessätzen. Die Berechnung geschieht rückwirkend, was aus Kundensicht den grossen Unterschied zur LIBOR-Hypothek ausmacht. Anders gesagt: Der für den Hypothekarschuldner gültige Zinssatz wird am Ende der drei Monate langen Zinsperiode festgelegt – ähnlich wie beim Strombezug, wo man die Rechnung auch erst nach dem effektiven Verbrauch erhält. Gut zu wissen für Hypothekarkunden: In der Vergangenheit verlief der Compounded SARON fast parallel zum 3-Monats-LIBOR und zeigte sich in turbulenten Marktphasen gar tiefer und stabiler.
+Wie werden die Zinsen berechnet?Für die genaue Berechnung des Compounded SARON hat die NAG sieben verschiedene Varianten erarbeitet, von denen auf dem Schweizer Markt aktuell drei angewendet werden:Plain – die Basisvariante (wird bei UBS-Produkten angewendet)Die Beobachtungsperiode und die Zinsperiode sind identisch. Der Zinssatz gelangt am Ende der Periode, in der Regel am Ende des Quartals, zur Anwendung.Lookback – zurückversetzte TageBeobachtungs- und Zinsperiode sind gleich lang, die Beobachtungsperiode wird aber um beispielsweise einen Monat vorverschoben. Wenn sich die Zinsen in diesem vorverschobenen Monat verändern, wirkt sich das nur zu einem Drittel auf den Gesamtzinssatz aus. Dafür bleibt der Bank und dem Hypothekarnehmer ausreichend Zeit, die Zinsen abzurechnen und zu begleichen.Last Reset – verschobene PeriodeDie Beobachtungsperiode wird um eine ganze Zinsperiode vorverschoben. Somit ist der Zins – wie bisher beim LIBOR – jeweils am Starttag der Zinsperiode bekannt. Der Nachteil: Es wird immer ein veralteter Zinssatz angewendet, sodass die Banken bei steigenden Hypothekarzinsen Geld verlieren, während die Hypothekarnehmer bei sinkenden Zinsen zu hohe Zinsen bezahlen.Auf welchem Niveau bewegen sich die Zinsen?Der SARON wie auch der LIBOR sind kurzfristige Geldmarkt-Zinssätze und bewegen sich seit langem auf negativem Niveau. Das dürfte angesichts der tiefen Zinsen in der Eurozone und dem weiterhin überbewerteten Schweizer Franken bis voraussichtlich Ende 2021 so bleiben.Die SARON-Hypotheken sind besondes geeignet für Kunden, die das Geschehen am Markt aktiv verfolgen und sinkende oder seitwärts tendierende Zinsen erwarten.Welche SARON-Produkte bietet UBS?Mit der UBS SARON Hypothek und der UBS SARON Flex Hypothek bietet UBS zwei unbefristete und variabel verzinste Hypothekenprodukte an. Beide bieten die Möglichkeit, sich gegen steigende Zinsen zu schützen, indem innerhalb weniger Arbeitstage ganz oder teilweise in eine mehrjährige UBS Festhypothek gewechselt werden kann. Bei der Flex-Variante hat der Kreditnehmer vier Mal pro pro Jahr die Option, den Kreditbetrag flexibel zu tilgen.
+Mehr erfahren über die UBS SARON HypothekenSie suchen eine unbefristete, flexible und marktorientierte Finanzierung für Ihre Immobilie? Dann profitieren Sie mit der UBS SARON Hypothek und der UBS SARON Flex Hypothek von besonders attraktiven Zinssätzen.Beratungstermin vereinbarenWie wechseln Sie von einer LIBOR Hypothek zu einer SARON Hypothek?Wer eine UBS LIBOR Hypothek besitzt, hat die Möglichkeit, gebührenfrei in eine UBS SARON Hypothek, UBS SARON Flex Hypothek oder in eine UBS Festhypothek zu wechseln. Per Ende 2021 müssen alle bestehenden LIBOR Hypotheken umgestellt sein. Kunden mit einer LIBOR Hypothek werden von UBS rechtzeitig informiert.Wissenswertes
+Der SARON kommt – mit ihm die SARON Hypothek
+Negativzinsen – 5 Folgen für den Immobilienmarkt
+Corona-Krise – Folgen für den Immobilienmarkt
+Auch interessant für SieZinsprognose für HypothekenZur ZinsprognoseRatgeber zu Eigenheim und FinanzierungKostenlos bestellenHypothek für Eigenheim berechnenZum Hypothekenrechner
+Kontaktieren Sie uns
+0800 002 557
+Montag bis Freitag 8.00 - 18.00 Uhr
+Rückruf vereinbaren
+Termin vereinbaren
+Holen Sie sich Expertenrat.
+Geschäftsstellen
+Besuchen Sie uns in Ihrer Nähe.Diese Website verwendet Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf unserer Website erhalten. Weitere Informationen finden Sie in der Datenschutzerklärung. Sie können die Einstellungen Ihrer Cookies in den Datenschutzeinstellungen ändern.
+Zu den Datenschutzeinstellungen
+OkayMain NavigationPrivatkunden
+Privatkunden
+Privatkunden
+Site Navigation
+Main Navigation
+Konten und Karten
+Bankpakete
+Konten
+Privatkonto
+Sparkonto
+Jugendsparkonto
+Kontokorrentkonto
+Fondskonto
+Mietkautionskonto
+Zahlungsverkehr
+Kreditkarten
+Classic Kreditkarte
+Gold Kreditkarte
+Platin Kreditkarte
+Spezial-Kreditkarten
+Prepaidkarte
+Zusatzleistungen
+Karte verwalten
+Debitkarten
+Karte verwalten
+Wissen rund ums Geld
+Ratgeber und Publikationen
+Währungsrechner
+Magazin
+Hypotheken
+Hypotheken-Ratgeber
+Eigenheim finden
+Eigenheim finanzieren
+Eigenheim unterhalten
+Hypothekenvergleich
+Festhypothek
+SARON Hypothek
+Baukredit
+Hypo Kontokorrent
+Spezialangebote
+Hypothekarzinsen
+Hypothekenrechner
+Maximaler Kaufpreisrechner
+Mieten oder Kaufen
+Wissen rund um Hypotheken
+Broschüren und Publikationen
+Magazin
+ist ausgewählt
+Ausblick Immobilienmarkt Schweiz
+Vorsorge
+Vorsorge nach Alter
+18 bis 29 Jahre
+30 bis 45 Jahre
+Über 45 Jahre
+3. Säule
+Vorsorgekonto
+Vorsorgedepot
+Maximalbetrag 2021
+Lebensversicherungen
+Formulare & Anträge
+2. Säule
+Freizügigkeitskonto
+Freizügigkeitsdepot
+Formulare & Anträge
+Vorsorgerechner
+Wissen zur Vorsorge
+3-Säulen-Prinzip
+Studien & Analysen
+Ratgeber & Publikationen
+Magazin
+Geld anlegen
+Fondskonto
+Fonds
+UBS Manage
+Wertschriftendepot
+Anlagerechner
+Liquiditätsrechner
+KeyClub
+Punkte sammeln
+Punkte einlösen
+Wettbewerbe und Aktionen
+Fragen und Antworten
+Stories
+Digital Banking
+Privatkunden
+E-Banking
+Mobile Banking
+Access App
+Safe
+UBS TWINT
+Mobile Payment
+UBS Apps
+Wealth Management
+KMU
+Sicherheit
+Magazin
+Domizil
+Back
+Bitte wählen Sie Ihr Domizil
+Europa
+Schweiz
+Globale Homepage
+Back
+Region
+Europa
+Nordamerika
+Region Asien-Pazifik
+Naher Osten & Afrika
+Lateinamerika & Karibik
+Back
+Domicile
+Dänemark
+Deutschland
+Finnland
+Frankreich
+Grossbritannien
+Island
+Italien
+Jersey
+Luxemburg
+Monaco
+Niederlande
+Norwegen
+Österreich
+Russland
+Schweden
+Schweiz
+Spanien
+Türkei
+Kanada
+Vereinigte Staaten
+Australien
+China
+Hongkong
+Indien
+Indonesien
+Japan
+Korea
+Malaysia
+Neuseeland
+Philippinen
+Singapur
+Taiwan
+Thailand
+Bahrain
+Israel
+Katar
+Libanon
+Saudi-Arabien
+Südafrika
+Vereinigte Arabische Emirate
+Bahamas
+Brasilien
+Chile
+Kolumbien
+Mexiko
+Panama
+Dänemark
+Deutschland
+Finnland
+Frankreich
+Grossbritannien
+Island
+Italien
+Jersey
+Luxemburg
+Monaco
+Niederlande
+Norwegen
+Österreich
+Russland
+Schweden
+Schweiz
+Spanien
+Türkei
+Kanada
+Vereinigte Staaten
+Australien
+China
+Hongkong
+Indien
+Indonesien
+Japan
+Korea
+Malaysia
+Neuseeland
+Philippinen
+Singapur
+Taiwan
+Thailand
+Bahrain
+Israel
+Katar
+Libanon
+Saudi-Arabien
+Südafrika
+Vereinigte Arabische Emirate
+Bahamas
+Brasilien
+Chile
+Kolumbien
+Mexiko
+Panama
+Standorte
+Kontakt
+GeschäftsstellenBancomaten / GeldautomatenHilfe: Fragen und AntwortenDigital Banking SupportHotline für PrivatkundenHotline für UnternehmenskundenTermin vereinbarenFeedback und BeschwerdenFehlverhalten meldenWeitere Kontaktadressen
+Tools & Services
+Hilfe
+Sprache
+Sprache
+de
+EnglishenDeutschdeFrançaisfrItalianoit
+Schliessen
+CloseZum SeitenanfangFooter NavigationSie sind hier: SchweizPrivatkundenHypothekenWissen rund um Hypotheken
+MagazinSARON: Was die Umstellung für die Hypotheken bedeutetHilfe
+Adresse ändern
+E-Banking Login-Probleme
+Access Card: Defekt / verloren
+Kreditkarte sperren
+V PAY / Maestro sperren
+IBAN / BIC / SWIFT-Nummer
+Alle Hilfe-Themen
+Produkte
+Konten und Karten
+Hypotheken
+Vorsorge
+Geld anlegen
+KeyClub
+Digital Banking
+Online Magazin
+Bereiche
+Privatpersonen
+Wealth Management
+Unternehmen
+Institutionelle Anleger
+Investment Bank
+Asset Management
+Über uns
+Geschäftsstellen
+Bancomaten
+Karriere
+Medien
+Investor Relations
+Information zu UBSNutzungsbedingungenDatenschutzerklärungBetrügerische E-Mails meldenRechtliche Hinweise
+Datenschutzeinstellungen
+Legal InformationDie auf dieser Website angebotenen Produkte, Dienstleistungen, Informationen und/oder Unterlagen sind Personen mit Wohnsitz in bestimmten Ländern möglicherweise nicht zugänglich. Bitte beachten Sie die geltenden Verkaufsbeschränkungen für die entsprechenden Produkte oder Dienstleistungen. © UBS 1998 - 2021. Alle Rechte vorbehalten.
