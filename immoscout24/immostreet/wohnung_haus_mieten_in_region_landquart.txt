@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/bezirk-landquart/
 Title: Wohnung & Haus mieten in Region Landquart - Immostreet.ch
-Description: Wohnung & Haus mieten in Region Landquart - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Region Landquart - Immostreet.ch: ImmoStreet.ch hat 25 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-24 Resultate gefunden ·
+25 Resultate gefunden ·
 Wohnung & Haus mieten in Region Landquart
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,127 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Bahnhofplatz 2
+2'103
+CHF
+/Monat
+grosszügige 4.5-Zimmerwohnung im Herzen…
+Bahnhofplatz 2, 7302 Landquart
+Array
+4.5 Zimmer
+117 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+117 m2
+LandquartPer 01. April 2021 oder nach Vereinbarung vermieten wir eine grosszügige 4.5-Zimmerwohnung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kantonsstrasse 68
+1'350
+CHF
+/Monat
+Im Zentrum, heimelige und grosszügige 2…
+Kantonsstrasse 68, 7205 Zizers
+Array
+2.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+100 m2
+Hallo und danke für ihr Interesse. Hier handelt es sich um eine schöne Zentrums-WHG in der Liegesch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'650
+CHF
+/Monat
+3.5 - Zimmerwohnung in Igis
+Adresse auf Anfrage, 7206 Igis
+Array
+3.5 Zimmer
+102 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+102 m2
+Etage
+Ruhig gelegene 3.5 - Zimmerwohnung im 1. OG im Winkel 6, Igis.Neben dem grosszügigen, offenen Wohnr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bovelgasse 16
+5'850
+CHF
+/Monat
+anspruchvolles Wohnhaus an einzigartige…
+Bovelgasse 16, 7304 Maienfeld
+Array
+5.5 Zimmer
+270 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+270 m2
+Nach Vereinbarung vermieten wir ein anspruchsvolles grosszügiges Einfamilienhaus auf zwei Stockwerk…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'500
+CHF
+/Monat
+RUHIGE UND ERHOLSAME LAGE
+Adresse auf Anfrage, 7307 Jenins
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Sie suchen Ruhe und Erholung vom Alltag? Dann ist dieses Objekt genau richtig für Sie! Durch die La…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'100
+CHF
+/Monat
+Ab 01.August in Zizers zu vermieten
+Adresse auf Anfrage, 7205 Zizers
+Array
+4.5 Zimmer
+115 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+115 m2
+Sehr schöne Wohnung im 1.OG zu vermieten.Grosse Terrasse , viel Licht, sehr Zentral gelegen. Schule…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Ziegelgut 11
 1'100
 CHF
@@ -244,7 +365,7 @@ Zimmer
 2.5
 Wohnfläche
 67 m2
-Wir vermieten eine attraktive, grosszügige 2.5 Zimmer-Wohnung an äusserst zentraler Lage.Die Wohnun…
+Wir vermieten eine grosszügige 2.5 Zimmer-Wohnung an äusserst zentraler Lage.Die Wohnung bietet fol…
 Teilen
 E-Mail
 Facebook
@@ -341,43 +462,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'500
-CHF
-/Monat
-RUHIGE UND ERHOLSAME LAGE
-Adresse auf Anfrage, 7307 Jenins
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Sie suchen Ruhe und Erholung vom Alltag? Dann ist dieses Objekt genau richtig für Sie! Durch die La…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'250
-CHF
-/Monat
-Nachmieter gesucht Zizers GR
-Adresse auf Anfrage, 7205 Zizers
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Nachmieter gesucht auf AUGUST. Garagenplätze für 100.- dazumieten möglich.Liegt in Zizers an der Ha…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bahnhofstrasse 56
 1'810
 CHF
@@ -418,26 +502,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'747
-CHF
-/Monat
-Moderne und helle 3.5 Zimmerwohnung in …
-Adresse auf Anfrage, 7206 Igis
-Array
-3.5 Zimmer
-97 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-97 m2
-Die moderne und helle 3.5 Zimmerwohnung im 1. Obergeschosse liegen an der Unterdorfstrasse 16 in Ig…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bahnhofstrasse 48
 2'100
 CHF
@@ -458,23 +522,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bovelgasse 12
-1'320
-CHF
-/Monat
-Schöne 3.5 Altbau-Wohnung in Maienfeld
-Bovelgasse 12, 7304 Maienfeld
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Zu Vermieten in Maienfeld per 1. Juni 21Schöne 3.5 Zimmer Altbau-Wohnung mit wunderschöner Aussicht…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Mittelweg 9
 2'290
 CHF
@@ -488,47 +535,6 @@ Wohnung, Einzelhaus
 Zimmer
 3
 Nach Gesamtsanierung zu vermieten nach Vereinbarung:Das Zweifamilienhaus liegt schön ruhig am Mitt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bovelgasse 16
-5'850
-CHF
-/Monat
-anspruchvolles Wohnhaus an einzigartige…
-Bovelgasse 16, 7304 Maienfeld
-Array
-5.5 Zimmer
-270 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-270 m2
-Nach Vereinbarung vermieten wir ein anspruchsvolles grosszügiges Einfamilienhaus auf zwei Stockwerk…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Törliweg 3
-2'300
-CHF
-/Monat
-Sonnige 4.5 Zimmerwohnung in Maienfeld
-Törliweg 3, 7304 Maienfeld
-Array
-4.5 Zimmer
-125 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-125 m2
-Etage
-Die 4.5 Wohnung in Maienfeld ist sehr zentral gelegen. Der Bahnhof, Schulen, Einkaufsmöglichkeiten …
 Teilen
 E-Mail
 Facebook

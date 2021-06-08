@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-brugg/
 Title: Wohnung kaufen in Bezirk Brugg - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Brugg - Immostreet.ch: ImmoStreet.ch hat 30 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Brugg - Immostreet.ch: ImmoStreet.ch hat 29 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-30 Resultate gefunden ·
+29 Resultate gefunden ·
 Wohnung kaufen in Bezirk Brugg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+875'000
+CHF
+SCHÖNER WOHNEN - HOCH OBEN - SONNIG ZUH…
+Adresse auf Anfrage, 5242 Birr
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Etage
+Idealer kann eine Wohnung nicht liegen.Wenn Sie von kurzen Wegen zum Einkaufen, Kindergarten, Schul…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bergackerweg 16
 860'000
 CHF
@@ -208,22 +228,6 @@ Wohnfläche
 105 m2
 Etage
 Mitten in Birr, an super Lage findet sich diese wundervolle, grosszügige Eigentumswohnung in einem …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Breiternstrasse
-Preis auf Anfrage
-Haus in Schinznach Dorf, renoviert
-Breiternstrasse, 5107 Schinznach Dorf
-Array
-6.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-6.5
-Etage
-Top Lage für Naturliebhaber!Hausteil befindet sich in Renovation. Wird demnächst zum Verkauf frei.O…
 Teilen
 E-Mail
 Facebook
@@ -436,25 +440,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Sommerhaldenstrasse 17a
-465'000
-CHF
-Schöne 4.5 Eckwohnung mit Traumaussicht…
-Sommerhaldenstrasse 17a, 5200 Brugg AG
-Array
-4.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-85 m2
-In einem ruhigen Quartier verkaufen wir eine wunderschöne 4.5 Zimmer Wohnung mit zwei Balkonen.Ihr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Nordtorweg 10
 742'500
 CHF
@@ -509,6 +494,25 @@ Zimmer
 Wohnfläche
 64 m2
 Sind Sie auf der Suche nach einem Renditeobjekt oder einem günstigen Erstwohnsitz? Dann ist dies wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+435'000
+CHF
+Eigener Garten im EG eines Zweifamilien…
+Adresse auf Anfrage, 5318 Mandach
+Array
+3 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+81 m2
+Das Zweifamilienhaus mit Gartenwohnung befindet sich im Dorfkern der 330 Seelen Gemeinde Mandach, e…
 Teilen
 E-Mail
 Facebook

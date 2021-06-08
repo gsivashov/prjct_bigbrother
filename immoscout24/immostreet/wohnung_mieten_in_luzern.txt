@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-luzern/
 Title: Wohnung mieten in Luzern - Immostreet.ch
-Description: Wohnung mieten in  Luzern - Immostreet.ch: ImmoStreet.ch hat 646 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Luzern - Immostreet.ch: ImmoStreet.ch hat 657 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-646 Resultate gefunden ·
+657 Resultate gefunden ·
 Wohnung mieten in Luzern
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,396 +131,410 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Liebenauweg 8
-1'500
-CHF
-/Monat
-Ruhig und stadtnah
-Liebenauweg 8, 6006 Luzern
-Array
-3.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-75 m2
-Sind Sie auf der Suche nach einem neuen Zuhause? Wir vermieten diese Wohnung befristet bis 31.03.20…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Burgweg 3
-1'980
-CHF
-/Monat
-Viel Wohnfläche im Eigentumsstandart
-Burgweg 3, 6014 Luzern
-Array
-4.5 Zimmer
-123 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-123 m2
-Diese lichtdurchflutete 4.5 Zimmer-Wohnung in einer ruhigen Lage steht Ihnen per 1. September 2021 …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fluhmattstrasse 2
-850
-CHF
-/Monat
-Im ruhigen und stadtnahen Bramberg Quar…
-Fluhmattstrasse 2, 6004 Luzern
-Array
-1 Zimmer
-10 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-1
-Wohnfläche
-10 m2
-Etage
-Die Wohnung wurde im Jahr 2021 renoviert und neu möbliert.gen und stadtnahen Bramberg Quartier biet…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gibraltarstrasse 28
-1'880
-CHF
-/Monat
-neu sanierte 3-Zimmer-Dachwohnung im Br…
-Gibraltarstrasse 28, 6003 Luzern
-Array
-3 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-80 m2
-Etage
-Per 1. Juni 2021 vermieten wir eine neu sanierte 3-Zimmer-Dachwohnung (ca. 80 m2) im Bruchquartier.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obergrundstrasse 28
-988
-CHF
-/Monat
-1-Zimmerwohnung in Luzern!
-Obergrundstrasse 28, 6003 Luzern
-Array
-1 Zimmer
-50 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-50 m2
-Hier pulsiert das Leben! Das Haus Obergrundstrasse 28, Luzern, liegt total zentral und bloss wenige…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sagenmattstrasse 24
-1'425
-CHF
-/Monat
-Ruhige Wohnlage am Gütschwald
-Sagenmattstrasse 24, 6003 Luzern
-Array
-2 Zimmer
-47 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-47 m2
-Wir vermieten per sofort oder nach Vereinbarung eine gemütliche 2 Zimmer-Wohnung direkt am Gütschwa…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Birkenstrasse 6
-900
-CHF
-/Monat
-WG-Zimmer im Neustadtquartier!
-Birkenstrasse 6, 6003 Luzern
-Array
-4 Zimmer
-Objekttyp
-Wohnung, Einzelzimmer
-Zimmer
-4
-Per 01.08.2021 oder nach Vereinbarung suche ich eine/n Nachmieter*in für mein wunderbares WG-Zimmer…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obergrundstrasse 107
-1'530
-CHF
-/Monat
-Gemütliche Altbauwohnung an zentraler L…
-Obergrundstrasse 107, 6005 Luzern
-Array
-3 Zimmer
-67 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-67 m2
-Hier lässt es sich wohnenDie Wohnung liegt an zentraler Lage in der Nähe von Öffentlichem Verkehr u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zürichstrasse 11
+Tribschenstrasse 26
 1'950
 CHF
 /Monat
-ZENTRALES WOHNEN IM LÖWEN CENTER
-Zürichstrasse 11, 6004 Luzern
-Array
-3.5 Zimmer
-102 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-102 m2
-Eine helle, grosszügige Stadtwohnung sehr zentral gelegen
-Eingangs zur Altstadt Luzern vermieten…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fluhmühlerain 2in
-1'620
-CHF
-/Monat
-Nachmieter sucht für 4 Zimmer Wohnung i…
-Fluhmühlerain 2in, 6015 Luzern
-Array
-4 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-75 m2
-4 Zimmer Wohnung in Luzern Suche Nachmieter ab 01._Juli.20217 Stock Mit Balkon Lift Sehr gut Aussic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Reusszopf 21
-1'400
-CHF
-/Monat
-Zweistöckige Loftwohnung mit industriel…
-Reusszopf 21, 6015 Luzern
-Array
-80 m2
-Objekttyp
-Wohnung, Loft
-Wohnfläche
-80 m2
-Zweistöckige Loftwohnung mit industriellem Touch an zentraler LageWohnung:Doppelstöckige Lo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'990
-CHF
-/Monat
-IN DER GRÜNEN OASE NÄHE ALTSTADT
-Adresse auf Anfrage, 6004 Luzern
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Die Wohnung liegt an der Mühlemattstrasse Bramberg-Quartier. Ihre Vorzüge: Die Lage ist grün und r…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obergrundstrasse 73
-2'590
-CHF
-/Monat
-Grosszügige Wohnung in der Stadtmitte
-Obergrundstrasse 73, 6003 Luzern
+Grosszügige Wohnung im Tribschenquartier
+Tribschenstrasse 26, 6005 Luzern
 Array
 4.5 Zimmer
-115 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Wohnfläche
-115 m2
-Diese helle 4-Zimmer-Wohnung befindet sich in der Nähe des Pilatusplatzes, unweit vom Herzen der St…
+Etage
+Hier lässt es sich wohnenDas Tribschenquartier überzeugt mit seiner einzigartigen zentralen Lage. R…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Haldenstrasse 5
-2'950
+Löwengraben 33
+2'140
 CHF
 /Monat
-"4.5 Zimmer Wohnung mit toller Aussicht…
-Haldenstrasse 5, 6006 Luzern
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-120 m2
-Beschreibung:
-"4.5 Zimmer Wohnung mit toller Aussicht!"
-Zu vermieten ab dem 1. Juli 2021 oder…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Büttenenhalde 56
-1'680
-CHF
-/Monat
-Wohnen mit Aussicht ins Grüne
-Büttenenhalde 56, 6006 Luzern
-Array
-3.5 Zimmer
-93 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-93 m2
-Überzeugen Sie sich selbst von der 3.5-Zimmerwohnung im 3. Obergeschoss.Die Wohnung bietet Ihnen ei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bundesplatz 4a
-1'215
-CHF
-/Monat
-Wohnen am Bundesplatz in Luzern als Zwi…
-Bundesplatz 4a, 6003 Luzern
-Array
-2 Zimmer
-47 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-47 m2
-Wir vermieten eine zentral gelegene Wohnung mit folgenden Eigenschaften:- Wohnzimmer und Schlafzimm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blattenmoosstrasse 14
-1'515
-CHF
-/Monat
-Charmante 4½-Zimmerwohnung an perfekter…
-Blattenmoosstrasse 14, 6014 Luzern
-Array
-4.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-79 m2
-Wir vermieten per 1. Oktober 2021 eine modernisierte helle 4½-Zimmerwohnung im 5. Stock mit Lift.
-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lädelistrasse 17
-1'170
-CHF
-/Monat
-2½-Zimmerwohnung in Luzern
-Lädelistrasse 17, 6003 Luzern
+Aussergewöhnliche Wohnung mitte im Zent…
+Löwengraben 33, 6004 Luzern
 Array
 2.5 Zimmer
+85 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
-Im aufstrebenden und multikulturell vielfältigen Quartier rund um den Kreuzstutz vermieten wir eine…
+Wohnfläche
+85 m2
+Suchen Sie eine Wohnung in der Altstadt in Luzern? Wenn ja, sind Sie bei uns genau richtig. Am Löwe…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Würzenbachhalde 2
-690
+Bruchstrasse 58
+1'031
 CHF
 /Monat
-tolle Singlewohnung mit Blick ins Grüne
-Würzenbachhalde 2, 6006 Luzern
+1.5-Zimmer-Studio im trendigen Bruchqua…
+Bruchstrasse 58, 6003 Luzern
 Array
-1 Zimmer
+1.5 Zimmer
 25 m2
+Objekttyp
+Wohnung, Studio
+Zimmer
+1.5
+Wohnfläche
+25 m2
+Wir vermieten per 1. September 2021 oder nach Vereinbrung ein grosszügiges und modernes 1.5-Zimmer-…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Würzenbachstr. 42
+1'650
+CHF
+/Monat
+Wohnen an ruhiger grüner Lage 4.5-ZWHG
+Würzenbachstr. 42, 6006 Luzern
+Array
+4 Zimmer
+82 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-1
+4
 Wohnfläche
-25 m2
-Hier lässt es sich wohnenDie Wohnung befindet sich an ruhiger Lage in der Würzenbachhalde, die Bush…
+82 m2
+Die ausgeschriebene 4.-Zimmerwohnung vermieten wir per Mitte November oder Anfangs Dezember 2021. D…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Würzenbachstrasse 10
-3'460
+Würzenbachmatte 29
+1'603
 CHF
 /Monat
-Leben und Wohnen im Würzenbach - exklus…
-Würzenbachstrasse 10, 6006 Luzern
+Wohnung mit Sitzplatz an ruhiger Lage
+Würzenbachmatte 29, 6006 Luzern
+Array
+3 Zimmer
+69 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+69 m2
+In unserer aus dem Jahr 2016 sanierten Überbauung an der Würzenbachmatte vermieten wir per 1. Septe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gasshof 1
+2'050
+CHF
+/Monat
+zentral - hell - grosszügig | Ihre neue…
+Gasshof 1, 6014 Luzern
+Array
+4.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+123 m2
+Hier lässt es sich wohnen....Die Überbauung Gasshof 1-3 befindet sich in der Stadt Luzern im Ortste…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kramgasse 5
+2'020
+CHF
+/Monat
+lovely apartment in old town of Luzern
+Kramgasse 5, 6004 Luzern
 Array
 3.5 Zimmer
-103 m2
+99 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-103 m2
-www.reel.ch - Glanzlichter fürs Leben!…es geht nirgends einfacher als in den frisch sanierten Wohnu…
+99 m2
+Etage
+Sie suchen eine charmante und zentral gelegene Wohnung in der Altstadt Luzern?Dann wird dieses Obje…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberseeburg 52
+2'140
+CHF
+/Monat
+Oberseeburg - Helle Wohnung mit Sicht z…
+Oberseeburg 52, 6006 Luzern
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Schöne und grosszügige Wohnung an sonniger Wohnlage sucht neuen Mieter per September 2021:
+- Hel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wesemlinstrasse 2
+1'585
+CHF
+/Monat
+Nachmitter gesucht für tolle 2,5 Zimmer…
+Wesemlinstrasse 2, 6006 Luzern
+Array
+2.5 Zimmer
+71 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+71 m2
+Nachmitter gesucht für tolle 2,5 Zimmer Wohnung an der Wesemlinstrasse 2 ab mitte Juni oder nach Ve…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hochrütistrasse 30
+800
+CHF
+/Monat
+Wohnung zu vermieten - befristet bis 31…
+Hochrütistrasse 30, 6005 Luzern
+Array
+3 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+60 m2
+Ab 16. Juli 2021 vermieten wir an zentraler Lage oberhalb der Allmend eine praktische 3-Zimmerwohnu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Löwenstrasse 5
+1'915
+CHF
+/Monat
+2.5-Zimmerwohnung im Zentrum von Luzern
+Löwenstrasse 5, 6004 Luzern
+Array
+2.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+65 m2
+Sehr geehrter Mietinteressent
+sehr geehrte Mietinteressentin
+Möchten Sie mitten im Stadtzentrum…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Baselstrasse
+1'192
+CHF
+/Monat
+Stilvoll möblierte 1.5-Zimmerwohnung
+Baselstrasse, 6003 Luzern
+Array
+1.5 Zimmer
+30 m2
+Objekttyp
+Wohnung, Studio
+Zimmer
+1.5
+Wohnfläche
+30 m2
+Dieses Studi bietet die folgende Ausstattung:
+• Küche mit Küchenausstattung
+• Bad/WC
+• Möbli…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hochrütistrasse 5
+1'395
+CHF
+/Monat
+Helle 3 Zimmerwohnung an ruhiger Lage
+Hochrütistrasse 5, 6005 Luzern
+Array
+3 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+60 m2
+3 Zimmerwohnung im 3.OG in ruhigem Quartier beim Naherholungsgebiet Allmend.
+Alle Zimmer haben Par…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Baselstrasse
+698
+CHF
+/Monat
+ONLINE BESICHTIGUNG Stilvoll möbliertes…
+Baselstrasse, 6003 Luzern
+Array
+1 Zimmer
+11 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Zimmer
+1
+Wohnfläche
+11 m2
+Die grosszügige und mit viel Geschmack eingerichtete 3-Zimmerwohnung im 3. OG bietet sich an als id…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dornacherstrasse 9
+2'290
+CHF
+/Monat
+Moderne Wohnung mit traumhafter Dachter…
+Dornacherstrasse 9, 6003 Luzern
+Array
+2.5 Zimmer
+63 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+63 m2
+Verweilen Sie wunderschöne Sonnabende auf der ca. 30m2 grossen Dachterrasse. Die Wohnung befindet s…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Voltastrasse 28
+2'580
+CHF
+/Monat
+LICHTDURCHFLUTETE WOHNUNG MIT GROSSEM B…
+Voltastrasse 28, 6005 Luzern
+Array
+4.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+97 m2
+An der Voltastrasse 28 in Luzern vermieten wir per 1. Juli 2021 oder nach Vereinbarung eine helle 4…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Baselstrasse 32
+1'260
+CHF
+/Monat
+2-Zimmer-Wohnung an zentraler Lage
+Baselstrasse 32, 6003 Luzern
+Array
+2 Zimmer
+50 m2
+Objekttyp
+Wohnung, Duplex, Maisonette
+Zimmer
+2
+Wohnfläche
+50 m2
+Etage
+Wir vermieten per sofort diese modern ausgestattete 2-Zimmer-Wohnung an der Baselstrasse 32, 6003 a…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rankhofstrasse 26
+1'523
+CHF
+/Monat
+Topmoderne Wohnung mit Aussicht (GEFA)
+Rankhofstrasse 26, 6006 Luzern
+Array
+2.5 Zimmer
+54 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+54 m2
+An der im Jahr 2017 fertig gestellten Liegenschaft Rankhofstrasse 26 vermieten wir eine lichtdurchf…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grabenstrasse 1
+2'750
+CHF
+/Monat
+Modern ausgestattete Altbauwohnung am F…
+Grabenstrasse 1, 6004 Luzern
+Array
+4.5 Zimmer
+88 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+88 m2
+Etage
+Wohnen an bester Lage in Luzerns AltstadtBalkon auf den FalkenplatzKernsa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zinggentorstrasse 1A
+3'500
+CHF
+/Monat
+5.5-Zimmerwohnung, 2. OG
+Zinggentorstrasse 1A, 6006 Luzern
+Array
+5.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+145 m2
+moderne 5.5-Zimmerwohnung an Toplage An dieser top, sehr zentraleren Lage lässt es sich wohnen. Wir…
 Teilen
 E-Mail
 Facebook

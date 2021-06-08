@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-staufen/
 Title: Wohnungen & Häuser mieten in Staufen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Staufen - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Staufen - Immostreet.ch: ImmoStreet.ch hat 21 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-20 Resultate gefunden ·
+21 Resultate gefunden ·
 Wohnungen & Häuser mieten in Staufen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Chrüzweg 26 (Haus A1 rechts)
+1'515
+CHF
+/Monat
+Hier finden Sie Ihr Wohnglück
+Chrüzweg 26 (Haus A1 rechts), 5603 Staufen
+Array
+2.5 Zimmer
+68 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+68 m2
+Per 01.07.2021 vermieten wir diese schöne und top moderne 2.5-Zimmerwohnung im 2. Stock.Die Wohnung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Chrüzweg 28 (Haus A1 links)
 1'770
 CHF
@@ -320,8 +340,8 @@ Zimmer
 3.5
 Wohnfläche
 92 m2
-Schöne neue 3.5-Zimmerwohnung mit Balkon, Waschmaschine und Tumbler im Dorfzentrum von Staufen.
-…
+Schöne neu 3.5-Zimmerwohnung mit Balkon, im Dorfzentrum von Staufen.
+Nebenan befindet sich der V…
 Teilen
 E-Mail
 Facebook
@@ -458,19 +478,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Aarauerstrasse 70
-Preis auf Anfrage
-Helle Gewerbefläche zu vermieten
-Aarauerstrasse 70, 5603 Staufen
-Array
-Objekttyp
-Verkauf, Gewerbe
-Etage
-Wir vermieten in Lenzburg/Staufen eine 2'423 m2 grosse Gewerbefläche, direkt an der Hauptverkehrsac…
-Teilen
-E-Mail
-Facebook
-Whatsapp
+Seite 1 von 2
+1
+2
+nächste Seite
 ImmoStreet.ch
 Mieten
 Immobilien mieten in der Stadt Staufen

@@ -1,6 +1,6 @@
-URL: https://www.comparis.ch/privatkredit/kredit-abloesen
-Title: Kredit ablösen und Zinskosten sparen – so geht's | comparis.ch
-Description: Einen laufenden Kredit abzulösen, kann mehrere Vorteile bieten. Prüfen Sie hier schnell und einfach, ob Sie mit einer Kreditablösung voraussichtlich Geld sparen können. 
+URL: https://www.comparis.ch/erdbebenversicherung/info/wasevv
+Title: Was ist eine Erdbebenversicherung?
+Description: Das Risiko als Schweizer Einwohner von einem starken Erdbeben betroffen zu werden ist höher als bei allen übrigen Naturgefahren.
 
 Suche
 Menü
@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -141,67 +140,41 @@ Bezahlen Sie weniger Steuern
 Vermeiden Sie Vorsorgelücken
 Sparen Sie für ein Eigenheim
 Jetzt mehr erfahren
-Kredit & Hypotheken
-Privatkredit
-Kredit ablösen
+Versicherungen
+Erdbebenversicherung
 Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseite zu gewährleisten.
-Wann ist eine Kreditablösung zu empfehlen? @Model.TitleTagString>
-Kredit ablösen
-Während der Laufzeit eines Kredits kommt es immer wieder vor, dass sich die Situation des Kreditnehmers oder die Marktbegebenheiten ändern. Bei hohen Ausgabelimiten von Kreditkarten kann sich zudem schnell ein beträchtlicher Betrag ansammeln auf den Sie, bis zur vollständigen Amortisierung, unnötig hohe Zinsen bezahlen müssen. Prüfen Sie in solchen Fällen, ob ein günstigerer Privatkredit erhältlich wäre.
-Mit dem Ablöserechner von comparis.ch erfahren Sie schnell und einfach, wie viel Geld Sie durch die Wahl eines günstigeren Kredits sparen können. Eine Ablösung ist jederzeit möglich.
-Ursprungskredit
-Ursprünglicher Kreditbetrag in CHF
-CHF 1'000
-CHF 250'000
-Momentaner Zinssatz in %
-Laufzeit in Monaten
-– Bitte wählen –
-6 Monate
-12 Monate
-18 Monate
-24 Monate
-30 Monate
-36 Monate
-42 Monate
-48 Monate
-54 Monate
-60 Monate
-66 Monate
-72 Monate
-84 Monate
-96 Monate
-108 Monate
-120 Monate
-Auszahlungsdatum des Kredits
-Bitte tragen Sie unter Laufzeit und Auszahlungsdatum des Kredites die Angaben für einen laufenden Kredit ein.
-Die Kreditvergabe ist verboten, falls sie zur Überschuldung führt (Art. 3 UWG).
-Kredit ablösen
-Restliche Kreditsumme in CHF
-Mehr Informationen
-Die restliche Kreditsumme wurde auf Basis Ihrer Angaben geschätzt. Den tatsächlichen Restbetrag erfahren Sie von Ihrer finanzierenden Bank.
-Ihr mögliches Sparpotenzial in CHF
-Mehr Informationen
-Das auf Basis Ihrer Angaben berechnete Sparpotenzial stellt kein Kreditangebot dar, sondern dient nur der Orientierung. Das Sparpotenzial wurde auf Basis eines durchschnittlichen Zinssatzes in Höhe von 5,9% berechnet. Die Ermittlung Ihres Zinssatzes erfolgt aufgrund Ihrer persönlichen Situation und kann nur durch einen Kreditantrag ermittelt werden.
-Sie haben bereits einen sehr günstigen Kredit und kein weiteres Sparpotenzial.
-Wir unterstützen Sie gerne, den Kredit zu den besten Konditionen zu erhöhen.
-Möchten Sie Ihren Kredit erhöhen?
-Gewünschter Kreditbetrag in CHF
-CHF 1'000
-CHF 120'000
-Bei einem Kreditbetrag über CHF 80'000 entfällt der Konsumentenschutz durch das Konsumkreditgesetz.
-Ja, Kredit aufstocken
-Zurücksetzen
-Jetzt persönliches Angebot anfordern
-Credaris, ein Partner-Service von comparis.ch, vergleicht alle Anbieter und sucht für Sie das beste Angebot heraus.
-Kreditkonditionen überprüfen lassen lohnt sich. Insbesondere bei einem hohen Zinssatz können sich interessante Sparpotenziale ergeben. Mit einem persönlichen und unverbindlichen Vergleichsangebot von comparis.ch sehen Sie, ob Sie Ihren gewünschten Kredit günstiger bekommen können und ob sich eine Kreditablösung lohnt. Jede Bank kennt spezifische Bedingungen für die Kreditvergabe. Bei welcher Bank und zu welchen Konditionen bzw. Zinssätzen Sie Kredit erhalten, ist abhängig von Ihrer persönlichen Situation. Platzieren Sie jetzt einen unverbindlichen Antrag und lassen Ihr effektives Sparpotenzial berechnen.
-Das Konsumkreditgesetz (KKG) regelt, dass Kreditverträge jederzeit gekündigt werden können, wenn der ausstehende Betrag frühzeitig zurückbezahlt wird. Dieselbe Regelung erlaubt, dass ein Kredit jederzeit abgelöst und an eine andere Bank übertragen werden kann. Die Banken regeln dies untereinander. Die neue Bank überweist der bisherigen den noch offenen Betrag. Aber Achtung: Die meisten Kreditanbieter verlangen für eine Kreditablösung eine Schlussrechnung der vorherigen Bank. Für diese Schlussrechnung erheben einige Kreditanbieter Gebühren.
-Fordern Sie Ihr persönliches Angebot an
-Credaris, ein Partner-Service von comparis.ch, vergleicht alle Anbieter für Sie – unverbindlich und kostenlos.
-Passendes Angebot finden
-Das könnte Sie auch interessieren:
-Kredit-Erhöhung beantragen
-Kreditrahmen berechnen
-Die Kreditvergabe ist verboten, falls sie zur Überschuldung führt (Art. 3 UWG).
+Was ist eine Erdbebenversicherung?@Model.TitleTagString>
+Die Schweiz ist zwar ein Land mit moderater Erdbebengefährdung, aber durch die dichte Besiedlung und die hohe Konzentration an Sachwerten ist das finanzielle Risiko für Eigentümer sehr hoch. Schäden durch Erdbeben sind durch die obligatorische Gebäudeversicherung nicht oder kaum gedeckt. Der grösste Teil der entstehenden Kosten muss von den Eigentümern selber getragen werden, was unter Umständen zum finanziellen Ruin desselben führen kann. Um dies zu verhindern, empfiehlt es sich, eine Erdbebenversicherung abzuschliessen.
+Was deckt die Erdbebenversicherung ab?
+Wiederherstellung des Gebäudes nach einem Erdbeben
+Aufräumungs- und Erdbewegungskosten
+Expertenkosten und Kosten für Notreparaturen
+Zusätzliche Lebenshaltungskosten
+Mietertragsausfall
+Provisorische Sofortmassnahmen
+Wer zahlt im Schadenfall?
+Schliesst man zusätzlich zur obligatorischen Gebäudeversicherung keine Erdbebenversicherung ab, stellt der „Schweizerische Pool für Erdbebendeckung“ in de 17 Kantonen mit obligatorischer Gebäudeversicherung bis zu zwei Milliarden Franken für Schäden durch Erdbeben bereit. Der Wert aller Gebäude in der Schweiz liegt jedoch bei rund 1'300 Milliarden Franken. Die Kantone Genf, Uri, Schwyz, Tessin, Appenzell Innerrhoden, Wallis und Obwalden verfügen über keine obligatorische, kantonale Gebäudeversicherung und sind somit nicht Teil dieser Erdbebenpool-Lösung. Separat geregelt ist dies im Kanton Zürich, in dem der „Erdbebenfonds der Gebäudeversicherung des Kantons Zürich“ eine Milliarde Franken bereitstellt.
+Leistungen des "Schweizerischen Pools für Erdbebendeckung" und des "Erdbebenfonds der Gebäudeversicherung des Kantons Zürich":
+Zahlungen erfolgen erst bei starken Beben ab einer Intensität von VII auf der MSK-Skala, d.h. bei mittelstarken Beben erfolgt keine Zahlung.
+Pro Gebäude besteht ein Selbstbehalt, der 10 % der Versicherungssumme und mindestens CHF 50'000 beträgt.
+Wenn der Gesamtschaden eines Erdbebens die vom Pool bereitgestellte Summe übersteigt, werden die ausbezahlten Leistungen anteilsmässig gekürzt.
+Es handelt sich hierbei um freiwillige Leistungen und nicht um echte Versicherungslösungen. Daher besteht im Schadenfall kein zwingender Leistungsanspruch.
+Beide Lösungen decken nur Schäden am Gebäude. Aufräumungskosten sowie Kosten für Expertengutachten werden nicht vergütet.
+Absicherung durch private Versicherungsanbieter
+In der Schweiz bieten verschiedene Privatversicherer spezielle Erdbebenversicherungen an:
+Axa Winterthur
+Die Mobiliar
+Generali
+GVB Privatversicherungen AG
+Helvetia
+Lloyds
+Swiss Re
+Zurich
+Folgende Punkte müssen unbedingt beachtet werden:
+Die Erdbebenversicherung wird meistens als Zusatz zur Hausrat- resp. Haushaltversicherung angeboten. Eine Ausnahme dabei bildet die GVB, dort kann unabhängig von einer bestehenden Versicherung eine Erdbebenversicherung abgeschlossen werden.
+Schäden, die durch Erdbeben an Hausrat oder Eigenheim entstehen, werden erst mit Abschluss der Zusatzversicherung gedeckt.
+Dabei spielt es keine Rolle, ob man sein Eigentum bei einer kantonalen oder privaten Gebäudeversicherung versichert hat.
+Zurück
 Newsletter
 Immer aktuell informiert über Sparmöglichkeiten sowie Experten-Tipps rund um die Themen Gesundheit, Finanzen und Steuern.
 Jetzt anmelden

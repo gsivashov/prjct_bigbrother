@@ -152,6 +152,23 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Bahnhofstrasse 3
+1'170
+CHF
+/Monat
+Möblierte 2.5 ZWH in der Nähe des Bahnh…
+Bahnhofstrasse 3, 9242 Oberuzwil
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Diese möblierte Wohnung befindet sich im 2. OG und hat einen kleinen Balkon. Die Küche ist mit eine…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Schützengartenstrasse 14b
 1'730
 CHF
@@ -249,26 +266,6 @@ Zimmer
 Wohnfläche
 68 m2
 Ihre gemütliche Familienwohnung finden Sie hier. Diese 3-Zimmer-Wohnung kann ab 1.Juli 2021 gemiete…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 8
-1'430
-CHF
-/Monat
-1 .Monat Gratis wohnen in 4.5 Zimmer Wo…
-Bahnhofstrasse 8, 9242 Oberuzwil
-Array
-4.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-85 m2
-BeschreibungWir schenken Ihnen die Nettomiete im 1. MonatBruttomiete (Monat)	CHF 1430Nebenkosten (M…
 Teilen
 E-Mail
 Facebook

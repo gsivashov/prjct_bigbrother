@@ -132,373 +132,323 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-1'890'000
+Chemin du Stand 5
+640'000
 CHF
-FB91
-Adresse auf Anfrage, 1214 Vernier
-Array
-5 Zimmer
-156 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-156 m2
-Etage
-La Perle Immobilier a le plaisir de vous présenter ce bel appartement traversant à Vernier, se trou…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'595'000
-CHF
-FB1213
-Adresse auf Anfrage, 1290 Versoix
-Array
-5.5 Zimmer
-172 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-Wohnfläche
-172 m2
-Etage
-Situé en plein cœur de Versoix, cet attique traversant, vous offre une échappée sur le Léman et le …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Wil 2
-960'000
-CHF
-Elegante 3.5 Zimmer Wohnung mit zusätzl…
-Im Wil 2, 8910 Affoltern am Albis
+Résidence Vue des Alpes - Nouvelle prom…
+Chemin du Stand 5, 1304 Cossonay-Ville
 Array
 3.5 Zimmer
-94 m2
+80 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-94 m2
-Weitere Bilder, Grundrissplan, ein Video und zusätzliche Informationen finden Sie auf www.stoehr-im…
+80 m2
+Situé à proximité du centre-ville de Cossonay ainsi que dans la limite avec la zone agricole, le bâ…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Strassenackerweg 16
-740'000
+Adresse auf Anfrage
+490'000
 CHF
-4.5 Zimmer Wohnung mit verglastem Balko…
-Strassenackerweg 16, 4442 Diepflingen
+Wohnen im Kleefeld
+Adresse auf Anfrage, 5622 Waltenschwil
 Array
-4.5 Zimmer
-133 m2
+3.5 Zimmer
+86 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+3.5
 Wohnfläche
-133 m2
-Was Sie erwartet Gepflegt, grosszügig und in gehobenem Ausbau präsentiert sich diese 4.5 Zimmer Woh…
+86 m2
+Entdecken Sie das Neubauprojekt im Kleefeld! Hier entstehen an bevorzugter und zentraler Lage 12 to…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Sägestrasse 1
-995'000
+Adresse auf Anfrage
+680'000
 CHF
-Ein Traum für Familien
-Sägestrasse 1, 8274 Tägerwilen
-Array
-5.5 Zimmer
-151 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-151 m2
-Etage
-Traumhaft ruhig und seenahFamilien mit Kindern bekommen die Vorteile einer Erdgeschosswohnung späte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sägestrasse 1
-905'000
-CHF
-Wohnen im Grünen Oberdorf
-Sägestrasse 1, 8274 Tägerwilen
+Wohnen im Kleefeld
+Adresse auf Anfrage, 5622 Waltenschwil
 Array
 4.5 Zimmer
-135 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-135 m2
-Etage
-Traumhaft ruhig und seenahDas Mehrfamilienhaus besteht aus 15 Eigentumswohnungen ? 3.5 Zi.-Wohnunge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sägestrasse 1
-1'200'000
-CHF
-Sensationelle NEUBAU Attikawohnung im g…
-Sägestrasse 1, 8274 Tägerwilen
-Array
-4.5 Zimmer
-141 m2
+119 m2
 Objekttyp
 Wohnung, Attikawohnung
 Zimmer
 4.5
 Wohnfläche
-141 m2
-Traumhaft ruhig und seenahDas Mehrfamilienhaus besteht aus 15 Eigentumswohnungen ? 3.5 Zi.-Wohnunge…
+119 m2
+Entdecken Sie das Neubauprojekt im Kleefeld! Hier entstehen an bevorzugter und zentraler Lage 12 to…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Rue de la Fiaz 1
-369'000
+Adresse auf Anfrage
+3'150'000
 CHF
-La Halte - Appartement de standing de 2…
-Rue de la Fiaz 1, 2300 La Chaux-de-Fonds
+Splendide appartement rénové au coeur d…
+Adresse auf Anfrage, 1208 Genève
+Array
+7.5 Zimmer
+166 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+7.5
+Wohnfläche
+166 m2
+Situé dans le quartier résidentiel de Champel, à deux pas des commerces et des commodités, ce super…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+3'750'000
+CHF
+Magnifique appartement traversant en re…
+Adresse auf Anfrage, 1223 Cologny
+Array
+6 Zimmer
+220 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+6
+Wohnfläche
+220 m2
+Implanté sur la commune très prisée de Cologny, ce magnifique appartement "clé en main" a l'avantag…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+cadro
+980'000
+CHF
+APPARTAMENTO 4.5 LOCALI CON PISCINA
+cadro, 6965 Cadro
+Array
+4.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+125 m2
+Il comfort caratterizza questo bellissimo appartamento in vendita a Cadro, quartiere di Lugano, sit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'600'000
+CHF
+Magnifique appartement lumineux
+Adresse auf Anfrage, 1227 Carouge GE
+Array
+5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+5
+Si vous avez un interêt, n'hésitez pas à me contacter, je pourrai vous présenter le dossier complet…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'430'000
+CHF
+Charmant triplex en attique de 155m2 à …
+Adresse auf Anfrage, 1258 Perly
+Array
+5 Zimmer
+155 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+5
+Wohnfläche
+155 m2
+Etage
+Swiss Patrimoine Immobilier vous présente ce charmant appartement lumineux de 155m2 PPE idéalement …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wülflingerstrasse 233B
+1'150'000
+CHF
+Alles andere als 0815, als Rendite oder…
+Wülflingerstrasse 233B, 8408 Winterthur
+Array
+4.5 Zimmer
+137 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+137 m2
+Etage
+LagebeschriebDie Wohnung im Stadtteil Wülflingen in Winterthur ist zentral gelegen mit hervorragend…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Viale Monte Verità, 41
+1'250'000
+CHF
+3.5 - Zimmerwohnung
+Viale Monte Verità, 41, 6612 Ascona
+Array
+3.5 Zimmer
+106 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+106 m2
+ZWEITWOHNSITZ - 3 1/2 - Zimmerwohnung an zentraler, ruhiger und sonniger Lage. 5 Gehminuten von der…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+San Vittore
+450'000
+CHF
+Nuovo elegante appartamento di 2.5 loca…
+San Vittore, 6534 S. Vittore
 Array
 2.5 Zimmer
-66 m2
+65 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-66 m2
-C'est dans un ancien bâtiment chaux-de-fonnier situé au calme d'une rue secondaire, que seront créé…
+65 m2
+A San Vittore, primo paese dei Grigioni in zona residenziale e centrale, vendiamo bellissimo appart…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Sägestrasse 1
-875'000
+Adresse auf Anfrage
+460'000
 CHF
-Diese Charmante Wohnung sucht SIE!
-Sägestrasse 1, 8274 Tägerwilen
-Array
-3.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-120 m2
-Etage
-Traumhaft ruhig und seenahFamilien mit kleinen Kindern, Besitzer von Haustieren und Senioren schätz…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sägestrasse 1
-985'000
-CHF
-Wohnen ist... den Feierabend zu geniess…
-Sägestrasse 1, 8274 Tägerwilen
+Gemütliche 4,5-Zimmerwohnung!
+Adresse auf Anfrage, 2540 Grenchen
 Array
 4.5 Zimmer
-131 m2
+95 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-131 m2
-Etage
-Traumhaft ruhig und seenahFamilien mit kleinen Kindern, Besitzer von Haustieren und Senioren schätz…
+95 m2
+An bevorzugter Lage in der Stadt Grenchen verkaufen wir eine renovierte 4.5 Zi-Wohnung. Die Wohnung…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Sägestrasse 1
-975'000
-CHF
-Schöne Garten-Wohnung in ruhigem Quarti…
-Sägestrasse 1, 8274 Tägerwilen
+auf Anfrage
+290'000
+EUR
+Schöne Maisonette-ETW mit Weitblick in …
+auf Anfrage, 79588 Efringen-Kirchen
 Array
-4.5 Zimmer
-135 m2
+3 Zimmer
+92 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Duplex, Maisonette
 Zimmer
-4.5
+3
 Wohnfläche
-135 m2
+92 m2
 Etage
-Traumhaft ruhig und seenahFamilien mit kleinen Kindern, Besitzer von Haustieren und Senioren schätz…
+Der exakte Kaufpreis beträgt 290.000,- Euro zzgl. einer Käuferprovision von 3,57 % (inkl. 19% geset…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Sägestrasse 1
-925'000
+Via Falo
+1'150'000
 CHF
-IDYLLISCH UND GROSSZÜGIG
-Sägestrasse 1, 8274 Tägerwilen
-Array
-5.5 Zimmer
-151 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-151 m2
-Etage
-Traumhaft ruhig und seenahDas Mehrfamilienhaus besteht aus 15 Eigentumswohnungen ? 3.5 Zi.-Wohnunge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sägestrasse 1
-805'000
-CHF
-Ihr neues Zuhause!
-Sägestrasse 1, 8274 Tägerwilen
+Ferienwohnung an bevorzugter Lage mit t…
+Via Falo, 6646 Contra
 Array
 3.5 Zimmer
-120 m2
+115 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-120 m2
-Etage
-Traumhaft ruhig und seenahDas Mehrfamilienhaus besteht aus 15 Eigentumswohnungen ? 3.5 Zi.-Wohnunge…
+115 m2
+Die Liegenschaft Residenza Pasturone mit Total 28 Einheiten verteilt auf 4 Häuser befindet sich in …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Sublime duplex avec jardin privatif
-Adresse auf Anfrage, 1206 Genève
-Array
-8 Zimmer
-244 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-8
-Wohnfläche
-244 m2
-Etage
-Ce magnifique duplex de 8 pièces bénéficie d'un agréable jardin privatif de 530 m2 et de deux belle…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-275'000
+Via Varrone 5
+775'000
 CHF
-Très bel appartement de village lumineu…
-Adresse auf Anfrage, 2054 Chézard-St-Martin
-Array
-2.5 Zimmer
-48 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-48 m2
-Vous êtes à la recherche d'un joli appartement abordable ?Et bien voici la perle rare!Situé dans la…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-415'000
-CHF
-Charmant appartement lumineux de 4,5 pi…
-Adresse auf Anfrage, 3976 Noës
+Appartamento moderno a Bellinzona con v…
+Via Varrone 5, 6500 Bellinzona
 Array
 4.5 Zimmer
-96 m2
+140 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-96 m2
-Vous recherchez un bien proche de toutes les commodités idéal pour une petite famille ?Ce bien est …
+140 m2
+4.5 locali di mq 140 al 2° piano in una palazzina costruita nel 2013
+Ubicato a 300 m dalla ferma…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'640'000
+590'000
 CHF
-Magnifique attique, de 3.5 pces orienté…
-Adresse auf Anfrage, 1820 Montreux
-Array
-3.5 Zimmer
-86 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-86 m2
-Situation privilégiée, vue panoramique sur le lac et les montagnes pour ce lumineux appartement de …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-250'000
-CHF
-Ihre Wohlfühloase mit fantastischer Aus…
-Adresse auf Anfrage, 3944 Unterbäch VS
-Array
-3.5 Zimmer
-82 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-82 m2
-Dieses Bijou inmitten der Walliser Berge lässt die Herzen höher schlagen. Nach einem Skitag die See…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sägestrasse 1
-915'000
-CHF
-Sonnige und ruhige Wohnlage
-Sägestrasse 1, 8274 Tägerwilen
+Interessante appartamento di 4.5 locali
+Adresse auf Anfrage, 6982 Agno
 Array
 4.5 Zimmer
-131 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Interessante appartamento di 4.5 locali Nella strategica località di Agno, in zona residenziale, pr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+720'000
+CHF
+Moderno 4.5 locali per la vostra famigl…
+Adresse auf Anfrage, 6512 Giubiasco
+Array
+4.5 Zimmer
+137 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-131 m2
-Etage
-Traumhaft ruhig und seenahDas Mehrfamilienhaus besteht aus 15 Eigentumswohnungen ? 3.5 Zi.-Wohnunge…
+137 m2
+Giubiasco, ora parte della Grande Bellinzona, è un quartiere che ha avuto un ottimo sviluppo in que…
 Teilen
 E-Mail
 Facebook
@@ -506,18 +456,56 @@ Whatsapp
 Adresse auf Anfrage
 700'000
 CHF
-TAVERNE - GRAZIOSO APPARTAMENTO - 4.5 L…
-Adresse auf Anfrage, 6807 Taverne
+Moderno 4.5 locali per la vostra famigl…
+Adresse auf Anfrage, 6512 Giubiasco
 Array
 4.5 Zimmer
-95 m2
+137 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-95 m2
-Appartamento costruito nel 2009 con giardino privato, con dispositivo rasaerba e impianto idrico, g…
+137 m2
+Giubiasco, ora parte della grande Bellinzona, è un quartiere che ha avuto un ottimo sviluppo in que…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+850'000
+CHF
+Moderno 5.5 locali per la vostra famigl…
+Adresse auf Anfrage, 6512 Giubiasco
+Array
+5.5 Zimmer
+162 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+162 m2
+Giubiasco, ora parte della Grande Bellinzona, è un quartiere che ha avuto un ottimo sviluppo in que…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'090'000
+CHF
+Sublime attique ultra-lumineux avec vue…
+Adresse auf Anfrage, 1162 St-Prex
+Array
+4.5 Zimmer
+138 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+138 m2
+Exclusivement proposé par Rockwell Properties !Situé sur la très prisée commune de St-Prex, cet att…
 Teilen
 E-Mail
 Facebook

@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -611,45 +610,45 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 VW
-(18'606)
+(18'476)
 VW T-ROC Occasion
-(401)
+(410)
 VW T-ROC Neuwagen
-(332)
+(333)
 VW T-ROC Vorführwagen
 (61)
 Aufbau
 VW T-ROC Geländewagen
-(748)
+(757)
 VW T-ROC Cabrio
-(37)
+(38)
 VW T-ROC Kombi
 (4)
 Motor
 VW T-ROC Benzin
-(731)
+(740)
 VW T-ROC Diesel
-(60)
+(61)
 Typ
 VW T-ROC
-(794)
+(804)
 Modelle
 VW Golf
-(4'920)
+(4'847)
 VW Tiguan
-(1'948)
+(1'965)
 VW Polo
-(1'835)
+(1'876)
 VW Passat
-(1'413)
+(1'412)
 VW Touran
-(911)
-VW T6
 (906)
+VW T6
+(882)
 VW Caddy
-(850)
+(811)
 VW Sharan
-(542)
+(525)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -665,6 +664,26 @@ weniger
 57 Inserate
 0 Inserate
 0 Inserate
+VW T-Roc 2.0 TSI DSG R 4Motion
+07.06.2021
+Vorführwagen
+07.2020, Automat, Benzin
+10'660 km, 301 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 44'950
+ab CHF 821 / Monat
+VW T-Roc Cabriolet 1.5 TSI EVO Advance DSG
+03.06.2021
+Vorführwagen
+03.2021, Automat, Benzin
+15 km, 150 PS, Rot
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 53'500
+ab CHF 977 / Monat
 VW T-Roc 2.0 TSI Advance DSG 4motion
 01.06.2021
 Vorführwagen
@@ -742,26 +761,6 @@ Vorführwagen
 15'500 km, 301 PS, Grau
 CHF 44'900
 ab CHF 820 / Monat
-VW T-Roc 2.0 TSI Sport DSG 4Motion
-13.05.2021
-Vorführwagen
-05.2021, Automat, Benzin
-7'500 km, 190 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 44'900
-ab CHF 820 / Monat
-VW T-Roc Cabriolet 1.5 TSI EVO R-Line DSG
-08.05.2021
-Vorführwagen
-11.2020, Automat, Benzin
-8'000 km, 150 PS, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 44'700
-ab CHF 816 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2

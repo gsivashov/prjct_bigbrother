@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-belp/
 Title: Wohnungen & Häuser mieten in Belp - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Belp - Immostreet.ch: ImmoStreet.ch hat 44 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Belp - Immostreet.ch: ImmoStreet.ch hat 45 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-44 Resultate gefunden ·
+45 Resultate gefunden ·
 Wohnungen & Häuser mieten in Belp
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,44 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Jungfraustrasse 13
+1'810
+CHF
+/Monat
+Familientraum gesucht? Wohnen Sie wie i…
+Jungfraustrasse 13, 3123 Belp
+Array
+4.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+85 m2
+Etage
+Dieser Wohntraum wartet auf Sie! Suchen Sie eine geräumige Wohnung an ruhiger Lage und mit viel Ums…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'300
+CHF
+/Monat
+3-Zimmerwohnung mit Wohnküche
+Adresse auf Anfrage, 3123 Belp
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Zu vermieten per 1.10.2021 in Kirchdorf BE, 3-Zimmerwohnung mit Kaminofen.Die Wohnung ist im Parte…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Seftigenstrasse 31
 1'210
 CHF
@@ -433,40 +471,6 @@ Wohnung, Flach
 Zimmer
 4.5
 Wir vermieten ab dem 1. Juli 2021 oder nach Vereinbarung folgende 4½-Zimmerwohnung am Engeweg 12 in…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schönmattweg 9
-1'360
-CHF
-/Monat
-3-Zimmerwohnung, Parterre links
-Schönmattweg 9, 3123 Belp
-Array
-3 Zimmer
-55 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-55 m2
-Die Liegenschaft, welche im 2017 energetisch saniert wurde, befindet sich an sonniger, zentraler La…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sägemattstrasse 14-24 Aussenparkierung
-60
-CHF
-/Monat
-Aussenabstellplatz in Belp gesucht?
-Sägemattstrasse 14-24 Aussenparkierung, 3123 Belp
-Array
-Objekttyp
-Offener Parkplatz
-Per sofort oder nach Vereinbarung vermieten wir mehrere Aussenabstellplätze an zentraler Lage:- Kur…
 Teilen
 E-Mail
 Facebook

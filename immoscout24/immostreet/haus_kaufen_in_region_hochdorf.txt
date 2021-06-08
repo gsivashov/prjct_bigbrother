@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-hochdorf/
 Title: Haus kaufen in Region Hochdorf - Immostreet.ch
-Description: Haus kaufen in Region Hochdorf - Immostreet.ch: ImmoStreet.ch hat 10 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Region Hochdorf - Immostreet.ch: ImmoStreet.ch hat 11 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-10 Resultate gefunden ·
+11 Resultate gefunden ·
 Haus kaufen in Region Hochdorf
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,44 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Sommerau 4
+1'390'000
+CHF
+Traumhaus für die Familie
+Sommerau 4, 6274 Eschenbach LU
+Array
+5.5 Zimmer
+130 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+130 m2
+Das freistehende Einfamilienhaus am östlichen Dorfrand liegt in einem bevorzugten und ruhigen Einfa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alte Kantonsstrasse 98
+1'420'000
+CHF
+Doppeleinfamilienhaus für Naturbegeiste…
+Alte Kantonsstrasse 98, 6274 Eschenbach LU
+Array
+7.5 Zimmer
+185 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+7.5
+Wohnfläche
+185 m2
+Ideal für eine grosse FamilieDieses Doppelhaus bietet viel Raum und Möglichkeiten, um Ihre eigenen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Sandblatte 3
 690'000
 CHF
@@ -173,25 +211,6 @@ Zimmer
 Wohnfläche
 150 m2
 Erfüllen Sie sich den Traum vom eigenen Einfamilienhaus mit Garten für Ihre Familie!Die geplanten E…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Cheisersponstrasse 18
-1'840'000
-CHF
-Exklusives Wohnen mit See- und Bergsicht
-Cheisersponstrasse 18, 6284 Sulz LU
-Array
-5.5 Zimmer
-175 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-175 m2
-Geniessen Sie Privatsphäre und Exklusivität am BaldeggerseeSie suchen ein grosszügiges, modernes Ha…
 Teilen
 E-Mail
 Facebook

@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -568,29 +567,29 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Saab
-(250)
+(254)
 Saab 9-3 Occasion
-(139)
+(138)
 Aufbau
 Saab 9-3 Limousine
-(58)
+(60)
 Saab 9-3 Cabrio
 (45)
 Saab 9-3 Kombi
-(34)
+(31)
 Motor
 Saab 9-3 Benzin
-(105)
+(107)
 Saab 9-3 Diesel
-(28)
+(26)
 Saab 9-3 Bioethanol
 (5)
 Typ
 Saab 9-3
-(139)
+(138)
 Modelle
 Saab 9-5
-(58)
+(63)
 Saab 900
 (32)
 Saab 9000
@@ -610,6 +609,26 @@ weniger
 37 Inserate
 0 Inserate
 0 Inserate
+SAAB 9-3 2.0i-16 TS Aero
+07.06.2021
+Occasion
+12.2003, Manuell, Benzin
+131'257 km, 205 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 11'900
+ab CHF 217 / Monat
+Saab 9-3 Cabriolet 2.0 Vector
+07.06.2021
+Occasion
+07.2007, Manuell, Benzin
+192'000 km, 150 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 9'900
+ab CHF 181 / Monat
 SAAB 9-3 2.0i-16 Turbo SE
 03.06.2021
 Occasion
@@ -631,16 +650,7 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 11'500
 ab CHF 210 / Monat
-SAAB 9-3 1.9 TTiD Aero Automatic
-27.05.2021
-Occasion
-02.2008, Automat, Diesel
-165'000 km, 180 PS, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 12'000
-ab CHF 219 / Monat
+Preisreduktion
 SAAB 9-3 2.0i-16 TS Aero
 26.05.2021
 Occasion
@@ -649,8 +659,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 6'000
-ab CHF 110 / Monat
+CHF 5'200
+ab CHF 95 / Monat
 SAAB 9-3 2.0i-16 TS SE
 23.05.2021
 Occasion
@@ -704,16 +714,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 6'500
 ab CHF 119 / Monat
-SAAB 9-3 2.0i-16 LPT SE
-07.05.2021
-Occasion
-06.1999, Manuell, Benzin
-109'100 km, 154 PS, Blau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 7'900
-ab CHF 144 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2

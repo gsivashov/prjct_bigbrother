@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -147,37 +146,37 @@ Alle Automarken
 Jaguar
 Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseite zu gewährleisten.
 Jaguar Automarkt Schweiz
-1'487 Occasionen
-451 Neuwagen
-115 Vorführwagen
-Jaguar S-Type - 53 Inserate im Automarkt - Ab CHF 1'700
-Jaguar XK - 116 Inserate im Automarkt - Ab CHF 7'700
+1'491 Occasionen
+448 Neuwagen
+113 Vorführwagen
+Jaguar S-Type - 52 Inserate im Automarkt - Ab CHF 1'700
+Jaguar XK - 113 Inserate im Automarkt - Ab CHF 7'300
 Jaguar XJ-S - 25 Inserate im Automarkt - Ab CHF 12'800
 Jaguar Concept - 0 Inserate im Automarkt - Ab CHF 0
-Jaguar X-Type - 71 Inserate im Automarkt - Ab CHF 500
-Jaguar XJR - 21 Inserate im Automarkt - Ab CHF 8'500
+Jaguar X-Type - 66 Inserate im Automarkt - Ab CHF 799
+Jaguar XJR - 20 Inserate im Automarkt - Ab CHF 8'500
 Jaguar Modelle
-Jaguar XF - 214 Inserate anzeigen
+Jaguar XF - 218 Inserate anzeigen
+JAGUAR XF 3.0d V6 Luxury
+Occasion
+06.2011
+220'000 km
+240 PS
+Mehr
+5.5
+CHF
+5'900
+05.06.2021
 Jaguar XF 3.0d V6 Prem. Luxury
 Occasion
 08.2011
 111'600 km
 241 PS
 Mehr
-5.0
+5.5
 CHF
-10'900
+9'500
 30.05.2021
-JAGUAR XF 3.0d V6 Prem. Luxury
-Occasion
-08.2011
-111'600 km
-240 PS
-Mehr
-5.0
-CHF
-10'900
-25.05.2021
 JAGUAR XF 3.0d V6 Portfolio
 Occasion
 04.2013
@@ -188,7 +187,7 @@ Mehr
 CHF
 14'900
 04.05.2021
-Jaguar XK - 116 Inserate anzeigen
+Jaguar XK - 113 Inserate anzeigen
 JAGUAR XKR 100 S/C Convertible
 Occasion
 03.2002
@@ -230,7 +229,7 @@ Mehr
 CHF
 22'500
 19.05.2020
-Jaguar XJ - 143 Inserate anzeigen
+Jaguar XJ - 145 Inserate anzeigen
 JAGUAR XJ 3.0d V6 Luxury Automatic
 Occasion
 06.2010
@@ -261,17 +260,27 @@ Mehr
 CHF
 9'900
 08.12.2020
-Jaguar X-Type - 71 Inserate anzeigen
-JAGUAR X-Type 2.5 V6 Traction4 Executive
+Jaguar X-Type - 66 Inserate anzeigen
+JAGUAR X-Type Estate 3.0 V6 Executive
 Occasion
-11.2001
-172'000 km
+03.2004
+204'000 km
+231 PS
+Mehr
+6.0
+CHF
+1'350
+08.06.2021
+JAGUAR X-Type Estate 2.5 V6 Traction4 Classic
+Occasion
+05.2006
+212'830 km
 196 PS
 Mehr
 6.0
 CHF
-900
-12.05.2021
+1'490
+08.06.2021
 JAGUAR X-Type 2.5 V6 Traction4 Executive
 Occasion
 02.2002
@@ -282,17 +291,17 @@ Mehr
 CHF
 1'700
 05.05.2021
-JAGUAR X-Type 3.0 V6 Traction4 Sovereign Automatic
+Jaguar F-Type - 186 Inserate anzeigen
+JAGUAR F-Type Coupé R 5.0 V8 S/C
 Occasion
-02.2009
-131'000 km
-231 PS
+03.2016
+67'500 km
+551 PS
 Mehr
-5.5
+5.0
 CHF
-6'900
-17.04.2021
-Jaguar F-Type - 190 Inserate anzeigen
+53'000
+14.05.2021
 JAGUAR F-Type Coupé 5.0 V8 First Edition
 Neuwagen
 Neuwagen
@@ -303,7 +312,7 @@ Mehr
 CHF
 99'990
 12.10.2020
-Jaguar XE - 99 Inserate anzeigen
+Jaguar XE - 102 Inserate anzeigen
 Jaguar XE
 Occasion
 04.2016
@@ -314,7 +323,17 @@ Mehr
 CHF
 19'500
 04.09.2020
-Jaguar F-Pace - 382 Inserate anzeigen
+Jaguar F-Pace - 383 Inserate anzeigen
+JAGUAR F-Pace 3.0 V6 S AWD Automatik
+Occasion
+09.2017
+175'000 km
+380 PS
+Mehr
+6.0
+CHF
+23'500
+07.06.2021
 JAGUAR F-Pace 5.0 V8 SVR AWD
 Vorführwagen
 06.2021
@@ -327,24 +346,14 @@ CHF
 JAGUAR F-Pace 5.0 V8 SVR AWD
 Vorführwagen
 12.2020
-2'000 km
+2'800 km
 550 PS
 Mehr
 5.0
 CHF
 89'900
 01.06.2021
-Jaguar F-Pace 2.0d Prestige AWD Automatik
-Occasion
-10.2016
-146'000 km
-180 PS
-Mehr
-6.0
-CHF
-16'500
-30.05.2021
-Jaguar I-Pace - 202 Inserate anzeigen
+Jaguar I-Pace - 206 Inserate anzeigen
 Jaguar I-Pace EV400 HSE AWD
 Occasion
 03.2021
@@ -375,7 +384,7 @@ Mehr
 CHF
 79'900
 07.05.2021
-Jaguar E-Pace - 506 Inserate anzeigen
+Jaguar E-Pace - 505 Inserate anzeigen
 JAGUAR E-PACE 2.0 P250 S AWD AUTOMATIK*PANORAMADACH*8FACH BEREIFT*
 Occasion
 01.2018
@@ -396,7 +405,7 @@ Mehr
 CHF
 45'900
 26.04.2021
-JAGUAR E-Pace 2.0 P200 S AWD Automatik
+Jaguar E-Pace 2.0 P200 S AWD Automatik
 Occasion
 03.2020
 12'200 km
@@ -404,7 +413,7 @@ Occasion
 Mehr
 5.0
 CHF
-37'300
+35'900
 20.03.2021
 comparis.ch
 Über Comparis

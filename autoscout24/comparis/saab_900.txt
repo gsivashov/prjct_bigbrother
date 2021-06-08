@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -568,14 +567,14 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Saab
-(249)
+(254)
 Saab 900 Occasion
 (31)
 Aufbau
 Saab 900 Cabrio
-(17)
+(18)
 Saab 900 Limousine
-(15)
+(14)
 Motor
 Saab 900 Benzin
 (32)
@@ -586,7 +585,7 @@ Modelle
 Saab 9-3
 (138)
 Saab 9-5
-(58)
+(63)
 Saab 9000
 (13)
 CAR FOR YOU wird durchsucht ...
@@ -653,16 +652,6 @@ Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 1'999
-SAAB 900 S 16V Turbo
-04.05.2021
-Occasion
-10.1992, Manuell, Benzin
-198'000 km, 141 PS, Grün
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 12'800
-ab CHF 234 / Monat
 Saab 900 Cabriolet T KAT 16S Turbo Aero
 27.04.2021
 Occasion
@@ -704,6 +693,16 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 7'900
 ab CHF 144 / Monat
+Preisreduktion
+SAAB 900i 2.1-16
+20.03.2021
+Occasion
+11.1990, Manuell, Benzin
+145'231 km, 136 PS, Rot
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 3'500
 vorherige Seite
 Sie befinden sich auf Seite1
 2

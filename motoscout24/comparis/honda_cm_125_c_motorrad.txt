@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -1150,69 +1149,69 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Honda
-(2'895)
+(2'922)
 Honda Occasion
-(1'551)
+(1'578)
 Honda Neu
-(1'122)
+(1'124)
 Honda Oldtimer
-(126)
+(127)
 Honda Vorführmodell
-(96)
+(93)
 Aufbau
 Honda Strasse
-(1'232)
+(1'257)
 Honda Roller
-(759)
+(763)
 Honda Gelände / Enduro
-(409)
+(401)
 Honda Chopper
-(177)
+(174)
 Honda
 Modelle
 Honda CB 1000 R ABS
-(84)
-Honda CB 1100 A ABS
-(23)
+(87)
 Honda CB 125 R
-(27)
+(26)
+Honda CB 500 F ABS
+(25)
 Honda CB 500 FA ABS
-(24)
+(23)
 Honda CB 650 R ABS
-(41)
+(43)
 Honda CBR 1000 RR-R
-(24)
+(25)
 Honda CBR 1000 RR-R SP
-(31)
+(34)
 Honda CMX500 Rebel ABS
 (24)
 Honda CRF 1000A
 Africa Twin
-(30)
+(29)
 Honda CRF 1100L Africa Twin
-(56)
+(55)
 Honda CRF 1100L DCT Africa Twin
-(42)
+(40)
 Honda MSX 125 ABS
-(26)
+(27)
 Honda NC 750 S ABS
-(24)
+(26)
 Honda NC 750 XA ABS
-(28)
+(26)
 Honda Nss 125 Forza ABS
-(57)
+(58)
 Honda NSS 300 Forza ABS
 (34)
 Honda PCX 125 i ABS
 (27)
 Honda SH 125 i Mode
-(74)
+(73)
 Honda SH 300 i ABS
-(28)
+(32)
 Honda X-ADV 750 ABS
-(65)
+(66)
 Weitere Modelle
-(2'895)
+(2'922)
 Honda CM 125 C
 Alle Details
 Inserat vom 31.05.2021
@@ -1245,9 +1244,9 @@ Occasion
 25'200 km
 124 ccm
 Preis
-CHF 2'950.-
+CHF 2'750.-
 Alle Details
-CHF 2'950.-
+CHF 2'750.-
 Alle Details
 Honda CM 125 C
 Alle Details

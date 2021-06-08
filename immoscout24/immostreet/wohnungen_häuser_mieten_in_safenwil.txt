@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-safenwil/
 Title: Wohnungen & Häuser mieten in Safenwil - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Safenwil - Immostreet.ch: ImmoStreet.ch hat 28 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Safenwil - Immostreet.ch: ImmoStreet.ch hat 26 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-28 Resultate gefunden ·
+26 Resultate gefunden ·
 Wohnungen & Häuser mieten in Safenwil
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,26 @@ Zimmer
 Wohnfläche
 102 m2
 Gemütliche 4.5-Zimmer-Wohnung im 1. OGDie Preiswerte, schöne und teilrenovierte Wohnung liegt in ei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brühlstrasse 21
+1'280
+CHF
+/Monat
+Attraktive 3.5-Zimmer-Wohnung mit gross…
+Brühlstrasse 21, 5745 Safenwil
+Array
+3.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+77 m2
+Preiswerte Wohnung mit sonnigem, grossem Balkon, Rundbogen, Parkett-Bodenbelägen, Einbauschränken u…
 Teilen
 E-Mail
 Facebook
@@ -179,46 +199,6 @@ Wohnfläche
 73 m2
 Etage
 WILLKOMMEN ZUR ÜBERBAUUNG IM PÄRKLI IN SAFENWILWir vermieten per 1. Juli 2021 diese zauberhafte 3.5…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Walterswilerstrasse 1c
-1'790
-CHF
-/Monat
-Luxuriöse schöne 4.5-Zimmer Wohnung im …
-Walterswilerstrasse 1c, 5745 Safenwil
-Array
-4.5 Zimmer
-119 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-119 m2
-Schöne exklusive 4.5-Zimmer WohnungSehr hochwertiger Ausbau mit folgenden Highlights:Bad / …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brühlstrasse 21
-1'280
-CHF
-/Monat
-Attraktive 3.5-Zimmer-Wohnung mit gross…
-Brühlstrasse 21, 5745 Safenwil
-Array
-3.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-77 m2
-Preiswerte Wohnung mit sonnigem, grossem Balkon, Rundbogen, Parkett-Bodenbelägen, Einbauschränken u…
 Teilen
 E-Mail
 Facebook
@@ -300,7 +280,7 @@ E-Mail
 Facebook
 Whatsapp
 Hintergasse 7
-1'700
+1'500
 CHF
 /Monat
 4 Zimmer Parterre Wohnung in 2 Familien…
@@ -500,6 +480,26 @@ Wohnfläche
 59 m2
 Etage
 DAS FINANZIELLE - Nettomietzins CHF 1130.00- Nebenkosten CHF 200.00- Garage CHF 120.00 DAS WICHTIG…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eienstrasse 8
+1'300
+CHF
+/Monat
+Eine Dachwohnung zum Verlieben!
+Eienstrasse 8, 5745 Safenwil
+Array
+2.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+2.5
+Wohnfläche
+65 m2
+An ländlicher und ruhiger Lage vermieten wir in Safenwil eine moderne, geräumige und helle 2.5 Zimm…
 Teilen
 E-Mail
 Facebook

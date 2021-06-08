@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -587,7 +586,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Mazda
-(4'331)
+(4'297)
 Mazda 323 Occasion
 (22)
 Aufbau
@@ -601,21 +600,21 @@ Mazda 323
 (25)
 Modelle
 Mazda CX-5
-(828)
+(817)
 Mazda CX-30
-(748)
+(735)
 Mazda 2
-(719)
+(720)
 Mazda 3
-(634)
-Mazda CX-3
-(329)
+(635)
 Mazda 6
+(327)
+Mazda CX-3
 (326)
 Mazda 5
-(212)
+(211)
 Mazda MX-5
-(194)
+(195)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -626,11 +625,21 @@ drive-in.ch wird durchsucht ...
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
-6 Inserate
+5 Inserate
 0 Inserate
-16 Inserate
+17 Inserate
 0 Inserate
 0 Inserate
+MAZDA 323 F 2.0i-16V
+4.5
+07.06.2021
+Occasion
+03.2003, Manuell, Benzin
+187'480 km, 130 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 900
 MAZDA 323 F 1.6i-16V
 31.05.2021
 Occasion
@@ -640,16 +649,6 @@ Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 4'990
-Mazda 323 P 1.5i-16V GLX
-2.5
-30.05.2021
-Occasion
-12.1999, Automat, Benzin
-92'000 km, 88 PS, Grün
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 1'500
 Mazda 323 F 2.0i-16V GT-R
 30.05.2021
 Occasion

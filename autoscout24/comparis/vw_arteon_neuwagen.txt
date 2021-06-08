@@ -1,6 +1,6 @@
 URL: https://www.comparis.ch/carfinder/marktplatz/vw/arteon/neuwagen
 Title: VW Arteon Neuwagen – Preise vergleichen mit Comparis
-Description: Finden Sie unter 60 VW Arteon Neuwagen Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
+Description: Finden Sie unter 56 VW Arteon Neuwagen Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
 Suche
 Menü
@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -611,69 +610,69 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 VW
-(18'626)
-VW Arteon Occasion
-(60)
+(18'473)
 VW Arteon Neuwagen
-(60)
+(56)
+VW Arteon Occasion
+(54)
 VW Arteon Vorführwagen
-(47)
+(46)
 Aufbau
 VW Arteon Kombi
-(102)
+(101)
 VW Arteon Limousine
-(65)
+(55)
 Motor
 VW Arteon Benzin
-(136)
+(128)
 VW Arteon Diesel
-(28)
+(25)
 Typ
 VW Arteon
-(167)
+(156)
 Modelle
 VW Golf
-(4'915)
+(4'845)
 VW Tiguan
-(1'951)
+(1'965)
 VW Polo
-(1'840)
+(1'875)
 VW Passat
-(1'418)
+(1'414)
 VW Touran
-(911)
+(907)
 VW T6
-(911)
+(881)
 VW Caddy
-(849)
+(811)
 VW T-ROC
-(795)
+(804)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
 Carweb wird durchsucht ...
 drive-in.ch wird durchsucht ...
-60 Treffer auf allen grossen Schweizer Auto-Portalen
-60 Treffer auf allen Portalen
+56 Treffer auf allen grossen Schweizer Auto-Portalen
+56 Treffer auf allen Portalen
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
-17 Inserate
+15 Inserate
 0 Inserate
-43 Inserate
+41 Inserate
 0 Inserate
 0 Inserate
 VW Arteon SB 2.0 TSI R-Line 4Motion DSG
 2.5
-01.06.2021
+07.06.2021
 Neuwagen
 Automat, Benzin
-20 km, 272 PS, Silber
+50 km, 272 PS, Schwarz
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 75'000
-ab CHF 1'370 / Monat
+CHF 75'210
+ab CHF 1'374 / Monat
 Preisreduktion
 VW Arteon SB 2.0 TSI R-Line 4Motion DSG
 3.5
@@ -686,16 +685,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 67'700
 ab CHF 1'236 / Monat
-VW Arteon SB 2.0 TDI R-Line 4Motion DSG
-30.05.2021
-Neuwagen
-Automat, Diesel
-1 km, 200 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 46'800
-ab CHF 855 / Monat
 VW Arteon SB 2.0 TDI R-Line 4Motion DSG
 28.05.2021
 Neuwagen
@@ -718,9 +707,9 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 81'815
 ab CHF 1'494 / Monat
-Preiserhöhung
+Preisreduktion
 VW Arteon Shooting Brake 2.0 TSI R DSG 4m
-2.0
+2.5
 08.05.2021
 Neuwagen
 Automat, Benzin
@@ -728,8 +717,8 @@ Automat, Benzin
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 82'850
-ab CHF 1'513 / Monat
+CHF 81'950
+ab CHF 1'497 / Monat
 VW Arteon SB 2.0 TSI R-Line 4Motion DSG
 4.5
 05.05.2021
@@ -741,9 +730,9 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 64'900
 ab CHF 1'185 / Monat
-Preiserhöhung
+Preisreduktion
 VW Arteon Shooting Brake 2.0 TSI R DSG 4m
-2.0
+2.5
 30.04.2021
 Neuwagen
 Automat, Benzin
@@ -751,8 +740,8 @@ Automat, Benzin
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 82'850
-ab CHF 1'513 / Monat
+CHF 81'950
+ab CHF 1'497 / Monat
 Preiserhöhung
 VW Arteon SB 2.0 TSI R-Line 4Motion DSG
 2.5
@@ -777,6 +766,18 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 82'490
 ab CHF 1'507 / Monat
+Preiserhöhung
+VW Arteon SB 2.0 TSI R 4Motion DSG
+2.0
+27.04.2021
+Neuwagen
+Automat, Benzin
+10 km, 320 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 87'745
+ab CHF 1'603 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2

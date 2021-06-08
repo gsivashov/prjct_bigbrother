@@ -124,6 +124,44 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Allmendstrasse 8a
+2'110
+CHF
+/Monat
+modernes Familienglück!
+Allmendstrasse 8a, 3210 Kerzers
+Array
+4.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+80 m2
+Etage
+Wir vermieten per sofort oder nach Vereinbarung diese moderne und geräumige 4.5-Zimmerwohnung im 1.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Allmendstrasse 6a
+2'120
+CHF
+/Monat
+Wohnglück für die ganze Familie
+Allmendstrasse 6a, 3210 Kerzers
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wir vermieten per sofort oder nach Vereinbarung diese moderne und geräumige 4.5-Zimmer-Wohnung im 1…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Oelegasse 60
 1'480
 CHF
@@ -182,44 +220,6 @@ Zimmer
 Wohnfläche
 96 m2
 Falls Sie eine Aussicht ins Grüne in gepflegter Umgebung geniessen möchten, ist diese geräumige Woh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Allmendstrasse 8a
-2'110
-CHF
-/Monat
-modernes Familienglück!
-Allmendstrasse 8a, 3210 Kerzers
-Array
-4.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-80 m2
-Etage
-Wir vermieten per sofort oder nach Vereinbarung diese moderne und geräumige 4.5-Zimmerwohnung im 1.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Allmendstrasse 6a
-2'120
-CHF
-/Monat
-helle und familienfreundliche Wohnung
-Allmendstrasse 6a, 3210 Kerzers
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wir vermieten per sofort oder nach Vereinbarung diese moderne und geräumige 4.5-Zimmer-Wohnung im 1…
 Teilen
 E-Mail
 Facebook

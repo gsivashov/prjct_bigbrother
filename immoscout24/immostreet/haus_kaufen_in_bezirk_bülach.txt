@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-buelach/
 Title: Haus kaufen in Bezirk Bülach - Immostreet.ch
-Description: Haus kaufen in Bezirk Bülach - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Bülach - Immostreet.ch: ImmoStreet.ch hat 29 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-32 Resultate gefunden ·
+29 Resultate gefunden ·
 Haus kaufen in Bezirk Bülach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,22 +138,59 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Rietgass 8
-995'000
+Adresse auf Anfrage
+1'150'000
 CHF
-SONNIGE, HOCHWERTIGE WOHNUNG MIT UNTERS…
-Rietgass 8, 8197 Rafz
+Charmantes Wohnen Nähe Rhein
+Adresse auf Anfrage, 8193 Eglisau
 Array
-3.5 Zimmer
-152 m2
+5.5 Zimmer
+142 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Reihenfamilienhaus
 Zimmer
-3.5
+5.5
 Wohnfläche
-152 m2
-DAS OBJEKT
-Wem sein Herz für Qualität und gute Handwerkskunst schlägt, wird hier auf seine Koste…
+142 m2
+Diese äusserst durchdachte Immobilie mit vier Einheiten wurde 1991 erstellt und präsentiert sich he…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Leestrasse
+3'250'000
+CHF
+Modernes Einfamilienhaus mit traumhafte…
+Leestrasse, 8193 Eglisau
+Array
+5.5 Zimmer
+273 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+5.5
+Wohnfläche
+273 m2
+Dieses exklusive Einfamilienhaus wird Sie begeistern. Hier nur einige Punkte was dieses Einfamilien…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Leestrasse
+2'620'000
+CHF
+Modernes Einfamilienhaus mit traumhafte…
+Leestrasse, 8193 Eglisau
+Array
+6.5 Zimmer
+214 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+6.5
+Wohnfläche
+214 m2
+Dieses exklusive Einfamilienhaus wird Sie begeistern. Hier nur einige Punkte was dieses Einfamilien…
 Teilen
 E-Mail
 Facebook
@@ -175,41 +212,41 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Langackerstrasse 9
-1'420'000
+Eigenstrasse 18c
+850'000
 CHF
-Letzte Chance - Modernes und stilvolles…
-Langackerstrasse 9, 8424 Embrach
+geräumig - sonnig - gut unterhalten
+Eigenstrasse 18c, 8193 Eglisau
 Array
-6.5 Zimmer
-157 m2
+5 Zimmer
+130 m2
 Objekttyp
 Wohnung, Reihenfamilienhaus
 Zimmer
-6.5
+5
 Wohnfläche
-157 m2
-Das ist Ihre Chance - letztes Haus Nr. 3 im Angebot."Sicuro" - das Synonym für Sicher, Sicherheit u…
+130 m2
+Das 5-Zimmer-Reiheneinfamilienhaus besticht durch seine geräumige Aufteilung, die sonnige Lage sowi…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'295'000
+Rietgass 8
+995'000
 CHF
-6.5 Zimmer Reihenmittelhaus mit exklusi…
-Adresse auf Anfrage, 8302 Kloten
+SONNIGE, HOCHWERTIGE WOHNUNG MIT UNTERS…
+Rietgass 8, 8197 Rafz
 Array
-6.5 Zimmer
-162 m2
+3.5 Zimmer
+152 m2
 Objekttyp
-Wohnung, Reihenfamilienhaus
+Wohnung, Einzelhaus
 Zimmer
-6.5
+3.5
 Wohnfläche
-162 m2
-Etage
-In Kloten, in einem gepflegten Wohnquartier steht das dreigeschossige, gut erhaltene Reihenmittelha…
+152 m2
+DAS OBJEKT
+Wem sein Herz für Qualität und gute Handwerkskunst schlägt, wird hier auf seine Koste…
 Teilen
 E-Mail
 Facebook
@@ -249,26 +286,6 @@ Wohnfläche
 148 m2
 Etage
 In der steuergünstigen Gemeinde Nürensdorf verkaufen wir dieses charmante, nach südwesten ausgerich…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rheinsfelderstrasse 24
-1'345'000
-CHF
-Stilvolles Unikat: Erhabenes Einfamilie…
-Rheinsfelderstrasse 24, 8193 Eglisau
-Array
-5 Zimmer
-180 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5
-Wohnfläche
-180 m2
-Etage
-Exklusives 5 Zimmer Einfamilienhaus. Denkmalgeschützt, 2016 totalsaniert, hochwertiger Innenausbau,…
 Teilen
 E-Mail
 Facebook
@@ -366,25 +383,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Grätzlistrasse 57
-2'090'000
-CHF
-Top Einfamilienhaus nahe Wald & mit gro…
-Grätzlistrasse 57, 8152 Opfikon
-Array
-6.5 Zimmer
-188 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-188 m2
-Das wunderschöne 6.5-Zimmer-Einfamilienhaus befindet sich an sehr ruhiger Lage direkt an der Landwi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Junkergasse 8
 1'690'000
 CHF
@@ -444,7 +442,7 @@ E-Mail
 Facebook
 Whatsapp
 Oberdorfstrasse 242
-850'000
+790'000
 CHF
 AgentSelly - Gefunden: Das Haus mit dem…
 Oberdorfstrasse 242, 8195 Wasterkingen

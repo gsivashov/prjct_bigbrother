@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-bad-ragaz/
 Title: Wohnung & Haus mieten in Bad Ragaz - Immostreet.ch
-Description: Wohnung & Haus mieten in  Bad Ragaz - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Bad Ragaz - Immostreet.ch: ImmoStreet.ch hat 17 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-20 Resultate gefunden ·
+17 Resultate gefunden ·
 Wohnung & Haus mieten in Bad Ragaz
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,27 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+1'610
+CHF
+/Monat
+4,5 Zimmerwohnung in Bad Ragaz
+Adresse auf Anfrage, 7310 Bad Ragaz
+Array
+4.5 Zimmer
+84 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+84 m2
+Etage
+Schöne, helle 4.5 Zimmer Wohnung an ruhiger Lage nähe Zentrum (5 min)Badezimmer/WC…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Valenserstrasse 5a
 1'445
 CHF
@@ -168,23 +189,6 @@ Zimmer
 Wohnfläche
 63 m2
 Die 2011 erstellte Überbauung liegt mitten im Zentrum von Bad Ragaz an bester Lage. Diese helle und…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Maienfelderstrasse 2
-825
-CHF
-/Monat
-1 1/2-Zimmerwohnung mit Terrasse im Dor…
-Maienfelderstrasse 2, 7310 Bad Ragaz
-Array
-1.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Die zu vermietende Wohnung befindet sich im Haus "JULIA" im Dorfzentrum von Bad Ragaz. Die Vermietu…
 Teilen
 E-Mail
 Facebook
@@ -225,47 +229,6 @@ Zimmer
 Wohnfläche
 62 m2
 Wir vermieten per sofort oder nach Vereinbarung an der Pizolstrasse 21a eine 3 Zimmer-Wohnung im 1.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 29
-1'800
-CHF
-/Monat
-Moderne 3.5 Zimmerwohnung an sonniger L…
-Bahnhofstrasse 29, 7310 Bad Ragaz
-Array
-3.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-88 m2
-Etage
-Moderne 3.5 Zimmerwohnung Wohnung an zentraler Lage in Bad Ragaz. Die Wohnung eignet sich als Haupt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 38
-1'500
-CHF
-/Monat
-ZENTRAL UND GROSSZÜGIG
-Bahnhofstrasse 38, 7310 Bad Ragaz
-Array
-2.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-77 m2
-Diese zentral gelegene 2.5-Zimmer-Dachwohnung punktet mit grosszügigem Grundriss und ist perfekt ge…
 Teilen
 E-Mail
 Facebook
@@ -382,26 +345,6 @@ Zimmer
 Wohnfläche
 57 m2
 Bartholoméplatz - ein Standort am Puls. Das Mietobjekt befindet sich im Zentrum von Bad Ragaz. Der …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Calandastrasse 13
-1'250
-CHF
-/Monat
-sanierte 2.5-Zimmer-Wohnung an ruhiger …
-Calandastrasse 13, 7310 Bad Ragaz
-Array
-2.5 Zimmer
-42 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-42 m2
-An ruhiger und dennoch zentraler Lage steht diese sanierte 2.5-Zimmer-Wohnung zur Vermietung. Bei d…
 Teilen
 E-Mail
 Facebook

@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -147,14 +146,14 @@ Alle Automarken
 Aston Martin
 Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseite zu gewährleisten.
 Aston Martin Automarkt Schweiz
-269 Occasionen
-29 Neuwagen
+271 Occasionen
+28 Neuwagen
 13 Vorführwagen
 Aston Martin Lagonda - 0 Inserate im Automarkt - Ab CHF 0
 Aston Martin Virage - 11 Inserate im Automarkt - Ab CHF 68'800
 Aston Martin DB 9 - 34 Inserate im Automarkt - Ab CHF 39'900
 Aston Martin DB 7 - 19 Inserate im Automarkt - Ab CHF 25'900
-Aston Martin Rapide - 21 Inserate im Automarkt - Ab CHF 39'900
+Aston Martin Rapide - 20 Inserate im Automarkt - Ab CHF 39'900
 Aston Martin Cygnet - 4 Inserate im Automarkt - Ab CHF 35'007
 Mein Name ist Martin. Aston Martin.
 Mondäner Weggefährte von James Bond und Luxus-Autotraum nicht nur für Actionfans: Der DB10 aus «Spectre», kürzlich für umgerechnet drei Millionen Franken versteigert, muss wohl Traum bleiben – aber der britische Sportwagenhersteller baut zum Glück auch Serienmodelle.
@@ -205,7 +204,17 @@ Mehr
 CHF
 89'700
 01.02.2021
-Aston Martin V8 Vantage - 61 Inserate anzeigen
+Aston Martin V8 Vantage - 63 Inserate anzeigen
+ASTON MARTIN V8 Vantage 4.7 S Sportshift
+Occasion
+04.2017
+27'500 km
+437 PS
+Mehr
+5.0
+CHF
+76'899
+04.06.2021
 ASTON MARTIN V8 Vantage Coupé 4.7 S Sportshift
 Occasion
 03.2017
@@ -226,16 +235,6 @@ Mehr
 CHF
 79'900
 19.02.2021
-ASTON MARTIN V8 Vantage 4.7 S
-Occasion
-12.2016
-9'450 km
-437 PS
-Mehr
-5.0
-CHF
-79'900
-18.02.2021
 Aston Martin DB 7 - 19 Inserate anzeigen
 ASTON MARTIN DB7
 Occasion
@@ -267,18 +266,7 @@ Mehr
 CHF
 37'500
 06.04.2020
-Aston Martin V12 Vantage - 22 Inserate anzeigen
-ASTON MARTIN V12 Vantage 5.9 S Sportshift
-Occasion
-04.2014
-27'900 km
-574 PS
-Mehr
-5.0
-CHF
-99'800
-02.06.2020
-Aston Martin Rapide - 21 Inserate anzeigen
+Aston Martin Rapide - 20 Inserate anzeigen
 Aston Martin Rapide 5.9 V12 Touchtronic 2
 Occasion
 08.2011

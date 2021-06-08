@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -603,7 +602,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Citroen
-(3'785)
+(3'771)
 Citroen E-Mehari Occasion
 (5)
 Aufbau
@@ -617,21 +616,21 @@ Citroen E-Mehari
 (4)
 Modelle
 Citroen C3
-(726)
+(716)
 Citroen C5
-(397)
+(402)
 Citroen C4
-(369)
+(368)
 Citroen Berlingo
 (342)
-Citroen C1
-(274)
 Citroen Jumper
-(269)
+(276)
+Citroen C1
+(272)
 Citroen Spacetourer
-(168)
+(170)
 Citroen Jumpy
-(166)
+(157)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -647,6 +646,16 @@ weniger
 5 Inserate
 0 Inserate
 0 Inserate
+CITROEN MEHARI
+04.06.2021
+Occasion
+07.1971, Manuell, Benzin
+12'000 km, 29 PS, andere
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 18'900
+ab CHF 345 / Monat
 CITROEN E-Mehari
 28.05.2021
 Occasion
@@ -657,16 +666,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 16'000
 ab CHF 292 / Monat
-CITROEN MEHARI
-27.04.2021
-Occasion
-07.1971, Manuell, Benzin
-12'000 km, 29 PS, andere
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 18'900
-ab CHF 345 / Monat
 CITROEN MEHARI Cote d'Azur (Cabriolet)
 02.03.2021
 Occasion

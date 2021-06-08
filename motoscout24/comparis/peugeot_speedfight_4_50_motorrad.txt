@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -150,7 +149,7 @@ Favoriten (0)
 Ihre Auswahl
 Peugeot Speedfight 4 50 Motorrad
 Motorradmarkt: Occasionen und neue Motorräder
-12
+11
 Treffer für Sie gefunden auf allen grossen Schweizer Motorrad-Portalen
 Treffer für Sie gefunden auf allen grossen Schweizer Motorrad-Portalen
 Erstzulassung
@@ -791,32 +790,32 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Peugeot
-(173)
+(171)
 Peugeot Neu
-(102)
+(104)
 Peugeot Occasion
-(63)
+(59)
 Peugeot Vorführmodell
 (8)
 Aufbau
 Peugeot Roller
-(142)
+(138)
 Peugeot
 Modelle
 Peugeot Belville Allure 125 i LC
 (3)
 Peugeot Belville Allure 200 i AC
 (3)
+Peugeot Citystar 125
+(3)
 Peugeot Django Evasion 125
 (26)
 Peugeot Django Sport 125
 (3)
-Peugeot LXR 125
-(3)
 Peugeot Metropolis 400 RS
 (8)
 Peugeot Speedfight 3 50
-(4)
+(3)
 Peugeot Speedfight-2 50 LC
 (3)
 Peugeot Tweet 125 RS
@@ -824,19 +823,7 @@ Peugeot Tweet 125 RS
 Peugeot Vivacity 50
 (3)
 Peugeot Vivacity 50 (45km/h)
-(4)
-Peugeot Speedfight 4 50
-Alle Details
-Inserat vom 26.05.2021
-Occasion
-10.2016
-11'781 km
-49 ccm
-Preis
-CHF 1'200.-
-Alle Details
-CHF 1'200.-
-Alle Details
+(3)
 Peugeot Speedfight 4 50
 Alle Details
 Inserat vom 17.05.2021
@@ -938,6 +925,18 @@ Inserat vom 17.12.2020
 Neu
 01.2021
 1 km
+Preis
+CHF 3'295.-
+Alle Details
+CHF 3'295.-
+Alle Details
+Peugeot Speedfight 4 50
+Alle Details
+Inserat vom 24.04.2017
+Occasion
+12.2017
+0 km
+49 ccm
 Preis
 CHF 3'295.-
 Alle Details

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-lyss/
 Title: Wohnung & Haus mieten in Lyss - Immostreet.ch
-Description: Wohnung & Haus mieten in  Lyss - Immostreet.ch: ImmoStreet.ch hat 45 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Lyss - Immostreet.ch: ImmoStreet.ch hat 46 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-45 Resultate gefunden ·
+46 Resultate gefunden ·
 Wohnung & Haus mieten in Lyss
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,77 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Kreuzackerweg 14
+1'590
+CHF
+/Monat
+4-Zimmerwohnung in Lyss zu vermieten
+Kreuzackerweg 14, 3250 Lyss
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wir vermieten per 1. Juli 2021 diese helle 4-Zimmerwohnung im 2. OG links am Kreuzackerweg 14 in Ly…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Walperswilstrasse 10
+550
+CHF
+/Monat
+Studio zu vermieten
+Walperswilstrasse 10, 3250 Lyss
+Array
+1 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wir vermieten im 2.Stock eines Mehrfamilienhauses ein kleines unmöbliertes, neu renoviertes StudioM…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hardern 39
+1'400
+CHF
+/Monat
+schöne, renovierte 4-Zimmer-Wohnung im …
+Hardern 39, 3250 Lyss
+Array
+4 Zimmer
+68 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+68 m2
+Die Wohnung wurde 2019 komplett renoviert. Sie befindet sich im 1. Stock in einem Zweifamilienhaus.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bielstrasse 35
+890
+CHF
+/Monat
+Sanierte 1.0 Zimmer- Wohnung im Zentrum…
+Bielstrasse 35, 3250 Lyss
+Array
+1 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Zentrale 1.0-Zimmer-Wohnung in Lysszu vermieten an der Bielstrasse 35 im 2.OGMietzins: Fr. 890.00 i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Tulpenweg 30
 2'095
 CHF
@@ -188,26 +259,6 @@ Zimmer
 Wohnfläche
 65 m2
 Verbinden Sie das Leben in einer ruhigen Wohnsiedlung mit den Vorteilen der Nähe zum Stadtzentrum. …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Steinweg 5
-1'610
-CHF
-/Monat
-Wohntraum in Lyss!
-Steinweg 5, 3250 Lyss
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Das lebhafte Lyss verfügt über eine leistungsfähige Infrastruktur und hervorragende Verkehrsanbindu…
 Teilen
 E-Mail
 Facebook
@@ -481,66 +532,6 @@ Zimmer
 Wohnfläche
 74 m2
 Wir vermieten eine helle 4.5-Zimmerwohnung in einem kinderfreundlichen Quartier, die Ihnen unter an…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bernstr.35 Lyss
-1'250
-CHF
-/Monat
-3.5 Zimmer Wohnung mit Sitzplätz
-Bernstr.35 Lyss, 3250 Lyss
-Array
-3.5 Zimmer
-64 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-64 m2
-3.5 Zimmer Wohnung mit Sitzplätz. Separate Eingang
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 7
-1'570
-CHF
-/Monat
-Wohnglück im Zentrum von Lyss
-Bahnhofstrasse 7, 3250 Lyss
-Array
-3.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-77 m2
-Die Liegenschaft befindet sich an sonniger und zentraler Lage. Einkaufsmöglichkeiten und öffentlich…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rosengasse 9 a
-1'650
-CHF
-/Monat
-Neu sanierte Wohnungen in schönem Quart…
-Rosengasse 9 a, 3250 Lyss
-Array
-4.5 Zimmer
-81 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-81 m2
-Idealer können die neu sanierten 4.5 Zimmerwohnungen nicht liegen; wenige Fussminuten zum Bahnhof u…
 Teilen
 E-Mail
 Facebook

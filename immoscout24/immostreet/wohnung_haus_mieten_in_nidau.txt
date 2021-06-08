@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-nidau/
 Title: Wohnung & Haus mieten in Nidau - Immostreet.ch
-Description: Wohnung & Haus mieten in  Nidau - Immostreet.ch: ImmoStreet.ch hat 15 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Nidau - Immostreet.ch: ImmoStreet.ch hat 17 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-15 Resultate gefunden ·
+17 Resultate gefunden ·
 Wohnung & Haus mieten in Nidau
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,19 +152,19 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Schulgasse 3
-870
+Hauptstrasse 133
+2'300
 CHF
 /Monat
-«Klein aber fein» - Charmante Wohnung i…
-Schulgasse 3, 2560 Nidau
+4.5 Zimmer-Duplexwohnung / Appartement …
+Hauptstrasse 133, 2560 Nidau
 Array
-1.5 Zimmer
+4.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-1.5
-Wir bieten dir eine schmucke, heimelige 1.5 Zimmerwohnung in einem schönen Altstadthaus mit jeglich…
+4.5
+4.5 Zimmer-Duplexwohnung / Appartement duplex de 4.5 piècesAn schöner Lage zu vermieten, per 1. Jul…
 Teilen
 E-Mail
 Facebook
@@ -182,6 +182,57 @@ Wohnung, Flach
 Zimmer
 1.5
 LAGEDie Liegenschaft Paganweg 1 befindet sich in nächster Nähe zum Nidauer Bahnhof. Der Stedtlikern…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'210
+CHF
+/Monat
+3,5 Zimmer Wohnung
+Adresse auf Anfrage, 2560 Nidau
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Ich suche einen Nachmieter für die wunderschöne 3,5 Zimmer Wohnung in Nidau an der Bielstrasse 88.-…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 54
+1'070
+CHF
+/Monat
+Ihr neues Zuhause?!
+Hauptstrasse 54, 2560 Nidau
+Array
+2 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Per 01.08.2021 oder nach Vereinbarung vermieten wir diese 1.5-Zimmerwohnung Wohnung mit folgenden E…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schulgasse 3
+870
+CHF
+/Monat
+«Klein aber fein» - Charmante Wohnung i…
+Schulgasse 3, 2560 Nidau
+Array
+1.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wir bieten dir eine schmucke, heimelige 1.5 Zimmerwohnung in einem schönen Altstadthaus mit jeglich…
 Teilen
 E-Mail
 Facebook
@@ -259,23 +310,6 @@ Zimmer
 Wohnfläche
 100 m2
 Wir vermieten an ruhiger Lage am Gerberweg in Nidau eine 3.5-Zimmerwohnung mit Balkon. Die Wohnung …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Strandweg 32
-1'350
-CHF
-/Monat
-Möblierte Wohnung am See
-Strandweg 32, 2560 Nidau
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Aufgrund Wegzug ins Ausland vermieten wir unsere geliebte möblierte 3-Zimmer Wohnung im schönen Stä…
 Teilen
 E-Mail
 Facebook

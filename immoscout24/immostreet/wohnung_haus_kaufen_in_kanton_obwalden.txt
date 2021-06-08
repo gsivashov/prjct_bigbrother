@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/kanton-obwalden/
 Title: Wohnung & Haus kaufen in Kanton Obwalden - Immostreet.ch
-Description: Wohnung & Haus kaufen in Kanton Obwalden - Immostreet.ch: ImmoStreet.ch hat 25 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Kanton Obwalden - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-25 Resultate gefunden ·
+24 Resultate gefunden ·
 Wohnung & Haus kaufen in Kanton Obwalden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,46 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+1'092'000
+CHF
+Südbreite - Zentral leben. Unterwegs se…
+Adresse auf Anfrage, 6053 Alpnachstad
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Etage
+GEMEINDE ALPNACHSTADAlpnachstad gehört zur Gemeinde Alpnach und liegt am wunderschönen Alpnachersee…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+600'000
+CHF
+Dornröschenschlaf am Fusse des Pilatus
+Adresse auf Anfrage, 6053 Alpnachstad
+Array
+9 Zimmer
+124 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+9
+Wohnfläche
+124 m2
+Etage
+Ein wahres Bijou nahe dem See und Berge, am Fusse des Pilatus, welches viel Charme ausstrahlt.Die s…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 1'450'000
 CHF
@@ -185,22 +225,6 @@ Zimmer
 Wohnfläche
 56 m2
 Dieses Objekt befindet sich in einer sonnigen, ruhigen Wohnanlage, mit bester Anbindung an ÖV und I…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Enetriederstrasse 32
-1'375'000
-CHF
-5,5 Zi Gartenwohnung Machen Sie Ferien …
-Enetriederstrasse 32, 6060 Sarnen
-Array
-5.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Ferien Zuhause? Ja, klar mit dem Fünfer und dem Weggli! RESERVIERT 5,5 Zi Gartenwohnung + Wintergar…
 Teilen
 E-Mail
 Facebook
@@ -434,44 +458,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Mittelgasse 9
-870'000
-CHF
-5.5-Zimmerwohnung in Kägiswil
-Mittelgasse 9, 6056 Kägiswil
-Array
-5.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-130 m2
-Willkommen in der wunderschönen und hellen 5.5-Zimmerwohnung (? 130 m²) an der Mittelgasse in Kägis…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-5.5-Zimmer-Attikawohnung mit Split-Level
-Adresse auf Anfrage, 6056 Kägiswil
-Array
-5.5 Zimmer
-156 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-156 m2
-Etage
-Willkommen in der wunderschönen und einzigartigen 5.5-Zimmer-Dachwohnung (? 156 m²) am Hostettweg 5…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Mos
 1'070'000
 CHF
@@ -527,6 +513,26 @@ Wohnfläche
 157 m2
 Etage
 In Engelberg angekommen, erwartet Sie diese ganztägig besonnte 5.5 Zimmer Attika-Maisonettewohnung …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+675'000
+CHF
+Südbreite - Zentral leben. Unterwegs se…
+Adresse auf Anfrage, 6053 Alpnachstad
+Array
+3.5 Zimmer
+93 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+93 m2
+Etage
+GEMEINDE ALPNACHSTAD Alpnachstad gehört zur Gemeinde Alpnach und liegt am wunderschönen Alpnacherse…
 Teilen
 E-Mail
 Facebook

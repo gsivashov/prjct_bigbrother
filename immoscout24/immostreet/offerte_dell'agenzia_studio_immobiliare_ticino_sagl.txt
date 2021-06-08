@@ -106,7 +106,7 @@ Filtro
 Cercare
 Modificare la ricerca
 La ricerca è stata aggiunta nella sua Immobox.
-212 risultati trovati ·
+208 risultati trovati ·
 Offerte dell'agenzia Studio Immobiliare Ticino Sagl
 Prezzo (crescente)
 Prezzo (decrescente)
@@ -119,6 +119,26 @@ NPA (crescente)
 NPA (decrescente)
 Ordinamento
 Inviare
+Indirizzo su richiesta
+1'500
+CHF
+/Mese
+Lamone: Appartamento 3,5 locali
+Indirizzo su richiesta, 6814 Lamone
+Array
+3.5 Locali
+90 m2
+Tipo di oggetto
+Appartamento, Appartamento
+Locali
+3.5
+Sup. abitabile
+90 m2
+Nel caratteristico nucleo di Lamone a due minuti dalla stazione e dall'autostrada, grazioso 3.5 loc…
+Condividere
+E-mail
+Facebook
+Whatsapp
 Indirizzo su richiesta
 1'650
 CHF
@@ -361,27 +381,6 @@ Locali
 Sup. abitabile
 45 m2
 A Lugaggia, appartamento in casa indipendente al piano terra con giardino ad uso esclusivo e magni…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-2'000
-CHF
-/Mese
-Lugano: Appartamento arredato 2,5 loca…
-Indirizzo su richiesta, 6900 Lugano
-Array
-2.5 Locali
-80 m2
-Tipo di oggetto
-Appartamento, Abitazione ammobiliata
-Locali
-2.5
-Sup. abitabile
-80 m2
-Piano
-Nella strategica Canobbio proponiamo luminoso 2.5 locali arredato con cura e design, con giardino e…
 Condividere
 E-mail
 Facebook

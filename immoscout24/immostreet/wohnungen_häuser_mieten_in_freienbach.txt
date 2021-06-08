@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-freienbach/
 Title: Wohnungen & Häuser mieten in Freienbach - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Freienbach - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Freienbach - Immostreet.ch: ImmoStreet.ch hat 33 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-34 Resultate gefunden ·
+33 Resultate gefunden ·
 Wohnungen & Häuser mieten in Freienbach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,44 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Weinbergstrasse 9
+2'460
+CHF
+/Monat
+Paradiesische, grosszügige Wohnung in z…
+Weinbergstrasse 9, 8807 Freienbach
+Array
+4.5 Zimmer
+135 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+135 m2
+Etage
+Die Wohnung (ursprünglich 5.5 Zimmer Wohnung) iegt sehr ruhig und trotzdem zentral (5 Min. zu Bahnh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grützenstrasse 1
+2'270
+CHF
+/Monat
+Moderne 3 ½ Zimmerwohnung nahe zum Züri…
+Grützenstrasse 1, 8807 Freienbach
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Diese lichtdurchflutete 3.5 Zimmer-Wohnung in einer ruhigen Lage steht Ihnen per 1. September 2021 …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Einstellplätze Wolleraustr. 41
 150
 CHF
@@ -190,46 +228,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Kantonsstrasse 151
-1'590
-CHF
-/Monat
-Schmucke 3 ½ Zimmerwohnung nahe zum Zür…
-Kantonsstrasse 151, 8807 Freienbach
-Array
-3.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-70 m2
-Lieger + Roth AG Immobilien vermietet per 01.07.2021 eine schmucke und heimelige 3.5 Zimmerwohnung …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchstrasse 44
-2'210
-CHF
-/Monat
-4.5 - Zimmerwohnung zum Wohlfühlen
-Kirchstrasse 44, 8807 Freienbach
-Array
-4.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-90 m2
-Wir vermieten per 15. Juli 2021 oder nach Vereinbarung eine gemütliche 4.5-Zimmerwohnung im 1. Ober…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 2'200
 CHF
@@ -239,7 +237,7 @@ Adresse auf Anfrage, 8807 Freienbach
 Array
 3 Zimmer
 Objekttyp
-Büro
+Verkauf, Praxis
 Zimmer
 3
 Dieses moderne und lichtdurchflutete Objekt, an ruhiger Lage, bietet viel Platz und einen hohen Aus…
@@ -370,24 +368,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Weinbergstrasse 10
-2'200
-CHF
-/Monat
-Attraktiver Geschäftsraum im Zentrum vo…
-Weinbergstrasse 10, 8807 Freienbach
-Array
-121 m2
-Objekttyp
-Büro
-Wohnfläche
-121 m2
-Etage
-Sehr zentral und sonnig gelegener Geschäftsraum in modernem Wohn- und Geschäftshaus per 01.08.2021 …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Rebhaldenstrasse 2
 2'000
 CHF
@@ -450,6 +430,23 @@ Büro
 Wohnfläche
 130 m2
 3D Rundgang: https://my.matterport.com/show/?m=Gq98nzs9BLBPer sofort sind diese Gewerbe- und Bürorä…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Öchsli 10
+1'704
+CHF
+/Monat
+Attraktive Büro- und Gewerbeflächen
+Öchsli 10, 8807 Freienbach
+Array
+95 m2
+Objekttyp
+Büro
+Wohnfläche
+95 m2
+3D Rundgang: https://my.matterport.com/show/?m=yTnYiU24xqNPer sofort sind diese Gewerbe- und Bürorä…
 Teilen
 E-Mail
 Facebook

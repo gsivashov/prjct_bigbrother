@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-frenkendorf/
 Title: Wohnungen & Häuser mieten in Frenkendorf - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Frenkendorf - Immostreet.ch: ImmoStreet.ch hat 62 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Frenkendorf - Immostreet.ch: ImmoStreet.ch hat 58 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-62 Resultate gefunden ·
+58 Resultate gefunden ·
 Wohnungen & Häuser mieten in Frenkendorf
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Mühlackerstr. 27
+1'900
+CHF
+/Monat
+Frisch sanierte Wohnung!
+Mühlackerstr. 27, 4402 Frenkendorf
+Array
+4.5 Zimmer
+93 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+93 m2
+In unmittelbarer Nähe zum Bahnhof Frenkendorf vermieten wir nach Vereinbarung eine frisch sanierte …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Eggrainweg 8
 1'300
 CHF
@@ -198,46 +218,6 @@ Zimmer
 Wohnfläche
 73 m2
 Zimmer:3.5Etage: EGWohnfläche: 73 m2Merkmale und Ausstattung:TerrasseParkplatz kann angemietet werd…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'840
-CHF
-/Monat
-GROSSZÜGIG UND FRISCH RENOVIERT
-Adresse auf Anfrage, 4402 Frenkendorf
-Array
-5.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-120 m2
-Diese frisch renovierte Wohnung befindet sich in einer gepflegten Liegenschaft, an zentraler Lage, …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'150
-CHF
-/Monat
-Hochwertige Attikawohnung am Bahnhof
-Adresse auf Anfrage, 4402 Frenkendorf
-Array
-3.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-75 m2
-In unmittelbarer Nähe zum Bahnhof Frenkendorf-Füllinsdorf befindet sich diese topmoderne Mietwohnun…
 Teilen
 E-Mail
 Facebook
@@ -356,27 +336,6 @@ Wohnfläche
 92 m2
 Etage
 LASSEN SIE SICH VON DIESER TOLLEN WOHNUNG ÜBERZEUGENFolgende Top-Eigenschaften zeichnen diese Wohnu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Güterstrasse 22
-1'980
-CHF
-/Monat
-Nähe Bahnhof in Frenkendorf
-Güterstrasse 22, 4402 Frenkendorf
-Array
-3 Zimmer
-116 m2
-Objekttyp
-Wohnung, Loft
-Zimmer
-3
-Wohnfläche
-116 m2
-Etage
-Wir vermieten per 1. August 2021in Frenkendorf, Güterstrasse 22schöne, neuwertige grosse Wohnung mi…
 Teilen
 E-Mail
 Facebook
@@ -517,11 +476,51 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 4
+Fasanenstrasse 33
+1'490
+CHF
+/Monat
+HIER LÄSST ES SICH LEBEN
+Fasanenstrasse 33, 4402 Frenkendorf
+Array
+4 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+78 m2
+Etage
+HIER LÄSST ES SICH LEBENDie in einem ruhigen Quartier gelegene Wohnung befindet sich in einem klein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eggstrasse 37
+1'245
+CHF
+/Monat
+Hübsche 2-Zimmerwohnung mit Gartensitzp…
+Eggstrasse 37, 4402 Frenkendorf
+Array
+2 Zimmer
+56 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+56 m2
+Wir vermieten in gepflegter und ruhig gelegener Liegenschaft diese 2-Zimmerwohnung im Erdgeschoss.D…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 3
 1
 2
 3
-4
 nächste Seite
 ImmoStreet.ch
 Mieten

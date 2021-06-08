@@ -131,407 +131,395 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-1'500
+Strassburgerallee 120
+1'330
 CHF
-/Monat
-BESTE LAGE ZUM HAMMERPREIS
-Adresse auf Anfrage, 4053 Basel
-Array
-3 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-60 m2
-Diese schöne drei Zimmer Wohnung befindet sich 10 Minuten zu Fuss vom Bahnhof SBB. Die Mietwohnung …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Colmarerstrasse 49
-800
-CHF
-/Monat
-Perfekt für Singels
-Colmarerstrasse 49, 4055 Basel
-Array
-1 Zimmer
-33 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-33 m2
-Per sofort oder nach Vereinbarung vermieten wir eine moderne 1 - Zimmerwohnung im schönen Hegenheim…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Neuweilerstrasse 107
-1'190
-CHF
-/Monat
-Ich suche einen Nachmieter für meine sc…
-Neuweilerstrasse 107, 4054 Basel
-Array
-2.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-75 m2
-Etage
-HalloIch suche für meine schöne, grossräumige, helle 2.5-Zimmerwohnung einen Nachmieter ab 01.07.20…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lehenmattstrasse 197
-1'980
-CHF
-/Monat
-Wohnen im Lehenmattquartier
-Lehenmattstrasse 197, 4052 Basel
-Array
-3 Zimmer
-82 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-82 m2
-Die LageDie Lehenmattstrasse liegt zwischen Schwarzpark und St. Jakob-Park. Das Quartier ist mit de…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hegenheimerstrasse 118
-1'560
-CHF
-/Monat
-beim Felix Platter Spital
-Hegenheimerstrasse 118, 4055 Basel
-Array
-3 Zimmer
-78 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-78 m2
-Die Wohnung befindet in einem Eckhaus mit 14 Parteien (ohne Lift). Dinge des täglichen Bedarfs kön…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 27
-1'760
-CHF
-/Monat
-Neubauwohnung mit Ausblick ins Grüne
-Hauptstrasse 27, 4126 Bettingen
-Array
-2.5 Zimmer
-54 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-54 m2
-Etage
-Ziehen Sie in die "kleinste Gemeinde" des Kanton Basel Stadt. Die Gemeinde Bettingen gilt mit ca. 1…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Elisabethenstrasse 41
-2'100
-CHF
-/Monat
-Zentrale 3-Zimmerwohnung, wenige Gehmin…
-Elisabethenstrasse 41, 4051 Basel
-Array
-3.5 Zimmer
-87 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-87 m2
-Wir vermieten per sofort diese zentrale 3-Zimmerwohnung im 1. Obergeschoss, an der Elisabethenstras…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hammerstr. 121
-1'790
-CHF
-/Monat
-MIETEN OHNE KAUTION - Geräumige Wohnung…
-Hammerstr. 121, 4057 Basel
-Array
-3.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-95 m2
-Wir vermieten per 16.08.2021 im Herzen vom Kleinbasel diese gemütliche 3.5 Zimmerwohnung, mit folge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sperrstrasse 89
-1'045
-CHF
-/Monat
-Preiswerte Wohnung an der Sperrstrasse
-Sperrstrasse 89, 4057 Basel
-Array
-2.5 Zimmer
-57 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-57 m2
-Die 2.5-Zimmer-Wohnung bietet einen geräumigen Eingangsbereich, eine separate Küche und zwei Balkon…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Roggenburgstrasse 21
-1'535
-CHF
-/Monat
-Im Bachgraben beim Gartenbad
-Roggenburgstrasse 21, 4055 Basel
-Array
-3 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-70 m2
-Eingebettet zwischen einem riesigen Familiengartenareal und dem Gartenschwimmbad Bachraben sowie um…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Riehenring 143
-1'550
-CHF
-/Monat
-Totalsanierte 2.5 Zimmerwohnung an best…
-Riehenring 143, 4058 Basel
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Suchen Sie ein neues Zuhause? Dann sind Sie hier genau richtig.
-Am Riehenring 143 in Basel vermiet…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Allschwilerstrasse 6
-930
-CHF
-/Monat
-Sonnige Wohnung Nähe Brausebad
-Allschwilerstrasse 6, 4055 Basel
-Array
-1 Zimmer
-34 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-34 m2
-Schöne Wohnung mit Balkon ins Grüne zum ruhigen Hinterhof.
-Neuere Küche mit Glaskeramik, GWM, Vorp…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-St. Alban-Vorstadt 104
-4'590
-CHF
-/Monat
-Historisches Altstadthaus - Sanierte Ma…
-St. Alban-Vorstadt 104, 4052 Basel
-Array
-5 Zimmer
-151 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5
-Wohnfläche
-151 m2
-An bevorzugter Wohnlage, inmitten der St. Alban-Vorstadt, vermieten wir diese vor wenigen Jahren, k…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Spalenring 123
-1'395
-CHF
-/Monat
-Neuwertige Singlewohnung am Brausebad
-Spalenring 123, 4055 Basel
-Array
-2.5 Zimmer
-57 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-57 m2
-Die im Jahr 2011 im Minergie-Standard sanierte Wohnung verfügt über:
-- Wohn-/Schlafzimmer und G…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Davidsbodenstr. 42
-1'195
-CHF
-/Monat
-2-Z'Wohnung im St. Johann
-Davidsbodenstr. 42, 4056 Basel
+Renovierte Altbauwohnung
+Strassburgerallee 120, 4055 Basel
 Array
 2 Zimmer
-47 m2
+49 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2
 Wohnfläche
-47 m2
-Ab 16.06.2021 oder nach Vereinbarung vermieten wir diese gemütliche 2-Z'Wohnung mit folgendem Ausba…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hasenmattstrasse 5
-1'430
-CHF
-/Monat
-Sehr ruhige und sonnige 2.0-Zimmerwohnu…
-Hasenmattstrasse 5, 4059 Basel
-Array
-2 Zimmer
-52 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-52 m2
-Auf den 1. September vermieten wir in einem sehr ruhigen, kleinen Mehrfamilienhaus diese schöne 2.0…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Pfeffingerstrasse 94
-1'150
-CHF
-/Monat
-Im Gundeli
-Pfeffingerstrasse 94, 4053 Basel
-Array
-2 Zimmer
-54 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-54 m2
-Diese grosszügige Wohnung im beliebten Wohnquartier "Gundeli" verfügt über eine:
-- offene Küche
+49 m2
+Diese schöne und renovierte Altbau 2-Zimemrwohnung mit hohen Räumen verfügt über folgende Details:
 …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Freie Strasse 95
-1'270
+Lehenmattstrasse
+1'980
 CHF
 /Monat
-Charmante 2.5-Zimmerwohnung im Herzen d…
-Freie Strasse 95, 4051 Basel
-Array
-2 Zimmer
-45 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-45 m2
-Suchen Sie ein urbanes Zuhause an zentralster, gut erschlossener Lage?
-Die hübsche 2.5-Zimmerwoh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Feldbergstrasse 1
-2'690
-CHF
-/Monat
-- SOMMER AKTION - 2 Nettomietzinse ges…
-Feldbergstrasse 1, 4057 Basel
-Array
-4.5 Zimmer
-121 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-121 m2
-Als Willkommensgeschenk erhalten Sie 2 Nettomietzinse geschenkt. Dieses einmalige Angebot gilt nur …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Breisacherstrasse 26
-1'510
-CHF
-/Monat
-Wenige Minuten vom Rheinufer
-Breisacherstrasse 26, 4057 Basel
+3. Zimmer Wohnung, nach Mieter gesucht …
+Lehenmattstrasse, 4052 Basel
 Array
 3 Zimmer
-63 m2
+82 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3
 Wohnfläche
-63 m2
-Diese schöne und helle Wohnung in der Nähe des Rheins lädt förmlich zum Spazieren ein. Das Objekt p…
+82 m2
+Wohnen im LehenmattquartierDie Lage Die Lehenmattstrasse liegt zwischen Schwarzpark und St. Jakob-P…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'000
+CHF
+/Monat
+1- Zimmer Wohnung im Herzen von Basel m…
+Adresse auf Anfrage, 4051 Basel
+Array
+Objekttyp
+Wohnung, Flach
+schöne kleine 1- Zimmer Wohnung mit Balkon (Sicht auf die Altstadt), sucht Nachmieter für die Monat…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bäumlihofstrasse 431
+1'795
+CHF
+/Monat
+NACHMITER PER 1.7 für 4 Zimmerwohnung
+Bäumlihofstrasse 431, 4125 Riehen
+Array
+4 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+81 m2
+schöne 4 Zimmerwohnung2 grosse Balkone jeweils 5m² 81m² Wohnfläche ohne Balkone berechnet.Alles in …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rebgasse 49
+1'550
+CHF
+/Monat
+Charmante, frisch renovierte 3-Zi-Whg i…
+Rebgasse 49, 4058 Basel
+Array
+3 Zimmer
+57 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+57 m2
+Zu vermieten per 1. August oder 1. September renovierte 3-Zimmerwohnung in komplett sanierter Altba…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Delsbergerallee 48
+1'780
+CHF
+/Monat
+Wohnung mit schönem Altbauflair im Gund…
+Delsbergerallee 48, 4053 Basel
+Array
+3.5 Zimmer
+74 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+74 m2
+Wir vermieten per sofort oder nach Vereinbarung eine gemütliche 3.5 Zimmerwohnungen im beliebten Gu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Leonhardsstrasse 22
+2'230
+CHF
+/Monat
+WOHNEN IM STADTZENTRUM VON BASEL
+Leonhardsstrasse 22, 4051 Basel
+Array
+4.5 Zimmer
+98 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+98 m2
+Die per sofort oder nach Vereinbarung mietbare 4.5-Zimmer-Wohnung im Erdgeschoss der Leonhardstrass…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Holbeinstrasse 31
+3'170
+CHF
+/Monat
+SANIERTE MAISONETTEDACHWOHNUNG NÄHE UNI
+Holbeinstrasse 31, 4051 Basel
+Array
+4.5 Zimmer
+113 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+4.5
+Wohnfläche
+113 m2
+Wir vermieten per 16.09.2021 oder nach Vereinbarung eine im Jahre 2018/2019 sanierte Maisonettewohn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+St. Alban-Ring 282
+2'040
+CHF
+/Monat
+Moderne Wohnung in beliebtem Gellert-Qu…
+St. Alban-Ring 282, 4052 Basel
+Array
+3.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+86 m2
+Suchen Sie etwas Spezielles an zentraler Lage? Möchten Sie sich Zuhause wohl fühlen und die Ruhe ge…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+St. Alban-Vorstadt 11
+2'500
+CHF
+/Monat
+Moderne Wohnung im beliebtem Quartier
+St. Alban-Vorstadt 11, 4052 Basel
+Array
+1.5 Zimmer
+62 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+62 m2
+Suchen Sie etwas Spezielles an zentraler Lage? Möchten Sie sich Zuhause wohl fühlen und die Ruhe ge…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grenzacherstrasse 30a
+Preis auf Anfrage
+Genau das Richtige für naturverbundene …
+Grenzacherstrasse 30a, 4058 Basel
+Array
+2 Zimmer
+74 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+74 m2
+Möchten Sie zentrumsnah und trotzdem in einer Umgebung mit viel Grün leben? Dann werden Sie sich in…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+St. Alban-Ring 187
+1'120
+CHF
+/Monat
+Single-Wohnung im beliebten Gellert-Qua…
+St. Alban-Ring 187, 4052 Basel
+Array
+2 Zimmer
+52 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+52 m2
+Hier erwartet Sie eine geräumige Studio-Wohnung im Dachgeschoss. Diese moderne und helle Wohnung be…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hebelstrasse 115
+1'040
+CHF
+/Monat
+Allein oder zu zweit: Hier könnte es Ih…
+Hebelstrasse 115, 4056 Basel
+Array
+2 Zimmer
+46 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+46 m2
+Dieses Mehrfamilienhaus befindet sich in einer ruhig gelegenen Seitenstrasse unweit der Universität…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Riehenstrasse 90
+3'205
+CHF
+/Monat
+Moderne Maisonette-Wohnung im EG
+Riehenstrasse 90, 4058 Basel
+Array
+2.5 Zimmer
+134 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+2.5
+Wohnfläche
+134 m2
+Etage
+Diese ansprechende und helle Maisonette-Wohnung befindet sich an zentraler Lage und ist den öffentl…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+St. Alban-Ring 278
+2'056
+CHF
+/Monat
+Moderne Wohnung im beliebtem Quartier
+St. Alban-Ring 278, 4052 Basel
+Array
+3.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+86 m2
+Suchen Sie etwas Spezielles an zentraler Lage? Möchten Sie sich Zuhause wohl fühlen und die Ruhe ge…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hegenheimerstrasse 131
+1'590
+CHF
+/Monat
+Helle Stadtwohnung nähe Kannenfeldpark
+Hegenheimerstrasse 131, 4055 Basel
+Array
+3 Zimmer
+64 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+64 m2
+Die Adimmo AG vermietet per 01.07.2021 oder nach Vereinbarung diese 3-Zimmerwohnung mit folgender A…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grosspeterstr. 11
+820
+CHF
+/Monat
+1-Zimmerwohnung in der Nähe vom Bahnhof
+Grosspeterstr. 11, 4052 Basel
+Array
+1 Zimmer
+28 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+28 m2
+1-Zimmerwohnung in der Nähe vom Bahnhof In dieser frisch sanierten Liegenschaft in der Nähe des Bah…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blaesiring 47
+1'140
+CHF
+/Monat
+2-ZIMMERWOHNUNG AN BESTER LAGE IN BASEL
+Blaesiring 47, 4057 Basel
+Array
+2 Zimmer
+51 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+51 m2
+Wir vermieten per 01.08.2021 eine 2-Zimmerwohnung am Bläsiring 47. Die im EG befindliche Fläche be…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gundeldingerrain 12 (TEC)
+1'325
+CHF
+/Monat
+gepflegte Überbauung im Gundeli
+Gundeldingerrain 12 (TEC), 4053 Basel
+Array
+2 Zimmer
+47 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+47 m2
+Diese gemütliche Wohnung verfügt über:Moderne Küche mit Glaskeramikkochfeld, Geschirrspüler…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gasstrasse 52
+1'210
+CHF
+/Monat
+in ruhiger Seitenstrasse zwischen Kanne…
+Gasstrasse 52, 4056 Basel
+Array
+2 Zimmer
+59 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+59 m2
+In diesem ruhigen Haus vermieten wir eine schöne helle Wohnung im 2.OG ohne Lift.- grosse Wohnküche…
 Teilen
 E-Mail
 Facebook

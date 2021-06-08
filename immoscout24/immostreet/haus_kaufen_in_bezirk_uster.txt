@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-uster/
 Title: Haus kaufen in Bezirk Uster - Immostreet.ch
-Description: Haus kaufen in Bezirk Uster - Immostreet.ch: ImmoStreet.ch hat 27 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Uster - Immostreet.ch: ImmoStreet.ch hat 29 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-27 Resultate gefunden ·
+29 Resultate gefunden ·
 Haus kaufen in Bezirk Uster
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,103 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Emdwiesenstrasse 10A
+1'750'000
+CHF
+5.5 Zimmer Doppel-Einfamilienhaushälfte…
+Emdwiesenstrasse 10A, 8610 Uster
+Array
+5.5 Zimmer
+204 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+204 m2
+5.5-Zimmer Doppel-Einfamilienhaushälfte mit gepflegtem GartenDie im Jahre 1992 erbaute 5.5-Zimmer-D…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Idyllisches Einfamilienhaus an sonniger…
+Adresse auf Anfrage, 8617 Mönchaltorf
+Array
+4.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+123 m2
+Welcome Home! Hier wartet ein schöner, freistehender Bungalow mit Baujahr 1980 auf glückliche Eigen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'600'000
+CHF
+Schönes, Modern renoviertes einseitig a…
+Adresse auf Anfrage, 8600 Dübendorf
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Etage
+Schönes, Modern renoviertes, einseitig angebautes 1 Familienhaus, nähe Innovationspark, Bahnhof, Ei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+4'900'000
+CHF
+Idyllisches Anwesen
+Adresse auf Anfrage, 8617 Mönchaltorf
+Array
+9 Zimmer
+465 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+9
+Wohnfläche
+465 m2
+Etage
+Idyllisches Anwesen - Grosses Landhaus mit weitläufigem UmschwungDas ursprünglich um 1830 erbaute W…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'420'000
+CHF
+Alleinstehendes EFH in Egg bei Zürich
+Adresse auf Anfrage, 8132 Egg b. Zürich
+Array
+6.5 Zimmer
+146 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+146 m2
+Etage
+Geräumiges Einfamilienhaus (6.5 Zimmer) mit gedecktem Sitzplatz und separatem GartenhäuschenDas im …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Seewisenstrasse 17
 1'975'000
 CHF
@@ -213,26 +310,6 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-733'000
-CHF
-Bezauberndes 3.5-Zimmer-Flarzhaus mit G…
-Adresse auf Anfrage, 8132 Hinteregg
-Array
-3.5 Zimmer
-82 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-3.5
-Wohnfläche
-82 m2
-Etage
-WohngemeindeHinteregg liegt mitten im Grünen an ruhiger Lage zwischen Pfannenstiel und Greifensee u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
 1'850'000
 CHF
 Ein Traum für die Familie
@@ -252,23 +329,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Im Leisibühl 3
-2'300'000
-CHF
-Ihr neues Eigenheim in Gockhausen - gro…
-Im Leisibühl 3, 8044 Gockhausen
-Array
-7 Zimmer
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-7
-Etage
-Grosszügiges 7-Zimmer-Doppeleinfamilienhaus an ruhiger und sonniger LageNach Vereinbarung verkaufen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Huzlenstrasse 12
 1'875'000
 CHF
@@ -276,13 +336,13 @@ Wohnen im charmanten Einfamilienhausqua…
 Huzlenstrasse 12, 8604 Volketswil
 Array
 6.5 Zimmer
-180 m2
+190 m2
 Objekttyp
 Wohnung, Doppeleinfamilienhaus
 Zimmer
 6.5
 Wohnfläche
-180 m2
+190 m2
 Etage
 Projekt:
 Im gepflegten Huzlen-Quartier an erhöhter, sonniger und ruhiger Lage entstehen ein Doppel…
@@ -297,13 +357,13 @@ Wohnen im charmanten Einfamilienhausqua…
 Huzlenstrasse 12, 8604 Volketswil
 Array
 6.5 Zimmer
-185 m2
+190 m2
 Objekttyp
 Wohnung, Doppeleinfamilienhaus
 Zimmer
 6.5
 Wohnfläche
-185 m2
+190 m2
 Etage
 Projekt:
 Im gepflegten Huzlen-Quartier an erhöhter, sonniger und ruhiger Lage entstehen ein Doppel…
@@ -460,65 +520,6 @@ Wohnfläche
 254 m2
 Etage
 Haben Sie einmal geträumt, in einem fast 200-jährigen, aber doch geräumigen und stattlichen Bauernh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fohlenweidstrasse 47
-2'850'000
-CHF
-Grosszügiges Wohnen an bester Lage
-Fohlenweidstrasse 47, 8615 Wermatswil
-Array
-9 Zimmer
-270 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-9
-Wohnfläche
-270 m2
-Wir bieten Ihnen eine traumhafte Liegenschaft, unweit der pulsierenden Stadt Zürich mit unverbaubar…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seestrasse 69
-750'000
-CHF
-5-Zimmer Einfamilienhaus mit Garage im …
-Seestrasse 69, 8610 Uster
-Array
-5 Zimmer
-117 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5
-Wohnfläche
-117 m2
-Etage
-Im Auftrag einer Erbengemeinschaft verkaufen wir in Uster an der Seestrasse 69 einen Hausteil mit c…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alte Landstrasse 33C
-1'600'000
-CHF
-Modern-rustikaler 4.5-Zimmer Hausteil m…
-Alte Landstrasse 33C, 8600 Dübendorf
-Array
-4.5 Zimmer
-125 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-4.5
-Wohnfläche
-125 m2
-Etage
-Dieses Eckhaus im malerischen Dübendorfer Ortsteil Gfenn erfüllt all Ihre Wohnträume dank seinem ze…
 Teilen
 E-Mail
 Facebook

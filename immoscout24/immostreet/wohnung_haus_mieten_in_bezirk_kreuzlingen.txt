@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/bezirk-kreuzlingen/
 Title: Wohnung & Haus mieten in Bezirk Kreuzlingen - Immostreet.ch
-Description: Wohnung & Haus mieten in Bezirk Kreuzlingen - Immostreet.ch: ImmoStreet.ch hat 155 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Bezirk Kreuzlingen - Immostreet.ch: ImmoStreet.ch hat 159 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-155 Resultate gefunden ·
+159 Resultate gefunden ·
 Wohnung & Haus mieten in Bezirk Kreuzlingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,11 +152,303 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-1'420
+Hauptstrasse 112
+1'780
 CHF
 /Monat
-Helle 3.5 Zimmer Wohnung
+**Helle und moderne Wohnung zu vermiete…
+Hauptstrasse 112, 8274 Tägerwilen
+Array
+3.5 Zimmer
+94 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+94 m2
+Etage
+Die Überbauung "Bahnhofplatz" liegt unmittelbar neben dem Bahnhof Tägerwilen Dorf und dem Zentrum v…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Emmishoferstrasse 28a
+2'450
+CHF
+/Monat
+***Einfach wie ZUHAUSE fühlen***
+Emmishoferstrasse 28a, 8280 Kreuzlingen
+Array
+5.5 Zimmer
+139 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+139 m2
+Etage
+Der WOHNPARK BRUNEGG befindet sich im westlichen Stadtteil von Kreuzlingen. Über die Emmishofer- un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterdorfstrasse 16
+1'490
+CHF
+/Monat
+Seenähe Güttingen
+Unterdorfstrasse 16, 8594 Güttingen
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Etage
+Sonnige, geräumige 4.5 Zimmerwohnung mit zwei Balkone in Güttingen, ab sofort verfügbar. Nähe Boden…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 51b
+1'755
+CHF
+/Monat
+Attraktive Maisonette-Wohnung mit Seesi…
+Hauptstrasse 51b, 8280 Kreuzlingen
+Array
+5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+5
+Wir vermieten per 1. Juli 2021 eine moderne und gemütliche Maisonette-Wohnung an der Hauptstrasse 5…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Trottenstr. 2
+1'620
+CHF
+/Monat
+Praktische 4,5 Zimmer Wohnung mit Balko…
+Trottenstr. 2, 8280 Kreuzlingen
+Array
+4.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+90 m2
+Die schöne 4,5 Zimmer Wohnung mit Balkon in der Trottenstr. 2 befindet sich im 2. OG in einem 7 Par…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+poststrasse 1
+2'990
+CHF
+/Monat
+Haus im Grünen mit Büro und grossem Gar…
+poststrasse 1, 8269 Fruthwilen
+Array
+5.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+125 m2
+Ideale Lage für Familie mit Kinder, die Schule ist zu Fuss erreichbar über den sicheren Feldweg nac…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tanneggstrasse 7
+1'430
+CHF
+/Monat
+Gemütliche Familienwohnung in Zentrumsn…
+Tanneggstrasse 7, 8280 Kreuzlingen
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Das Mehrfamilienhaus befindet sich an zentraler Lage und ist in einem guten, gepflegten Zustand. Im…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lengwilerstrasse 8A
+1'750
+CHF
+/Monat
+Leben in der Traumwohnung
+Lengwilerstrasse 8A, 8280 Kreuzlingen
+Array
+3.5 Zimmer
+84 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+84 m2
+EINFACH WOHLFÜHLENimmokanzlei AG - Ihr Partner für Immobilien im Kanton Thurgau am Bodensee.Kauf, V…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Teupelackerweg 8
+1'190
+CHF
+/Monat
+Charmante und sonnige Wohnung an ruhige…
+Teupelackerweg 8, 8597 Landschlacht
+Array
+2.5 Zimmer
+57 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+57 m2
+Diese hübsche 2.5 Zimmer-Wohnung überzeugt durch ihre ruhige und grüne Umgebung. Die Liegenschaft b…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Nationalstrasse, 35
+690
+CHF
+/Monat
+1 Zimmerwohnung in Kreuzlingen
+Nationalstrasse, 35, 8280 Kreuzlingen
+Array
+1 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Im 4. Stock, mit Balkon, Miete inkl. NK 690fr, ohne Parkplatz, kleines Kellerabteil, frei ab sofort…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gottliebenstrasse 14
+1'490
+CHF
+/Monat
+Moderne 2.5 Zimmerwohnung mit grosszügi…
+Gottliebenstrasse 14, 8280 Kreuzlingen
+Array
+2.5 Zimmer
+74 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+74 m2
+Wir vermieten die 2.5 Zimmer-Dachwohnung an der Gottliebenstrasse 14 in Kreuzlingen per sofort oder…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Weinstrasse 31
+900
+CHF
+/Monat
+Helle und geräumige Wohnung mit Balkon …
+Weinstrasse 31, 8280 Kreuzlingen
+Array
+1.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Geräumige und helle Wohnung mit Balkon in der Nähe des Bodensees!Wir vermieten diese sonnendurchflu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alleeweg 12
+800
+CHF
+/Monat
+geräumige gut konzipierte 1 Zimmer Woh…
+Alleeweg 12, 8280 Kreuzlingen
+Array
+1 Zimmer
+30 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+30 m2
+Etage
+grosszügige 1 Zimmerwohnung ruhig und doch zenrtumsnah gelegenDie ganze Wohnung ist mit Parkett, od…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ribistr. 35
+1'390
+CHF
+/Monat
+Ruhige Wohnung am Stadtrand - 1. Nettom…
+Ribistr. 35, 8280 Kreuzlingen
+Array
+3.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+77 m2
+Die 3.5-Zimmerwohnung mit folgender Ausstattung wartet auf Sie!- Wohnzimmer Parkett- Küche mit Gesc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seetalstr. 46
+1'270
+CHF
+/Monat
+SUPERANGEBOT ! Grosszügige und helle Wo…
+Seetalstr. 46, 8280 Kreuzlingen
+Array
+3.5 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+78 m2
+Die freundliche, grosszügige und zentral gelegene Wohnung mit viel grünem Umschwung hat ihnen folge…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'440
+CHF
+/Monat
+Helle 3.5 Zimmer Wohnung mit verglastem…
 Adresse auf Anfrage, 8280 Kreuzlingen
 Array
 3.5 Zimmer
@@ -167,7 +459,7 @@ Zimmer
 3.5
 Wohnfläche
 79 m2
-Per 1. September 2021, oder nach Absprache, wird in Kreuzlingen eine helle 3.5 Zimmer-Wohnung mit v…
+Per 1. September 2021, oder nach Absprache, wird in Kreuzlingen in Zentrumsnähe eine sehr helle, gr…
 Teilen
 E-Mail
 Facebook
@@ -247,306 +539,6 @@ Zimmer
 4
 Schöne, helle Wohnung an super Lage!
 In nur wenigen Gehminuten erreichen Sie den Bahnhof, Einkau…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weiherstrasse 20
-2'060
-CHF
-/Monat
-**entspannt wohnen an ruhiger und zentr…
-Weiherstrasse 20, 8280 Kreuzlingen
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Etage
-Die Liegenschaft befindet sich an ruhiger Lage nähe Hauptbahnhof und Einkaufsmöglichkeiten. Ob mit …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchstrasse 10
-1'580
-CHF
-/Monat
-Beste Wohnlage in kleinem Mehrfamilienh…
-Kirchstrasse 10, 8274 Gottlieben
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Im schönen Gottlieben an bester Lage - in direkter Rheinnähe - absolut geniale Wohnungen zu vermiet…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Panoramaweg 2
-1'850
-CHF
-/Monat
-Möchten Sie die Sommerabende auf Ihrem …
-Panoramaweg 2, 8274 Tägerwilen
-Array
-3.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-112 m2
-Dann sind Sie hier genau richtig.
-Per sofort oder nach Vereinbarung vermieten wir diese moderne …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Scheidweg 9
-1'870
-CHF
-/Monat
-"Sonne tanken" auf zwei Terrassen
-Scheidweg 9, 8596 Scherzingen
-Array
-3.5 Zimmer
-96 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-96 m2
-Etage
-Geniessen Sie die Sonne den ganzen Tag - am Morgen auf der Terrasse im Osten, am Abend auf der Terr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mondbreitestrasse 10
-1'490
-CHF
-/Monat
-Hundeliebhaber sind Willkommen!
-Mondbreitestrasse 10, 8585 Zuben
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Geniessen Sie die Ruhe!immokanzlei AG - Ihr Partner für Immobilien im Kanton Thurgau am Bodensee.Ka…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 84
-960
-CHF
-/Monat
-2.0 Zimmer - Wohnung im 4. OG mit Lift
-Hauptstrasse 84, 8280 Kreuzlingen
-Array
-2 Zimmer
-63 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-63 m2
-Unser Objekt ist ab dem 15. Juli 2021 oder nach Vereinbarung zu Mieten.
-Die Wohnung wird aktuel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Konstanzerstrasse 1b
-1'295
-CHF
-/Monat
-Helle und gemütliche 2.5-Zimmerwohnung …
-Konstanzerstrasse 1b, 8274 Tägerwilen
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Etage
-Diese schöne 2.5-Zimmerwohnung im 3. Obergeschoss steht ab sofort zur Vermietung frei.Die insgesamt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Besmerstrasse 50
-2'090
-CHF
-/Monat
-Idyllisch, Grün, lebensfreundlich - Nac…
-Besmerstrasse 50, 8280 Kreuzlingen
-Array
-4.5 Zimmer
-107 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-107 m2
-Etage
-Zur Lage: Die Überbauung liegt an erhöhter und sehr bevorzugter Wohnlage in Kreuzlingen. Wenige Sch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Konstanzerstr. 44
-940
-CHF
-/Monat
-Überbauung TRIAS - dreifacher Wohngenuss
-Konstanzerstr. 44, 8280 Kreuzlingen
-Array
-1 Zimmer
-33 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-33 m2
-Legen Sie Wert auf eine zentrale und trotzdem ruhige Lage? Alles, was Sie für den täglichen Bedarf …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rankstrasse 5a
-1'440
-CHF
-/Monat
-Gemütliche und sonnige Wohnung mit Sit…
-Rankstrasse 5a, 8280 Kreuzlingen
-Array
-2.5 Zimmer
-72 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-72 m2
-Zur Vermietung steht ab dem 01.10.2021 eine komfortable und sehr grosszügig geschnittene 2.5 Zimmer…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Graneggstrasse 11
-1'470
-CHF
-/Monat
-**Preiswerte Wohnung an ruhiger Lage**
-Graneggstrasse 11, 8280 Kreuzlingen
-Array
-5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-90 m2
-Etage
-Die Liegenschaft befindet sich in einem familienfreundlichen Quartier ohne Durchgangsverkehr. Das g…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seestrasse 22
-690
-CHF
-/Monat
-Klein aber fein in Seenähe...
-Seestrasse 22, 8597 Landschlacht
-Array
-1.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Sie suchen eine kleine aber feine Wohnung in Seenähe? Wir haben das passende Objekt für Sie!
-Die…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grenzstrasse 1
-550
-CHF
-/Monat
-Nette Mitbewohnerin in Frauen-WG in Kre…
-Grenzstrasse 1, 8280 Kreuzlingen
-Array
-12 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-12 m2
-Am Hauptzoll zu Konstanz vermieten wir zum 01. Juli 2021 im EG unseres Hauses an der Grenzstrasse 1…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Finkernweg 1a
-1'290
-CHF
-/Monat
-2.5 Zimmerwohnung in Familienquartier
-Finkernweg 1a, 8280 Kreuzlingen
-Array
-2.5 Zimmer
-55 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-55 m2
-An zentraler Lage in einer familienfreundlichen Überbauung vermieten wir diese charmante 2.5-Zimmer…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 24
-2'200
-CHF
-/Monat
-**4.5 Zimmer-Wohnung - Grenznah - Zentr…
-Hauptstrasse 24, 8280 Kreuzlingen
-Array
-4.5 Zimmer
-114 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-114 m2
-Etage
-Verwöhn-Erlebnis Pur! Sie freuen sich, abends nach einem arbeitsreichen Tag, nach Hause zu kommen.…
 Teilen
 E-Mail
 Facebook

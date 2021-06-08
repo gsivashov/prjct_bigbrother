@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -589,7 +588,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Ferrari
-(886)
+(881)
 Ferrari 612 Occasion
 (17)
 Aufbau
@@ -603,20 +602,20 @@ Ferrari 612
 (17)
 Modelle
 Ferrari F488
-(124)
+(128)
 Ferrari F430
-(68)
+(64)
 Ferrari F458
-(65)
+(61)
 Ferrari F360
 (58)
 Ferrari California
 (53)
-Ferrari 308
-(37)
+Ferrari GTC
+(38)
 Ferrari Portofino
-(37)
-Ferrari F12
+(38)
+Ferrari 599
 (36)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
@@ -644,6 +643,7 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 73'000
 ab CHF 1'333 / Monat
+Preisreduktion
 FERRARI 612 F1
 22.04.2021
 Occasion
@@ -652,8 +652,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 90'000
-ab CHF 1'644 / Monat
+CHF 68'000
+ab CHF 1'242 / Monat
 FERRARI 612 F1
 15.04.2021
 Occasion
@@ -708,9 +708,9 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 69'000
 ab CHF 1'260 / Monat
-Preisreduktion
+Preiserhöhung
 FERRARI 612 Scaglietti one to one GTC
-3.0
+2.5
 17.12.2020
 Occasion
 05.2010, Automat, Benzin
@@ -718,8 +718,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 99'800
-ab CHF 1'823 / Monat
+CHF 108'000
+ab CHF 1'972 / Monat
 FERRARI 612 F1 Scaglietti HGT
 2.5
 12.12.2020

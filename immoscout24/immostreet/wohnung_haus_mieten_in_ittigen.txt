@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-ittigen/
 Title: Wohnung & Haus mieten in Ittigen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Ittigen - Immostreet.ch: ImmoStreet.ch hat 30 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Ittigen - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-30 Resultate gefunden ·
+31 Resultate gefunden ·
 Wohnung & Haus mieten in Ittigen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,19 +152,82 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-ittigen
-1'965
+Talweg 21
+2'390
 CHF
 /Monat
-4.5-Zimmerwohnung
-ittigen, 3063 Ittigen
+5 1/2-Zimmerwohnung, Dachstock
+Talweg 21, 3063 Ittigen
+Array
+5.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+110 m2
+sonnige, zentrale Lage - Nähe Einkaufsmöglichkeiten und öVBestaunen Sie dieses Schmuckstück! Heimel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Jurastrasse 21
+1'820
+CHF
+/Monat
+Wohnen im Park
+Jurastrasse 21, 3063 Ittigen
 Array
 4.5 Zimmer
+96 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Per 1. September 2021 oder nach Vereinbarung vermieten wir diese helle 4.5-Zimmerwohnung im 1. OG m…
+Wohnfläche
+96 m2
+Per 01. Oktober 2021 vermieten wir eine helle, freundliche und grosszügige 4.5-Zimmerwohnung im Par…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Jurastrasse 65
+1'910
+CHF
+/Monat
+Wohnen im Park
+Jurastrasse 65, 3063 Ittigen
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Per 01. August 2021 oder nach Vereinbarung vermieten wir eine helle, freundliche und grosszügige 4.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Jurastrasse 17
+1'830
+CHF
+/Monat
+Wohnen im Park
+Jurastrasse 17, 3063 Ittigen
+Array
+4.5 Zimmer
+98 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+98 m2
+Per 01. Oktober 2021 oder nach Vereinbarung vermieten wir eine helle, freundliche und grosszügige 4…
 Teilen
 E-Mail
 Facebook
@@ -207,7 +270,9 @@ E-Mail
 Facebook
 Whatsapp
 Scheunerweg 11
-Preis auf Anfrage
+1'400
+CHF
+/Monat
 ZENTRAL UND RUHIG
 Scheunerweg 11, 3063 Ittigen
 Array
@@ -297,43 +362,6 @@ Zimmer
 Wohnfläche
 113 m2
 An freundlicher und ruhiger Lage in Ittigen vermieten wir per 01. August 2021 oder nach Vereinbarun…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Papiermühlestrasse 132
-1'365
-CHF
-/Monat
-3 1/2-Zimmerwohnung, 1. Stock links
-Papiermühlestrasse 132, 3063 Ittigen
-Array
-3.5 Zimmer
-64 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-64 m2
-Ey, Ittigen - öV und Autobahnanschluss Wankdorf in unmittelbarer NäheHelle und geräumige Wohnung - …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-untere Zollgasse 133
-1'350
-CHF
-/Monat
-Komfort für Singles
-untere Zollgasse 133, 3063 Ittigen
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wir vermieten ab 1. August 2021 oder nach Vereinbarung eine grosszügige 2.5 Zimmer-Wohnung an der u…
 Teilen
 E-Mail
 Facebook
@@ -497,26 +525,6 @@ Wohnung, Flach
 Zimmer
 4
 Die Liegenschaft befindet in der Nähe der Busendstation "Kappelisacker" der Linien 40/41/43 in Itt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Längfeldstrasse 20
-1'480
-CHF
-/Monat
-Neue Küche / Neues Bad
-Längfeldstrasse 20, 3063 Ittigen
-Array
-3 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-70 m2
-In Ittigen vermieten wir an erhöhter Lage eine schöne Wohnung in einem Mehrfamilienhaus. Die Stadt …
 Teilen
 E-Mail
 Facebook

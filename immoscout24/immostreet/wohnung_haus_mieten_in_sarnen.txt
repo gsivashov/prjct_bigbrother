@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-sarnen/
 Title: Wohnung & Haus mieten in Sarnen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Sarnen - Immostreet.ch: ImmoStreet.ch hat 6 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Sarnen - Immostreet.ch: ImmoStreet.ch hat 8 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-6 Resultate gefunden ·
+8 Resultate gefunden ·
 Wohnung & Haus mieten in Sarnen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,48 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+3'800
+CHF
+/Monat
+Seeanstoss
+Adresse auf Anfrage, 6060 Sarnen
+Array
+5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5
+Wohnfläche
+160 m2
+Etage
+Gut 5 min von Sarnen. 15/20 min von Luzern,ca. 30 Minuten von Rotkreuz, ZG;  An einmaliger Lage mit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brünigstrasse 100
+1'010
+CHF
+/Monat
+3 1/2-Zimmer-Wohnung
+Brünigstrasse 100, 6060 Sarnen
+Array
+3.5 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+81 m2
+Die Wohnung ist zur Bachseite gelegen.
+Grosser, heller Wohnraum mit Parkettboden; Nasszelle mit Ba…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Gartenstrasse 27 (Haus B1)
 1'920
 CHF

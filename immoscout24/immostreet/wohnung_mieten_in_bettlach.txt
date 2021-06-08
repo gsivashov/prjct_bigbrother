@@ -1,4 +1,4 @@
-URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-wohnung/in-bettlach/
+URL: https://www.immostreet.ch/de/mieten/apartment-and-house/unterkategorie-flat/in-bettlach/
 Title: Wohnung mieten in Bettlach - Immostreet.ch
 Description: Wohnung mieten in  Bettlach - Immostreet.ch: ImmoStreet.ch hat 23 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
@@ -72,12 +72,25 @@ Möbliertes Wohnobjekt
 Dachwohnung
 Maisonette / Duplex
 Attikawohnung
+Einfamilienhaus
 Einzelzimmer
 Studio
+Doppeleinfamilienhaus
+Hobbyraum
+Reihenfamilienhaus
 Loft
+Villa
 Terrassenwohnung
+Chalet
+Bauernhaus
 Einliegerwohnung
 Mansarde
+Kellerabteil
+Terrassenhaus
+Rustico
+Stöckli
+Schloss
+Höhlen- / Erdhaus
 Preis von
 Preis bis
 Zimmer von
@@ -85,6 +98,14 @@ Zimmer bis
 Fläche von
 m2
 Fläche bis
+m2
+Grundstückfläche von
+m2
+Grundstückfläche bis
+m2
+Nutzfläche von
+m2
+Nutzfläche bis
 m2
 Etage
 Alle
@@ -131,6 +152,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+900
+CHF
+/Monat
+ATTRAKTIV FÜR SINGLES
+Adresse auf Anfrage, 2544 Bettlach
+Array
+2 Zimmer
+42 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+42 m2
+Diese charmante Wohnung befindet sich an zentraler Lage in einem ruhigen Quartier. Top geeignet für…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Aristonstrasse 9
 550
 CHF
@@ -225,26 +266,6 @@ Zimmer
 2
 Etage
 Eingangsbereich mit WandschrankGrosszügige KücheBad mit Toilette…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-900
-CHF
-/Monat
-ATTRAKTIV FÜR SINGLES
-Adresse auf Anfrage, 2544 Bettlach
-Array
-2 Zimmer
-42 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-42 m2
-Diese charmante Wohnung befindet sich an zentraler Lage in einem ruhigen Quartier. Top geeignet für…
 Teilen
 E-Mail
 Facebook
@@ -532,9 +553,9 @@ Seite 1 von 2
 nächste Seite
 ImmoStreet.ch
 Mieten
-Wohnung zu mieten
+Wohnung & Haus zu mieten
 Wohnung mieten in der Stadt Bettlach
-Wohnung zu mieten PLZ 2544
+Wohnung & Haus zu mieten PLZ 2544
 Privatperson
 Inserieren
 Suchabo

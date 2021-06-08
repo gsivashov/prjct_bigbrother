@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/parking-place/in-bern/
 Title: Parkplatz, Garage mieten in Bern - Immostreet.ch
-Description: Parkplatz, Garage mieten in  Bern - Immostreet.ch: ImmoStreet.ch hat 45 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Parkplatz, Garage mieten in  Bern - Immostreet.ch: ImmoStreet.ch hat 44 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -108,7 +108,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-45 Resultate gefunden ·
+44 Resultate gefunden ·
 Parkplatz, Garage mieten in Bern
 Preis (aufsteigend)
 Preis (absteigend)
@@ -121,6 +121,34 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Huberstrasse 5
+150
+CHF
+/Monat
+Einstellhallenplatz im Quartier Holligen
+Huberstrasse 5, 3008 Bern
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten per sofort einen Einstellhallenplatz in der Nähe des Loryplatzes.Das Inselspital ist …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Friedheimweg 7
+130
+CHF
+/Monat
+Einstellhallenplatz
+Friedheimweg 7, 3007 Bern
+Array
+Objekttyp
+Tiefgarage
+Zu vermieten:Einstellhallenplatz, zentral gelegen, WeissenbühlquartierFriedheimweg 7, nähe Bus- und…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Monreposweg 22
 150
 CHF
@@ -214,20 +242,6 @@ Array
 Objekttyp
 Tiefgarage
 Einstellhallenplatz Nr. 1 zu vermieten.
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bürglenstrasse 21
-150
-CHF
-/Monat
-Garage im Ostring-Quartier
-Bürglenstrasse 21, 3006 Bern
-Array
-Objekttyp
-Einzelgarage
-An der Bürglenstrasse 21, 3006 Bern, vermieten wir nach Vereinbarung eine Garage für CHF 150.00 / M…
 Teilen
 E-Mail
 Facebook
@@ -382,20 +396,6 @@ Array
 Objekttyp
 Tiefgarage
 Die Liegenschaft befindet sich in einer attraktiven und bestens erschlossenen Gewerbe- und Wohnzone…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Scheuermattweg 4
-130
-CHF
-/Monat
-Einstellhallenparkplatz nähe Berner Inn…
-Scheuermattweg 4, 3007 Bern
-Array
-Objekttyp
-Tiefgarage
-Per sofort oder nach Vereinbarung vermieten wir Einstellhallenparkplätze am Scheuermattweg 4 in Ber…
 Teilen
 E-Mail
 Facebook

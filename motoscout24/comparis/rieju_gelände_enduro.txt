@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -636,11 +635,11 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Rieju
-(129)
+(128)
 Rieju Neu
-(85)
+(83)
 Rieju Occasion
-(44)
+(45)
 Aufbau
 Rieju Strasse
 (102)
@@ -648,9 +647,9 @@ Rieju Gelände / Enduro Modelle
 Rieju Marathon 125 Pro SM
 (3)
 Rieju MRT Pro 50
-(25)
+(26)
 Rieju MRT SM 50
-(54)
+(53)
 Rieju MRT Trophy 50
 (15)
 Rieju Tango 125

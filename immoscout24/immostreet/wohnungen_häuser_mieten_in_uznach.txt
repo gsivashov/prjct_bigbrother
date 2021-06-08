@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-uznach/
 Title: Wohnungen & Häuser mieten in Uznach - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Uznach - Immostreet.ch: ImmoStreet.ch hat 47 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Uznach - Immostreet.ch: ImmoStreet.ch hat 45 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-47 Resultate gefunden ·
+45 Resultate gefunden ·
 Wohnungen & Häuser mieten in Uznach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,27 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Brauereistrasse 34
+1'570
+CHF
+/Monat
+Schöne Gartenwohnung
+Brauereistrasse 34, 8730 Uznach
+Array
+4.5 Zimmer
+91 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+91 m2
+Schöne Gartenwohnung in ruhigem Wohnquartier.
+Die Wohnung ist hell und gut möblierbar. Das gross…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Wiesenrain 2
 2'100
 CHF
@@ -290,26 +311,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Burgerrietstrasse 1b
-2'060
-CHF
-/Monat
-Hier macht das Wohnen Freude!
-Burgerrietstrasse 1b, 8730 Uznach
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Leben Sie zentral und doch an ruhiger Lage nahe Bahnhof, Autobahnanschluss und Städtchen. Kindergar…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Mühlaustrasse 12
 920
 CHF
@@ -418,20 +419,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Züblidörfli 27e
-750
-CHF
-/Monat
-Hier entsteht Ihre Selbstständigkeit!
-Züblidörfli 27e, 8730 Uznach
-Array
-Objekttyp
-Büro
-Hier in diesem Wohnquartier könnten Sie sich mit einem stillen Gewerbe wie Büro, Kosmetikstudio, Na…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Burgerfeldstrasse 15
 75
 CHF
@@ -474,6 +461,26 @@ Zimmer
 Wohnfläche
 60 m2
 Sehr schöne ruhige Wohnung. Glaskeramik, Laminatböden, Glasfaseranschluss, zwei Balkone, Estrich, K…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gerbistrasse 8
+1'490
+CHF
+/Monat
+3-Zimmerwohnung im Zentrum von Uznach
+Gerbistrasse 8, 8730 Uznach
+Array
+3 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+70 m2
+Wir vermieten in einem Mehrfamilienhaus per sofort oder nach Vereinbarung diese 3-Zimmerwohnung. Di…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-horgen/
 Title: Haus kaufen in Bezirk Horgen - Immostreet.ch
-Description: Haus kaufen in Bezirk Horgen - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Horgen - Immostreet.ch: ImmoStreet.ch hat 26 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-24 Resultate gefunden ·
+26 Resultate gefunden ·
 Haus kaufen in Bezirk Horgen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,96 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+2'790'000
+CHF
+Einfamilienhaus mit Einliegerwohnung un…
+Adresse auf Anfrage, 8824 Schönenberg ZH
+Array
+6.5 Zimmer
+250 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+250 m2
+Etage
+Das freistehende Einfamilienhaus in Schönenberg kann man zweifellos als Refugium für naturliebende …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lärchenstrasse 7
+4'400'000
+CHF
+Moderne trifft auf Charme: Stilvolles W…
+Lärchenstrasse 7, 8800 Thalwil
+Array
+9 Zimmer
+277 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+9
+Wohnfläche
+277 m2
+Etage
+Beschreibung
+Ein Ort zum Wohlfühlen – geniessen Sie sonnige Stunden auf der Terrasse und lassen Si…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Der Garten Eden 6.5 Zimmer EFH mit Blic…
+Adresse auf Anfrage, 8805 Richterswil
+Array
+6.5 Zimmer
+210 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+6.5
+Wohnfläche
+210 m2
+Dieses schöne Haus mit 6,5 Schlafzimmern und herrlichem Blick auf den Zürichsee hat eine sehr gross…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kirchstrasse 94
+920'000
+CHF
+6 1/2-Zimmer Reihen-Eckhaus mit grossem…
+Kirchstrasse 94, 8810 Horgen
+Array
+6.5 Zimmer
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+6.5
+Etage
+Das zum Verkauf stehende Einfamilien-Eckhaus wurde ca. 1700 erstellt und ist Aussen und Innen erneu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zimmerbergstrasse
+2'500'000
+CHF
+Freistehendes EFH an attraktiver Lage f…
+Zimmerbergstrasse, 8803 Rüschlikon
+Array
+Objekttyp
+Wohnung, Einzelhaus
+*Eine Dokumentation ist diesem Inserat angehängt oder auf www.kpim.ch verfügbar*
+An attraktiver …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 1'550'000
 CHF
@@ -418,105 +508,6 @@ Zimmer
 Wohnfläche
 245 m2
 Dieses charmante Einfamilienhaus mit 7,5 Zimmern, welches am Ende einer Sackgasse liegt, bietet gro…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfstrasse 9E
-1'565'000
-CHF
-RESERVIERT: AgentSelly - Ihr neues Zuha…
-Dorfstrasse 9E, 8816 Hirzel
-Array
-5.5 Zimmer
-176 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-176 m2
-Etage
-In Hirzel auf dem schönen Zimmerberg finden Sie dieses moderne Eckhaus mit einem attraktiven Platza…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'980'000
-CHF
-Fantastisches Anwesen mitten im Grünen …
-Adresse auf Anfrage, 8810 Horgen
-Array
-8.5 Zimmer
-297 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-8.5
-Wohnfläche
-297 m2
-Bewegungsfreiheit und Naturverbundenheit inkl. PferdeboxWiesen, Bäume und Felder ? wohin Sie blicke…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rötibodenstrasse
-1'455'000
-CHF
-Wohnen mit Seeblick
-Rötibodenstrasse, 8820 Wädenswil
-Array
-4.5 Zimmer
-137 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-4.5
-Wohnfläche
-137 m2
-Etage
-- Wohnen über drei Geschosse- Zugang zu grosszügigen Dachterrassen- Beschaulicher Innenhof- Gemeins…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'590'000
-CHF
-Doppeleinfamilienhaus "Unter der Linde"…
-Adresse auf Anfrage, 8810 Horgen
-Array
-5.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-150 m2
-Etage
-Alle Informationen finden Sie auf: www.unterderlinde.chDas Wichtigste auf einen Blick:- Neubauproje…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfstrasse 40
-1'590'000
-CHF
-Doppeleinfamilienhaus "Unter der Linde"…
-Dorfstrasse 40, 8816 Hirzel
-Array
-5.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-150 m2
-Etage
-Alle Informationen finden Sie auf: www.unterderlinde.chDas Wichtigste auf einen Blick:- Neubauproje…
 Teilen
 E-Mail
 Facebook

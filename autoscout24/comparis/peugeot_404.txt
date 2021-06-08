@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -603,7 +602,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Peugeot
-(7'134)
+(7'066)
 Peugeot 404 Occasion
 (4)
 Peugeot 404 Oldtimer
@@ -619,21 +618,21 @@ Peugeot 404
 (7)
 Modelle
 Peugeot 208
-(1'196)
+(1'190)
 Peugeot 3008
-(971)
+(930)
 Peugeot 308
-(884)
+(890)
 Peugeot 2008
-(719)
+(708)
 Peugeot 508
-(469)
+(445)
 Peugeot 5008
-(420)
+(410)
 Peugeot 207
-(377)
+(375)
 Peugeot Boxer
-(277)
+(271)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -709,7 +708,7 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 25'900
 ab CHF 473 / Monat
-Preiserhöhung
+Preisreduktion
 PEUGEOT 404 Limousine
 28.01.2020
 Oldtimer
@@ -718,8 +717,8 @@ Oldtimer
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 26'800
-ab CHF 489 / Monat
+CHF 25'400
+ab CHF 464 / Monat
 ×
 ×
 comparis.ch

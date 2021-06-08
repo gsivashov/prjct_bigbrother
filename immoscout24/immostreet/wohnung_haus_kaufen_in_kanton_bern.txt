@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/kanton-bern/
 Title: Wohnung & Haus kaufen in Kanton Bern - Immostreet.ch
-Description: Wohnung & Haus kaufen in Kanton Bern - Immostreet.ch: ImmoStreet.ch hat 613 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Kanton Bern - Immostreet.ch: ImmoStreet.ch hat 614 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-613 Resultate gefunden ·
+614 Resultate gefunden ·
 Wohnung & Haus kaufen in Kanton Bern
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,385 +151,380 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Grundstrasse 5
-3'950'000
+Adresse auf Anfrage
+490
 CHF
-Atemberaubendes Chalet La Gioventù
-Grundstrasse 5, 3818 Grindelwald
+Esstisch Kernbuche 190 x 100
+Adresse auf Anfrage, 3324 Hindelbank
 Array
-7.5 Zimmer
-322 m2
-Objekttyp
-Wohnung, Chalet
-Zimmer
-7.5
-Wohnfläche
-322 m2
-ObjektbeschreibungDreams come true ? dies ist nicht nur unser Motto, sondern bei diesem aussergewöh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Buchwaldstrasse 12
-1'345'000
-CHF
-GRÜNEGG - NEUE EINFAMILIENHÄUSER - LIEB…
-Buchwaldstrasse 12, 3510 Konolfingen
-Array
-5.5 Zimmer
-136 m2
+1 Zimmer
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-5.5
-Wohnfläche
-136 m2
-Etage
-Aussicht zum VerliebenDie einzigartige Lage auf der Sonnenseite der Gemeinde Konolfingen eröffnet v…
+1
+Schöner Esstisch aus Kernbuche. Neupreis 2' 000 Franken. Masse 190 x 100 mit Verlängerung von 50 cm…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Spillstattstrasse 69
-3'450'000
+Adresse auf Anfrage
+750'000
 CHF
-6.5-Zimmerwohnung mit Galerie im Dachge…
-Spillstattstrasse 69, 3818 Grindelwald
+Eintausch Wohnung gegen Einfamilienhaus…
+Adresse auf Anfrage, 3053 Münchenbuchsee
 Array
-6.5 Zimmer
-225 m2
+4.5 Zimmer
+108 m2
 Objekttyp
 Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+108 m2
+Wir sind auf der Suche nach einem Einfamilienhaus oder Reihenfamilienhaus in Münchenbuchsee, dafür …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+930'000
+CHF
+Très jolie et lumineuse maison mitoyenn…
+Adresse auf Anfrage, 2518 Nods
+Array
+5.5 Zimmer
+242 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+242 m2
+Etage
+Qui n'a jamais rêvé d'une maison dans laquelle sa famille pourrait s'épanouir?Si c'est votre cas, v…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'530'000
+CHF
+Nachhaltig und komfortabel leben direkt…
+Adresse auf Anfrage, 2505 Biel/Bienne
+Array
+6.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Duplex
 Zimmer
 6.5
 Wohnfläche
+150 m2
+Wollen Sie in einem idyllischen, ruhigen sowie kinderfreundlichen Quartier an der Aare leben? Wolle…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'300'000
+CHF
+LOHNENDE LANDHAUSVILLA
+Adresse auf Anfrage, 3065 Bolligen
+Array
+8.5 Zimmer
+233 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+8.5
+Wohnfläche
+233 m2
+Folgende Besichtigungen finden statt: Montag, 14. Juni 2021, von 14:30 bis 16:00 Uhr Mittwoch, 23…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+575'000
+CHF
+NICHT MEHR VERFÜGBAR
+Adresse auf Anfrage, 3054 Schüpfen
+Array
+3.5 Zimmer
+93 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+3.5
+Wohnfläche
+93 m2
+An guter Lage in Schüpfen, nähe Einkaufsmöglichkeiten veräussern wir diese originelle Maisonnette W…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brünigstrasse 50
+598'000
+CHF
+Heimatgefühl auf zwei Etagen verteilt
+Brünigstrasse 50, 3860 Meiringen
+Array
+4.5 Zimmer
+134 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+134 m2
+Ein positives Gefühl von Wärme und Heimeligkeit kommt auf Sie zu, jedes Mal wenn Sie diese wunderba…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Postgasse 2
+330'000
+CHF
+Fehr Immobilien - Charmante 3.5-Zimmer-…
+Postgasse 2, 2542 Pieterlen
+Array
+3.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+75 m2
+Charmante Wohnung in ruhigem Wohnquartier Das 1988 erstellte Wohnhaus liegt eingebettet in ein ruhi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+738'000
+CHF
+REIHENFAMILIENHAUS MIT GROSSZÜGIGEM GAR…
+Adresse auf Anfrage, 2557 Studen BE
+Array
+4.5 Zimmer
+136 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+4.5
+Wohnfläche
+136 m2
+Das 1988 erbaute, grosszügige Reihenfamilienhaus, befindet sich an zentraler Lage in der beliebten …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rue de Boujean 79b
+475'000
+CHF
+Heimelige, grosszügige 3.5-Zimmer-Wohnu…
+Rue de Boujean 79b, 2502 Biel/Bienne
+Array
+3.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+86 m2
+Ich freue mich schon jetzt, Sie als meinen neuen Eigentümer willkommen zu heissen.Besuchen Sie Ihr …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mauren 814
+700'000
+CHF
+Grosszügige 5.5 Zimmer Dachwohnung in B…
+Mauren 814, 3803 Beatenberg
+Array
+5.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+5.5
+Wohnfläche
+145 m2
+Etage
+Diese grosszügige 5.5 Zimmer Dachwohnung verfügt über ein Badezimmer, ein Gäste-WC, ein Cheminée un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brühlstrasse 22
+960'000
+CHF
+Neubau 5.5 Zimmer Einfamilienhaus
+Brühlstrasse 22, 4536 Attiswil
+Array
+5.5 Zimmer
+133 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+133 m2
+Etage
+Hier entsteht ein neues Einfamilienhaus von WeberHaus. Lassen Sie sich inspirieren! Selbstverständl…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obere Wannenfluhstrasse 10
+1'380'000
+CHF
+Neubau Erst- oder Ferienwohnung Sie hab…
+Obere Wannenfluhstrasse 10, 3770 Zweisimmen
+Array
+4.5 Zimmer
+133 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+133 m2
+Etage
+Erst- oder Ferienwohnung Sie haben die Wahl! Das charmante Chalet ist im Moment im Rohbau und warte…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obere Wannenfluhstrasse 10
+1'410'000
+CHF
+Neubau Erst- oder Ferienwohnung Sie hab…
+Obere Wannenfluhstrasse 10, 3770 Zweisimmen
+Array
+4.5 Zimmer
+133 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+133 m2
+Etage
+Erst- oder Ferienwohnung Sie haben die Wahl! Das charmante Chalet ist im Moment im Rohbau und warte…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lerchenhubel 12
+522'000
+CHF
+Kaufen statt Mieten!
+Lerchenhubel 12, 3206 Ferenbalm
+Array
+3.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+120 m2
+Etage
+Die perfekt gelegene Dachwohnung ist ideal für Paare oder eine Familie mit einem Kind. Die grosszüg…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obere Wannenfluhstrasse 10
+1'430'000
+CHF
+Neubau Erst- oder Ferienwohnung Sie hab…
+Obere Wannenfluhstrasse 10, 3770 Zweisimmen
+Array
+4.5 Zimmer
+139 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+139 m2
+Etage
+Erst- oder Ferienwohnung Sie haben die Wahl! Das charmante Chalet ist im Moment im Rohbau und warte…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kanalweg
+1'410'000
+CHF
+*7,5-Zimmer-Familienhaus - Liebhaberobj…
+Kanalweg, 2560 Nidau
+Array
+8 Zimmer
 225 m2
-Etage
-ObjektbeschreibungEine der grössten und schönsten Wohnungen von Grindelwald verfügt über eine erstk…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kanalpromenade 10A
-760'000
-CHF
-AgentSelly - Modernes Wohngefühl direkt…
-Kanalpromenade 10A, 3800 Interlaken
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Die herrliche Lage dieser modernen Wohnung direkt an der Aare in Interlaken wird Sie begeistern. Da…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-370'000
-CHF
-CHARMANT MIT CHEMINÉE
-Adresse auf Anfrage, 2504 Biel/Bienne
-Array
-3.5 Zimmer
-84 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-84 m2
-Suchen Sie das Spezielle? Dann sind Sie genau richtig bei uns! Ihr neues Zuhause liegt im Herzen vo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Siselen BE
-1'195'000
-CHF
-Wunderschönes und hochwertiges Minergie…
-Siselen BE, 2577 Siselen BE
-Array
-4.5 Zimmer
-190 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-4.5
+8
 Wohnfläche
-190 m2
-Dieses spannende Haus lässt nicht viele Wünsche offen. Es bietet einen stilvollen und grosszügigen …
+225 m2
+Es handelt sich um ein 7.5-Zimmer-Familienhaus mit Autounterstand / Garage und Gartenhaus. Die Lieg…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Büren an der Aare
-805'000
+Gummenstrasse
+1'403'000
 CHF
-Moderne und hochwertige 3½ Zi-Wohnung m…
-Büren an der Aare, 3294 Büren an der Aare
+*Landwirtschaftliches Gewerbe mit 2 Woh…
+Gummenstrasse, 3174 Thörishaus
 Array
-3.5 Zimmer
-142 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-142 m2
-Diese attraktive Wohnung mit einem gut durchdachten Grundriss bietet viele Qualitäten. Das harmonis…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-744'000
-CHF
-Urbane Wohnung in Bern City!
-Adresse auf Anfrage, 3014 Bern
-Array
-4.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-90 m2
-Die tolle Wohnung liegt an bester Lage in Bern und wurde 2020 renoviert. Es sind keine weiteren Ren…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-500'000
-CHF
-Viager occupé/libre Moutier/Berne Grand…
-Adresse auf Anfrage, 2740 Moutier
-Array
-10 Zimmer
-464 m2
 Objekttyp
 Wohnung, Einzelhaus
-Zimmer
-10
-Wohnfläche
-464 m2
-Viager occupé/libre. Moutier/Berne. Magnifique rénovation d'une ancienne ferme. Conditions:Valeur …
+Ein Wohnhaus wurde vermutlich 1926 erstellt und verfügt über eine Wohnung, die sich über EG und OG …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Sägestrasse 34
-830'000
+Gaichtstrasse
+685'000
 CHF
-AgentSelly - Eine Wohlfühloase für Ihre…
-Sägestrasse 34, 3415 Rüegsauschachen
+*Wohnung mit Einstellhallenplatz an seh…
+Gaichtstrasse, 2512 Tüscherz-Alfermée
 Array
-5.5 Zimmer
-121 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-121 m2
-Etage
-Mit einem bezaubernden Garten und einem idealen Grundriss für Familien, wird Sie dieses Einfamilien…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fischermätteli 13
-505'000
-CHF
-Attraktive 3.5 Zimmer Wohnung im naturn…
-Fischermätteli 13, 3400 Burgdorf
-Array
-3.5 Zimmer
-90 m2
+6 Zimmer
+140 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+6
 Wohnfläche
-90 m2
-ERSCHWINGLICH ? NATURNAH ? GEMEINSAM Fischermätteli ? Lebensraum aus Schweizer HolzIm Südosten von …
+140 m2
+Es handelt sich um eine 5.5-Zimmer-Eigentumswohnung mit Einstellhallenplatz.Bei dieser Immobilie ha…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Fischermätteli 13
-555'000
+Asterweg
+450'000
 CHF
-Attraktive 3.5 Zimmer Wohnung im naturn…
-Fischermätteli 13, 3400 Burgdorf
+*Etagenwohnung*
+Asterweg, 3661 Uetendorf
 Array
-3.5 Zimmer
-97 m2
+4 Zimmer
+88 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+4
 Wohnfläche
-97 m2
-ERSCHWINGLICH ? NATURNAH ? GEMEINSAM Fischermätteli ? Lebensraum aus Schweizer HolzIm Südosten von …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fischermätteli 13
-630'000
-CHF
-Grosszügige 4.5 Zimmer Wohnung im natur…
-Fischermätteli 13, 3400 Burgdorf
-Array
-4.5 Zimmer
-114 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-114 m2
-ERSCHWINGLICH ? NATURNAH ? GEMEINSAM Fischermätteli ? Lebensraum aus Schweizer HolzIm Südosten von …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fischermätteli 13
-730'000
-CHF
-Grosszügige 4.5 Zimmer Wohnung im natur…
-Fischermätteli 13, 3400 Burgdorf
-Array
-4.5 Zimmer
-108 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-108 m2
-ERSCHWINGLICH ? NATURNAH ? GEMEINSAM Fischermätteli ? Lebensraum aus Schweizer HolzIm Südosten von …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fischermätteli 13
-495'000
-CHF
-Attraktive 3.5 Zimmer Wohnung im naturn…
-Fischermätteli 13, 3400 Burgdorf
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-ERSCHWINGLICH ? NATURNAH ? GEMEINSAM Fischermätteli ? Lebensraum aus Schweizer HolzIm Südosten von …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fischermätteli 13
-740'000
-CHF
-Exklusive 5.5 Zimmer Wohnung im naturna…
-Fischermätteli 13, 3400 Burgdorf
-Array
-5.5 Zimmer
-132 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-132 m2
-ERSCHWINGLICH ? NATURNAH ? GEMEINSAM Fischermätteli ? Lebensraum aus Schweizer HolzIm Südosten von …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fischermätteli 13
-710'000
-CHF
-Attraktive 3.5 Zimmer Attikawohnung im …
-Fischermätteli 13, 3400 Burgdorf
-Array
-3.5 Zimmer
-108 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-108 m2
-ERSCHWINGLICH ? NATURNAH ? GEMEINSAM Fischermätteli ? Lebensraum aus Schweizer HolzIm Südosten von …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fischermätteli 13
-525'000
-CHF
-Attraktive 3.5 Zimmer Wohnung im naturn…
-Fischermätteli 13, 3400 Burgdorf
-Array
-3.5 Zimmer
-92 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-92 m2
-ERSCHWINGLICH ? NATURNAH ? GEMEINSAM Fischermätteli ? Lebensraum aus Schweizer HolzIm Südosten von …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fischermätteli 13
-605'000
-CHF
-Attraktive 3.5 PLUS Zimmer Wohnung im n…
-Fischermätteli 13, 3400 Burgdorf
-Array
-3.5 Zimmer
-113 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-113 m2
-ERSCHWINGLICH ? NATURNAH ? GEMEINSAM Fischermätteli ? Lebensraum aus Schweizer HolzIm Südosten von …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fischermätteli 13
-635'000
-CHF
-Grosszügige 4.5 Zimmer Wohnung im natur…
-Fischermätteli 13, 3400 Burgdorf
-Array
-4.5 Zimmer
-111 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-111 m2
-ERSCHWINGLICH ? NATURNAH ? GEMEINSAM Fischermätteli ? Lebensraum aus Schweizer HolzIm Südosten von …
+88 m2
+Es handelt sich um eine 4.5-Zimmerwohnung im 1. OG links, mit Nebenraum.Bei dieser Immobilie handel…
 Teilen
 E-Mail
 Facebook

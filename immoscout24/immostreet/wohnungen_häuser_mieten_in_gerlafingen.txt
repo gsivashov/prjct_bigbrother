@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-gerlafingen/
 Title: Wohnungen & Häuser mieten in Gerlafingen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Gerlafingen - Immostreet.ch: ImmoStreet.ch hat 36 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Gerlafingen - Immostreet.ch: ImmoStreet.ch hat 38 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-36 Resultate gefunden ·
+38 Resultate gefunden ·
 Wohnungen & Häuser mieten in Gerlafingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,68 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Obergerlafingenstrasse 9
+1'724
+CHF
+/Monat
+zentral gelegene 4.5-Zimmerwohnung
+Obergerlafingenstrasse 9, 4563 Gerlafingen
+Array
+4.5 Zimmer
+91 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+91 m2
+Per 1. Oktober 2021 oder nach Vereinbarung vermieten wir eine sanierte 4.5-Zimmerwohnung im 3. Ober…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schmiedeweg 6
+1'000
+CHF
+/Monat
+NÄTÜRLICH, MODERN UND EINFACH ZEITLOS -…
+Schmiedeweg 6, 4563 Gerlafingen
+Array
+2 Zimmer
+46 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+46 m2
+Etage
+Dies könnte bald Ihr neues Zuhause sein.Wir vermieten per 1. August 2021 oder nach Vereinbarung die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schmiedeweg 6
+1'290
+CHF
+/Monat
+NÄTÜRLICH, MODERN UND EINFACH ZEITLOS -…
+Schmiedeweg 6, 4563 Gerlafingen
+Array
+3 Zimmer
+57 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+57 m2
+Etage
+Suchen Sie ein modernes Heim mit charmantem Flair und zeitlosem Grundriss ?Dann hat Ihre Suche hier…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Fliederstrasse 1 B
 2'230
 CHF
@@ -422,63 +484,6 @@ Wohnung, Flach
 Zimmer
 3
 Ich suche einen Nachmieter ab Mitte Mai oder nach Vereinarung für diese hübsche 3 Zimmerwohnung in …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Waldstrasse 2
-1'580
-CHF
-/Monat
-Verenapark - wo Stil, Comfort und Natur…
-Waldstrasse 2, 4563 Gerlafingen
-Array
-3.5 Zimmer
-89 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-89 m2
-Der Standort in der Nähe zu Schulen, Bus- und Zughaltestellen sowie Einkaufsmöglichkeiten, ermöglic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schulhausstrasse 23
-1'715
-CHF
-/Monat
-Verenapark - wo Stil, Comfort und Natur…
-Schulhausstrasse 23, 4563 Gerlafingen
-Array
-3.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-79 m2
-Der Standort in der Nähe zu Schulen, Bus- und Zughaltestellen sowie Einkaufsmöglichkeiten, ermöglic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schmiedeweg 8
-995
-CHF
-/Monat
-Gemütliche 2 - Zimmerwohnung
-Schmiedeweg 8, 4563 Gerlafingen
-Array
-2 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Schöne 2.5 Zimmerwohnung zu vermieten!Wir vermieten per sofort oder nach Vereinbarung eine schöne u…
 Teilen
 E-Mail
 Facebook

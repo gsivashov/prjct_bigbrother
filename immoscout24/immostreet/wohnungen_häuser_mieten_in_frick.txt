@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-frick/
 Title: Wohnungen & Häuser mieten in Frick - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Frick - Immostreet.ch: ImmoStreet.ch hat 52 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Frick - Immostreet.ch: ImmoStreet.ch hat 53 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-52 Resultate gefunden ·
+53 Resultate gefunden ·
 Wohnungen & Häuser mieten in Frick
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,150 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Zwidellen 26A
+1'900
+CHF
+/Monat
+Einzigartige Wohnung an ruhiger Lage im…
+Zwidellen 26A, 5070 Frick
+Array
+3 Zimmer
+65 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+3
+Wohnfläche
+65 m2
+Etage
+Gedeckter AutoabstellplatzDachterrasse 53m2 mit Ausblick ins GrüneKellera…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sägeweg 5
+1'385
+CHF
+/Monat
+Wohnung mit Balkon in ruhigem Quartier
+Sägeweg 5, 5070 Frick
+Array
+3 Zimmer
+73 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+73 m2
+Die 3-Zimmerwohnung überzeugt mit dem Balkon auf der Westseite (Abendsonne). Die Innenräume verfüge…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 64
+2'440
+CHF
+/Monat
+Viel Wohnraum und eine "OASE" als Terra…
+Hauptstrasse 64, 5070 Frick
+Array
+4.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+140 m2
+Möchten Sie zentral wohnen und dennoch nicht auf Ruhe und Idylle verzichten?Träumen Sie von warmen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gänsacker 6
+1'990
+CHF
+/Monat
+NEUWERTIGE 3.5-ZIMMER-WOHNUNG
+Gänsacker 6, 5070 Frick
+Array
+3.5 Zimmer
+94 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+94 m2
+Im Haus A vermieten wir im Erdgeschoss per 1. April 2021 oder nach Vereinbarung eine grosszügige, h…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Widengasse 20/22
+2'195
+CHF
+/Monat
+1 Monat GRATIS! Moderne und zentrale Wo…
+Widengasse 20/22, 5070 Frick
+Array
+4.5 Zimmer
+118 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+118 m2
+Etage
+Einkaufsmöglichkeiten, ÖV, Autobahnanschluss, Schulen etc. befinden sich in der näheren Umgebung. D…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Widengasse 20/22
+2'000
+CHF
+/Monat
+1 Monat GRATIS! 3.5-Zimmerwohnung an ru…
+Widengasse 20/22, 5070 Frick
+Array
+3.5 Zimmer
+98 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+98 m2
+Etage
+Eingebettet zwischen Widengasse und Hauptstrasse entstand im 2017 an zentraler Lage dieses architek…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Widengasse 20/22
+2'600
+CHF
+/Monat
+1 Monat GRATIS! Moderne Attikawohnung i…
+Widengasse 20/22, 5070 Frick
+Array
+3.5 Zimmer
+109 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+109 m2
+Etage
+Eingebettet zwischen Widengasse und Hauptstrasse entstand im 2017 an zentraler Lage dieses architek…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Hauptstrasse 99
 1'830
 CHF
@@ -279,26 +423,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Gänsacker 6
-1'970
-CHF
-/Monat
-Grosszügig und hell an Top-Lage in Frick
-Gänsacker 6, 5070 Frick
-Array
-3.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-95 m2
-grosszügig und hell, Autobahnanschluss in 2 min.offene Küche mit Granitabdeckung u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Industriestrasse 3 / Haus I
 1'600
 CHF
@@ -382,119 +506,6 @@ Verkauf, Praxis
 Zimmer
 3.5
 Sie suchen einen neuen Standort für Ihre Praxis oder Unternehmen? Dann haben wir genau das richtige…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dörrmattweg, 16
-1'450
-CHF
-/Monat
-Topwohnung zentral in Frick
-Dörrmattweg, 16, 5070 Frick
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wirklich eine Hammerwohnung - hell und grosse Zimmer, direkt beim Bahnhof 3 bis 5 Minuten bis Coop,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 69
-1'790
-CHF
-/Monat
-Zentrales Wohnen in Frick
-Hauptstrasse 69, 5070 Frick
-Array
-3.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-98 m2
-Mitten drin statt nur dabeiModerner Ausbaustandard? Balkon mit Weitsicht? Einkaufen in Walking Dist…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 69
-1'840
-CHF
-/Monat
-2-stöckiges Wohnen im Herzen von Frick
-Hauptstrasse 69, 5070 Frick
-Array
-3.5 Zimmer
-133 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-133 m2
-Viel Platz für Ihre TräumeWohnen auf 2 Stöcken? Einkaufen in Walking Distance? Schnelle Anbindung n…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 52
-2'350
-CHF
-/Monat
-Ihre neue Geschäftsadresse - Repräsenta…
-Hauptstrasse 52, 5070 Frick
-Array
-Objekttyp
-Verkauf, Gewerbe
-Etage
-Sind sie auf der Suche nach einem neuen Geschäftsdomizil? Muss dieses repräsentativ und verkehrstec…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sägeweg 5
-1'385
-CHF
-/Monat
-Wohnung mit Balkon in ruhigem Quartier
-Sägeweg 5, 5070 Frick
-Array
-3 Zimmer
-73 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-73 m2
-Die 3-Zimmerwohnung überzeugt mit dem Balkon auf der Westseite (Abendsonne). Die Innenräume verfüge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-ZMF - Hauptstrasse 73 - B
-1'780
-CHF
-/Monat
-Moderne, preiswerte 4.5-Zimmerwohnung i…
-ZMF - Hauptstrasse 73 - B, 5070 Frick
-Array
-4.5 Zimmer
-92 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-92 m2
-Etage
-An zentraler Lage in Frick befindet sich diese attraktive und preiswerte 4 1/2 Zimmerwohnung im 1. …
 Teilen
 E-Mail
 Facebook

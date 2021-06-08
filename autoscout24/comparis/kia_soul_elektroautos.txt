@@ -1,6 +1,6 @@
 URL: https://www.comparis.ch/carfinder/marktplatz/kia/soul/elektro
 Title: KIA Soul Elektroautos – Preise vergleichen mit Comparis
-Description: Finden Sie unter 92 KIA Soul Elektroautos Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
+Description: Finden Sie unter 90 KIA Soul Elektroautos Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
 Suche
 Menü
@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -586,47 +585,47 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 KIA
-(3'233)
+(3'231)
 KIA Soul Occasion
-(86)
+(85)
 KIA Soul Neuwagen
-(29)
+(27)
 KIA Soul Vorführwagen
-(22)
+(24)
 Aufbau
 KIA Soul Minivan/Van
-(56)
+(55)
 KIA Soul Kombi
-(52)
+(54)
 KIA Soul Limousine
-(26)
+(24)
 KIA Soul Geländewagen
 (3)
 Motor
 KIA Soul Elektroautos
-(92)
+(90)
 KIA Soul Benzin
-(29)
+(28)
 KIA Soul Diesel
-(11)
+(13)
 Typ
 KIA Soul
-(137)
+(136)
 Modelle
 KIA Cee'd
-(495)
-KIA Sportage
-(442)
+(498)
 KIA Picanto
-(438)
+(440)
+KIA Sportage
+(439)
 KIA Niro
-(392)
+(382)
 KIA Sorento
-(352)
+(361)
 KIA Rio
-(233)
+(237)
 KIA Xceed
-(223)
+(217)
 KIA Stonic
 (134)
 CAR FOR YOU wird durchsucht ...
@@ -634,16 +633,38 @@ auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
 Carweb wird durchsucht ...
 drive-in.ch wird durchsucht ...
-92 Treffer auf allen grossen Schweizer Auto-Portalen
-92 Treffer auf allen Portalen
+90 Treffer auf allen grossen Schweizer Auto-Portalen
+90 Treffer auf allen Portalen
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
 28 Inserate
 4 Inserate
-67 Inserate
+68 Inserate
 0 Inserate
 0 Inserate
+KIA e-Soul Style
+2.5
+04.06.2021
+Vorführwagen
+09.2020, Automat, Elektroautos
+1'300 km, 204 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 44'500
+ab CHF 813 / Monat
+KIA Soul EV Style
+3.5
+04.06.2021
+Occasion
+07.2015, Automat, Elektroautos
+64'000 km, 110 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 14'900
+ab CHF 272 / Monat
 Kia Soul EV Style
 4.0
 01.06.2021
@@ -655,6 +676,7 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 14'400
 ab CHF 263 / Monat
+Preisreduktion
 KIA Soul EV Style
 4.5
 31.05.2021
@@ -664,8 +686,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 13'500
-ab CHF 247 / Monat
+CHF 13'600
+ab CHF 248 / Monat
 KIA Soul EV Style
 4.0
 31.05.2021
@@ -721,6 +743,7 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 26'240
 ab CHF 479 / Monat
+Preisreduktion
 Kia Soul EV Style
 5.0
 13.05.2021
@@ -730,30 +753,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 17'900
-ab CHF 327 / Monat
-KIA Soul EV Style
-4.0
-12.05.2021
-Occasion
-03.2015, Schaltgetriebe, Elektroautos
-70'600 km, 110 PS, Weiss
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 13'990
-ab CHF 256 / Monat
-Kia Soul EV Style
-3.5
-10.05.2021
-Occasion
-03.2019, Manuell, Elektroautos
-27'000 km, 110 PS, Weiss
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 19'900
-ab CHF 363 / Monat
+CHF 16'900
+ab CHF 309 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2
@@ -761,7 +762,7 @@ Sie befinden sich auf Seite1
 4
 5
 6
-10
+9
 nächste Seite
 ×
 ×

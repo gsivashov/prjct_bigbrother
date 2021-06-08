@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-rorschacherberg/
 Title: Wohnung & Haus mieten in Rorschacherberg - Immostreet.ch
-Description: Wohnung & Haus mieten in  Rorschacherberg - Immostreet.ch: ImmoStreet.ch hat 33 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Rorschacherberg - Immostreet.ch: ImmoStreet.ch hat 27 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-33 Resultate gefunden ·
+27 Resultate gefunden ·
 Wohnung & Haus mieten in Rorschacherberg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,46 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Promenadestr 81
+1'260
+CHF
+/Monat
+Zu vermieten in Rorschach
+Promenadestr 81, 9404 Rorschacherberg
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+zu vermieten 3.5 Zimmerwohung mit grosse balkon sehr Hell ab 1.7.21Parkettboden und so weiter 076 7…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Resedastrasse 7
+1'860
+CHF
+/Monat
+Naturnahes Wohnen im Grünen - Willkomme…
+Resedastrasse 7, 9404 Rorschacherberg
+Array
+4.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+105 m2
+LageHier wohnen Sie in einem ruhigen Quartier mit einer familienfreundlichen Infrastruktur, kurzen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Promenadestr 81
 1'260
 CHF
@@ -209,26 +249,6 @@ Wohnfläche
 49 m2
 Etage
 LageDie Liegenschaft ist ruhig im Grünen gelegen. Das Wohnhaus verfügt über einen neuen Lift und ei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Promenadestr 81
-1'260
-CHF
-/Monat
-Zu vermieten in Rorschach
-Promenadestr 81, 9404 Rorschacherberg
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-zu vermieten 3.5 Zimmerwohung mit grosse balkon sehr Hell ab 1.7.21Parkettboden und so weiter 076 7…
 Teilen
 E-Mail
 Facebook
@@ -314,46 +334,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Wilenstrasse 9
-1'325
-CHF
-/Monat
-Moderne Wohnung in direkter Nähe zum Se…
-Wilenstrasse 9, 9404 Rorschacherberg
-Array
-2.5 Zimmer
-63 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-63 m2
-Geniessen Sie den Blick auf die wunderschöne Grünanlage oder direkt auf den See. In wenigen Gehminu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eichenstrasse 9
-1'360
-CHF
-/Monat
-Hochwertige 3.5 Zimmerwohnung am Rorsch…
-Eichenstrasse 9, 9404 Rorschacherberg
-Array
-3.5 Zimmer
-71 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-71 m2
-Der erste Monatsmietzins wird Ihnen geschenkt, damit Sie den Umzug finanziell problemlos abwickeln …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Resedastrasse 7
 1'650
 CHF
@@ -415,26 +395,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Resedastrasse 8
-1'830
-CHF
-/Monat
-Naturnahes Wohnen im Grünen - Willkomme…
-Resedastrasse 8, 9404 Rorschacherberg
-Array
-4.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-105 m2
-LageHier wohnen Sie in einem ruhigen Quartier mit einer familienfreundlichen Infrastruktur, kurzen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Quellenweg 7
 1'115
 CHF
@@ -472,26 +432,6 @@ Zimmer
 Wohnfläche
 131 m2
 ERSTBEZUG - exklusive Eigentumswohnung direkt am See!Die Liegenschaft befindet sich im Neuseeland 3…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bleichistrasse 4a, Rorschacherberg
-1'100
-CHF
-/Monat
-Ruhige Lage und Seesicht. Frisch renovi…
-Bleichistrasse 4a, Rorschacherberg, 9404 Rorschacherberg
-Array
-2.5 Zimmer
-55 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-55 m2
-Die Bleichistrasse im Rorschacherberg ist eine Sackgasse und bietet absolut ruhiges Wohnen mit Grün…
 Teilen
 E-Mail
 Facebook
@@ -553,6 +493,65 @@ Zimmer
 Wohnfläche
 50 m2
 2.5 Zimmer Wohnung zu vermietenAn ruhiger, zentraler Lage vermieten wir auf den 1. Juli 2021 oder n…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eichenstrasse 3
+1'340
+CHF
+/Monat
+Sonnige 3-Zimmerwohnung mit Weitsicht a…
+Eichenstrasse 3, 9404 Rorschacherberg
+Array
+3 Zimmer
+61 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+61 m2
+Etage
+Erfüllen Sie sich Ihren Wohntraum in dieser frisch sanierten Liegenschaft an wunderbarer Lage inmit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seeburgstrasse 4
+1'010
+CHF
+/Monat
+gemütliche 3.5-Zimmer Dachwohnung 3. OG
+Seeburgstrasse 4, 9404 Rorschacherberg
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wir vermieten eine gemütliche 3.5 Zimmer-Dachwohnung.
+Die Wohnung hat viel Charme. Sie ist mit e…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wiesentalstrasse 11
+930
+CHF
+/Monat
+Helle Wohnung mit Blick ins Grüne
+Wiesentalstrasse 11, 9404 Rorschacherberg
+Array
+2.5 Zimmer
+54 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+54 m2
+Wohnzimmer mit Parkettboden.Schlafzimmer mit Laminatboden.Einkaufsmöglich…
 Teilen
 E-Mail
 Facebook

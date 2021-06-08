@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/kanton-stgallen/?pagenum=5
 Title: Wohnung kaufen in Kanton St. Gallen - Immostreet.ch
-Description: Wohnung kaufen in Kanton St. Gallen - Immostreet.ch: ImmoStreet.ch hat 407 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Kanton St. Gallen - Immostreet.ch: ImmoStreet.ch hat 417 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-407 Resultate gefunden ·
+417 Resultate gefunden ·
 Wohnung kaufen in Kanton St. Gallen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,383 +134,392 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-240'000
+Gallusstrasse 16
+630'000
 CHF
-CHARMANT UND RENOVIERT
-Adresse auf Anfrage, 9300 Wittenbach
+Sehr schön renovierte 6,5-Zimmer-Dachwo…
+Gallusstrasse 16, 8730 Uznach
 Array
-2 Zimmer
-50 m2
+6.5 Zimmer
+125 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2
+6.5
 Wohnfläche
-50 m2
-Diese charmante Wohnung befindet sich an einer ruhigen und familienfreundlichen Lage. Die wundersch…
+125 m2
+Etage
+Sehr schön renovierte 6,5-Zimmer-Dachwohnung!In Uznach verkaufen wir diese helle und familienfreund…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-525'000
+Messmerhölzli
+1'140'000
 CHF
-Lust auf viel Sonne und Wohnen im Grüne…
-Adresse auf Anfrage, 9633 Hemberg
-Array
-3.5 Zimmer
-103 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-103 m2
-An sehr grüner und doch zentraler Dorflage entsteht eine Wohnüberbauung der besonderen Art.Hier wir…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-545'000
-CHF
-Hier über der Nebelgrenze lässt es sich…
-Adresse auf Anfrage, 9633 Hemberg
+Exklusive Attikawohnung mit einmaliger …
+Messmerhölzli, 8887 Mels
 Array
 4.5 Zimmer
-109 m2
+130 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
 4.5
 Wohnfläche
-109 m2
-An sehr grüner und doch zentraler Dorflage entsteht eine Wohnüberbauung der besonderen Art.Hier wir…
+130 m2
+Etage
+An sonniger Hanglage mit wunderbarem Ausblick auf die umliegende Bergwelt sowie das Schloss Sargans…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mühlestrasse 3
+790'000
+CHF
+Grosszügige Loftwohnung in der Mühle Br…
+Mühlestrasse 3, 9552 Bronschhofen
+Array
+1.5 Zimmer
+155 m2
+Objekttyp
+Wohnung, Loft
+Zimmer
+1.5
+Wohnfläche
+155 m2
+Etage
+Dieses einzigartige Loft befindet sich im Erdgeschoss und 1. Obergeschoss der ehemaligen Mühle in B…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterer Höhenrain
+895'000
+CHF
+Besondere Maisonette-Wohnung mit einmal…
+Unterer Höhenrain, 8889 Plons
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Duplex
+Zimmer
+4.5
+Etage
+Diese 4.5-Zimmer-Maisonette-Wohnung und ihre Lage sind etwas ganz Besonderes. Am sonnigen Hang im G…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterer Höhenrain
+935'000
+CHF
+Atemberaubende Maisonette-Wohnung mit A…
+Unterer Höhenrain, 8889 Plons
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Duplex
+Zimmer
+4.5
+Etage
+Willkommen an der Strasse unterer Höhenrain in Plons - willkommen Zuhause!Sie möchten grosszügig wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Baumgartenstrasse 1
+720'000
+CHF
+Eigentumswohnung an attraktiver Quartie…
+Baumgartenstrasse 1, 9403 Goldach
+Array
+5.5 Zimmer
+127 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+127 m2
+Wir verkaufen eine sehr schöne und grossflächige Eigentumswohnung im 1. Stock eines Mehrfamilienhau…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-535'000
+550'000
 CHF
-Ihr neuer Zweit-Wohnsitz im Grünen
-Adresse auf Anfrage, 9633 Hemberg
+RUHIGE LAGE - EIGENER GARTEN INKL. 2X P…
+Adresse auf Anfrage, 9200 Gossau SG
 Array
 3.5 Zimmer
-105 m2
+86 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-105 m2
-An sehr grüner und doch zentraler Dorflage entsteht eine Wohnüberbauung der besonderen Art.Hier wir…
+86 m2
+In einem ruhigen Quartier finden Sie diese Parterre Wohnung welche auch einen grossen Gartensitzpla…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Gallusstrasse 5
-Preis auf Anfrage
-Zwei Balkone mit Traumaussicht
-Gallusstrasse 5, 8730 Uznach
+Tannenstrasse 43
+1'750'000
+CHF
+7 1/2-Zimmer Maisonettewohnung in Rotmo…
+Tannenstrasse 43, 9010 St. Gallen
+Array
+7.5 Zimmer
+233 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+7.5
+Wohnfläche
+233 m2
+7 1/2-Zimmer MaisonettewohnungDiese grosszügige und qualitativ erstklassige 7.5-Zimmer-Maisonette-D…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wattweg 6
+570'000
+CHF
+Ihr neues Zuhause in stadtnähe entsteht…
+Wattweg 6, 9012 St. Gallen
+Array
+2.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+80 m2
+Etage
+Willkommen in St. Gallen, wattweg.chMit dem Projekt wattweg.ch erwartet Sie moderner Wohnraum an gu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+375'000
+CHF
+RENOVIERT ZUM FAIREN PREIS!
+Adresse auf Anfrage, 9300 Wittenbach
 Array
 4 Zimmer
-100 m2
+85 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4
 Wohnfläche
-100 m2
-Etage
-Uznach liegt Ihnen zu Füssen. Die Wohnung befindet sich in der 7. Etage an höchst zentraler Lage im…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Buchenstrasse 4
-595'000
-CHF
-4 1/2-Zimmer-Wohnung mit einem Tiefgara…
-Buchenstrasse 4, 8890 Flums
-Array
-4.5 Zimmer
-116 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-116 m2
-An ruhiger und doch zentraler Lage steht diese 4 1/2-Zimmer-Wohnung zum Verkauf. Das freistehende M…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rietbergstrasse 37
-849'000
-CHF
-5 .5 Zimmer Maisonettewohnung zu verkau…
-Rietbergstrasse 37, 9403 Goldach
-Array
-5.5 Zimmer
-148 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-5.5
-Wohnfläche
-148 m2
-Etage
-Wohntraum auf zwei Etagen Suchen Sie eine grosszügige Wohnung an einer ruhigen Lage mit viel Platz?…
+85 m2
+Wunderschöne Vier- Zimmer Wohnung mit modernem hellem Innenausbau. Das Objekt wurde 2020 renoviert.…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-725'000
+990'000
 CHF
-EXKLUSIVE TRAUM-WOHNUNG AN SONNIGER LAG…
-Adresse auf Anfrage, 8872 Weesen
+Grosszügige Familienwohnung mit Fernsic…
+Adresse auf Anfrage, 9604 Lütisburg
 Array
 5.5 Zimmer
-180 m2
+204 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+204 m2
+Etage
+Sie sind auf der Suche nach einer grosszügigen Familienwohnung, die Ihnen beim Raumangebot wie auch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bürgerheimstrasse 3
+880'000
+CHF
+Wohnen am Dorfbach - Attikawohnung Nr. …
+Bürgerheimstrasse 3, 9606 Bütschwil
+Array
+4.5 Zimmer
+127 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+127 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+675'000
+CHF
+Heimelige Maisonette-Dachwohnung mit vi…
+Adresse auf Anfrage, 9243 Jonschwil
+Array
+6.5 Zimmer
+168 m2
 Objekttyp
 Wohnung, Duplex
 Zimmer
-5.5
+6.5
 Wohnfläche
-180 m2
-Das sonnenverwöhnte Bijou vom See-GasterDieses Schmuckstück bietet alles was das Herz begehrt. Viel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Achslenstrasse 15
-1'398'000
-CHF
-Attikawohnung mit Blick auf den Bodensee
-Achslenstrasse 15, 9016 St. Gallen
-Array
-5.5 Zimmer
-165 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-165 m2
+168 m2
 Etage
-Grosszügige Traumwohnung mit einmaligem PanoramaZu Hause ist, wo die Seele Kraft tankt Die 5.5-Zimm…
+Diese grosszügige, zweistöckige 6.5 Zimmer Wohnung mit 168 m² Fläche könnte schon bald Ihnen gehöre…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Sonnenrain 6
-770'000
+Bürgerheimstrasse 3
+890'000
 CHF
-Geniessen Sie den Sommer im Seedorf Sch…
-Sonnenrain 6, 8716 Schmerikon
+Wohnen am Dorfbach - Attikawohnung Nr. …
+Bürgerheimstrasse 3, 9606 Bütschwil
 Array
 4.5 Zimmer
-134 m2
+129 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-134 m2
-An sonniger Wohnlage im Seedorf Schmerikon verkaufen wir eine grosszügige 4.5-Zi. Wohnung mit 3 Par…
+129 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bürgerheimstrasse 3
+530'000
+CHF
+Wohnen am Dorfbach - Wohnung Nr. 1.4 im…
+Bürgerheimstrasse 3, 9606 Bütschwil
+Array
+3.5 Zimmer
+87 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+87 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bürgerheimstrasse 3
+680'000
+CHF
+Wohnen am Dorfbach - Wohnung Nr. 1.3 im…
+Bürgerheimstrasse 3, 9606 Bütschwil
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-Preis auf Anfrage
-Moderne, und ruhige 4½ Zimmer Eigentums…
-Adresse auf Anfrage, 9472 Grabs
+710'000
+CHF
+Schön renoviertes Bijou mit Cheminée!
+Adresse auf Anfrage, 9243 Jonschwil
 Array
 4.5 Zimmer
-119 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-119 m2
-Die Eigentumswohnung befindet sich am Maturtweg 3 in der Gemeinde Grabs. Die Lage hat Morgensonne u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 172
-749'000
-CHF
-Ganzes Stockwerk mit Entfaltungsmöglich…
-Hauptstrasse 172, 9430 St. Margrethen SG
-Array
-7.5 Zimmer
 140 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-7.5
+4.5
 Wohnfläche
 140 m2
-ObjektDas Objekt befindet sich in der obersten Etage in einem 6 Familienhaus. Für die fünf Eigentüm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gemüsemarkt 15
-350'000
-CHF
-Wohnen im Zentrum von Altstätten
-Gemüsemarkt 15, 9450 Altstätten SG
-Array
-3.5 Zimmer
-76 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-76 m2
 Etage
-Diese grosszügige 4-Zimmer-Maisonettewohnung liegt mitten im Zentrum von Altstätten.Die Wohnung ver…
+Die Wohnung befindet sich im 2. Obergeschoss - der obersten Etage des Mehrfamilienhauses. Sie wurde…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Howartstrasse
-795'000
+Bürgerheimstrasse 3
+480'000
 CHF
-Wohnüberbauung Hofgarten - 4.5 Zimmer A…
-Howartstrasse, 9642 Ebnat-Kappel
-Array
-4.5 Zimmer
-123 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-123 m2
-Wohnungspreise 4.5 Zimmer mit ca. 123m2:795.000 CHF - 815.000 CHFProjektbeschriebAm sonnigen Hang E…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Howartstrasse
-660'000
-CHF
-Wohnüberbauung Hofgarten - 3.5 Zimmer A…
-Howartstrasse, 9642 Ebnat-Kappel
+Wohnen am Dorfbach - Wohnung Nr. 0.1 im…
+Bürgerheimstrasse 3, 9606 Bütschwil
 Array
 3.5 Zimmer
-99 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-99 m2
-Wohnungspreise 3.5 Zimmer Attikawohnung mit ca. 99m2: 660.000 CHF - 680.000 CHFProjektbeschriebAm s…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Howartstrasse
-510'000
-CHF
-Wohnüberbauung Hofgarten - 3.5 Zimmer N…
-Howartstrasse, 9642 Ebnat-Kappel
-Array
-3.5 Zimmer
-89 m2
+81 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-89 m2
-Wohnungspreise 3.5 Zimmer mit ca. 89m2: 510.000 CHF - 570.000 CHFProjektbeschriebAm sonnigen Hang E…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Howartstrasse
-645'000
-CHF
-Wohnüberbauung Hofgarten - 4.5 ZImmer N…
-Howartstrasse, 9642 Ebnat-Kappel
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Wohnungspreise 4.5 Zimmer mit ca. 110m2: 645.000 CHF - 700.000 CHFProjektbeschriebAm sonnigen Hang …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Howartstrasse
-510'000
-CHF
-Wohnüberbauung Hofgarten - 3.5 Zimmer N…
-Howartstrasse, 9642 Ebnat-Kappel
-Array
-3.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-95 m2
-Wohnungspreise 3.5 Zimmer mit ca. 95m2: 510.000 CHF - 595.000 CHFProjektbeschriebAm sonnigen Hang E…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Reherstrasse 23
-623'000
-CHF
-Aussichtsreiche 3 1/2 Zi.Wohnung,8.OG, …
-Reherstrasse 23, 9016 St. Gallen
-Array
-105 m2
-Objekttyp
-Wohnung, Flach
-Wohnfläche
-105 m2
-Wir bieten an sehr guter Lage, Nähe Einkauf, ö.V., Schulen und Wanderwege eine schmucke
-3 1/2 …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Magnusstrasse
-795'000
-CHF
-Neubau grosse 4,5-Zimmerwohnung OG West
-Magnusstrasse, 8739 Rieden SG
-Array
-4.5 Zimmer
-132 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-132 m2
+81 m2
 Etage
-Neubau 5 nicht alltägliche Eigentumswohnungen an herrlicher AussichtslageDas Mehrfamilienhaus bilde…
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bürgerheimstrasse 3
+520'000
+CHF
+Wohnen am Dorfbach - Wohnung Nr. 0.4 im…
+Bürgerheimstrasse 3, 9606 Bütschwil
+Array
+3.5 Zimmer
+87 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+87 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bürgerheimstrasse 3
+490'000
+CHF
+Wohnen am Dorfbach - Wohnung Nr. 1.1 im…
+Bürgerheimstrasse 3, 9606 Bütschwil
+Array
+3.5 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+81 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-strengelbach/
 Title: Wohnung & Haus mieten in Strengelbach - Immostreet.ch
-Description: Wohnung & Haus mieten in  Strengelbach - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Strengelbach - Immostreet.ch: ImmoStreet.ch hat 29 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-31 Resultate gefunden ·
+29 Resultate gefunden ·
 Wohnung & Haus mieten in Strengelbach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Oberfeldweg 6
+1'200
+CHF
+/Monat
+Hübsche 3-Zimmer Wohnung (EG) in ländli…
+Oberfeldweg 6, 4802 Strengelbach
+Array
+3 Zimmer
+71 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+71 m2
+In dieser Wohnung profitieren Sie von der ländlichen Ruhe, die Sie jede städtische Hektik vergessen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Rankmattweg 8
 2'690
 CHF
@@ -267,26 +287,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Oberfeldweg 6
-1'350
-CHF
-/Monat
-Hübsche, neu sanierte 3-Zimmer Wohnung …
-Oberfeldweg 6, 4802 Strengelbach
-Array
-3 Zimmer
-71 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-71 m2
-In dieser frisch sanierten Wohnung profitieren Sie von der ländlichen Ruhe, die Sie jede städtische…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Wiggerweg 6
 1'895
 CHF
@@ -303,26 +303,6 @@ Zimmer
 Wohnfläche
 96 m2
 In einer neueren Überbauung vermieten wir per 1. Juli 2021 oder nach Vereinbarung eine topmoderne W…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Streumattweg 14
-810
-CHF
-/Monat
-TOP Singlewohnung in Strengelbach
-Streumattweg 14, 4802 Strengelbach
-Array
-2 Zimmer
-49 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-49 m2
-Preiswert wohnen in Strengelbach. Lassen Sie sich überzeugen von dieser charmanten 2-Zimmerwohnung …
 Teilen
 E-Mail
 Facebook
@@ -532,6 +512,26 @@ Zimmer
 Wohnfläche
 61 m2
 Ob alleine oder zu zweit: In dieser gepflegten Wohnsiedlung werden Sie sich wohl fühlen. Die Umgebu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hardmattengut 2
+1'180
+CHF
+/Monat
+Wir schenken Ihnen den ersten Mietzins!
+Hardmattengut 2, 4802 Strengelbach
+Array
+2.5 Zimmer
+62 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+62 m2
+Wir vermieten eine 2.5 Zimmerwohnung an ländlicher und doch zentraler Lage in Strengelbach mit folg…
 Teilen
 E-Mail
 Facebook

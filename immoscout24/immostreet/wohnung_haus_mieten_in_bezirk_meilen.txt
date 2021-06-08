@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/bezirk-meilen/
 Title: Wohnung & Haus mieten in Bezirk Meilen - Immostreet.ch
-Description: Wohnung & Haus mieten in Bezirk Meilen - Immostreet.ch: ImmoStreet.ch hat 248 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Bezirk Meilen - Immostreet.ch: ImmoStreet.ch hat 259 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-248 Resultate gefunden ·
+259 Resultate gefunden ·
 Wohnung & Haus mieten in Bezirk Meilen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,298 +152,164 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-1'875
+Aronenweg 7
+1'980
 CHF
 /Monat
-3½ ZI-WOHNUNG IN OETWIL AM SEE (ZH), MÖ…
-Adresse auf Anfrage, 8618 Oetwil am See
+Helle & moderne 4.5 Zimmerwohnung in Oe…
+Aronenweg 7, 8618 Oetwil am See
 Array
-3.5 Zimmer
+4.5 Zimmer
+101 m2
 Objekttyp
-Wohnung, Möblierte Wohnung
+Wohnung, Flach
 Zimmer
-3.5
-MIETDAUER ab 31. Juli 2021 bis 30. Oktober 2021 (mind. 2 Monate, nach Absprache)AllgemeinInfolge Au…
+4.5
+Wohnfläche
+101 m2
+Per 01.10.2021 oder nach Vereinbarung vermieten wir diese 4½-Maisonette-Wohnungen im 2. & 3. St…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bergstrasse 72
-2'090
+Kreuzstrasse 52
+2'350
 CHF
 /Monat
-Attraktive 4-Zimmerwohnnung in Meilen
-Bergstrasse 72, 8706 Meilen
+3.5-Zimmer Gartenwohnung
+Kreuzstrasse 52, 8712 Stäfa
+Array
+3.5 Zimmer
+89 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+89 m2
+Wir vermieten eine schöne helle 3.5-Zimmer Wohnung in der Wohnüberbauung Stäfner-Stein. Die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zilandweg 9
+2'270
+CHF
+/Monat
+4-Zimmerwohnung in Zollikon nahe der St…
+Zilandweg 9, 8702 Zollikon
 Array
 4 Zimmer
-82 m2
+83 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4
 Wohnfläche
-82 m2
-An zentraler Lage in Meilen, unweit von den öffentlichen Verkehrsmitteln vermieten wir diese attrak…
+83 m2
+Die Schweizerische Epilepsie-Stiftung vermietet per 1. Juli 2021 eine schöne, helle 4-Zimmerwohnung…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Furrgasse 19
-4'050
+Etzelstrasse 16
+1'750
 CHF
 /Monat
-Helle 5.5-Zimmer Maisonette Wohnung mit…
-Furrgasse 19, 8712 Stäfa
+Schöne , helle Dachwohnung
+Etzelstrasse 16, 8634 Hombrechtikon
+Array
+3.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+75 m2
+Etage
+Im Haus befinden sich nur 3 Wohnungen .Dies ermöglicht eine optimale Benutzung der gemeinsamen Einr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Binzigerstrasse 4
+2'918
+CHF
+/Monat
+Moderne und helle 4.5 Zimmerwohnung
+Binzigerstrasse 4, 8707 Uetikon am See
+Array
+4.5 Zimmer
+92 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+92 m2
+Wir suchen per 15.6.2021 einen Nachmieter für unsere moderne und helle 4.5 Zimmer Wohnung in einem …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Schübeldörfli 12
+5'036
+CHF
+/Monat
+Ruhige Wohnung im Grünen, 8700 Küsnacht
+Im Schübeldörfli 12, 8700 Küsnacht ZH
 Array
 5.5 Zimmer
-160 m2
+163 m2
 Objekttyp
-Wohnung, Duplex, Maisonette
+Wohnung, Flach
 Zimmer
 5.5
 Wohnfläche
-160 m2
-Etage
-Die helle, grosszügige und doppelstöckige Wohnung mit separatem Eingang, einem eigenen kleinen Gärt…
+163 m2
+Langfristig zu vermieten an idyllischer und sehr ruhiger Lage in Küsnacht: 5.5 Zimmer Wohnung im 1.…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Allenbergstrasse 75A
-2'920
+Dorfgasse 7
+2'872
 CHF
 /Monat
-Traumhafte Gartenwohnung mit See- und W…
-Allenbergstrasse 75A, 8712 Stäfa
+4.5-Zimmer-Dachmasionette im Herzen von…
+Dorfgasse 7, 8708 Männedorf
 Array
-3.5 Zimmer
+4.5 Zimmer
 110 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+4.5
 Wohnfläche
 110 m2
 Etage
-Suchen Sie eine schöne und helle Gartenwohnung mit Weitsicht und Blick ins Grüne?Dann ist die tolle…
+Wir suchen einen Nachmieter per 15.08.2021 oder nach Vereinbarung für eine exklusive Dachmaisonette…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Oetwilerstrasse 49
-880
+Feldgüetliweg 86
+2'808
 CHF
 /Monat
-Zimmer mit eigenem Bad
-Oetwilerstrasse 49, 8634 Hombrechtikon
-Array
-20 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-20 m2
-Ab Juli 2021, befristet oder unbefristet möglich.Ruhig gelegen und doch zentral. Zu Fuss zum Lützel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eintrachtweg 4
-2'150
-CHF
-/Monat
-Familienwohnung in Männedorf
-Eintrachtweg 4, 8708 Männedorf
+Ihre neue Wohlfühloase
+Feldgüetliweg 86, 8706 Meilen
 Array
 4.5 Zimmer
-95 m2
+112 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-95 m2
-Wir vermieten per 01.07.2021 oder nach Vereinbarung diese helle und grosszügige 4.5-Zimmer-Wohnung …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Ibach 3
-1'810
-CHF
-/Monat
-Leben Sie Ihren Wohntraum
-Im Ibach 3, 8712 Stäfa
-Array
-4 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-80 m2
-Per 01.09.2021 vermieten wir diese 4.0-Zimmerwohnung, welche sich an verkehrsberuhigter Lage befind…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ormisstr. 67
-3'100
-CHF
-/Monat
-Elegante Attikawohnung an erhöhter Lage
-Ormisstr. 67, 8706 Meilen
-Array
-3.5 Zimmer
-91 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-91 m2
-Die Liegenschaft/Überbauung befindet sich an erhöhter ruhiger Lage. Meilen ist eine bekannte Seegem…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hechlenberg 13
-3'420
-CHF
-/Monat
-Idyllisch Wohnen in Herrliberg
-Hechlenberg 13, 8704 Herrliberg
-Array
-3.5 Zimmer
-128 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-128 m2
-Wohnen mit sämtlichem Luxus einer EigentumswohnungWenn Sie gerne aktiv sind, die Natur in unmittelb…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'580
-CHF
-/Monat
-3 ZI-WOHNUNG IN UETIKON AM SEE (ZH), MÖ…
-Adresse auf Anfrage, 8707 Uetikon am See
-Array
-3 Zimmer
-86 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-3
-Wohnfläche
-86 m2
-MIETDAUER ab 15. Dezember 2021 bis 31. Mai 2022 (mind. 4 Monate)AllgemeinWir vermieten diese schöne…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bruechstrasse 164
-3'400
-CHF
-/Monat
-4.5 Zi. Maisonette Gartenwohnung in Mei…
-Bruechstrasse 164, 8706 Meilen
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-120 m2
-Etage
-Helle 4 1/2-Z. Maisonette Gartenwohnung im schönen Meilen: ruhig und zentral gelegen, in Fussdistan…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Vogelsangstrasse 1
-1'490
-CHF
-/Monat
-Gemütliche 3-Zimmerwohnung mit Balkon
-Vogelsangstrasse 1, 8618 Oetwil am See
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-3-Zimmerwohnung im 2. Obergeschoss per sofort oder nach Vereinbarung zu vermieten. Die Liegenschaft…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rosenweg 7
-1'519
-CHF
-/Monat
-Befristete 4-Zimmerwohnung in Zollikon
-Rosenweg 7, 8702 Zollikon
-Array
-4 Zimmer
-81 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-81 m2
-Befristet zu vermieten per sofort bis 31. März 2022!Wir vermieten diese 4-Zimmerwohnung an beliebte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hermann Hiltbrunner-Weg 29
-4'600
-CHF
-/Monat
-ERSTVERMIETUNG: 4 1/2 ZI. ATTIKAWOHNUNG…
-Hermann Hiltbrunner-Weg 29, 8713 Uerikon
-Array
-4.5 Zimmer
-125 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-125 m2
-ZEITLOSE ARCHITEKTUR LILLASSEA
-ATTIKAWOHNUNG 3.2
-- 4 1/2 ZIMMERWOHNUNG
-- AN KRETENLAGE
-- MIT…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Holzwiesstrasse 19
-250
-CHF
-/Monat
-Beheizter Hobbyraum mit Stromanschluss …
-Holzwiesstrasse 19, 8704 Herrliberg
-Array
-Objekttyp
-Atelier
-Beheizter Hobbyraum im Dachgeschoss zu vermieten:
-- Grösse ca. 19 m2
-- Fenster
-- Lavabo
-- Dac…
+112 m2
+Wir vermieten per 01.09.2021 diese wunderschöne und moderne 4.5-Zimmerwohnung an ruhiger Lage.Diese…
 Teilen
 E-Mail
 Facebook
@@ -452,94 +318,238 @@ Pfannenstielstrasse 9
 1'910
 CHF
 /Monat
-Helle Gartenwohnung
+Individuell, unabhängig und selsbtändig…
 Pfannenstielstrasse 9, 8706 Meilen
 Array
-2.5 Zimmer
+3 Zimmer
 56 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+56 m2
+Vorzugsweise vergeben wir die Wohnung an Menschen ab 50...
+www.hausgemeinschaft.ch
+...solidar…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eichstrasse 34a
+3'010
+CHF
+/Monat
+Moderne Traumwohnung in Stäfa mit direk…
+Eichstrasse 34a, 8712 Stäfa
+Array
+3.5 Zimmer
+99 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+99 m2
+An einem der schönsten Orte in Stäfa entstanden 2013 zwei spezielle Gebäudekörper, die sich durch i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Peteracher 2
+Preis auf Anfrage
+Singlewohnung in Stadtnähe
+Peteracher 2, 8126 Zumikon
+Array
+1 Zimmer
+30 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+30 m2
+Diese moderne 1-Zimmerwohnung im 2. OG (Lift vorhanden) verfügt über folgenden Standard:- moderne K…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sonnengartenstrasse 10
+1'390
+CHF
+/Monat
+Bijou - 1 Zimmer Wohnung / Studio an ru…
+Sonnengartenstrasse 10, 8125 Zollikerberg
+Array
+1 Zimmer
+33 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+33 m2
+Diese im Jahr 2020 komplett sanierte 1 Zimmer Wohnung im Zollikerberg, könnte schon bald ihr neues …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alte Landstrasse 342
+2'175
+CHF
+/Monat
+Moderne 2.5-Zimmerwohnung mit grosszügi…
+Alte Landstrasse 342, 8708 Männedorf
+Array
+2.5 Zimmer
+82 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-56 m2
-Wunderschöne 2.5-Zimmer Gartenwohnung an toller Lage in Meilen zu vermieten per sofort oder nach Ve…
+82 m2
+Per 1. August 2021 oder nach Vereinbarung, wird diese grosszügige 2.5-Zimmerwohnung im Erdgeschoss …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Schulweg 18
-4'500
+Alte Landstr. 154
+977
 CHF
 /Monat
-Tolle Neubauwohnung mit See- und Bergsi…
-Schulweg 18, 8706 Meilen
+1-Zimmerwohnung mit Balkon / befristet …
+Alte Landstr. 154, 8700 Küsnacht ZH
 Array
-4.5 Zimmer
-137 m2
+1 Zimmer
+28 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+1
 Wohnfläche
-137 m2
-Die beiden Mehrfamilienhäuser mit Minergie-Standard und nachhaltiger Bauweise liegen in unmittelbar…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zelgliackerstrasse 3
-2'530
-CHF
-/Monat
-Luxuriöse sonnige Attikakwohnung mit 2 …
-Zelgliackerstrasse 3, 8618 Oetwil am See
-Array
-5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5
-Wohnfläche
-105 m2
-Etage
-Diese grosszügige, sonnige und komfortable 5-Zimmer-Attikawohnung bietet alles, was das Her…
+28 m2
+Wir vermieten in dieser gepflegten Liegenschaft BEFRISTET BIS 30.06.2023 eine 1-Zimmerwohnung mit f…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-3'050
+5'800
 CHF
 /Monat
-Was für ein Prachtstück
-Adresse auf Anfrage, 8634 Hombrechtikon
+Traumhafte Penthouse-Wohnung direkt am …
+Adresse auf Anfrage, 8702 Zollikon
 Array
-6.5 Zimmer
-190 m2
+3.5 Zimmer
+120 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
-6.5
+3.5
 Wohnfläche
-190 m2
-Etage
-Sind Sie auf der Suche nach einer geräumigen Wohnung mit viel Platz? Dann sind Sie hier genau richt…
+120 m2
+Wir suchen eine ruhige, langjährige Mieterschaft für diese 3.5-Zimmer-Penthouse-Wohnung in einem fa…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Glärnischstrasse 66
-120
+Obstgartenstrasse 14
+2'105
 CHF
 /Monat
-Zusätzlicher Stauraum gesucht?
-Glärnischstrasse 66, 8618 Oetwil am See
+Maisonette Wohnung im Grünen mit Aussic…
+Obstgartenstrasse 14, 8634 Hombrechtikon
 Array
+4.5 Zimmer
 Objekttyp
-Atelier
-Wir vermieten an der Glärnischstrasse 66 in 8610 Oetwil am See ab 01.07.2021 oder nach Vereinbarung…
+Wohnung, Duplex
+Zimmer
+4.5
+Per 01.10.2021 vermieten wir diese lichtdurchflutete, 2-stöckige Dachwohnung. Die geräumige Wohnung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Forchstrasse 460
+2'410
+CHF
+/Monat
+3.5 Zimmerwohnung mit grossem Garten in…
+Forchstrasse 460, 8702 Zollikon
+Array
+3.5 Zimmer
+82 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+82 m2
+Etage
+Die 3.5 Zimmerwohnung liegt in der steuergünstigen Gemeinde Zollikon.Der grosse offene Wohn- und Es…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+5'625
+CHF
+/Monat
+6 ZIMMER-MAISONETTEWOHNUNG IN KÜSNACHT …
+Adresse auf Anfrage, 8700 Küsnacht ZH
+Array
+6 Zimmer
+210 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+6
+Wohnfläche
+210 m2
+MIETDAUER ab 1. November 2021 bis 19. März 2022 (mind. 4 Monate)AllgemeinFrisch renovierte, grosszü…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Burgstrasse 94
+2'670
+CHF
+/Monat
+Perle am Südhang
+Burgstrasse 94, 8706 Meilen
+Array
+2.5 Zimmer
+66 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+66 m2
+Etage
+An der Burgstrasse entsteht neuer Wohnraum für besondere Ansprüche. Der Neubau befindet sich an ide…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Burgstrasse 94
+3'220
+CHF
+/Monat
+Perle am Südhang
+Burgstrasse 94, 8706 Meilen
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+Etage
+An der Burgstrasse entsteht neuer Wohnraum für besondere Ansprüche. Der Neubau befindet sich an ide…
 Teilen
 E-Mail
 Facebook

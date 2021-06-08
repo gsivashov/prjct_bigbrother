@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-balsthal/
 Title: Wohnung & Haus mieten in Balsthal - Immostreet.ch
-Description: Wohnung & Haus mieten in  Balsthal - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Balsthal - Immostreet.ch: ImmoStreet.ch hat 33 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-32 Resultate gefunden ·
+33 Resultate gefunden ·
 Wohnung & Haus mieten in Balsthal
 Preis (aufsteigend)
 Preis (absteigend)
@@ -168,6 +168,68 @@ Zimmer
 Wohnfläche
 123 m2
 Ab dem 01.06 verfügbar ein schöne Wohnung an einer ruhigen Lage.- zwei Nasszellen- grosse helle Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'460
+CHF
+/Monat
+Grosszügige und schöne 4.5 Zimmer Wohnu…
+Adresse auf Anfrage, 4710 Balsthal
+Array
+4.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+95 m2
+Wir suchen per 01.8.2021 einen Nachmieter.Die Wohnung verfügt über folgenden Ausbau:ParkettbodenGro…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Guntenfluhweg 20
+1'380
+CHF
+/Monat
+Schöne 3.5 Zimmer Wohnung mit eigenem W…
+Guntenfluhweg 20, 4710 Balsthal
+Array
+3.5 Zimmer
+84 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+84 m2
+Schöne 3.5 Zimmer Wohnung verteilt auf 84qm.
+Plattenböden in Wohnzimmer, Küche und Badezimmer u…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Guntenfluhweg 14
+1'450
+CHF
+/Monat
+Helle, grosszügige 4.5 Zimmer Wohnung m…
+Guntenfluhweg 14, 4710 Balsthal
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Helle, grosszügig geschnittene 4.5 Zimmer Wohnung verteilt auf 100qm.
+Die Wohnung verfügt über …
 Teilen
 E-Mail
 Facebook
@@ -320,48 +382,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Guntenfluhweg 20
-1'380
-CHF
-/Monat
-Schöne 3.5 Zimmer Wohnung mit eigenem W…
-Guntenfluhweg 20, 4710 Balsthal
-Array
-3.5 Zimmer
-84 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-84 m2
-Schöne 3.5 Zimmer Wohnung verteilt auf 84qm.
-Plattenböden in Wohnzimmer, Küche und Badezimmer u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Guntenfluhweg 14
-1'450
-CHF
-/Monat
-Helle, grosszügige 4.5 Zimmer Wohnung m…
-Guntenfluhweg 14, 4710 Balsthal
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Grosszügig geschnittene 4.5 Zimmer Wohnung verteilt auf 100qm.
-Die Wohnung verfügt über eine mod…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Gatterhübel 2
 1'850
 CHF
@@ -370,10 +390,13 @@ Haus zu vermieten
 Gatterhübel 2, 4710 Balsthal
 Array
 4.5 Zimmer
+135 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
 4.5
+Wohnfläche
+135 m2
 Haus mit schönem Garten- Miete 1850.- netto
 Teilen
 E-Mail
@@ -534,26 +557,6 @@ Wohnfläche
 56 m2
 Etage
 Im Grünen und doch sehr zentral. In einem historischen Gebäude befindet sich diese schöne Wohnung. …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchgässli 1
-1'330
-CHF
-/Monat
-Im Herzen von Balsthal wohnen...
-Kirchgässli 1, 4710 Balsthal
-Array
-2.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-83 m2
-...dass können Sie hier! Per 1. Juli 2021 vermieten wir diese attraktive und zentrale 2.5-Zimmerwoh…
 Teilen
 E-Mail
 Facebook

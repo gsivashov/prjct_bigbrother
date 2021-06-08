@@ -151,19 +151,6 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-3'000'000
-CHF
-Traumhafte Villa mit schöner Seesicht
-Adresse auf Anfrage, 9404 Rorschacherberg
-Array
-Objekttyp
-Wohnung, Villa
-MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Traumhafte Villa mit sch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Heidenerstrasse 59
 2'250'000
 CHF
@@ -184,25 +171,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-890'000
-CHF
-Exklusive 4.5 ETW, Rorschacherberg
-Adresse auf Anfrage, 9404 Rorschacherberg
-Array
-4.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-130 m2
-Sehr exklusive 4.5 Zi. ETW im Rorschacherberg zu verkaufen. Edle Böden, exklusive Nasszellen, Wartu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bachwiesstrasse 11
 660'000
 CHF
@@ -218,6 +186,38 @@ Zimmer
 Wohnfläche
 123 m2
 Helle und grosse Wohnung mit 2 Balkonen im 2. OG; mit Lift.Hauptvorteile:      Sehr gute Aufteilung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+3'000'000
+CHF
+Traumhafte Villa mit schöner Seesicht
+Adresse auf Anfrage, 9404 Rorschacherberg
+Array
+Objekttyp
+Wohnung, Villa
+MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Traumhafte Villa mit sch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+890'000
+CHF
+Exklusive 4.5 ETW, Rorschacherberg
+Adresse auf Anfrage, 9404 Rorschacherberg
+Array
+4.5 Zimmer
+130 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+130 m2
+Sehr exklusive 4.5 Zi. ETW im Rorschacherberg zu verkaufen. Edle Böden, exklusive Nasszellen, Wartu…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-lac/
 Title: Wohnung & Haus kaufen in Bezirk See / Lac - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk See / Lac - Immostreet.ch: ImmoStreet.ch hat 60 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk See / Lac - Immostreet.ch: ImmoStreet.ch hat 57 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-60 Resultate gefunden ·
+57 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk See / Lac
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,20 +151,41 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-Preis auf Anfrage
-Résidence "Avalon" - Lugnorre
-Adresse auf Anfrage, 1789 Lugnorre
+Lischera 73
+565'000
+CHF
+Appartement 3.5 pces avec terrasse à Gu…
+Lischera 73, 1792 Cordast
 Array
-4.5 Zimmer
-118 m2
+3.5 Zimmer
+106 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+3.5
 Wohnfläche
-118 m2
-Appartement 4.5 pièces au 1er étage (lot D) au sein d'un immeuble de 9 appartements qui disposera d…
+106 m2
+Magnifique appartement 3.5 pces (106 m2) situé au rez supérieur d'une petite PPE construite en 2019…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+895'000
+CHF
+Maison mitoyenne entièrement rénovée Mi…
+Adresse auf Anfrage, 1784 Courtepin
+Array
+5.5 Zimmer
+210 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+5.5
+Wohnfläche
+210 m2
+Etage
+Maison Minergie CourtepinSituée dans une impasse calme, cette grande maison entièrement rénovée vou…
 Teilen
 E-Mail
 Facebook
@@ -185,6 +206,24 @@ Wohnfläche
 149 m2
 Etage
 Cette sympathique villa de 5.5 pièces, sise sur une parcelle de 406 m², dans un quartier résidentie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Résidence "Avalon" - Lugnorre
+Adresse auf Anfrage, 1789 Lugnorre
+Array
+4.5 Zimmer
+118 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+118 m2
+Appartement 4.5 pièces au 1er étage (lot D) au sein d'un immeuble de 9 appartements qui disposera d…
 Teilen
 E-Mail
 Facebook
@@ -412,44 +451,6 @@ Zimmer
 Wohnfläche
 120 m2
 Dans la localité de Pensier, à quelques minutes de Fribourg, de l'autoroute et de la gare, deux loc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Villa individuelle dans un quartier rés…
-Adresse auf Anfrage, 1785 Cressier FR
-Array
-5.5 Zimmer
-155 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-155 m2
-Etage
-Cette maison, construite en 1995 sur 828m² de terrain, jouit d'un bel environnement.L'espace, la lu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mösli 5
-405'000
-CHF
-Zu verkaufen / à vendre appartements de…
-Mösli 5, 1792 Cordast
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Für Deutsch (siehe unten)----------------------------------DANS IMMEUBLE PPE DE 6 APPARTEMENTS3 app…
 Teilen
 E-Mail
 Facebook

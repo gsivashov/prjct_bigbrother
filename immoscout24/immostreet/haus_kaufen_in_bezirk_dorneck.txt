@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-dorneck/
 Title: Haus kaufen in Bezirk Dorneck - Immostreet.ch
-Description: Haus kaufen in Bezirk Dorneck - Immostreet.ch: ImmoStreet.ch hat 26 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Dorneck - Immostreet.ch: ImmoStreet.ch hat 29 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-26 Resultate gefunden ·
+29 Resultate gefunden ·
 Haus kaufen in Bezirk Dorneck
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,23 +138,21 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Neumattering 2
-1'890'000
+Adresse auf Anfrage
+345'000
 CHF
-Freistehendes 8.5 Zimmer EFH im Landhau…
-Neumattering 2, 4145 Gempen
+RUHIG IM GRÜNEN ZUM HAMMERPREIS
+Adresse auf Anfrage, 4146 Hochwald
 Array
-8.5 Zimmer
-222 m2
+4.5 Zimmer
+104 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Reihenfamilienhaus
 Zimmer
-8.5
+4.5
 Wohnfläche
-222 m2
-Etage
-LAGE
-Das Objekt liegt am Dorfeingang von Gempen und bietet eine schöne Aussicht sowie ländliches…
+104 m2
+Dieses Haus an sehr ruhiger Lage ist das perfekte Angebot zum Sparpreis. Sie haben einen Naturstein…
 Teilen
 E-Mail
 Facebook
@@ -175,6 +173,63 @@ Wohnfläche
 142 m2
 Etage
 Die «Arena» - geeignet für junge Familien - vereint geschickt Privatsphäre und Nähe zur Nachbarscha…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seewenweg 2
+1'450'000
+CHF
+Freistehendes Einfamilienhaus mit 5 1/2…
+Seewenweg 2, 4146 Hochwald
+Array
+450 m2
+Objekttyp
+Wohnung, Einzelhaus
+Wohnfläche
+450 m2
+Grosses freistehendes Einfamilienhaus mit 5 1/2 Zimmern und 2 Dachzimmern Suchen Sie ein Eigenheim,…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Talstrasse 56
+945'000
+CHF
+Ihr neues Zuhause in Flüh
+Talstrasse 56, 4112 Flüh
+Array
+4.5 Zimmer
+103 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+4.5
+Wohnfläche
+103 m2
+Etage
+Wir verkaufen dieses schöne Einfamilienhaus mit 4.5 Zimmern an sonniger Lage in Flüh. Die Bushaltes…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Neumattering 2
+1'890'000
+CHF
+Freistehendes 8.5 Zimmer EFH im Landhau…
+Neumattering 2, 4145 Gempen
+Array
+8.5 Zimmer
+222 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+8.5
+Wohnfläche
+222 m2
+Etage
+LAGE
+Das Objekt liegt am Dorfeingang von Gempen und bietet eine schöne Aussicht sowie ländliches…
 Teilen
 E-Mail
 Facebook
@@ -468,64 +523,6 @@ Wohnfläche
 153 m2
 Etage
 Haus AIn der familienfreundlichen und idyllischen Umgebung, abseits des Trubels, erstellen wir als …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bättwilerstrasse 50
-1'740'000
-CHF
-2.Familienhaus, Garagen, Witterswil 1x5…
-Bättwilerstrasse 50, 4108 Witterswil
-Array
-7.5 Zimmer
-818 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7.5
-Wohnfläche
-818 m2
-Wohnhaus mit Garagen, Garten Baujahr 1989 an der Bättwilerstrasse 50, 4108 Witterswil, Zone W2b Aus…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'740'000
-CHF
-Grosses 2-Familienhaus mit 2 Garagen
-Adresse auf Anfrage, 4108 Witterswil
-Array
-10.5 Zimmer
-300 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-10.5
-Wohnfläche
-300 m2
-Zum Verkauf steht ein sehr gut erhaltenes und vermietetes 2-Familienhaus mit Baujahr 1989 und einer…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Döllenweg 2a
-950'000
-CHF
-Freistehendes Einfamilienhaus in verkeh…
-Döllenweg 2a, 4116 Metzerlen
-Array
-4.5 Zimmer
-151 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-151 m2
-Etage
-Dieses helle 4.5-Zimmer-Haus befindet sich an gut besonnter, ruhiger und kinderfreundlicher Lage.Üb…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-sissach/
 Title: Haus kaufen in Bezirk Sissach - Immostreet.ch
-Description: Haus kaufen in Bezirk Sissach - Immostreet.ch: ImmoStreet.ch hat 22 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Sissach - Immostreet.ch: ImmoStreet.ch hat 21 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-22 Resultate gefunden ·
+21 Resultate gefunden ·
 Haus kaufen in Bezirk Sissach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,38 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Winterhalde 15
+350'000
+CHF
+Renovationsbedürftige Liegenschaft im D…
+Winterhalde 15, 4451 Wintersingen
+Array
+Objekttyp
+Wohnung, Einzelhaus
+Im Auftrag verkaufen wir in der Oberbaselbieter Gemeinde Wintersingen, in Mitten des Dorfkerns, ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tecknauerstrasse
+890'000
+CHF
+Grosszügiges Reihenmittelhaus im belieb…
+Tecknauerstrasse, 4460 Gelterkinden
+Array
+5.5 Zimmer
+135 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+135 m2
+Sie suchen ein neues Zuhause, in dem Sie sich wohlfühlen, dann haben wir für Sie ein geeignetes, gu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Hemmiken
 1'140'000
 CHF
@@ -153,25 +185,6 @@ Zimmer
 Wohnfläche
 251 m2
 Dieses sonnenverwöhnte Einfamilienhaus befindet sich in einem ruhigen, familienfreundlichen Wohnqua…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-940'000
-CHF
-Ein Wohnjuwel für Familien!!!
-Adresse auf Anfrage, 4460 Gelterkinden
-Array
-7.5 Zimmer
-210 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-7.5
-Wohnfläche
-210 m2
-Die charmante und grosszügig konzipierte Immobilie befindet sich inmitten eines familienfreundliche…
 Teilen
 E-Mail
 Facebook
@@ -330,25 +343,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Tecknauerstrasse
-890'000
-CHF
-Grosszügiges Reihenmittelhaus im belieb…
-Tecknauerstrasse, 4460 Gelterkinden
-Array
-5.5 Zimmer
-135 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-135 m2
-Sie suchen ein neues Zuhause, in dem Sie sich wohlfühlen, dann haben wir für Sie ein geeignetes, gu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bergweg
 1'690'000
 CHF
@@ -416,25 +410,6 @@ Zimmer
 Wohnfläche
 148 m2
 Wir verkaufen unser am sonnigen Rebenhang gelegenes Doppeleinfamilienhaus imOberbaselbiet (Baujahr …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grundackerstrasse 18
-1'198'000
-CHF
-Familienfreundliches EFH in ruhiger Umg…
-Grundackerstrasse 18, 4455 Zunzgen
-Array
-6 Zimmer
-330 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6
-Wohnfläche
-330 m2
-Dieses tolle, sehr gepflegte EFH verkaufen wir gerne an eine Familie, die alle Schulen, Sportplätze…
 Teilen
 E-Mail
 Facebook
@@ -510,6 +485,22 @@ Wohnfläche
 187 m2
 Etage
 Diese 4 wunderschönen und freistehenden 6.5 Zimmer-Einfamilienhäuser werden an sonniger und beliebt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Langacherweg 8
+615'000
+CHF
+Freistehendes Haus mit herrlicher Weits…
+Langacherweg 8, 4460 Gelterkinden
+Array
+103 m2
+Objekttyp
+Wohnung, Einzelhaus
+Wohnfläche
+103 m2
+Was Sie erwartetEin neuwertiges Haus, freistehend und zuhinterst in einer Sackgasse (Privatstrasse)…
 Teilen
 E-Mail
 Facebook

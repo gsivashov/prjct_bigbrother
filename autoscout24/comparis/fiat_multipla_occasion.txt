@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -606,7 +605,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Fiat
-(5'744)
+(5'944)
 Fiat Multipla Occasion
 (6)
 Aufbau
@@ -622,21 +621,21 @@ Fiat Multipla
 (6)
 Modelle
 Fiat 500
-(2'215)
-Fiat Panda
-(510)
+(2'350)
 Fiat Tipo
-(505)
+(531)
+Fiat Panda
+(523)
 Fiat 500X
-(412)
+(414)
 Fiat 595
-(390)
+(396)
 Fiat Ducato
-(385)
+(389)
 Fiat Punto
-(338)
+(346)
 Fiat Doblo
-(147)
+(145)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -662,6 +661,7 @@ Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 2'999
+Preisreduktion
 FIAT Multipla 1.6 16V Dynamic
 10.05.2021
 Occasion
@@ -670,7 +670,7 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 1'990
+CHF 1'490
 FIAT Multipla 1.9 JTD Dynamic
 01.05.2021
 Occasion

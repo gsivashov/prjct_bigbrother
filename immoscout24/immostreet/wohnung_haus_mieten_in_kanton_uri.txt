@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/kanton-uri/
 Title: Wohnung & Haus mieten in Kanton Uri - Immostreet.ch
-Description: Wohnung & Haus mieten in Kanton Uri - Immostreet.ch: ImmoStreet.ch hat 76 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Kanton Uri - Immostreet.ch: ImmoStreet.ch hat 71 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-76 Resultate gefunden ·
+71 Resultate gefunden ·
 Wohnung & Haus mieten in Kanton Uri
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Brämenhofstatt 2
+1'370
+CHF
+/Monat
+Wohlfühlen leicht gemacht!
+Brämenhofstatt 2, 6472 Erstfeld
+Array
+4 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+81 m2
+An der sonnigen Brämenhofstatt 2 in Erstfeld vermieten wir nach Vereinbarung diese gemütliche 4 Zim…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Tschudiweg 5
 1'065
 CHF
@@ -303,26 +323,6 @@ Zimmer
 Wohnfläche
 32 m2
 Schöne helle 1.5 Zimmer Wohnung in einem Einfamilienhaus.Mit Sitzplatz zum mitbenutzen und Parkpla…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gotthardstrasse 104
-1'130
-CHF
-/Monat
-Ruhige Wohnung mit Grats-Hobby- und Bas…
-Gotthardstrasse 104, 6472 Erstfeld
-Array
-3 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-80 m2
-Zentral gelegen, ruhe Ostseite, fünf Minuten von Bus und Bahnhof, grosser separater Abstellraum auf…
 Teilen
 E-Mail
 Facebook
@@ -504,43 +504,42 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Gotthardstrasse 72
-2'300
+Klausenstrasse 100
+700
 CHF
 /Monat
-RENOVIERTE 5,5-ZIMMER-WOHNUNG AN ZENTRA…
-Gotthardstrasse 72, 6460 Altdorf UR
+Studio / 2 Zimmer Wohnung
+Klausenstrasse 100, 6463 Bürglen UR
 Array
-5.5 Zimmer
-165 m2
+2 Zimmer
+50 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Flach
 Zimmer
-5.5
+2
 Wohnfläche
-165 m2
-Etage
-Grosszügige 5,5-Zimmer-Wohnung in Altdorf/Bürglen (vis-à-vis Urnertor)zu vermieten. Zirka 165m2 Woh…
+50 m2
+Ab sofort Studio/2Zimmerwohnung mit grosser Terrasse und mit eigenem Parkplatz zu vermieten. 50 Met…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-dorfstrasse25
-600
+Kirchenrüttiweg 9
+1'200
 CHF
 /Monat
-studio zu vermieten per1juni
-dorfstrasse25, 6467 Schattdorf
+Gemütliche Dachwohnung mit eigenem Gart…
+Kirchenrüttiweg 9, 6463 Bürglen UR
 Array
-1.5 Zimmer
-30 m2
+3.5 Zimmer
+70 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-1.5
+3.5
 Wohnfläche
-30 m2
-nk100 tel 041870 9360
+70 m2
+Günstige, familienfreundliche und charmante 3.5 Zimmer Wohnung in Bürglen UriFamilienfreundliche, c…
 Teilen
 E-Mail
 Facebook

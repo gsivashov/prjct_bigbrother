@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -581,37 +580,37 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Subaru
-(2'398)
+(2'451)
 Subaru BRZ Occasion
 (15)
 Subaru BRZ Neuwagen
-(4)
+(3)
 Aufbau
 Subaru BRZ Coupé
-(18)
+(16)
 Motor
 Subaru BRZ Benzin
-(19)
+(18)
 Typ
 Subaru BRZ
-(19)
+(18)
 Modelle
 Subaru XV
-(546)
+(542)
 Subaru Forester
 (475)
 Subaru Impreza
-(402)
+(412)
 Subaru Legacy
-(277)
+(292)
 Subaru Outback
-(234)
+(255)
 Subaru Levorg
-(187)
+(185)
 Subaru G3X Justy
-(83)
+(86)
 Subaru WRX
-(83)
+(86)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -622,11 +621,21 @@ drive-in.ch wird durchsucht ...
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
-1 Inserat
+2 Inserate
 0 Inserate
-14 Inserate
+13 Inserate
 0 Inserate
 0 Inserate
+Subaru BRZ 2.0R Automatic
+03.06.2021
+Occasion
+09.2019, Automat, Benzin
+8'000 km, 200 PS, Blau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 31'000
+ab CHF 566 / Monat
 SUBARU BRZ 2.0R Automatic
 02.06.2021
 Occasion
@@ -660,17 +669,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 16'200
 ab CHF 296 / Monat
-SUBARU BRZ 2.0R Automatic
-2.5
-20.05.2021
-Occasion
-04.2014, Automat, Benzin
-75'600 km, 200 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 19'900
-ab CHF 363 / Monat
 SUBARU BRZ 2.0R
 17.05.2021
 Occasion

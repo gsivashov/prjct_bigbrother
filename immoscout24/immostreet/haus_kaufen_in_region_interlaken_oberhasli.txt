@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-interlakenoberhasli/
 Title: Haus kaufen in Region Interlaken Oberhasli - Immostreet.ch
-Description: Haus kaufen in Region Interlaken Oberhasli - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Region Interlaken Oberhasli - Immostreet.ch: ImmoStreet.ch hat 25 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-24 Resultate gefunden ·
+25 Resultate gefunden ·
 Haus kaufen in Region Interlaken Oberhasli
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Horlauenenstrasse 4
+870'000
+CHF
+Einfamilienhaus in naturverbundener Lag…
+Horlauenenstrasse 4, 3816 Burglauenen
+Array
+4.5 Zimmer
+168 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+168 m2
+Das Einfamilienhaus wurde im Jahr 1911 erstellt und in den letzten 10 Jahren renoviert und saniert.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Grundstrasse 5
 3'950'000
 CHF
@@ -488,25 +507,6 @@ Zimmer
 Wohnfläche
 272 m2
 Willkommen in unserer Bergwelt ? wir entführen Sie in das spannendste Wohnprojekt im Berner Oberlan…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Herrschaftsweg 16
-5'800'000
-CHF
-Exklusives Chalet Bellosguardo
-Herrschaftsweg 16, 3818 Grindelwald
-Array
-5.5 Zimmer
-336 m2
-Objekttyp
-Wohnung, Chalet
-Zimmer
-5.5
-Wohnfläche
-336 m2
-ObjektbeschreibungAm sonnigsten Berghang von Grindelwald finden Sie das grosszügige und luxuriöse C…
 Teilen
 E-Mail
 Facebook

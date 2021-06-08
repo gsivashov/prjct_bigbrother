@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -602,56 +601,56 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Citroen
-(3'785)
+(3'772)
 Citroen Occasion
-(2'449)
+(2'455)
 Citroen Neuwagen
-(844)
+(833)
 Citroen Vorführwagen
-(465)
+(457)
 Citroen Oldtimer
 (27)
 Aufbau
 Citroen Limousine
-(884)
+(881)
 Citroen Minivan/Van
-(640)
+(641)
 Citroen Geländewagen
-(626)
+(627)
 Citroen Nutzfahrzeug
-(573)
+(570)
 Citroen Kombi
-(195)
+(200)
 Citroen Cabrio
-(51)
+(50)
 Citroen Wohnmobil / Wohnwagen
-(33)
+(34)
 Citroen Coupé
-(16)
+(17)
 Motor
 Citroen Benzin
-(2'056)
+(2'028)
 Citroen Diesel
-(1'449)
+(1'467)
 Citroen Elektroautos
-(135)
+(133)
 Modelle
 Citroen C3
-(726)
+(716)
 Citroen C5
-(397)
+(402)
 Citroen C4
-(369)
+(368)
 Citroen Berlingo
 (342)
-Citroen C1
-(275)
 Citroen Jumper
-(270)
+(276)
+Citroen C1
+(272)
 Citroen Spacetourer
-(168)
+(170)
 Citroen Jumpy
-(166)
+(158)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -667,6 +666,34 @@ weniger
 45 Inserate
 0 Inserate
 0 Inserate
+CITROEN C3 Pluriel 1.4i
+1.0
+07.06.2021
+Occasion
+08.2006, Manuell, Benzin
+55'000 km, 73 PS, Rot
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 3'500
+CITROEN C3 Pluriel 1.4i Tonic
+04.06.2021
+Occasion
+06.2006, Manuell, Benzin
+110'249 km, 73 PS, Blau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 2'999
+CITROEN C3 Pluriel 1.4i
+04.06.2021
+Occasion
+03.2006, Manuell, Benzin
+98'064 km, 73 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 2'900
 CITROEN
 03.06.2021
 Occasion
@@ -741,37 +768,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 8'570
 ab CHF 157 / Monat
-DS AUTOMOBILES DS3 Cabrio 1.6 THP Sport Chic
-5.0
-28.05.2021
-Occasion
-09.2013, Manuell, Benzin
-43'815 km, 156 PS, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 8'890
-ab CHF 162 / Monat
-CITROEN E-Mehari
-28.05.2021
-Occasion
-06.2016, Automatisiertes Schaltgetriebe, Elektroautos
-15'000 km, 57 PS, Gelb
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 16'000
-ab CHF 292 / Monat
-CITROEN 2CV DYANE 6
-23.05.2021
-Occasion
-08.1979, Manuell, Benzin
-43'590 km, Blau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 9'990
-ab CHF 182 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/gewerbe-industrie/unterkategorie-ladenflaeche/in-z%C3%BCrich/
 Title: Ladenfläche mieten in Zürich - Immostreet.ch
-Description: Ladenfläche mieten in  Zürich - Immostreet.ch: ImmoStreet.ch hat 73 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Ladenfläche mieten in  Zürich - Immostreet.ch: ImmoStreet.ch hat 70 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -136,7 +136,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-73 Resultate gefunden ·
+70 Resultate gefunden ·
 Ladenfläche mieten in Zürich
 Preis (aufsteigend)
 Preis (absteigend)
@@ -149,6 +149,79 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Bahnhofstrasse 70
+67'000
+CHF
+/Monat
+Ladenlokal an der Bahnhofstrasse zu ver…
+Bahnhofstrasse 70, 8001 Zürich
+Array
+Objekttyp
+Verkauf, Geschäft
+Etage
+ANFRAGEN WERDEN NUR BEANTWORTET, WENN SIE IHR KONZEPT MITSENDEN Wir vermieten im Exklusivmandat ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Birchstrasse 187
+278
+CHF
+Ihr neues Kunstatelier? Im Herzen von O…
+Birchstrasse 187, 8050 Zürich
+Array
+Objekttyp
+Geschäft, Atelier
+Wir vermieten per 1.2.2022 ein modernes Atelier mit folgendem Ausbaustandard: - grosse Fensterfron…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Altstetterstrasse 224A
+Preis auf Anfrage
+Zentral gelegenes Gewerbeobjekt in Züri…
+Altstetterstrasse 224A, 8048 Zürich
+Array
+Objekttyp
+Verkauf, Geschäft
+Etage
+Wir vermieten per sofort ein optimal gelegenes und grossräumiges Gewerbeobjekt zum Gebrauch als Bür…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Witikonerstrasse 409
+6'930
+CHF
+/Monat
+grosszügige Ladenfläche mit Aussenberei…
+Witikonerstrasse 409, 8053 Zürich
+Array
+Objekttyp
+Verkauf, Geschäft
+Etage
+Durch die hohe Passantenfrequenz (Coop direkt nebenan) bietet dieses Mietobjekt eine ideale Lage fü…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grubenstrasse 19
+1'750
+CHF
+/Monat
+Atelier für Kunst- und Kulturschaffende…
+Grubenstrasse 19, 8045 Zürich
+Array
+1 Zimmer
+Objekttyp
+Geschäft, Atelier
+Zimmer
+1
+AtelierInmitten des umtriebigen Binz-Quartiers bietet sich auf dem Areal WERKHOF BINZ eine Fläche f…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 5'830
 CHF
@@ -181,7 +254,9 @@ E-Mail
 Facebook
 Whatsapp
 Gertrudstrasse 22
-Preis auf Anfrage
+2'850
+CHF
+/Monat
 Gewerbeobjekt an trendiger Lage in Züri…
 Gertrudstrasse 22, 8003 Zürich
 Array
@@ -232,20 +307,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bahnhofstrasse 70
-8'888
-CHF
-Ladenlokal an der Bahnhofstrasse zu ver…
-Bahnhofstrasse 70, 8001 Zürich
-Array
-Objekttyp
-Verkauf, Geschäft
-Etage
-ANFRAGEN WERDEN NUR BEANTWORTET, WENN SIE IHR KONZEPT MITSENDEN UND DEN MIETZINS BESTÄTIGENWir verm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Halle Bahnhofplatz
 Preis auf Anfrage
 Ladenlokal zu vermieten im ShopVille-Zü…
@@ -268,23 +329,6 @@ Array
 Objekttyp
 Geschäft, Atelier
 Beim Bahnhof Stadelhofen, in unmittelbarer Nähe vom Bellevue und See, vermieten wir in einem 1896 e…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Huttenstrasse 36
-1'650
-CHF
-/Monat
-Atelier mit kleinem Gartensitzplatz
-Huttenstrasse 36, 8006 Zürich
-Array
-2 Zimmer
-Objekttyp
-Geschäft, Atelier
-Zimmer
-2
-ZürichAn der Huttenstrasse 36 vermieten wir per sofort ein Atelier mit herzigem Gartensitzplatz und…
 Teilen
 E-Mail
 Facebook
@@ -325,26 +369,6 @@ Array
 Objekttyp
 Verkauf, Geschäft
 Per sofort oder n.V. vermieten wir an der Weinbergstrasse 68, 8006 Zürich ein Ladenlokal im Erdgesc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Freiestrasse 27
-1'993
-CHF
-/Monat
-Atelier an ruhiger Lage
-Freiestrasse 27, 8032 Zürich
-Array
-2.5 Zimmer
-70 m2
-Objekttyp
-Geschäft, Atelier
-Zimmer
-2.5
-Wohnfläche
-70 m2
-Wir vermieten an ruhiger und grüner Lage ein ideales Woh- und oder Geschäftsatelier für ruhiges Gew…
 Teilen
 E-Mail
 Facebook
@@ -411,33 +435,6 @@ Wohnfläche
 120 m2
 Etage
 Helles schönes Ladenlokal mit riesigen Schaufensterfront direkt an der Langstrasse ist ideal einseh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weinbergstrasse 164
-2'290
-CHF
-/Monat
-Ladenlokal mit vielen Schaufenstern am …
-Weinbergstrasse 164, 8006 Zürich
-Array
-Objekttyp
-Verkauf, Geschäft
-An attraktiver Lage, direkt am Schaffhauserplatz im Zürcher Kreis 6 vermieten wir dieses Ladenlokal…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Museumstrasse 1
-Preis auf Anfrage
-Retailfläche in der Passage Sihlquai am…
-Museumstrasse 1, 8001 Zürich
-Array
-Objekttyp
-Verkauf, Geschäft
-Das suchen wir.
-Für die freiwerdende Verkaufsfläche in der attraktiven und gut frequentierten Pa…
 Teilen
 E-Mail
 Facebook

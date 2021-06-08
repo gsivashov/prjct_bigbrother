@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-niederhasli/
 Title: Wohnung & Haus mieten in Niederhasli - Immostreet.ch
-Description: Wohnung & Haus mieten in  Niederhasli - Immostreet.ch: ImmoStreet.ch hat 13 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Niederhasli - Immostreet.ch: ImmoStreet.ch hat 12 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-13 Resultate gefunden ·
+12 Resultate gefunden ·
 Wohnung & Haus mieten in Niederhasli
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,48 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Lindenstrasse 30
+1'800
+CHF
+/Monat
+attraktive Attikawohnung mit Blick ins …
+Lindenstrasse 30, 8155 Niederhasli
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Interessiert? Unter dem Link BESICHTIGUNGSFORMULAR können Sie sich für eine Besichtigung anmelden.
+…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adlibogenstrasse 23
+1'690
+CHF
+/Monat
+3-Zimmerwohnung zu Spezialkonditionen i…
+Adlibogenstrasse 23, 8155 Niederhasli
+Array
+3 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+70 m2
+Etage
+Eine schöne 3- Zimmerwohnung an familienfreundlicher Lage sucht per sofort oder nach Vereinbarung n…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adlibogenstrasse 37
 1'605
 CHF
@@ -172,49 +214,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Lindenstrasse 20
-1'128
-CHF
-/Monat
-Wunderschöne familie Wohnung im ruhige …
-Lindenstrasse 20, 8155 Niederhasli
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Etage
-Zu vermieten per 1. July 2021; Wunderschöne 3.5 Wohnung mit Balkon und eigenem Kellerabteil. Innena…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lindenstrasse 4
-1'390
-CHF
-/Monat
-Lebensqualität im Grünen mit grossem Ba…
-Lindenstrasse 4, 8155 Niederhasli
-Array
-2 Zimmer
-59 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-59 m2
-Wir vermieten per sofort diese schöne 2-Zimmerwohnung im 1. OG in Niederhasli, welche folgenden Aus…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Lindenstr. 34
-Preis auf Anfrage
+1'600
+CHF
+/Monat
 Ihr neues Zuhause in Niederhasli
 Lindenstr. 34, 8155 Niederhasli
 Array
@@ -226,6 +229,7 @@ Zimmer
 3.5
 Wohnfläche
 74 m2
+In einem familienfreundlichen Wohnquartier vermieten wir per sofort eine lichtdurchflutete 3.5-Zimm…
 Teilen
 E-Mail
 Facebook
@@ -311,27 +315,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Langackerweg 4
-1'599
-CHF
-/Monat
-Helle 4.5 Zimmer Wohnung in ruhiger Lage
-Langackerweg 4, 8155 Niederhasli
-Array
-4.5 Zimmer
-99 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-99 m2
-Etage
-Ruhig gelegene Wohnung mit sonnigem Balkon. Die Wohnung verfügt über eine moderne Küche mit viel St…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adlibogenstrasse 37
 1'800
 CHF
@@ -353,18 +336,22 @@ E-Mail
 Facebook
 Whatsapp
 Adlibogenstrasse 23
-1'790
+1'690
 CHF
 /Monat
-3 Zimmer Wohnung in Niederhasli zu verm…
+3-Zimmerwohnung zu Spezialkonditionen i…
 Adlibogenstrasse 23, 8155 Niederhasli
 Array
 3 Zimmer
+70 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3
-Eine schöne 3- Zimmerwohnung an familienfreundlicher Lage sucht ab dem 01.04.2021 nach einem neuen …
+Wohnfläche
+70 m2
+Etage
+Eine schöne 3- Zimmerwohnung an familienfreundlicher Lage sucht per sofort oder nach Vereinbarung n…
 Teilen
 E-Mail
 Facebook

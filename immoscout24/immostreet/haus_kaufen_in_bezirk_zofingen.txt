@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-zofingen/
 Title: Haus kaufen in Bezirk Zofingen - Immostreet.ch
-Description: Haus kaufen in Bezirk Zofingen - Immostreet.ch: ImmoStreet.ch hat 50 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Zofingen - Immostreet.ch: ImmoStreet.ch hat 46 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-50 Resultate gefunden ·
+46 Resultate gefunden ·
 Haus kaufen in Bezirk Zofingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,45 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+830'000
+CHF
+WEITBLICKPANORAMA
+Adresse auf Anfrage, 5745 Safenwil
+Array
+5.5 Zimmer
+200 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+200 m2
+Etage
+Sonne und RuheDiese drei neu erbauten Reiheneinfamilienhäuser im Grünen überzeugen durch eine sonni…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Panoramastrasse 356
+520'000
+CHF
+Modernes Einfamilienhaus in Bottenwil
+Panoramastrasse 356, 4814 Bottenwil
+Array
+5 Zimmer
+130 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+5
+Wohnfläche
+130 m2
+An ruhiger und bevorzugter Lage, unmittelbar in der Nähe des Schwimmbads in Bottenwil befindet sich…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 1'300'000
 CHF
@@ -330,82 +369,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'920'000
-CHF
-Grosszügiges 5½-Zimmer Einfamilienhaus …
-Adresse auf Anfrage, 4800 Zofingen
-Array
-5.5 Zimmer
-192 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-192 m2
-In einzigartiger Lage entstehen direkt beim Rosengarten zwei grosszügige Einfamilienhäuser in beste…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'106'000
-CHF
-Top-modernes 4.5-Zimmer Einfamilienhaus…
-Adresse auf Anfrage, 4813 Uerkheim
-Array
-4.5 Zimmer
-134 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-134 m2
-In Uerkheim erstellen wir an sonniger Ortsrandlage 3 top-moderne Einfamilienhäuser. Die Grundstücke…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'250'000
-CHF
-Hier wohnt das Glück - top-modernes Ein…
-Adresse auf Anfrage, 4813 Uerkheim
-Array
-5.5 Zimmer
-180 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-180 m2
-In Uerkheim erstellen wir an sonniger Ortsrandlage 3 top-moderne Einfamilienhäuser. Die Grundstück…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'240'000
-CHF
-Sonnige Aussichten - Ihr top-modernes E…
-Adresse auf Anfrage, 4813 Uerkheim
-Array
-5.5 Zimmer
-174 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-174 m2
-In Uerkheim erstellen wir an sonniger Ortsrandlage 3 top-moderne Einfamilienhäuser. Die Grundstücke…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Fliederweg 6
 690'000
 CHF
@@ -438,23 +401,6 @@ Wohnung, Einzelhaus
 Zimmer
 5.5
 Das charmante Einfamilienhaus wurde immer sehr liebevoll gepflegt und ist in einem guten Zustand. D…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-830'000
-CHF
-WEITBLICKPANORAMA HAUS C
-Adresse auf Anfrage, 5745 Safenwil
-Array
-200 m2
-Objekttyp
-Wohnung, Einzelhaus
-Wohnfläche
-200 m2
-Etage
-Sonne und RuheDiese drei neu erbauten Reiheneinfamilienhäuser im Grünen überzeugen durch eine sonni…
 Teilen
 E-Mail
 Facebook
@@ -510,6 +456,61 @@ Wohnung, Einzelhaus
 Zimmer
 8
 Grosseltern, Freunde, Mieter: Mit wem teilen Sie Ihr Zweifamilienhaus?Für ein Zweifamilienhaus gibt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hausmattweg 5
+1'240'000
+CHF
+Klassisches 7.5 Zi-EFH im historischen …
+Hausmattweg 5, 4663 Aarburg
+Array
+7.5 Zimmer
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Dieses mehrfach renovierte Haus, mit Baujahr 1927, im historischen Kern des Städtchens Aarburg (sch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kleinfeldweg 7
+849'000
+CHF
+neu renoviertes Einfamilienhaus an idyl…
+Kleinfeldweg 7, 4805 Brittnau
+Array
+5.5 Zimmer
+226 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+226 m2
+Dieses schöne 5.5 Zimmer Reiheneinfamilienhaus befindet sich in einem ruhigen Kinderfreundlichen Qu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Quartierweg 3
+898'000
+CHF
+IHR NEUES ZUHAUSE IN SAFENWIL
+Quartierweg 3, 5745 Safenwil
+Array
+5.5 Zimmer
+177 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+177 m2
+Etage
+Konzept und ArchitekturWir freuen uns über Ihre Aufmerksamkeit und stellen Ihnen gerne in der Verka…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-bassersdorf/
 Title: Wohnungen & Häuser mieten in Bassersdorf - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Bassersdorf - Immostreet.ch: ImmoStreet.ch hat 61 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Bassersdorf - Immostreet.ch: ImmoStreet.ch hat 57 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-61 Resultate gefunden ·
+57 Resultate gefunden ·
 Wohnungen & Häuser mieten in Bassersdorf
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,136 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Chrüzacherstr. 12+14
+140
+CHF
+/Monat
+Einstellplatz gesucht?
+Chrüzacherstr. 12+14, 8303 Bassersdorf
+Array
+Objekttyp
+Tiefgarage
+- Einstellplatz per sofort oder nach Vereinbarung verfügbar- Mietzins CHF 140.00 pro Monat (für ex…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Plätzliweg 4
+1'390
+CHF
+/Monat
+Besichtigung: 21. Juni 2021, 17.00 bis …
+Plätzliweg 4, 8303 Bassersdorf
+Array
+2 Zimmer
+55 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+55 m2
+Suchen Sie eine schöne Wohnung im Zentrum von Basserdorf ? Per 01. September 2021 vermieten wir ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mülihalden 11
+110
+CHF
+/Monat
+Mülihalden 11 Bastelraum
+Mülihalden 11, 8303 Bassersdorf
+Array
+Objekttyp
+Atelier
+Per 01.10.2021 vermieten wir einen Bastelraum (A3) von ca. 12 m2 an der Mülihalden 11, Bassersdorf
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sägetstrasse 48
+1'800
+CHF
+/Monat
+Helle renovierte kinderfreundliche 4 1/…
+Sägetstrasse 48, 8303 Bassersdorf
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Per 1. August 2021 oder nach Vereinbarung vermieten wir in kinderfreundlicher Umgebung eine renovie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Lindenacher 10
+1'446
+CHF
+/Monat
+Nachmieter für geräumige 2,5 Zi Wohnung…
+Im Lindenacher 10, 8303 Bassersdorf
+Array
+2.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+65 m2
+Etage
+Diese 2,5 Zi Wohnung im EG eines 6 Parteienhauses verfügt über viele Vorzüge.Wohnzimmer (32…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obstgartenstrasse 12
+1'733
+CHF
+/Monat
+Helle 3,5 Zimmer-Maisonette-Wohnung in …
+Obstgartenstrasse 12, 8303 Bassersdorf
+Array
+3.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+95 m2
+Etage
+Die helle und wunderschöne 3,5 Zimmer-Maisonette-Wohnung liegt in ruhiger und sonniger Wohnlage am …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Untere Mühle 8
+2'120
+CHF
+/Monat
+Im Zentrum und am Wald 3.5 ZW in Neubau
+Untere Mühle 8, 8303 Bassersdorf
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+Grosszügige 3½ Zi.wohnung in familienfreundlichem, ruhigem Umfeld im 1.OG, Untere Mühle 8. Verfügba…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Hinteracherweg 9
 2'170
 CHF
@@ -158,27 +288,6 @@ Zimmer
 Wohnfläche
 68 m2
 Per 16.07.2021 oder nach Vereinbarung vermieten wir diese 3.0-Zimmerwohnung an zentraler Lage.Die W…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gerlisbergstrasse 22
-1'390
-CHF
-/Monat
-3-Zimmer-Wohnung an bester Lage
-Gerlisbergstrasse 22, 8303 Bassersdorf
-Array
-3 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-70 m2
-Etage
-Gesucht: Ruhige und rücksichtsvolle Mieter für einfach ausgestattete, sonnige 3-Zimmer-Wohnung an b…
 Teilen
 E-Mail
 Facebook
@@ -231,27 +340,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Sägetstrasse 10
-1'973
-CHF
-/Monat
-Luftige Dachwohnung Mit Bergsicht
-Sägetstrasse 10, 8303 Bassersdorf
-Array
-3.5 Zimmer
-86 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-86 m2
-Etage
-Bitte nur private Anfragen! In ruhiger Lage in Bassersdorf wird diese grosszügige, helle Dachwohnun…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 UNG Hubring 42/44, 46/48
 100
 CHF
@@ -280,47 +368,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bassersdorferstrasse 15
-3'250
-CHF
-/Monat
-"Raumwunder: 240 m² Attika-Dachwohnung …
-Bassersdorferstrasse 15, 8303 Bassersdorf
-Array
-5.5 Zimmer
-240 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-240 m2
-Etage
-Per 1. Oktober 2021 beziehen Sie diese tolle, top ausgestattete 5.5-Zimmerwohnung in Bassersdorf (B…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ufmattenstr. 8
-1'946
-CHF
-/Monat
-Einzigartige 3 ½-Zimmerwohnung
-Ufmattenstr. 8, 8303 Bassersdorf
-Array
-3.5 Zimmer
-87 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-87 m2
-In dieser gepflegten, freundlichen Liegenschaft vermieten wir per 01.08.2021 eine tolle, helle 3 ½-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Sägetstrasse 10
 1'973
 CHF
@@ -336,7 +383,7 @@ Zimmer
 3.5
 Wohnfläche
 86 m2
-In ruhiger Lage in Bassersdorf wird diese grosszügige, helle Dachwohnung frei. Rundum hat man Blick…
+Kurz und knapp:- ruhige Lage- fantastische Fernsicht- hochwertige Einrichtung: Eichenparkett, elekt…
 Teilen
 E-Mail
 Facebook
@@ -401,27 +448,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bodenacherring 37
-2'700
-CHF
-/Monat
-Schöne, grosse, helle und ruhige 4.5-Zi…
-Bodenacherring 37, 8303 Bassersdorf
-Array
-4.5 Zimmer
-128 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-128 m2
-Etage
-Die Wohnung ist im Zentrum von BassersdorfIn der Nähe vom BahnhofSchulhaus ca. 50 …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Ufmattenstrasse 31
 1'885
 CHF
@@ -462,46 +488,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Mülihalden 1
-120
-CHF
-/Monat
-Tiefgaragenplatz
-Mülihalden 1, 8303 Bassersdorf
-Array
-Objekttyp
-Tiefgarage
-In dieser Tiefgarage vermieten wir einen Garagenplatz für Fr. 120.00 -/Monat.
-Interessiert? Kont…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stiegweg 14a
-2'320
-CHF
-/Monat
-Grosszügige 4.5 Zimmerwohnung in Basser…
-Stiegweg 14a, 8303 Bassersdorf
-Array
-4.5 Zimmer
-106 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-106 m2
-Per 1. Juli 2021 vermieten wir diese helle 4.5 Zimmerwohnung mit grosszügigem Grundriss in Bassersd…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 4
+Seite 1 von 3
 1
 2
 3
-4
 nächste Seite
 ImmoStreet.ch
 Mieten

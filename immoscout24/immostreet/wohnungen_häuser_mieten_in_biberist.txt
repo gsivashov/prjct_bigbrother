@@ -122,6 +122,84 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Neumattstrasse 3
+1'250
+CHF
+/Monat
+3-Zimmerwohnung in Zweifamilienhaus in …
+Neumattstrasse 3, 4562 Biberist
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Etage
+In einem ruhigen Zweifamilienhaus vermieten wir eine 3-Zimmerwohnung im Obergeschoss. Die Wohnung l…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schachenrain 37
+1'390
+CHF
+/Monat
+Nachmieter für neue, moderne 2.5 Erdges…
+Schachenrain 37, 4562 Biberist
+Array
+2.5 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+60 m2
+Ich suche per sofort einen Nachmieter für eine 2.5 Zimmerwohnung im Erdgeschoss. Die Wohnung befind…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Solothurnstrasse 60
+1'090
+CHF
+/Monat
+Zentral gelegene 3-Zimmerwohnung
+Solothurnstrasse 60, 4562 Biberist
+Array
+3 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+80 m2
+Wir vermieten eine zentral gelegene 3-Zimmerwohnung-Küche mit Geschirrspüler und Glaskeramikherd-Gr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Solothurnstrasse
+998
+CHF
+/Monat
+2,5Zimmer Parteer Wohnung zur Vermietung
+Solothurnstrasse, 4562 Biberist
+Array
+2.5 Zimmer
+52 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+52 m2
+Die Wohnung Befindet sich ein einem Familienhaus wurde unten alles neu Ausgebaut vor 5 Jahren ... P…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Hauptstrasse 19
 180
 CHF
@@ -131,20 +209,6 @@ Array
 Objekttyp
 Büro
 An zentraler Lage an der Hauptstrasse von Biberist vermieten wir diese Büroräumlichkeiten. Die Büro…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 19
-380
-CHF
-/Monat
-Raus aus dem Home Office - Einzelbüros …
-Hauptstrasse 19, 4562 Biberist
-Array
-Objekttyp
-Büro
-Auf einer Fläche von ca. 254 m2 stehen acht gleichwertige Einzelbüros zur Verfügung. Die Büros sind…
 Teilen
 E-Mail
 Facebook
@@ -412,63 +476,6 @@ Array
 Objekttyp
 Offener Parkplatz
 Aussenabstellplätze an der Blümlisalpstrasse (nähe RBS) in Biberist zu vermieten.Mietzins: CHF 40.–…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Neuquartierstrasse 5
-926
-CHF
-/Monat
-Ruhige 2,5 Zimmer Dachwohnung auf 1.Juli
-Neuquartierstrasse 5, 4562 Biberist
-Array
-2.5 Zimmer
-50 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-50 m2
-Suche Nachmieter auf 1. oder 15. Juli für 2,5 Zimmer Dachwohnung in Biberist, Geschirrspüler, Redui…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schachenstrasse 11b
-1'780
-CHF
-/Monat
-Nachmieter gesucht für tolle 3.5 Zimmer…
-Schachenstrasse 11b, 4562 Biberist
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Wir suchen einen Nachmieter für eine schöne, helle, toll geschnittenen 3.5 Zimmer Parterre-Wohnung …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blümlisalpstrasse 20
-990
-CHF
-/Monat
-Gemütliche 2.5 Zimmerwohnung!
-Blümlisalpstrasse 20, 4562 Biberist
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Die Wohnung bietet Ihnen folgendes: helle und grosszügige ZimmerBalkon mit traumha…
 Teilen
 E-Mail
 Facebook

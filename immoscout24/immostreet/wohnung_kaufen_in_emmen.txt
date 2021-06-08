@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/unterkategorie-flat/in-emmen/
 Title: Wohnung kaufen in Emmen - Immostreet.ch
-Description: Wohnung kaufen in  Emmen - Immostreet.ch: ImmoStreet.ch hat 9 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in  Emmen - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-9 Resultate gefunden ·
+7 Resultate gefunden ·
 Wohnung kaufen in Emmen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -174,26 +174,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Feldbreiteweg 5
-630'000
-CHF
-FELD EINS: Letzte Verkaufsetappe
-Feldbreiteweg 5, 6032 Emmen
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Endlich Wohneigentum in Emmen - Letzte Verkaufsetappe
-Bezahlbarer, familienfreundlicher und ökol…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Rosenaustrasse 12
 730'000
 CHF
@@ -208,6 +188,26 @@ Zimmer
 4.5
 Wohnfläche
 95 m2
+Endlich Wohneigentum in Emmen - Letzte Verkaufsetappe
+Bezahlbarer, familienfreundlicher und ökol…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Feldbreiteweg 5
+630'000
+CHF
+FELD EINS: Letzte Verkaufsetappe
+Feldbreiteweg 5, 6032 Emmen
+Array
+3.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+83 m2
 Endlich Wohneigentum in Emmen - Letzte Verkaufsetappe
 Bezahlbarer, familienfreundlicher und ökol…
 Teilen
@@ -250,44 +250,6 @@ Wohnfläche
 102 m2
 Endlich Wohneigentum in Emmen - Letzte Verkaufsetappe
 Bezahlbarer, familienfreundlicher und ökol…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seetalstrasse 145
-950'000
-CHF
-4.5 Zimmer-Neubauwohnung
-Seetalstrasse 145, 6032 Emmen
-Array
-4.5 Zimmer
-123 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-123 m2
-Das neu errichtete Mehrfamilienhaus an der Seetalstrasse 145 in Emmen, mit seinen drei 3.5 Zimmerwo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seetalstrasse 145
-880'000
-CHF
-3.5 Zimmer-Attikawohnung Neubau
-Seetalstrasse 145, 6032 Emmen
-Array
-3.5 Zimmer
-103 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-103 m2
-Das neu errichtete Mehrfamilienhaus an der Seetalstrasse 145 in Emmen, mit seinen drei 3.5 Zimmerwo…
 Teilen
 E-Mail
 Facebook

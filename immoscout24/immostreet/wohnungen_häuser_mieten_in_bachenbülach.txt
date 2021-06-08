@@ -122,6 +122,60 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Bitziberg 5
+100
+CHF
+/Monat
+Ganz ohne Parkplatzprobleme
+Bitziberg 5, 8184 Bachenbülach
+Array
+Objekttyp
+Tiefgarage
+Per sofort oder nach Vereinbarung vermieten befristet bis zum 30. September 2022 Einstellplätze in …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Püntenweg 8
+2'160
+CHF
+/Monat
+Ihre Traumwohnung
+Püntenweg 8, 8184 Bachenbülach
+Array
+4.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+97 m2
+Überzeugen Sie sich selbst- Grosszügiger Grundriss- Wohnbereich mit offener Küche, Geschirrspüler u…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bächliwis 23
+1'285
+CHF
+/Monat
+Schöne Genossenschaftswohnung sucht neu…
+Bächliwis 23, 8184 Bachenbülach
+Array
+4 Zimmer
+72 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+72 m2
+Für diese 4-Zimmer Genossenschaftswohnung suchen wir per 1. Juli 2021 oder nach Vereinbarung eine a…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Eschenmosenstrasse 17
 2'950
 CHF
@@ -138,26 +192,6 @@ Zimmer
 Wohnfläche
 150 m2
 Das schöne Haus verfügt über eine 6-Zimmer-Wohnung und eine kleine Einliegerwohnung. Das Objekt bie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eschenmosenstrasse
-2'083
-CHF
-/Monat
-3½-Zimmer Wohnung Nr. 204 2. Obergescho…
-Eschenmosenstrasse, 8184 Bachenbülach
-Array
-3.5 Zimmer
-102 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-102 m2
--      Hoher Ausbaustandard-      Grosses Entrée mit Garderobe und Wandschränken-      Moderne Küch…
 Teilen
 E-Mail
 Facebook
@@ -291,20 +325,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Zürichstrasse 39
-469
-CHF
-/Monat
-Gewerberaum in der Nähe Zürich-Flughafe…
-Zürichstrasse 39, 8184 Bachenbülach
-Array
-Objekttyp
-Verkauf, Gewerbe
-Ab 01.07.2021 vermieten wir an der Zürichstrasse 39 in Bachenbülach einen Gewerberaum im Erdgeschos…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Püntenweg 2-8/Püntenstr.2
 120
 CHF
@@ -373,20 +393,6 @@ Array
 Objekttyp
 Autogarage, Covered parking place bike
 Per sofort oder nach Vereinbarung vermieten wir diverse Motorradplätze in der Tiefgarage für monatl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blumenau 12
-750
-CHF
-/Monat
-Einzelzimmer in Bachenbülach zu vermiet…
-Blumenau 12, 8184 Bachenbülach
-Array
-Objekttyp
-Wohnung, Einzelzimmer
-Per sofort oder nach Vereinbarung vermieten wir dieses Einzelzimmer in einem freistehenden Einfamil…
 Teilen
 E-Mail
 Facebook

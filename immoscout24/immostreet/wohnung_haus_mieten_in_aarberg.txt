@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-aarberg/
 Title: Wohnung & Haus mieten in Aarberg - Immostreet.ch
-Description: Wohnung & Haus mieten in  Aarberg - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Aarberg - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-19 Resultate gefunden ·
+20 Resultate gefunden ·
 Wohnung & Haus mieten in Aarberg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,46 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Spinsstrasse 2b
+1'780
+CHF
+/Monat
+helle 4 ½ Zimmerwohnung - zentrale Lage
+Spinsstrasse 2b, 3270 Aarberg
+Array
+4.5 Zimmer
+103 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+103 m2
+Zentrale Lage, in der Nähe von Einkaufsmöglichkeiten, Schulen und öffentlichen Verkehrsmitteln. Die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Nidaustrasse 17
+1'760
+CHF
+/Monat
+helle 4 ½ Zimmerwohnung mit Balkon
+Nidaustrasse 17, 3270 Aarberg
+Array
+4.5 Zimmer
+108 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+108 m2
+Die Wohnung wurde 2004 total renoviert. Sie verfügt über eine Wohnküche, Bad/Dusche mit sep. WC sow…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Erlachstrasse 1
 2'050
 CHF
@@ -188,20 +228,6 @@ Zimmer
 Wohnfläche
 83 m2
 Die Wohnung liegt an zentraler Lage, Nähe öffentlicher Verkehrsmittel und Einkaufsmöglichkeiten. Ei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kistlerweg 8
-100
-CHF
-/Monat
-Lager-/Bastelraum in Mehrfamilienhaus
-Kistlerweg 8, 3270 Aarberg
-Array
-Objekttyp
-Atelier
-Wir vermieten im Sunnmattquartier den letzten Bastel-/Lagerraum. Die Lokalität ist einladend und tr…
 Teilen
 E-Mail
 Facebook

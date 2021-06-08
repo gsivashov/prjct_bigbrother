@@ -1,6 +1,6 @@
 URL: https://www.comparis.ch/carfinder/marktplatz/skoda/scala/occasion
 Title: Skoda Scala Occasion – Preise vergleichen mit Comparis
-Description: Finden Sie unter 70 Skoda Scala Occasion Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
+Description: Finden Sie unter 71 Skoda Scala Occasion Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
 Suche
 Menü
@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -578,68 +577,80 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Skoda
-(6'294)
+(6'336)
 Skoda Scala Neuwagen
-(137)
+(143)
 Skoda Scala Occasion
-(70)
+(71)
 Skoda Scala Vorführwagen
 (40)
 Aufbau
 Skoda Scala Limousine
-(229)
+(236)
 Skoda Scala Kombi
 (16)
 Motor
 Skoda Scala Benzin
-(241)
+(248)
 Skoda Scala Diesel
-(6)
+(5)
 Typ
 Skoda Scala
-(247)
+(254)
 Modelle
 Skoda Octavia
-(2'519)
+(2'509)
 Skoda Fabia
-(992)
+(1'024)
 Skoda Superb
-(681)
+(676)
 Skoda Karoq
-(495)
+(490)
 Skoda Kamiq
-(391)
+(402)
 Skoda Kodiaq
-(334)
+(324)
 Skoda Citigo
-(161)
+(160)
 Skoda Yeti
-(135)
+(151)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
 Carweb wird durchsucht ...
 drive-in.ch wird durchsucht ...
-70 Treffer auf allen grossen Schweizer Auto-Portalen
-70 Treffer auf allen Portalen
+71 Treffer auf allen grossen Schweizer Auto-Portalen
+71 Treffer auf allen Portalen
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
-4 Inserate
+5 Inserate
 2 Inserate
 69 Inserate
 0 Inserate
 0 Inserate
-SKODA Scala 1.0 TSI Style
-01.06.2021
+Skoda Scala 1.0 TSI 95 Ambition
+5.5
+07.06.2021
 Occasion
-07.2020, Automat, Benzin
-8'900 km, 115 PS, Blau
+12.2020, Manuell, Benzin
+4'500 km, 95 PS, Blau
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 25'910
-ab CHF 473 / Monat
+CHF 19'750
+ab CHF 361 / Monat
+SKODA Scala 1.0 TSI 95 Ambition
+5.5
+07.06.2021
+Occasion
+12.2020, Manuell, Benzin
+4'500 km, 95 PS, Blau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 19'750
+ab CHF 361 / Monat
 Skoda Scala 1.0 TSI Ambition Plus
 5.0
 29.05.2021
@@ -727,17 +738,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 24'555
 ab CHF 448 / Monat
-SKODA Scala 1.0 TSI Ambition
-4.0
-07.05.2021
-Occasion
-11.2020, Automat, Benzin
-14'300 km, 115 PS, Weiss
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 24'500
-ab CHF 447 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2
@@ -745,7 +745,7 @@ Sie befinden sich auf Seite1
 4
 5
 6
-7
+8
 nächste Seite
 ×
 ×

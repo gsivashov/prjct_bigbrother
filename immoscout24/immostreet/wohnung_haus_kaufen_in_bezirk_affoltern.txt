@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-affoltern/
 Title: Wohnung & Haus kaufen in Bezirk Affoltern - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Affoltern - Immostreet.ch: ImmoStreet.ch hat 40 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Affoltern - Immostreet.ch: ImmoStreet.ch hat 38 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-40 Resultate gefunden ·
+38 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Affoltern
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,130 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+1'800'000
+CHF
+Welcome Family - Freistehendes Einfamil…
+Adresse auf Anfrage, 8934 Knonau
+Array
+5.5 Zimmer
+170 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+170 m2
+Wir verkaufen dieses tolle Einfamilienhaus in einem kinderfreundlichen Quartier mit folgenden Eckda…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+695'000
+CHF
+Attraktive Attika-WG an der neu geplant…
+Adresse auf Anfrage, 8913 Ottenbach
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Bewilligtes Neubau-Mehrfamilienhaus Projekt mit 6 attraktiven Eigentumswohnungen und Einstellhalle,…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'195'000
+CHF
+TOP LAGE - FAMILIENFREUNDLICH - WINTERG…
+Adresse auf Anfrage, 8910 Affoltern am Albis
+Array
+5.5 Zimmer
+172 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+172 m2
+Hier kaufen Sie eine bevorzugte Lage in einem familienfreundlichen ruhigen Quartier. In wenigen Min…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stallikon
+1'595'000
+CHF
+Schöne und familienfreundliche 5.5-Zimm…
+Stallikon, 8143 Stallikon
+Array
+5.5 Zimmer
+148 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+Wohnfläche
+148 m2
+Die Liegenschaft präsentiert sich an ruhiger und sonniger Lage in Stallikon.Die Wohnung verfügt übe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gartenstrasse 8
+Preis auf Anfrage
+Projektankündigung: Gartenstrasse - Zuh…
+Gartenstrasse 8, 8910 Affoltern am Albis
+Array
+Objekttyp
+Wohnung, Flach
+Etage
+Projektankündigung: Jetzt vormerken für den voraussichtlichen Vermarktungsstart Ende August 2021 In…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stampfenmatt
+805'000
+CHF
+Einzigartige Wohnqualität mit Charme
+Stampfenmatt, 8909 Zwillikon
+Array
+2.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+85 m2
+Baustart erfolgt - 2/3 der Wohnungen sind bereits verkauft!An guter Lage mit optimaler Verkehrsanbi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stampfenmatt
+780'000
+CHF
+Suchen Sie das Besondere? Wir haben es …
+Stampfenmatt, 8909 Zwillikon
+Array
+2.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+85 m2
+Baustart erfolgt - 2/3 der Wohnungen sind bereits verkauft!An guter Lage mit optimaler Verkehrsanbi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Im Wil 2
 960'000
 CHF
@@ -170,30 +294,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Kirchgasse 43
-1'190'000
-CHF
-Gehobenes Wohnen über Wettswil
-Kirchgasse 43, 8907 Wettswil
-Array
-3.5 Zimmer
-101 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-101 m2
-Etage
-Erster Eindruck:  Das Gebäude ist in moderner Architektur erstellt, wohl geformt und gestaltet, mit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Hirzwangen 8
 960'000
 CHF
-Hausteil mit Einliegerwohnung an wunder…
+Hauseckteil mit Einliegerwohnung an wun…
 Hirzwangen 8, 8925 Ebertswil
 Array
 7 Zimmer
@@ -229,22 +333,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-695'000
-CHF
-Attraktive Attika-WG an der neu geplant…
-Adresse auf Anfrage, 8913 Ottenbach
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Bewilligtes Neubau-Mehrfamilienhaus Projekt mit 6 attraktiven Eigentumswohnungen und Einstellhalle,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Affoltern am Albis
 1'425'000
 CHF
@@ -260,26 +348,6 @@ Zimmer
 Wohnfläche
 150 m2
 Dieses schöne Terrassenhaus befindet sich an erhöhter Lage und bietet eine Top-Aussicht. Neben de…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Widenospen 3
-525'000
-CHF
-3,5 Zimmer-Wohnung mit Bastelraum und e…
-Widenospen 3, 8913 Ottenbach
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Etage
-Die Wohnung befidet sich in einem sympatischen 5-Familienhaus im 1. Obergeschoss mit Balkon und Red…
 Teilen
 E-Mail
 Facebook
@@ -352,25 +420,6 @@ Wohnfläche
 79 m2
 Etage
 Highlights der Wohnungen+ Neubau nach neusten Standards+ moderner und zweckmässiger Innenausbau+ li…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'195'000
-CHF
-TOP LAGE - FAMILIENFREUNDLICH - WINTERG…
-Adresse auf Anfrage, 8910 Affoltern am Albis
-Array
-5.5 Zimmer
-172 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-172 m2
-Hier kaufen Sie eine bevorzugte Lage in einem familienfreundlichen ruhigen Quartier. In wenigen Min…
 Teilen
 E-Mail
 Facebook
@@ -467,63 +516,6 @@ Wohnfläche
 128 m2
 Etage
 Sie lieben die Nähe zur Stadt, leben aber auch liebend gerne im Grünen? Genau diese Bedürfnisse dec…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weidstrasse
-1'260'000
-CHF
-IDYLLISCH: 5 ½ ZIMMER ECKHAUS
-Weidstrasse, 8913 Ottenbach
-Array
-5.5 Zimmer
-148 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-148 m2
-Etage
-SCHMUCKES 5 ½ ZIMMER ECKHAUS AN IDYLLISCHER LAGE Im sonnigen und beschaulichen Wohnquartier, an ein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-TRAUMHAFT MIT GROSSEM GARTEN
-Adresse auf Anfrage, 8143 Stallikon
-Array
-5.5 Zimmer
-175 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-175 m2
-Diese traumhafte Gartenwohnung überzeugt durch den grossen, gepflegten Garten sowie den gedeckten T…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stampfenmatt
-805'000
-CHF
-Einzigartige Wohnqualität mit Charme
-Stampfenmatt, 8909 Zwillikon
-Array
-2.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-85 m2
-Baustart erfolgt - 2/3 der Wohnungen sind bereits verkauft!An guter Lage mit optimaler Verkehrsanbi…
 Teilen
 E-Mail
 Facebook

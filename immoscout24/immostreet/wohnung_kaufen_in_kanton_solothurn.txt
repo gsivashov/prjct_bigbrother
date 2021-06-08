@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/kanton-solothurn/
 Title: Wohnung kaufen in Kanton Solothurn - Immostreet.ch
-Description: Wohnung kaufen in Kanton Solothurn - Immostreet.ch: ImmoStreet.ch hat 211 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Kanton Solothurn - Immostreet.ch: ImmoStreet.ch hat 195 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-211 Resultate gefunden ·
+195 Resultate gefunden ·
 Wohnung kaufen in Kanton Solothurn
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,21 +134,78 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Bienkenstrasse 14
-565'000
+Adresse auf Anfrage
+460'000
 CHF
-4.5 Zimmer Wohnung an zentraler Lage
-Bienkenstrasse 14, 4702 Oensingen
+Gemütliche 4,5-Zimmerwohnung!
+Adresse auf Anfrage, 2540 Grenchen
 Array
 4.5 Zimmer
-110 m2
+95 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-110 m2
-Die schöne und helle Wohnung befindet sich in einem Mehrfamilienhaus im 2.OG an zentraler Lage in O…
+95 m2
+An bevorzugter Lage in der Stadt Grenchen verkaufen wir eine renovierte 4.5 Zi-Wohnung. Die Wohnung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Villenstrasse
+200'000
+CHF
+Günstige Gelegenheit mit vielen Extras
+Villenstrasse, 5012 Schönenwerd
+Array
+2.5 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+60 m2
+Sie halten Ausschau nach einem Renditeobjekt oder sind auf der Suche nach einer schönen Wohnung zum…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+275'000
+CHF
+HELLER WOHNTRAUM MIT SICHT INS GRÜNE
+Adresse auf Anfrage, 5012 Schönenwerd
+Array
+3.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+70 m2
+Diese helle und grosszügige 3.5 Zimmerwohnung, unterteilt nach Schlaf- und Wohnbereich, wird Sie be…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Erlinsbacherstrasse 20c
+375'000
+CHF
+Leistenfabrik 2.0 - NEW FACTORY LIVING …
+Erlinsbacherstrasse 20c, 5013 Niedergösgen
+Array
+2.5 Zimmer
+66 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+66 m2
+URBAN - HISTORISCH - NEUDie Überbauung "Leistenfabrik 2.0" vereint Tradition und Moderne und verspr…
 Teilen
 E-Mail
 Facebook
@@ -168,6 +225,179 @@ Zimmer
 Wohnfläche
 150 m2
 Diese grosszügige 5.5 Zimmer Wohnung befindet sich an einer sehr ruhigen und dennoch sehr zentralen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+490'000
+CHF
+Schöne 4.5 Zimmer Wohnung an ruhiger La…
+Adresse auf Anfrage, 4656 Starrkirch-Wil
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+110 m2
+Diese wunderschöne Wohnung liegt in einem ruhigen Quartier und bietet alles was Sie brauchen. Die R…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+475'000
+CHF
+Sonnige 4.5-Zimmer-Eigentumswohnung an …
+Adresse auf Anfrage, 2540 Grenchen
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+110 m2
+Diese schöne 4.5 Zimmer-Wohnung wurde 2016 Kernsaniert. Sie verfügt über Kiefer- und Bambus-Parket …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'319'000
+CHF
+Exklusives und gehobenes Wohnen
+Adresse auf Anfrage, 4562 Biberist
+Array
+6.5 Zimmer
+215 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+6.5
+Wohnfläche
+215 m2
+An schöner und zentraler Lage entsteht die zweite Etappe einer Wohnanlage der besonderen Art: Ein e…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Waldstrasse 19
+670'000
+CHF
+Verwirklichen Sie Ihren Wohntraum im sc…
+Waldstrasse 19, 4562 Biberist
+Array
+4.5 Zimmer
+128 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+128 m2
+An ruhiger Lage im beliebten Wohnquartier entsteht dieses schöne Projekt im gutgelegenen Biberist a…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gibelfeldstrasse 48
+820'000
+CHF
+Mehr als ein Zuhause!
+Gibelfeldstrasse 48, 2540 Grenchen
+Array
+3.5 Zimmer
+111 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+111 m2
+Etage
+Einzigartige Neubau Attika-Wohnungen mit unvergleichlicher Terrasse! An der Gibelfeldstrasse entste…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+590'000
+CHF
+grandiose und hochwertige 4.5 Zi-Wohnun…
+Adresse auf Anfrage, 4710 Balsthal
+Array
+4.5 Zimmer
+108 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+108 m2
+Im neu erbauten Quartier unweit der öffentlichen Verkehrsmitteln, wartet diese Perle auf Sie. Die …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberfeldstrasse 3
+587'000
+CHF
+Naturnah wohnen an idealer Lage
+Oberfeldstrasse 3, 4515 Oberdorf SO
+Array
+4.5 Zimmer
+121 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+121 m2
+Die ansprechende 4.5-Zimmer-Eigentumswohnung befindet sich auf der ersten Etage eines gepflegten Wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rebenstrasse 2
+560'000
+CHF
+ERSCHWINGLICH - GROSSZÜGIG - STADTNAH
+Rebenstrasse 2, 4112 Bättwil
+Array
+4.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+105 m2
+Etage
+Zu Hause ist, wo die Seele Kraft tankt!Die Liegenschaft Rebenstrasse 2 liegt angrenzend an die Haup…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bienkenstrasse 14
+565'000
+CHF
+4.5 Zimmer Wohnung an zentraler Lage
+Bienkenstrasse 14, 4702 Oensingen
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+110 m2
+Die schöne und helle Wohnung befindet sich in einem Mehrfamilienhaus im 2.OG an zentraler Lage in O…
 Teilen
 E-Mail
 Facebook
@@ -248,44 +478,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-490'000
-CHF
-Schöne 4.5 Zimmer Wohnung an ruhiger La…
-Adresse auf Anfrage, 4656 Starrkirch-Wil
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Diese wunderschöne Wohnung liegt in einem ruhigen Quartier und bietet alles was Sie brauchen. Die R…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-495'000
-CHF
-Sonnige 4.5-Zimmer-Eigentumswohnung an …
-Adresse auf Anfrage, 2540 Grenchen
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Diese schöne 4.5 Zimmer-Wohnung wurde 2016 Kernsaniert. Sie verfügt über Kiefer- und Bambus-Parket …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Erlinsbach
 450'000
 CHF
@@ -324,197 +516,7 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-HOCHWERTIGER NEUBAU AN RUHIGER LAGE!
-Adresse auf Anfrage, 5013 Niedergösgen
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-120 m2
-Diese exklusive 4.5 Zimmer Wohnung könnte ihr neues Zuhause sein. Der stillvolle Innenausbau und di…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-295'000
-CHF
-Zu verkaufen, sehr schöne 3.5 Zi- Dachw…
-Adresse auf Anfrage, 4500 Solothurn
-Array
-3.5 Zimmer
-69 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-69 m2
-Seltene Gelegenheit!!! Wir verkaufen in Solothurn, in der Nähe vom Coop und der Bushaltestelle, ein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-790'000
-CHF
-NEUBAUPROJEKT - WOHNEN AUF 3 EBENEN - 4…
-Adresse auf Anfrage, 4227 Büsserach
-Array
-4.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Wohnfläche
-150 m2
-Etage
-Ein faszinierendes Neubauprojekt an leicht erhöhter, unverbaubarer Lage im ländlichen Büsserach: H…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-525'000
-CHF
-Ihr neues Zuhause wartet auf Sie!
-Adresse auf Anfrage, 4702 Oensingen
-Array
-4.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-95 m2
-Auf Sie und Ihre Familie wartet im Zentrum von Oensingen eine gemütliche Hochparterre-Wohnung im er…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-325'000
-CHF
-Eine tolle Dachwohnung in Zuchwil!
-Adresse auf Anfrage, 4528 Zuchwil
-Array
-3.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-75 m2
-Eine tolle Dachwohnung Wohlfühlambiente!Diese helle Wohnung mit Ihrem charmanten und smarten Flair …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weiermattstrasse 9
-440'000
-CHF
-Sonnige und helle Attikawohnung
-Weiermattstrasse 9, 4653 Obergösgen
-Array
-3.5 Zimmer
-76 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-76 m2
-Genau auf Sie wartet diese sonnige und helle 3.5-Zimmer-Attika-Wohnung in Obergösgen. Dank Lift ist…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-640'000
-CHF
-Wohnparadies für Naturfreunde und Famil…
-Adresse auf Anfrage, 4634 Wisen SO
-Array
-4.5 Zimmer
-125 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-125 m2
-Herzlich willkommen im Kinder und FamilienparadiesDas freundlich gestaltete Treppenhaus geleitet Si…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-650'000
-CHF
-DYNAMISCHE DACHWOHNUNG
-Adresse auf Anfrage, 4702 Oensingen
-Array
-5 Zimmer
-155 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-155 m2
-Folgende Besichtigungen finden statt: - Mittwoch, 2. Juni 2021, von 10:30 Uhr bis 12:00 Uhr - Mont…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rainackerstrasse 9
-625'000
-CHF
-Wohnen an bevorzugter und sehr ruhigen …
-Rainackerstrasse 9, 4543 Deitingen
-Array
-4.5 Zimmer
-99 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-99 m2
-Garten-WohnungDer Neubau mit vier lichtdurchfluteten Eigentumswohnungen entsteht an leicht erhöhter…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brunngrabenstrasse 22
-340'000
-CHF
-Attraktive und helle 3.5-Zimmer-Wohnung…
-Brunngrabenstrasse 22, 4500 Solothurn
-Array
-3.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-75 m2
-Attraktive und helle 3.5-Zimmer-Wohnung an verkehrstechnisch guter Lage in familienfreundlichem Qua…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 11
+Seite 1 von 10
 1
 2
 3

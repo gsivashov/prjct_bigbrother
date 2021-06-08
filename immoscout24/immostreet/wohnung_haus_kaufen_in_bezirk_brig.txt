@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-brig/
 Title: Wohnung & Haus kaufen in Bezirk Brig - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Brig - Immostreet.ch: ImmoStreet.ch hat 81 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Brig - Immostreet.ch: ImmoStreet.ch hat 83 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-81 Resultate gefunden ·
+83 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Brig
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,78 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+620'000
+CHF
+Grosszügige 5.5 Zi-Whg im Wohnpark "Bäj…
+Adresse auf Anfrage, 3900 Brig
+Array
+5.5 Zimmer
+168 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+168 m2
+Das Mehrfamilienhaus befindet sich am Bäjiweg in Brig-Glis, an ruhiger, sonniger und familienfreund…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfplatz
+298'000
+CHF
+Altbauwohnung mit Charme und diversen R…
+Dorfplatz, 3902 Glis
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Für einen Handwerker. Mit enormen Gestaltungs- und Entwicklungspotential
+Verkauf als Ferien…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+12'345
+CHF
+5.5 Zimmerwohnung
+Adresse auf Anfrage, 3904 Naters
+Array
+5.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+An unverbaubarer Lage wurde 2020 diese 5.5-Zimmerwohnung in der zweiten Etage eines Mehrfamilienhau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bachtola
+198'000
+CHF
+Maiensäss mit atemberaubender Aussicht …
+Bachtola, 3903 Mund
+Array
+2 Zimmer
+40 m2
+Objekttyp
+Wohnung, Chalet
+Zimmer
+2
+Wohnfläche
+40 m2
+Etage
+in unberührter Natur, wo sich freilebende Wildtiere auf der Weide befinden.... – da ist Einsamkeit …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 420'000
 CHF
@@ -185,24 +257,6 @@ Zimmer
 Wohnfläche
 98 m2
 Grosszügige, helle Wohnung in der dritten Etage mit unverbaubarer Aussicht Richtung Süden. Super ze…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Haselmattenstr. 27
-Preis auf Anfrage
-Zu verkaufen top moderne 4.5 Zimmer Woh…
-Haselmattenstr. 27, 3904 Naters
-Array
-4.5 Zimmer
-155 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-155 m2
-Einmalige wunderschöne,sehr gepflegte4.5 Zimmer Wohnung an ruhiger, schöner,sonniger Lage in Naters…
 Teilen
 E-Mail
 Facebook
@@ -398,25 +452,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bahnhofstrasse 8
-470'000
-CHF
-Total sanierte 4.5-Zimmerwohnung im 9.S…
-Bahnhofstrasse 8, 3904 Naters
-Array
-4.5 Zimmer
-125 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-125 m2
-Total sanierte 4.5- Zimmerwohnung im 9.Stockwerk Das Gebäude befindet sich zwei Gehminuten vom Bahn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Zenhäusernstrasse 14
 Preis auf Anfrage
 Neue Attikawohnung an bester Lage von B…
@@ -489,46 +524,6 @@ Wohnfläche
 173 m2
 Etage
 ZU HAUSE IST ES AM SCHÖNSTEN...WOHNEN IN HÖCHSTKLASSE...Dafür sorgen WIR...Ihr zu Hause ist bei uns…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Thermalbadstrasse
-810'750
-CHF
-EXCLUSIVES WOHNEN IN ZENTRALER LAGE
-Thermalbadstrasse, 3900 Brigerbad
-Array
-5.5 Zimmer
-144 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-144 m2
-Etage
-EXCLUSIVES WOHNEN IN ZETRALER LAGE... RESIDENZ MARTIN - IHR ZUHAUSE IST UNS EIN ANLIEGEN...In ruhig…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Thermalbadstrasse
-368'750
-CHF
-GARTENWOHNUNG MIT CHARM ZUM TOP PREIS
-Thermalbadstrasse, 3900 Brigerbad
-Array
-2.5 Zimmer
-67 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-67 m2
-Etage
-GARTENWOHNUNG MIT CHARM ZUM TOP PREIS...EXCLUSIVES WOHNEN IN ZETRALER LAGE... RESIDENZ MARTIN - IHR…
 Teilen
 E-Mail
 Facebook

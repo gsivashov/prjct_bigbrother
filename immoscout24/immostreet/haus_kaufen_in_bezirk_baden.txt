@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-baden/
 Title: Haus kaufen in Bezirk Baden - Immostreet.ch
-Description: Haus kaufen in Bezirk Baden - Immostreet.ch: ImmoStreet.ch hat 50 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Baden - Immostreet.ch: ImmoStreet.ch hat 49 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-50 Resultate gefunden ·
+49 Resultate gefunden ·
 Haus kaufen in Bezirk Baden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,84 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Sommerhaldenstrasse 7
+890'000
+CHF
+Wohlfühl-Zuhause zwischen Stadt und Nat…
+Sommerhaldenstrasse 7, 5405 Dättwil AG
+Array
+6.5 Zimmer
+175 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+175 m2
+Etage
+Mehr Infos inkl. Video unter: www.remaximmobilien.ch/badenWohnen, arbeiten, geniessen -charmantes …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Vordere Gasse 6
+1'180'000
+CHF
+Sonniges Familienparadies im steuergüns…
+Vordere Gasse 6, 5453 Remetschwil
+Array
+6.5 Zimmer
+184 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+184 m2
+Sonniges FamilienparadiesDieses beinahe neuwertige und grosszügige 6.5-Zimmer-Eckhaus mit äusserst …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Rotenstein 2
+3'150'000
+CHF
+Traumhaftes Wohnen in Bellikon
+Im Rotenstein 2, 5454 Bellikon
+Array
+7.5 Zimmer
+242 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+7.5
+Wohnfläche
+242 m2
+Etage
+Hier in Bellikon entsteht dieser wunderbare Wohntraum am Rande der Bauzone. Dieses luxuriöse Objekt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rohrdorferstrasse 9
+1'200'000
+CHF
+Kirschgarten - Ihr neues Einfamilienhau…
+Rohrdorferstrasse 9, 5453 Remetschwil
+Array
+5.5 Zimmer
+153 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+153 m2
+LEBEN - WOHNEN - GENIESSENBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschgart…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Tannwiesenweg 10
 1'260'000
 CHF
@@ -448,85 +526,6 @@ Wohnfläche
 112 m2
 Etage
 Suchen Sie nach einem familienfreundlichen Zuhause an ruhiger Lade und doch in Stadtnähe? Dann könn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Rotenstein 2
-3'150'000
-CHF
-Traumhaftes Wohnen in Bellikon
-Im Rotenstein 2, 5454 Bellikon
-Array
-7.5 Zimmer
-242 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-7.5
-Wohnfläche
-242 m2
-Etage
-Hier in Bellikon entsteht dieser wunderbare Wohntraum am Rande der Bauzone. Dieses luxuriöse Objekt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rohrdorferstrasse 9
-1'200'000
-CHF
-Kirschgarten - Ihr neues Einfamilienhau…
-Rohrdorferstrasse 9, 5453 Remetschwil
-Array
-5.5 Zimmer
-153 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-153 m2
-LEBEN - WOHNEN - GENIESSENBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschgart…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'740'000
-CHF
-Attraktives Terrassenhaus mit aussergew…
-Adresse auf Anfrage, 5452 Oberrohrdorf
-Array
-5.5 Zimmer
-161 m2
-Objekttyp
-Wohnung, Terrassenhaus
-Zimmer
-5.5
-Wohnfläche
-161 m2
-Etage
-Das gepflegte Terrassenhaus mit 5,5 Zimmern und einer Doppelgarage liegt in einem ausserordentlich …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'390'000
-CHF
-Sonnenverwöhntes Wohnen mit Weitsicht!
-Adresse auf Anfrage, 5443 Niederrohrdorf
-Array
-7 Zimmer
-340 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7
-Wohnfläche
-340 m2
-Etage
-Dieses luxuriöse Einfamilienhaus befindet sich an bevorzugter Lage in Niederrohrdorf AG und ist gen…
 Teilen
 E-Mail
 Facebook

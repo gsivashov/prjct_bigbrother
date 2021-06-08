@@ -17,9 +17,24 @@ Parkplatz, Garage
 Büro
 Gewerbe
 Lager
+ab
+CHF / m² / Jahr
+bis
+CHF / m² / Jahr
+bis
+CHF / m² / Jahr
+ab
+CHF
+bis
+CHF
+bis
+CHF
 Preis
-Preis von
+Preis pro m² / JahrMonat Preis von
 Preis bis
+Nutzfläche
+Nutzfläche ab
+Nutzfläche bis
 Zimmer
 Zimmer von
 Zimmer bis

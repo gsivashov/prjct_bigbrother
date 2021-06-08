@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-regensdorf/
 Title: Wohnung & Haus mieten in Regensdorf - Immostreet.ch
-Description: Wohnung & Haus mieten in  Regensdorf - Immostreet.ch: ImmoStreet.ch hat 39 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Regensdorf - Immostreet.ch: ImmoStreet.ch hat 40 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-39 Resultate gefunden ·
+40 Resultate gefunden ·
 Wohnung & Haus mieten in Regensdorf
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,98 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+2'400
+CHF
+/Monat
+ÜBER DEN DÄCHERN MIT WEITSICHT
+Adresse auf Anfrage, 8105 Regensdorf
+Array
+3.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+95 m2
+Diese helle und ruhige Wohnung überzeugt mit einer Weitsicht ins Grüne, einem sonnigen Balkon und i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Burghofstrasse 20
+2'050
+CHF
+/Monat
+Schöne 3.5 Zimmer Wohnung
+Burghofstrasse 20, 8105 Regensdorf
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+3.5
+Wohnfläche
+100 m2
+Etage
+Wir vermieten im ruhigen Weiler Altburg eine schöne, ruhige Wohnung.Die Wohnung ist 2 stöckig und v…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obstgartenstrasse75
+900
+CHF
+/Monat
+GESUCHT: WG Mitbewohner*in
+Obstgartenstrasse75, 8105 Regensdorf
+Array
+Objekttyp
+Wohnung, Einzelzimmer
+Hallo Zusammen, ich bin Michelle (25) und wohne seit 4 Jahren in Regensdorf in einer schönen 3 Zimm…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Lettenhau 66
+3'300
+CHF
+/Monat
+IDYLLISCH UND GEMÜTLICH
+Im Lettenhau 66, 8105 Regensdorf
+Array
+5.5 Zimmer
+118 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+118 m2
+An sonniger und leicht erhöhter Lage lockt dieses gepflegte 5.5-Zimmer-Einfamilienhaus mit Landhaus…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sunnewies 7
+1'846
+CHF
+/Monat
+ruhig gelegene Wohnung
+Sunnewies 7, 8105 Regensdorf
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+mach4 Immobilien-Treuhand GmbH vermietet diese helle und sonnige Wohnung in einem kleinen und gepfl…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Schulstrasse 103
 2'732
 CHF
@@ -253,26 +345,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Mühleweg 25
-2'018
-CHF
-/Monat
-Altersgerechte Wohnung im alten Dorfker…
-Mühleweg 25, 8105 Regensdorf
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Der gepflegte Neubau aus dem Jahre 2016 mit 14 altersgerechte Wohnung steht im alten Dorfkern von R…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 1'630
 CHF
@@ -337,7 +409,7 @@ Obstgartenstrasse 23
 537
 CHF
 /Monat
-WG - Zimmer ab 01.07.21 zu vermieten
+WG - Zimmer ab 01.08.21 zu vermieten
 Obstgartenstrasse 23, 8105 Regensdorf
 Array
 12 m2
@@ -345,7 +417,7 @@ Objekttyp
 Wohnung, Einzelzimmer
 Wohnfläche
 12 m2
-Das Zimmer ist 12m² gross, gemütlich und gleich neben einem grossen Badezimmer,dass er/sie mit mir …
+Das Zimmer ist ungefähr 12m² gross (siehe erstes Bild der Fotoreihe)Die Wohnung liegt in Regensdorf…
 Teilen
 E-Mail
 Facebook
@@ -372,26 +444,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Riedthofstrasse 7
-1'670
-CHF
-/Monat
-Schöne und moderne 3 Zimmer Wohnung in …
-Riedthofstrasse 7, 8105 Regensdorf
-Array
-3 Zimmer
-66 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-66 m2
-Sehr schöne, 3-Zimmerwohnung in ruhiger, zentraler Lage in Regensdorf per 01.07.2021 oder nach Vere…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Obstgartenstrasse 33
 1'480
 CHF
@@ -409,41 +461,6 @@ Wohnfläche
 60 m2
 Wir vermieten per sofort oder nach Vereinbarung diese schöne 3-Zimmer-Wohnung.
 Die Wohnung befi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bergstrasse 55
-2'290
-CHF
-/Monat
-Modern sanierte, grosszügige Wohnung mi…
-Bergstrasse 55, 8105 Regensdorf
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Die grosszügig konzipierte Wohnung wurde komplett saniert.
-Auch wurde die Nasszelle und die Küche …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Affolternstrasse 160
-150
-CHF
-/Monat
-18 m² Lagerraum zu vermieten
-Affolternstrasse 160, 8105 Regensdorf
-Array
-18 m2
-Objekttyp
-Atelier
-Wohnfläche
-18 m2
-Per Sofort oder nach Vereinbarung vermieten wir diesen 18 m² grossen Lagerraum.Für eine Besichtigun…
 Teilen
 E-Mail
 Facebook
@@ -523,26 +540,6 @@ Zimmer
 3.5
 Wohnfläche
 75 m2
-An der Riedthofstrasse, unweit von guten Einkaufsmöglichkeiten, Restaurationsbetrieben, Schulen und…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Riedthofstrasse 68
-1'590
-CHF
-/Monat
-ERSTVERMIETUNG "Am Riedthof"
-Riedthofstrasse 68, 8105 Regensdorf
-Array
-2.5 Zimmer
-50 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-2.5
-Wohnfläche
-50 m2
 An der Riedthofstrasse, unweit von guten Einkaufsmöglichkeiten, Restaurationsbetrieben, Schulen und…
 Teilen
 E-Mail

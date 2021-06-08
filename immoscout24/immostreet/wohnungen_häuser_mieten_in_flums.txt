@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-flums/
 Title: Wohnungen & Häuser mieten in Flums - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Flums - Immostreet.ch: ImmoStreet.ch hat 21 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Flums - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-21 Resultate gefunden ·
+20 Resultate gefunden ·
 Wohnungen & Häuser mieten in Flums
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,22 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Bahnhofstrasse 30
+1'290
+CHF
+/Monat
+Heimische 3 Zimmer-Dach-Wohnung mit Cha…
+Bahnhofstrasse 30, 8890 Flums
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Pradasolstrasse 8
 1'380
 CHF
@@ -159,23 +175,6 @@ Zimmer
 Wohnfläche
 116 m2
 Geniessen Sie eine zentrale und ruhige Lage in einer grosszügigen und ansprechenden Wohnung, welche…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 30
-1'290
-CHF
-/Monat
-Heimische 3 Zimmer-Dach-Wohnung mit Cha…
-Bahnhofstrasse 30, 8890 Flums
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Haben Sie schon immer eine heimische Wohnung mit gemütlichen Dachschrägen gesucht? Dann könnte dies…
 Teilen
 E-Mail
 Facebook
@@ -346,7 +345,7 @@ Zimmer
 2.5
 Wohnfläche
 78 m2
-Die 2.5 Zimmer - Attikawohnungen bieten viel Platz für Ihre Kreativität und brillieren mit vielen d…
+Die 2.5 Zimmer - Attikawohnung bietet viel Platz für Ihre Kreativität und brillieren mit vielen dur…
 Teilen
 E-Mail
 Facebook
@@ -405,27 +404,6 @@ Wohnfläche
 149 m2
 Etage
 Bitte rufen Sie uns an, wenn Sie weitere Details der Liegenschaft kennen lernen wollen, oder verein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gimsastrasse 8
-1'500
-CHF
-/Monat
-frisch gestrichene 4.5-Zimmer-Wohnung m…
-Gimsastrasse 8, 8890 Flums
-Array
-4.5 Zimmer
-106 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-106 m2
-Etage
-Diese schöne 4.5-Zimmer-Wohnung mit Balkon liegt rundum eingebettet in das eindrucksvolle Alpenmass…
 Teilen
 E-Mail
 Facebook
@@ -495,10 +473,21 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 2
-1
-2
-nächste Seite
+Bergstrasse 6
+1'460
+CHF
+/Monat
+Gewerberaum an bester Erreichbarkeit in…
+Bergstrasse 6, 8890 Flums
+Array
+Objekttyp
+Verkauf, Gewerbe
+Etage
+Der "Mannhart-Park" in Flums liegt an bester Erreichbarkeit an der Bergstrasse direkt neben dem Hau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 ImmoStreet.ch
 Mieten
 Immobilien mieten in der Stadt Flums

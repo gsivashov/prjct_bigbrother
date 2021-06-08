@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-buchrain/
 Title: Wohnungen & Häuser mieten in Buchrain - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Buchrain - Immostreet.ch: ImmoStreet.ch hat 35 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Buchrain - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-35 Resultate gefunden ·
+34 Resultate gefunden ·
 Wohnungen & Häuser mieten in Buchrain
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Hofmattstrasse 6
+950
+CHF
+/Monat
+Vermiete gemütliche, kleine 1.5 Zimmerw…
+Hofmattstrasse 6, 6033 Buchrain
+Array
+1.5 Zimmer
+30 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+30 m2
+Unser Einfamilienhaus verfügt über ein Studio, welches wir gerne vermieten würden. Es hat einen sep…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Buchfeldring 2
 1'740
 CHF
@@ -474,20 +494,6 @@ Wohnfläche
 108 m2
 Etage
 www.haslirainpark.ch/mietenMöchten Sie Ihre Seele baumeln lassen und den hektischen Alltag in Ihrem…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schiltwaldstrasse
-50
-CHF
-/Monat
-Aussenparkplätze zu vermieten
-Schiltwaldstrasse, 6033 Buchrain
-Array
-Objekttyp
-Offener Parkplatz
-An gut zugänglicher Lage in Buchrain vermieten wir mehrere Aussenparkplätze. Bei Interesse geben wi…
 Teilen
 E-Mail
 Facebook

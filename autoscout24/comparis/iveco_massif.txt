@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -566,7 +565,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Iveco
-(414)
+(403)
 Iveco Massif Occasion
 (8)
 Aufbau
@@ -580,13 +579,11 @@ Iveco Massif
 (8)
 Modelle
 Iveco Daily
-(377)
+(369)
 Iveco Turbo-daily
-(11)
+(10)
 Iveco Eco-daily
-(9)
-Iveco 50
-(3)
+(8)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -602,8 +599,9 @@ weniger
 7 Inserate
 0 Inserate
 0 Inserate
+Preisreduktion
 IVECO Massif 3.0 HPT Stationw.
-5.0
+5.5
 30.05.2021
 Occasion
 11.2008, Manuell, Diesel
@@ -611,8 +609,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 7'900
-ab CHF 144 / Monat
+CHF 7'500
+ab CHF 137 / Monat
 Iveco Massif 3.0 HPT Stationw.
 3.0
 04.05.2021

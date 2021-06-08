@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/kanton-schaffhausen/
 Title: Wohnung & Haus kaufen in Kanton Schaffhausen - Immostreet.ch
-Description: Wohnung & Haus kaufen in Kanton Schaffhausen - Immostreet.ch: ImmoStreet.ch hat 159 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Kanton Schaffhausen - Immostreet.ch: ImmoStreet.ch hat 152 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-159 Resultate gefunden ·
+152 Resultate gefunden ·
 Wohnung & Haus kaufen in Kanton Schaffhausen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,70 +151,51 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Braatistrasse 25
-1'560'000
+Badische Bahnhofstrasse 16
+920'000
 CHF
-Landhaus in Stetten mit einmaliger Gart…
-Braatistrasse 25, 8234 Stetten SH
+RhyfallTower - herausragend wohnen
+Badische Bahnhofstrasse 16, 8212 Neuhausen am Rheinfall
 Array
 5.5 Zimmer
-230 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-230 m2
-Das frei stehende Wohnhaus wurde 1979 in solider, massiver Baukonstruktion mit Vollwärmeschutz (Aus…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Echostrasse 12
-450'000
-CHF
-Der Traum vom Eigenheim - zum Greifen n…
-Echostrasse 12, 8212 Neuhausen am Rheinfall
-Array
-5.5 Zimmer
-117 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-117 m2
-Etage
-Das Reiheneckhaus liegt inmitten von Neuhausen. Zur hohen Beliebtheit des Quartiers trägt sicherlic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sandackerstrasse 3
-1'180'000
-CHF
-TRAUMWOHNUNG AN TOP LAGE IM BELIEBTEN B…
-Sandackerstrasse 3, 8200 Schaffhausen
-Array
-5.5 Zimmer
-153 m2
+125 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 5.5
 Wohnfläche
-153 m2
+125 m2
 Etage
-EXKLUSIVE TRAUMWOHNUNG AN TOP LAGE IM BELIEBTEN BREITE-QUARTIERWillkommen in Ihrem neuen Zuhause! M…
+RhyfallTower - herausragend wohnen mit Blick auf den RheinfallAuf historischem Grund entsteht der i…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Badische Bahnhofstrasse
+Badische Bahnhofstrasse 16
+710'000
+CHF
+RhyfallTower - herausragend wohnen
+Badische Bahnhofstrasse 16, 8212 Neuhausen am Rheinfall
+Array
+4.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+125 m2
+Etage
+RhyfallTower - herausragend wohnen Auf historischem Grund entsteht der imposante RhyfallTower als H…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Badische Bahnhofstrasse 16
 790'000
 CHF
 RhyfallTower - herausragend wohnen
-Badische Bahnhofstrasse, 8212 Neuhausen am Rheinfall
+Badische Bahnhofstrasse 16, 8212 Neuhausen am Rheinfall
 Array
 3.5 Zimmer
 92 m2
@@ -230,48 +211,86 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Badische Bahnhofstrasse
-710'000
+Wallenrütistrasse
+1'700'000
 CHF
-RhyfallTower - herausragend wohnen mit …
-Badische Bahnhofstrasse, 8212 Neuhausen am Rheinfall
+Exklusives Wohnen mit atemberaubender W…
+Wallenrütistrasse, 8234 Stetten SH
+Array
+5.5 Zimmer
+168 m2
+Objekttyp
+Wohnung, Terrassenhaus
+Zimmer
+5.5
+Wohnfläche
+168 m2
+Dieses Terrassenhaus wird Sie begeistern. Hier nur einige Punkte warum dieses Traumhaus Ihr neues Z…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Neugrüthalde 98
+780'000
+CHF
+Maisonette-Wohnung, Tiefgaragenplatz im…
+Neugrüthalde 98, 8222 Beringen
+Array
+6.5 Zimmer
+153 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+6.5
+Wohnfläche
+153 m2
+Diese vielseitig nutzbare Dach-Maisonette-Wohnung wird Sie begeistern. Hier nur einige Punkte warum…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Moserstrasse 27
+1'500'000
+CHF
+Atemberaubende Aussicht zentral in Scha…
+Moserstrasse 27, 8200 Schaffhausen
 Array
 4.5 Zimmer
-126 m2
+152 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-126 m2
-Etage
-RhyfallTower - herausragend wohnenAuf historischem Grund entsteht der imposante RhyfallTower als He…
+152 m2
+Diese wunderbare 4.5-Zimmer-Wohnung wird Sie begeistern. Hier nur einige Punkte warum diese Wohnung…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hofweg 2
-500'000
+Adresse auf Anfrage
+900'000
 CHF
-GROSSZÜGIGES WOHNEN FÜR SIE UND IHRE FA…
-Hofweg 2, 8263 Buch SH
+GROSSES POTENZIAL MIT UMSCHWUNG!
+Adresse auf Anfrage, 8219 Trasadingen
 Array
-7 Zimmer
-170 m2
+8 Zimmer
+250 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Bauernhaus
 Zimmer
-7
+8
 Wohnfläche
-170 m2
-An sonniger und ländlicher Lage in Buch SH steht dieses 7-Zimmer-Einfamilienhaus mit Scheune zum Ve…
+250 m2
+Schönes grosses Bauernhaus mit riesigem Umschwung zu verkaufen. Das Objekt befindet sich perfekt in…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Galgenbuckstrasse 16
-Preis auf Anfrage
-Atemberaubende 9-Zimmer-Wohnoase mit A…
+1'480'000
+CHF
+Pures Wohngefühl an Privatstrasse
 Galgenbuckstrasse 16, 8212 Neuhausen am Rheinfall
 Array
 9 Zimmer
@@ -287,253 +306,230 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Buchenstrasse 14
-695'000
+Im Santenbüel 3
+950'000
 CHF
-Gemütliche 4.5-Zimmer-Wohnung ? stufenl…
-Buchenstrasse 14, 8200 Schaffhausen
+Für Sonnenhungrige - Einfamilienhaus in…
+Im Santenbüel 3, 8234 Stetten SH
 Array
-4.5 Zimmer
-126 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-126 m2
-Stufenloses Wohnen mit Balkon und WeitblickDiese gemütliche 4.5-Zimmer-Wohnung mit grossem Balkon u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Badische Bahnhofstrasse
-665'000
-CHF
-RhyGarten - natürlich wohnen
-Badische Bahnhofstrasse, 8212 Neuhausen am Rheinfall
-Array
-5.5 Zimmer
-118 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-118 m2
-Etage
-RhyGarten - natürlich wohnenWo Grünraum und städtisches Flair zusammenfinden, wo die Wohn- und Lebe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Badische Bahnhofstrasse
-560'000
-CHF
-RhyGarten - natürlich wohnen
-Badische Bahnhofstrasse, 8212 Neuhausen am Rheinfall
-Array
-4.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-98 m2
-Etage
-RhyGarten - natürlich wohnenWo Grünraum und städtisches Flair zusammenfinden, wo die Wohn- und Lebe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rheingoldstrasse 16
-399'888
-CHF
-Frisch renovierte 3 ½-Zimmer Wohnung im…
-Rheingoldstrasse 16, 8212 Neuhausen am Rheinfall
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Ihre ImmobilienVerkäufer mit HerzUG: Waschmaschine und Veloraum zur Mitbenutzung sowie ein Kellerab…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Winkelweg 500
-765'000
-CHF
-Das Landleben und die Ruhe geniessen...
-Winkelweg 500, 8262 Ramsen
-Array
-5.5 Zimmer
-137 m2
+6.5 Zimmer
+134 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-5.5
+6.5
 Wohnfläche
-137 m2
-Das freistehende Einfamilienhaus befindet sich am südwestlichen Dorfrand von Ramsen an ruhiger und …
+134 m2
+Dieses von Jörg Aellig erbaute, freistehende Einfamilienhaus aus den 60er-Jahren besticht durch sei…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Neudörflingerstrasse 31
-630'000
+Herblingerstrasse 15
+785'000
 CHF
-Maisonette-Wohnung, Einzelgarage im Pre…
-Neudörflingerstrasse 31, 8239 Dörflingen
+Grosszügig und ideal gelegen
+Herblingerstrasse 15, 8207 Schaffhausen
 Array
 4.5 Zimmer
-129 m2
+115 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-129 m2
-Diese geschmackvoll sanierte Wohnung wird Sie begeistern. Hier nur einige Punkte warum diese Wohnun…
+115 m2
+In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-770'000
+Im Bergli 3
+605'000
 CHF
-Einzigartig, gemütlich und rustikal
-Adresse auf Anfrage, 8207 Schaffhausen
-Array
-5.5 Zimmer
-208 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-208 m2
-Etage
-In einem beliebten Schaffhauser Wohnquartier, unweit von Schulen und Einkaufsmöglichkeiten entfernt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-435'000
-CHF
-"Rheinwiese" einzigartige Wohnidylle - …
-Adresse auf Anfrage, 8261 Hemishofen
+Gartenwohnung mit eigenem Sitzplatz
+Im Bergli 3, 8207 Schaffhausen
 Array
 3.5 Zimmer
-71 m2
+88 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-71 m2
-Etage
-"Rheinwies" einzigartige Wohnidylle: + herrliche Lage am Rhein + ruhige und familienfreundliche La…
+88 m2
+In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'700'000
+Herblingerstrasse 15
+615'000
 CHF
-Grandiose Architektur für anspruchsvoll…
-Adresse auf Anfrage, 8219 Trasadingen
+Ihr neues Zuhause an top Lage
+Herblingerstrasse 15, 8207 Schaffhausen
 Array
-4.4 Zimmer
-143 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.4
-Wohnfläche
-143 m2
-Dieses exklusive Reiheneinfamilienhaus mit privatem Innenhof wurde im Laufe der vergangenen Jahre m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfstrasse 21
-1'100'000
-CHF
-Renoviertes Bauernhaus an bezaubernder …
-Dorfstrasse 21, 8455 Rüdlingen
-Array
-6 Zimmer
-250 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-6
-Wohnfläche
-250 m2
-Etage
-Dieses charmante Bauernhaus an ruhiger Lage im Dorfzentrum von Rüdlingen wartet auf seine neuen Bes…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Badische Bahnhofstrasse
-1'820'000
-CHF
-RhyfallTower - herausragend wohnen
-Badische Bahnhofstrasse, 8212 Neuhausen am Rheinfall
-Array
-7.5 Zimmer
-230 m2
+3.5 Zimmer
+82 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-7.5
+3.5
 Wohnfläche
-230 m2
-Etage
-Liebe auf den ersten BlickAuf historischem Grund entsteht der imposante RhyfallTower als Herzstück …
+82 m2
+In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'660'000
+Herblingerstrasse 17
+650'000
 CHF
-INVESTITIONSOBJEKT - ATTRAKTIVES 7.5 ZI…
-Adresse auf Anfrage, 8222 Beringen
+Grosszügige 3.5 Zimmer Minergie Wohnung
+Herblingerstrasse 17, 8207 Schaffhausen
 Array
-7.5 Zimmer
-187 m2
+3.5 Zimmer
+94 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Flach
 Zimmer
-7.5
+3.5
 Wohnfläche
-187 m2
-Etage
-AUSBAUEN, INVESTIEREN, ERWEITERN? ALLES IST MÖGLICH! SCHAFFUNG VON BIS ZU 900M2 WOHNFLÄ…
+94 m2
+In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-495'000
+Im Bergli 3
+620'000
 CHF
-ZENTRAL MIT GARTENSITZPLATZ
-Adresse auf Anfrage, 8212 Neuhausen am Rheinfall
+Naturnah wohnen in Schaffhausen-Herblin…
+Im Bergli 3, 8207 Schaffhausen
+Array
+3.5 Zimmer
+88 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+88 m2
+In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Herblingerstrasse 15
+780'000
+CHF
+Neu, hochwertig, lichterfüllt - 4.5 Zim…
+Herblingerstrasse 15, 8207 Schaffhausen
 Array
 4.5 Zimmer
-77 m2
+111 m2
 Objekttyp
-Wohnung, Doppeleinfamilienhaus
+Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-77 m2
-Dieses Doppelhaushälfte zeichnet sich durch die zentral gelegene Lage mit Umschwung und einem gross…
+111 m2
+In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Herblingerstrasse 15
+610'000
+CHF
+Topmoderne Neubauwohnung im "Gloggeguet"
+Herblingerstrasse 15, 8207 Schaffhausen
+Array
+3.5 Zimmer
+82 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+82 m2
+In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Herblingerstrasse 17
+660'000
+CHF
+Ihr neues Zuhause an attraktiver Lage
+Herblingerstrasse 17, 8207 Schaffhausen
+Array
+3.5 Zimmer
+94 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+94 m2
+In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Herblingerstrasse 17
+850'000
+CHF
+Lichtdurchflutet, hochwertig. Ihr Wohnt…
+Herblingerstrasse 17, 8207 Schaffhausen
+Array
+5.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+123 m2
+In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Herblingerstrasse 19
+725'000
+CHF
+Hochwertige Eigentumswohnung am Naherho…
+Herblingerstrasse 19, 8207 Schaffhausen
+Array
+4.5 Zimmer
+114 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+114 m2
+In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Herblingerstrasse 21
+475'000
+CHF
+2.5 Zimmer-Gartenwohnung an zentraler L…
+Herblingerstrasse 21, 8207 Schaffhausen
+Array
+2.5 Zimmer
+74 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+74 m2
+In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
 Teilen
 E-Mail
 Facebook

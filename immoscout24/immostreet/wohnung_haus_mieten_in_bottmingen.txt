@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-bottmingen/
 Title: Wohnung & Haus mieten in Bottmingen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Bottmingen - Immostreet.ch: ImmoStreet.ch hat 37 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Bottmingen - Immostreet.ch: ImmoStreet.ch hat 33 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-37 Resultate gefunden ·
+33 Resultate gefunden ·
 Wohnung & Haus mieten in Bottmingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -153,7 +153,7 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Adresse auf Anfrage
-2'900
+2'700
 CHF
 /Monat
 RUHIG MIT ZWEI BALKONS UND GARTEN
@@ -168,26 +168,6 @@ Zimmer
 Wohnfläche
 146 m2
 Diese grosse Wohnung ist der perfekte Ort für Ihre Familie oder Ihr Homeoffice Traum mit sehr viel …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gustackerstrasse 1
-1'465
-CHF
-/Monat
-Gemütliche " Single" Wohnung
-Gustackerstrasse 1, 4103 Bottmingen
-Array
-2.5 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-60 m2
-Die LageBottmingen ist eine lebendige, moderne Wohngemeinde in der Agglomeration der Stadt Basel. T…
 Teilen
 E-Mail
 Facebook
@@ -232,48 +212,8 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Baslerstrasse 28
-740
-CHF
-/Monat
-Moderne Wohnung für Einzelperson
-Baslerstrasse 28, 4103 Bottmingen
-Array
-1 Zimmer
-26 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-26 m2
-Bottmingen versteht sich als lebendige, moderne Wohngemeinde in der Agglomeration der Stadt Basel. …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Starenstrasse 1
-2'300
-CHF
-/Monat
-Ruhig gelegene 4.5-Zimmerwohnung mit Wi…
-Starenstrasse 1, 4103 Bottmingen
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Nach Vereinbarung vermieten wir eine ruhige, neu renovierte 4.5-Zimmerwohnung mit folgender Ausstat…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Schützenstrasse 13
-3'080
+2'990
 CHF
 /Monat
 Grosse, sonnige 3.5 Zi.-Wohnung mit Aus…
@@ -547,6 +487,65 @@ Zimmer
 Wohnfläche
 65 m2
 Bottmingen versteht sich als lebendige, moderne Wohngemeinde in der Agglomeration der Stadt Basel. …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Elsternweg 7
+Preis auf Anfrage
+REFUGIUM FÜR KOSMOPOLITEN!
+Elsternweg 7, 4103 Bottmingen
+Array
+8 Zimmer
+349 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+8
+Wohnfläche
+349 m2
+Etage
+Eleganz, Stil, Weiträumigkeit, dezenter Luxus, höchste Lebens- und Wohnqualität im Minergiestandard…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gemeindeholzweg 34
+1'190
+CHF
+/Monat
+Studio mit Wohnqualität
+Gemeindeholzweg 34, 4103 Bottmingen
+Array
+2 Zimmer
+48 m2
+Objekttyp
+Wohnung, Studio
+Zimmer
+2
+Wohnfläche
+48 m2
+Im Sockelgeschoss eines repräsentativen Mehrfamilienhauses - in unmittelbarer Nähe zum Kantonsspita…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Buchenstrasse 6
+2'100
+CHF
+/Monat
+Schöne und ruhige 3,5 Zimmerwohnung in …
+Buchenstrasse 6, 4103 Bottmingen
+Array
+3.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+75 m2
+Bei der ausgeschriebenen Wohnung handelt es sich um eine helle und schöne Wohnung mit hohem Wohnkom…
 Teilen
 E-Mail
 Facebook

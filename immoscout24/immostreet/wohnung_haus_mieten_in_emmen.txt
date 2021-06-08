@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-emmen/
 Title: Wohnung & Haus mieten in Emmen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Emmen - Immostreet.ch: ImmoStreet.ch hat 36 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Emmen - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-36 Resultate gefunden ·
+34 Resultate gefunden ·
 Wohnung & Haus mieten in Emmen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,42 +152,42 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Mooshüslistrasse 14
-1'640
+Rottertswilstrasse, Emmen
+890
 CHF
 /Monat
-Moderne 2.5-Zimmer-Wohnung
-Mooshüslistrasse 14, 6032 Emmen
+Wohnung im Grünen
+Rottertswilstrasse, Emmen, 6032 Emmen
 Array
-2.5 Zimmer
-83 m2
+2 Zimmer
+30 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+2
 Wohnfläche
-83 m2
-Moderne & grosszügige 2.5-Zimmer-Wohnung ist per sofort oder nach Vereinbarung verfügbar.? CHF …
+30 m2
+Per 1. Juli 2021 oder nach Vereinbarung suchen wir eine/n Nachmieter/in für unsere sonnige, kleine …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Than 1
-1'870
+Adresse auf Anfrage
+1'790
 CHF
 /Monat
-Willkommen Zuhause!
-Than 1, 6032 Emmen
+NEUBAU, PRAKTISCH U. AN GUTER LAGE
+Adresse auf Anfrage, 6032 Emmen
 Array
-4.5 Zimmer
-105 m2
+3.5 Zimmer
+86 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+3.5
 Wohnfläche
-105 m2
-Sind Sie auf der Suche nach einem neuen, modernen Zuhause? Wir vermieten diese helle 4.5 Zimmer-Woh…
+86 m2
+Der herrliche Neubau steht an beliebter Lage und bietet alle Vorzüge an ein modernes Wohnen. Sie er…
 Teilen
 E-Mail
 Facebook
@@ -232,26 +232,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'770
-CHF
-/Monat
-NEUBAU, PRAKTISCH U. AN GUTER LAGE
-Adresse auf Anfrage, 6032 Emmen
-Array
-3.5 Zimmer
-86 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-86 m2
-Der herrliche Neubau steht an beliebter Lage und bietet alle Vorzüge an ein modernes Wohnen. Sie er…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Kantonstrasse 85,horw
 1'777
 CHF
@@ -273,16 +253,16 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'820
+1'770
 CHF
 /Monat
-ERSTBEZUG, EIGENTUMSSTANDARD
+ERSTBEZUG, MODERN
 Adresse auf Anfrage, 6032 Emmen
 Array
 3.5 Zimmer
 86 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
@@ -549,6 +529,23 @@ Zimmer
 Wohnfläche
 108 m2
 Per 1. August 2021 oder nach Vereinbarung vermieten wir diese helle und grosszügige 4.5-Zimmerwohnu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kirchfeldstrasse 45
+1'530
+CHF
+/Monat
+Wohnung in familienfreundlichem Quartier
+Kirchfeldstrasse 45, 6032 Emmen
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Im familienfreundlichen Quartier, Kirchfeldstrasse in Emmen, vermieten wir eine 4½-Zimmer-Wohnung.D…
 Teilen
 E-Mail
 Facebook

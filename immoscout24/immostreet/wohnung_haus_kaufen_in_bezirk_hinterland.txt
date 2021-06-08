@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-hinterland/
 Title: Wohnung & Haus kaufen in Bezirk Hinterland - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Hinterland - Immostreet.ch: ImmoStreet.ch hat 23 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Hinterland - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-23 Resultate gefunden ·
+24 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Hinterland
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,46 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+355'000
+CHF
+Charmante Bauernhaushälfte mit viel Pot…
+Adresse auf Anfrage, 9100 Herisau
+Array
+6.5 Zimmer
+171 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+6.5
+Wohnfläche
+171 m2
+Etage
+Ist es Ihr Traum, ländlich und doch nicht allzu abgelegen zu leben? Sind Sie auf der Suche nach ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorf 59
+90'000
+CHF
+Charmante 1-Zi. Ferienwohnung im Appenz…
+Oberdorf 59, 9105 Schönengrund
+Array
+1 Zimmer
+32 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+32 m2
+Etage
+Das Dorf Schönengrund im Appenzeller Hinterland liegt idyllisch am Fusse des Alpsteins. Von hier au…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Schlossstrasse 58
 350'000
 CHF
@@ -186,26 +226,6 @@ Wohnfläche
 146 m2
 Etage
 An einzigartiger Lage, in der Landwirtschaftszone, will ein 5 ½ Zi. Einfamilienhaus (ausbaubar auf …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-355'000
-CHF
-Charmante Bauernhaushälfte mit viel Pot…
-Adresse auf Anfrage, 9100 Herisau
-Array
-6.5 Zimmer
-171 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-6.5
-Wohnfläche
-171 m2
-Etage
-Ist es Ihr Traum, ländlich und doch nicht allzu abgelegen zu leben? Sind Sie auf der Suche nach ein…
 Teilen
 E-Mail
 Facebook
@@ -503,26 +523,6 @@ Zimmer
 4.5
 Wohnfläche
 114 m2
-Etage
-Mittendrin und trotzdem im Grünen befinden sich die fünf topmodernen Mehrfamilienhäuser am Herisaue…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kasernenstrasse 103
-830'000
-CHF
-2021: Einmalige 4.5 Zimmer Wohnung mit …
-Kasernenstrasse 103, 9100 Herisau
-Array
-4.5 Zimmer
-113 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-4.5
-Wohnfläche
-113 m2
 Etage
 Mittendrin und trotzdem im Grünen befinden sich die fünf topmodernen Mehrfamilienhäuser am Herisaue…
 Teilen

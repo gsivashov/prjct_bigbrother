@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-wohnung/in-cham/
 Title: Wohnung mieten in Cham - Immostreet.ch
-Description: Wohnung mieten in  Cham - Immostreet.ch: ImmoStreet.ch hat 16 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Cham - Immostreet.ch: ImmoStreet.ch hat 12 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-16 Resultate gefunden ·
+12 Resultate gefunden ·
 Wohnung mieten in Cham
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,97 +131,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Alpenblick 9
-1'690
+Sinserstrasse 124
+2'450
 CHF
 /Monat
-Wunderschöner Blick auf See und Berge
-Alpenblick 9, 6330 Cham
+Vernetzt Wohnen in Cham
+Sinserstrasse 124, 6330 Cham
 Array
-2.5 Zimmer
-56 m2
+3.5 Zimmer
+95 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+3.5
 Wohnfläche
-56 m2
-Wir vermieten per 01.08.2021 oder nach Vereinbarung diese schöne 2.5 Zimmer-Wohnung in der beliebte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alpenblick 9
-1'970
-CHF
-/Monat
-Moderne 2.5-Zimmer-Wohnung mit Blick au…
-Alpenblick 9, 6330 Cham
-Array
-2.5 Zimmer
-56 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-56 m2
-Wir vermieten per 01.09.2021 diese 2.5 Zimmer-Wohnung mit folgenden Highlights:- Wohnung komplett r…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchbühl 1
-1'880
-CHF
-/Monat
-Ihre neue Wohnung im Herzen von Cham
-Kirchbühl 1, 6330 Cham
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Im Herzen von Cham vermieten wir per 15.06.2021 diese heimelige 3-Zimmerwohnung im 1. Obergeschoss.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Feldstrasse 2
-1'200
-CHF
-/Monat
-WG-Zimmer mit eigenem Bad in 5,5- Zimme…
-Feldstrasse 2, 6330 Cham
-Array
-20 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-20 m2
-Zur Gründung einer 2er WG grosses Zimmer mit eigenem Bad zu vermieten, PP wenn nötig vorhanden, Mit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rigistrasse 7
-1'810
-CHF
-/Monat
-2.5 Zimmerwohnung in Cham
-Rigistrasse 7, 6330 Cham
-Array
-2.5 Zimmer
-51 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-51 m2
-Im Neubau an der Rigistrasse 7 in Cham stehen per 1. Juli 2021 vier Wohnungen zur Verfügung.
-Im …
+95 m2
+Stadtwohnung mal etwas anders...
+- Nähe Autobahnanschluss
+- Sicht ins Grüne
+- perfekte Verkehr…
 Teilen
 E-Mail
 Facebook
@@ -248,7 +176,7 @@ E-Mail
 Facebook
 Whatsapp
 Luzernerstrasse 19
-1'990
+2'250
 CHF
 /Monat
 Möblierte 2-Zimmerwohnung in Cham
@@ -288,7 +216,7 @@ E-Mail
 Facebook
 Whatsapp
 Luzernerstrasse 19
-2'490
+2'750
 CHF
 /Monat
 Möblierte 3-Zimmerwohnungen mit Balkon …
@@ -328,7 +256,7 @@ E-Mail
 Facebook
 Whatsapp
 Luzernerstrasse 19
-1'990
+2'050
 CHF
 /Monat
 Moderne und möblierte 2-Zimmerwohnungen…
@@ -342,13 +270,13 @@ Zimmer
 2
 Wohnfläche
 38 m2
-Nur für kurze Zeit haben wir ein besonderes Angebot für Sie: Wenn Sie bis zum Ende der Woche buchen…
+Nur für kurze Zeit haben wir ein besonderes Angebot für Sie: Spezialpreis von CHF 2050.- pro Monat …
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Luzernerstrasse 19
-3'990
+4'090
 CHF
 /Monat
 Möblierte 4.5 Zimmer Wohnung in Cham di…
@@ -368,7 +296,7 @@ E-Mail
 Facebook
 Whatsapp
 Luzernerstrasse 19
-3'990
+3'650
 CHF
 /Monat
 Möblierte 3.5 Zimmer Wohnung in Cham di…
@@ -382,13 +310,13 @@ Zimmer
 3.5
 Wohnfläche
 90 m2
-Nur für kurze Zeit haben wir ein besonderes Angebot für Sie: Wenn Sie bis zum Ende der Woche buchen…
+Nur für kurze Zeit haben wir ein besonderes Angebot für Sie: Spezialpreis von CHF 3650.- pro Monat …
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Luzernerstrasse 19
-2'290
+2'350
 CHF
 /Monat
 Grosszügiges, modern möbliertes 2.5 Zim…

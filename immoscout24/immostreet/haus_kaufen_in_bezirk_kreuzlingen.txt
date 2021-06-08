@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-kreuzlingen/
 Title: Haus kaufen in Bezirk Kreuzlingen - Immostreet.ch
-Description: Haus kaufen in Bezirk Kreuzlingen - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Kreuzlingen - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-32 Resultate gefunden ·
+34 Resultate gefunden ·
 Haus kaufen in Bezirk Kreuzlingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,58 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+1'800'000
+CHF
+Investor gesucht
+Adresse auf Anfrage, 8274 Tägerwilen
+Array
+7.5 Zimmer
+650 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Wohnfläche
+650 m2
+Zum Bau und Verkauf von vier Eigentumswohnungen im Raum Kemmental.Es werden nur seriöse Anfragen be…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse
+2'020'000
+CHF
+*Bauernhaus mit Scheune*
+Dorfstrasse, 8564 Sonterswil
+Array
+Objekttyp
+Wohnung, Bauernhaus
+Es handelt sich um ein altes Bauernhaus mit westseitig angebauter Scheune/Stall aus dem Jahre 1899.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Feldstrasse 4
+650'000
+CHF
+Doppelhaushälfte an ländlicher Lage - m…
+Feldstrasse 4, 8585 Schönenbaumgarten
+Array
+6.5 Zimmer
+240 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+6.5
+Wohnfläche
+240 m2
+Etage
+Familienidylle an ländlicher LageDie Liegenschaft befindet sich an ländlicher Lage in Schönenbaumga…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bühlstrasse 7
 1'050'000
 CHF
@@ -448,63 +500,6 @@ Zimmer
 Wohnfläche
 225 m2
 Herzlich Willkommen im schönen Zuben. Dort wo das Leben Familie heisst. Hübsche Häuser mit freundli…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfstrasse 2
-1'055'000
-CHF
-Gemeinsame Zukunft mit viel Potenzial
-Dorfstrasse 2, 8596 Scherzingen
-Array
-6.5 Zimmer
-329 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-329 m2
-Herzlich willkommen im Bäckerstübli, einem Wohnhaus mit zahlreichen Umbau- oder Ausbaumöglichkeiten…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kaffeegasse 11
-Preis auf Anfrage
-Kleiner Seeblick mit Stil inkl. Umbauop…
-Kaffeegasse 11, 8595 Altnau
-Array
-5.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-120 m2
-Etage
-Dieses Bijou in Form eines Reiheneckhauses besticht durch lichtdurchflutete Räumlichkeiten sowie du…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Illighauserstrasse 14
-1'245'000
-CHF
-5.5 Zimmer Einfamilienhaus mit grosszüg…
-Illighauserstrasse 14, 8574 Lengwil
-Array
-5.5 Zimmer
-171 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-171 m2
-LEBEN - WOHNEN ? SEINHerzlich willkommen Zuhause!Gerne stellen wir Ihnen die Wohnüberbauung "Landgu…
 Teilen
 E-Mail
 Facebook

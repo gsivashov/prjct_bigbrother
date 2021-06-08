@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-haegendorf/
 Title: Wohnung & Haus mieten in Hägendorf - Immostreet.ch
-Description: Wohnung & Haus mieten in  Hägendorf - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Hägendorf - Immostreet.ch: ImmoStreet.ch hat 16 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-19 Resultate gefunden ·
+16 Resultate gefunden ·
 Wohnung & Haus mieten in Hägendorf
 Preis (aufsteigend)
 Preis (absteigend)
@@ -213,26 +213,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'400
-CHF
-/Monat
-MODERN UND HELL AN RUHIGER LAGE
-Adresse auf Anfrage, 4614 Hägendorf
-Array
-1.5 Zimmer
-64 m2
-Objekttyp
-Wohnung, Loft
-Zimmer
-1.5
-Wohnfläche
-64 m2
-Durch die im Jahr 2021 durchgeführte Renovierung, strotzt diese wunderschöne Loft-Wohnung nahezu vo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bodenmattstrasse 14B
 1'500
 CHF
@@ -249,26 +229,6 @@ Zimmer
 Wohnfläche
 100 m2
 4 1/2 Zimmer-Wohnung zentral und ruhig4 1/2-Zimmer-Wohnung im 1. Obergeschoss Die Wohnung ist gross…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Insdustriestrasse West 20
-2'400
-CHF
-/Monat
-Einfamilienhaus Hägendorf
-Insdustriestrasse West 20, 4614 Hägendorf
-Array
-5 Zimmer
-410 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5
-Wohnfläche
-410 m2
-Wir bieten Ihnen ein Einfamilienhaus für Ihr Geschäft, Familie oder beides zusammen unter einem Da…
 Teilen
 E-Mail
 Facebook
@@ -370,28 +330,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Kirchrain 5
-745
-CHF
-/Monat
-1-Zimmer-Dachwohnung an zentraler Lage …
-Kirchrain 5, 4614 Hägendorf
-Array
-1 Zimmer
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-1
-Das Mehrfamilienhaus liegt am Fusse des Jurasüdfusses mit unmittelbarem Zugang zum bekannten Naherh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Im Herzel 3
 1'280
 CHF
 /Monat
-Charmante 3.5-Zimmerwohnung im 3.OG
+Charmante 3.5-Zimmerwohnung im 2. OG + …
 Im Herzel 3, 4614 Hägendorf
 Array
 3.5 Zimmer

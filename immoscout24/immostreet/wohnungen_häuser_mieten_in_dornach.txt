@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-dornach/
 Title: Wohnungen & Häuser mieten in Dornach - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Dornach - Immostreet.ch: ImmoStreet.ch hat 56 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Dornach - Immostreet.ch: ImmoStreet.ch hat 55 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-56 Resultate gefunden ·
+55 Resultate gefunden ·
 Wohnungen & Häuser mieten in Dornach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,66 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Solothurnerstr. 10
+1'110
+CHF
+/Monat
+ruhig gelegene 3.0-Zimmer-Wohnung im Gr…
+Solothurnerstr. 10, 4143 Dornach
+Array
+3 Zimmer
+58 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+58 m2
+Renovierte 3.0-Zimmer-Wohnung im 2. OG Die Wohnung verfügt über eine neue Einbauküche mit Gasherd …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 4
+2'800
+CHF
+/Monat
+Attraktive Dachwohnung in Dornach
+Hauptstrasse 4, 4143 Dornach
+Array
+5.5 Zimmer
+170 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+170 m2
+Die attraktive Dachwohnung punktet durch folgende Merkmale:- offene Einbauküche mit Geschirrwaschma…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Drosselweg 11
+1'950
+CHF
+/Monat
+Exklusive Attikawohnung mit top Aussich…
+Drosselweg 11, 4143 Dornach
+Array
+2.5 Zimmer
+53 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+53 m2
+Ab Juli 2021 oder nach Vereinbarung vermieten wir eine 2.5-Zimmer Attikawohnung an bester Lage in O…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Steinmattweg 16
 1'495
 CHF
@@ -304,26 +364,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Drosselweg 11
-1'950
-CHF
-/Monat
-Exklusive Attikawohnung mit top Aussich…
-Drosselweg 11, 4143 Dornach
-Array
-2.5 Zimmer
-53 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-53 m2
-Ab Juli 2021 oder nach Vereinbarung vermieten wir eine 2.5-Zimmer Attikawohnung an bester Lage in O…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 550
 CHF
@@ -337,26 +377,6 @@ Retail space, Atelier
 Wohnfläche
 30 m2
 Büro/Atelier zu vermieten per sofort oder nach Vereinbarung in Dornach, nähe Goetheanum.
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Herzentalstrasse 5
-2'430
-CHF
-/Monat
-Schöne 4,5-Zmmerwohnung mit grosser, ge…
-Herzentalstrasse 5, 4143 Dornach
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Wir vermieten per 16. August 2021 oder nach Vereinbarung als einmalige Gelegenheit eine schöne 4,5-…
 Teilen
 E-Mail
 Facebook
@@ -401,27 +421,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Drosselweg 11
-1'950
-CHF
-/Monat
-Neue 2.5-Zimmer-ATTIKAWOHNUNG an top La…
-Drosselweg 11, 4143 Dornach
-Array
-2.5 Zimmer
-53 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-2.5
-Wohnfläche
-53 m2
-Etage
-Ab Juli 2021 oder nach Vereinbarung vermieten wir eine 2.5-Zimmer Attikawohnung an bester Lage in O…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Hauptstrasse 4
 1'420
 CHF
@@ -438,26 +437,6 @@ Zimmer
 Wohnfläche
 70 m2
 Eckdaten3-Zimmer-Maisonettewohnung im EGAttraktive 3-Zimmer-Maisonettewohnung im Erdgeschoss zu ver…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 4
-2'915
-CHF
-/Monat
-Attraktive Dachwohnung in Dornach
-Hauptstrasse 4, 4143 Dornach
-Array
-5.5 Zimmer
-170 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-170 m2
-Die attraktive Dachwohnung punktet durch folgende Merkmale:- offene Einbauküche mit Geschirrwaschma…
 Teilen
 E-Mail
 Facebook
@@ -497,7 +476,27 @@ Zimmer
 3
 Wohnfläche
 70 m2
-Per 16.05.2021 oder nach Vereinbarung vermieten wir diese attraktive, sehr modern ausgebaute 3-Zimm…
+Per 16.06.2021 oder nach Vereinbarung vermieten wir diese attraktive, sehr modern ausgebaute 3-Zimm…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Nepomukplatz 5
+2'325
+CHF
+/Monat
+am Nepomukplatz
+Nepomukplatz 5, 4143 Dornach
+Array
+3.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+112 m2
+Diese moderne und helle Wohnung kann Ihr neues Zuhause werden. Folgender Ausbaustandard erwartet Si…
 Teilen
 E-Mail
 Facebook

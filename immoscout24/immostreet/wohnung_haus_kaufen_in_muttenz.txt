@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/apartment-and-house/in-muttenz/
 Title: Wohnung & Haus kaufen in Muttenz - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Muttenz - Immostreet.ch: ImmoStreet.ch hat 11 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Muttenz - Immostreet.ch: ImmoStreet.ch hat 12 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-11 Resultate gefunden ·
+12 Resultate gefunden ·
 Wohnung & Haus kaufen in Muttenz
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,64 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Kilchmattstrasse
+580'000
+CHF
+3,5-Zimmer-Wohnung
+Kilchmattstrasse, 4132 Muttenz
+Array
+4 Zimmer
+94 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+94 m2
+3,5-Zimmer-Wohnung*mit einer Wohnfläche von ca. 94 m2, Miteigentumsanteil, Autoeinstellplatz Nr. 10…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hallenbad
+1'440'000
+CHF
+6.5 Zimmer Reihen Einfamilienhaus Ruhig…
+Hallenbad, 4132 Muttenz
+Array
+6 Zimmer
+152 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6
+Wohnfläche
+152 m2
+Das Einfamilienhaus ist in einem sehr gutem Zustand, Baujahr 2007 mit Landanteil.Auch auf anibis + …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Germanenweg 6
+990'000
+CHF
+Glücklich im
+Germanenweg 6, 4132 Muttenz
+Array
+4.5 Zimmer
+102 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+4.5
+Wohnfläche
+102 m2
+Etage
+4½-Zimmer-Doppelhaus mit ca. 102 m² Wohnfläche inkl. Wintergarten und ca. 142 m² Nutzfläche. Der Wi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Herrenmattstrasse 11
 760'000
 CHF
@@ -189,25 +247,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Hallenbad
-1'440'000
-CHF
-6.5 Zimmer Reihen Einfamilienhaus Ruhig…
-Hallenbad, 4132 Muttenz
-Array
-6 Zimmer
-152 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6
-Wohnfläche
-152 m2
-Das Einfamilienhaus ist in einem sehr guten Zustand, Baujahr 2007 mit Landanteil.(Auch auf anibis …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Johann Brüderlin-Strasse 18
 1'120'000
 CHF
@@ -223,26 +262,6 @@ Zimmer
 Wohnfläche
 87 m2
 Etage
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unter Brieschhalden 7
-2'100'000
-CHF
-exklusive Maisonette-Wohnung 204 m2 an …
-Unter Brieschhalden 7, 4132 Muttenz
-Array
-5.5 Zimmer
-204 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-Wohnfläche
-204 m2
-Etage
-Maisonette-Eigentumswohnung an ruhiger, sonniger Toplage in kleinem Mehrfamilienhaus (zwei Wohnunge…
 Teilen
 E-Mail
 Facebook

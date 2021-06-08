@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-thun/
 Title: Wohnung kaufen in Region Thun - Immostreet.ch
-Description: Wohnung kaufen in Region Thun - Immostreet.ch: ImmoStreet.ch hat 17 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Region Thun - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-17 Resultate gefunden ·
+18 Resultate gefunden ·
 Wohnung kaufen in Region Thun
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Asterweg
+450'000
+CHF
+*Etagenwohnung*
+Asterweg, 3661 Uetendorf
+Array
+4 Zimmer
+88 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+88 m2
+Es handelt sich um eine 4.5-Zimmerwohnung im 1. OG links, mit Nebenraum.Bei dieser Immobilie handel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 710'000
 CHF

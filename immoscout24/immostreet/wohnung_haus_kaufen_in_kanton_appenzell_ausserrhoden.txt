@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/kanton-appenzellausserrhoden/
 Title: Wohnung & Haus kaufen in Kanton Appenzell Ausserrhoden - Immostreet.ch
-Description: Wohnung & Haus kaufen in Kanton Appenzell Ausserrhoden - Immostreet.ch: ImmoStreet.ch hat 82 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu find
+Description: Wohnung & Haus kaufen in Kanton Appenzell Ausserrhoden - Immostreet.ch: ImmoStreet.ch hat 76 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu find
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-82 Resultate gefunden ·
+76 Resultate gefunden ·
 Wohnung & Haus kaufen in Kanton Appenzell Ausserrhoden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,145 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+355'000
+CHF
+Charmante Bauernhaushälfte mit viel Pot…
+Adresse auf Anfrage, 9100 Herisau
+Array
+6.5 Zimmer
+171 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+6.5
+Wohnfläche
+171 m2
+Etage
+Ist es Ihr Traum, ländlich und doch nicht allzu abgelegen zu leben? Sind Sie auf der Suche nach ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberstall 5
+1'580'000
+CHF
+Einmaliges Appenzellerhaus mit traumhaf…
+Oberstall 5, 9043 Trogen
+Array
+13.5 Zimmer
+380 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+13.5
+Wohnfläche
+380 m2
+Etage
+Dieses historische und an einer malerischen Aussichtslage gelegene Appenzellerhaus bietet Ihnen ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterer Kapf
+1'145'000
+CHF
+Haus 3 im Bau, sehr gesundes Wohnklima.
+Unterer Kapf, 9405 Wienacht-Tobel
+Array
+5.5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+160 m2
+Fünf tolle Vollholzhäuser mit schöner Aussicht.Die Optionen Balkon Richtung Norden und die Abstellr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hinterbissaustrasse 64
+1'425'000
+CHF
+Sehr schönes Wohnen in Heiden.
+Hinterbissaustrasse 64, 9410 Heiden
+Array
+5.5 Zimmer
+216 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+216 m2
+Etage
+Neubauidee an schöner Lage mit Blick ins GrüneWir haben ein Musterhaus in Wolfhalden.  Meldensich f…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hinterbissaustrasse 64
+1'340'000
+CHF
+Neubauprojekt: Viel Natur, Licht und Ra…
+Hinterbissaustrasse 64, 9410 Heiden
+Array
+4.5 Zimmer
+260 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+260 m2
+Etage
+Neubauidee an schöner Lage mit Blick ins GrüneWir haben ein Musterhaus in Wolfhalden.  Meldensich f…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorf 59
+90'000
+CHF
+Charmante 1-Zi. Ferienwohnung im Appenz…
+Oberdorf 59, 9105 Schönengrund
+Array
+1 Zimmer
+32 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+32 m2
+Etage
+Das Dorf Schönengrund im Appenzeller Hinterland liegt idyllisch am Fusse des Alpsteins. Von hier au…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bleichelistrasse 5
+700'000
+CHF
+In 9055 Bühler neue 4.5 Zi.-Whg. Ruhige…
+Bleichelistrasse 5, 9055 Bühler
+Array
+4.5 Zimmer
+130 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+130 m2
+Etage
+Zu verkaufen in 9055 Bühler, an der Bleichelistrasse 5. Neubauwohnung 4.5 Zimmer, grosszüzige Einte…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Schlossstrasse 58
 350'000
 CHF
@@ -166,26 +305,6 @@ Zimmer
 Wohnfläche
 76 m2
 Sind Sie auf der Suche nach einem neuen Zuhause in einer ruhigen und gepflegten Liegenschaft? Dann …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bleichelistrasse 5
-680'000
-CHF
-In 9055 Bühler neue 4.5 Zi.-Whg. Ruhige…
-Bleichelistrasse 5, 9055 Bühler
-Array
-4.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-130 m2
-Etage
-Zu verkaufen in 9055 Bühler, an der Bleichelistrasse 5. Neubauwohnung 4.5 Zimmer, grosszüzige Einte…
 Teilen
 E-Mail
 Facebook
@@ -226,82 +345,6 @@ Wohnfläche
 146 m2
 Etage
 An einzigartiger Lage, in der Landwirtschaftszone, will ein 5 ½ Zi. Einfamilienhaus (ausbaubar auf …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-schönes wohnen mit Weitsicht
-Adresse auf Anfrage, 9427 Wolfhalden
-Array
-4.5 Zimmer
-117 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-117 m2
-Wir verkaufen in der Gemeinde Wolfhalden eine neuwertige und moderne 4.5 Zimmer Wohnung im 2. Oberg…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-355'000
-CHF
-Charmante Bauernhaushälfte mit viel Pot…
-Adresse auf Anfrage, 9100 Herisau
-Array
-6.5 Zimmer
-171 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-6.5
-Wohnfläche
-171 m2
-Etage
-Ist es Ihr Traum, ländlich und doch nicht allzu abgelegen zu leben? Sind Sie auf der Suche nach ein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-3'750'000
-CHF
-Schöne 11 Zimmer-Villa "BELLAVISTA" am …
-Adresse auf Anfrage, 9053 Teufen AR
-Array
-11 Zimmer
-635 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-11
-Wohnfläche
-635 m2
-MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Schöne 11 Zimmer-Villa "…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stosswaldweg 1143
-3'750'000
-CHF
-Schöne 11 Zimmer-Villa "BELLAVISTA" am …
-Stosswaldweg 1143, 9062 Lustmühle
-Array
-11 Zimmer
-635 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-11
-Wohnfläche
-635 m2
-MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Schöne 11 Zimmer-Villa "…
 Teilen
 E-Mail
 Facebook
@@ -398,26 +441,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Egglistrasse 5
-990'000
-CHF
-Kernsaniertes Appenzellerhaus in Teufen…
-Egglistrasse 5, 9053 Teufen AR
-Array
-6.5 Zimmer
-180 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-180 m2
-Etage
-KurzbeschreibTypisches Appenzellerhaus komplett saniert im familienfreundlichen Quartier „Eggli“ mi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Gartenstrasse 23
 1'250'000
 CHF
@@ -438,25 +461,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-980'000
-CHF
-Charmantes Bauernhaus mit Schopf und se…
-Adresse auf Anfrage, 9035 Grub AR
-Array
-8 Zimmer
-190 m2
-Objekttyp
-Wohnung, Bauernhaus
-Zimmer
-8
-Wohnfläche
-190 m2
-Zum Verkauf kommt hier ein wunderschönes Bauernhaus an ruhiger Lage in Grub. Umgeben von Landwirtsc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Herisau
 999'000
 CHF
@@ -472,25 +476,6 @@ Zimmer
 Wohnfläche
 200 m2
 Die Wohnung besticht durch Ihre offene und einladende Erscheinung. Allein schon der Blick vom Einga…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unterer Kapf
-1'145'000
-CHF
-Haus 3 im Bau, sehr gesundes Wohnklima.
-Unterer Kapf, 9405 Wienacht-Tobel
-Array
-5.5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-160 m2
-Fünf tolle Vollholzhäuser mit schöner Aussicht.Die Optionen Balkon Richtung Norden und die Abstellr…
 Teilen
 E-Mail
 Facebook
@@ -536,7 +521,28 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 5
+Kurvenstrasse 1401
+1'240'000
+CHF
+5.5 Zimmer-Neubauwohnung MULINO - Wohne…
+Kurvenstrasse 1401, 9053 Teufen AR
+Array
+5.5 Zimmer
+167 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+167 m2
+Verkaufspreise
+- 5.5 Zimmerwohnung Ost: CHF 1'240'000.--
+- 5.5 Zimmerwohnung West: CHF 1'345'…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 4
 1
 2
 3

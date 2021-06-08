@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-sarganserland/
 Title: Wohnung & Haus kaufen in Region Sarganserland - Immostreet.ch
-Description: Wohnung & Haus kaufen in Region Sarganserland - Immostreet.ch: ImmoStreet.ch hat 69 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Region Sarganserland - Immostreet.ch: ImmoStreet.ch hat 71 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-69 Resultate gefunden ·
+71 Resultate gefunden ·
 Wohnung & Haus kaufen in Region Sarganserland
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,120 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Messmerhölzli
+1'140'000
+CHF
+Exklusive Attikawohnung mit einmaliger …
+Messmerhölzli, 8887 Mels
+Array
+4.5 Zimmer
+130 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+130 m2
+Etage
+An sonniger Hanglage mit wunderbarem Ausblick auf die umliegende Bergwelt sowie das Schloss Sargans…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterer Höhenrain
+895'000
+CHF
+Besondere Maisonette-Wohnung mit einmal…
+Unterer Höhenrain, 8889 Plons
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Duplex
+Zimmer
+4.5
+Etage
+Diese 4.5-Zimmer-Maisonette-Wohnung und ihre Lage sind etwas ganz Besonderes. Am sonnigen Hang im G…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterer Höhenrain
+935'000
+CHF
+Atemberaubende Maisonette-Wohnung mit A…
+Unterer Höhenrain, 8889 Plons
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Duplex
+Zimmer
+4.5
+Etage
+Willkommen an der Strasse unterer Höhenrain in Plons - willkommen Zuhause!Sie möchten grosszügig wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'390'000
+CHF
+Am Maienberg
+Adresse auf Anfrage, 8890 Flums
+Array
+4.5 Zimmer
+119 m2
+Objekttyp
+Wohnung, Chalet
+Zimmer
+4.5
+Wohnfläche
+119 m2
+Etage
+Am Fusse des imposanten Pizolmassivs, umgeben von Bergen, Wäldern und Weiden, bietet der Alpweiler …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'390'000
+CHF
+Am Maienberg
+Adresse auf Anfrage, 7323 Wangs
+Array
+4.5 Zimmer
+119 m2
+Objekttyp
+Wohnung, Chalet
+Zimmer
+4.5
+Wohnfläche
+119 m2
+Etage
+Am Fusse des imposanten Pizolmassivs, umgeben von Bergen, Wäldern und Weiden, bietet der Alpweiler …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dekan-Oeschstrasse 11
+815'000
+CHF
+bezugsbereite 3.5 Zimmer Neubauwohnung
+Dekan-Oeschstrasse 11, 7310 Bad Ragaz
+Array
+3.5 Zimmer
+115 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+115 m2
+Etage
+Sehr grosszügiger Grundriss, absolute Ruhe, viele Sonnenstunden zentrale Lage! Die und noch vieles …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 2'500'000
 CHF
@@ -422,125 +536,6 @@ Zimmer
 4.5
 Wohnfläche
 136 m2
-Etage
-Die Überbauung MarktstrasseAn zentraler und familienfreundlicher Lage werden im Jahr 2021 drei Mehr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Marktstrasse
-935'000
-CHF
-Grosszügige 5.5 Zimmerwohnung mit Garten
-Marktstrasse, 8890 Flums
-Array
-5.5 Zimmer
-168 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-168 m2
-Etage
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Messmerhölzli
-770'000
-CHF
-Moderner Wohnraum mit wunderbarer Weits…
-Messmerhölzli, 8887 Mels
-Array
-4.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-130 m2
-Etage
-Wohnraum mit wunderbarer WeitsichtNeubau Wohnüberbauung Steix in MelsAn sonniger Hanglage mit wunde…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Messmerhölzli
-590'000
-CHF
-Exklusive Eigentumswohnung mit modernem…
-Messmerhölzli, 8887 Mels
-Array
-3.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-110 m2
-Etage
-An einzigartiger Hanglage mit wunderbarem Ausblick auf die umliegende Bergwelt sowie das Schloss Sa…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Marktstrasse
-1'390'000
-CHF
-Attikawohnung an zentraler Lage - über …
-Marktstrasse, 8890 Flums
-Array
-4.5 Zimmer
-190 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-190 m2
-Etage
-Die Überbauung MarktstrasseAn zentraler und familienfreundlicher Lage werden im Jahr 2021 drei Mehr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Marktstrasse
-360'000
-CHF
-1.5 Zimmerwohnung mit Garten
-Marktstrasse, 8890 Flums
-Array
-1.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-65 m2
-Etage
-Die Überbauung MarktstrasseAn zentraler und familienfreundlicher Lage werden im Jahr 2021 drei Mehr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Marktstrasse
-490'000
-CHF
-3.5 Zimmerwohnung an zentraler Lage
-Marktstrasse, 8890 Flums
-Array
-3.5 Zimmer
-91 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-91 m2
 Etage
 Die Überbauung MarktstrasseAn zentraler und familienfreundlicher Lage werden im Jahr 2021 drei Mehr…
 Teilen

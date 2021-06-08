@@ -122,6 +122,64 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Feld 5
+2'810
+CHF
+/Monat
+5.5-Zimmer-Maisonette-Wohnung, 3.+4. OG
+Feld 5, 6362 Stansstad
+Array
+5.5 Zimmer
+171 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+Wohnfläche
+171 m2
+Etage
+Hier lässt es sich wohnenDie Wohnung befindet sich an sonniger und zentraler Lage, Coop und Bahnhof…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zielmatte, Stansstad
+1'575
+CHF
+/Monat
+3.5-Zimmer-Wohnung hell, sonnig und mit…
+Zielmatte, Stansstad, 6362 Stansstad
+Array
+3.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+75 m2
+Zu vermieten per 1. September eine sonnige, helle Wohnung mit grosszügigem Balkon, an zentraler Lag…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schützenmatte B 11
+Preis auf Anfrage
+Kleine Wohnung im Grünen
+Schützenmatte B 11, 6362 Stansstad
+Array
+1.5 Zimmer
+49 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+49 m2
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bahnhostrasse 11
 1'595
 CHF
@@ -296,26 +354,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Feld 10
-2'150
-CHF
-/Monat
-Sonnige 4.5-Zimmerwohnung
-Feld 10, 6362 Stansstad
-Array
-4.5 Zimmer
-129 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-129 m2
-Hier lässt es sich wohnenDie Überbauung Feld in Stansstad ist sehr ruhig gelegen. Die Bushaltestell…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Zielmatte 9
 1'760
 CHF
@@ -369,33 +407,6 @@ Wohnfläche
 112 m2
 Etage
 Hier lässt es sich wohnenDie Überbauung Feld in Stansstad ist sehr ruhig gelegen. Die Bushaltestell…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unter Sagi 6a
-179
-CHF
-Heller und praktischer Archivraum mieten
-Unter Sagi 6a, 6362 Stansstad
-Array
-Objekttyp
-Verkauf, Lager
-Wir vermieten per 01.04.2021 oder nach Vereinbarung im steuergünstigen Stansstad ein heller und pra…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unter Sagi 6
-1'035
-CHF
-/Monat
-Ihr neues Büro mit vielen Vorteile!
-Unter Sagi 6, 6362 Stansstad
-Array
-Objekttyp
-Büro
-Wir vermieten per 01.04.2021 oder nach Vereinbarung im steuergünstigen Stansstad ein helles und pra…
 Teilen
 E-Mail
 Facebook

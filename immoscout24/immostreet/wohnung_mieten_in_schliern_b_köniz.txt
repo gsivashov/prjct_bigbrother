@@ -131,6 +131,46 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Spühlihalde 7
+1'700
+CHF
+/Monat
+Sonniger Gartensitzplatz!
+Spühlihalde 7, 3098 Schliern b. Köniz
+Array
+3.5 Zimmer
+88 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+88 m2
+Suchen Sie eine gemütliche Wohnung in einer gepflegten Umgebung? Dann haben wir das richtige Objekt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Büschiackerstrasse 45
+1'394
+CHF
+/Monat
+3.5-Zimmerwohnung für Jung und Alt!
+Büschiackerstrasse 45, 3098 Schliern b. Köniz
+Array
+3.5 Zimmer
+79 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+79 m2
+Im Grünen an ruhiger Wohnlage vermieten wir diese schöne Wohnung, welche Ihnen folgende Annehmlichk…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Froschweg 9
 2'120
 CHF
@@ -172,7 +212,7 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-2'495
+2'350
 CHF
 /Monat
 2½ ZI-WOHNUNG IN SCHLIERN B. KÖNIZ (BE)…
@@ -227,46 +267,6 @@ Zimmer
 Wohnfläche
 107 m2
 Im ruhigen und trotzdem stadtnahem Quartier vermieten wir eine sanierte 4.5-Zimmer-Wohnung mit folg…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schwandenhubelstrasse 43
-1'490
-CHF
-/Monat
-3-Zimmerwohnung, 1. Stock rechts
-Schwandenhubelstrasse 43, 3098 Schliern b. Köniz
-Array
-3 Zimmer
-58 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-58 m2
-Die Liegenschaft befindet sich an sonniger und kinderfreundlicher Lage. Einkaufsmöglichkeiten, Schu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Spühlihalde 7
-1'700
-CHF
-/Monat
-Sonniger Gartensitzplatz!
-Spühlihalde 7, 3098 Schliern b. Köniz
-Array
-3.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-88 m2
-Suchen Sie eine gemütliche Wohnung in einer gepflegten Umgebung? Dann haben wir das richtige Objekt…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-dachwohnung/in-basel/
 Title: Dachwohnung mieten in Basel - Immostreet.ch
-Description: Dachwohnung mieten in  Basel - Immostreet.ch: ImmoStreet.ch hat 30 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Dachwohnung mieten in  Basel - Immostreet.ch: ImmoStreet.ch hat 29 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-30 Resultate gefunden ·
+29 Resultate gefunden ·
 Dachwohnung mieten in Basel
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,67 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Gerbergasse 20
+4'450
+CHF
+/Monat
+Inmitten der Basler Altstadt - moderne …
+Gerbergasse 20, 4051 Basel
+Array
+4.5 Zimmer
+152 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+152 m2
+Nach Vereinbarung vermieten wir diese moderne und exklusive Penthouse-Wohnung inmitten der Basler I…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lothringerstrasse 97
+1'800
+CHF
+/Monat
+Helle Dachstock Duplex Wohnung
+Lothringerstrasse 97, 4056 Basel
+Array
+4 Zimmer
+95 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4
+Wohnfläche
+95 m2
+Etage
+Die Wohnung befindet sich in der beruhigten Lothringerstrasse in einem sehr angenehmen Mehrfamilien…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Isteinerstr 78
+2'180
+CHF
+/Monat
+Moderne Familienwohnung beim Messeplatz
+Isteinerstr 78, 4058 Basel
+Array
+4.5 Zimmer
+103 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+103 m2
+Nähe Messeplatz befindet sich unsere 2015 umfassend sanierte Liegenschaft an einer schwächer befahr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Sängergasse 17
 2'780
 CHF
@@ -193,27 +254,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Neuhausstrasse 8
-2'140
-CHF
-/Monat
-Schöne 5-Zimmer Dachmaisonettewohnung
-Neuhausstrasse 8, 4057 Basel
-Array
-5 Zimmer
-108 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-5
-Wohnfläche
-108 m2
-Etage
-Vermiete moderne 5-Zimmerdachwohnung im 4. + 5 . OG an ruhige Mieterschaft, die gut ins Haus passt.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Glaserbergstrasse 23
 3'250
 CHF
@@ -230,26 +270,6 @@ Zimmer
 Wohnfläche
 135 m2
 An der Glaserbergstrasse, verkehrsarm und wunderbar direkt am Kannenfeldpark gelegen, in Laufdistan…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wanderstrasse 2
-1'860
-CHF
-/Monat
-Renovierte attraktive Dachwohnung
-Wanderstrasse 2, 4054 Basel
-Array
-2.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-80 m2
-Attraktive Wohnung in ausgebautem Dachstock eines historischen Hauses aus dem Jugendstil mit intere…
 Teilen
 E-Mail
 Facebook
@@ -435,26 +455,6 @@ Zimmer
 Wohnfläche
 77 m2
 Wir vermieten nach Vereinbarung diese schöne, 3-Zimmer Dachwohnung an der Gasstrasse 24 in Basel.Si…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Entenweidstrasse 22
-1'790
-CHF
-/Monat
-komfortable 3.5-Zimmer-Dachwohnung mit …
-Entenweidstrasse 22, 4056 Basel
-Array
-3.5 Zimmer
-74 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-74 m2
-Per 1. Juni 2021 oder nach Vereinbarung vermieten wir eine komfortable 3.5-Zimmer-Dachwohnung mit 7…
 Teilen
 E-Mail
 Facebook

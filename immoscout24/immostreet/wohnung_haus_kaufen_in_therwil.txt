@@ -151,21 +151,79 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-4'250'000
+Stefanstrasse 11
+1'020'000
 CHF
-Thronen auf der Wiege der Sonne
-Adresse auf Anfrage, 4106 Therwil
+Moderne 3½ Zi.-Gartenwohnung an ruhiger…
+Stefanstrasse 11, 4106 Therwil
 Array
-10 Zimmer
-545 m2
+3.5 Zimmer
+91 m2
 Objekttyp
-Wohnung, Villa
+Wohnung, Flach
 Zimmer
-10
+3.5
 Wohnfläche
-545 m2
-Fernab der grauen Tristheit erleben Sie in dieser im Grünen eingebeten Villa mit ganzen 10 Zimmer d…
+91 m2
+Etage
+An idealer und beliebter Wohnlage in Therwil befindet sich diese helle und barrierefreie 3½ Zi.-Gar…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Gugger 2
+1'270'000
+CHF
+5.5-Zimmer Eck-Einfamilienhaus an famil…
+Im Gugger 2, 4106 Therwil
+Array
+5.5 Zimmer
+143 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+143 m2
+An sehr schöner, familienfreundlicher Lage Im Gugger in Therwil ? direkt angrenzend an die grossen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fichtenrain 94
+Preis auf Anfrage
+Schöne, grosszügige 145qm - Geschosswoh…
+Fichtenrain 94, 4106 Therwil
+Array
+4.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+145 m2
+Ein Leben zwischen der Hektik des Alltags und der Ruhe der Natur.
+Wohnen Sie gerne ruhig und doch …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fichtenrain 94
+Preis auf Anfrage
+Grosszügige 202qm - Gartenwohnung mit n…
+Fichtenrain 94, 4106 Therwil
+Array
+5.5 Zimmer
+202 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+202 m2
+Ein Leben zwischen der Hektik des Alltags und der Ruhe der Natur.
+Wohnen Sie gerne ruhig und doch …
 Teilen
 E-Mail
 Facebook
@@ -182,25 +240,6 @@ Wohnung, Duplex
 Wohnfläche
 103 m2
 Attika und Maisonette - eine gute Kombination. Genau so eine Wohnung verkaufen wir im beliebten The…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'140'000
-CHF
-PANORAMA / NÄHE ZENTRUM / HOME-OFFICE /…
-Adresse auf Anfrage, 4106 Therwil
-Array
-4.5 Zimmer
-145 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Wohnfläche
-145 m2
-Diese exklusive, lichtdurchflutete Maisonette verfügt über eine Galerie mit Terrasse, moderne Wohnk…
 Teilen
 E-Mail
 Facebook
@@ -318,45 +357,6 @@ Wohnfläche
 126 m2
 Etage
 WohnungsbeschriebAn ruhiger Lage in Therwil entstehen am Bienenweg 26 neue, hochwertige Eigentumswo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stefanstrasse 11
-1'020'000
-CHF
-Moderne 3½ Zi.-Gartenwohnung an ruhiger…
-Stefanstrasse 11, 4106 Therwil
-Array
-3.5 Zimmer
-91 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-91 m2
-Etage
-An idealer und beliebter Wohnlage in Therwil befindet sich diese helle und barrierefreie 3½ Zi.-Gar…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blumenstrasse 4
-1'100'000
-CHF
-Moderne und zentrale Wohnung
-Blumenstrasse 4, 4106 Therwil
-Array
-3.5 Zimmer
-118 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-118 m2
-Die lichtdurchflutete Eigentumswohnung befindet sich in einem sehr gepflegten Mehrfamilienhaus (mit…
 Teilen
 E-Mail
 Facebook

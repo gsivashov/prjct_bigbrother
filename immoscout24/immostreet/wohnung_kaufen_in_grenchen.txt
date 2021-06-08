@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/in-grenchen/
 Title: Wohnung kaufen in Grenchen - Immostreet.ch
-Description: Wohnung kaufen in  Grenchen - Immostreet.ch: ImmoStreet.ch hat 13 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in  Grenchen - Immostreet.ch: ImmoStreet.ch hat 14 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-13 Resultate gefunden ·
+14 Resultate gefunden ·
 Wohnung kaufen in Grenchen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -135,7 +135,26 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Adresse auf Anfrage
-495'000
+460'000
+CHF
+Gemütliche 4,5-Zimmerwohnung!
+Adresse auf Anfrage, 2540 Grenchen
+Array
+4.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+95 m2
+An bevorzugter Lage in der Stadt Grenchen verkaufen wir eine renovierte 4.5 Zi-Wohnung. Die Wohnung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+475'000
 CHF
 Sonnige 4.5-Zimmer-Eigentumswohnung an …
 Adresse auf Anfrage, 2540 Grenchen
@@ -149,6 +168,26 @@ Zimmer
 Wohnfläche
 110 m2
 Diese schöne 4.5 Zimmer-Wohnung wurde 2016 Kernsaniert. Sie verfügt über Kiefer- und Bambus-Parket …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gibelfeldstrasse 48
+820'000
+CHF
+Mehr als ein Zuhause!
+Gibelfeldstrasse 48, 2540 Grenchen
+Array
+3.5 Zimmer
+111 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+111 m2
+Etage
+Einzigartige Neubau Attika-Wohnungen mit unvergleichlicher Terrasse! An der Gibelfeldstrasse entste…
 Teilen
 E-Mail
 Facebook
@@ -187,25 +226,6 @@ Zimmer
 Wohnfläche
 114 m2
 Besuchen Sie Ihre Traumimmobilie schon heute. Auf unserer Homepage haben Sie die Möglichkeit Ihre I…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-495'000
-CHF
-Ein tolles Wohnerlebnis wartet auf Sie!
-Adresse auf Anfrage, 2540 Grenchen
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-An bevorzugter Lage in der Stadt Grenchen verkaufen wir eine renovierte 4.5 Zi-Wohnung. Die Wohnung…
 Teilen
 E-Mail
 Facebook

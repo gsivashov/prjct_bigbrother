@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-kriens/
 Title: Wohnung & Haus mieten in Kriens - Immostreet.ch
-Description: Wohnung & Haus mieten in  Kriens - Immostreet.ch: ImmoStreet.ch hat 160 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Kriens - Immostreet.ch: ImmoStreet.ch hat 166 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-160 Resultate gefunden ·
+166 Resultate gefunden ·
 Wohnung & Haus mieten in Kriens
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,8 +152,343 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Obernauerstrasse 33
+1'160
+CHF
+/Monat
+Zentrale 2-Zimmerwohnung in Kriens
+Obernauerstrasse 33, 6010 Kriens
+Array
+2 Zimmer
+39 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+39 m2
+Ihre Lage-VorteileDie Liegenschaft Obernauerstrasse befindet sich in der Nähe von Einkaufsmöglichke…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schällenmatt 1
+2'410
+CHF
+/Monat
+Hier blüht das Leben im 2. Obergeschoss
+Schällenmatt 1, 6010 Kriens
+Array
+4.5 Zimmer
+119 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+119 m2
+Wir vermieten per 16.05.2021 oder nach Vereinbarung eine tolle helle 4.5 Zimmer-Wohnung im 2. OG mi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brunnmattstrasse 14
+800
+CHF
+/Monat
+Gemütliche 1-Zimmerwohnung an zentraler…
+Brunnmattstrasse 14, 6010 Kriens
+Array
+1 Zimmer
+29 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+29 m2
+Wir vermieten nach Vereinbarung an der Brunnmattstrasse 14 in Kriens eine gemütliche 1-Zimmerwohnun…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kreuzhausweg 5
+1'130
+CHF
+/Monat
+Sanierte Wohnung in ruhigem Quartier
+Kreuzhausweg 5, 6010 Kriens
+Array
+2.5 Zimmer
+47 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+47 m2
+Per 01.08.2021 oder nach Vereinbarung vermieten wir diese helle 2.5-Zimmerwohnung. Die im Jahre 200…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kreuzhausweg 7
+Preis auf Anfrage
+Ihr neues zu Hause?
+Kreuzhausweg 7, 6010 Kriens
+Array
+2.5 Zimmer
+47 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+47 m2
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obernauerstrasse 35
+1'500
+CHF
+/Monat
+Zentrale 3.5-Zimmerwohnung in Kriens-Ob…
+Obernauerstrasse 35, 6010 Kriens
+Array
+3.5 Zimmer
+62 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+62 m2
+Ihre Lage-VorteileDie Liegenschaft Obernauerstrasse befindet sich in der Nähe von Einkaufsmöglichke…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rosenstrasse 18
+1'670
+CHF
+/Monat
+Ruhige und renovierte Wohnung mit Blick…
+Rosenstrasse 18, 6010 Kriens
+Array
+4 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+80 m2
+Etage
+AusstattungDiese vollständig renovierte Wohnung mit Blick auf Pilatus, die im ersten Stock liegt, b…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stadtplatz 3
+2'270
+CHF
+/Monat
+Willkommen im Zentrum Pilatus Kriens - …
+Stadtplatz 3, 6010 Kriens
+Array
+3.5 Zimmer
+115 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+115 m2
+Etage
+Das Zentrum Pilatus steht an zentraler Lage, an der Ecke Gemeindehaus-/Luzernerstrasse und beherber…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obernauerstrasse 87
+2'350
+CHF
+/Monat
+5.5 Zimmer Maisonette-Wohnung
+Obernauerstrasse 87, 6012 Obernau
+Array
+5.5 Zimmer
+115 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+115 m2
+Wir vermieten ab 01.07.2021 die neuwertige 5.5 Zimmer Maisonette-Wohnung mit allem Komfort im Haus …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obernauerstrasse 87
+2'350
+CHF
+/Monat
+5.5-Zimmer Maisonette-Wohnung
+Obernauerstrasse 87, 6012 Obernau
+Array
+5.5 Zimmer
+115 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+115 m2
+Wir vermieten ab 01.07.2021 die neuwertige 5.5 Zimmer Maisonette-Wohnung mit allem Komfort im Haus …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schweighofweg 8
+1'520
+CHF
+/Monat
+Klein, fein ... mein
+Schweighofweg 8, 6010 Kriens
+Array
+2.5 Zimmer
+58 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+58 m2
+Etage
+Hier lässt es ich wohnenDie herrliche Natur rundum und die Naherholungsgebiete wie Pilatus, Sonnenb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'650
+CHF
+/Monat
+AN RUHIGER LAGE MIT KOMFORT
+Adresse auf Anfrage, 6010 Kriens
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+Die Wohnung liegt an der Brunnmattstrasse, welche durch ihre ruhige und zentrale Lage besticht. Die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Houelbachstr. 5
+250
+CHF
+/Monat
+Bastelliebhaber aufgepasst
+Houelbachstr. 5, 6010 Kriens
+Array
+Objekttyp
+Atelier
+Sie suchen einen Bastelraum in der Stadt Kriens? Im Kellergeschoss der Liegenschaft Houelbachstrass…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Luzernerstrasse 59
+2'190
+CHF
+/Monat
+Renovierte Wohnung an zentraler Lage, i…
+Luzernerstrasse 59, 6010 Kriens
+Array
+4.5 Zimmer
+104 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+104 m2
+Schöne Wohnung mit grossen Zimmern, ideal für Wohngemeinschaft, zentral gelegen, nähe Bushaltestell…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schachenstrasse 59
+1'070
+CHF
+/Monat
+Gut gelegene Wohnung in Kriens für Sing…
+Schachenstrasse 59, 6010 Kriens
+Array
+3 Zimmer
+62 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+62 m2
+Zentral gelegene, günstige 3-Zimmerwohnung an der Schachenstrasse in Kriens nahe der Stadtgrenze Lu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Luzernerstrasse 84
+1'490
+CHF
+/Monat
+2 Zimmer Wohnung
+Luzernerstrasse 84, 6010 Kriens
+Array
+2 Zimmer
+51 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+51 m2
+Hier erwartet Sie eine moderne 2 Zimmer Wohnung, welche im Jahr 2021 komplett renoviert wurde und k…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bergstrasse 42
+4'500
+CHF
+/Monat
+Frisch saniertes 5.5-Zimmer-Einfamilien…
+Bergstrasse 42, 6010 Kriens
+Array
+5.5 Zimmer
+163 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+163 m2
+Etage
+An unverbaubarer Toplage am Oberdattenberg in Kriens vermieten wir ein sehr attraktives 5.5-Zimmer-…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Habsburgerstrasse
-1'000
+790
 CHF
 /Monat
 2 WG-Zimmer in 4 1/2 Zimmer-Wohnung in …
@@ -206,338 +541,7 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Zumhofweg 2
-2'650
-CHF
-/Monat
-4.5 Zimmer-Attikawohnung mit 130m2
-Zumhofweg 2, 6010 Kriens
-Array
-4.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-130 m2
-Wir vermieten an ruhiger und zentraler Lage eine 4.5 Zimmer-Attikawohnung mit Sicht auf den Pilatus…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Talackerstrasse 3
-1'590
-CHF
-/Monat
-ruhige, sonnige und zentrale Wohnung
-Talackerstrasse 3, 6010 Kriens
-Array
-4 Zimmer
-69 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-69 m2
-Hier lässt es sich wohnenDie Liegenschaft Talackerstrasse 1 liegt in einem ruhigen Wohnquartier dir…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sportweg 6
-1'250
-CHF
-/Monat
-2.5 Zimmerwohnung mit Blick auf Pilatus
-Sportweg 6, 6010 Kriens
-Array
-2.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-65 m2
-2.5 Zimmerwohnung in ruhige Sackgasse gelegen.Highlights:- ruhige Wohngegend- Südbalkon mit Blick a…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chutweg
-700
-CHF
-/Monat
-WG-Zimmer zu vermieten
-Chutweg, 6010 Kriens
-Array
-Objekttyp
-Wohnung, Einzelzimmer
-In zentraler und ruhiger Lage habe ich ein WG-Zimmer zu vermieten. Im Preis inbegriffen sind die Ne…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Tscharnetstrasse 3
-875
-CHF
-/Monat
-2.5 Zimmer-Wohnung Nähe Pilatus-Bahnen
-Tscharnetstrasse 3, 6010 Kriens
-Array
-2.5 Zimmer
-43 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-43 m2
-Ihre LagevorteileDie Gemeinde Kriens liegt angrenzend der Stadt Luzern und bietet für jede Person e…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schweighofstrasse 10
-2'220
-CHF
-/Monat
-Maisonette mit viel Raum zum Wohlfühlen
-Schweighofstrasse 10, 6010 Kriens
-Array
-3.5 Zimmer
-113 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-113 m2
-Etage
-Hier lässt es sich wohnenDie herrliche Natur rundum und die Naherholungsgebiete wie Pilatus, Sonnen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Burgweg 11
-1'390
-CHF
-/Monat
-Eine Wohnung zum Wohlfühlen
-Burgweg 11, 6010 Kriens
-Array
-4 Zimmer
-76 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-76 m2
-Bevorzugen Sie eine zentrale Wohnlage? Für diese 4-Zimmerwohnung suchen wir per 1. August 2021 eine…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chutweg 6
-1'680
-CHF
-/Monat
-Attraktive 3.5 Zimmerwohnung mitten in …
-Chutweg 6, 6010 Kriens
-Array
-3.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-110 m2
-Schöne, 3.5 Zimmerwohnung in Kriens zu vermietenDie Wohnung verfügt über:- Badzimmer mit Duschewann…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gehristrasse 17
-1'675
-CHF
-/Monat
-Sonnige 4.5 Zimmerwohnung mit wundersch…
-Gehristrasse 17, 6010 Kriens
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wir vermieten per sofort oder nach Vereinbarung an erhöhter und sonniger Wohnlage an der Gehristras…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brunnmattstrasse 16
-1'560
-CHF
-/Monat
-Ihr neues Zuhause mit familienfreundlic…
-Brunnmattstrasse 16, 6010 Kriens
-Array
-3.5 Zimmer
-86 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-86 m2
-Wir vermieten per 16.09.2021 oder nach Vereinbarung eine helle und gemütliche 3.5-Zimmerwohnung in …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obernauerstrasse 35
-630
-CHF
-/Monat
-Charmante 1-Zimmerwohnung an zentraler …
-Obernauerstrasse 35, 6010 Kriens
-Array
-1 Zimmer
-21 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-21 m2
-Ihre Lage-VorteileDie Liegenschaft Obernauerstrasse befindet sich in der Nähe von Einkaufsmöglichke…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obernaustrasse 84
-1'550
-CHF
-/Monat
-Frisch renovierte 2.5 Zimmerwohnung - E…
-Obernaustrasse 84, 6010 Kriens
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Frisch renovierte 2.5 Zimmerwohnung - EigentumsstandartWir vermieten per sofort eine frisch renovie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hochrainstrasse 12
-2'230
-CHF
-/Monat
-Top 4.5 Zimmerwohnung im Herzen von Kri…
-Hochrainstrasse 12, 6010 Kriens
-Array
-4.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-112 m2
-Etage
-Wohnung:Diese wunderschöne, grosszügige 4.5 Zimmerwohnung befindet sich mitten in Kriens. An ruhige…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obere Dattenbergstrasse 31
-2'950
-CHF
-/Monat
-4 ½ Zimmer Wohnung am Sonnenberg in Kri…
-Obere Dattenbergstrasse 31, 6010 Kriens
-Array
-4.5 Zimmer
-125 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-125 m2
-Wohnung an absoluter Toplage mit Aussicht auf See und Berge.Die Wohnung befindet sich in einem 2-Fa…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernerstr. 20
-1'470
-CHF
-/Monat
-Zentral wohnen in Kriens
-Luzernerstr. 20, 6010 Kriens
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Die 3.5 Zimmer Wohnung liegt im Herzen von Kriens. Ohne Auto ist man hier also völlig flexibel. ÖV …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schauenstrasse 8
-1'600
-CHF
-/Monat
-Kinderfreundliche 4.5 Zimmerwohnung an …
-Schauenstrasse 8, 6010 Kriens
-Array
-4.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-90 m2
-An der Schauenstrasse 8 in 6010 Kriens suchen wir per 15. Juni 2021 oder nach Vereinbarung einen Na…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unter Sidhalden 5
-2'180
-CHF
-/Monat
-Moderne Traumwohnung an bester Lage!
-Unter Sidhalden 5, 6010 Kriens
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Etage
-Die tolle 3½-Zimmer-Wohnung an der Unter Sidhalden 5 überzeugt durch ihren hochwertigen Ausbaustand…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 8
+Seite 1 von 9
 1
 2
 3

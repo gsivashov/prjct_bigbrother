@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -588,41 +587,41 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Ferrari
-(882)
+(881)
 Ferrari Occasion
-(825)
+(827)
 Ferrari Oldtimer
 (26)
 Ferrari Neuwagen
-(22)
+(21)
 Ferrari Vorführwagen
-(9)
+(7)
 Aufbau
 Ferrari Coupé
-(555)
+(556)
 Ferrari Cabrio
-(260)
+(258)
 Ferrari Limousine
 (67)
 Motor
 Ferrari Benzin
-(847)
+(846)
 Modelle
 Ferrari F488
-(123)
+(128)
 Ferrari F430
-(67)
+(64)
 Ferrari F458
-(65)
+(61)
 Ferrari F360
 (58)
 Ferrari California
 (53)
-Ferrari 308
-(37)
+Ferrari GTC
+(38)
 Ferrari Portofino
-(37)
-Ferrari F12
+(38)
+Ferrari 599
 (36)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
@@ -636,9 +635,52 @@ alle anzeigen
 weniger
 100 Inserate
 0 Inserate
-13 Inserate
+15 Inserate
 0 Inserate
 0 Inserate
+Ferrari 488 GTB 3.9 V8
+4.5
+05.06.2021
+Occasion
+01.2018, Automat, Benzin
+46'000 km, 670 PS, Rot
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 184'500
+ab CHF 3'370 / Monat
+FERRARI GTC 4 Lusso
+4.0
+05.06.2021
+Occasion
+02.2020, Automat, Benzin
+1'600 km, 690 PS, Blau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 299'000
+ab CHF 5'461 / Monat
+FERRARI 400 i Automat
+04.06.2021
+Occasion
+10.1983, Automat, Benzin
+79'700 km, 316 PS, Braun
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 85'000
+ab CHF 1'552 / Monat
+FERRARI GTC 4 Lusso
+4.5
+04.06.2021
+Occasion
+12.2019, Automat, Benzin
+810 km, 690 PS, Blau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 289'000
+ab CHF 5'278 / Monat
 Ferrari 512 BB
 01.06.2021
 Occasion
@@ -700,48 +742,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 54'500
 ab CHF 995 / Monat
-Ferrari 458 Speciale 4.5 V8
-30.05.2021
-Occasion
-03.2015, Automat, Benzin
-49'000 km, 600 PS, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 249'800
-ab CHF 4'562 / Monat
-Ferrari 400 i
-29.05.2021
-Occasion
-10.1980, Automat, Benzin
-120'830 km, 316 PS, Braun
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 54'450
-ab CHF 994 / Monat
-Ferrari 458 Spider Italia 4.5 V8
-4.5
-29.05.2021
-Occasion
-04.2013, Automat, Benzin
-36'000 km, 566 PS, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 166'450
-ab CHF 3'040 / Monat
-Ferrari 458 Italia 4.5 V8
-4.0
-29.05.2021
-Occasion
-04.2011, Automat, Benzin
-34'200 km, 566 PS, Rot
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 148'450
-ab CHF 2'711 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2

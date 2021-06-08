@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-sins/
 Title: Wohnungen & Häuser mieten in Sins - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Sins - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Sins - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-19 Resultate gefunden ·
+20 Resultate gefunden ·
 Wohnungen & Häuser mieten in Sins
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,40 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Rossweid 1
+1'640
+CHF
+/Monat
+Ihr neues Zuhause in Sins
+Rossweid 1, 5643 Sins
+Array
+3.5 Zimmer
+84 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+84 m2
+Wir vermieten per 1. Oktober 2021 diese traumhafte 3.5 Zimmer-Wohnung in Sins. Die Wohnung bietet I…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+3'300
+CHF
+/Monat
+REPRESÄNTATIV UND GROSSZÜGIG
+Adresse auf Anfrage, 5643 Sins
+Array
+Objekttyp
+Büro
+DieSE Büroräume befinden sich in der Industriezone Nord, in Sins, in einem repräsentativen Gebäude …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Luzernerstrasse 16
 1'440
 CHF
@@ -174,20 +208,6 @@ Büro
 Zimmer
 1
 Achtung: die Bilder sind vom alten Ausbau. Aktuell befindet sich das Gebäude in Totalsanierung. Die…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-3'300
-CHF
-/Monat
-REPRESÄNTATIV UND GROSSZÜGIG
-Adresse auf Anfrage, 5643 Sins
-Array
-Objekttyp
-Büro
-DieSE Büroräume befinden sich in der Industriezone Nord, in Sins, in einem repräsentativen Gebäude …
 Teilen
 E-Mail
 Facebook

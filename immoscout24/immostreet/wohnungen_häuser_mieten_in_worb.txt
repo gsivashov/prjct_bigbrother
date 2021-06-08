@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-worb/
 Title: Wohnungen & Häuser mieten in Worb - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Worb - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Worb - Immostreet.ch: ImmoStreet.ch hat 16 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-18 Resultate gefunden ·
+16 Resultate gefunden ·
 Wohnungen & Häuser mieten in Worb
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,20 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Zelgweg 1
+850
+CHF
+/Monat
+WG Zimmer
+Zelgweg 1, 3076 Worb
+Array
+Objekttyp
+Wohnung, Einzelzimmer
+BeschreibungDa Jemand unsere WG verlässt suchen wir ab dem 01.09.21 1-2 neue Mitbewohner/innen.Die …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bernstrasse 8
 1'595
 CHF
@@ -142,25 +156,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Kreuzgasse 7/9 Aussenparkierung
-50
-CHF
-/Monat
-Aussenabstellplatz in Worb gesucht?
-Kreuzgasse 7/9 Aussenparkierung, 3076 Worb
-Array
-Objekttyp
-Offener Parkplatz
-Wir vermieten per 01.07.2021 oder nach Vereinbarung einen Aussenabstellplatz: - Kurze Kündigungsfri…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 1'970
 CHF
 /Monat
-"RESERVIERT"
+IDEAL FÜR EINE WOHNGEMEINSCHAFT
 Adresse auf Anfrage, 3076 Worb
 Array
 5.5 Zimmer
@@ -192,26 +192,6 @@ Zimmer
 Wohnfläche
 85 m2
 An ruhiger Lage in Worb vermieten wir nach Vereinbarung eine gemütliche 3½-Zimmer-Parterrewohnung m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Niesenstrasse 3
-1'545
-CHF
-/Monat
-Schöne 3½-Zimmer-Wohnung in ruhigem Qua…
-Niesenstrasse 3, 3076 Worb
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-An schöner Lage vermieten wir in Worb ab 1. Juli 2021 oder nach Vereinbarung eine gemütliche 3½-Zim…
 Teilen
 E-Mail
 Facebook
@@ -304,18 +284,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bahnhofstrasse 28
-Preis auf Anfrage
-Hier wartet Ihre Ladenfläche / Kursraum…
-Bahnhofstrasse 28, 3076 Worb
-Array
-Objekttyp
-Verkauf, Geschäft
-Nach Vereinbarung vermieten wir an attraktiver Lage in Worb diese Gewerbefläche im Erdgeschoss:…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Kreuzgasse 7a Einstellhalle
 115
 CHF
@@ -352,12 +320,12 @@ Facebook
 Whatsapp
 Bahnhofstrasse 28
 Preis auf Anfrage
-Hier wartet Ihr neues Büro, Ausstellung…
+Büro, Ausstellungsraum etc. für Zwische…
 Bahnhofstrasse 28, 3076 Worb
 Array
 Objekttyp
 Büro
-Nach Vereinbarung vermieten wir an bester Lage in Worb folgende Gewerbefläche (ca. 73 m2) im 1. Sto…
+Nach Vereinbarung bieten wir an bester Lage in Worb folgende Gewerbefläche (ca. 73 m2) im 1. Stock …
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-schoenenwerd/
 Title: Wohnungen & Häuser mieten in Schönenwerd - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Schönenwerd - Immostreet.ch: ImmoStreet.ch hat 49 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Schönenwerd - Immostreet.ch: ImmoStreet.ch hat 48 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-49 Resultate gefunden ·
+48 Resultate gefunden ·
 Wohnungen & Häuser mieten in Schönenwerd
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Oltnerstrasse 19
+1'280
+CHF
+/Monat
+Originelle und heimelige 102 m2 grosse …
+Oltnerstrasse 19, 5012 Schönenwerd
+Array
+3.5 Zimmer
+102 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+102 m2
+Wir vermieten per sofort oder nach Vereinbarung eine heimelige, 102 m2 grosse 3.5 Zimmer-Dachwohnun…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Stauwehrstrasse 27
 1'220
 CHF
@@ -138,29 +158,6 @@ Zimmer
 Wohnfläche
 67 m2
 Nach Vereinbarung vermieten wir folgende 3.5-Zimmerwohnung im 3. Stock (ohne Lift): - helle Räume- …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oltnerstrasse 19
-1'280
-CHF
-/Monat
-Originelle grosse (102m2) 3 1/2-Zimmer-…
-Oltnerstrasse 19, 5012 Schönenwerd
-Array
-3.5 Zimmer
-102 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-102 m2
-Heimelige Wohnung (102m2)
-grosses Wohnzimmer mit offener Küche,
-Cheminéeofen.
-Ganze Wohn…
 Teilen
 E-Mail
 Facebook
@@ -246,7 +243,7 @@ E-Mail
 Facebook
 Whatsapp
 Gartenstrasse 40
-1'200
+1'100
 CHF
 /Monat
 Charmante 2- Zimmerwohnung im 2. Oberge…

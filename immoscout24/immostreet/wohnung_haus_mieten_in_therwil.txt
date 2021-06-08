@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-therwil/
 Title: Wohnung & Haus mieten in Therwil - Immostreet.ch
-Description: Wohnung & Haus mieten in  Therwil - Immostreet.ch: ImmoStreet.ch hat 37 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Therwil - Immostreet.ch: ImmoStreet.ch hat 40 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-37 Resultate gefunden ·
+40 Resultate gefunden ·
 Wohnung & Haus mieten in Therwil
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,80 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Sundgauerstrasse 70
+2'450
+CHF
+/Monat
+Gartenwohnung am Dorfrand von Therwil
+Sundgauerstrasse 70, 4106 Therwil
+Array
+5.5 Zimmer
+114 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+114 m2
+An toller Lage in Grünen vermieten wir diese moderne Wohnung mit Gartensitzplatz und folgendem Ausb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ettingerstrasse 28
+500
+CHF
+/Monat
+WG Mitbewohnerin gesucht in Therwil
+Ettingerstrasse 28, 4106 Therwil
+Array
+86 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+86 m2
+Hallo ich bin 33 Jahre alt und ich suche eine Mitbewohnerin zwischen 26-38 Jahre alt. Ab Juli Augus…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Benkenstrasse 8
+1'300
+CHF
+/Monat
+3- Zimmer Erdgeschosswohnung mit Garten…
+Benkenstrasse 8, 4106 Therwil
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Die Wohnung ist neu gestrichen und verfügt in allen Zimmern über Parkettböden.Es gibt eine Kunst (O…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Teichstrasse 114
+1'660
+CHF
+/Monat
+3 1/2-Zimmerwohnung in ruhiger Überbauu…
+Teichstrasse 114, 4106 Therwil
+Array
+3.5 Zimmer
+64 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+64 m2
+Wohnen/Korridor/Schlafzimmer mit Parkettböden.Neue Küche mit Essplatz.Ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Mittlerer Kreis 27
 1'210
 CHF
@@ -212,26 +286,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Teichstrasse 114
-1'660
-CHF
-/Monat
-3 1/2-Zimmerwohnung in ruhiger Überbauu…
-Teichstrasse 114, 4106 Therwil
-Array
-3.5 Zimmer
-64 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-64 m2
-Wohnen/Korridor mit Plattenboden.Schlafzimmer mit Parkettböden.Neue Küche…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Teichstr. 17a
 2'430
 CHF
@@ -239,12 +293,12 @@ CHF
 Helle Dachwohnung mit herrlicher Aussic…
 Teichstr. 17a, 4106 Therwil
 Array
-4 Zimmer
+4.5 Zimmer
 100 m2
 Objekttyp
 Wohnung, Attikawohnung
 Zimmer
-4
+4.5
 Wohnfläche
 100 m2
 Für die 4.5-Zimmer-Dachwohnung mit ca. 100 m2 suchen wir neue, ruhige und verantwortungsbewusste Mi…
@@ -475,67 +529,6 @@ Wohnung, Flach
 Zimmer
 4.5
 Per 01.07.2021 vermieten wir an der Gartenstrasse 7 in Therwil eine erst 6 Monate alte moderne und …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Baslerstrasse 23
-1'495
-CHF
-/Monat
-Sonnige und zentral gelegene 3.5-Zimmer…
-Baslerstrasse 23, 4106 Therwil
-Array
-3.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-70 m2
-Etage
-Auf den 1. August 2021 oder nach Vereinbarung vermeiten wir in einer gepflegten Liegenschaft diese …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mittlerer Kreis 10
-1'570
-CHF
-/Monat
-3,5 Zimmer Wohnung mit Loggia, Keller- …
-Mittlerer Kreis 10, 4106 Therwil
-Array
-3.5 Zimmer
-78 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-78 m2
-- Grosszügige und helle 3 1/2 Zimmer-Wohnung im Dorfkern von Therwil- 4. OG- Lift vorhanden- 78m2 m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Kirsgarten 33a
-4'500
-CHF
-/Monat
-Einfamilienhaus mit Pool und Sauna - Ga…
-Im Kirsgarten 33a, 4106 Therwil
-Array
-5 Zimmer
-166 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5
-Wohnfläche
-166 m2
-Per 01.07.2021 oder nach Vereinbarung vermieten wir in Therwil an unverbaubarer Hanglage ein Einfam…
 Teilen
 E-Mail
 Facebook

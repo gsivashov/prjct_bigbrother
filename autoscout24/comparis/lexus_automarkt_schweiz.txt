@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -147,14 +146,14 @@ Alle Automarken
 Lexus
 Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseite zu gewährleisten.
 Lexus Automarkt Schweiz
-443 Occasionen
-94 Neuwagen
+438 Occasionen
+93 Neuwagen
 44 Vorführwagen
-Lexus GS - 12 Inserate im Automarkt - Ab CHF 4'900
-Lexus IS - 58 Inserate im Automarkt - Ab CHF 2'000
-Lexus SC - 8 Inserate im Automarkt - Ab CHF 7'900
+Lexus GS - 13 Inserate im Automarkt - Ab CHF 4'900
+Lexus IS - 55 Inserate im Automarkt - Ab CHF 2'000
+Lexus SC - 6 Inserate im Automarkt - Ab CHF 7'900
 Lexus Modelle
-Lexus RX - 199 Inserate anzeigen
+Lexus RX - 193 Inserate anzeigen
 Lexus RX 450h F-Sport
 Occasion
 11.2017
@@ -185,7 +184,7 @@ Mehr
 CHF
 38'000
 26.03.2021
-Lexus CT - 73 Inserate anzeigen
+Lexus CT - 75 Inserate anzeigen
 Lexus CT 200h F-Sport
 Occasion
 12.2020
@@ -206,7 +205,7 @@ Mehr
 CHF
 34'900
 18.12.2020
-Lexus NX - 69 Inserate anzeigen
+Lexus NX - 71 Inserate anzeigen
 LEXUS NX 300h Impression
 Occasion
 11.2017
@@ -237,7 +236,7 @@ Mehr
 CHF
 29'400
 17.02.2021
-Lexus RC - 13 Inserate anzeigen
+Lexus RC - 12 Inserate anzeigen
 LEXUS RC F 5.0 V8 10th Anniversary
 Occasion
 03.2019

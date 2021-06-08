@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -605,60 +604,60 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Fiat
-(5'744)
+(5'941)
 Fiat Occasion
-(3'445)
+(3'522)
 Fiat Neuwagen
-(1'794)
+(1'908)
 Fiat Vorführwagen
-(421)
+(428)
 Fiat Oldtimer
-(84)
+(83)
 Aufbau
 Fiat Limousine
-(1'079)
+(1'147)
 Fiat Cabrio
-(818)
+(863)
 Fiat Nutzfahrzeug
-(503)
+(507)
 Fiat Geländewagen
-(479)
+(477)
 Fiat Kombi
-(260)
+(270)
 Fiat Minivan/Van
-(222)
+(218)
 Fiat Wohnmobil / Wohnwagen
-(77)
+(82)
 Fiat Coupé
 (46)
 Fiat Pickup
 (7)
 Motor
 Fiat Benzin
-(3'554)
+(3'631)
 Fiat Diesel
-(1'154)
+(1'167)
 Fiat Elektroautos
-(483)
+(496)
 Fiat Gas
 (8)
 Modelle
 Fiat 500
-(2'215)
-Fiat Panda
-(510)
+(2'349)
 Fiat Tipo
-(505)
+(531)
+Fiat Panda
+(523)
 Fiat 500X
-(412)
+(414)
 Fiat 595
-(390)
+(395)
 Fiat Ducato
-(385)
+(388)
 Fiat Punto
-(338)
+(346)
 Fiat Doblo
-(147)
+(145)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...

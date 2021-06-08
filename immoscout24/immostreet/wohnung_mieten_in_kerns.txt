@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-wohnung/in-kerns/
 Title: Wohnung mieten in Kerns - Immostreet.ch
-Description: Wohnung mieten in  Kerns - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Kerns - Immostreet.ch: ImmoStreet.ch hat 9 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-7 Resultate gefunden ·
+9 Resultate gefunden ·
 Wohnung mieten in Kerns
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,47 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Brunnenmatt 7
+1'880
+CHF
+/Monat
+3 1/2-Zimmer-Attikawohnung
+Brunnenmatt 7, 6064 Kerns
+Array
+3.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+77 m2
+Sonnige und ruhige Lage mit Alpenpanorama und trotzdem im Dorfzentrum.
+Wunderbar helle Wohnung m…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Flüelistrasse
+2'098
+CHF
+/Monat
+4.5 Zimmer Wohnung Kerns
+Flüelistrasse, 6064 Kerns
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Wir suchen für unsere schöne helle & grosszügige 4.5 Zimmer Wohnung auf 1.08.21 in Kerns einen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 950
 CHF

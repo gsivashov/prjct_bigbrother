@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/bezirk-laufen/
 Title: Wohnung & Haus mieten in Bezirk Laufen - Immostreet.ch
-Description: Wohnung & Haus mieten in Bezirk Laufen - Immostreet.ch: ImmoStreet.ch hat 85 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Bezirk Laufen - Immostreet.ch: ImmoStreet.ch hat 80 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-85 Resultate gefunden ·
+80 Resultate gefunden ·
 Wohnung & Haus mieten in Bezirk Laufen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,69 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Laufenstrasse 38
+1'218
+CHF
+/Monat
+2.5-Zimmer-Dachwohnung
+Laufenstrasse 38, 4246 Wahlen b. Laufen
+Array
+2.5 Zimmer
+55 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+55 m2
+Wir vermieten diese 2.5-Zimmerwohnung nach Vereinbarung.
+- Platten- und Laminatboden
+- Badzimme…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bleihollenweg 22
+1'440
+CHF
+/Monat
+Wohnung mit schöner Aussicht
+Bleihollenweg 22, 4242 Laufen
+Array
+4 Zimmer
+92 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+92 m2
+Ruhig und im Grünen gelegen!Zur Wohnqualität:- Lichtdurchflutete, helle Zimmer- Gemütlicher Balkon …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sormatte 3
+2'800
+CHF
+/Monat
+Modernes Einfamilienhaus mit eindrucksv…
+Sormatte 3, 4224 Nenzlingen
+Array
+5 Zimmer
+144 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5
+Wohnfläche
+144 m2
+Etage
+Geniessen Sie einen beeindruckenden Ausblick in das Laufental! Per 1. September 2021 oder nach Vere…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Schliffweg 3
 1'100
 CHF
@@ -165,27 +228,6 @@ Wohnung, Flach
 Zimmer
 2.5
 Nachmieter gesucht für meine frisch renovierte 2.5 Zi-Whg in Laufen mit Balkon für Fussballfans. Di…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Burgstrasse 42
-3'450
-CHF
-/Monat
-Familienparadies mit riesigem Garten an…
-Burgstrasse 42, 4244 Röschenz
-Array
-7.5 Zimmer
-180 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7.5
-Wohnfläche
-180 m2
-Etage
-Frisch renoviertes, freistehendes EFH mit traumhaftem Garten sucht Erstmieter!Geniessen Sie an sonn…
 Teilen
 E-Mail
 Facebook
@@ -214,7 +256,7 @@ Viehmarktgasse 39
 2'230
 CHF
 /Monat
-Zu vermieten, Wohnung, 4242 Laufen, Ref…
+Wohnerlebnis auf zwei Etagen
 Viehmarktgasse 39, 4242 Laufen
 Array
 3 Zimmer
@@ -225,6 +267,7 @@ Zimmer
 3
 Wohnfläche
 138 m2
+ERSTVERMIETUNG -Geniessen Sie Ihr neues Zuhause im "Stedli" von Laufen.Diese attraktive 3.5-Zimmer-…
 Teilen
 E-Mail
 Facebook
@@ -313,7 +356,7 @@ Adresse auf Anfrage
 1'795
 CHF
 /Monat
-RUSTIKAL MIT VIELEN EXTRAS
+FÜR PFERDELIEBHABER - MIT STALLUNGEN!
 Adresse auf Anfrage, 4225 Brislach
 Array
 2.5 Zimmer
@@ -324,7 +367,7 @@ Zimmer
 2.5
 Wohnfläche
 80 m2
-Diese charmante Altbauwohnung überzeugt mit vielen Extras. So ist beispielsweise der geschichtsträc…
+Die Wohnung befindet sich in einem grossen Bauernhaus. Das Bauernhaus bietet zusätzlich Stallungen …
 Teilen
 E-Mail
 Facebook
@@ -403,24 +446,6 @@ Wohnung, Flach
 Zimmer
 3
 Sehr schöne 3-Zimmerwohnung per 1.9.2021 (oder auch schon ab 1.6.2021) zu vermietenSchönes Wohnzimm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Baselstrasse 1
-1'200
-CHF
-/Monat
-Top Wohnung mit 2 Balkonen
-Baselstrasse 1, 4253 Liesberg
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Etage
-Die wunderschöne und gemütliche 3.5 Zimmerwohnung mit 2 Balkonen, original Holzboden und Kamin, hei…
 Teilen
 E-Mail
 Facebook
@@ -526,27 +551,7 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Im Grossen Grien 6
-1'455
-CHF
-/Monat
-Attraktive Familienwohnung im Grünen mi…
-Im Grossen Grien 6, 4242 Laufen
-Array
-3.5 Zimmer
-74 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-74 m2
-Diese grosszügige, helle und moderne Wohnung befindet sich in einem gepflegten Mehrfamilienhaus in …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 5
+Seite 1 von 4
 1
 2
 3

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/kanton-luzern/
 Title: Haus kaufen in Kanton Luzern - Immostreet.ch
-Description: Haus kaufen in Kanton Luzern - Immostreet.ch: ImmoStreet.ch hat 59 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Kanton Luzern - Immostreet.ch: ImmoStreet.ch hat 64 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-59 Resultate gefunden ·
+64 Resultate gefunden ·
 Haus kaufen in Kanton Luzern
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,21 +138,96 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Sommerau 4
+1'390'000
+CHF
+Traumhaus für die Familie
+Sommerau 4, 6274 Eschenbach LU
+Array
+5.5 Zimmer
+130 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+130 m2
+Das freistehende Einfamilienhaus am östlichen Dorfrand liegt in einem bevorzugten und ruhigen Einfa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kantonsstrasse 16
+695'000
+CHF
+Einfamilienhaus mit Ausbaupotential
+Kantonsstrasse 16, 6234 Triengen
+Array
+240 m2
+Objekttyp
+Wohnung, Einzelhaus
+Wohnfläche
+240 m2
+Etage
+Das 1-Familienhaus befindet sich in ländlicher Idylle im Dorf Triengen mit 5000 Einwohnern (bekannt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Meggen
+Preis auf Anfrage
+Einmaliges Panorama über den Vierwaldst…
+Meggen, 6045 Meggen
+Array
+5.5 Zimmer
+170 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+170 m2
+Perfekt an leicht erhöhter Hanglage im steuergünstigen Meggen gelegen, geniessen Sie hier die Ruhe …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 Preis auf Anfrage
-Exklusive Liegenschaft fantastischer La…
-Adresse auf Anfrage, 6353 Weggis
+11.5-Zimmer-Landhausvilla: 2‘508 m2 Gru…
+Adresse auf Anfrage, 6030 Ebikon
 Array
-8 Zimmer
-215 m2
+11.5 Zimmer
+414 m2
 Objekttyp
 Wohnung, Villa
 Zimmer
-8
+11.5
 Wohnfläche
-215 m2
+414 m2
 Etage
-Die Liegenschaft liegt am Hang mit einmaliger Aussicht über den Vierwaldstättersee. Das Grundstück …
+- 2'500 m2 eingezäunte Privatsphäre mit Torzugang! - Sie bestimmen, wer zu Ihnen kommt.
+- Kubatur …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sonnenterrasse 4
+2'790'000
+CHF
+"Über den Dächern von Ebikon"- Beeindru…
+Sonnenterrasse 4, 6030 Ebikon
+Array
+6.5 Zimmer
+358 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+6.5
+Wohnfläche
+358 m2
+Etage
+Grosszügiges 6,5 - Zimmer Einfamilienhaus im Erholungsgebiet "Riedholz" an erhöhter Lage in Ebikon.…
 Teilen
 E-Mail
 Facebook
@@ -175,6 +250,75 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Einmaliges Hideaway mit Park, 2 Bootshä…
+Adresse auf Anfrage, 6353 Weggis
+Array
+Objekttyp
+Wohnung, Einzelhaus
+5'680 m² Paradies mit 130 Meter Seeanstoss - lassen Sie sich in Ihrem eigenen Hideaway nieder und g…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alte Kantonsstrasse 98
+1'420'000
+CHF
+Doppeleinfamilienhaus für Naturbegeiste…
+Alte Kantonsstrasse 98, 6274 Eschenbach LU
+Array
+7.5 Zimmer
+185 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+7.5
+Wohnfläche
+185 m2
+Ideal für eine grosse FamilieDieses Doppelhaus bietet viel Raum und Möglichkeiten, um Ihre eigenen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bergstrasse 38
+1'350'000
+CHF
+Unverbaubare Aussicht und Garten
+Bergstrasse 38, 6030 Ebikon
+Array
+5.5 Zimmer
+173 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+173 m2
+Ein Haus zum sich Verwirklichen.Der Wohn-Essbereich ist grosszügig, die Küche kann zum Wohnzimmer h…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Exklusive Liegenschaft fantastischer La…
+Adresse auf Anfrage, 6353 Weggis
+Array
+8 Zimmer
+215 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+8
+Wohnfläche
+215 m2
+Etage
+Die Liegenschaft liegt am Hang mit einmaliger Aussicht über den Vierwaldstättersee. Das Grundstück …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Sonnrüti 11
 1'850'000
 CHF
@@ -191,22 +335,6 @@ Wohnfläche
 202 m2
 Etage
 Freistehendes Einfamilienhaus mit unverbaubarem Weitblick & Sonnenterrasse in Toplage von Büron…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Landschloss der Extraklasse - Der Himme…
-Adresse auf Anfrage, 6005 Luzern
-Array
-785 m2
-Objekttyp
-Wohnung, Schloss
-Wohnfläche
-785 m2
-Der Himmel auf Erden – Oase stillen Friedens mit guter Anbindung
-In der Nähe von Luzern, wo sanf…
 Teilen
 E-Mail
 Facebook
@@ -357,18 +485,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Einmaliges Hideaway mit Park, 2 Bootshä…
-Adresse auf Anfrage, 6353 Weggis
-Array
-Objekttyp
-Wohnung, Einzelhaus
-5'680 m² Paradies mit 130 Meter Seeanstoss - lassen Sie sich in Ihrem eigenen Hideaway nieder und g…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Burgallee
 1'280'000
 CHF
@@ -388,124 +504,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Chäppeliachwerweg 1
-1'370'000
-CHF
-Einfamilienhaus-Neubauprojekt in famili…
-Chäppeliachwerweg 1, 6285 Hitzkirch
-Array
-5.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-150 m2
-Erfüllen Sie sich den Traum vom eigenen Einfamilienhaus mit Garten für Ihre Familie!Die geplanten E…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Cheisersponstrasse 18
-1'840'000
-CHF
-Exklusives Wohnen mit See- und Bergsicht
-Cheisersponstrasse 18, 6284 Sulz LU
-Array
-5.5 Zimmer
-175 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-175 m2
-Geniessen Sie Privatsphäre und Exklusivität am BaldeggerseeSie suchen ein grosszügiges, modernes Ha…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-10'900'000
-CHF
-Villa "Im Park"am Waldrand
-Adresse auf Anfrage, 6045 Meggen
-Array
-10 Zimmer
-440 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-10
-Wohnfläche
-440 m2
-Die Villa hat eine Hof- und eine Garten Seite. Die Hofseite ist mit einer weissen Mauer umf…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'390'000
-CHF
-Modernes Einfamilienhaus - Geniessen Si…
-Adresse auf Anfrage, 6105 Schachen LU
-Array
-6.5 Zimmer
-190 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-190 m2
-Schachen ist ein ländlich gelegenes Dorf in der Gemeinde Werthenstein (LU). Es ist ein idealer Ort …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fahrwangenstrasse 5
-Preis auf Anfrage
-Herrschaftlechs Awäse met Usboumöglechk…
-Fahrwangenstrasse 5, 6287 Aesch LU
-Array
-8 Zimmer
-241 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-8
-Wohnfläche
-241 m2
-Etage
-Es grandioses Landhuus i de Räbe- ond ObschtkultureDas Landhaus liegt, harmonisch eingebettet in di…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-RESERVIERT: Modernes Einfamilienhaus im…
-Adresse auf Anfrage, 6212 Kaltbach
-Array
-4.5 Zimmer
-96 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-96 m2
-Etage
-Dieses 4.5-Zimmer Einfamilienhaus befindet sich in einem familienfreundlichen Quartier in Kaltbach …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 3
+Seite 1 von 4
 1
 2
 3
+4
 nächste Seite
 ImmoStreet.ch
 Kaufen

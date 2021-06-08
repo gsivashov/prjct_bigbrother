@@ -107,7 +107,7 @@ Filtre
 Chercher
 Modifier la recherche
 L'alert a été ajouté à votre Immobox.
-81 résultats trouvés ·
+60 résultats trouvés ·
 Offres de l'agence GEloue Immobilier
 Prix (croissant)
 Prix (décroissant)
@@ -120,6 +120,74 @@ NPA (croissant)
 NPA (décroissant)
 Tri
 Envoyer
+Adresse sur demande
+1'604
+CHF
+/Mois
+Bel appartement 3 pièces à Vernier
+Adresse sur demande, 1214 Vernier
+Array
+3 Pièces
+Type d'objet
+Appartement, Appartement
+Pièces
+3
+Bel appartement de 3 pièces à VernierDans le secteur de Vernier, proche des commerces et des transp…
+Partager
+E-mail
+Facebook
+Whatsapp
+Adresse sur demande
+1'070
+CHF
+/Mois
+Superbe studio en plein coeur des Eaux-…
+Adresse sur demande, 1207 Genève
+Array
+1 Pièces
+Type d'objet
+Appartement, Appartement
+Pièces
+1
+Magnifique studio aux Eaux-VivesTrès beau Studio se situant  au 6ème étage dans le quartier des Eau…
+Partager
+E-mail
+Facebook
+Whatsapp
+Adresse sur demande
+980
+CHF
+/Mois
+Magnifique appartement 2 pièces à la se…
+Adresse sur demande, 1202 Genève
+Array
+2 Pièces
+Type d'objet
+Appartement, Appartement
+Pièces
+2
+Bel appartement de 2 pièces situé à la ServetteSuperbe appartement de 2 pièces situé à Servette pou…
+Partager
+E-mail
+Facebook
+Whatsapp
+Adresse sur demande
+1'007
+CHF
+/Mois
+Magnifique 3 pièces au Grand Lancy
+Adresse sur demande, 1212 Grand-Lancy
+Array
+3 Pièces
+Type d'objet
+Appartement, Appartement
+Pièces
+3
+Magnifique 3 pièces au Grand LancyIdéalement situé dans le secteur du Grand Lancy, nous vous propos…
+Partager
+E-mail
+Facebook
+Whatsapp
 Adresse sur demande
 1'390
 CHF
@@ -189,23 +257,6 @@ E-mail
 Facebook
 Whatsapp
 Adresse sur demande
-1'970
-CHF
-/Mois
-Grand 3 pièces au Petit-Saconnex
-Adresse sur demande, 1209 Genève
-Array
-3 Pièces
-Type d'objet
-Appartement, Appartement
-Pièces
-3
-Grand 3 pièces au Petit-SaconnexAu Petit-Saconnex, proche des commerces et des transports, nous vou…
-Partager
-E-mail
-Facebook
-Whatsapp
-Adresse sur demande
 1'420
 CHF
 /Mois
@@ -223,23 +274,6 @@ E-mail
 Facebook
 Whatsapp
 Adresse sur demande
-1'885
-CHF
-/Mois
-Magnifique appartement de 4 pièces avec…
-Adresse sur demande, 1226 Thônex
-Array
-4 Pièces
-Type d'objet
-Appartement, Appartement
-Pièces
-4
-Magnifique apapartement de 4 pièces à Thonex avec balcon et boxMagnifique 4 pièces très spacieux au…
-Partager
-E-mail
-Facebook
-Whatsapp
-Adresse sur demande
 1'580
 CHF
 /Mois
@@ -252,23 +286,6 @@ Appartement, Appartement
 Pièces
 3
 Spacieux 3 pièces Plainpalais JonctionAppartement de 3 pièces situé à Plainpalais au 3e étage sans …
-Partager
-E-mail
-Facebook
-Whatsapp
-Adresse sur demande
-2'260
-CHF
-/Mois
-Superbe appartement de 4 pièces aux Eau…
-Adresse sur demande, 1207 Genève
-Array
-4 Pièces
-Type d'objet
-Appartement, Appartement
-Pièces
-4
-Superbe 4 pièces aux Eaux VivesAppartement de 4 pièces situé aux Eaux-Vives au 4e étage avec ascens…
 Partager
 E-mail
 Facebook
@@ -410,24 +427,6 @@ E-mail
 Facebook
 Whatsapp
 Adresse sur demande
-1'894
-CHF
-/Mois
-Grand 3,5 pièces au Pâquis
-Adresse sur demande, 1201 Genève
-Array
-3.5 Pièces
-Type d'objet
-Appartement, Appartement
-Pièces
-3.5
-Etage
-Grand 3,5 pièces aux PâquisGrand 3,5 pièces au centre-ville, calme et lumineux, il est proche de to…
-Partager
-E-mail
-Facebook
-Whatsapp
-Adresse sur demande
 2'270
 CHF
 /Mois
@@ -461,11 +460,10 @@ Partager
 E-mail
 Facebook
 Whatsapp
-Page 1 de 5
+Page 1 de 3
 1
 2
 3
-4
 page suivante
 ImmoStreet.ch
 Louer

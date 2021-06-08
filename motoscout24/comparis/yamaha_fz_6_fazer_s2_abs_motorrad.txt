@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -1258,36 +1257,36 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Yamaha
-(2'606)
+(2'585)
 Yamaha Occasion
-(1'525)
+(1'538)
 Yamaha Neu
-(914)
+(886)
 Yamaha Vorführmodell
-(109)
+(107)
 Yamaha Oldtimer
-(58)
+(54)
 Aufbau
 Yamaha Strasse
-(1'238)
+(1'228)
 Yamaha Roller
-(722)
+(721)
 Yamaha Chopper
-(177)
+(173)
 Yamaha Gelände / Enduro
-(150)
+(151)
 Yamaha ATV / Quad
 (31)
 Yamaha
 Modelle
 Yamaha Aerox R NS 50
-(39)
+(38)
 Yamaha D'elight LTS 125 UBS
 (24)
 Yamaha MT-07 ABS
-(45)
+(32)
 Yamaha MT-09 ABS
-(41)
+(50)
 Yamaha MT-10 ABS
 (54)
 Yamaha Niken
@@ -1300,40 +1299,52 @@ Yamaha SCR 950 ABS
 Yamaha Tenere 700 ABS
 (45)
 Yamaha Tracer 700 ABS
-(49)
+(45)
 Yamaha Tracer 900 ABS
-(24)
+(22)
 Yamaha Tracer 900 GT ABS
-(38)
+(41)
 Yamaha Tricity MW 125 ABS
 (25)
 Yamaha TZR 50 R1
-(23)
+(24)
 Yamaha XC 125 Cygnus X
-(22)
-Yamaha XC 125 E Vity
 (21)
+Yamaha XC 125 E Vity
+(23)
 Yamaha X-Max CZD 300 ABS
-(36)
+(38)
 Yamaha XSR 700 ABS
-(55)
+(48)
 Yamaha XSR 900 ABS
-(36)
+(34)
 Yamaha YZF-R1 ABS '18
-(22)
+(21)
 Weitere Modelle
-(2'606)
+(2'585)
 Yamaha FZ 6 Fazer S2 ABS
 Alle Details
-Inserat vom 28.05.2021
+Inserat vom 04.06.2021
 Occasion
-05.2009
-34'000 km
+06.2009
+33'800 km
 599 ccm
 Preis
-CHF 4'750.-
+CHF 5'300.-
 Alle Details
-CHF 4'750.-
+CHF 5'300.-
+Alle Details
+Yamaha FZ 6 Fazer S2 ABS
+Alle Details
+Inserat vom 26.04.2021
+Occasion
+05.2011
+33'697 km
+599 ccm
+Preis
+CHF 3'900.-
+Alle Details
+CHF 3'900.-
 Alle Details
 Yamaha FZ 6 Fazer S2 ABS
 Alle Details
@@ -1346,18 +1357,6 @@ Preis
 CHF 6'500.-
 Alle Details
 CHF 6'500.-
-Alle Details
-Yamaha FZ 6 Fazer S2 ABS
-Alle Details
-Inserat vom 06.10.2018
-Occasion
-02.2010
-49'600 km
-600 ccm
-Preis
-CHF 4'200.-
-Alle Details
-CHF 4'200.-
 Alle Details
 ×
 comparis.ch

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-herisau/
 Title: Wohnungen & Häuser mieten in Herisau - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Herisau - Immostreet.ch: ImmoStreet.ch hat 108 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Herisau - Immostreet.ch: ImmoStreet.ch hat 107 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-108 Resultate gefunden ·
+107 Resultate gefunden ·
 Wohnungen & Häuser mieten in Herisau
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,86 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Bachstrasse 23
+780
+CHF
+/Monat
+1 Zi.Whg zentral
+Bachstrasse 23, 9100 Herisau
+Array
+1 Zimmer
+20 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+20 m2
+Klein aber fein
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Johannes Baumann-Strasse 3a
+755
+CHF
+/Monat
+gemütliche Wohnung in ruhiger Lage
+Johannes Baumann-Strasse 3a, 9100 Herisau
+Array
+1.5 Zimmer
+50 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+50 m2
+Per 1. September 2021 oder nach Vereinbarung vermieten wir diese schöne 1.5- Zimmerwohnung in Heris…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Burghalden 8
+950
+CHF
+/Monat
+Gemütliche Singlewohnung
+Burghalden 8, 9100 Herisau
+Array
+2.5 Zimmer
+47 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+47 m2
+Die Wohnung ist ideal für alleinstehende Personen oder Pärchen ohne Kinder. Nebst dem ansprechenden…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obermoosbergstr. 2a
+2'120
+CHF
+/Monat
+Traumhafte Dachwohnung mit Cheminée
+Obermoosbergstr. 2a, 9100 Herisau
+Array
+5.5 Zimmer
+156 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+5.5
+Wohnfläche
+156 m2
+Die grosszügige Wohnung befindet sich an ruhiger Wohnlage in einem familienfreundlichen Wohnquartie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Mühlestrasse 17
 2'510
 CHF
@@ -249,26 +329,6 @@ Wohnfläche
 Herrliche neu renovierte 2.5-Z-Dachwohnung zu vermieten:
 neu renovierte und moderne Küche
 Hel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lederbach 4
-1'490
-CHF
-/Monat
-Familienfreundliche und moderne 4,5 Zim…
-Lederbach 4, 9100 Herisau
-Array
-4.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-83 m2
-An Top Lage, inmitten der malerischen Altstadt, vermieten wir diese charmante 4.5 Zimmer-Wohnung pe…
 Teilen
 E-Mail
 Facebook
@@ -449,66 +509,6 @@ Büro
 Zimmer
 5
 Sie suchen neue Büroräumlichkeiten, eine Kanzlei oder einen Praxisraum? Dann ist dieses besondere S…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Degersheimerstrasse 29a
-1'150
-CHF
-/Monat
-2.5-Zimmer Wohnung mit wundervollem Aus…
-Degersheimerstrasse 29a, 9100 Herisau
-Array
-2.5 Zimmer
-62 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-62 m2
-Diese 3.5-Zimmer-Wohnung im herrlichen Herisau sucht Sie!Die Wohnung verfügt über weiträumige Zimme…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonneggstrasse 2
-980
-CHF
-/Monat
-stilvolle, zentrale Wohnung!
-Sonneggstrasse 2, 9100 Herisau
-Array
-2.5 Zimmer
-59 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-59 m2
-Das 3-Familienhaus liegt sonnig und zentral, aber ruhig; Einkauf, Post und ÖV in kurzer Gehdistanz.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonneggstrasse 2
-1'200
-CHF
-/Monat
-günstig zentral Wohnen !
-Sonneggstrasse 2, 9100 Herisau
-Array
-4.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-80 m2
-Das 3-Familienhaus liegt sonnig und zentral, aber ruhig; Einkauf, Post und ÖV in kurzer Gehdistanz.…
 Teilen
 E-Mail
 Facebook

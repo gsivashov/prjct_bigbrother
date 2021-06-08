@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -902,65 +901,77 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Ducati
-(965)
+(974)
 Ducati Occasion
-(724)
+(730)
 Ducati Neu
-(171)
+(172)
 Ducati Vorführmodell
 (42)
 Ducati Oldtimer
-(28)
+(30)
 Aufbau
 Ducati Strasse
-(838)
+(845)
 Ducati Gelände / Enduro
 (19)
 Ducati
 Modelle
 Ducati 1098 S
-(12)
+(13)
 Ducati 1200 Diavel Carbon ABS
-(15)
+(13)
 Ducati 1200 Multistrada ABS
-(14)
+(16)
 Ducati 1200 Multistrada Enduro
 (14)
 Ducati 1200 Multistrada S
 (12)
 Ducati 1200 Multistrada S ABS
-(21)
+(20)
 Ducati 1200 S Monster
 ABS
-(15)
-Ducati 1260 Multistrada S
-(12)
-Ducati 696M Monster
 (16)
-Ducati 796M Monster ABS
+Ducati 1260 Multistrada S
 (14)
+Ducati 696M Monster
+(15)
+Ducati 796M Monster ABS
+(13)
 Ducati 821 Monster ABS
 (19)
-Ducati 950 Supersport S
-(14)
 Ducati Diavel 1260 S
-(13)
+(12)
 Ducati Multistrada 950
 (13)
 Ducati Multistrada 950 S
 (12)
 Ducati Panigale V4
-(30)
+(32)
 Ducati Scrambler 1100
-(23)
+(22)
+Ducati Scrambler 1100 Sport
+(11)
 Ducati Scrambler Desert Sled
 (12)
 Ducati Scrambler Icon
-(31)
+(30)
 Ducati XDiavel 1260 S
-(13)
+(14)
 Weitere Modelle
-(965)
+(974)
+Ducati 821 Monster ABS
+Alle Details
+Inserat vom 06.06.2021
+Occasion
+06.2016
+16'400 km
+821 ccm
+Preis
+CHF 8'500.-
+Alle Details
+CHF 8'500.-
+Alle Details
 Ducati 821 Monster ABS
 Alle Details
 Inserat vom 02.06.2021
@@ -969,9 +980,9 @@ Occasion
 29'000 km
 821 ccm
 Preis
-CHF 8'000.-
+CHF 7'800.-
 Alle Details
-CHF 8'000.-
+CHF 7'800.-
 Alle Details
 Ducati 821 Monster ABS
 Alle Details
@@ -1060,18 +1071,6 @@ Alle Details
 Ducati 821 Monster ABS
 Alle Details
 Inserat vom 04.02.2021
-Occasion
-07.2016
-23'900 km
-821 ccm
-Preis
-CHF 9'900.-
-Alle Details
-CHF 9'900.-
-Alle Details
-Ducati 821 Monster ABS
-Alle Details
-Inserat vom 03.02.2021
 Occasion
 07.2016
 23'900 km

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-visp/
 Title: Wohnung kaufen in Bezirk Visp - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Visp - Immostreet.ch: ImmoStreet.ch hat 138 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Visp - Immostreet.ch: ImmoStreet.ch hat 134 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-138 Resultate gefunden ·
+134 Resultate gefunden ·
 Wohnung kaufen in Bezirk Visp
 Preis (aufsteigend)
 Preis (absteigend)
@@ -167,26 +167,7 @@ Zimmer
 3.5
 Wohnfläche
 130 m2
-Vous recherchez un appartement moderne, tout confort, spacieux, lumineux, agréable à vivre pour vou…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Talstrasse
-40'000
-CHF
-*Dachgeschosswohnung*
-Talstrasse, 3905 Saas-Almagell
-Array
-3 Zimmer
-47 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-47 m2
-Es handelt sich um eine 3-Zimmerwohnung im Dachgeschoss mit Keller im Erdgeschoss in einem vierstöc…
+Vous recherchez un appartement moderne, tout confort, spacieux, lumineux, agréable à vivre ? Ce bie…
 Teilen
 E-Mail
 Facebook
@@ -206,23 +187,6 @@ Zimmer
 Wohnfläche
 30 m2
 Das Haus Rossignol C ist eines von vier Wohnhäusern einer Überbauung im Quartier Spiss in Zermatt. …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'650'000
-CHF
-Ferienchalet Ski in / Ski out
-Adresse auf Anfrage, 3920 Zermatt
-Array
-5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Etage
-ZweitwohnungDiese Immobilie bietet Ihnen 3 Wohneinheiten -  alles Zweitwohnungen. 1. Hauptwohnung i…
 Teilen
 E-Mail
 Facebook
@@ -517,6 +481,38 @@ Wohnfläche
 97 m2
 Etage
 Ab August 2021 entsteht in Täsch die Überbaung Solita mit ihren drei Häusern A, B und C. Die insges…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'750'000
+CHF
+Erstwohnsitz | Neubau Haus SonVida | 3.…
+Adresse auf Anfrage, 3920 Zermatt
+Array
+139 m2
+Objekttyp
+Wohnung, Attikawohnung
+Wohnfläche
+139 m2
+Zermatt liegt in einer prächtigen, sonnigen Berglandschaft und ist eines der beliebtesten und exklu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'550'000
+CHF
+Erstwohnsitz | Neubau Haus SonVida | 4.…
+Adresse auf Anfrage, 3920 Zermatt
+Array
+146 m2
+Objekttyp
+Wohnung, Flach
+Wohnfläche
+146 m2
+Zermatt liegt in einer prächtigen, sonnigen Berglandschaft und ist eines der beliebtesten und exklu…
 Teilen
 E-Mail
 Facebook

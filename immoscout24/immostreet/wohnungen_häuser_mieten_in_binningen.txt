@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-binningen/
 Title: Wohnungen & Häuser mieten in Binningen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Binningen - Immostreet.ch: ImmoStreet.ch hat 109 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Binningen - Immostreet.ch: ImmoStreet.ch hat 105 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-109 Resultate gefunden ·
+105 Resultate gefunden ·
 Wohnungen & Häuser mieten in Binningen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,60 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+2'500
+CHF
+/Monat
+ZENTRAL, HELL & MODERN
+Adresse auf Anfrage, 4102 Binningen
+Array
+3.5 Zimmer
+157 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+157 m2
+Diese gepflegte Wohnung ist ganztags sonnig und zentral gelegen. Einkaufen, Schulen, ÖV sind ganz i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brückenstrasse 26
+2'180
+CHF
+/Monat
+Attikawohnung mit 100 m2 Terrasse inkl.…
+Brückenstrasse 26, 4102 Binningen
+Array
+2.5 Zimmer
+69 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+69 m2
+Suche Nachmieter für sonnige und ruhige Attikawohnung (3. und letzter Stock) mit 100 m2 Terrasse ru…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Huebweg 18-20
+790
+CHF
+/Monat
+Arbeitsplatz - Vermietung im neuen Busi…
+Huebweg 18-20, 4102 Binningen
+Array
+Objekttyp
+Büro
+Suchen Sie einen Arbeitsplatz in exklusiven Räumlichkeiten, die mit Liebe zum Detail eingerichtet w…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Langegasse 10
 3'030
 CHF
@@ -138,7 +192,7 @@ Zimmer
 Wohnfläche
 109 m2
 Etage
-Wir vermieten eine neuwertige 4.5-Zimmerwohnung an ruhiger Lage mit schöner Aussicht. Trotzdem sind…
+Wir vermieten eine neuwertige 4.5-Zimmerwohnung (Wohnung Nr. 5) an ruhiger Lage mit schöner Aussich…
 Teilen
 E-Mail
 Facebook
@@ -332,7 +386,7 @@ Facebook
 Whatsapp
 Bottmingerstrasse 97-101
 Preis auf Anfrage
-Senioren Wohngenossenschaft Waldeck
+Senioren Wohngenossenschaft Waldeck (ab…
 Bottmingerstrasse 97-101, 4102 Binningen
 Array
 Objekttyp
@@ -366,27 +420,6 @@ Array
 Objekttyp
 Tiefgarage
 Bei Interesse bitten wir um Kontaktaufnahme.
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schützenweg 3
-2'490
-CHF
-/Monat
-4,5 Zimmer - Penthouse Wohnung mit alle…
-Schützenweg 3, 4102 Binningen
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Etage
-Die 4,5 Zimmer - Penthouse Wohnung (4. OG ohne Lift) eines 8 Parteien Objektes in sehr guter Binnin…
 Teilen
 E-Mail
 Facebook
@@ -427,40 +460,6 @@ Zimmer
 Wohnfläche
 68 m2
 Diese helle, moderne, ruhig gelegene und stilvoll eingerichtete 2.5-Zimmer-Wohnung in Binningen suc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gartenstrasse 25
-390
-CHF
-/Monat
-Praktisches Atelier mit Strom, WC und e…
-Gartenstrasse 25, 4102 Binningen
-Array
-1 Zimmer
-Objekttyp
-Retail space, Atelier
-Zimmer
-1
-Etage
-An der Gartenstrasse 25 in Binningen vermieten wir dieses parktische Atelier nach Vereinbarung.
-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gartenstrasse 25
-390
-CHF
-/Monat
-Praktische Werkstatt mit Strom, WC und …
-Gartenstrasse 25, 4102 Binningen
-Array
-Objekttyp
-Verkauf, Lager
-Etage
-An der Gartenstrasse 25 in Binningen vermieten wir diese parktische Werkstatt oder Lager nach Verei…
 Teilen
 E-Mail
 Facebook

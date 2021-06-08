@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/in-bad-ragaz/
 Title: Wohnung & Haus kaufen in Bad Ragaz - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Bad Ragaz - Immostreet.ch: ImmoStreet.ch hat 4 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Bad Ragaz - Immostreet.ch: ImmoStreet.ch hat 5 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-4 Resultate gefunden ·
+5 Resultate gefunden ·
 Wohnung & Haus kaufen in Bad Ragaz
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Dekan-Oeschstrasse 11
+815'000
+CHF
+bezugsbereite 3.5 Zimmer Neubauwohnung
+Dekan-Oeschstrasse 11, 7310 Bad Ragaz
+Array
+3.5 Zimmer
+115 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+115 m2
+Etage
+Sehr grosszügiger Grundriss, absolute Ruhe, viele Sonnenstunden zentrale Lage! Die und noch vieles …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Giessenstrasse 5
 850'000
 CHF

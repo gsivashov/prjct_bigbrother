@@ -1,6 +1,6 @@
-URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-arlesheim/
+URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-arlesheim/?pagenum=3
 Title: Wohnung & Haus kaufen in Bezirk Arlesheim - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Arlesheim - Immostreet.ch: ImmoStreet.ch hat 156 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Arlesheim - Immostreet.ch: ImmoStreet.ch hat 154 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-156 Resultate gefunden ·
+154 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Arlesheim
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,136 +151,96 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Baselstrasse 68
-1'250'000
+Binningerstrasse 14
+1'350'000
 CHF
-Neuwertige 4.5-Zimmer Gartenwohnung mit…
-Baselstrasse 68, 4153 Reinach BL
+Attikawohnung mit traumhafter Weitsicht
+Binningerstrasse 14, 4103 Bottmingen
+Array
+3.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+95 m2
+Die grosszügige 3½ Zi.-Attikawohnung begeistert durch Ihre offene und lichtdurchflutete Raumaufteil…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+3'980'000
+CHF
+ZWEI EXKLUSIVE VILLEN IM LANDHAUSSTIL
+Adresse auf Anfrage, 4102 Binningen
+Array
+9 Zimmer
+328 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+9
+Wohnfläche
+328 m2
+Die Villen befindet sich an privilegierter Lage, unweit vom öffentlichen Verkehr, Schulen sowie Ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+679'000
+CHF
+HELLE WOHNUNG MITTEN IN ALLSCHWIL, ZENT…
+Adresse auf Anfrage, 4123 Allschwil
+Array
+3.5 Zimmer
+79 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+79 m2
+Diese, an ruhiger, ganztags- besonnter Wohnlage in Allschwil gelegene Wohnung, verfügt über 3.5 - Z…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kilchmattstrasse
+580'000
+CHF
+3,5-Zimmer-Wohnung
+Kilchmattstrasse, 4132 Muttenz
+Array
+4 Zimmer
+94 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+94 m2
+3,5-Zimmer-Wohnung*mit einer Wohnfläche von ca. 94 m2, Miteigentumsanteil, Autoeinstellplatz Nr. 10…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 8
+Preis auf Anfrage
+Exklusive, top Wohnung in Aesch
+Bahnhofstrasse 8, 4147 Aesch BL
 Array
 4.5 Zimmer
-121 m2
+138 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-121 m2
-Etage
-IMMOROSSIverkauft per 1.7.2021 oder nach Vereinbarung an sehr guter und gesuchter Lage an der Basel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fuchshaggraben 22
-1'780'000
-CHF
-Gartenwohnung im Neubauprojekt Fuchshag…
-Fuchshaggraben 22, 4102 Binningen
-Array
-5.5 Zimmer
-187 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-Wohnfläche
-187 m2
-An ruhiger Lage in Binningen entsteht dieses moderne Wohnensemble. Die Innen- und Aussenflächen sin…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'490'000
-CHF
-Grosses 6,5 Zi. Family Home an naturver…
-Adresse auf Anfrage, 4105 Biel-Benken BL
-Array
-6.5 Zimmer
-235 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-235 m2
-Etage
-Diese sonnenverwöhnte Liegenschaft mit grossem Traumgarten befindet sich an naturverbundener und at…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Neueneichweg 22
-535'000
-CHF
-Unbeschwertes Leben auf dem Lande
-Neueneichweg 22, 4153 Reinach BL
-Array
-3 Zimmer
-64 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-64 m2
-Etage
-Dieses Angebot richtet sich an all jene, welche das ruhige, ländliche Leben lieben, mit der Natur v…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obrechtstrasse 15
-980'000
-CHF
-3.5 Zimmer Maisonette Wohnung
-Obrechtstrasse 15, 4132 Muttenz
-Array
-3.5 Zimmer
-133 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-133 m2
-Was Sie erwartetDiese 3.5 Zimmer Maisonette-Wohnung mit einer Nettowohnfläche von 133 m2 zuzüglich …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-4'250'000
-CHF
-Thronen auf der Wiege der Sonne
-Adresse auf Anfrage, 4106 Therwil
-Array
-10 Zimmer
-545 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-10
-Wohnfläche
-545 m2
-Fernab der grauen Tristheit erleben Sie in dieser im Grünen eingebeten Villa mit ganzen 10 Zimmer d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unterer Rebbergweg
-2'200'000
-CHF
-Modern House in Reinach
-Unterer Rebbergweg, 4153 Reinach BL
-Array
-6.5 Zimmer
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Etage
-Modern, bright and beautiful house that distinguish itself for a spectacular view on the fantastic …
+138 m2
+Sehr geehte Interessentin, Sehr geehrte Interessent,In einem kleinen Mehrfamilienhaus, mit vier Woh…
 Teilen
 E-Mail
 Facebook
@@ -299,239 +259,276 @@ Zimmer
 6
 Wohnfläche
 152 m2
-Das Einfamilienhaus ist in einem sehr guten Zustand, Baujahr 2007 mit Landanteil.(Auch auf anibis …
+Das Einfamilienhaus ist in einem sehr gutem Zustand, Baujahr 2007 mit Landanteil.Auch auf anibis + …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Im Griengarten 10
-1'250'000
-CHF
-Sutter-Haus = Einfamilienhaus und Garte…
-Im Griengarten 10, 4153 Reinach BL
-Array
-5.5 Zimmer
-127 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-127 m2
-Etage
-Das gepflegte und gut unterhaltene Einfamilienhaus besticht durch ein praktisches und harmonisches …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Spitzackerstrasse 43
-3'100'000
-CHF
-Charaktervolles, grosszügiges Wohnhaus
-Spitzackerstrasse 43, 4103 Bottmingen
-Array
-9 Zimmer
-287 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-9
-Wohnfläche
-287 m2
-Etage
-fast unlimitierte Wohnfläche...Mit einem Gebäudevolumen von 1'780 m³, 9 Zimmern, 3 Badezimmern und …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rosenweg 40
-880'000
-CHF
-Reiheneinfamilienhaus mit Garagenbox nä…
-Rosenweg 40, 4153 Reinach BL
-Array
-5.5 Zimmer
-102 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-102 m2
-Etage
-Reiheneinfamilienhaus mit Garagenbox nähe ISB in Reinach
-Wir verkaufen an ruhiger und guter verk…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Neuwilerstrasse 24
-2'220'000
-CHF
-3 Einfamilienhäuser - Rebgarten
-Neuwilerstrasse 24, 4104 Oberwil BL
-Array
-6.5 Zimmer
-170 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-170 m2
-Etage
-An gut besonnter, familienfreundlicher Wohnlage in Oberwil entstehen drei stilvoll ausgebaute Einfa…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Auf der Wacht 14
-895'000
-CHF
-Familienfreundliche 4.5-Zimmer-Eigentum…
-Auf der Wacht 14, 4104 Oberwil BL
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Diese lichtdurchflutete Eigentumswohnung liegt im 1. Obergeschoss eines gepflegten Mehrfamilienhaus…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Krebsenbachweg 1
-699'000
-CHF
-4.5-Zimmer Gartenwohnung mit Gartensitz…
-Krebsenbachweg 1, 4148 Pfeffingen
-Array
-4.5 Zimmer
-94 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-94 m2
-IMMOROSSI der Immobilienmakler für Basel und Baselland verkauft per 1.6.21 oder nach Vereinbarung a…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Muttenzerstrasse 60
+Germanenweg 6
 990'000
 CHF
-Hochwertig ausgebaute Maisonette-Wohnun…
-Muttenzerstrasse 60, 4127 Birsfelden
+Glücklich im
+Germanenweg 6, 4132 Muttenz
 Array
 4.5 Zimmer
-107 m2
+102 m2
 Objekttyp
-Wohnung, Duplex, Maisonette
+Wohnung, Doppeleinfamilienhaus
 Zimmer
 4.5
 Wohnfläche
-107 m2
-Das Grundstück befindet sich an ruhiger Lage im Wohnquartier Scheuerrain, das dank der unmittelbare…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Elsternweg 5
-1'110'000
-CHF
-Exklusive Wohnung im Baurecht
-Elsternweg 5, 4103 Bottmingen
-Array
-4.5 Zimmer
-137 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-137 m2
-Auf dem Bruderholz verkaufen wir per sofort oder nach Vereinbarung eine wunderschöne Wohnung mit ca…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-790'000
-CHF
-ATTRAKTIVE ATTIKAMAISONETTE
-Adresse auf Anfrage, 4106 Therwil
-Array
-103 m2
-Objekttyp
-Wohnung, Duplex
-Wohnfläche
-103 m2
-Attika und Maisonette - eine gute Kombination. Genau so eine Wohnung verkaufen wir im beliebten The…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mattenhofweg
-1'247'000
-CHF
-5.5 Zi.- Eigentumswohnung mit gedecktem…
-Mattenhofweg, 4144 Arlesheim
-Array
-5.5 Zimmer
-142 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-142 m2
-Lagebeschreibung:
-Das zum Verkauf stehende Stockwerkeigentum liegt am Mattenhofweg in Arlesheim.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchbündtenstrasse 48
-415'000
-CHF
-Moderne Dachwohnung
-Kirchbündtenstrasse 48, 4107 Ettingen
-Array
-2.5 Zimmer
-50 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-50 m2
+102 m2
 Etage
-Sehr gut geschnittene schöne, modernisierte Dachwohnung mit Cheminée und offener Küchenzeile und fr…
+4½-Zimmer-Doppelhaus mit ca. 102 m² Wohnfläche inkl. Wintergarten und ca. 142 m² Nutzfläche. Der Wi…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Johann Brüderlin-Strasse 18
-1'120'000
+Allschwil
+695'000
 CHF
-Schöne 3.5-Zimmerwohnung an toller Lage
-Johann Brüderlin-Strasse 18, 4132 Muttenz
+Neuwertige Wohnung an ruhiger und zentr…
+Allschwil, 4123 Allschwil
 Array
 3.5 Zimmer
-87 m2
+89 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-87 m2
+89 m2
+Diese modern konzipierte und neuwertige 3.5-Zimmerwohnung bietet einen gehobenen Ausbau und einen f…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dornacherstrasse 183
+570'000
+CHF
+AgentSelly - Umbauprojekt sucht neue Ei…
+Dornacherstrasse 183, 4147 Aesch BL
+Array
+4.5 Zimmer
+93 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+93 m2
 Etage
+Erfreuen Sie sich an einem Reihenmittelhaus, welches Sie nach Ihren eigenen Wünschen und Bedürfniss…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stefanstrasse 11
+1'020'000
+CHF
+Moderne 3½ Zi.-Gartenwohnung an ruhiger…
+Stefanstrasse 11, 4106 Therwil
+Array
+3.5 Zimmer
+91 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+91 m2
+Etage
+An idealer und beliebter Wohnlage in Therwil befindet sich diese helle und barrierefreie 3½ Zi.-Gar…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Winkel 17
+790'000
+CHF
+Top Angebot mit Weitblick in Ettingen
+Im Winkel 17, 4107 Ettingen
+Array
+4.5 Zimmer
+151 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+151 m2
+Etage
+An ruhiger Wohnlage in Ettingen wartet eine charmante Dachwohnung auf Ihre neuen Besitzer.Die Liege…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Steinbühlweg 76
+740'000
+CHF
+Modern und zentral wohnen (Baurecht)
+Steinbühlweg 76, 4123 Allschwil
+Array
+4.5 Zimmer
+101 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+101 m2
+Diese attraktive Eigentumswohnung befindet sich in einem modernen Mehrfamilienhaus (im Baurecht) un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aesch BL
+1'750'000
+CHF
+Hochwertiges Einfamilienhaus an sonnige…
+Aesch BL, 4147 Aesch BL
+Array
+5.5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+160 m2
+An einer ruhigen Nebenstrasse entstehen zwei freistehende Einfamilienhäuser, welche durch den hochw…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aesch BL
+1'750'000
+CHF
+Hochwertiges Einfamilienhaus an sonnige…
+Aesch BL, 4147 Aesch BL
+Array
+5.5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+160 m2
+An einer ruhigen Nebenstrasse entstehen zwei freistehende Einfamilienhäuser, welche durch den hochw…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Gugger 2
+1'270'000
+CHF
+5.5-Zimmer Eck-Einfamilienhaus an famil…
+Im Gugger 2, 4106 Therwil
+Array
+5.5 Zimmer
+143 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+143 m2
+An sehr schöner, familienfreundlicher Lage Im Gugger in Therwil ? direkt angrenzend an die grossen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fichtenrain 94
+Preis auf Anfrage
+Schöne, grosszügige 145qm - Geschosswoh…
+Fichtenrain 94, 4106 Therwil
+Array
+4.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+145 m2
+Ein Leben zwischen der Hektik des Alltags und der Ruhe der Natur.
+Wohnen Sie gerne ruhig und doch …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Passwangstrasse 34
+1'230'000
+CHF
+Ein zentrales und ruhiges Reiheneckhaus…
+Passwangstrasse 34, 4153 Reinach BL
+Array
+4.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+4.5
+Wohnfläche
+150 m2
+Zum Verkauf steht ein 4.5-Zimmer Reiheneckhaus mit einem herrlich angelegten Garten in ruhiger und …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Talstrasse 69
+1'385'000
+CHF
+Letzte gehobene 4 1/2 Zimmer-WHG mit 30…
+Talstrasse 69, 4104 Oberwil BL
+Array
+4.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+123 m2
+Erstellt wurde ein grosszügiges  Dreifamilienhaus mit überdurchschnittlichem Ausbaustandard, in wel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Terrassenstrasse 29
+Preis auf Anfrage
+Arttikawohnung mit 5.5 Zimmern und 169q…
+Terrassenstrasse 29, 4144 Arlesheim
+Array
+5.5 Zimmer
+183 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+183 m2
+Wohnen an exklusiver Lage
+In einem der schönsten Gebiete an exklusiver Lage in Arlesheim entsteh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Terrassenstrasse 29
+Preis auf Anfrage
+Gartenwohnung mit Aussicht, 4.5 Zimmern…
+Terrassenstrasse 29, 4144 Arlesheim
+Array
+4.5 Zimmer
+181 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+181 m2
+In einem der schönsten Gebiete an exklusiver Lage in Arlesheim entstehen zwei hochwertige Mehrfamil…
 Teilen
 E-Mail
 Facebook

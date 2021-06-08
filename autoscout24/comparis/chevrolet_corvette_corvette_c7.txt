@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -596,47 +595,49 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Chevrolet
-(984)
+(997)
 Chevrolet Corvette C7 Occasion
-(74)
+(73)
 Chevrolet Corvette C7 Neuwagen
 (20)
 Chevrolet Corvette C7 Vorführwagen
 (3)
+Chevrolet Corvette C7 Oldtimer
+(3)
 Aufbau
 Chevrolet Corvette C7 Coupé
-(52)
+(51)
 Chevrolet Corvette C7 Cabrio
-(29)
+(28)
 Chevrolet Corvette C7 Limousine
-(15)
+(17)
 Motor
 Chevrolet Corvette C7 Benzin
-(93)
+(94)
 Typ
 Chevrolet Corvette
-(74)
+(73)
 Chevrolet Corvette C6
-(60)
+(61)
 Chevrolet Corvette C4
 (25)
 Modelle
 Chevrolet Camaro
-(136)
+(137)
 Chevrolet Captiva
-(63)
+(59)
 Chevrolet Aveo
-(54)
-Chevrolet Cruze
-(37)
+(57)
 Chevrolet Spark
-(37)
+(39)
+Chevrolet Cruze
+(38)
+Chevrolet Tahoe
+(35)
 Chevrolet Matiz
 (29)
-Chevrolet Tahoe
-(27)
 Chevrolet Trax
-(24)
+(23)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -647,11 +648,74 @@ drive-in.ch wird durchsucht ...
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
-19 Inserate
+20 Inserate
 12 Inserate
-70 Inserate
+69 Inserate
 0 Inserate
 2 Inserate
+Chevrolet Corvette Pace Car
+6.0
+07.06.2021
+Occasion
+01.1978, Automat, Benzin
+1 km, 240 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 54'000
+ab CHF 986 / Monat
+CHEVROLET CORVETTE 2LT Z51
+07.06.2021
+Neuwagen
+Automat, Benzin
+10 km, 502 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 124'800
+ab CHF 2'279 / Monat
+CHEVROLET CORVETTE C8 Stingray 2LT / Z51 Convertible
+06.06.2021
+Occasion
+07.2021, Automat, Benzin
+400 km, 502 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 136'900
+ab CHF 2'500 / Monat
+CHEVROLET CORVETTE C8 Coupe Stingray 3LT Z51
+04.06.2021
+Neuwagen
+Automat, Benzin
+25 km, 502 PS, Orange
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 139'990
+ab CHF 2'557 / Monat
+CHEVROLET CORVETTE C8
+3.0
+03.06.2021
+Occasion
+06.2021, Automat, Benzin
+1'900 km, 503 PS, Gelb
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 157'400
+ab CHF 2'875 / Monat
+CHEVROLET CORVETTE Stingray
+4.5
+03.06.2021
+Oldtimer
+03.1978, Automat, Benzin
+75'000 km, 220 PS, Rot
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 40'000
+ab CHF 731 / Monat
 Chevrolet Corvette Convertible 6.2 V8 Grand Sport
 4.5
 02.06.2021
@@ -694,68 +758,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 129'800
 ab CHF 2'371 / Monat
-Chevrolet Corvette C7
-1.5
-29.05.2021
-Oldtimer
-01.1973, Automat, Benzin bleifrei
-45'000 km, Rot
-CHF 63'000
-ab CHF 1'151 / Monat
-Chevrolet Corvette Stingray Coupé
-3.0
-28.05.2021
-Occasion
-12.2014, Manuell, Benzin
-30'500 km, 466 PS, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 59'900
-ab CHF 1'094 / Monat
-CHEVROLET Corvette Coupé Z06 3LZ Automatic
-4.5
-27.05.2021
-Occasion
-10.2016, Automat, Benzin
-48'700 km, 660 PS, Silber
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 79'900
-ab CHF 1'459 / Monat
-CHEVROLET Corvette Coupé Z06 3LZ Automatic
-4.0
-26.05.2021
-Occasion
-03.2017, Automat, Benzin
-35'000 km, 660 PS, Bordeaux
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 95'000
-ab CHF 1'735 / Monat
-CHEVROLET CORVETTE C 8
-3.0
-24.05.2021
-Occasion
-05.2021, Manuell, Benzin
-700 km, 503 PS, Rot
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 154'700
-ab CHF 2'825 / Monat
-Chevrolet Corvette C8 Stingray 3LT
-22.05.2021
-Neuwagen
-Automat, Benzin
-150 km, Weiss
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 135'900
-ab CHF 2'482 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2

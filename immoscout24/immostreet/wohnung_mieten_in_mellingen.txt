@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-mellingen/
 Title: Wohnung mieten in Mellingen - Immostreet.ch
-Description: Wohnung mieten in  Mellingen - Immostreet.ch: ImmoStreet.ch hat 30 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Mellingen - Immostreet.ch: ImmoStreet.ch hat 29 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-30 Resultate gefunden ·
+29 Resultate gefunden ·
 Wohnung mieten in Mellingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Farnstrasse 6
+2'550
+CHF
+/Monat
+Luxus pur
+Farnstrasse 6, 5507 Mellingen
+Array
+6 Zimmer
+220 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+6
+Wohnfläche
+220 m2
+Sehr grosse luxuriöse Attika-Wohnung mit grossem Balkon (12 m2) und einem kl. Balkon zum Schlafzimm…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Feldstrasse 20
 1'920
 CHF
@@ -249,26 +269,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Feldstrasse 4
-1'790
-CHF
-/Monat
-Eine ehrlich- und bodenständige Wohnung…
-Feldstrasse 4, 5507 Mellingen
-Array
-4.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-98 m2
-VORAB: Diese Wohnung besticht durch die klare, sachliche und geniale Raumaufteilung. Rückzugsmöglic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Mattenstrasse 1
 1'480
 CHF
@@ -360,24 +360,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Zeughausstrasse 3
-1'350
-CHF
-/Monat
-Schöne 3.5 ZGW in Mellingen
-Zeughausstrasse 3, 5507 Mellingen
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Per sofort oder nach Vereinbarung vermieten wir diese 3.5 Zimmerwohnung in Mellingen
-Wohnung ver…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Zeughausstrasse 1
 1'150
 CHF
@@ -390,7 +372,7 @@ Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
-Per 01.07.2021 oder nach Vereinbarung sucht diese gemütliche 2.5-Zimmerwohnung einen Nachmieter. Su…
+Super Lage: diverse Einkaufsmöglichkeiten, Schulen sowie Hallenbad in näherer Umgebung. Die Reuss s…
 Teilen
 E-Mail
 Facebook
@@ -507,6 +489,23 @@ Zimmer
 Wohnfläche
 61 m2
 Wir vermieten eine topmoderne 2½-Zimmer-Wohnung im höchsten Minergie-Standard:- Bodenheizung mit Fr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Geerig 6
+2'095
+CHF
+/Monat
+Tolle Familienwohnung!
+Im Geerig 6, 5507 Mellingen
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+An sehr ruhiger und grüner Lage im schönen Mellingen.Nur wenige Schritte von den Supermärkten entfe…
 Teilen
 E-Mail
 Facebook

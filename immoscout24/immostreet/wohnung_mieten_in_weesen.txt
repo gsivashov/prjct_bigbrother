@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-weesen/
 Title: Wohnung mieten in Weesen - Immostreet.ch
-Description: Wohnung mieten in  Weesen - Immostreet.ch: ImmoStreet.ch hat 14 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Weesen - Immostreet.ch: ImmoStreet.ch hat 13 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-14 Resultate gefunden ·
+13 Resultate gefunden ·
 Wohnung mieten in Weesen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,26 +131,6 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Höfenstrasse 14
-1'220
-CHF
-/Monat
-Nachmieter für 2-Zimmerwohnung gesucht
-Höfenstrasse 14, 8872 Weesen
-Array
-2 Zimmer
-57 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-57 m2
-Für meine wunderschöne Dachwohnung in Weesen suche ich per 1. Juli 2021, oder nach Vereinbarung ein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Hauptstrasse 15
 1'390
 CHF
@@ -175,7 +155,7 @@ Mülistrasse 8
 2'320
 CHF
 /Monat
-Traumhafte 5.5-Zimmer-Gartenwohnung in …
+Traumhafte 5.5-Zimmer-Gartenwohnung W2 …
 Mülistrasse 8, 8872 Weesen
 Array
 5.5 Zimmer

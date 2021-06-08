@@ -1,6 +1,6 @@
 URL: https://www.comparis.ch/carfinder/marktplatz/lexus/ux
 Title: Lexus UX – Preise vergleichen mit Comparis
-Description: Finden Sie unter 101 Lexus UX Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
+Description: Finden Sie unter 103 Lexus UX Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
 Suche
 Menü
@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -571,16 +570,16 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Lexus
-(581)
+(575)
 Lexus UX Occasion
-(44)
+(45)
+Lexus UX Neuwagen
+(29)
 Lexus UX Vorführwagen
 (29)
-Lexus UX Neuwagen
-(28)
 Aufbau
 Lexus UX Geländewagen
-(97)
+(99)
 Lexus UX Limousine
 (3)
 Motor
@@ -588,39 +587,79 @@ Lexus UX Elektroautos
 (22)
 Typ
 Lexus UX
-(101)
+(103)
 Modelle
 Lexus RX
-(199)
+(193)
 Lexus CT
-(73)
+(75)
 Lexus NX
-(69)
+(71)
 Lexus IS
-(58)
+(55)
 Lexus LC
-(24)
+(23)
 Lexus LS
 (22)
-Lexus RC
-(13)
 Lexus GS
+(13)
+Lexus RC
 (12)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
 Carweb wird durchsucht ...
 drive-in.ch wird durchsucht ...
-101 Treffer auf allen grossen Schweizer Auto-Portalen
-101 Treffer auf allen Portalen
+103 Treffer auf allen grossen Schweizer Auto-Portalen
+103 Treffer auf allen Portalen
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
-1 Inserat
+2 Inserate
 0 Inserate
-100 Inserate
+101 Inserate
 0 Inserate
 0 Inserate
+Lexus UX 250h Excellence
+05.06.2021
+Occasion
+06.2019, Automat, Benzin/Elektro
+9'000 km, 152 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 37'900
+ab CHF 692 / Monat
+LEXUS UX 250h Sakura
+04.06.2021
+Neuwagen
+Automat, Benzin/Elektro
+20 km, 184 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 51'400
+ab CHF 939 / Monat
+LEXUS UX 250h F-Sport
+04.06.2021
+Occasion
+09.2020, Automat, Benzin/Elektro
+20'104 km, 184 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 48'500
+ab CHF 886 / Monat
+LEXUS UX 250h Sakura
+03.06.2021
+Neuwagen
+Automat, Benzin/Elektro
+25 km, 184 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 51'400
+ab CHF 939 / Monat
 LEXUS UX 250h Sakura
 02.06.2021
 Neuwagen
@@ -641,16 +680,17 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 62'490
 ab CHF 1'141 / Monat
+Preisreduktion
 LEXUS UX 300e Comfort
 01.06.2021
-Neuwagen
-Elektroautos
-100 km, 204 PS, Weiss
+Occasion
+06.2021, Elektroautos
+500 km, 204 PS, Weiss
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 58'500
-ab CHF 1'068 / Monat
+CHF 55'800
+ab CHF 1'019 / Monat
 LEXUS UX 250h Comfort
 31.05.2021
 Vorführwagen
@@ -681,47 +721,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 51'400
 ab CHF 939 / Monat
-Preisreduktion
-LEXUS UX 250h Kuro
-28.05.2021
-Neuwagen
-Automat, Benzin/Elektro
-20 km, 184 PS, Anthrazit
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 48'900
-ab CHF 893 / Monat
-LEXUS UX 250h Sakura
-26.05.2021
-Neuwagen
-Automat, Benzin/Elektro
-20 km, 184 PS, Weiss
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 49'400
-ab CHF 902 / Monat
-LEXUS UX 300e Excellence Automatic
-22.05.2021
-Occasion
-03.2021, Elektroautos
-998 km, 204 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 55'700
-ab CHF 1'017 / Monat
-LEXUS UX 300e Excellence
-20.05.2021
-Vorführwagen
-03.2021, Automat, Elektroautos
-500 km, 204 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 63'500
-ab CHF 1'160 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-wittenbach/
 Title: Wohnung & Haus mieten in Wittenbach - Immostreet.ch
-Description: Wohnung & Haus mieten in  Wittenbach - Immostreet.ch: ImmoStreet.ch hat 62 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Wittenbach - Immostreet.ch: ImmoStreet.ch hat 60 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-62 Resultate gefunden ·
+60 Resultate gefunden ·
 Wohnung & Haus mieten in Wittenbach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,71 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+St. Gallerstrasse 1
+626
+CHF
+/Monat
+Befristete und preiswerte Wohnung gesuc…
+St. Gallerstrasse 1, 9300 Wittenbach
+Array
+2.5 Zimmer
+49 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+49 m2
+Etage
+Per sofort oder nach Vereinbarung vermieten wir an zentraler Lage diese hübsche 2.5-Zimmer-Wohnung.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grüntalstrasse 26b
+1'580
+CHF
+/Monat
+grosszügige 3.5-Zimmer-Dachwohnung
+Grüntalstrasse 26b, 9300 Wittenbach
+Array
+3.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+105 m2
+grosszügige Dachwohnung in unmittelbarer Nähe von
+- Schwimmbad
+- Kindergarten
+- Primarschule
+- …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oedenhofstrasse 23
+1'290
+CHF
+/Monat
+Charmante und sonnige 3.5 ZWG mit Balkon
+Oedenhofstrasse 23, 9300 Wittenbach
+Array
+3.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+70 m2
+Helle und sonnige Wohnung an ruhiger Wohnlage mit 6 Wohnpartien. Neuwertige Küche und Bad, pflegele…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Höhenstrasse, 4
 1'320
 CHF
@@ -334,27 +399,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-St. Gallerstrasse 1
-626
-CHF
-/Monat
-Befristete und preiswerte Wohnung gesuc…
-St. Gallerstrasse 1, 9300 Wittenbach
-Array
-2.5 Zimmer
-49 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-49 m2
-Etage
-Per sofort oder nach Vereinbarung vermieten wir an zentraler Lage diese hübsche 2.5-Zimmer-Wohnung.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Brugghalden 8
 1'150
 CHF
@@ -369,26 +413,6 @@ Zimmer
 3
 Etage
 Geniessen Sie die Vorteile des stadtnahen Lebens Ab sofort kann diese 3-Zimmer-Wohnung an der Grenz…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bruggwiesen 1
-1'470
-CHF
-/Monat
-MODERNES HEIM IN WITTENBACH
-Bruggwiesen 1, 9300 Wittenbach
-Array
-3.5 Zimmer
-81 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-81 m2
-Diese schöne 3.5-Zimmer-Wohnung befindet sich direkt am Ortseingang von Wittenbach. Sie verfügt übe…
 Teilen
 E-Mail
 Facebook
@@ -429,26 +453,6 @@ Zimmer
 Wohnfläche
 70 m2
 2.5 Zimmer70 qm Balkon 10 qmincl Nebenkosten3. StockBad/WC separatVerglaster BalkonLaminatsicht…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-St. Gallerstrasse 1
-909
-CHF
-/Monat
-Befristete Wohnung an zentraler Lage
-St. Gallerstrasse 1, 9300 Wittenbach
-Array
-4.5 Zimmer
-78 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-78 m2
-Per 1. Juni 2021 vermieten wir an zentraler Lage diese hübsche 4.5-Zimmer-Wohnung an eine Familie o…
 Teilen
 E-Mail
 Facebook
@@ -554,11 +558,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 4
+Seite 1 von 3
 1
 2
 3
-4
 nächste Seite
 ImmoStreet.ch
 Mieten

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/kanton-luzern/
 Title: Wohnung kaufen in Kanton Luzern - Immostreet.ch
-Description: Wohnung kaufen in Kanton Luzern - Immostreet.ch: ImmoStreet.ch hat 249 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Kanton Luzern - Immostreet.ch: ImmoStreet.ch hat 232 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-249 Resultate gefunden ·
+232 Resultate gefunden ·
 Wohnung kaufen in Kanton Luzern
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,137 +134,22 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-1'290'000
+Gotthardstrasse 47
+1'700'000
 CHF
-Feriengefühle erleben - residieren in S…
-Adresse auf Anfrage, 6354 Vitznau
+GRACE - Attraktive 4.5-Zimmer-Gartenwoh…
+Gotthardstrasse 47, 6045 Meggen
 Array
 4.5 Zimmer
-159 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Wohnfläche
-159 m2
-Schon die Fahrt nach Vitznau entlang des romantischen Vierwaldstättersees ist atemberaubend schön. …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-630'000
-CHF
-SONNIGER NEUBAU, MIT LOGGIA UND GARTEN
-Adresse auf Anfrage, 6276 Hohenrain
-Array
-3.5 Zimmer
-91 m2
+123 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
-Wohnfläche
-91 m2
-Die Wohnung befindet sich in einer mittelgrossen Überbauung und liegt im Erdgeschoss an der westlic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Langrütistrasse 9
-Preis auf Anfrage
-Exklusive Terrassenwohnung an besondere…
-Langrütistrasse 9, 6010 Kriens
-Array
-5.5 Zimmer
-169 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-169 m2
-Kriens ist die zweitgrösste Stadt im Kanton Luzern und liegt im Talboden eingebettet zwischen "sein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weingartenweg
-1'390'000
-CHF
-Wohnen an sonniger Lage mit viel Lebens…
-Weingartenweg, 6205 Eich
-Array
-4.5 Zimmer
-134 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
 4.5
 Wohnfläche
-134 m2
+123 m2
 Etage
-Objektbeschreibung:Eine wunderschöne renovierte 4.5-Zimmer-Maisonettewohnung mit eigenem Garten und…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Heuacher 11
-1'150'000
-CHF
-Wohnen mit einzigartiger Aussicht
-Heuacher 11, 6242 Wauwil
-Array
-4.5 Zimmer
-131 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-131 m2
-Etage
-4 ½ - Zimmer Attika-Wohnung131 m² Nettowohnfläche41 m² Garage20 m² Nebenräume35 m² Terrasse gedeckt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grisigenstrasse 29
-776'000
-CHF
-3 ½ ZI. WOHNUNG MIT ATEMBERAUBENDER WEI…
-Grisigenstrasse 29, 6048 Horw
-Array
-3.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-88 m2
-Suchen Sie eine moderne, hindernisfreie 3 ½ Zimmer Wohnung mit Aussicht auf das Horwer Seebecken? D…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kommetsrüti 41
-520'000
-CHF
-Ruhiges Wohnen an der Emme!
-Kommetsrüti 41, 6110 Wolhusen
-Array
-4.5 Zimmer
-119 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-119 m2
-Ruhiges Wohnen an der kleinen Emme!
-Ihre neue, lichtdurchflutete 4½-Zimmer-Wohnung in Wolhusen b…
+Stilvoll Leben - Luxuriös WohnenNur noch 3 Wohnungen verfügbar!!An schönster Lage und mitten in Meg…
 Teilen
 E-Mail
 Facebook
@@ -309,26 +194,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Feldbreiteweg 5
-630'000
-CHF
-FELD EINS: Letzte Verkaufsetappe
-Feldbreiteweg 5, 6032 Emmen
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Endlich Wohneigentum in Emmen - Letzte Verkaufsetappe
-Bezahlbarer, familienfreundlicher und ökol…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Rosenaustrasse 12
 730'000
 CHF
@@ -343,6 +208,26 @@ Zimmer
 4.5
 Wohnfläche
 95 m2
+Endlich Wohneigentum in Emmen - Letzte Verkaufsetappe
+Bezahlbarer, familienfreundlicher und ökol…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Feldbreiteweg 5
+630'000
+CHF
+FELD EINS: Letzte Verkaufsetappe
+Feldbreiteweg 5, 6032 Emmen
+Array
+3.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+83 m2
 Endlich Wohneigentum in Emmen - Letzte Verkaufsetappe
 Bezahlbarer, familienfreundlicher und ökol…
 Teilen
@@ -389,139 +274,256 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Hofmatt 2
-495'000
+Bahnhofstrasse 15
+490'000
 CHF
-HOF LUTHERN - Natürlich Zuhause
-Hofmatt 2, 6156 Luthern
+Sonnig * Zentral * Interessant
+Bahnhofstrasse 15, 6203 Sempach Station
+Array
+2.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+65 m2
+Wir verkaufen in kleinem Mehrfamilienhaus, Nahe Bahnhof, Bus, Einkaufsmöglichkeiten und Restaurant,…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zumhof-Terrasse 14
+Preis auf Anfrage
+7.5-Zimmer-Attika-Maisonettewohnung am …
+Zumhof-Terrasse 14, 6010 Kriens
+Array
+7.5 Zimmer
+194 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+7.5
+Wohnfläche
+194 m2
+Lage der LiegenschaftKriens, im Herzen der Schweiz, gehört zur Agglomeration von LuzernDie Gemeinde…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Weingartenweg
+1'390'000
+CHF
+Wohnen an sonniger Lage mit viel Lebens…
+Weingartenweg, 6205 Eich
 Array
 4.5 Zimmer
-126 m2
+134 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+4.5
+Wohnfläche
+134 m2
+Etage
+Objektbeschreibung:Eine wunderschöne renovierte 4.5-Zimmer-Maisonettewohnung mit eigenem Garten und…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Langrütistrasse 9
+Preis auf Anfrage
+Exklusive Terrassenwohnung an besondere…
+Langrütistrasse 9, 6010 Kriens
+Array
+5.5 Zimmer
+169 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+169 m2
+Kriens ist die zweitgrösste Stadt im Kanton Luzern und liegt im Talboden eingebettet zwischen "sein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Wohnen par excellence - auf höchstem Ni…
+Adresse auf Anfrage, 6006 Luzern
+Array
+7.5 Zimmer
+533 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+7.5
+Wohnfläche
+533 m2
+Etage
+Dieses exklusive Luxus-Paket besteht aus einem Maisonette-Penthouse mit über 400m2 Wohnfläche, weit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+4'500'000
+CHF
+Ihr neues Zuhause in der Altstadt von L…
+Adresse auf Anfrage, 6004 Luzern
+Array
+6.5 Zimmer
+245 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+6.5
+Wohnfläche
+245 m2
+Der exklusive Ausbau, ein grosszügiges Wohnkonzept und die sensationelle Lage in der Altstadt von L…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kommetsrüti 38
+950'000
+CHF
+Troumhafti 5 .5-Zimmer-Attikawohnig met…
+Kommetsrüti 38, 6110 Wolhusen
+Array
+5.5 Zimmer
+144 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+Wohnfläche
+144 m2
+Am Dorfrand, etwas erhöht, wo der Milan erhaben durch die Lüfte kreist, liegt die moderne, helle At…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+580'000
+CHF
+RUHIGE LAGE, ZENTRAL MIT EIGENEM GARTEN
+Adresse auf Anfrage, 6030 Ebikon
+Array
+3.5 Zimmer
+82 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+82 m2
+Die lichtdurchflutete Wohnung befindet sich in einem gepflegten und ruhigen Wohnquartier an zentral…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grosswilstrasse
+1'190'000
+CHF
+Obstberg Horw - Ein neues Lebensgefühl,…
+Grosswilstrasse, 6048 Horw
+Array
+4.5 Zimmer
+118 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-126 m2
+118 m2
+Noch gibt es sie, die etwas anderen Lagen und Gebäude. Auf Obstberg ob Horw. Mit Anschluss an alles…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Heuacher 11
+1'125'000
+CHF
+Wohnen mit einzigartiger Aussicht
+Heuacher 11, 6242 Wauwil
+Array
+5.5 Zimmer
+153 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+153 m2
+Etage
+5 ½ - Zimmer Garten-Maisonette-Wohnung153 m² Nettowohnfläche51 m² Garage
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberfeldmatt 3
+375'000
+CHF
+2 ½ Zimmer Dachwohnung in Root an ruhig…
+Oberfeldmatt 3, 6037 Root
+Array
+2.5 Zimmer
+60 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+2.5
+Wohnfläche
+60 m2
+Die 2 ½ Zimmer Dachwohnung ist Bestandteil eines Mehrfamilienhauses mit insgesamt neun Wohnungen.Di…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Würzenbachstrasse 57
+1'800'000
+CHF
+Ruhig gelegene Eigentumswohnung mit ele…
+Würzenbachstrasse 57, 6006 Luzern
+Array
+4.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+125 m2
+WÜRZENBACH - STADTLEBEN UND NAHERHOLUNGSGEBIET
+Die 4.5-Zimmerwohnung ist schön gelegen und biete…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hofmatt 2
+295'000
+CHF
+HOF LUTHERN - Natürlich Zuhause
+Hofmatt 2, 6156 Luthern
+Array
+2.5 Zimmer
+55 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+55 m2
 Etage
 Ländliches Wohnen - Luthern ist ein kleines Dorf im Kanton Luzern und ist in das idyllische Hügel- …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-3'300'000
-CHF
-Eigentumswohnung Neubau an exklusiver L…
-Adresse auf Anfrage, 6006 Luzern
-Array
-196 m2
-Objekttyp
-Wohnung, Flach
-Wohnfläche
-196 m2
-Stilvoller Ausbau - idyllische Lage - offene Küche - helle Räume - eigene Waschmaschine und Tumbler…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hubelstrasse 28
-968'000
-CHF
-Traumhafte Gartenwohnung mit idyllische…
-Hubelstrasse 28, 6010 Kriens
-Array
-4.5 Zimmer
-119 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-119 m2
-Etage
-Ich freue mich schon jetzt, Sie als meinen neuen Eigentümer willkommen zu heissen.Beschrieb:Ich bin…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Neubauwohnungen zwischen Sursee und Aar…
-Adresse auf Anfrage, 6235 Winikon
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-120 m2
-Etage
-Willkommen !Noch zwei Wohnungen im Angebot !Wohnen und geniessen in ruhiger, ländlicher Gegend.Kein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-950'000
-CHF
-Wohnen, wo andere Ferien machen
-Adresse auf Anfrage, 6353 Weggis
-Array
-4.5 Zimmer
-99 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-99 m2
-Der Standort der attraktiven 4.5-Zimmer-Eigentumswohnung ist kaum zu übertreffen: am Sonnenhang mit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Neubauwohnungen in Winikon /LU !
-Adresse auf Anfrage, 6210 Sursee
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-120 m2
-Etage
-Willkommen !Noch zwei Wohnungen im Angebot !Wohnen und geniessen in ruhiger, ländlicher Gegend.Kein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obere Wiese 14
-770'000
-CHF
-AgentSelly - Attika mit unverbaubarer S…
-Obere Wiese 14, 6020 Emmenbrücke
-Array
-3.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-98 m2
-Sie wohnen gerne ruhig, modern und lieben die Weitsicht? Dann ist diese 3.5-Zimmer-Attikawohnung Ih…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 13
+Seite 1 von 12
 1
 2
 3

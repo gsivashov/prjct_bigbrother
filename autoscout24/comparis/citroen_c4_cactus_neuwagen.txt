@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -603,45 +602,45 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Citroen
-(3'785)
+(3'772)
 Citroen C4 Cactus Occasion
-(80)
+(76)
 Citroen C4 Cactus Neuwagen
 (9)
 Citroen C4 Cactus Vorführwagen
 (8)
 Aufbau
 Citroen C4 Cactus Kombi
-(65)
+(62)
 Citroen C4 Cactus Geländewagen
-(27)
+(26)
 Citroen C4 Cactus Limousine
 (5)
 Motor
 Citroen C4 Cactus Benzin
-(82)
+(77)
 Citroen C4 Cactus Diesel
-(15)
+(16)
 Typ
 Citroen C4 Cactus
-(97)
+(93)
 Modelle
 Citroen C3
-(726)
+(716)
 Citroen C5
-(397)
+(402)
 Citroen C4
-(369)
+(368)
 Citroen Berlingo
 (342)
-Citroen C1
-(274)
 Citroen Jumper
-(269)
+(276)
+Citroen C1
+(272)
 Citroen Spacetourer
-(168)
+(170)
 Citroen Jumpy
-(166)
+(158)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -657,6 +656,7 @@ weniger
 8 Inserate
 0 Inserate
 0 Inserate
+Preisreduktion
 CITROEN C4 CACTUS 1.2 PureTech Feel
 01.06.2021
 Neuwagen
@@ -665,8 +665,8 @@ Manuell, Benzin
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 21'900
-ab CHF 400 / Monat
+CHF 19'900
+ab CHF 363 / Monat
 CITROEN C4 CACTUS 1.2 PureTech Shine
 29.04.2021
 Neuwagen

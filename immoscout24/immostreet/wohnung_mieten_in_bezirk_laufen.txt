@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/bezirk-laufen/
 Title: Wohnung mieten in Bezirk Laufen - Immostreet.ch
-Description: Wohnung mieten in Bezirk Laufen - Immostreet.ch: ImmoStreet.ch hat 81 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in Bezirk Laufen - Immostreet.ch: ImmoStreet.ch hat 76 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-81 Resultate gefunden ·
+76 Resultate gefunden ·
 Wohnung mieten in Bezirk Laufen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,48 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Laufenstrasse 38
+1'218
+CHF
+/Monat
+2.5-Zimmer-Dachwohnung
+Laufenstrasse 38, 4246 Wahlen b. Laufen
+Array
+2.5 Zimmer
+55 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+55 m2
+Wir vermieten diese 2.5-Zimmerwohnung nach Vereinbarung.
+- Platten- und Laminatboden
+- Badzimme…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bleihollenweg 22
+1'440
+CHF
+/Monat
+Wohnung mit schöner Aussicht
+Bleihollenweg 22, 4242 Laufen
+Array
+4 Zimmer
+92 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+92 m2
+Ruhig und im Grünen gelegen!Zur Wohnqualität:- Lichtdurchflutete, helle Zimmer- Gemütlicher Balkon …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Schliffweg 3
 1'100
 CHF
@@ -172,7 +214,7 @@ Viehmarktgasse 39
 2'230
 CHF
 /Monat
-Zu vermieten, Wohnung, 4242 Laufen, Ref…
+Wohnerlebnis auf zwei Etagen
 Viehmarktgasse 39, 4242 Laufen
 Array
 3 Zimmer
@@ -183,6 +225,7 @@ Zimmer
 3
 Wohnfläche
 138 m2
+ERSTVERMIETUNG -Geniessen Sie Ihr neues Zuhause im "Stedli" von Laufen.Diese attraktive 3.5-Zimmer-…
 Teilen
 E-Mail
 Facebook
@@ -271,7 +314,7 @@ Adresse auf Anfrage
 1'795
 CHF
 /Monat
-RUSTIKAL MIT VIELEN EXTRAS
+FÜR PFERDELIEBHABER - MIT STALLUNGEN!
 Adresse auf Anfrage, 4225 Brislach
 Array
 2.5 Zimmer
@@ -282,7 +325,7 @@ Zimmer
 2.5
 Wohnfläche
 80 m2
-Diese charmante Altbauwohnung überzeugt mit vielen Extras. So ist beispielsweise der geschichtsträc…
+Die Wohnung befindet sich in einem grossen Bauernhaus. Das Bauernhaus bietet zusätzlich Stallungen …
 Teilen
 E-Mail
 Facebook
@@ -361,24 +404,6 @@ Wohnung, Flach
 Zimmer
 3
 Sehr schöne 3-Zimmerwohnung per 1.9.2021 (oder auch schon ab 1.6.2021) zu vermietenSchönes Wohnzimm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Baselstrasse 1
-1'200
-CHF
-/Monat
-Top Wohnung mit 2 Balkonen
-Baselstrasse 1, 4253 Liesberg
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Etage
-Die wunderschöne und gemütliche 3.5 Zimmerwohnung mit 2 Balkonen, original Holzboden und Kamin, hei…
 Teilen
 E-Mail
 Facebook
@@ -504,27 +529,7 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Grubenstrasse 9
-2'110
-CHF
-/Monat
-Top Wohnkomfort mit Aussicht
-Grubenstrasse 9, 4222 Zwingen
-Array
-4.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-112 m2
-Die attraktive 4.5-Zimmer-Wohnung zeichnet sich durch ein durchdachtes Wohnkonzept aus. Die Wohnflä…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 5
+Seite 1 von 4
 1
 2
 3

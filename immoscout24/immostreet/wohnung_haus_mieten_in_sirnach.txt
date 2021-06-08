@@ -152,22 +152,39 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Sonnhaldenstrasse 14
-1'632
+Grünaustrasse 35
+1'190
 CHF
 /Monat
-Nachmieter für grosse 4.5 Zi.-Wohnung g…
-Sonnhaldenstrasse 14, 8370 Sirnach
+Hübsche Kleinwohnung mitten im Zentrum!
+Grünaustrasse 35, 8370 Sirnach
 Array
-4.5 Zimmer
-125 m2
+2.5 Zimmer
+54 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+2.5
 Wohnfläche
-125 m2
-Nachmieter gesucht für grosszügige 4 1/2 Zimmerwohnung- helles Wohnzimmer mit Schwedenofen, Platten…
+54 m2
+Suchen Sie nach einer zentral gelegenen Wohnung mit Autobahnanschluss in der Nähe? Dann haben wir d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Winterthurerstrasse 51
+520
+CHF
+/Monat
+Singlewohnung an guter Lage
+Winterthurerstrasse 51, 8370 Sirnach
+Array
+1 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Verkehrstechnisch hat Sirnach Anschluss an die Autobahn A1 nach Zürich und St. Gallen. Ebenfalls be…
 Teilen
 E-Mail
 Facebook
@@ -433,27 +450,6 @@ Wohnung, Flach
 Zimmer
 3
 Schöne und zentrale 3 Zimmerwohnung im 1 OG.Die Wohnung befindet sich im Herzen von Sirnach, an zen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Winterthurerstrasse 48a
-1'650
-CHF
-/Monat
-grosszügige, moderne 3.5-Zimmer-Wohnung…
-Winterthurerstrasse 48a, 8370 Sirnach
-Array
-3.5 Zimmer
-82 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-82 m2
-SIRNACH TG
-Sirnach ist eine attraktive Gemeinde im südlichen Thurgau mit rund 7'000 Einwohnern. Si…
 Teilen
 E-Mail
 Facebook

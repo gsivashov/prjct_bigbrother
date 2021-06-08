@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-sevelen/
 Title: Wohnungen & Häuser mieten in Sevelen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Sevelen - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Sevelen - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-18 Resultate gefunden ·
+19 Resultate gefunden ·
 Wohnungen & Häuser mieten in Sevelen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,43 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Guschastrasse 19
+1'480
+CHF
+/Monat
+Ländliche Lage mit Weitblick
+Guschastrasse 19, 9475 Sevelen
+Array
+3.5 Zimmer
+69 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+69 m2
+Geniessen sie den herrlichen Panoramablick und die Aussicht ins Grüne. Die Dachwohnung befindet sic…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gärtli 5
+1'082
+CHF
+/Monat
+Renovierte 4.5 Zimmerwohnung
+Gärtli 5, 9475 Sevelen
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Frisch renovierte, grosszügige 4.5 Zimmerwohnung in ruhiger Lage. Für Familien sehr gut geeignet. G…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Alvierstr. 13
 1'080
 CHF
@@ -347,27 +384,6 @@ Wohnfläche
 121 m2
 Etage
 Suchen Sie ein neues Zuhause an ruhiger aber zentraler Lage?Die Wohnung zeichnet sich durch folgend…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Veltur 14e
-1'300
-CHF
-/Monat
-Hier werden Ihre Wohnträume wahr!
-Veltur 14e, 9475 Sevelen
-Array
-2.5 Zimmer
-53 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-53 m2
-Etage
-Die 2.5 Zimmer-Wohnung im hohen Ausbaustandard befindet sich im Erdgeschoss. Wohnen in naher Natur…
 Teilen
 E-Mail
 Facebook

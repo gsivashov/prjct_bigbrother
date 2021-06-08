@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -147,13 +146,13 @@ Alle Automarken
 Ssang Yong
 Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseite zu gewährleisten.
 Ssang Yong Automarkt Schweiz
-188 Occasionen
+187 Occasionen
 18 Neuwagen
 19 Vorführwagen
 Ssang Yong Actyon - 9 Inserate im Automarkt - Ab CHF 2'900
-Ssang Yong Kyron - 15 Inserate im Automarkt - Ab CHF 500
+Ssang Yong Kyron - 13 Inserate im Automarkt - Ab CHF 500
 Ssang Yong Modelle
-Ssang Yong Korando - 81 Inserate anzeigen
+Ssang Yong Korando - 82 Inserate anzeigen
 SSANGYONG Korando 2.0 e-XDI Sapphire 4WD Automatic
 Occasion
 01.2013
@@ -163,7 +162,17 @@ Mehr
 5.5
 CHF
 5'900
-02.06.2021
+05.06.2021
+SSANGYONG Korando 2.2 e-XDi Sapphire 4WD
+Occasion
+09.2017
+14'000 km
+178 PS
+Mehr
+5.0
+CHF
+17'771
+03.06.2021
 SSANGYONG Korando 2.0 e-XDI Swiss Limited Edition 4WD
 Occasion
 01.2012
@@ -174,17 +183,7 @@ Mehr
 CHF
 9'900
 01.06.2021
-SSANGYONG Korando 2.0 e-XDI Eleven Edition 4WD Automatic
-Occasion
-09.2012
-136'000 km
-175 PS
-Mehr
-6.0
-CHF
-3'500
-31.05.2021
-Ssang Yong Kyron - 15 Inserate anzeigen
+Ssang Yong Kyron - 13 Inserate anzeigen
 SSANGYONG Kyron 200 Xdi 4WD Comfort Automatic
 Occasion
 11.2008
@@ -233,31 +232,41 @@ Occasion
 241'500 km
 165 PS
 Mehr
-5.0
+5.5
 CHF
-1'990
-01.06.2021
-SSANGYONG Rexton RX200 e-XDi Sapphire 4WD Automatic
+1'890
+07.06.2021
+SSANGYONG Rexton RX 270 XVT Sapphire Automatic
 Occasion
-08.2016
-46'200 km
-155 PS
+09.2011
+220'000 km
+180 PS
+Mehr
+6.0
+CHF
+4'300
+04.06.2021
+SSANGYONG Rexton RX 270 Xdi Deluxe Automatic
+Occasion
+08.2008
+205'000 km
+165 PS
+Mehr
+6.0
+CHF
+2'850
+03.06.2021
+Ssang Yong Tivoli - 49 Inserate anzeigen
+SSANGYONG Tivoli 1.6 eXDi Sapphire 4WD
+Occasion
+01.2018
+21'400 km
+115 PS
 Mehr
 5.0
 CHF
-19'800
-01.06.2021
-SSANGYONG Rexton RX220 Quartz 4WD
-Occasion
-11.2018
-30'900 km
-181 PS
-Mehr
-5.0
-CHF
-31'900
-22.05.2021
-Ssang Yong Tivoli - 50 Inserate anzeigen
+16'980
+05.06.2021
 SSANGYONG Tivoli 1.5 T GDI Onyx 4WD
 Vorführwagen
 11.2019
@@ -278,16 +287,6 @@ Mehr
 CHF
 12'800
 15.05.2021
-SSANGYONG Tivoli 1.6 eXDi Quartz 2WD
-Occasion
-12.2015
-52'000 km
-115 PS
-Mehr
-5.0
-CHF
-9'900
-10.05.2021
 Ssang Yong XLV - 11 Inserate anzeigen
 SSANGYONG XLV 1.6 eXDi Quartz 4WD
 Occasion

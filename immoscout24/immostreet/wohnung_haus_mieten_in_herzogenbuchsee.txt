@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-herzogenbuchsee/
 Title: Wohnung & Haus mieten in Herzogenbuchsee - Immostreet.ch
-Description: Wohnung & Haus mieten in  Herzogenbuchsee - Immostreet.ch: ImmoStreet.ch hat 46 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Herzogenbuchsee - Immostreet.ch: ImmoStreet.ch hat 51 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-46 Resultate gefunden ·
+51 Resultate gefunden ·
 Wohnung & Haus mieten in Herzogenbuchsee
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,157 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Sägeweg 10
+1'620
+CHF
+/Monat
+Schöne und helle Neubauwohnung
+Sägeweg 10, 3360 Herzogenbuchsee
+Array
+3.5 Zimmer
+91 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+91 m2
+Ihre LagevorteileDie Liegenschaft Sägeweg 4, 6, 8 und 10 liegt in einer ruhigen Lage nähe des Dorfk…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'400
+CHF
+/Monat
+HELL UND GROSSZÜGIG
+Adresse auf Anfrage, 3360 Herzogenbuchsee
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Diese schöne 3.5-Zimmer-Wohnung liegt in Herzogenbuchsee. Die Wohnung befindet sich in einem neuwer…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'680
+CHF
+/Monat
+Kleines Vintage Häuschen mit Garten
+Adresse auf Anfrage, 3360 Herzogenbuchsee
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+3.5
+Kleines herziges Vintage - Häuschen für Liebhaber mit Garten und unverbaubarem Fernblick. Zentral u…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+580
+CHF
+/Monat
+Haus mit vielen Möglichkeiten, 18 min z…
+Adresse auf Anfrage, 3360 Herzogenbuchsee
+Array
+Objekttyp
+Wohnung, Einzelzimmer
+Ideal für WG (nicht nur für Studenten): Haus mit mindestens 5 einzeln abschliessbaren Zimmern, Gart…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Herzogenbuchsee
+2'600
+CHF
+/Monat
+Zu vermieten ein nicht freistehendes Ha…
+Herzogenbuchsee, 3360 Herzogenbuchsee
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Bei NewHome mehr Infos
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Amelie Moser-Strasse 2
+1'755
+CHF
+/Monat
+Schöne 4.5-Zimmer-Wohnung im 1. OG
+Amelie Moser-Strasse 2, 3360 Herzogenbuchsee
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+110 m2
+Wir vermieten per 1. September 2021 oder nach Vereinbarung eine schöne, helle 4.5-Zimmer-Wohnung im…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fabrikstrasse 9A
+1'170
+CHF
+/Monat
+Gemütliche 3.5-Zimmerwohnung zu vermiet…
+Fabrikstrasse 9A, 3360 Herzogenbuchsee
+Array
+3.5 Zimmer
+64 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+64 m2
+Wir vermieten per 1. September 2021 eine gemütliche 3.5-Zimmerwohnung im 2. OG links an der Fabriks…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lagerstrasse 18
+1'850
+CHF
+/Monat
+Wunderschöne, helle 4.5-Zimmerwohnung m…
+Lagerstrasse 18, 3360 Herzogenbuchsee
+Array
+4.5 Zimmer
+122 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+122 m2
+Wir vermieten eine wunderschöne, stilvolle, helle und zentral gelegene 4.5-Zimmer Wohnung mit Chemi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Sternenstrasse 4A
 1'500
 CHF
@@ -225,26 +376,6 @@ Zimmer
 Wohnfläche
 126 m2
 Das ansprechende Preis-Leistungsverhältnis in Verbindung mit modernem Wohnkomfort macht Ihr neues Z…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lagerstrasse 18
-1'850
-CHF
-/Monat
-Wunderschöne, helle 4.5-Zimmerwohnung m…
-Lagerstrasse 18, 3360 Herzogenbuchsee
-Array
-4.5 Zimmer
-122 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-122 m2
-Wir vermieten eine wunderschöne, stilvolle, helle und zentral gelegene 4.5-Zimmer Wohnung mit Chemi…
 Teilen
 E-Mail
 Facebook
@@ -329,26 +460,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'400
-CHF
-/Monat
-HELL UND GROSSZÜGIG
-Adresse auf Anfrage, 3360 Herzogenbuchsee
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Diese schöne 3.5-Zimmer-Wohnung liegt in Herzogenbuchsee. Die Wohnung befindet sich in einem neuwer…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Kappeliweg 18
 1'250
 CHF
@@ -423,123 +534,6 @@ Wohnung, Flach
 Wohnfläche
 58 m2
 Wir vermieten per sofort oder nach Vereinbarung eine schöne, grosszügige 2 1/2-Zimmerwohnung im 1. …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'680
-CHF
-/Monat
-4 1/2 Zimmer Wohnung in 2 Familienhaus
-Adresse auf Anfrage, 3360 Herzogenbuchsee
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Ab August oder nach Vereinbarung;4 1/2 Zimmer Wohnung in Herzogenbuchsee5 Min. zum Bahnhof OG und D…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Vogelsangweg 35
-1'410
-CHF
-/Monat
-WOHNEN MIT HERRLICHER WEITSICHT
-Vogelsangweg 35, 3360 Herzogenbuchsee
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-Wir vermieten per 1. Juni 2021 oder nach Vereinbarung diese grosszügige 3.5-Zimmer-Wohnung im 4. Ob…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Herzogenbuchsee
-1'410
-CHF
-/Monat
-Nachmieter gesucht
-Herzogenbuchsee, 3360 Herzogenbuchsee
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-Nachmieter gesucht ab 01.06.2021 für eine schöne, moderne, zentrale 3.5 Zimmer Wohnung in 3360 Her…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sägeweg 8
-1'640
-CHF
-/Monat
-Gartenwohnung an ruhiger Lage
-Sägeweg 8, 3360 Herzogenbuchsee
-Array
-3.5 Zimmer
-93 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-93 m2
-Ihre LagevorteileDie Liegenschaft Sägeweg 4, 6, 8 und 10 liegt in einer ruhigen Lage nähe des Dorfk…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Felderhofstr. 26A
-1'195
-CHF
-/Monat
-*Frühlingsaktion* - Wir beschenken Sie!
-Felderhofstr. 26A, 3360 Herzogenbuchsee
-Array
-3 Zimmer
-70 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3
-Wohnfläche
-70 m2
-Wir schenken Ihnen den ersten Netto-Mietzins!Sind Sie auf der Suche nach einer gemütlichen Dachwohn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Felderhofstr. 24A
-1'112
-CHF
-/Monat
-*Frühlingsaktion* - Profitieren Sie jet…
-Felderhofstr. 24A, 3360 Herzogenbuchsee
-Array
-3 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-70 m2
-Wir schenken Ihnen den ersten Netto-Mietzins!Suchen Sie eine im Jahr 2011 renovierte Wohnung mit ei…
 Teilen
 E-Mail
 Facebook

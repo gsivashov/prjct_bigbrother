@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-interlakenoberhasli/
 Title: Wohnung & Haus kaufen in Region Interlaken Oberhasli - Immostreet.ch
-Description: Wohnung & Haus kaufen in Region Interlaken Oberhasli - Immostreet.ch: ImmoStreet.ch hat 66 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden
+Description: Wohnung & Haus kaufen in Region Interlaken Oberhasli - Immostreet.ch: ImmoStreet.ch hat 69 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-66 Resultate gefunden ·
+69 Resultate gefunden ·
 Wohnung & Haus kaufen in Region Interlaken Oberhasli
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,103 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Brünigstrasse 50
+598'000
+CHF
+Heimatgefühl auf zwei Etagen verteilt
+Brünigstrasse 50, 3860 Meiringen
+Array
+4.5 Zimmer
+134 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+134 m2
+Ein positives Gefühl von Wärme und Heimeligkeit kommt auf Sie zu, jedes Mal wenn Sie diese wunderba…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mauren 814
+700'000
+CHF
+Grosszügige 5.5 Zimmer Dachwohnung in B…
+Mauren 814, 3803 Beatenberg
+Array
+5.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+5.5
+Wohnfläche
+145 m2
+Etage
+Diese grosszügige 5.5 Zimmer Dachwohnung verfügt über ein Badezimmer, ein Gäste-WC, ein Cheminée un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'200'000
+CHF
+Ihr zukünftiger Wohn(T)raum auf 265 m²!
+Adresse auf Anfrage, 3855 Brienz BE
+Array
+6.5 Zimmer
+265 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+6.5
+Wohnfläche
+265 m2
+Etage
+Wo vormals frühmorgens die Maschinen gestartet wurden und viel Schönes aus Holz entstand, das könnt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rothornstrasse 16
+495'000
+CHF
+zentrumsnahe 4.5-Zimmer Wohnung mit Bal…
+Rothornstrasse 16, 3800 Interlaken
+Array
+4.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+80 m2
+Die 4.5-Zimmer Wohnung befindet sich in einem Mehrfamilienhaus im 1. Stock welches in den 1970er Ja…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Horlauenenstrasse 4
+870'000
+CHF
+Einfamilienhaus in naturverbundener Lag…
+Horlauenenstrasse 4, 3816 Burglauenen
+Array
+4.5 Zimmer
+168 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+168 m2
+Das Einfamilienhaus wurde im Jahr 1911 erstellt und in den letzten 10 Jahren renoviert und saniert.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Grundstrasse 5
 3'950'000
 CHF
@@ -332,13 +429,13 @@ CHF
 Am Fussweg, 3818 Grindelwald
 Array
 4.5 Zimmer
-154 m2
+129 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-154 m2
+129 m2
 Die Überbauung Bergwelt liegt im Zentrum von Grindelwald, leicht oberhalb der Dorfstrasse am "Fussw…
 Teilen
 E-Mail
@@ -433,101 +530,6 @@ Wohnfläche
 130 m2
 Dieses Appartement
 Diese Penthouse-Wohnung verfügt über drei Schlafzimmer, zwei Badezimmer (eine…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schiltwaldweg, 3823 Wengen
-1'500'000
-CHF
-Ein neu zu errichtendes Apartment mit d…
-Schiltwaldweg, 3823 Wengen, 3823 Wengen
-Array
-4.5 Zimmer
-139 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-139 m2
-Dieses Appartement
-Die Wohnung im ersten Stock hat drei Schlafzimmer und zwei Bäder. (eines davo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schulhausgasse 3
-700'000
-CHF
-Zu verkaufen 4.5-Zimmer Gartenwohnung i…
-Schulhausgasse 3, 3860 Meiringen
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Zu verkaufen 4.5-Zimmer Gartenwohnung in MeiringenDas Wohnquartier Adler befindet sich mitten im Do…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Landhausgasse 6
-740'000
-CHF
-Zu verkaufen 4.5-Zimmer Gartenwohnung i…
-Landhausgasse 6, 3860 Meiringen
-Array
-4.5 Zimmer
-115 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-115 m2
-Etage
-Zu verkaufen 4.5-Zimmer Gartenwohnung in MeiringenDas Wohnquartier Adler befindet sich mitten im Do…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sandmatten 10
-450'000
-CHF
-Gartenwohnung und Wintergarten - was wi…
-Sandmatten 10, 3860 Meiringen
-Array
-4.5 Zimmer
-96 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-96 m2
-Die gepflegte 4.5-Zimmer-Gartenwohnung ist Teil eines überschaubaren Mehrfamilienhauses mit drei Pa…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wytimatta 204b
-790'000
-CHF
-4-Zimmerwohnung, Birkenhaus
-Wytimatta 204b, 3822 Lauterbrunnen
-Array
-4 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Etage
-ObjektbeschreibungDie geräumige 4-Zimmerwohnung befindet sich im Erdgeschoss des Birkenhauses. Nebs…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-kreuzlingen/
 Title: Wohnung kaufen in Bezirk Kreuzlingen - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Kreuzlingen - Immostreet.ch: ImmoStreet.ch hat 66 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Kreuzlingen - Immostreet.ch: ImmoStreet.ch hat 62 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-66 Resultate gefunden ·
+62 Resultate gefunden ·
 Wohnung kaufen in Bezirk Kreuzlingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,22 +134,136 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Sägestrasse 1
-995'000
+Gaissbergstrasse
+836'000
 CHF
-Ein Traum für Familien
-Sägestrasse 1, 8274 Tägerwilen
+Ruhig gelegenes Gartenparadies
+Gaissbergstrasse, 8280 Kreuzlingen
 Array
-5.5 Zimmer
-151 m2
+5 Zimmer
+160 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-5.5
+5
 Wohnfläche
-151 m2
+160 m2
+Sonnige Parterrewohnung mit riesigem GartenDie gepflegte 4.5-Zimmer-Gartenwohnung ist Teil eines an…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+4'980'000
+CHF
+Zweistöckiges Luxus-Penthouse mit Seesi…
+Adresse auf Anfrage, 8280 Kreuzlingen
+Array
+10 Zimmer
+458 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+10
+Wohnfläche
+458 m2
 Etage
-Traumhaft ruhig und seenahFamilien mit Kindern bekommen die Vorteile einer Erdgeschosswohnung späte…
+Ob Sie stilvoll den Ruhestand geniessen oder in idyllischem Umfeld von zu Hause aus arbeiten wollen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bergerstrasse 1
+710'000
+CHF
+Neue 4.5-Zi.-Wohnung mit nach Süden aus…
+Bergerstrasse 1, 8573 Altishausen
+Array
+4.5 Zimmer
+137 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+137 m2
+137.8 m2 grosse 4.5-Zi.-Wohnung mit praktischem GrundrissAuf einem schönen und flachen Grundstück i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bergerstrasse 1
+595'000
+CHF
+Neue 3.5-Zi.-Dachwohnung an begehrter W…
+Bergerstrasse 1, 8573 Altishausen
+Array
+3.5 Zimmer
+111 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+111 m2
+Wunderbare 3.5-Zi.-Dachwohnung mit 111.6 m2Auf einem schönen und flachen Grundstück im Ortsteil Alt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bergerstrasse 1
+760'000
+CHF
+Neubau: Grosszügige 4.5-Zi.-Wohnung im …
+Bergerstrasse 1, 8573 Altishausen
+Array
+4.5 Zimmer
+137 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+137 m2
+Neubau: Grosszügige 4.5-Zi.-Wohnung im Erdgeschoss mit 137.8 m2Auf einem schönen und flachen Grunds…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bergerstrasse 1
+610'000
+CHF
+Neue 3.5-Zi.-Eigentumswohnung im Erdges…
+Bergerstrasse 1, 8573 Altishausen
+Array
+3.5 Zimmer
+111 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+111 m2
+3.5-Zi.-Eigentumswohnung im Erdgeschoss mit 111.6 m2Auf einem schönen und flachen Grundstück im Ort…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bergerstrasse 1
+740'000
+CHF
+Neue 4.5-Zi.-Dachwohnung mit schöner Lo…
+Bergerstrasse 1, 8573 Altishausen
+Array
+4.5 Zimmer
+137 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+137 m2
+Neue 4.5-Zi.-Dachwohnung an gut besonnter WohnlageAuf einem schönen und flachen Grundstück im Ortst…
 Teilen
 E-Mail
 Facebook
@@ -208,7 +322,7 @@ Zimmer
 Wohnfläche
 120 m2
 Etage
-Traumhaft ruhig und seenahFamilien mit kleinen Kindern, Besitzer von Haustieren und Senioren schätz…
+Traumhaft ruhig und seenahFamilien mit Kind, Besitzer von Haustieren und Senioren schätzen es, wenn…
 Teilen
 E-Mail
 Facebook
@@ -328,7 +442,7 @@ Zimmer
 Wohnfläche
 151 m2
 Etage
-Traumhaft ruhig und seenahFamilien mit Kindern bekommen die Vorteile einer Erdgeschosswohnung späte…
+Traumhaft ruhig und seenahFamilien mit kleinen Kindern, Besitzer von Haustieren und Senioren schätz…
 Teilen
 E-Mail
 Facebook
@@ -392,41 +506,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bergerstrasse 1
-760'000
-CHF
-Neubau: Grosszügige 4.5-Zi.-Wohnung im …
-Bergerstrasse 1, 8573 Altishausen
-Array
-4.5 Zimmer
-137 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-137 m2
-Neubau: Grosszügige 4.5-Zi.-Wohnung im Erdgeschoss mit 137.8 m2Auf einem schönen und flachen Grunds…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 119
-515'000
-CHF
-Top Gartenwohnung mit zwei Sitzplätzen
-Hauptstrasse 119, 8585 Herrenhof
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Diese helle 4.5 Zimmer-Gartenwohnung in Herrenhof (Gde. Langrickenbach TG) besticht durch ihre beid…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Haldenstrasse 7
 970'000
 CHF
@@ -440,80 +519,6 @@ Zimmer
 4.5
 Etage
 Stilvoller Grundriss + RaumgestaltungDas überschaubare Mehrfamilienhaus mit fünf eleganten Wohnunge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Haldenstrasse 7
-Preis auf Anfrage
-Zeitlos und elegant - Dachattika mit Te…
-Haldenstrasse 7, 8280 Kreuzlingen
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Etage
-Stilvoller Grundriss + RaumgestaltungDas überschaubare Mehrfamilienhaus mit fünf eleganten Wohnunge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Talackerstrasse 5 und 7
-720'000
-CHF
-Moderne Wohnung mit grosszügigem Balkon…
-Talackerstrasse 5 und 7, 8274 Tägerwilen
-Array
-4.5 Zimmer
-102 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-102 m2
-Diese Wohnung wird Sie begeistern. Hier nur einige Punkte was diese Wohnung zu Ihrem optimalen Zuha…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Talackerstrasse 5 und 7
-615'000
-CHF
-Moderne Wohnung mit grosszügigem Balkon…
-Talackerstrasse 5 und 7, 8274 Tägerwilen
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-Diese Wohnung wird Sie begeistern. Hier nur einige Punkte was diese Wohnung zu Ihrem optimalen Zuha…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luggenacker 6
-592'000
-CHF
-4.5 Zimmer-Wohnung mit geschicktem Grun…
-Luggenacker 6, 8596 Scherzingen
-Array
-4.5 Zimmer
-103 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-103 m2
-Etage
-Mit diesen Punkten überzeugt die Wohnung: + ruhige Lage in Seenähe + Geschickter Grundriss + Überd…
 Teilen
 E-Mail
 Facebook

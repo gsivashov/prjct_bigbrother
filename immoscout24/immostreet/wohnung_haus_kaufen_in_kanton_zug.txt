@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/kanton-zug/
 Title: Wohnung & Haus kaufen in Kanton Zug - Immostreet.ch
-Description: Wohnung & Haus kaufen in Kanton Zug - Immostreet.ch: ImmoStreet.ch hat 44 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Kanton Zug - Immostreet.ch: ImmoStreet.ch hat 46 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-44 Resultate gefunden ·
+46 Resultate gefunden ·
 Wohnung & Haus kaufen in Kanton Zug
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,24 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Blasenbergstrasse 18
+Preis auf Anfrage
+Letze 4.5 Zimmer Wohnung im Projekt Röt…
+Blasenbergstrasse 18, 6300 Zug
+Array
+4.5 Zimmer
+174 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+174 m2
+Wohnen am schönsten Ort in Zug - RötelbergInmitten einer herrlichen, unverbaubaren Landschaft thron…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 2'390'000
 CHF
@@ -171,22 +189,114 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Hauptstrasse 56
-1'950'000
-CHF
-Moderne 4.5-Zimmer-Wohnung mit wunderba…
-Hauptstrasse 56, 6315 Oberägeri
+Dorfring
+Preis auf Anfrage
+3.5-/4.5-Zimmer-Wohnungen - beste Lage …
+Dorfring, 6319 Allenwinden
 Array
 4.5 Zimmer
-134 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Etage
+Gemütlich und gut eingeteilte Wohnungen, eingebettet in einem beliebten, ruhigen (parkähnliche Umge…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Maihofweg
+1'980'000
+CHF
+5.5 Zi Dach-Maisonette mit 180° Panoram…
+Maihofweg, 6331 Hünenberg
+Array
+5.5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+5.5
+Wohnfläche
+160 m2
+Etage
+5.5 Zimmer Dach-Maisonette Wohnung / 5.5 Rooms Roof-Maisonette ApartmentBeschrieb / Description…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blasenbergstrasse 18
+Preis auf Anfrage
+Pure Lebensqualität - 3.5 Zimmer Appart…
+Blasenbergstrasse 18, 6300 Zug
+Array
+3.5 Zimmer
+155 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+155 m2
+Wohnen am schönsten Ort in Zug - RötelbergInmitten einer herrlichen, unverbaubaren Landschaft thron…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Räbmatt 32
+2'580'000
+CHF
+5.5-Zi.-Attika inkl. Gartenstudio an un…
+Räbmatt 32, 6317 Oberwil b. Zug
+Array
+5.5 Zimmer
+170 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+170 m2
+Rarität in Oberwil / Zug: An herrlicher, unverbaubarer Süd-West-Aussichtslage mit Blick auf den Zug…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Chamerstrasse 24
+2'380'000
+CHF
+Charmante Gartenwohnung im Zentrum von …
+Chamerstrasse 24, 6300 Zug
+Array
+4.5 Zimmer
+133 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-134 m2
+133 m2
+Eine Oase mitten in ZugNur wenige Gehminuten vom Stadtzentrum und Bahnof entfernt verkaufen wir die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hof Himmelrich
+1'300'000
+CHF
+4.5-Zimmer Familienwohnung
+Hof Himmelrich, 6340 Baar
+Array
+4.5 Zimmer
+117 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+117 m2
 Etage
-Moderne Eigentumswohnungen auf Augenhöhe mit der Natur und dem Ägerisee zu FüssenDas Neubauprojekt …
+An ruhiger, sonniger und sehr kinderfreundlicher Lage im bevorzugten Hof Himmelrich-Quartier, Nähe …
 Teilen
 E-Mail
 Facebook
@@ -419,124 +529,6 @@ Wohnfläche
 400 m2
 Etage
 Eleganz & Luxus. Mit diesen Highlights besticht dieses exklusive Angebot:Untergeschoss:- Tiefga…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-3'100'000
-CHF
-On top of Zug - The place to be
-Adresse auf Anfrage, 6300 Zug
-Array
-3.5 Zimmer
-152 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-152 m2
-Etage
-An einzigartiger Lage oberhalb der Stadt Zug befindet sich diese 3.5 Zimmer Wohnung mit atemberaube…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Artherstrasse 45D
-1'780'000
-CHF
-Schöne Dachwohnung mit fantastischer Se…
-Artherstrasse 45D, 6318 Walchwil
-Array
-3.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-120 m2
-Etage
-Die 3.5-Zimmer-Dachwohnung befindet sich in einem 4-Familienhaus und liegt in unmittelbarer Seenähe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Altgasshof
-Preis auf Anfrage
-IM BIETERVERFAHREN: 4-Zimmer Garten-Mai…
-Altgasshof, 6340 Baar
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Duplex, Maisonette
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Etage
-Die Maisonette-Gartenwohnung
-Angrenzend an die Landwirtschaftszone und trotzdem verkehrstechn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-PRIVILEGIERTE LAGE MIT EINMALIGER SEESI…
-Adresse auf Anfrage, 6333 Hünenberg See
-Array
-6.5 Zimmer
-211 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-211 m2
-Ein einmaliges Angebot an bester Lage in der Gemeinde mit viel Privatsphäre, Ruhe, unverbaubarer Se…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'490'000
-CHF
-NEUBAUWOHNUNGEN - MAIHOF RESIDENZEN: Mo…
-Adresse auf Anfrage, 6331 Hünenberg
-Array
-5.5 Zimmer
-177 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-177 m2
-Etage
-Neubau MAIHOF RESIDENZEN: Moderne, helle und grossausFinden Sie Ihr neues Zuhause an besonnter Hang…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schwerzelweg 22
-2'250'000
-CHF
-attraktive Attika-Terrassenwohnung mit …
-Schwerzelweg 22, 6315 Oberägeri
-Array
-3.5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-160 m2
-Etage
-Im schönen Oberägeri (Kanton Zug) verkaufen wir diese 3½-Zimmer-Attika-Terrassenwohnung an ruhiger …
 Teilen
 E-Mail
 Facebook

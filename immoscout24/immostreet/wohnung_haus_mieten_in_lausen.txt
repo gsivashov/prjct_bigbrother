@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-lausen/
 Title: Wohnung & Haus mieten in Lausen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Lausen - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Lausen - Immostreet.ch: ImmoStreet.ch hat 30 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-32 Resultate gefunden ·
+30 Resultate gefunden ·
 Wohnung & Haus mieten in Lausen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,16 +152,42 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Ergolzstrasse 14
-200
+Furlenbodenstrasse 29
+1'680
 CHF
 /Monat
-Bastelraum in Lausen
-Ergolzstrasse 14, 4415 Lausen
+An ruhiger Lage mit Balkon und Gartensi…
+Furlenbodenstrasse 29, 4415 Lausen
 Array
+4.5 Zimmer
+94 m2
 Objekttyp
-Atelier
-Dieser ca. 23 m2 grosse Raum in einem Mehrfamilienhaus eignet sich hervorragend zum Lagern von Gege…
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+94 m2
+Adimmo AG vermietet nach Vereinbarung diese 4.5-Zimmerwohnung mit folgender Ausstattung: Pa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Furlenbodenstrasse 25
+1'630
+CHF
+/Monat
+Helle 4.5-Zimmerwohnung mit sonnigem Ba…
+Furlenbodenstrasse 25, 4415 Lausen
+Array
+4.5 Zimmer
+94 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+94 m2
+Adimmo AG vermietet nach Vereinbarung an der Furlenbodenstrasse 25 in Lausen eine grosse 4.5-Zimmer…
 Teilen
 E-Mail
 Facebook
@@ -516,26 +542,6 @@ Zimmer
 Wohnfläche
 120 m2
 Diese lichtdurchflutete und grosszügige 4.5-Zimmerwohnung befindet sich in einem ruhigen, familiäre…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weidmattstrasse
-2'240
-CHF
-/Monat
-Weidmatt - Erstbezug per sofort
-Weidmattstrasse, 4415 Lausen
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Per sofort stehen im neuen Weidmatt-Quartier in Lausen moderne Wohnungen mit attkraktiven Service-L…
 Teilen
 E-Mail
 Facebook

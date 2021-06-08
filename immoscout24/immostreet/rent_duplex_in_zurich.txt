@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/en/rent/apartment/subcategory-maisonette/at-zurich/
 Title: Rent Duplex in Zurich - Immostreet.ch
-Description: Rent Duplex in  Zurich - Immostreet.ch: ImmoStreet.com has 23 offers and will help you to find the best deal in  and the surrounding area.
+Description: Rent Duplex in  Zurich - Immostreet.ch: ImmoStreet.com has 26 offers and will help you to find the best deal in  and the surrounding area.
 
 Your browser is out of date!
 Update your browser to view this website correctly. Update my browser now
@@ -116,7 +116,7 @@ Filter
 Search
 Adapt Search
 The search subscription has been added to your Immobox.
-23 results found ·
+26 results found ·
 Rent Duplex in Zurich
 Price (ascending)
 Price (descending)
@@ -129,28 +129,90 @@ Postal code (ascending)
 Postal code (descending)
 Sorting
 Submit
-Müllerstrasse 11
-2'890
+Anemonenstrasse 40 C
+3'540
 CHF
 /Month
-Kreis 4, Nähe Stauffacherplatz, Zürich
-Müllerstrasse 11, 8004 Zürich
+Geniessen Sie modernste Wohn-Ausstattung
+Anemonenstrasse 40 C, 8047 Zürich
 Array
-3.5 Rooms
-106 m2
+5.5 Rooms
+157 m2
 Object type
 Apartment, Duplex
 Rooms
+5.5
+Living space
+157 m2
+Nach Vereinbarung suchen wir einen Nachmieter für diese schöne 5.5-Zimmer-Maisonette-Attikawohnung,…
+Share
+E-mail
+Facebook
+Whatsapp
+Im Waidegg 5
+1'990
+CHF
+/Month
+3.5-Zimmerwohnung am Bucheggplatz zu ve…
+Im Waidegg 5, 8037 Zürich
+Array
+3.5 Rooms
+75 m2
+Object type
+Apartment, Duplex, Maisonette
+Rooms
 3.5
 Living space
-106 m2
-Mitten in der City, wird per anfangs oder mitte Juli 2021 eine helle geräumige 3.5 Zimmer-Wohnung f…
+75 m2
+Per sofort vermieten wir diese 3.5-Zimmerwohnung am Bucheggplatz inkl. Aussenparkplatz von zusätzli…
+Share
+E-mail
+Facebook
+Whatsapp
+Sonnenbergstrasse
+Price on request
+Die Kunst des schöner Wohnens
+Sonnenbergstrasse, 8032 Zürich
+Array
+5.5 Rooms
+350 m2
+Object type
+Apartment, Duplex
+Rooms
+5.5
+Living space
+350 m2
+Floor
+Sehr modern. Sehr privat. Sehr grosszügig. Bei dieser 51/2 Zimmer Duplex-Wohnung sind die Steigerun…
+Share
+E-mail
+Facebook
+Whatsapp
+Im Trichtisal 9
+4'630
+CHF
+/Month
+Natur- und Zentrumsnah zugleich
+Im Trichtisal 9, 8053 Zürich
+Array
+4.5 Rooms
+154 m2
+Object type
+Apartment, Duplex
+Rooms
+4.5
+Living space
+154 m2
+Floor
+Die Überbauung Trichtisal liegt am Siedlungsrand von Witikon, in unmittelbarer Waldnähe. Hier wohne…
 Share
 E-mail
 Facebook
 Whatsapp
 Kanzleistrasse 18
-Price on request
+3'615
+CHF
+/Month
 Urban und voller Tradition
 Kanzleistrasse 18, 8004 Zürich
 Array
@@ -162,6 +224,7 @@ Rooms
 3.5
 Living space
 107 m2
+Hervorragend erschlossen und umgeben vom pulsierenden Leben im Zürcher Kreis 4 vermieten wir per 01…
 Share
 E-mail
 Facebook
@@ -333,7 +396,7 @@ E-mail
 Facebook
 Whatsapp
 Konradstrasse 20
-2'350
+1'550
 CHF
 /Month
 Maisonnette Dachwohnung mit Galerie näh…
@@ -353,7 +416,7 @@ E-mail
 Facebook
 Whatsapp
 Konradstrasse 20
-2'920
+1'870
 CHF
 /Month
 Wohnen im Herzen von Zürich
@@ -469,67 +532,6 @@ Living space
 110 m2
 Floor
 Neue, helle Küche mit PlattenbodenNeues Bad mit PlattenbodenSchöner neuer Eichenparkett matt in der…
-Share
-E-mail
-Facebook
-Whatsapp
-Utoquai 37
-13'040
-CHF
-/Month
-Schöne Wohnung mit einzigartigem Seebli…
-Utoquai 37, 8008 Zürich
-Array
-4 Rooms
-215 m2
-Object type
-Apartment, Duplex
-Rooms
-4
-Living space
-215 m2
-Wir sind auf der Suche nach neuen Mietern für diese exklusive Luxuswohnung mit viel Charme in einer…
-Share
-E-mail
-Facebook
-Whatsapp
-Waldmannstrasse 12a
-6'490
-CHF
-/Month
-Etwas ganz besonderes im Herzen der Sta…
-Waldmannstrasse 12a, 8001 Zürich
-Array
-3.5 Rooms
-114 m2
-Object type
-Apartment, Duplex
-Rooms
-3.5
-Living space
-114 m2
-Per sofort vermieten wir die idyllische 3.5-Zimmerwohnung mit hochwertigem Ausbau, direkt an einer …
-Share
-E-mail
-Facebook
-Whatsapp
-Leutschenbachstrasse 48 - WFD 314
-3'890
-CHF
-/Month
-Wohnen mit viel Platz in der doppelstöc…
-Leutschenbachstrasse 48 - WFD 314, 8050 Zürich
-Array
-3.5 Rooms
-124 m2
-Object type
-Apartment, Duplex
-Rooms
-3.5
-Living space
-124 m2
-Floor
-Zentral im aufstrebenden Quartier Kreis 11 ein neues Zuhause! Bequem per Tram oder Bahn ist der Flu…
 Share
 E-mail
 Facebook

@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -583,7 +582,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 BMW
-(15'786)
+(15'748)
 BMW 135 Occasion
 (43)
 Aufbau
@@ -596,38 +595,38 @@ BMW 135 Benzin
 (43)
 Typ
 BMW 118
-(565)
+(551)
 BMW 120
-(383)
+(402)
 BMW 116
-(173)
+(175)
 BMW M135
-(92)
+(97)
 BMW 125
-(39)
+(41)
 BMW 123
-(11)
+(12)
 BMW 114
 (11)
 BMW 130
-(7)
+(6)
 Modelle
 BMW X-Series
-(5'432)
+(5'442)
 BMW 3 Series
-(2'573)
+(2'576)
 BMW 5 Series
-(1'820)
+(1'776)
 BMW 2 Series
-(1'226)
+(1'237)
 BMW M-Series
-(1'129)
+(1'114)
 BMW 4 Series
-(651)
+(642)
 BMW i3
-(403)
+(404)
 BMW 7 Series
-(361)
+(358)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -643,6 +642,17 @@ weniger
 14 Inserate
 0 Inserate
 0 Inserate
+BMW 135i Cabrio
+2.0
+04.06.2021
+Occasion
+09.2010, Manuell, Benzin
+105'000 km, 306 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 19'900
+ab CHF 363 / Monat
 BMW 135i Cabrio Steptronic
 2.0
 24.05.2021
@@ -677,18 +687,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 12'900
 ab CHF 236 / Monat
-Preisreduktion
-BMW 135i Cabrio Steptronic
-2.5
-07.05.2021
-Occasion
-04.2009, Automat, Benzin
-115'000 km, 402 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 16'700
-ab CHF 305 / Monat
 Preisreduktion
 BMW 135i Cabrio Steptronic
 3.0

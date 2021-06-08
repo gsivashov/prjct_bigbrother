@@ -1,6 +1,6 @@
-URL: https://www.immostreet.ch/de/mieten/in-baar/
+URL: https://www.immostreet.ch/de/mieten/in-baar/?pagenum=2
 Title: Wohnungen & Häuser mieten in Baar - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Baar - Immostreet.ch: ImmoStreet.ch hat 126 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Baar - Immostreet.ch: ImmoStreet.ch hat 124 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-126 Resultate gefunden ·
+124 Resultate gefunden ·
 Wohnungen & Häuser mieten in Baar
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,19 +122,126 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Zugerstrasse, 8
-2'450
+Falkenweg
+1'190
 CHF
 /Monat
-Spacious 3 ½ room attic apartment, furn…
-Zugerstrasse, 8, 6340 Baar
+Zimmer als Büro und/oder Schlafzimmer b…
+Falkenweg, 6340 Baar
+Array
+1 Zimmer
+Objekttyp
+Wohnung, Einzelzimmer
+Zimmer
+1
+Wir vermieten per 1. August 2021 ein möbliertes Zimmer direkt am Bahnhof in Baar. Das Zimmer kann a…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+850
+CHF
+/Monat
+PREISWERT AN IDEALER LAGE
+Adresse auf Anfrage, 6340 Baar
+Array
+1 Zimmer
+Objekttyp
+Verkauf, Praxis
+Zimmer
+1
+Dieses Praxiszimmer liegt an optimaler Lage im Herzen von Baar. In einem Beauty- und Kosmetikstudio…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Landhausstrasse 4
+140
+CHF
+/Monat
+Einstellgaragenplatz
+Landhausstrasse 4, 6340 Baar
+Array
+Objekttyp
+Tiefgarage
+An der Landhausstrasse in Baar vermieten wir per sofort einen Einstellplatz.
+Teilen
+E-Mail
+Facebook
+Whatsapp
+UNG Gubelstrasse 2/4/6
+130
+CHF
+/Monat
+Auto-Einstellplatz im Zentrum von Baar
+UNG Gubelstrasse 2/4/6, 6340 Baar
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten per sofort oder nach Vereinbarung in der Gubelstrasse 2/4/6 einen Auto-Einstellplatz.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Arbachstrasse 67
+2'370
+CHF
+/Monat
+Dachwohnung mit Blick auf die Zuger und…
+Arbachstrasse 67, 6340 Baar
 Array
 3.5 Zimmer
+83 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Spacious modern furnished flat (near railway and bus station): Two glazed balconies, built-in close…
+Wohnfläche
+83 m2
+Diese schöne Liegenschaft befindet sich an ruhiger und sonniger Lage im südöstlichen Teil der Gemei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zugerstrasse 76B
+3'450
+CHF
+/Monat
+Moderne und grosszügige Büroräume nähe …
+Zugerstrasse 76B, 6340 Baar
+Array
+3 Zimmer
+100 m2
+Objekttyp
+Büro
+Zimmer
+3
+Wohnfläche
+100 m2
+Etage
+Hochwertig ausgebaute und moderne Büroräumlichkeiten in Baar (Stadtgrenze Zug) per sofort zu vermie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+zugermatt, 3
+2'250
+CHF
+/Monat
+3 Zimmer Wohnung mit Lift und Parkplatz…
+zugermatt, 3, 6340 Baar
+Array
+3 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+70 m2
+Etage
+neu renovierte 3 Zimmer Wohnung mit Lift. Parkettboden frisch versiegelt.
 Teilen
 E-Mail
 Facebook
@@ -242,27 +349,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Baarermattstrasse 8B
-4'600
-CHF
-/Monat
-Exclusiv 4.5 Zimmer Wohnung in THE CLOU…
-Baarermattstrasse 8B, 6340 Baar
-Array
-4.5 Zimmer
-129 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-129 m2
-Etage
-Direkt an der Grenze zur Stadt Zug, ca 12 Minuten zu Fuss zum Hauptbahnhof Zug, steht, ab 01.08.202…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Burgmatt 1-9
 40
 CHF
@@ -318,7 +404,7 @@ E-Mail
 Facebook
 Whatsapp
 Blegistrasse 13
-490
+220
 CHF
 /Monat
 Lagerbox in Baar-Sihlbrugg
@@ -327,24 +413,7 @@ Array
 Objekttyp
 Verkauf, Lager
 Ideal für Privatpersonen und Firmen
-Lagerbox mit 35m² (Nr. 24) zur Miete an der Blegistrasse 13 …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-800
-CHF
-/Monat
-WG-Zimmer in Baar in ruhigem Quartier, …
-Adresse auf Anfrage, 6340 Baar
-Array
-15 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-15 m2
-ZU VERMIETEN- WG Zimmer in Baar zu vermieten.- 1. OG- Ab 1. Juli 2021.- Ca. 15. m2.- Mit grossem Ba…
+Lagerboxen mit 14m² (Nr. 4) und 35m² (Nr. 24) zur Miete an d…
 Teilen
 E-Mail
 Facebook
@@ -396,62 +465,6 @@ Zimmer
 Wohnfläche
 15 m2
 Dieses klassisch möblierte Nichtraucher - Zimmer ist besonders geeignet für: Wochenaufenthalter, fü…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blegistrasse 7/9
-210
-CHF
-Blegistrasse 7/9, Baar - Grosszügige kl…
-Blegistrasse 7/9, 6340 Baar
-Array
-Objekttyp
-Büro
-Die Büroräumlichkeiten an der Blegistrasse in Baar sind verkehrstechnisch perfekt erschlossen und f…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-830
-CHF
-/Monat
-PRAKTISCH, GÜNSTIG UND MODERN MIT SITZU…
-Adresse auf Anfrage, 6340 Baar
-Array
-1 Zimmer
-Objekttyp
-Büro
-Zimmer
-1
-Dieses wunderschöne, moderne und helle Büro erwartet Sie hier. Die hohen Räume geben Ihrem Büro den…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blegistrasse 7
-210
-CHF
-Blegistrasse 7, Baar - Moderne Bürofläc…
-Blegistrasse 7, 6340 Baar
-Array
-Objekttyp
-Büro
-Die Büroräumlichkeiten an der Blegistrasse in Baar sind verkehrstechnisch perfekt erschlossen und f…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blegistrasse 9
-210
-CHF
-Blegistrasse 9, Baar - Moderne Bürofläc…
-Blegistrasse 9, 6340 Baar
-Array
-Objekttyp
-Büro
-Die Büroräumlichkeiten an der Blegistrasse in Baar sind verkehrstechnisch perfekt erschlossen und f…
 Teilen
 E-Mail
 Facebook

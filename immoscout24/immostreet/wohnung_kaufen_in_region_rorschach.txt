@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-rorschach/
 Title: Wohnung kaufen in Region Rorschach - Immostreet.ch
-Description: Wohnung kaufen in Region Rorschach - Immostreet.ch: ImmoStreet.ch hat 27 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Region Rorschach - Immostreet.ch: ImmoStreet.ch hat 30 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-27 Resultate gefunden ·
+30 Resultate gefunden ·
 Wohnung kaufen in Region Rorschach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,140 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Baumgartenstrasse 1
+720'000
+CHF
+Eigentumswohnung an attraktiver Quartie…
+Baumgartenstrasse 1, 9403 Goldach
+Array
+5.5 Zimmer
+127 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+127 m2
+Wir verkaufen eine sehr schöne und grossflächige Eigentumswohnung im 1. Stock eines Mehrfamilienhau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Heidenerstrasse 59
+2'250'000
+CHF
+Einzigartige und luxuriöse Penthouse-Wo…
+Heidenerstrasse 59, 9404 Rorschacherberg
+Array
+5.5 Zimmer
+255 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+Wohnfläche
+255 m2
+Etage
+MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Einzigartige und luxuriö…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bachwiesstrasse 11
+660'000
+CHF
+Sehr schöne grosse 4.5 Zimmer Wohnung r…
+Bachwiesstrasse 11, 9404 Rorschacherberg
+Array
+4.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+123 m2
+Helle und grosse Wohnung mit 2 Balkonen im 2. OG; mit Lift.Hauptvorteile:      Sehr gute Aufteilung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Löwengartenstrasse 14
+490'000
+CHF
+Stadtleben Rorschach
+Löwengartenstrasse 14, 9400 Rorschach
+Array
+3.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+77 m2
+In der modernen Überbauung entstehen 30 Eigentumswohnungen, 42 Mietwohnungen, dies bildet eine bunt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Löwengartenstrasse 14
+370'000
+CHF
+Stadtleben Rorschach
+Löwengartenstrasse 14, 9400 Rorschach
+Array
+2.5 Zimmer
+54 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+54 m2
+In der modernen Überbauung entstehen 30 Eigentumswohnungen, 42 Mietwohnungen, dies bildet eine bunt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Löwengartenstrasse 14
+940'000
+CHF
+Stadtleben Rorschach
+Löwengartenstrasse 14, 9400 Rorschach
+Array
+4.5 Zimmer
+122 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+122 m2
+In der modernen Überbauung entstehen 30 Eigentumswohnungen, 42 Mietwohnungen, dies bildet eine bunt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Löwengartenstrasse 14
+730'000
+CHF
+Stadtleben Rorschach
+Löwengartenstrasse 14, 9400 Rorschach
+Array
+4.5 Zimmer
+111 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+111 m2
+In der modernen Überbauung entstehen 30 Eigentumswohnungen, 42 Mietwohnungen, dies bildet eine bunt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Rietbergstrasse 37
 849'000
 CHF
@@ -171,26 +305,6 @@ Wohnfläche
 Etage
 An Top Lage, Nähe See, Einkauf, Kindergarten, Schule, ö.V. etc
 bieten wir die einzigartige Gelegen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Heidenerstrasse 59
-2'250'000
-CHF
-Einzigartige und luxuriöse Penthouse-Wo…
-Heidenerstrasse 59, 9404 Rorschacherberg
-Array
-5.5 Zimmer
-255 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-255 m2
-Etage
-MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Einzigartige und luxuriö…
 Teilen
 E-Mail
 Facebook
@@ -269,25 +383,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bachwiesstrasse 11
-660'000
-CHF
-Sehr schöne grosse 4.5 Zimmer Wohnung r…
-Bachwiesstrasse 11, 9404 Rorschacherberg
-Array
-4.5 Zimmer
-123 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-123 m2
-Helle und grosse Wohnung mit 2 Balkonen im 2. OG; mit Lift.Hauptvorteile:      Sehr gute Aufteilung…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Steinach
 785'000
 CHF
@@ -303,45 +398,6 @@ Zimmer
 Wohnfläche
 143 m2
 Die grosszügige Attika-Maissonette Wohnung besticht mit Ihrem offenen und einladenden Ambiente und …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-519'000
-CHF
-Lichtdurchflutete Etagenwohnung mit See…
-Adresse auf Anfrage, 9403 Goldach
-Array
-4.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-85 m2
-Etage
-Diese traumhafte Etagenwohnung befindet sich im obersten Geschoss eines Mehrfamilienhausesan bester…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seepark 11
-1'250'000
-CHF
-Einmalige Wohnung direkt am Wasser
-Seepark 11, 9422 Staad SG
-Array
-3.5 Zimmer
-157 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-157 m2
-Exklusive ruhige und grosszügige 3.5 Zimmer WohnungAtemberaubende und luxuriöse Wohnung direkt am S…
 Teilen
 E-Mail
 Facebook
@@ -422,7 +478,7 @@ Zimmer
 Wohnfläche
 104 m2
 Ein Projekt der Tilings Immobilien
-Bezugsbereit Winter 2022
+Bezugsbereit Sommer 2022
 Die neue Wohnüberbauung in Goldac…
 Teilen
 E-Mail
@@ -443,7 +499,7 @@ Zimmer
 Wohnfläche
 150 m2
 Ein Projekt der Tilings Immobilien
-Bezugsbereit Winter 2022
+Bezugsbereit Sommer 2022
 Die neue Wohnüberbauung in Goldac…
 Teilen
 E-Mail
@@ -466,69 +522,6 @@ Wohnfläche
 Ein Projekt der Tilings Immobilien
 Bezugsbereit Frühling 2023
 Die neue Wohnüberbauung in Gold…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Am Rebberg 2
-525'000
-CHF
-Purelive - die pure Freude am Wohnen
-Am Rebberg 2, 9403 Goldach
-Array
-2.5 Zimmer
-71 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-71 m2
-Ein Projekt der Tilings Immobilien
-Bezugsbereit Frühling 2023
-Die neue Wohnüberbauung in Gold…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Am Rebberg 2
-890'000
-CHF
-Purelive - die pure Freude am Wohnen
-Am Rebberg 2, 9403 Goldach
-Array
-4.5 Zimmer
-126 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-126 m2
-Ein Projekt der Tilings Immobilien
-Bezugsbereit Frühling 2023
-Die neue Wohnüberbauung in Gold…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Am Rebberg 1
-690'000
-CHF
-Purelive - die pure Freude am Wohnen
-Am Rebberg 1, 9403 Goldach
-Array
-3.5 Zimmer
-104 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-104 m2
-Ein Projekt der Tilings Immobilien
-Bezugsbereit Winter 2022
-Die neue Wohnüberbauung in Goldac…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-oensingen/
 Title: Wohnung & Haus mieten in Oensingen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Oensingen - Immostreet.ch: ImmoStreet.ch hat 36 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Oensingen - Immostreet.ch: ImmoStreet.ch hat 38 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-36 Resultate gefunden ·
+38 Resultate gefunden ·
 Wohnung & Haus mieten in Oensingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,65 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Solothurnstrasse 53
+1'820
+CHF
+/Monat
+3,5 Zimmer-Gartenwohnung 103 m2
+Solothurnstrasse 53, 4702 Oensingen
+Array
+3.5 Zimmer
+103 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+103 m2
+Der Ausbau entspricht dem Standart einer Eigentumswohnung: Wohn- Essraum 41,3 m2, grosse Schiebefen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Von Roll-Strasse 5
+1'620
+CHF
+/Monat
+In 2 Minuten beim Bahnhof - In 3 Min au…
+Von Roll-Strasse 5, 4702 Oensingen
+Array
+4.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+95 m2
+Lassen Sie sich überzeugen vom attraktiven Innenausbau.
+Neubau 2007.
+Küche mit Granitabdeckun…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mühlefeldstrasse 75
+1'390
+CHF
+/Monat
+Charmante Wohnung im Grünen
+Mühlefeldstrasse 75, 4702 Oensingen
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+In der Nähe des Stadtzentrums von Oensingen vermieten wir eine gemütliche 4 -ZWG. Umgebung mit viel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Sternenweg 2
 1'560
 CHF
@@ -402,28 +461,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Von Roll-Strasse 5
-1'620
-CHF
-/Monat
-In 2 Minuten beim Bahnhof - In 3 Min au…
-Von Roll-Strasse 5, 4702 Oensingen
-Array
-4.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-95 m2
-Lassen Sie sich überzeugen vom attraktiven Innenausbau.
-Neubau 2007.
-Küche mit Granitabdeckun…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Mattenweg
 1'975
 CHF
@@ -500,44 +537,6 @@ Zimmer
 Wohnfläche
 110 m2
 Unverbaubare grosse Grünanlagen Südseite, begrenzt durch Bienkenhalle und Feuerwehrdepot.Nähe Bahnh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lehnrüttiweg 3
-1'370
-CHF
-/Monat
-Gemütliche Dachwohnung an zentraler Lage
-Lehnrüttiweg 3, 4702 Oensingen
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-*Neues Jahr, neues Glück - Bei einen Mietvertragsabschluss erhalten Sie einen Parkplatz für ein Jah…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Solothurnstrasse 3
-550
-CHF
-/Monat
-Charmantes Studio
-Solothurnstrasse 3, 4702 Oensingen
-Array
-1 Zimmer
-Objekttyp
-Wohnung, Studio
-Zimmer
-1
-Etage
-An der Solothurnstrasse 3, in Oensingen ist ein geräumiges , charmantes Studio zu vermieten. Sie is…
 Teilen
 E-Mail
 Facebook

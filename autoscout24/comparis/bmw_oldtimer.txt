@@ -1,6 +1,6 @@
 URL: https://www.comparis.ch/carfinder/marktplatz/bmw/oldtimer
 Title: BMW Oldtimer – Preise vergleichen mit Comparis
-Description: Finden Sie unter 65 BMW Oldtimer Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
+Description: Finden Sie unter 63 BMW Oldtimer Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
 Suche
 Menü
@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -574,67 +573,68 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 BMW
-(15'757)
+(15'738)
 BMW Occasion
-(12'432)
+(12'401)
 BMW Neuwagen
-(2'520)
+(2'541)
 BMW Vorführwagen
-(740)
+(733)
 BMW Oldtimer
-(65)
+(63)
 Aufbau
 BMW Geländewagen
-(5'237)
+(5'258)
 BMW Limousine
-(4'764)
+(4'803)
 BMW Kombi
-(2'220)
+(2'185)
 BMW Cabrio
-(1'237)
+(1'212)
 BMW Coupé
-(1'078)
+(1'057)
 BMW Minivan/Van
-(889)
+(891)
 Motor
-BMW Benzin
-(6'703)
 BMW Diesel
-(6'701)
+(6'693)
+BMW Benzin
+(6'657)
 BMW Elektroautos
-(381)
+(390)
 Modelle
 BMW X-Series
-(5'417)
+(5'439)
 BMW 3 Series
-(2'569)
+(2'575)
 BMW 5 Series
-(1'818)
+(1'775)
 BMW 1 Series
-(1'318)
+(1'338)
 BMW 2 Series
-(1'224)
+(1'237)
 BMW M-Series
-(1'129)
+(1'110)
 BMW 4 Series
-(651)
+(641)
 BMW i3
-(402)
+(404)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
 Carweb wird durchsucht ...
 drive-in.ch wird durchsucht ...
-65 Treffer auf allen grossen Schweizer Auto-Portalen
-65 Treffer auf allen Portalen
+63 Treffer auf allen grossen Schweizer Auto-Portalen
+63 Treffer auf allen Portalen
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
 0 Inserate
 0 Inserate
-65 Inserate
+63 Inserate
 0 Inserate
 0 Inserate
+Preisreduktion
 BMW 1600 1502
 02.06.2021
 Oldtimer
@@ -643,8 +643,8 @@ Oldtimer
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 14'900
-ab CHF 272 / Monat
+CHF 14'700
+ab CHF 268 / Monat
 BMW 1800
 31.05.2021
 Oldtimer

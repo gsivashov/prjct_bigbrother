@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -573,7 +572,7 @@ MG
 (140)
 Modelle
 MG F
-(40)
+(41)
 MG TF
 (24)
 MG ZS

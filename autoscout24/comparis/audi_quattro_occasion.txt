@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -600,9 +599,9 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Audi
-(11'462)
+(11'544)
 Audi Quattro Neuwagen
-(40)
+(39)
 Audi Quattro Occasion
 (29)
 Audi Quattro Vorführwagen
@@ -611,14 +610,14 @@ Audi Quattro Oldtimer
 (4)
 Aufbau
 Audi Quattro Geländewagen
-(62)
+(61)
 Audi Quattro Coupé
 (15)
 Audi Quattro Limousine
 (7)
 Motor
 Audi Quattro Benzin
-(71)
+(69)
 Audi Quattro Diesel
 (6)
 Typ
@@ -626,21 +625,21 @@ Audi Quattro
 (20)
 Modelle
 Audi A4
-(1'454)
+(1'473)
 Audi A3
-(1'340)
+(1'385)
 Audi A6
-(914)
+(929)
 Audi Q5
-(913)
+(909)
 Audi Q3
-(814)
+(816)
 Audi A1
-(691)
+(697)
 Audi A5
-(576)
+(582)
 Audi S3
-(491)
+(494)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -656,6 +655,26 @@ weniger
 14 Inserate
 0 Inserate
 0 Inserate
+Audi TTS / TTRS TTS Rds 2.0 TFSI quattro
+06.06.2021
+Occasion
+06.2017, Automat, Benzin
+55'900 km, 310 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 44'900
+ab CHF 820 / Monat
+Audi SQ7 4.0 TDI quattro
+06.06.2021
+Occasion
+05.2017, Automat, Diesel
+50'500 km, 435 PS, Silber
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 74'900
+ab CHF 1'368 / Monat
 Audi SQ2 TFSI quattro S-tronic
 30.05.2021
 Occasion
@@ -666,26 +685,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 50'600
 ab CHF 924 / Monat
-Audi TTS / TTRS TTS Rds 2.0 TFSI quattro
-30.05.2021
-Occasion
-07.2017, Automat, Benzin
-55'900 km, 310 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 42'900
-ab CHF 784 / Monat
-Audi SQ7 4.0 TDI quattro
-30.05.2021
-Occasion
-05.2017, Automat, Diesel
-50'500 km, 435 PS, Silber
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 74'900
-ab CHF 1'368 / Monat
 AUDI SQ7 TFSI quattro tiptronic
 21.05.2021
 Occasion

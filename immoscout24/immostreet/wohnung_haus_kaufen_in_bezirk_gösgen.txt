@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-goesgen/
 Title: Wohnung & Haus kaufen in Bezirk Gösgen - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Gösgen - Immostreet.ch: ImmoStreet.ch hat 59 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Gösgen - Immostreet.ch: ImmoStreet.ch hat 58 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-59 Resultate gefunden ·
+58 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Gösgen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,84 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Erlinsbacherstrasse 20c
+375'000
+CHF
+Leistenfabrik 2.0 - NEW FACTORY LIVING …
+Erlinsbacherstrasse 20c, 5013 Niedergösgen
+Array
+2.5 Zimmer
+66 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+66 m2
+URBAN - HISTORISCH - NEUDie Überbauung "Leistenfabrik 2.0" vereint Tradition und Moderne und verspr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Giessenstrasse 43
+1'100'000
+CHF
+Einfamilienhaus mit mehr Lebensqualität…
+Giessenstrasse 43, 4652 Winznau
+Array
+6 Zimmer
+233 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6
+Wohnfläche
+233 m2
+Etage
+Minergie P zertifiziert, In Winznau / SO.In unmittelbarer Nähe des Bahnhofs Olten.Einfamilienhaus m…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Freie Strasse 17
+1'400'000
+CHF
+4-Familien-Haus in Trimbach
+Freie Strasse 17, 4632 Trimbach
+Array
+7.5 Zimmer
+740 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Wohnfläche
+740 m2
+Von privat zu verkaufen:4-Familien-Haus in Trimbach, geeignet als Kapitalanlage.(Stadtgrenze Olten,…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stüsslingerstrasse 42
+1'250'000
+CHF
+Gepflegtes Einfamilienhaus mit wundersc…
+Stüsslingerstrasse 42, 5015 Erlinsbach SO
+Array
+6.5 Zimmer
+171 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+171 m2
+Etage
+Das erwartet Sie:Ein grosszügiges 6.5 Zi-Einfamilienhaus an leicht erhöhter Lage, welches 1962 erst…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 815'000
 CHF
@@ -220,26 +298,6 @@ Zimmer
 Wohnfläche
 117 m2
 Diese schöne ideale Wohnung eignet sich ausgezeichnet für eine Familie mit Kinder. Der ländliche Ch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Giessenstrasse 43
-1'100'000
-CHF
-Einfamilienhaus energetisch TOP Baustar…
-Giessenstrasse 43, 4652 Winznau
-Array
-5.5 Zimmer
-167 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-167 m2
-Etage
-Minergie P zertifiziert, In Winznau / SOIn unmittelbarer Nähe des Bahnhofs Olten.Einfamilienhaus mi…
 Teilen
 E-Mail
 Facebook
@@ -449,7 +507,7 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-780'000
+745'000
 CHF
 Sehr moderne, schöne 4.5 Zimmer-Eigentu…
 Adresse auf Anfrage, 5013 Niedergösgen
@@ -463,64 +521,6 @@ Zimmer
 Wohnfläche
 117 m2
 Wohnfläche: 117m²Weitere Informationen und zusätzliche Bilder finden Sie unter : https://angebot.ho…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-450'000
-CHF
-NATURNAH UND FAMILIENFREUNDLICH
-Adresse auf Anfrage, 5015 Erlinsbach SO
-Array
-4.5 Zimmer
-117 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Wohnfläche
-117 m2
-Diese hochwertige Dachwohnung mit zwei Balkonen, ist eine ideale Gelegenheit für Familien oder Plat…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kleinfeldstrasse 10
-360'000
-CHF
-Zentral gelegene Erdgeschosswohnung
-Kleinfeldstrasse 10, 4652 Winznau
-Array
-3.5 Zimmer
-76 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-76 m2
-Nahe des Dorfzentrums verkaufen wir eine schöne Gartenwohnung mit eigenem Sitzplatz. Kindergarten u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Büntenweg
-870'000
-CHF
-*** 4.5 Zimmer Attikawohnung, hier dürf…
-Büntenweg, 5015 Erlinsbach SO
-Array
-4.5 Zimmer
-129 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-129 m2
-Etage
-In Erlinsbach am Büntenweg entsteht an gut besonnter und ruhiger Wohnlage ein Mehrfamilienhaus mit …
 Teilen
 E-Mail
 Facebook

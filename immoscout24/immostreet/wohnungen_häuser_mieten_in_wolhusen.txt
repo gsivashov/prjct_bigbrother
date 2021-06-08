@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-wolhusen/
 Title: Wohnungen & Häuser mieten in Wolhusen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Wolhusen - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Wolhusen - Immostreet.ch: ImmoStreet.ch hat 23 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-20 Resultate gefunden ·
+23 Resultate gefunden ·
 Wohnungen & Häuser mieten in Wolhusen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,66 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Kommetsrüti 32
+1'645
+CHF
+/Monat
+Moderne 3.5-Zimmer-Wohnung mit Aussicht
+Kommetsrüti 32, 6110 Wolhusen
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+Wolhusen ist umgeben von einem grossen Naherholungsgebiet mit diversen Vita Parcours (Fit-,Walk- un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kommetsrüti 32
+1'585
+CHF
+/Monat
+Moderne 3.5-Zimmer-Wohnung mit Aussicht
+Kommetsrüti 32, 6110 Wolhusen
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+Wolhusen ist umgeben von einem grossen Naherholungsgebiet mit diversen Vita Parcours (Fit-,Walk- un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kommetsrüti 32
+1'865
+CHF
+/Monat
+Moderne 4.5-Zimmer-Wohnung mit Aussicht
+Kommetsrüti 32, 6110 Wolhusen
+Array
+4.5 Zimmer
+103 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+103 m2
+Wolhusen ist umgeben von einem grossen Naherholungsgebiet mit diversen Vita Parcours (Fit-,Walk- un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Horütifeld 2
 1'100
 CHF
@@ -440,58 +500,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Buholzstrasse 10
-125
-CHF
-Neue Gewerbeboxen ab 120m2 in Ruswil / …
-Buholzstrasse 10, 6110 Wolhusen
-Array
-Objekttyp
-Residential commercial building
--Gewerbeboxen mit Sektionaltor ab 120m2 zu vermieten
--Neubau von total 2500m2 Gewerbefläche in der …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Entlebucherstrasse 51
-1'110
-CHF
-/Monat
-4.5-Zimmer-Dachwohnung
-Entlebucherstrasse 51, 6110 Wolhusen
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Etage
-Im Dachgeschoss dieses Wohn-/Geschäftshauses vermieten wir nach Vereinbarung eine 4.5-Zimmer-Dachwo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kommetsrüti 32-36
-1'615
-CHF
-/Monat
-Im Schimbrigblick will ich sein!
-Kommetsrüti 32-36, 6110 Wolhusen
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-In der Überbauung Schimbrigblick Wolhusen finden Sie moderne und komfortable 3.5-Zimmer-Wohnungen m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
+Seite 1 von 2
+1
+2
+nächste Seite
 ImmoStreet.ch
 Mieten
 Immobilien mieten in der Stadt Wolhusen

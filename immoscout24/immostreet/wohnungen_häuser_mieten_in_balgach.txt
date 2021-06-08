@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-balgach/
 Title: Wohnungen & Häuser mieten in Balgach - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Balgach - Immostreet.ch: ImmoStreet.ch hat 12 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Balgach - Immostreet.ch: ImmoStreet.ch hat 15 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-12 Resultate gefunden ·
+15 Resultate gefunden ·
 Wohnungen & Häuser mieten in Balgach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,63 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Bühleggstrasse 3
+1'990
+CHF
+/Monat
+Einfamilienhaus mit Scheune im Dorfkern…
+Bühleggstrasse 3, 9436 Balgach
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+LAGE- absolut zentrale Wohnlage im Dorfkern von Balgach- örtliche Infrastrukturen in unmittelbarer …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Neugrüttstrasse 1b
+1'530
+CHF
+/Monat
+3.5-Zi-Wohnung/Garten/Carport/Abstellpl…
+Neugrüttstrasse 1b, 9436 Balgach
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Zu vermieten in der steuer günstigen Gemeinde Balgach, aussergewöhnlich schöne Wohnung (rollstuhlgä…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eichholzstrasse 18
+1'190
+CHF
+/Monat
+gemütliche 4 Zimmerwohnung
+Eichholzstrasse 18, 9436 Balgach
+Array
+4 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+75 m2
+ParkmöglichkeitenMiete Garage: 120.-
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Neufeldstrasse 1
 1'800
 CHF

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-rheinfelden/
 Title: Haus kaufen in Bezirk Rheinfelden - Immostreet.ch
-Description: Haus kaufen in Bezirk Rheinfelden - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Rheinfelden - Immostreet.ch: ImmoStreet.ch hat 27 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-31 Resultate gefunden ·
+27 Resultate gefunden ·
 Haus kaufen in Bezirk Rheinfelden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,22 +138,78 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Im Kirschgarten 92
-1'680'000
+Adresse auf Anfrage
+1'240'000
 CHF
-Rarität an Traumlage mit Fernsicht
-Im Kirschgarten 92, 4305 Olsberg
+MUMPF - SEHR ATTRAKTIVE VILLA - 6.5 ZIM…
+Adresse auf Anfrage, 4322 Mumpf
 Array
-10 Zimmer
-262 m2
+6.5 Zimmer
+220 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-10
+6.5
 Wohnfläche
-262 m2
+220 m2
 Etage
-Diese einzigartige Liegenschaft befindet sich, eingebettet im Grünen, auf einem kleinen Hügel und b…
+Vom grosszügigen Entrée gelangen Sie in den stattlichen Wohn/Essbereich, 53m2, an welchen die halbo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+MÖHLIN - DOPPELEINFAMILIENHAUS - 5.5 ZI…
+Adresse auf Anfrage, 4313 Möhlin
+Array
+5.5 Zimmer
+180 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+180 m2
+Hier bietet sich Ihnen eine seltene Gelegenheit. Dieses sich im Edelrohbau befindliche 4.5 bis 5.5-…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+695'000
+CHF
+IRRSINNIG INSPIRIEREND
+Adresse auf Anfrage, 4310 Rheinfelden
+Array
+6.5 Zimmer
+133 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+133 m2
+An ruhiger Quartierlage freut sich eine attraktives, erschwingliches Reihenhaus auf neue Besitzersc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'440'000
+CHF
+MÖHLIN - HERRLICHES EINFAMILIENHAUS - 4…
+Adresse auf Anfrage, 4313 Möhlin
+Array
+4.5 Zimmer
+175 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+175 m2
+Dieses, sich aufgrund einer umfangreichen Renovation in neuwertigem Zustand befindliche Einfamilien…
 Teilen
 E-Mail
 Facebook
@@ -216,82 +272,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'240'000
-CHF
-MUMPF - SEHR ATTRAKTIVE VILLA - 6.5 ZIM…
-Adresse auf Anfrage, 4322 Mumpf
-Array
-6.5 Zimmer
-220 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-220 m2
-Etage
-Vom grosszügigen Entrée gelangen Sie in den stattlichen Wohn/Essbereich, 53m2, an welchen die halbo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-MÖHLIN - DOPPELEINFAMILIENHAUS - 5.5 ZI…
-Adresse auf Anfrage, 4313 Möhlin
-Array
-5.5 Zimmer
-180 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-180 m2
-Hier bietet sich Ihnen eine seltene Gelegenheit. Dieses sich im Edelrohbau befindliche 4.5 bis 5.5-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rheinweg 19
-1'000'000
-CHF
-4 1/2 Zimmer Reihenhaus zu Verkaufen in…
-Rheinweg 19, 4313 Möhlin
-Array
-4.5 Zimmer
-376 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-376 m2
-4 1/2 Zimmer Reihenhaus zu Verkaufen in Möhlin AGAn schöner, ruhiger Wohnlage im Grünen Nahe des Rh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'440'000
-CHF
-MÖHLIN - HERRLICHES EINFAMILIENHAUS - 4…
-Adresse auf Anfrage, 4313 Möhlin
-Array
-4.5 Zimmer
-175 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-175 m2
-Dieses, sich aufgrund einer umfangreichen Renovation in neuwertigem Zustand befindliche Einfamilien…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Flösserweg 10 & 12
 2'300'000
 CHF
@@ -329,24 +309,6 @@ Wohnfläche
 212 m2
 Etage
 2-Familienhaus mit zwei 4.5 Zi.-Wohnungen & GartenDieses neuwertige 2-Familienhaus mit zwei 4.5…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Untere Hofmattstrasse 33
-Preis auf Anfrage
-R-E-S-E-R-V-I-E-R-T
-Untere Hofmattstrasse 33, 4312 Magden
-Array
-6.5 Zimmer
-194 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-6.5
-Wohnfläche
-194 m2
-* * * R-E-S-E-R-V-I-E-R-T * * *Das moderne und lichtdurchflutete 6,5 Zimmer Doppeleinfamilienhaus w…
 Teilen
 E-Mail
 Facebook
@@ -526,6 +488,44 @@ Zimmer
 Wohnfläche
 197 m2
 An bevorzugter und familienfreundlicher Wohnlage entsteht ein Doppeleinfamilienhaus. Hier können Si…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+850'000
+CHF
+RIESIGES REIHENECKHAUS
+Adresse auf Anfrage, 4332 Stein AG
+Array
+6.5 Zimmer
+161 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+161 m2
+Reihenhäuser verfügen über wenig Platz? Mitnichten. - 161 m² Wohnfläche verteilt auf 6.5 Zimmer -…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+850'000
+CHF
+Ihr neues "Home & Office"- grosszügiges…
+Adresse auf Anfrage, 4314 Zeiningen
+Array
+6.5 Zimmer
+188 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+188 m2
+Bequem wohnen und arbeiten von zu Hause aus...Dieses charmante Mittelhaus liegt im Zentrum von Zein…
 Teilen
 E-Mail
 Facebook

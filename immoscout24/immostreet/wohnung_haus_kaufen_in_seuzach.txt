@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/apartment-and-house/in-seuzach/
 Title: Wohnung & Haus kaufen in Seuzach - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Seuzach - Immostreet.ch: ImmoStreet.ch hat 8 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Seuzach - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-8 Resultate gefunden ·
+7 Resultate gefunden ·
 Wohnung & Haus kaufen in Seuzach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,21 +151,41 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Begonienstrasse 6
-1'120'000
+Weidstrasse 14
+590'000
 CHF
-5.5 Zi.-Eckhaus mit viel Sonne - ruhig …
-Begonienstrasse 6, 8472 Seuzach
+Ländlich und doch stadtnah! Attraktive …
+Weidstrasse 14, 8472 Seuzach
 Array
-5.5 Zimmer
-118 m2
+4.5 Zimmer
+83 m2
 Objekttyp
-Wohnung, Reihenfamilienhaus
+Wohnung, Flach
 Zimmer
-5.5
+4.5
 Wohnfläche
-118 m2
-Dieses Einfamilieneckhaus mit praktischem Grundriss liegt an sonniger und zentrumsnaher Lage in Seu…
+83 m2
+Grosszügig konzipierte und attraktive 4 ½-Zi.-Eigentumswohnung im Hochparterre (EG) mit zwei gut be…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aspstrasse 46
+985'000
+CHF
+Ideal für Familien und Kleingewerbler
+Aspstrasse 46, 8472 Seuzach
+Array
+6.5 Zimmer
+136 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+6.5
+Wohnfläche
+136 m2
+Etage
+Das 6.5 Zimmer-Doppeleinfamilienhaus mit 136.4 m² liegt friedlich eingebettet zwischen dem Wolfensb…
 Teilen
 E-Mail
 Facebook
@@ -208,25 +228,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Weidstrasse 14
-590'000
-CHF
-Ländlich und doch stadtnah! Attraktive …
-Weidstrasse 14, 8472 Seuzach
-Array
-4.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-83 m2
-Grosszügig konzipierte und attraktive 4 ½-Zi.-Eigentumswohnung im Hochparterre (EG) mit zwei gut be…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 Preis auf Anfrage
 4.5 Zimmer Einfamilienhaus (einseitig …
@@ -241,26 +242,6 @@ Zimmer
 Wohnfläche
 113 m2
 Das einseitig angebaute Einfamilienhaus befindet sich im alten Dorfkern von Seuzach an ruhiger und …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberwiesenstrasse 4
-740'000
-CHF
-Heimelige 4.5-Zimmer-Wohnung an begehrt…
-Oberwiesenstrasse 4, 8472 Seuzach
-Array
-4.5 Zimmer
-104 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-104 m2
-Etage
-Attraktives Wohnen an zentraler LageDiese 4,5-Zimmerwohnung mit grosszügiger Raumaufteilung verfügt…
 Teilen
 E-Mail
 Facebook

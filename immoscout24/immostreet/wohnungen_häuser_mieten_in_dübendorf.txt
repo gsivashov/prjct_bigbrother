@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-duebendorf/
 Title: Wohnungen & Häuser mieten in Dübendorf - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Dübendorf - Immostreet.ch: ImmoStreet.ch hat 231 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Dübendorf - Immostreet.ch: ImmoStreet.ch hat 221 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-231 Resultate gefunden ·
+221 Resultate gefunden ·
 Wohnungen & Häuser mieten in Dübendorf
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,43 +122,294 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Wilstrasse 15
-2'690
+Meisenweg 11
+2'445
 CHF
 /Monat
-Attraktive 4.5 - Zimmerwohnung im 1. OG…
-Wilstrasse 15, 8600 Dübendorf
+Hell - luftig - modern
+Meisenweg 11, 8600 Dübendorf
 Array
-4.5 Zimmer
-108 m2
+3.5 Zimmer
+100 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
-4.5
+3.5
 Wohnfläche
-108 m2
-Die Schweizerische Post ist Eigentümerin der Liegenschaft Wilstrasse 13/15 in 8600 Dübendorf. Das G…
+100 m2
+Wir vermieten eine moderne 3.5-Zimmer-Attikawohnung mit traumhafter Terrasse. Das Wohnobjekt bietet…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Wilstrasse 13
-1'920
+Im Grund 5
+1'625
 CHF
 /Monat
-Attraktive 2.5 Zimmer-Wohnung im 1. OG …
-Wilstrasse 13, 8600 Dübendorf
+4 Zimmer-Wng, zentral, gemütlich,ruhig
+Im Grund 5, 8600 Dübendorf
+Array
+4 Zimmer
+74 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+74 m2
+per 1.7.2021 bzw. 1.9.2021 Zentral, gemütliche, ruhig gelegene 4 Zi-Wohnung. Nächst Bahnhof Dübendo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Riedweg 5
+1'450
+CHF
+/Monat
+Modene 1.5 Zimmerwohnung in Dübendorf
+Riedweg 5, 8600 Dübendorf
+Array
+1.5 Zimmer
+37 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+37 m2
+Wir vermieten per sofort oder nach Vereinbarung, diese wunderschöne Wohnung an zentraler und doch r…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Buenstrasse 14
+3'350
+CHF
+/Monat
+5-1/2 -Zimmer-Maisonettewohnung in Dübe…
+Buenstrasse 14, 8600 Dübendorf
+Array
+5.5 Zimmer
+135 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+5.5
+Wohnfläche
+135 m2
+Etage
+Diese charmante Maisonette-Wohnung liegt im zentralen Wohnquartier Wil in Dübendorf, im zweiten und…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lerchenweg 3
+1'300
+CHF
+/Monat
+Befristet wohnen- zentral gelegen!
+Lerchenweg 3, 8600 Dübendorf
+Array
+2 Zimmer
+49 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+49 m2
+*Befristet wohnen bis 30.09.2022*Die Liegenschaft befindet sich an schöner und ruhiger Lage im Dorf…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+4'500
+CHF
+/Monat
+Gewerbe-oder Lagerraum der unbegrenzten…
+Adresse auf Anfrage, 8600 Dübendorf
+Array
+Objekttyp
+Verkauf, Gewerbe
+Die mit ca. 450 m2 grosszügig bemessene und mehrheitlich offene Gewerbe-/ Lagerfläche ermöglicht mi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'740
+CHF
+/Monat
+Schöne helle 3 Zimmerwohnunhg In Dübend…
+Adresse auf Anfrage, 8600 Dübendorf
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Ich suche nachmieter für eine Schöne helle 3 Zimmerwohnunhg an der Kirchbachstrasse 13 in Dübendorf…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorfstrasse 69
+2'015
+CHF
+/Monat
+”Exklusive Wohnung im Grünen”
+Oberdorfstrasse 69, 8600 Dübendorf
 Array
 2.5 Zimmer
-69 m2
+75 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-69 m2
+75 m2
+Beschreibung:
+”Exklusive Wohnung im Grünen”
+Wir vermieten per 1. Juni 2021 diese moderne Wohn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorfstrasse 69
+2'568
+CHF
+/Monat
+Wir vermieten per 1. Juni 2021 diese mo…
+Oberdorfstrasse 69, 8600 Dübendorf
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Beschreibung:
+“Exklusive Wohnung im Grünen”
+Wir vermieten per 1. Juni 2021 diese moderne Wohn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hurdackerstrasse
+1'625
+CHF
+/Monat
+Sonnige 2,5 Zi. Wohnung, großer Balkon,…
+Hurdackerstrasse, 8600 Dübendorf
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+2.5
 Etage
-Die Schweizerische Post ist Eigentümerin der Liegenschaft Wilstrasse 13/15 in 8600 Dübendorf. Das G…
+Suche Nachmieter ab 01.07.21, eventuell auch eher. Die Wohnung (ca. 60 qm) mit schönem Park…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Giessenpark 1
+3'030
+CHF
+/Monat
+Sonnige Familienwohnung mit Aussicht
+Am Giessenpark 1, 8600 Dübendorf
+Array
+5.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+123 m2
+Wir vermieten eine grosszügige5.5 Zimmerwohnung in unserer neuen Überbauung Giessenhof in Dübendorf…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seidenstr. 30
+1'970
+CHF
+/Monat
+55m2 Balkon bietet Ihnen diese Wohnung!
+Seidenstr. 30, 8600 Dübendorf
+Array
+2.5 Zimmer
+130 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+130 m2
+Die Wohnüberbauung Neugut in Dübendorf liegt am Chriesbach und ist von einer ausserordentlichen Vie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seidenstr. 12
+2'020
+CHF
+/Monat
+Grosszügige und helle Wohnung!
+Seidenstr. 12, 8600 Dübendorf
+Array
+2.5 Zimmer
+129 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+129 m2
+Die Wohnüberbauung Neugut in Dübendorf liegt am Chriesbach und ist von einer ausserordentlichen Vie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Glärnischstr. 34
+2'055
+CHF
+/Monat
+Eine Wohlfühloase!
+Glärnischstr. 34, 8600 Dübendorf
+Array
+2.5 Zimmer
+74 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+74 m2
+In gepflegter Liegenschaft vermieten wir diese lichtdurchflutete Wohnung!
+Die grossflächige Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zürichstrasse 52
+1'070
+CHF
+/Monat
+Wohnen an zentraler Lage
+Zürichstrasse 52, 8600 Dübendorf
+Array
+1.5 Zimmer
+27 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+27 m2
+Unweit des Stadtzentrums vermieten wir per 1. Juli 2021 eine helle 1,5 Zimmerwohnung im 2. OG (ohne…
 Teilen
 E-Mail
 Facebook
@@ -173,26 +424,6 @@ Array
 Objekttyp
 Verkauf, Gewerbe
 AUSGEBAUTE, SICHTBARE GEWERBEFLÄCHE mit vielen Standortvorteilenhttps://gewerbe.zwicky-riedgarten.c…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Riedweg 5
-1'540
-CHF
-/Monat
-Schnell entschlossenen wohnen einen Mon…
-Riedweg 5, 8600 Dübendorf
-Array
-1.5 Zimmer
-37 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-37 m2
-Wir vermieten per sofort oder nach Vereinbarung, diese wunderschöne Wohnung an zentraler und doch r…
 Teilen
 E-Mail
 Facebook
@@ -213,26 +444,6 @@ Zimmer
 Wohnfläche
 62 m2
 **Befristet bis 30.09.2022**Die Wohnung befindet sich an ruhiger und doch zentraler Lage. Einkaufsm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hurdackerstrasse 10-38
-2'390
-CHF
-/Monat
-Originelle Maisonettewohnung in topmode…
-Hurdackerstrasse 10-38, 8600 Dübendorf
-Array
-4.5 Zimmer
-116 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Wohnfläche
-116 m2
-Wir vermieten per sofort oder nach Vereinbarung diese geniale, schöne und helle 4.5-Zimmerwohnung. …
 Teilen
 E-Mail
 Facebook
@@ -278,27 +489,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Alte Landstrasse 19c
-2'998
-CHF
-/Monat
-SCHNELL VERFÜGBARES HAUS IM SCHÖNEN DÜB…
-Alte Landstrasse 19c, 8600 Dübendorf
-Array
-45 Zimmer
-140 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-45
-Wohnfläche
-140 m2
-Etage
-Dieses schöne Haus ist nicht nur an einer ruhigen Lage sondern bietet auch eine gute Lebensqualität…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Grossackerstrasse 1
 1'785
 CHF
@@ -312,196 +502,6 @@ Wohnung, Flach
 Zimmer
 3
 Per 1. Juli 2021 oder nach Vereinbarung, vermieten wir eine grosszügige 3- Zimmerwohnung mit Balkon…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ueberlandstrasse 203
-2'000
-CHF
-/Monat
-2.5 Zimmerwohnung
-Ueberlandstrasse 203, 8600 Dübendorf
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-BeschreibungModerne und helle 2,5 Zimmer WohnungDie Wohnung verfügt über einem grossen Balkon.Einge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberdorfstrasse 69d
-143
-CHF
-/Monat
-Einstellplätze Nähe Schwimmbad zu vermi…
-Oberdorfstrasse 69d, 8600 Dübendorf
-Array
-Objekttyp
-Tiefgarage
-Zu vermieten in Dübendorf (nähe Schwimmbad) per 1. Oktober 2021 oder nach Vereinbarung Einstellplät…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bühlwiesenstrasse 2
-3'000
-CHF
-/Monat
-Stilvolle und moderne Architektur
-Bühlwiesenstrasse 2, 8600 Dübendorf
-Array
-4.5 Zimmer
-127 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-127 m2
-Per 1. Juli 2021 vermieten wir diese 4 1/2-Zimmer-Eigentums-Wohnung mit sehr hohem Ausbaustandard u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unterdorfstrasse 10
-1'445
-CHF
-/Monat
-Moderne, helle 1.5 Zi. Wohnung mit Aben…
-Unterdorfstrasse 10, 8600 Dübendorf
-Array
-1.5 Zimmer
-37 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-37 m2
-WOHNEN IM ZENTRUM VON DÜBENDORF
-Diese moderne und helle Neubauwohnung wurde im Februar 2020 fert…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'400
-CHF
-/Monat
-URBANES WOHNEN AN ZENTRALER LAGE
-Adresse auf Anfrage, 8600 Dübendorf
-Array
-3.5 Zimmer
-76 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-76 m2
-Urbanes Wohnen im Trendigen Quartier Riedgarten. Die hellen Räume und die zweckmässige Küche mit al…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberdorfstrasse 69
-2'568
-CHF
-/Monat
-Wir vermieten per 1. Juni 2021 diese mo…
-Oberdorfstrasse 69, 8600 Dübendorf
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Beschreibung:
-“Exklusive Wohnung im Grünen”
-Wir vermieten per 1. Juni 2021 diese moderne Wohn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberdorfstrasse 69
-2'015
-CHF
-/Monat
-”Exklusive Wohnung im Grünen”
-Oberdorfstrasse 69, 8600 Dübendorf
-Array
-2.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-75 m2
-Beschreibung:
-”Exklusive Wohnung im Grünen”
-Wir vermieten per 1. Juni 2021 diese moderne Wohn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Riedgarten 5
-2'090
-CHF
-/Monat
-Exklusive 3,5-Zimmerwohnung im Zwicky-R…
-Riedgarten 5, 8600 Dübendorf
-Array
-3.5 Zimmer
-68 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-68 m2
-Im Zwicky-Riedgarten vermieten wir per 1. August 2021 eine exklusive 3.5-Zimmerwohnung, 1. OG im Ne…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-3'410
-CHF
-/Monat
-MITTEN IM ZENTRUM DÜBENDORF
-Adresse auf Anfrage, 8600 Dübendorf
-Array
-3 Zimmer
-Objekttyp
-Verkauf, Praxis
-Zimmer
-3
-Diese Lokalität befindet sich im Zentrum von Dübendorf. Sie bietet Kundenfrequenz, verschiedene Die…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chürzistrasse 25
-1'490
-CHF
-/Monat
-Ihr neues zu Hause: Schönes wohnen an r…
-Chürzistrasse 25, 8600 Dübendorf
-Array
-2 Zimmer
-62 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-62 m2
-In der gepflegten Liegenschaft in einer Privatstrasse an der Chürzistrasse 25 in 8600 Dübendorf ver…
 Teilen
 E-Mail
 Facebook

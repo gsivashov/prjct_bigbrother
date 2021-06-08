@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/kanton-appenzellausserrhoden/
 Title: Wohnung & Haus mieten in Kanton Appenzell Ausserrhoden - Immostreet.ch
-Description: Wohnung & Haus mieten in Kanton Appenzell Ausserrhoden - Immostreet.ch: ImmoStreet.ch hat 219 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu fin
+Description: Wohnung & Haus mieten in Kanton Appenzell Ausserrhoden - Immostreet.ch: ImmoStreet.ch hat 218 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu fin
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-219 Resultate gefunden ·
+218 Resultate gefunden ·
 Wohnung & Haus mieten in Kanton Appenzell Ausserrhoden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,64 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Weirden 24
+1'000
+CHF
+/Monat
+Steuergünstig wohnen in Stadtnähe
+Weirden 24, 9062 Lustmühle
+Array
+3 Zimmer
+62 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+62 m2
+Diese 3-Zimmerwohnung liegt 5 Auto-Minuten vom Stadtzentrum St.Gallen entfernt. Sehr ruhig und sonn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorf 104
+Preis auf Anfrage
+attraktive 3.5 Zimmer-Wohnung mit herrl…
+Dorf 104, 9428 Walzenhausen
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Facts:- grosszügige, helle Räumlichkeiten- kleines Mehrfamilienhaus- örtliche Infrastrukturen in de…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bühlerstrasse 91
+1'320
+CHF
+/Monat
+Idyllische & zentrale Wohnung
+Bühlerstrasse 91, 9053 Teufen AR
+Array
+3.5 Zimmer
+72 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+72 m2
+Das drei Familienhaus liegt etwas ausserhalb von Teufen und doch erreichen Sie die Schule, Einkaufe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Hauptstrasse 21
 1'500
 CHF
@@ -162,13 +220,293 @@ Array
 2.5 Zimmer
 80 m2
 Objekttyp
-Wohnung, Duplex, Maisonette
+Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
 80 m2
 **WICHTIG**
 Aufgrund der aktuellen Situation weisen wir Sie gerne vorab auf die Onlinebesichtigung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bachstrasse 23
+780
+CHF
+/Monat
+1 Zi.Whg zentral
+Bachstrasse 23, 9100 Herisau
+Array
+1 Zimmer
+20 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+20 m2
+Klein aber fein
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stosswaldweg 1143
+4'900
+CHF
+/Monat
+Schöne 11 Zimmer-Villa "BELLAVISTA" am …
+Stosswaldweg 1143, 9062 Lustmühle
+Array
+11 Zimmer
+392 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+11
+Wohnfläche
+392 m2
+MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Schöne 11 Zimmer-Villa "…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obere Kohlhalden 30
+1'800
+CHF
+/Monat
+Ruhig gelegene Wohnung mit modernem Kom…
+Obere Kohlhalden 30, 9042 Speicher
+Array
+3.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Bachelor flat
+Zimmer
+3.5
+Wohnfläche
+95 m2
+Etage
+Diese wunderschöne Einliegerwohnung erstreckt sich über 2 Stockwerke und verfügt über:einen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schönengrundstrasse 10
+580
+CHF
+/Monat
+1 1/2 Zimmer-Wohnung zu vermieten
+Schönengrundstrasse 10, 9104 Waldstatt
+Array
+1.5 Zimmer
+30 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+30 m2
+Helle Freundliche Einliegerwohnung an Nichtraucher. Garage auf Wunsch Fr. 120.00 p.M.
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lilienweg 3
+1'590
+CHF
+/Monat
+Schöne helle 2.5 Zimmer Wohnung im grün…
+Lilienweg 3, 9410 Heiden
+Array
+2.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+80 m2
+-Nachmieter gesucht-Schöne helle, grosse 2.5 Zimmer Wohnung mit modernem Innenausbau, komfortable K…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sonnenbergstrasse 1249
+1'700
+CHF
+/Monat
+MODERNE Wohnung in Schwellbrunn
+Sonnenbergstrasse 1249, 9103 Schwellbrunn
+Array
+3.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+95 m2
+Etage
+Die Überbauung wurde im Baujahr 2015 erstellt. Die ländliche, stadtnahe und ruhige Lage innerhalb …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Johannes Baumann-Strasse 3a
+755
+CHF
+/Monat
+gemütliche Wohnung in ruhiger Lage
+Johannes Baumann-Strasse 3a, 9100 Herisau
+Array
+1.5 Zimmer
+50 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+50 m2
+Per 1. September 2021 oder nach Vereinbarung vermieten wir diese schöne 1.5- Zimmerwohnung in Heris…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Rosenberg 6
+1'390
+CHF
+/Monat
+3.5 Zimmer-Wohnung an sonniger Hanglage
+Am Rosenberg 6, 9410 Heiden
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Etage
+Im Auftrag der Grubenmann Liegenschaften AG vermieten wir diese 3.5 Zimmerwohnung im 1. Obergeschos…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Befang 3
+1'190
+CHF
+/Monat
+Top Angebot: 4-Zi. Wohnung Nettomiete u…
+Befang 3, 9043 Trogen
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+In der gepflegten Liegenschaft mit grünem Umschwung, vermieten wir eine wunderschöne 4.5 Zimmerwohn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schwägalpstrasse 14
+390
+CHF
+/Monat
+Möbliertes Studio in Urnäsch
+Schwägalpstrasse 14, 9107 Urnäsch
+Array
+1 Zimmer
+28 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+28 m2
+Helles, möbliertes Studio in Urnäsch zu vermietenSeparates WC im StudioDie Badewanne befindet sich …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse 68
+720
+CHF
+/Monat
+Schöne grosse 1 Zimmerwohnung
+Dorfstrasse 68, 9055 Bühler
+Array
+1 Zimmer
+25 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+25 m2
+Schöne helle 1 Zimmerwohnung Schöne helle 1 Zimmerwohnung.Das Zimmer ist vollmöbeliert. Es ist eine…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schwägalpstrasse 14
+440
+CHF
+/Monat
+Helles, möbliertes Studio - günstige Wo…
+Schwägalpstrasse 14, 9107 Urnäsch
+Array
+1.5 Zimmer
+28 m2
+Objekttyp
+Wohnung, Studio
+Zimmer
+1.5
+Wohnfläche
+28 m2
+Das möblierte  Studio umfasst eine kleine Küche von ca. 4.5m2, Essbereich 6.5m2, einen Wohnbereich …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Burghalden 8
+950
+CHF
+/Monat
+Gemütliche Singlewohnung
+Burghalden 8, 9100 Herisau
+Array
+2.5 Zimmer
+47 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+47 m2
+Die Wohnung ist ideal für alleinstehende Personen oder Pärchen ohne Kinder. Nebst dem ansprechenden…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obermoosbergstr. 2a
+2'120
+CHF
+/Monat
+Traumhafte Dachwohnung mit Cheminée
+Obermoosbergstr. 2a, 9100 Herisau
+Array
+5.5 Zimmer
+156 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+5.5
+Wohnfläche
+156 m2
+Die grosszügige Wohnung befindet sich an ruhiger Wohnlage in einem familienfreundlichen Wohnquartie…
 Teilen
 E-Mail
 Facebook
@@ -209,337 +547,6 @@ Zimmer
 Wohnfläche
 126 m2
 An der sonnigen Hanglage, der zentral gelegenen Mühlestrasse in Herisau vermieten wir per 01.09.202…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberhof 176
-940
-CHF
-/Monat
-2 1/2 Zimmer-Wohnung mit Seesicht
-Oberhof 176, 9426 Lutzenberg
-Array
-2.5 Zimmer
-55 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-55 m2
-Etage
-Schöne, helle Wohnung mit komfortabler Wohnküche, Wohnzimmer, Schlafzimmer, Douche und sep. WC beim…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hinterwies 15
-1'620
-CHF
-/Monat
-kuschelige Wohnung mit Galeriegeschoss …
-Hinterwies 15, 9042 Speicher
-Array
-3.5 Zimmer
-93 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-93 m2
-Diese sanierte Wohnung bietet folgende Vorteile:neue Küche mit Geschirrspüler und Glaskeram…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unterdorf 1
-1'590
-CHF
-/Monat
-3.5-Zi. Wohnung mit Balkon - Erstvermie…
-Unterdorf 1, 9042 Speicher
-Array
-3.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-79 m2
-Erstvermietung nach Sanierung!Wir vermieten nach Vereinbarung eine lichtdurchflutete und stilvolle …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alpsteinstr.67
-600
-CHF
-/Monat
-Zimmer zu Vermieten ab 01.06
-Alpsteinstr.67, 9100 Herisau
-Array
-25 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-25 m2
-Vermiete schönes zimmer mit separatem wc,parking GRATIS UND INTERNET,,info 078.642.00.36
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonderstrasse 2
-1'980
-CHF
-/Monat
-Rehetobel AR - mit fantastischer Aussic…
-Sonderstrasse 2, 9038 Rehetobel
-Array
-4.5 Zimmer
-127 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Wohnfläche
-127 m2
-Etage
-Rehetobel AR - Licht - Luft - Aussicht - modernes Design An der Sonderstrasse, fantastische Aussich…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obereggerstrasse 28
-1'350
-CHF
-/Monat
-Zuhause in Heiden!
-Obereggerstrasse 28, 9410 Heiden
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-HeidenWohnen im Herzen von HeidenIn der Nähe vom Zentrum Heiden vermieten wir diese schöne 3.5 Zimm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wilen 1258
-1'390
-CHF
-/Monat
-Idyllisches Wohnen im Grünen!
-Wilen 1258, 9428 Walzenhausen
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-!! WILLKOMMEN IM GRÜNEN !!Diese Wohnung bietet ein charmantes und ruhig gelegenes  Zuhause. Einkauf…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fadenrainstrasse 1
-2'090
-CHF
-/Monat
-moderne 4.5-Zimmerwohnung mit Alpsteins…
-Fadenrainstrasse 1, 9053 Teufen AR
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Etage
-An der Fadenrainstrasse 1 in Teufen vermieten wir eine schöne und moderne 4.5-Zimmerwohnung mit Bli…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Befang 3
-1'190
-CHF
-/Monat
-Top Angebot: 4-Zi. Wohnung Nettomiete u…
-Befang 3, 9043 Trogen
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-An der gepflegten Liegenschaft mit grünem Umschwung, vermieten wir eine wunderschöne 4.5 Zimmerwohn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Teufenerstrasse 189
-1'390
-CHF
-/Monat
-3.5-Zimmer Dachwohnung im Riethüsli St.…
-Teufenerstrasse 189, 9012 St. Gallen
-Array
-3.5 Zimmer
-68 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-68 m2
-Sie wohnen in der Stadt St. Gallen, bezahlen Ihre Steuern jedoch im steuergünstigen Teufen!Sitzplat…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Urnäscherstrasse 9
-1'190
-CHF
-/Monat
-Renovierte Dachwohung mit grossem Balkon
-Urnäscherstrasse 9, 9104 Waldstatt
-Array
-4 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-75 m2
-Im Mehrfamilienhaus vermieten wir eine frisch renovierte 4-Zimmer-Wohnung im 3. Obergeschoss. Neue …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bad 32b
-1'430
-CHF
-/Monat
-Wunderschöne 2.5 Zimmer-Wohnung im Appe…
-Bad 32b, 9104 Waldstatt
-Array
-2.5 Zimmer
-46 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-46 m2
-bad32.ch Altersgerechte Mietwohnungen in der Wohnüberbauung bad32.ch in Waldstatt In der idyllisc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bad 32a
-1'860
-CHF
-/Monat
-Tolle 3.5 Zimmer Wohnung mit Sicht ins …
-Bad 32a, 9104 Waldstatt
-Array
-3.5 Zimmer
-78 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-78 m2
-bad32.ch Altersgerechte Mietwohnungen in der Wohnüberbauung bad32.ch in Waldstatt In der idyllisc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bad 32b
-1'830
-CHF
-/Monat
-Wunderschöne EG-Wohnung im Appenzellerl…
-Bad 32b, 9104 Waldstatt
-Array
-3.5 Zimmer
-78 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-78 m2
-bad32.ch Altersgerechte Mietwohnungen in der Wohnüberbauung bad32.ch in Waldstatt In der idyllisc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Egg 102
-1'600
-CHF
-/Monat
-5.5 Zi Wohnung
-Egg 102, 9103 Schwellbrunn
-Array
-5.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-100 m2
-Schöne grosse Wohnung ab 1.8. odet nach Vereinbarung.Parkplatz 40.-
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alpsteinstrasse 16b
-940
-CHF
-/Monat
-Neu sanierte und renovierte 2-Z-Wohnung…
-Alpsteinstrasse 16b, 9100 Herisau
-Array
-2 Zimmer
-38 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-38 m2
-Herrliche neu renovierte 2-Z-Wohnung mit separatem Eingang zu vermieten:
-neu renovierte und mode…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alpsteinstrasse 16b
-920
-CHF
-/Monat
-Neu renovierte 2.5-Z-Dachwohnung zu ver…
-Alpsteinstrasse 16b, 9100 Herisau
-Array
-2.5 Zimmer
-38 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-38 m2
-Herrliche neu renovierte 2.5-Z-Dachwohnung zu vermieten:
-neu renovierte und moderne Küche
-Hel…
 Teilen
 E-Mail
 Facebook

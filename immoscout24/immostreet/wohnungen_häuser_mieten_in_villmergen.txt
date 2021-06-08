@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-villmergen/
 Title: Wohnungen & Häuser mieten in Villmergen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Villmergen - Immostreet.ch: ImmoStreet.ch hat 29 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Villmergen - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-29 Resultate gefunden ·
+32 Resultate gefunden ·
 Wohnungen & Häuser mieten in Villmergen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,81 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Dorfmattenstrasse 34
+1'110
+CHF
+/Monat
+Gemütliche und sonnige Dachwohnung in V…
+Dorfmattenstrasse 34, 5612 Villmergen
+Array
+2.5 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+60 m2
+Wir vermieten per sofort oder nach Vereinbarung eine sehr gemütliche Dachwohnung an der Dorfmattens…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wohlerstr. 11
+75
+CHF
+/Monat
+Bastelraum in Villmergen!
+Wohlerstr. 11, 5612 Villmergen
+Array
+Objekttyp
+Atelier
+An zentraler Lage in Villmergen vermieten wir ab sofort oder nach Vereinbarung einen ca. 9 m² Bast…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Büttikerstrasse 4
+2'520
+CHF
+/Monat
+6 ½ Zimmer Eckhaus (180 m2) in einer Sa…
+Büttikerstrasse 4, 5612 Villmergen
+Array
+6.5 Zimmer
+180 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+180 m2
+Etage
+Liegt Ihnen Nachhaltigkeit an Herzen und möchten Sie umweltfreundlich & CO2-neutral mit einem m…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Anglikerstrasse 58
+2'190
+CHF
+/Monat
+Die perfekte Familienwohnung - modern u…
+Anglikerstrasse 58, 5612 Villmergen
+Array
+5.5 Zimmer
+127 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+127 m2
+Die Wohnüberbauung Greenpark hält was der Name verspricht: Eine grüne, familienfreundliche Wohnoase…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 EH Eichmattstrasse 26-48
 110
 CHF
@@ -152,26 +227,6 @@ Zimmer
 Wohnfläche
 106 m2
 Wir vermieten per 1. August 2021 oder nach Vereinbarung eine attraktive 4½-Zimmer-Wohnung. Die Wohn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Anglikerstrasse 58
-2'190
-CHF
-/Monat
-Nachmieter 01.08. gesucht 5,5 Zimmer EG…
-Anglikerstrasse 58, 5612 Villmergen
-Array
-5.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-120 m2
-Dringend Nachmieter für eine 5,5 Zimmer EG Wohnung in Villmergen zum 01.08. gesucht.Es sind 4 Schla…
 Teilen
 E-Mail
 Facebook
@@ -424,51 +479,6 @@ Objekttyp
 Büro
 Etage
 Büroraum (ca. 23 m2) - einfach und praktischVielseitiges Gewerbegebäude mit Büro-, Werkstatt-, Fabr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unterdorfstrasse 3/5
-1'830
-CHF
-/Monat
-Schöne 4.5 Zimmer Wohnung mit Balkon un…
-Unterdorfstrasse 3/5, 5612 Villmergen
-Array
-96 m2
-Objekttyp
-Wohnung, Flach
-Wohnfläche
-96 m2
-Die frisch renovierte 4.5 Zimmer Wohnung liegt in idealer Zentrallage nah Kindergarten, Schule und …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unterdorfstrasse 2
-177
-CHF
-Individuell - Modern - Im Zentrum von V…
-Unterdorfstrasse 2, 5612 Villmergen
-Array
-Objekttyp
-Verkauf, Geschäft
-Etage
-Gleich um die Ecke von der Post-Filiale vermieten wir diese helle Ladenfläche mit 281 m² im Erdgesc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-EH Eichmattstrasse 26-48
-190
-CHF
-/Monat
-E-Parkplatz zu vermieten
-EH Eichmattstrasse 26-48, 5612 Villmergen
-Array
-Objekttyp
-Offener Parkplatz
-Per sofort oder nach Vereinbarung vermieten wir einen Elektro-Einstellplatz an der Eichmattstrasse …
 Teilen
 E-Mail
 Facebook

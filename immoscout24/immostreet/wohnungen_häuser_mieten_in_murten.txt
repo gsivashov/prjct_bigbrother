@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-murten/
 Title: Wohnungen & Häuser mieten in Murten - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Murten - Immostreet.ch: ImmoStreet.ch hat 36 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Murten - Immostreet.ch: ImmoStreet.ch hat 35 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-36 Resultate gefunden ·
+35 Resultate gefunden ·
 Wohnungen & Häuser mieten in Murten
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,57 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+560
+CHF
+/Monat
+UTILISATION MULTIPLE
+Adresse auf Anfrage, 3280 Murten
+Array
+3 Zimmer
+Objekttyp
+Büro
+Zimmer
+3
+Ce local commercial se compose de trois pièces. Il peut être utilisé comme bureau, dépot ou mixte. …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grubenweg 38
+1'750
+CHF
+/Monat
+Sanierte 4-Zimmerwohnung, Parterre links
+Grubenweg 38, 3280 Murten
+Array
+4 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+70 m2
+Zentrale, sonnige und ruhige Lage - öffentliche Verkehrsmittel, Schule, Fussballplatz, Murtensee un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schützenmatte 15, EH 35
+120
+CHF
+/Monat
+Einstellhallenplatz in Murten zu vermie…
+Schützenmatte 15, EH 35, 3280 Murten
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten nach Vereinbarung einen Einstellhallenplatz an der Schützenmatte 15 in Murten.Monatli…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Schützenmatt 19
 1'010
 CHF
@@ -178,26 +229,6 @@ Zimmer
 Wohnfläche
 85 m2
 Im wunderschönen Murten und kinderfreundlichem Quartier vermieten wir eine grosszügige Wohnung mit …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Engelhardstrasse 111
-1'350
-CHF
-/Monat
-2.5-ZW à 59 m2 im EG mit Gartensitzplatz
-Engelhardstrasse 111, 3280 Murten
-Array
-2.5 Zimmer
-59 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-59 m2
-Die Wohnung ist 59 m2 gross, liegt im EG und ist wie folgt ausgestattet:- Grosse Küche mit Glaskera…
 Teilen
 E-Mail
 Facebook
@@ -259,43 +290,6 @@ Zimmer
 Wohnfläche
 97 m2
 Wir vermieten eine attraktive Wohnung mit folgenden Vorteilen:- Lichtdurchflutete Räume- Schöner Pa…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'890
-CHF
-/Monat
-4 1/2 ( 3 1/2) Zi-Wohnung in COURTEPIN
-Adresse auf Anfrage, 3280 Murten
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Ab 1. Juli 2021 oder später.Das 4. Zimmer hat eine Schiebetür zum Wohnzimmer- Bad und Dusche/WC- Ze…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-560
-CHF
-/Monat
-UTILISATION MULTIPLE
-Adresse auf Anfrage, 3280 Murten
-Array
-3 Zimmer
-Objekttyp
-Büro
-Zimmer
-3
-Ce local commercial se compose de trois pièces. Il peut être utilisé comme bureau, dépot ou mixte. …
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-dietikon/
 Title: Wohnung & Haus kaufen in Bezirk Dietikon - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Dietikon - Immostreet.ch: ImmoStreet.ch hat 48 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Dietikon - Immostreet.ch: ImmoStreet.ch hat 44 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-48 Resultate gefunden ·
+44 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Dietikon
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,64 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Kirchstrasse 26
+1'840'000
+CHF
+Baustart erfolgt: Dach-Maisonette-Wohnu…
+Kirchstrasse 26, 8104 Weiningen ZH
+Array
+4.5 Zimmer
+142 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+142 m2
+Im "Moon" in Weiningen überzeugt diese 4 1/2-Zimmer-Dach-Maisonette-Wohnung ganz besonders!"Moon" -…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'240'000
+CHF
+MODERNER AUSBAUSTANDARD MIT ZWEI TERRAS…
+Adresse auf Anfrage, 8104 Weiningen ZH
+Array
+3.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+3.5
+Wohnfläche
+120 m2
+Diese modern, ausgebaute Attika-Maisonette Wohnung überzeugt mit einem modernen Ausbaustandard. Hie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Buebenaustrasse 16
+1'190'000
+CHF
+Tolle, top ausgebaute 3.5 Zi.-Attika-Te…
+Buebenaustrasse 16, 8954 Geroldswil
+Array
+3.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+145 m2
+Gemeinde
+Geroldswil liegt rechts der Limmat am Fuss des Altbergs und ist mit Bus oder S-Bahn sow…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Birmensdorferstrasse 41
 1'200'000
 CHF
@@ -167,25 +225,6 @@ Wohnfläche
 104 m2
 Etage
 Zu verkaufen vom Privat eine sehr schöne helle Attikawohnung mit gehobenem Standart wie z.B.
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'780'000
-CHF
-Wunderschönes Einfamilienhaus mit parad…
-Adresse auf Anfrage, 8952 Schlieren
-Array
-6.5 Zimmer
-174 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-174 m2
-Charmantes Einfamilienhaus mit paradiesischem GartenEin äusserst attraktiver Garten, gestaltet von …
 Teilen
 E-Mail
 Facebook
@@ -293,54 +332,14 @@ GROSSZÜGIGE WOHNFLÄCHE MIT BLICK INS G…
 Adresse auf Anfrage, 8952 Schlieren
 Array
 5.5 Zimmer
-140 m2
+124 m2
 Objekttyp
 Wohnung, Attikawohnung
 Zimmer
 5.5
 Wohnfläche
-140 m2
+124 m2
 An ruhiger, sonniger Lage verkaufen wir diese im obersten Stockwerk gelegene Wohnung. Von der urspr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Widenbüelstrasse 1
-1'690'000
-CHF
-Neubauprojekt "Widenbüel" | Nähe mit Na…
-Widenbüelstrasse 1, 8103 Unterengstringen
-Array
-5.5 Zimmer
-126 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-126 m2
-Etage
-Familiäre Lebensfreude mit 5.5-Zimmer auf 126.5m2 an zentraler Lage in Unterengstringen Beim Neubau…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Widenbüelstrasse 1
-1'700'000
-CHF
-Neubauprojekt "Widenbüel" | Nähe mit Na…
-Widenbüelstrasse 1, 8103 Unterengstringen
-Array
-5.5 Zimmer
-127 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-127 m2
-Etage
-Nähe mit Naturanschluss, Ihre grosszügige und moderne 5.5-Zimmerwohnung mit 127m2 im 1. OG in Unter…
 Teilen
 E-Mail
 Facebook
@@ -439,24 +438,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-MODERNER AUSBAUSTANDARD MIT ZWEI TERRAS…
-Adresse auf Anfrage, 8104 Weiningen ZH
-Array
-3.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-120 m2
-Diese modern, ausgebaute Attika-Maisonette Wohnung überzeugt mit einem modernen Ausbaustandard. Hie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Rebackerstrasse 35
 1'100'000
 CHF
@@ -514,21 +495,43 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Kirchstrasse 26
-1'840'000
+Erlenstrasse
+1'900'000
 CHF
-Baustart erfolgt: Dach-Maisonette-Wohnu…
-Kirchstrasse 26, 8104 Weiningen ZH
+TOP OF OETWIL - HAUS 4 - Neubau freiste…
+Erlenstrasse, 8955 Oetwil an der Limmat
 Array
-4.5 Zimmer
-142 m2
+5.5 Zimmer
+170 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+170 m2
+Etage
+HAUS 4 - DACHS- TOP OF OETWIL -
+In Oetwil an der Limmat entstehen an herrlicher, ruhiger Lage 12 …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hasenbergstrasse 28
+1'870'000
+CHF
+Mitten im Grünen und doch zentral
+Hasenbergstrasse 28, 8953 Dietikon
+Array
+5.5 Zimmer
+138 m2
 Objekttyp
 Wohnung, Attikawohnung
 Zimmer
-4.5
+5.5
 Wohnfläche
-142 m2
-Im "Moon" in Weiningen überzeugt diese 4 1/2-Zimmer-Dach-Maisonette-Wohnung ganz besonders!"Moon" -…
+138 m2
+Etage
+Im Einklang mit der NaturDie 18 komfortablen 2.5- bis 6.5-Zimmer-Eigentumswohnungen bestechen durch…
 Teilen
 E-Mail
 Facebook

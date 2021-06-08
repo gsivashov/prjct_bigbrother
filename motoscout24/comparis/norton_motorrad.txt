@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -150,7 +149,7 @@ Favoriten (0)
 Ihre Auswahl
 Norton Motorrad
 Motorradmarkt: Occasionen und neue Motorräder
-52
+51
 Treffer für Sie gefunden auf allen grossen Schweizer Motorrad-Portalen
 Treffer für Sie gefunden auf allen grossen Schweizer Motorrad-Portalen
 Erstzulassung
@@ -639,9 +638,9 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Norton
-(52)
+(51)
 Norton Oldtimer
-(32)
+(31)
 Norton Occasion
 (14)
 Norton Neu
@@ -653,6 +652,18 @@ Norton
 Modelle
 Norton Commando 961 Sport
 (3)
+Norton Commando
+Alle Details
+Inserat vom 07.06.2021
+Occasion
+01.1974
+7'400 km
+850 ccm
+Preis
+CHF 13'800.-
+Alle Details
+CHF 13'800.-
+Alle Details
 Norton Commando 850
 Alle Details
 Inserat vom 30.05.2021
@@ -732,20 +743,9 @@ Occasion
 300 km
 745 ccm
 Preis
-CHF 16'950.-
+CHF 16'500.-
 Alle Details
-CHF 16'950.-
-Alle Details
-Norton Commando 750 Fastback
-Alle Details
-Inserat vom 02.03.2021
-Oldtimer
-01.1968
-5'800 km
-Preis
-CHF 16'900.-
-Alle Details
-CHF 16'900.-
+CHF 16'500.-
 Alle Details
 Norton Dominator de Luxe
 Alle Details

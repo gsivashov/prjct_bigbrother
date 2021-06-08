@@ -113,55 +113,6 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Adresse auf Anfrage
-Preis auf Anfrage
-GUT AUSGEBAUT, VERKEHRSGÜNSTIGER LAGE (…
-Adresse auf Anfrage, 6312 Steinhausen
-Array
-9 Zimmer
-Objekttyp
-Büro
-Zimmer
-9
-Die klimatisierten Büroräume laden zu produktiven Arbeiten ein. Durch die optimale Lage im Kanton Z…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 54
-495
-CHF
-/Monat
-Helles Büro an zentraler Lage
-Bahnhofstrasse 54, 6312 Steinhausen
-Array
-1 Zimmer
-20 m2
-Objekttyp
-Büro
-Zimmer
-1
-Wohnfläche
-20 m2
-Etage
-Ab sofort oder nach Vereinbarung ein Nachmieter gesucht.Küche, WC's sowie Dusche zur Mitbenutzung.P…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hinterbergstrasse 26
-170
-CHF
-Neu ausgebautes Büro zu vermieten
-Hinterbergstrasse 26, 6312 Steinhausen
-Array
-Objekttyp
-Büro
-Das Büro wird komplett neu ausgebaut. Fertig ausgebaut verfügt das Büro über:auf Wunsch ein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
 180
 CHF
 LICHTDURCHFLUTET UND KOMFORTABEL
@@ -206,6 +157,55 @@ Büro
 Zimmer
 5
 Mitten in Steinhausen, im steuergünstigen Kanton Zug gelegen, befinden sich diese hellen, grosszügi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+GUT AUSGEBAUT, VERKEHRSGÜNSTIGER LAGE (…
+Adresse auf Anfrage, 6312 Steinhausen
+Array
+9 Zimmer
+Objekttyp
+Büro
+Zimmer
+9
+Die klimatisierten Büroräume laden zu produktiven Arbeiten ein. Durch die optimale Lage im Kanton Z…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 54
+495
+CHF
+/Monat
+Helles Büro an zentraler Lage
+Bahnhofstrasse 54, 6312 Steinhausen
+Array
+1 Zimmer
+20 m2
+Objekttyp
+Büro
+Zimmer
+1
+Wohnfläche
+20 m2
+Etage
+Ab sofort oder nach Vereinbarung ein Nachmieter gesucht.Küche, WC's sowie Dusche zur Mitbenutzung.P…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hinterbergstrasse 26
+170
+CHF
+Neu ausgebautes Büro zu vermieten
+Hinterbergstrasse 26, 6312 Steinhausen
+Array
+Objekttyp
+Büro
+Das Büro wird komplett neu ausgebaut. Fertig ausgebaut verfügt das Büro über:auf Wunsch ein…
 Teilen
 E-Mail
 Facebook

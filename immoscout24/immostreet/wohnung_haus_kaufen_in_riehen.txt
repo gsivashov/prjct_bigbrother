@@ -151,6 +151,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Aeussere Baselstrasse 117
+1'100'000
+CHF
+5.5-Zimmer Reiheneinfamilienhaus in Rie…
+Aeussere Baselstrasse 117, 4125 Riehen
+Array
+5.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+140 m2
+Nur wenige Schritte entfernt von den Langen Erlen, mit bester Verkehrsanbindung sowohl nach Riehen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Inzlingerstrasse 85
 1'360'000
 CHF
@@ -265,25 +284,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Sperberweg 9
-1'200'000
-CHF
-VERKAUFT | 4.5-Zimmer-Eck-Einfamilienha…
-Sperberweg 9, 4125 Riehen
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-120 m2
-An bester, familienfreundlicher Lage, am Sperberweg 9 in Riehen, verkaufen wir dieses 4.5-Zimmer-Ec…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Inzlingerstrasse 87
 1'050'000
 CHF
@@ -298,7 +298,7 @@ Zimmer
 3.5
 Wohnfläche
 101 m2
-Der Zeilenbau der Überbauung "Hinter Gärten" besticht vor allem durch ein vielseitiges und diverses…
+An wunderschöner Lage im Zentrum von Riehen erfolgte im März der Startschuss für die Überbauung "Hi…
 Teilen
 E-Mail
 Facebook

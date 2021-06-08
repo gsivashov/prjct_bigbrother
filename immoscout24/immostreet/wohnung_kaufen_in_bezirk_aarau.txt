@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-aarau/?pagenum=2
 Title: Wohnung kaufen in Bezirk Aarau - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Aarau - Immostreet.ch: ImmoStreet.ch hat 87 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Aarau - Immostreet.ch: ImmoStreet.ch hat 88 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-87 Resultate gefunden ·
+88 Resultate gefunden ·
 Wohnung kaufen in Bezirk Aarau
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,21 +134,177 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-825'000
+Gränicherstrasse 2
+520'000
 CHF
-SONNIG MIT PARADIESISCHEM GARTEN!
-Adresse auf Anfrage, 5034 Suhr
+HENZ-Areal A1.1.2
+Gränicherstrasse 2, 5034 Suhr
+Array
+3.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+83 m2
+Etage
+HENZ richtig vielfältigBUCHEN SIE NOCH HEUTE IHRE VIRTUELLE BESICHTIGUNG DER MUSTERWOHNUNG UNTER WW…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+parkstrasse 8
+690'000
+CHF
+Zu verkaufen, Eigentumswohnung, 5036 Ob…
+parkstrasse 8, 5036 Oberentfelden
 Array
 4.5 Zimmer
-115 m2
+109 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-115 m2
-Dieses gepflegte und ruhig gelegene Objekt bietet dank dem durchdachten Grundriss genügend Platz. D…
+109 m2
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+530'000
+CHF
+NATURKLANG
+Adresse auf Anfrage, 5026 Densbüren
+Array
+3.5 Zimmer
+91 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+91 m2
+EINDRUCKSVOLLES ARCHITEKTURKONZEPTBaustart bereits Erfolgt!Bei dem vorliegenden Objekt handelt es s…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+635'000
+CHF
+NATURKLANG
+Adresse auf Anfrage, 5026 Densbüren
+Array
+4.5 Zimmer
+109 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+109 m2
+NaturverbundenEINDRUCKSVOLLES ARCHITEKTURKONZEPTBaustart bereits erfolgt! Bei dem vorliegenden Obje…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+760'000
+CHF
+NATURKLANG
+Adresse auf Anfrage, 5026 Densbüren
+Array
+4.5 Zimmer
+136 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+136 m2
+NaturverbundenEINDRUCKSVOLLES ARCHITEKTURKONZEPTBaustart bereits erfolgt! Bei dem vorliegenden Obje…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bibersteinerstrasse 41a
+810'000
+CHF
+Neubau / Innenausbau zum Mitbestimmen -…
+Bibersteinerstrasse 41a, 5024 Küttigen
+Array
+4.5 Zimmer
+107 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+107 m2
+Etage
+Sind Sie auf der Suche nach einem zental gelegenen Wohnraum in der Region Aarau? Dann ist vielleich…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bibersteinerstrasse 41a
+670'000
+CHF
+Neubauwohnungen - in der Nähe vom Aarau…
+Bibersteinerstrasse 41a, 5024 Küttigen
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Etage
+Sind Sie auf der Suche nach einem zental gelegenen Wohnraum in der Region Aarau? Dann ist vielleich…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bibersteinerstrasse 41a
+590'000
+CHF
+2.5- bis 4.5-Zimmer Eigentumswohnungen …
+Bibersteinerstrasse 41a, 5024 Küttigen
+Array
+2.5 Zimmer
+76 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+76 m2
+Etage
+Sind Sie auf der Suche nach einem zental gelegenen Wohnraum in der Region Aarau? Dann ist vielleich…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'000'000
+CHF
+Ueber den Dächern von Gränichen die Aus…
+Adresse auf Anfrage, 5722 Gränichen
+Array
+5.5 Zimmer
+164 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+Wohnfläche
+164 m2
+Etage
+Die herrliche Wohnoase befindet sich im 4. Stock eines modernen Mehrfamilienhauses mit 6 Wohneinhei…
 Teilen
 E-Mail
 Facebook
@@ -210,7 +366,7 @@ E-Mail
 Facebook
 Whatsapp
 Jurastrasse 2
-575'000
+550'000
 CHF
 Unverbaubare Weitsicht - Ihr neues Zuha…
 Jurastrasse 2, 5035 Unterentfelden
@@ -261,23 +417,6 @@ Zimmer
 Wohnfläche
 93 m2
 Eine gepflegte und sehr praktische WohnungSehr gute Wohnlage für Senioren und JungeSchöne Aarelands…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Aeussere Mattenstrasse 23
-270'000
-CHF
-Per sofort zu verkaufen 3.5 Zi-Wohnung …
-Aeussere Mattenstrasse 23, 5036 Oberentfelden
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Description
-Die geräumige 3.5 Zi.-Wohnung mit Balkon befindet sich in einem ruhigen Quartier an …
 Teilen
 E-Mail
 Facebook
@@ -375,137 +514,6 @@ Wohnfläche
 110 m2
 Etage
 An sehr ruhiger und doch zentraler Lage in Rombach wartet eine interessante 5.5 Zimmer Wohnung mit …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rebenweg
-1'420'000
-CHF
-Alpha-Immobilien verkauft: Neu erstellt…
-Rebenweg, 5037 Muhen
-Array
-4.5 Zimmer
-159 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-4.5
-Wohnfläche
-159 m2
-Lage der LiegenschaftDie Liegenschaft befindet sich am Südhang des Schwabistals an wunderbar ruhige…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alte Stockstrasse 9-13
-860'000
-CHF
-Rendite erzielen und/oder zu einem spät…
-Alte Stockstrasse 9-13, 5022 Rombach
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Etage
-Ihr neues Renditeobjekt oder Ihre neue Wohnung? Sie entscheiden. RUHIGE WOHNOASEIm begehrten Küttig…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ausserdorf
-640'000
-CHF
-NATURKLANG
-Ausserdorf, 5026 Densbüren
-Array
-3.5 Zimmer
-78 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-78 m2
-NaturverbundenEINDRUCKSVOLLES ARCHITEKTURKONZEPTBaustart bereits erfolgt!Bei dem vorliegenden Objek…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Waldweg
-665'000
-CHF
-"AAAtrium" - Alles, ausser gewöhnlich! …
-Waldweg, 5024 Küttigen
-Array
-2.5 Zimmer
-82 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-82 m2
-"AAAtrium" - schon der Name lässt vermuten, dass sich dahinter etwas nicht Alltägliches verbirgt. G…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Waldweg
-995'000
-CHF
-"AAAtrium" - Alles, ausser gewöhnlich! …
-Waldweg, 5024 Küttigen
-Array
-4.5 Zimmer
-123 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-123 m2
-"AAAtrium" - schon der Name lässt vermuten, dass sich dahinter etwas nicht Alltägliches verbirgt. G…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Waldweg
-1'490'000
-CHF
-"AAAtrium" - Alles, ausser gewöhnlich! …
-Waldweg, 5024 Küttigen
-Array
-4.5 Zimmer
-133 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-133 m2
-"AAAtrium" - schon der Name lässt vermuten, dass sich dahinter etwas nicht Alltägliches verbirgt. G…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Waldweg
-790'000
-CHF
-"AAAtrium" - Alles, ausser gewöhnlich! …
-Waldweg, 5024 Küttigen
-Array
-3.5 Zimmer
-99 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-99 m2
-"AAAtrium" - schon der Name lässt vermuten, dass sich dahinter etwas nicht Alltägliches verbirgt. G…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-diessenhofen/
 Title: Wohnung mieten in Diessenhofen - Immostreet.ch
-Description: Wohnung mieten in  Diessenhofen - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Diessenhofen - Immostreet.ch: ImmoStreet.ch hat 17 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-20 Resultate gefunden ·
+17 Resultate gefunden ·
 Wohnung mieten in Diessenhofen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -227,26 +227,6 @@ Zimmer
 Wohnfläche
 50 m2
 Wir vermieten eine praktische 2.5 Zimmer-Dachwohnung an guter Lage. Die Wohnung befindet sich zur Z…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rheinhalde 16
-750
-CHF
-/Monat
-Studio für flexible Nutzung als Atelier…
-Rheinhalde 16, 8253 Diessenhofen
-Array
-1 Zimmer
-30 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-30 m2
-Im schönen Diessenhofen, unweit vom Rhein vermieten wir per sofort dieses moderne, helle und grossz…
 Teilen
 E-Mail
 Facebook
@@ -450,46 +430,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-im Vogelsang 7
-1'430
-CHF
-/Monat
-Vielleicht Ihr neues Zuhause?
-im Vogelsang 7, 8253 Diessenhofen
-Array
-2.5 Zimmer
-67 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-67 m2
-Im Vogelsang wartet dieses ruhige Zuhause in grüner Umgebung auf Sie:- Barrierefreie Wohnung - Offe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-im Vogelsang 5
-1'480
-CHF
-/Monat
-Gemütlich und modern
-im Vogelsang 5, 8253 Diessenhofen
-Array
-2.5 Zimmer
-72 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-72 m2
-Sehr schöne Lage zwischen Rhein und Einkaufsmöglichkeiten...- Freundliche, helle Räume- Eingangsber…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bahnhofstrasse 20
 2'090
 CHF
@@ -512,7 +452,7 @@ E-Mail
 Facebook
 Whatsapp
 Hauptstrasse 11
-1'190
+1'140
 CHF
 /Monat
 2 ½ Zimmer-Wohnung in Diessenhofen miet…

@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -957,66 +956,78 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Harley-Davidson
-(1'771)
+(1'767)
 Harley-Davidson Occasion
-(1'489)
+(1'491)
 Harley-Davidson Neu
-(161)
+(157)
 Harley-Davidson Oldtimer
-(94)
+(93)
 Harley-Davidson Vorführmodell
 (26)
 Aufbau
 Harley-Davidson Chopper
-(806)
+(805)
 Harley-Davidson Strasse
-(617)
+(619)
 Harley-Davidson Dreirad / Trike
 (5)
 Harley-Davidson
 Modelle
 Harley-Davidson FLFBS Fat Boy 114 ABS
-(13)
-Harley-Davidson FLHCS Heritage Class. 114
-(13)
+(15)
 Harley-Davidson FLHX Street Glide ABS
-(14)
+(16)
+Harley-Davidson FLHXS Street Glide Sp 114
+(12)
 Harley-Davidson FLSTF Fat Boy
-(13)
+(15)
 Harley-Davidson FXBB Street Bob 107 ABS
-(14)
+(12)
 Harley-Davidson FXBRS Breakout 114 ABS
 (13)
 Harley-Davidson FXDF Dyna Fat Bob 103 ABS
-(15)
+(13)
 Harley-Davidson FXFBS Fat Bob 114 ABS
-(17)
+(16)
 Harley-Davidson FXLRS Low Rider S 114 ABS
 (25)
 Harley-Davidson FXSB Breakout 103 ABS
-(23)
+(27)
 Harley-Davidson FXSTB Night Train
 (16)
 Harley-Davidson FXSTC Softail Custom
 (19)
-Harley-Davidson VRSCF V-Rod Muscle ABS
-(17)
-Harley-Davidson XL 1200 C Custom
-(15)
-Harley-Davidson XL 1200 C Sportster
+Harley-Davidson FXSTS Springer Softail
 (14)
-Harley-Davidson XL 1200 CX Roadster ABS
-(15)
-Harley-Davidson XL 1200 N Sport Nightster
+Harley-Davidson VRSCF V-Rod Muscle ABS
+(20)
+Harley-Davidson XL 1200 C Custom
+(17)
+Harley-Davidson XL 1200 C Sportster
 (12)
+Harley-Davidson XL 1200 CX Roadster ABS
+(14)
 Harley-Davidson XL 1200 X Forty Eight
-(29)
+(30)
 Harley-Davidson XL 1200 X Forty Eight ABS
-(33)
-Harley-Davidson XL 883 N Sportster Iron
+(31)
+Harley-Davidson XL 883L Sport. Super Low
 (13)
 Weitere Modelle
-(1'771)
+(1'767)
+Harley-Davidson FLS Softail Slim ABS
+Alle Details
+Inserat vom 04.06.2021
+Occasion
+08.2012
+33'500 km
+1689 ccm
+Preis
+CHF 13'200.-
+Alle Details
+CHF 13'200.-
+Alle Details
 Harley-Davidson FLS Softail Slim ABS
 Alle Details
 Inserat vom 27.05.2021
@@ -1112,18 +1123,6 @@ Preis
 CHF 14'900.-
 Alle Details
 CHF 14'900.-
-Alle Details
-Harley-Davidson FLS Softail Slim ABS
-Alle Details
-Inserat vom 18.03.2021
-Occasion
-05.2014
-4'277 km
-1689 ccm
-Preis
-CHF 21'250.-
-Alle Details
-CHF 21'250.-
 Alle Details
 Harley-Davidson FLS Softail Slim ABS
 Alle Details

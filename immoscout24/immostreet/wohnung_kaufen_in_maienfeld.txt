@@ -134,26 +134,6 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Mühlebündtestrasse 8
-360'000
-CHF
-3.5 Zimmer-Wohnung zu verkaufen
-Mühlebündtestrasse 8, 7304 Maienfeld
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Etage
-Das Mehrfamilienhaus Mühlbach liegt zentrumsnah und sehr ruhig an der Mühlebündtestrasse in Maienfe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Loretscher 14
 1'100'000
 CHF
@@ -170,6 +150,26 @@ Wohnfläche
 155 m2
 Etage
 Nach Vereinbarung verkaufen wir in Maienfeld eine top moderne 41/2-Zimmerwohnung. Gemäss Grundbuch …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mühlebündtestrasse 8
+360'000
+CHF
+3.5 Zimmer-Wohnung zu verkaufen
+Mühlebündtestrasse 8, 7304 Maienfeld
+Array
+3.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+83 m2
+Etage
+Das Mehrfamilienhaus Mühlbach liegt zentrumsnah und sehr ruhig an der Mühlebündtestrasse in Maienfe…
 Teilen
 E-Mail
 Facebook

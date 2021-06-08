@@ -134,6 +134,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+615'000
+CHF
+Charmante und grosszügige 3.5 Zimmer Da…
+Adresse auf Anfrage, 8854 Siebnen
+Array
+3.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+105 m2
+Etage
+Bevorzugen Sie ländliches und ruhiges Wohnen, möchten jedoch auf die Nähe von Städten und auf die g…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Kantonsstrasse 31
 1'680'000
 CHF
@@ -249,25 +269,6 @@ Wohnfläche
 71 m2
 Etage
 An ruhiger Quartierlage verkaufen wir in Reichenburg eine attraktive, erschwingliche Eigentumswohnu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 15A
-650'000
-CHF
-Dachwohnung im Herzen von Reichenburg
-Bahnhofstrasse 15A, 8864 Reichenburg
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Die neu renovierte Dachwohnung liegt im Zentrum von Reichenburg. Geniessen Sie Ihre neue Eigentumsw…
 Teilen
 E-Mail
 Facebook

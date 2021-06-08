@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-stans/
 Title: Wohnung mieten in Stans - Immostreet.ch
-Description: Wohnung mieten in  Stans - Immostreet.ch: ImmoStreet.ch hat 13 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Stans - Immostreet.ch: ImmoStreet.ch hat 14 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-13 Resultate gefunden ·
+14 Resultate gefunden ·
 Wohnung mieten in Stans
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,46 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+1'290
+CHF
+/Monat
+SONNIGE UND ZENTRALE LAGE
+Adresse auf Anfrage, 6370 Stans
+Array
+3.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+70 m2
+Diese Wohnung befindet sich in einem sehr ruhigen und gepflegten Wohnquartier mit hervorragender In…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eichli 17
+1'230
+CHF
+/Monat
+Hübsche 2 1/2 Zimmer Dach Wohnung mit s…
+Eichli 17, 6370 Stans
+Array
+2.5 Zimmer
+60 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+2.5
+Wohnfläche
+60 m2
+Schöne 2 1/2 Zimmer Dachwohnung in ruhigem Quartier. Ab sofort zu vermieten. Die Wohnung ist teilwe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Kohlgraben 5
 600
 CHF
@@ -229,30 +269,8 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Wirzboden, 5
-2'125
-CHF
-/Monat
-Nachmieter gesucht für wunderschöne 3.5…
-Wirzboden, 5, 6370 Stans
-Array
-3.5 Zimmer
-89 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-89 m2
-Wir suchen einen Nachmieter für unsere wunderschöne 3.5-Zimmer-Attikawohung inmitten von Stans mit …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bahnhofstrasse 12
-1'550
-CHF
-/Monat
+Preis auf Anfrage
 Charmante 3 Zimmer-Praxis-Wohnung-Büror…
 Bahnhofstrasse 12, 6370 Stans
 Array

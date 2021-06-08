@@ -122,6 +122,43 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Palmenstrasse 1
+1'740
+CHF
+/Monat
+5.5 Zimmerwohnung mit neuer Küche
+Palmenstrasse 1, 9444 Diepoldsau
+Array
+5.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+LageWir vermieten in einem Mehrfamilienhaus eine ruhige, helle, grosszügige 5.5 Zimmerwohnung mit e…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Steigstrasse 11a
+1'350
+CHF
+/Monat
+Gemütliche EG 3.5 Whg. im Zentrum von D…
+Steigstrasse 11a, 9444 Diepoldsau
+Array
+3.5 Zimmer
+68 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+68 m2
+Gemütliche und hochwertige 3.5 Zimmerwohnung in familienfreundlicher Umgebung mitten im Zentrum von…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Steigstrasse 16a
 140
 CHF
@@ -152,27 +189,6 @@ Zimmer
 Wohnfläche
 85 m2
 Wir suchen per 01.08.2021 oder nach Vereinbarung einen Nachmieter unserer schönen Dachwohnung. Sie …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Steigstrasse 16a
-1'190
-CHF
-/Monat
-Hell und modern - Ihr Zuhause mit gross…
-Steigstrasse 16a, 9444 Diepoldsau
-Array
-2.5 Zimmer
-48 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-48 m2
-Etage
-Neuwertige 2.5-Zimmerwohnung mit eigenem WaschturmPer 01. August 2021 oder nach Vereinbarung vermie…
 Teilen
 E-Mail
 Facebook
@@ -271,23 +287,6 @@ Zimmer
 Wohnfläche
 126 m2
 Diese schöne 4.5-Zimmer-Wohnung eignet sich hervorragend für Familien oder ein junges Pärchen. Die …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Palmenstrasse 1
-1'740
-CHF
-/Monat
-5.5 Zimmerwohnung mit neuer Küche
-Palmenstrasse 1, 9444 Diepoldsau
-Array
-5.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-LageWir vermieten in einem Mehrfamilienhaus eine ruhige, helle, grosszügige 5.5 Zimmerwohnung mit e…
 Teilen
 E-Mail
 Facebook

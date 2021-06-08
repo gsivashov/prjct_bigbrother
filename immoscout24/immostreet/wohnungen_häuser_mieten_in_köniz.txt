@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-koeniz/
 Title: Wohnungen & Häuser mieten in Köniz - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Köniz - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Köniz - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-31 Resultate gefunden ·
+34 Resultate gefunden ·
 Wohnungen & Häuser mieten in Köniz
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,107 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Schwarzenburgstrasse 232
+1'010
+CHF
+/Monat
+Ihre erste eigene Wohnung ?
+Schwarzenburgstrasse 232, 3098 Köniz
+Array
+2 Zimmer
+45 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+45 m2
+Wir vermieten per 01.09.2021 nach Vereinbarung eine helle 2-Zimmerwohnung im 1.OG.
+kleine Küch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Köniztalstrasse 8
+740
+CHF
+/Monat
+Schönes Studio
+Köniztalstrasse 8, 3098 Köniz
+Array
+1 Zimmer
+22 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+22 m2
+Die kleine aber feine Wohnung befindet sich im 4. Stock (ohne Balkon) und wurde vor 3 Jahren sanier…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfbachstrasse 28
+1'600
+CHF
+/Monat
+3 1/2-Zimmerwohnung, Parterre rechts
+Dorfbachstrasse 28, 3098 Köniz
+Array
+3.5 Zimmer
+55 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+55 m2
+Die Liegenschaft befindet sich an sonniger und ruhiger Lage. Diverse Einkaufsmöglichkeiten, Schulen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Weiermattweg 17
+1'500
+CHF
+/Monat
+Charmante 3.5 Zimmer Hoch-Parterre Wohn…
+Weiermattweg 17, 3098 Köniz
+Array
+3.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+75 m2
+Charmante 3.5 Zimmer Wohnung an ruhiger Lage und gegenüber dem Weiermatt Schwimmbad. Es handelt sic…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wiesenstrasse 14, Köniz
+1'190
+CHF
+/Monat
+gemütliche 2-Zimmer-Wohnung mit Aussich…
+Wiesenstrasse 14, Köniz, 3098 Köniz
+Array
+2 Zimmer
+42 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+42 m2
+Die gemütliche Wohnung mit lieber Nachbarschaft liegt in zentraler und dennoch ruhiger Lage. Einkau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Schlossstrasse 23
 1'350
 CHF
@@ -154,6 +255,9 @@ Zimmer
 3.5
 Wohnfläche
 85 m2
+Wir vermieten per 01.08.2021 eine helle 3.5-Zimmerwohnung im 7.OG.
+offene Küche
+Bad …
 Teilen
 E-Mail
 Facebook
@@ -198,26 +302,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Schlossstrasse 1
-1'080
-CHF
-/Monat
-Helle 2-Zimmer-Wohnung im Parterre
-Schlossstrasse 1, 3098 Köniz
-Array
-2 Zimmer
-46 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-46 m2
-Per 1. September 2021 oder nach Vereinbarung vermieten wir eine helle 2-Zimmer-Wohnung im Hochparte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Wiesenstrasse 14
 1'190
 CHF
@@ -234,23 +318,6 @@ Zimmer
 Wohnfläche
 42 m2
 Die Wohnung liegt in sonniger, ruhiger, zentraler und kinderfreundlicher Lage. Einkaufsmöglichkeite…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schaufelweg, 57
-1'250
-CHF
-/Monat
-Schöne 2.5 Zimmer Wohnung in Schliern b…
-Schaufelweg, 57, 3098 Köniz
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Zu vermieten ab 01.08.2021:Schöne und helle 2.5 Zimmer Wohnung in Schliern bei Köniz.Die Wohnung wu…
 Teilen
 E-Mail
 Facebook
@@ -435,46 +502,6 @@ Array
 Objekttyp
 Tiefgarage
 Wir vermieten nach Vereinbarung einen Einstellhallenplatz am Weiermattweg in Köniz.Der Mietzins ist…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sägemattstrasse 61
-140
-CHF
-/Monat
-Schluss mit Parkbussen & langer Parkpla…
-Sägemattstrasse 61, 3098 Köniz
-Array
-Objekttyp
-Tiefgarage
-Wir vermieten Einstellplätze nach Vereinbarung. Der Mietzins ist exkl. MwSt.Interessiert? Rufen Sie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lilienweg 59 Einstellhalle
-120
-CHF
-/Monat
-Suchen Sie eine Garagenbox in Köniz?
-Lilienweg 59 Einstellhalle, 3098 Köniz
-Array
-Objekttyp
-Einzelgarage
-Wir vermieten per 01.06.2021 oder nach Vereinbarung mehrere Garagenboxe, welche sich in einer Einst…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bläuacker 8
-Preis auf Anfrage
-Bläuacker - Di Platz in Köniz
-Bläuacker 8, 3098 Köniz
-Array
-Objekttyp
-Verkauf, Geschäft
-Werden Sie Teil der neuen Überbauung Bläuacker "Di Platz" im Zentrum von Köniz.In den zwei modernen…
 Teilen
 E-Mail
 Facebook

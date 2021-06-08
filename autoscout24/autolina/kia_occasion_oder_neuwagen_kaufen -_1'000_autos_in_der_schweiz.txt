@@ -81,7 +81,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -153,27 +153,6 @@ WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
 KIA
-Ceed SW1.6 GDi PHEV Style
-CHF 33'990
-ab CHF 366/Monat
--
-Automat
-5 km
-Voll-Hybrid Benzin/Elektro
-Vorderradantrieb
-grau
-141 PS
-TG
-Merken
-KIA
-Ceed SW1.6 GDi PHEV Style
--
-141 PS
-5 km
-CHF 33'990
-Merken
-ab CHF 366/Monat
-KIA
 Carens 1.6 GDi Trend
 CHF 20'000
 ab CHF 215/Monat
@@ -216,27 +195,6 @@ CHF 7'900
 Merken
 ab CHF 89/Monat
 KIA
-ProCeed 1.4 T-GDi GT-Line
-CHF 25'990
-ab CHF 280/Monat
-12.2019
-Handschaltung
-4'000 km
-Benzin
-Vorderradantrieb
-grau
-140 PS
-TG
-Merken
-KIA
-ProCeed 1.4 T-GDi GT-Line
-12.2019
-140 PS
-4'000 km
-CHF 25'990
-Merken
-ab CHF 280/Monat
-KIA
 Picanto 1.2 16V Trend
 CHF 5'500
 ab CHF 62/Monat
@@ -257,223 +215,271 @@ Picanto 1.2 16V Trend
 CHF 5'500
 Merken
 ab CHF 62/Monat
-KIA
-XCeed 1.6 T-GDi Style
-CHF 30'860
-ab CHF 332/Monat
-09.2020
-Automat
-2'500 km
-Benzin
-Vorderradantrieb
-rot
-204 PS
-TG
-Merken
-KIA
-XCeed 1.6 T-GDi Style
-09.2020
-204 PS
-2'500 km
-CHF 30'860
-Merken
-ab CHF 332/Monat
 NEU
 KIA
-Stinger 3.3 T-GDi GT Automat AWD
-CHF 33'900
-ab CHF 365/Monat
-11.2017
-Automat
-83'000 km
-Benzin
-Allradantrieb
-blau
-370 PS
-ZH
-Merken
-KIA
-Stinger 3.3 T-GDi GT Automat AWD
-11.2017
-370 PS
-83'000 km
-CHF 33'900
-Merken
-ab CHF 365/Monat
-NEU
-KIA
-Sorento 1.6 T-GDi Hybrid Style 7P
-CHF 56'900
-ab CHF 612/Monat
-01.2021
-Automat
-5'500 km
-Voll-Hybrid Benzin/Elektro
-Allradantrieb
-blau
-230 PS
-AR
-Merken
-KIA
-Sorento 1.6 T-GDi Hybrid Style 7P
-01.2021
-230 PS
-5'500 km
-CHF 56'900
-Merken
-ab CHF 612/Monat
-NEU
-KIA
-Carens 2.0 GDI Style Automatic
-CHF 13'900
-ab CHF 150/Monat
-09.2014
-Automat
-67'000 km
-Benzin
-Vorderradantrieb
-grau
-166 PS
-AG
-Merken
-KIA
-Carens 2.0 GDI Style Automatic
-09.2014
-166 PS
-67'000 km
-CHF 13'900
-Merken
-ab CHF 150/Monat
-NEU
-KIA
-Rio 1.2 CVVT Rio
-CHF 10'900
-ab CHF 134/Monat
-04.2018
-Handschaltung
-68'000 km
-Benzin
-Vorderradantrieb
-grau
-84 PS
-ZH
-Merken
-KIA
-Rio 1.2 CVVT Rio
-04.2018
-84 PS
-68'000 km
-CHF 10'900
-Merken
-ab CHF 134/Monat
-NEU
-KIA
-Picanto 1.2 CVVT Style Automatic
-CHF 10'900
-ab CHF 123/Monat
-09.2014
-Automat
-39'798 km
-Benzin
-Vorderradantrieb
-anthrazit
-85 PS
-VD
-Merken
-KIA
-Picanto 1.2 CVVT Style Automatic
-09.2014
-85 PS
-39'798 km
-CHF 10'900
-Merken
-ab CHF 123/Monat
-NEU
-KIA
-Optima Hybrid 2.0 CVVT
-CHF 12'900
-ab CHF 139/Monat
-12.2013
-Automat
-68'000 km
-Voll-Hybrid Benzin/Elektro
-Vorderradantrieb
-grau
-150 PS
-AR
-Merken
-KIA
-Optima Hybrid 2.0 CVVT
-12.2013
-150 PS
-68'000 km
-CHF 12'900
-Merken
-ab CHF 139/Monat
-NEU
-KIA
-Soul EV Style
-CHF 19'900
-ab CHF 214/Monat
-04.2018
+Picanto 1.0 CVVT First Edition
+CHF 18'000
+ab CHF 194/Monat
 -
-26'500 km
-Elektro
-Vorderradantrieb
-grau
-110 PS
-ZH
-Merken
-KIA
-Soul EV Style
-04.2018
-110 PS
-26'500 km
-CHF 19'900
-Merken
-ab CHF 214/Monat
-KIA
-Rio 1.4 CVVT Trend
-CHF 9'900
-ab CHF 112/Monat
-05.2016
-Handschaltung
-56'050 km
+Automat
+41 km
 Benzin
 Vorderradantrieb
-grau
-109 PS
+silber
+67 PS
 FR
 Merken
 KIA
-Rio 1.4 CVVT Trend
-05.2016
-109 PS
-56'050 km
+Picanto 1.0 CVVT First Edition
+-
+67 PS
+41 km
+CHF 18'000
+Merken
+ab CHF 194/Monat
+NEU
+KIA
+Picanto 1.0 T-GDi GT Line
+CHF 22'300
+ab CHF 240/Monat
+-
+Handschaltung
+55 km
+Benzin
+Vorderradantrieb
+grau
+100 PS
+FR
+Merken
+KIA
+Picanto 1.0 T-GDi GT Line
+-
+100 PS
+55 km
+CHF 22'300
+Merken
+ab CHF 240/Monat
+NEU
+KIA
+Picanto 1.0 T-GDi X-Line
+CHF 22'950
+ab CHF 247/Monat
+-
+Handschaltung
+45 km
+Benzin
+Vorderradantrieb
+weiss
+100 PS
+FR
+Merken
+KIA
+Picanto 1.0 T-GDi X-Line
+-
+100 PS
+45 km
+CHF 22'950
+Merken
+ab CHF 247/Monat
+NEU
+KIA
+Stonic 1.0 T-GDi Power
+CHF 24'550
+ab CHF 264/Monat
+-
+Handschaltung
+6 km
+Benzin
+Vorderradantrieb
+grau
+100 PS
+FR
+Merken
+KIA
+Stonic 1.0 T-GDi Power
+-
+100 PS
+6 km
+CHF 24'550
+Merken
+ab CHF 264/Monat
+NEU
+KIA
+Optima Sportswagon 2.0 GDi Plug-in Hybrid Style
+CHF 36'900
+ab CHF 397/Monat
+01.2020
+Automat
+9'500 km
+Plug-in-Hybrid Benzin/Elektro
+Vorderradantrieb
+blau
+156 PS
+FR
+Merken
+KIA
+Optima Sportswagon 2.0 GDi Plug-i...
+01.2020
+156 PS
+9'500 km
+CHF 36'900
+Merken
+ab CHF 397/Monat
+NEU
+KIA
+Sorento 1.6 T-GDi Hybrid Style 7P
+CHF 66'200
+ab CHF 711/Monat
+-
+Automat
+20 km
+Voll-Hybrid Benzin/Elektro
+Allradantrieb
+weiss
+180 PS
+ZH
+Merken
+KIA
+Sorento 1.6 T-GDi Hybrid Style 7P
+-
+180 PS
+20 km
+CHF 66'200
+Merken
+ab CHF 711/Monat
+NEU
+KIA
+ProCeed 1.6 T-GDi GT DCT
+CHF 34'900
+ab CHF 375/Monat
+01.2021
+Automat
+10 km
+Benzin
+Vorderradantrieb
+weiss
+204 PS
+LU
+Merken
+KIA
+ProCeed 1.6 T-GDi GT DCT
+01.2021
+204 PS
+10 km
+CHF 34'900
+Merken
+ab CHF 375/Monat
+NEU
+KIA
+Pro Cee'd 1.6 GDi Turbo GT
+CHF 12'750
+ab CHF 137/Monat
+02.2014
+Handschaltung
+105'600 km
+Benzin
+Vorderradantrieb
+schwarz
+204 PS
+OW
+Merken
+KIA
+Pro Cee'd 1.6 GDi Turbo GT
+02.2014
+204 PS
+105'600 km
+CHF 12'750
+Merken
+ab CHF 137/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+KIA
+Picanto 1.2 CVVT GT-Line
+CHF 15'480
+ab CHF 167/Monat
+01.2018
+Handschaltung
+30'500 km
+Benzin
+Vorderradantrieb
+silber
+84 PS
+ZH
+Merken
+KIA
+Picanto 1.2 CVVT GT-Line
+01.2018
+84 PS
+30'500 km
+CHF 15'480
+Merken
+ab CHF 167/Monat
+KIA
+Ceed 1.6 GDi Style DCT
+CHF 9'900
+ab CHF 112/Monat
+07.2012
+Automat
+130'000 km
+Benzin
+Vorderradantrieb
+schwarz
+135 PS
+ZH
+Merken
+KIA
+Ceed 1.6 GDi Style DCT
+07.2012
+135 PS
+130'000 km
 CHF 9'900
 Merken
 ab CHF 112/Monat
 KIA
-ProCeed 1.6 T-GDi GT
-CHF 41'150
-ab CHF 442/Monat
--
+Sportage 1.6CRDi Mild Hybrid Black Edition 4WD DCT
+CHF 35'900
+ab CHF 386/Monat
+05.2021
 Automat
 100 km
-Benzin
-Vorderradantrieb
-grau
-204 PS
-AR
+Mild-Hybrid Diesel/Elektro
+Allradantrieb
+schwarz
+136 PS
+LU
 Merken
 KIA
-ProCeed 1.6 T-GDi GT
--
-204 PS
+Sportage 1.6CRDi Mild Hybrid Blac...
+05.2021
+136 PS
 100 km
-CHF 41'150
+CHF 35'900
 Merken
-ab CHF 442/Monat
+ab CHF 386/Monat
+KIA
+Sportage 1.6 T-GDi Black Edition 4WD Automat
+CHF 36'900
+ab CHF 397/Monat
+-
+Automat
+20 km
+Benzin
+Allradantrieb
+anthrazit
+177 PS
+LU
+Merken
+KIA
+Sportage 1.6 T-GDi Black Edition ...
+-
+177 PS
+20 km
+CHF 36'900
+Merken
+ab CHF 397/Monat
 1
 1
 2

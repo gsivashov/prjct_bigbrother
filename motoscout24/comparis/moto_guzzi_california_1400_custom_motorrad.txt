@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -817,22 +816,22 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Moto Guzzi
-(520)
+(518)
 Moto Guzzi Neu
-(243)
+(240)
 Moto Guzzi Occasion
-(208)
+(212)
 Moto Guzzi Oldtimer
 (55)
 Moto Guzzi Vorführmodell
-(14)
+(12)
 Aufbau
 Moto Guzzi Strasse
-(241)
+(242)
 Moto Guzzi Gelände / Enduro
-(96)
+(92)
 Moto Guzzi Chopper
-(88)
+(90)
 Moto Guzzi
 Modelle
 Moto Guzzi 850 LE MANS III
@@ -840,14 +839,14 @@ Moto Guzzi 850 LE MANS III
 Moto Guzzi Audace 1400 Carbon ABS
 (9)
 Moto Guzzi Bellagio
-(6)
+(7)
 Moto Guzzi Breva
 750 Cat.
 (4)
 Moto Guzzi California 1100 C
 (4)
 Moto Guzzi California 1100 EV
-(6)
+(7)
 Moto Guzzi California 1400 Touring
 (9)
 Moto Guzzi California II
@@ -861,7 +860,7 @@ Moto Guzzi Stelvio 1200 8V ABS
 Moto Guzzi V7 Classic
 (6)
 Moto Guzzi V7 II Racer 750 ABS
-(5)
+(6)
 Moto Guzzi V7 III Special 750 ABS
 (7)
 Moto Guzzi V7 III Stone 750 ABS
@@ -869,15 +868,15 @@ Moto Guzzi V7 III Stone 750 ABS
 Moto Guzzi V7 Stone 750
 (7)
 Moto Guzzi V85 TT 850 ABS
-(51)
+(49)
 Moto Guzzi V9 Bobber 850 ABS
-(21)
+(20)
 Moto Guzzi V9 Bobber Sport 850 ABS
 (13)
 Moto Guzzi V9 Roamer 850 ABS
 (16)
 Weitere Modelle
-(520)
+(518)
 Moto Guzzi California 1400 Custom
 Alle Details
 Inserat vom 30.05.2021

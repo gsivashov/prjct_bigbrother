@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-staufen/
 Title: Wohnung & Haus mieten in Staufen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Staufen - Immostreet.ch: ImmoStreet.ch hat 12 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Staufen - Immostreet.ch: ImmoStreet.ch hat 13 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-12 Resultate gefunden ·
+13 Resultate gefunden ·
 Wohnung & Haus mieten in Staufen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Chrüzweg 26 (Haus A1 rechts)
+1'515
+CHF
+/Monat
+Hier finden Sie Ihr Wohnglück
+Chrüzweg 26 (Haus A1 rechts), 5603 Staufen
+Array
+2.5 Zimmer
+68 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+68 m2
+Per 01.07.2021 vermieten wir diese schöne und top moderne 2.5-Zimmerwohnung im 2. Stock.Die Wohnung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Chrüzweg 28 (Haus A1 links)
 1'770
 CHF
@@ -323,8 +343,8 @@ Zimmer
 3.5
 Wohnfläche
 92 m2
-Schöne neue 3.5-Zimmerwohnung mit Balkon, Waschmaschine und Tumbler im Dorfzentrum von Staufen.
-…
+Schöne neu 3.5-Zimmerwohnung mit Balkon, im Dorfzentrum von Staufen.
+Nebenan befindet sich der V…
 Teilen
 E-Mail
 Facebook

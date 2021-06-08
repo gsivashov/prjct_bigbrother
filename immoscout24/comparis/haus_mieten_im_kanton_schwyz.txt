@@ -133,7 +133,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -149,7 +148,7 @@ Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseit
 Haus mieten im Kanton Schwyz
 Finden Sie ein Haus zur Miete und treffen Sie eine gute Entscheidung. Mit comparis.ch haben Sie alle wichtigen Informationen aus einer Hand mit dem besten Überblick aller Inserate der grössten Immobilien-Portale der Schweiz, inklusive den historischen Mietpreisen sowie dem Preisniveau in der zukünftigen Nachbarschaft.
 Gemeinden in diesem Kanton
-AltendorfFreienbachGalgenenGersauLachenReichenburgSattel
+GalgenenGersauLachenReichenburgSattel
 comparis.ch
 Über Comparis
 Medien

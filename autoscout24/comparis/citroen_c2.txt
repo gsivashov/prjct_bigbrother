@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -603,7 +602,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Citroen
-(3'783)
+(3'772)
 Citroen C2 Occasion
 (37)
 Aufbau
@@ -619,21 +618,21 @@ Citroen C2
 (37)
 Modelle
 Citroen C3
-(726)
+(716)
 Citroen C5
-(397)
+(402)
 Citroen C4
-(369)
+(368)
 Citroen Berlingo
 (342)
-Citroen C1
-(274)
 Citroen Jumper
-(269)
+(276)
+Citroen C1
+(272)
 Citroen Spacetourer
-(168)
+(170)
 Citroen Jumpy
-(166)
+(158)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -649,6 +648,53 @@ weniger
 30 Inserate
 0 Inserate
 0 Inserate
+CITROEN C2 1.6i VTS
+05.06.2021
+Occasion
+09.2005, Manuell, Benzin
+158'000 km, 122 PS, Rot
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 3'600
+Citroën C2 1.4i Tonic
+04.06.2021
+Occasion
+04.2007, Manuell, Benzin
+92'000 km, 73 PS, andere
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 2'500
+CITROEN C2 1.4i Tonic
+03.06.2021
+Occasion
+04.2007, Manuell, Benzin
+92'000 km, 73 PS, Bordeaux
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 2'500
+CITROEN C2 1.6i VTS by Loeb
+5.5
+03.06.2021
+Occasion
+06.2007, Manuell, Benzin
+148'000 km, 122 PS, Rot
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 1'600
+CITROEN C2 1.6i VTR SensoDrive
+5.0
+03.06.2021
+Occasion
+09.2003, Automat, Benzin
+109'000 km, 110 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 1'600
 Citroën C2 1.1i Furio
 01.06.2021
 Occasion
@@ -658,16 +704,6 @@ Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 2'000
-CITROEN C2 1.4i Exclusive
-5.0
-01.06.2021
-Occasion
-02.2004, Manuell, Benzin
-203'000 km, 73 PS, Rot
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 800
 CITROEN C2 1.1i Furio
 31.05.2021
 Occasion
@@ -677,17 +713,6 @@ Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 2'000
-Preisreduktion
-Citroën C2 1.1i Furio
-6.0
-30.05.2021
-Occasion
-11.2005, Manuell, Benzin
-82'320 km, 60 PS, Rot
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 1'000
 CITROEN C2 1.4i Exclusive
 26.05.2021
 Occasion
@@ -697,8 +722,9 @@ Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 2'700
+Preisreduktion
 CITROEN C2 1.1i Furio
-4.0
+4.5
 26.05.2021
 Occasion
 08.2005, Manuell, Benzin
@@ -706,7 +732,7 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 1'399
+CHF 1'299
 CITROEN C2 1.1i Tonic
 23.05.2021
 Occasion
@@ -716,38 +742,6 @@ Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 2'900
-Preisreduktion
-CITROEN C2 1.4i Exclusive
-5.0
-20.05.2021
-Occasion
-02.2009, Manuell, Benzin
-145'000 km, 73 PS, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 1'200
-Preisreduktion
-CITROEN C2 1.4i Exclusive
-3.5
-18.05.2021
-Occasion
-06.2006, Manuell, Benzin
-114'000 km, 73 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 2'300
-Preisreduktion
-CITROEN C2 1.4i Exclusive
-11.05.2021
-Occasion
-03.2006, Manuell, Benzin
-178'470 km, 73 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 1'990
 vorherige Seite
 Sie befinden sich auf Seite1
 2

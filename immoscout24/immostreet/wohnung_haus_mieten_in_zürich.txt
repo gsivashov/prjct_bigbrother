@@ -152,386 +152,392 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Aprikosenstrasse 5
-1'490
+Nelkenstrasse 7
+3'200
 CHF
 /Monat
-modernes Studio
-Aprikosenstrasse 5, 8051 Zürich
-Array
-1 Zimmer
-24 m2
-Objekttyp
-Wohnung, Studio
-Zimmer
-1
-Wohnfläche
-24 m2
-An zentraler Lage, Mitten im Kreis 12, nahe Schwamendingerplatz, entstanden 15 hochwertige Studios …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kanonengasse 33
-900
-CHF
-/Monat
-Cozy WG room to rent
-Kanonengasse 33, 8004 Zürich
-Array
-Objekttyp
-Wohnung, Einzelzimmer
-We are both entrepreneurs and are most of the time on the way. We are looking for a open mind and r…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Turnerstrasse 40
-1'400
-CHF
-/Monat
-Perfekte Single Wohnung an bester Lage
-Turnerstrasse 40, 8006 Zürich
-Array
-1.5 Zimmer
-30 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-30 m2
-Schöne Wohnung in Ruhigem Wohnquartiernahe ETF 5Min.öffentlicher Verkehr 2 min. FusswegBitte per Wh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'000
-CHF
-/Monat
-Zimmer mit mit toller Aussicht in Wiedi…
-Adresse auf Anfrage, 8055 Zürich
-Array
-13 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-13 m2
-Ich suche per 1.7.2021 oder nach Vereinbarung eine*n Mitbewohner*in für meine 3.5-Zimmer-Wohnung im…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Birchstrasse 407
-1'846
-CHF
-/Monat
-Ruhige 3.5 Zimmerwohnung - Nachmieter …
-Birchstrasse 407, 8052 Zürich
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Nachmieter gesucht für eine 3.5 Zimmerwohnung. Die Wohnung befindet sich im Seebachquartier in ruhi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stüssistrasse 15
-1'100
-CHF
-/Monat
-Die 1-Zimmer-Wohnung
-Stüssistrasse 15, 8006 Zürich
-Array
-1 Zimmer
-25 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-25 m2
-Die Wohnung liegt zentral in Gehdistanz zum Schafffhauserplatz; Bahnhof und Innenstadt sind innerha…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ernastrasse 20
-1'000
-CHF
-/Monat
-befristete Untervermietung
-Ernastrasse 20, 8004 Zürich
-Array
-23 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-23 m2
-Grosses Zimmer zur Untervermietung vom 6. bis 31. Juli mit Flexibilität für Daten. Die Wohnung ist …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dreikönigstrasse 26
-1'450
-CHF
-/Monat
-Exklusives Studio
-Dreikönigstrasse 26, 8002 Zürich
-Array
-1 Zimmer
-30 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-30 m2
-Designerstudio mit Küchenzeile und Bad. An erstklassiger Lage inmitten des traditionsreichen Zürche…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Badenerstrasse 560
-895
-CHF
-/Monat
-Zentral gelegene 1-Zimmerwohnung
-Badenerstrasse 560, 8048 Zürich
-Array
-1 Zimmer
-35 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-35 m2
-Per 01.10.2021 vermieten wir eine zentral gelegene 1-Zimmerwohnung im Kreis 9.Die Besichtigung find…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Strehlgasse 9
-3'750
-CHF
-/Monat
-Frisch sanierte Altbauwohnung mit viel …
-Strehlgasse 9, 8001 Zürich
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Diese traumhafte, grosse 3.5-Zimmer-Dachwohnung befindet sich an exklusiver Wohnlage im Herzen von …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schumacherweg 37
-1'700
-CHF
-/Monat
-Wir vermieten eine schöne 4-Zimmerwohun…
-Schumacherweg 37, 8046 Zürich
+Stadtwohnung an zentraler Lage im Kreis…
+Nelkenstrasse 7, 8006 Zürich
 Array
 4 Zimmer
-68 m2
+113 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4
 Wohnfläche
-68 m2
-**********************************************************************Es findet folgende öffentlich…
+113 m2
+An attraktiver Lage im Kreis 6 vermieten wir diese 4-Zimmerwohnung im 2. Obergeschoss per 1. Juli 2…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Jakob-Fügli-Strasse 18
-1'480
+Unterwerkstrasse 15
+1'545
 CHF
 /Monat
-Die perfekte Single-Wohnung
-Jakob-Fügli-Strasse 18, 8048 Zürich
+Bright 1.5 room flat on the 6th floor w…
+Unterwerkstrasse 15, 8052 Zürich
 Array
 1.5 Zimmer
-26 m2
+40 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 1.5
 Wohnfläche
-26 m2
-Per sofort oder nach Vereinbarung vermieten wir diese topmoderne Wohnung mitten in Zürich-Altstette…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dörflistrasse 47
-2'930
-CHF
-/Monat
-Wohnen in einem lebendigen Stadtteil Zü…
-Dörflistrasse 47, 8050 Zürich
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Die vom Taglicht durchflutete moderne Wohnung befindet sich im aufstrebenden Quartier von Oerlikon.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'600
-CHF
-/Monat
-IDEALE LAGE - HELL UND ZENTRAL
-Adresse auf Anfrage, 8003 Zürich
-Array
-2.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-2.5
-Wohnfläche
-65 m2
-Diese schöne und charmante Wohnung besticht nicht nur durch den guten Ausbaustandard, sondern auch …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hüttisstr. 8
-2'270
-CHF
-/Monat
-Wohnung mit Balkon in der Nähe des Bahn…
-Hüttisstr. 8, 8050 Zürich
-Array
-2.5 Zimmer
-86 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-86 m2
-In der Nähe vom Bahnhof Zürich-Oerlikon vermieten wir die helle 2.5-Zimmerwohnung mit sonnigem Balk…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zollikerstrasse 193
-3'220
-CHF
-/Monat
-Einzigartige Wohnung im Seefeld für Ein…
-Zollikerstrasse 193, 8008 Zurich
-Array
-3.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-95 m2
-Die Wohnung befindet sich in einem Park in einer sehr ruhigen Wohngegend und ist fünf Gehminuten vo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'445
-CHF
-/Monat
-Room in a WG of 2 / kreis 4
-Adresse auf Anfrage, 8004 Zurich
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Einzelzimmer
-Zimmer
-3.5
+40 m2
 Etage
-Room in a WG for 2 - kreis 4 - Available Immediately Room to rent as of now in a WG in front of the…
+The apartment is located in the modern development in Zurich Seebach. The apartment has a winter ga…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Wehntalerstrasse 34
+Lehenstrasse 64
+1'790
+CHF
+/Monat
+schöner wohnen an top Lage in Wipkingen
+Lehenstrasse 64, 8037 Zürich
+Array
+1.5 Zimmer
+38 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+38 m2
+Per 1. Juli 2021 oder nach Vereinbarung vermieten wir diese grosszügig dimensionierte 1.5-Zimmerwoh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Pfingstweidstrasse 106c
+1'893
+CHF
+/Monat
+Aussergewöhnlich Wohnen in Zürich - mit…
+Pfingstweidstrasse 106c, 8005 Zürich
+Array
+2.5 Zimmer
+54 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+54 m2
+Die LagePer 01.09.2021 oder nach Vereinbarung vermieten wir diese tolle Wohnung. Zürich-West ist ei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hotzestrasse
+2'690
+CHF
+/Monat
+Cozy, bright, and well connected apartm…
+Hotzestrasse, 8006 Zurich
+Array
+2.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+65 m2
+Etage
+Cozy apartment in a quiet but still well connected apartment in Kreis 6 in Zürich.Connections:
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ettenfeldstrasse 14
 2'100
 CHF
 /Monat
-Charmante 3 Zi-Wohnung zu vermieten gee…
-Wehntalerstrasse 34, 8057 Zürich
+Erstvermietung; finden Sie hier Ihre Tr…
+Ettenfeldstrasse 14, 8052 Zürich
+Array
+2.5 Zimmer
+64 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+64 m2
+Willkommen in Zürich-Seebach in der neuen & modernen Überbauung 'am Chatzenbach'.
+Die Wohnu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Badenerstrasse, 8048
+750
+CHF
+/Monat
+WG Zimmer
+Badenerstrasse, 8048, 8048 Zürich
+Array
+15 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+15 m2
+Per 01.07.21 Suche ich für ein unmobiliertes Zimmer einen Mitbewohner/in Die Wohnung hat 3 Zimmer i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'390
+CHF
+/Monat
+Appartamento
+Adresse auf Anfrage, 8057 Zürich
+Array
+1.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+1.5 loc. Wehntalerstrasse 13 15 july 2021
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oerliokonerstrasse 14
+1'000
+CHF
+/Monat
+Möbliertes WG-Zimmer in EFH beim Milchb…
+Oerliokonerstrasse 14, 8057 Zürich
+Array
+12 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+12 m2
+Wir sind 1 Frau und 1 Mann und suchen per 06. Juli 2021 (ev. früher oder nach Vereinbarung) eine b…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Nordstrasse 309
+2'430
+CHF
+/Monat
+mit Blick auf den Uetliberg und in die …
+Nordstrasse 309, 8037 Zürich
 Array
 3 Zimmer
+70 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3
+Wohnfläche
+70 m2
+Wir vermieten per 01. Juli 2021 eine zentrale 3.0-Zimmerwohnung in der Nähe des Wipkingerplatzes mi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rigistrasse 31
+2'300
+CHF
+/Monat
+Schöne Gartenwohnung am Rigiblick
+Rigistrasse 31, 8006 Zürich
+Array
+3 Zimmer
+75 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+3
+Wohnfläche
+75 m2
+Wir vermieten unsere katzenfreundliche Gartenwohnung für bis zu drei Jahre unter. Sie ist frisch im…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Birmensdorferstrasse 511
+1'750
+CHF
+/Monat
+Blick auf Uetliberg, gute Verkehrsanbin…
+Birmensdorferstrasse 511, 8055 Zürich
+Array
+3 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+70 m2
 Etage
-Wir suchen per 01.07.21 oder nach Vereinbarung Nachmieter für unsere tolle Altbauwohnung. Die Wohnu…
+https://flatfox.ch/en/flat/birmensdorferstrasse-511-8055-zurich/419974/
 Teilen
 E-Mail
 Facebook
 Whatsapp
-nahe Schaffhauserplatz
-1'150
+Rautistrasse 61
+3'600
 CHF
 /Monat
-Singel-Wohnung an Top Lage nahe Schaffh…
-nahe Schaffhauserplatz, 8006 Zürich
+Moderne 4.5 Zimmer-Wohnung
+Rautistrasse 61, 8047 Zürich
 Array
-1 Zimmer
-25 m2
+4.5 Zimmer
+111 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-1
+4.5
 Wohnfläche
-25 m2
-kleine feine Wohnung an Top Lage mit Lift.
-genauere Beschreibung:
-• offene Küche: Kochnische …
+111 m2
+Im Wohnquartier Freilager Zürich vermieten wir per 1. August 2021 eine äusserst attraktive 4.5 Zimm…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Baumackerstrasse
-1'280
+Heizenholz 49
+4'250
 CHF
 /Monat
-schöne Wohnung an zentraler Lage
-Baumackerstrasse, 8050 Zürich
+Über den Dächern von Zürich – Luxuriös …
+Heizenholz 49, 8049 Zürich
 Array
-1 Zimmer
-32 m2
+3.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+3.5
+Wohnfläche
+105 m2
+----- Description in English below ----Lichtdurchflutete und hochwertig ausgebaute 3.5-Zimmer Attik…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'862
+CHF
+/Monat
+Traumhafte Wohnung in Wipkingen
+Adresse auf Anfrage, 8037 Zürich
+Array
+3.5 Zimmer
+85 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-1
+3.5
 Wohnfläche
-32 m2
-Bitte alles Lesen. Danke
-Die Wohnung wird an eine arbeitstätige und Alleinstehende Person vermi…
+85 m2
+Leider verlassen wir unsere wunderschöne Wohnung in diesem architektonischen Highlight und sind auf…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Tiergarten 6B
+2'000
+CHF
+/Monat
+möblierte 4.5 Zimmer Wohnung ZH Wiediko…
+Im Tiergarten 6B, 8055 Zürich
+Array
+4.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+4.5
+Wohnfläche
+105 m2
+Etage
+Wir suchen Untermieter für 1 Monat für unsere gemütliche familienfreundliche Wohnunginklusive Parkp…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stampfenbrunnenstrasse 8
+2'313
+CHF
+/Monat
+4-Zimmer-Wohnung in Altstetten
+Stampfenbrunnenstrasse 8, 8048 Zürich
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Die 4-Zimmer-Wohnung in Altstetten ist gleich in der Nähe des Schwimmbads. 8 Minuten zu Fuss an den…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Altstetterstrasse 251
+1'664
+CHF
+/Monat
+Zentrale Wohnung sucht Sie!
+Altstetterstrasse 251, 8048 Zürich
+Array
+3 Zimmer
+66 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+66 m2
+Per sofort oder nach Vereinbarung vermieten wir diese hübsche Wohnung in Zürich-Altstetten, welche …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Balgriststrasse 37/39
+2'640
+CHF
+/Monat
+Wunderschöne 2.5 Zimmerwohnung am Wehre…
+Balgriststrasse 37/39, 8008 Zürich
+Array
+2.5 Zimmer
+69 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+69 m2
+Sind Sie auf der Suche nach einer modernen, gut gelegenen Wohnung in Zürich?An bester Lage mitten i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tramstrasse, 16
+1'690
+CHF
+/Monat
+Helle, zentral gelegene 2.5 Zimmerwohnu…
+Tramstrasse, 16, 8050 Zürich
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+english version belowFür meine 2.5 Zimmer-Wohnung suche ich per 12.07 einen Nachmieterin. Neben zwe…
 Teilen
 E-Mail
 Facebook

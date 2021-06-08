@@ -152,74 +152,153 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-1'195
+Bleichmattstrasse 24
+1'650
 CHF
 /Monat
-2 Zimmer Wohnung, 60m2, Landwirtschafts…
-Adresse auf Anfrage, 4623 Neuendorf
+Zentral gelegene, charmante, ruhige, he…
+Bleichmattstrasse 24, 4600 Olten
 Array
-2 Zimmer
-60 m2
+4 Zimmer
+85 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2
+4
 Wohnfläche
-60 m2
-2 Zimmer Wohnung OGIn einem kleinen Mehrfamilienhaus (6 Parteien) wird eine ruhige, auf Wunsch möbl…
+85 m2
+Zentral gelegene, charmante, ruhige, helle 4-Zimmer Hochparterrewohnung in traditionellem, schönen …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Brauereiweg 5
-1'776
+Sonnhaldenstrasse 10
+940
 CHF
 /Monat
-Schöne renovierte 4.5 Zimmer Wohnung mi…
-Brauereiweg 5, 4710 Balsthal
+Single-Wohnung, Nähe Bahnhof / Einkauf!
+Sonnhaldenstrasse 10, 4600 Olten
 Array
-4.5 Zimmer
-123 m2
+1 Zimmer
+35 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+1
 Wohnfläche
-123 m2
-Ab dem 01.06 verfügbar ein schöne Wohnung an einer ruhigen Lage.- zwei Nasszellen- grosse helle Woh…
+35 m2
+Wir vermieten eine zentral gelegene, sehr schöne 1-Zimmer-Wohnung, welche im Jahr 2018 totalsaniert…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Talstrasse 28
-1'080
+Hauptstrasse 97
+1'590
 CHF
 /Monat
-2-Zimmerwohnung mit Balkon sucht netten…
-Talstrasse 28, 4112 Flüh
+1 Monat Mietzinsfrei - Wunderschöne Woh…
+Hauptstrasse 97, 4718 Holderbank SO
 Array
-2 Zimmer
-46 m2
+2.5 Zimmer
+120 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2
+2.5
 Wohnfläche
-46 m2
-Die Wohnung ist wie folgt ausgestattet:
--Einbauküche mit Einbauherd mit Glasceranfeld
--Badezimm…
+120 m2
+*** PROFITIEREN SIE VON EINEM MIETZINSFREIEM MONAT ***
+Wir vermieten per sofort oder nach Verein…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Maienstrasse 3
-1'100
+Neumattstrasse 3
+1'250
 CHF
 /Monat
-Schöne Dachwohnung an ruhiger Lage
-Maienstrasse 3, 4600 Olten
+3-Zimmerwohnung in Zweifamilienhaus in …
+Neumattstrasse 3, 4562 Biberist
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Etage
+In einem ruhigen Zweifamilienhaus vermieten wir eine 3-Zimmerwohnung im Obergeschoss. Die Wohnung l…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 97
+1'340
+CHF
+/Monat
+1 Monat Mietzinsfrei wohnen - Topmodern…
+Hauptstrasse 97, 4718 Holderbank SO
+Array
+2.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+100 m2
+*** PROFITIEREN SIE VON EINEM MIETZINSFREIEM MONAT ***
+Wir vermieten per sofort oder nach Verein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Solothurnerstr. 10
+1'110
+CHF
+/Monat
+ruhig gelegene 3.0-Zimmer-Wohnung im Gr…
+Solothurnerstr. 10, 4143 Dornach
+Array
+3 Zimmer
+58 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+58 m2
+Renovierte 3.0-Zimmer-Wohnung im 2. OG Die Wohnung verfügt über eine neue Einbauküche mit Gasherd …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 97
+1'390
+CHF
+/Monat
+1 Monat Mietzinsfrei - Wunderschöne Woh…
+Hauptstrasse 97, 4718 Holderbank SO
+Array
+2.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+100 m2
+*** PROFITIEREN SIE VON EINEM MIETZINSFREIEM MONAT ***
+Wir vermieten per sofort oder nach Verein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hagbergstrasse 50
+1'270
+CHF
+/Monat
+Helle 3-Zimmerwohnung an bevorzugter, z…
+Hagbergstrasse 50, 4600 Olten
 Array
 3 Zimmer
 70 m2
@@ -229,315 +308,241 @@ Zimmer
 3
 Wohnfläche
 70 m2
-Helle Dachwohnung im Säliquartier. 3-Zimmer, 70m2 im 4. Stock. Grosses Wohnzimmer mit Blick auf den…
+Das Mehrfamilienhaus steht an erhöhter, sonniger und ruhiger Wohnlage in Nähe Stadtpark und Wald.
+…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Kirchstrasse 79
-870
+Rumpelweg 1
+980
 CHF
 /Monat
-Neubau 1.5 Zimmer Wohnung per sofort
-Kirchstrasse 79, 2540 Grenchen
+2.5 Zimmerwohnung in Wangen bei Olten
+Rumpelweg 1, 4612 Wangen b. Olten
+Array
+2.5 Zimmer
+67 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+67 m2
+Per 1. Juli 2021 oder nach Übereinkunft zu vermieten, grosse und komfortable 2.5 Zimmerwohnung im P…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+950
+CHF
+/Monat
+2-Zi. Dachwohnung in privatem Mehrfamil…
+Adresse auf Anfrage, 4632 Trimbach
+Array
+2 Zimmer
+40 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+40 m2
+Per 01.08. oder nach Vereinbarung vermieten wir eine Dachwohnung in Trimbach in einem kleinen priva…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schachenrain 37
+1'390
+CHF
+/Monat
+Nachmieter für neue, moderne 2.5 Erdges…
+Schachenrain 37, 4562 Biberist
+Array
+2.5 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+60 m2
+Ich suche per sofort einen Nachmieter für eine 2.5 Zimmerwohnung im Erdgeschoss. Die Wohnung befind…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Laufenstrasse 6
+1'290
+CHF
+/Monat
+Gemütliche 2.5 Zimmer-Dachmaisonettewoh…
+Laufenstrasse 6, 4226 Breitenbach
+Array
+2.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+75 m2
+Per 1. Juli 2021 oder nach Vereinbarung vermieten wir an zentraler Lage, Nähe ÖV und Einkaufsläden,…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schmelzirain 9
+1'130
+CHF
+/Monat
+3 Zimmer Wohnung mit grossem, gedecktem…
+Schmelzirain 9, 2540 Grenchen
+Array
+3 Zimmer
+69 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+69 m2
+Grenchenhelle gemütliche sanierte Wohnungoffene Küche mit Backofen  und Steamer
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Birkenweg 26
+990
+CHF
+/Monat
+klein aber fein - Ihr neues Zuhause
+Birkenweg 26, 4500 Solothurn
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Birkenweg 26An einer ruhigen Lage in Solothurn vermieten wir Ihnen eine 2.5-Zimmerwohnung. Die Wohn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Römerstrasse 52
+1'770
+CHF
+/Monat
+Neuwertige 2.5 Zi.-Dachwohnung, Süd/Ost
+Römerstrasse 52, 4114 Hofstetten SO
+Array
+2.5 Zimmer
+74 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+2.5
+Wohnfläche
+74 m2
+Etage
+Wir vermieten in naturnaher und gut erschlossener Lage  diese 2.5-Zi.-Dachwohnung.Das Mehrfamilienh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schänggelistrasse 35
+1'315
+CHF
+/Monat
+Profitieren Sie von einem attraktiven P…
+Schänggelistrasse 35, 4612 Wangen b. Olten
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+In diesem gepflegten Mehrfamilienhaus erwartet Sie eine geräumige Wohnung mit zeitgemässem Komfort …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hans Huberstrasse 25
+1'460
+CHF
+/Monat
+Wohnen im Grünen nähe der Aare und Stadt
+Hans Huberstrasse 25, 4500 Solothurn
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+In dieser gepflegten Wohnsiedlung werden Sie sich wohl fühlen. Die Umgebung bietet grosse Grünfläch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'480
+CHF
+/Monat
+RENOVIERT MIT BALKON UND WHIRLPOOL
+Adresse auf Anfrage, 4612 Wangen b. Olten
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+100 m2
+Diese renovierte Wohnung an ruhiger und zentraler Lage wartet auf ihre neuen Mieter. Geniessen Sie …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Klosterplatz 3
+1'210
+CHF
+/Monat
+Schöne 1½-Zi-Altstadtwohnung
+Klosterplatz 3, 4600 Olten
 Array
 1.5 Zimmer
-43 m2
+52 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 1.5
 Wohnfläche
-43 m2
-Per sofort (oder nach Vereinbarung) suche ich jemanden, wo die Wohnung übernimmt bzw. eine Nachmiet…
+52 m2
+Das total umgebaute Altstadt-Haus liegt zentral und wenige hundert Meter vom Bahnhof entfernt. Die …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hostet 5
-600
+Pestalozzistrasse 6
+1'211
 CHF
 /Monat
-WG Mitbewohner gesucht! (1 Zimmer + eig…
-Hostet 5, 4558 Hersiwil
-Array
-12 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-12 m2
-Ich suche einen Mitbewohner für meine 4 1/2 Zimmer Mietwohnung in 4558 Heinrichswil Solothurn.Die W…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Friedhofstrasse 32, 4542
-1'125
-CHF
-/Monat
-Nachmieter gesucht in Luterbach
-Friedhofstrasse 32, 4542, 4542 Luterbach
-Array
-3 Zimmer
-68 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-68 m2
-Wir suchen eine Nachmieter ab 1.9.2021 oder früher nach Vereinbarung eine 3 Zimmer Wohnung in Luter…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Flurstrasse 38
-550
-CHF
-/Monat
-Gemütliches WG Zimmer in einer 2er WG z…
-Flurstrasse 38, 2540 Grenchen
-Array
-18 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-18 m2
-Fixpreis inkl. NK, W-Lan, TV, Strom ect. Reinigung der allgemeinen Räumen extern organisiert.Geeign…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Josefstrasse 36
-1'850
-CHF
-/Monat
-Moderne 3.5 Zimmer Attikawohnung zu ver…
-Josefstrasse 36, 4658 Däniken SO
+Lichtdurchflutete Wohnung mit 4m Balkon…
+Pestalozzistrasse 6, 4600 Olten
 Array
 3.5 Zimmer
-71 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Wohnfläche
-71 m2
-Moderne Attikawohnung mit sonniger Terrasse im steuergünstigen Däniken 4658 (KT. Solothurn) ab 1. J…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sternenweg 2
-1'560
-CHF
-/Monat
-Helle, schöne, ruhige 2.5-Zimmerwohnung…
-Sternenweg 2, 4702 Oensingen
-Array
-2.5 Zimmer
-62 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-62 m2
 Etage
-Diese rollstuhlgängige Wohnung mit Panoramablick über Oensingen und einem schönen Balkon ist für Me…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schachenrain 9
-1'450
-CHF
-/Monat
-4.5-Zimmer-Wohnung an kinderfreundliche…
-Schachenrain 9, 5013 Niedergösgen
-Array
-4.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-90 m2
-BeschreibungWohnungsbeschreibungDer Eingangsbereich sowie die beiden Badezimmer, die Küche und das …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'400
-CHF
-/Monat
-TOP LAGE ZUM HAMMERPREIS
-Adresse auf Anfrage, 4612 Wangen b. Olten
-Array
-5.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-130 m2
-Dieses schöne Einfamilienhaus liegt sehr nahe am Bahnhof Wangen bei Olten. Das Haus hat einen gross…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'595
-CHF
-/Monat
-MIT SCHWEDENOFEN AUF ZWEI ETAGEN!
-Adresse auf Anfrage, 4412 Nuglar
-Array
-3.5 Zimmer
-106 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-106 m2
-Der grosse Wohnbereich, die grossartige Aussicht ins Grüne sowie die offene Küche für kulinarische …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Allmendstrasse 35
-1'130
-CHF
-/Monat
-Wohnung an bester Lage!
-Allmendstrasse 35, 4500 Solothurn
-Array
-3 Zimmer
-68 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-68 m2
-Suchen Sie eine Wohnung in der Nähe des Zentrums, dann sind Sie mit der 3-Zimmerwohnung an der Allm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Baslerstrasse 60
-1'400
-CHF
-/Monat
-Nähe Stadtzentrum, Einkauf und ÖV!
-Baslerstrasse 60, 4600 Olten
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wir vermieten eine tolle, sanierte Wohnung an bester Lage.Die Wohnung bietet folgende Vorteile:- He…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ruffinistrasse 6
-990
-CHF
-/Monat
-3.5 Zimmerwohnung an der Ruffinistrasse…
-Ruffinistrasse 6, 2540 Grenchen
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Sie interessieren sich für eine renovierte Wohnung in einem gutgelegenen Quartier,nahe Zentrum und …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Steinmattweg 16
-1'495
-CHF
-/Monat
-Balkon mit Abendsonne, moderne Küche of…
-Steinmattweg 16, 4143 Dornach
-Array
-3.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-75 m2
-Naherholungsgebiet mit vielen Wanderwegen, einem Vita Parcours und Velorouten im nahen Umkreis. Meh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstr. 84
-1'250
-CHF
-/Monat
-Helle 3.5Zimmerwohnung an sehr guter La…
-Hauptstr. 84, 4552 Derendingen
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Sehr helle Wohnung an super Lage! Ganz nah zum öffentlichen Verkehr, nur ca. 300m von Kindergarten …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchstrasse 72
-1'390
-CHF
-/Monat
-Grossartige Aussicht im neuen Zuhause!
-Kirchstrasse 72, 2540 Grenchen
-Array
-3.5 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-60 m2
-Etage
-Wir vermieten ab sofort oder nach Vereinbarung diese schöne Wohnung mit folgenden Vorzügen: - Parke…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernstrasse 49
-1'280
-CHF
-/Monat
-Erstbezug, zentral gelegene 2.5 Zimmerw…
-Luzernstrasse 49, 4552 Derendingen
-Array
-2.5 Zimmer
-50 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-50 m2
-In zentraler Wohnlage entstehen 11 Mietwohnungen
-mit 2.5 - 4.5 Zimmern, der Bezugstermin ist ab d…
+Schöne lichtdurchflutete Wohnung in ruhiger Gegend mit neuen Parkettboden. Bushaltestelle vor der T…
 Teilen
 E-Mail
 Facebook

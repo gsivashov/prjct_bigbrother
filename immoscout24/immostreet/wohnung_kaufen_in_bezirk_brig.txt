@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-brig/
 Title: Wohnung kaufen in Bezirk Brig - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Brig - Immostreet.ch: ImmoStreet.ch hat 56 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Brig - Immostreet.ch: ImmoStreet.ch hat 57 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-56 Resultate gefunden ·
+57 Resultate gefunden ·
 Wohnung kaufen in Bezirk Brig
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,42 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+620'000
+CHF
+Grosszügige 5.5 Zi-Whg im Wohnpark "Bäj…
+Adresse auf Anfrage, 3900 Brig
+Array
+5.5 Zimmer
+168 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+168 m2
+Das Mehrfamilienhaus befindet sich am Bäjiweg in Brig-Glis, an ruhiger, sonniger und familienfreund…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfplatz
+298'000
+CHF
+Altbauwohnung mit Charme und diversen R…
+Dorfplatz, 3902 Glis
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Für einen Handwerker. Mit enormen Gestaltungs- und Entwicklungspotential
+Verkauf als Ferien…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 460'000
 CHF
@@ -323,25 +359,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bahnhofstrasse 8
-470'000
-CHF
-Total sanierte 4.5-Zimmerwohnung im 9.S…
-Bahnhofstrasse 8, 3904 Naters
-Array
-4.5 Zimmer
-125 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-125 m2
-Total sanierte 4.5- Zimmerwohnung im 9.Stockwerk Das Gebäude befindet sich zwei Gehminuten vom Bahn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Zenhäusernstrasse 14
 Preis auf Anfrage
 Neue Attikawohnung an bester Lage von B…
@@ -491,25 +508,6 @@ Zimmer
 3.5
 Wohnfläche
 119 m2
-Wählen Sie Ihre Wohnung aufgrund der «Himmelsrichtung»! Aufgrund der Anordnung der Wohnungen ist di…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-710'000
-CHF
-4?½ Zimmer Wohnung
-Adresse auf Anfrage, 3900 Brig
-Array
-4.5 Zimmer
-137 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-137 m2
 Wählen Sie Ihre Wohnung aufgrund der «Himmelsrichtung»! Aufgrund der Anordnung der Wohnungen ist di…
 Teilen
 E-Mail

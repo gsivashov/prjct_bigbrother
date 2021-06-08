@@ -95,7 +95,7 @@ Banken
 Versicherungen
 Online-Hypotheken
 Zurück zum Vergleich / Liste der Hypothekarzinsen (Vriabler Zins, LIBOR und Festzins)
-Stand 31.05.2021
+Stand 07.06.2021
 Bank / ProduktFür weitere infos klicken Sie bitte auf den Namen des Anbieters
 DarlehenMinimum
 Zins
@@ -171,7 +171,7 @@ BANK EKI
 0.900
 Swiss Life
 250000
-0.910
+0.920
 APPKB
 100000
 0.950
@@ -207,12 +207,15 @@ Migrosbank
 1.070
 ZKB
 1.070
+Bank WIR
+1.080
 BPS (Suisse)
+1.090
+Zuger Kantonalbank
+100000
 1.090
 acrevis
 100000
-1.100
-Bank WIR
 1.100
 Valiant
 100000
@@ -224,9 +227,6 @@ GLKB
 100000
 1.100
 SGKB
-100000
-1.100
-Zuger Kantonalbank
 100000
 1.100
 GKB

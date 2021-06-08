@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-laufen/
 Title: Wohnung & Haus kaufen in Bezirk Laufen - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Laufen - Immostreet.ch: ImmoStreet.ch hat 42 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Laufen - Immostreet.ch: ImmoStreet.ch hat 38 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-42 Resultate gefunden ·
+38 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Laufen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Sägmatt
+779'000
+CHF
+Familienglück in der traumhaften Gemein…
+Sägmatt, 4117 Burg im Leimental
+Array
+5.5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+160 m2
+Suchen Sie eine ruhige, sonnige und familienfreundliche Lage? Burg im Leimental ist eine kleine abe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Viehmarktgasse 45
 970'000
 CHF
@@ -222,22 +241,6 @@ Wohnfläche
 210 m2
 Schönes freistehendes Haus an ruhiger Lage in Laufen.
 Grosses Wohn/Esszimmer mit Cheminée, moderne…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-975'000
-CHF
-Freistehendes Einfamilienhaus
-Adresse auf Anfrage, 4242 Laufen
-Array
-6 Zimmer
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6
-Stilvolles Einfamilienhaus im Jura-Stil steht zu verkaufen.Angenehmes Wohnviertel an ruhiger und Ze…
 Teilen
 E-Mail
 Facebook
@@ -471,25 +474,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Liesberg Unterdorf 5
-615'000
-CHF
-Iher mehrfamilienhaus Verkaufen
-Liesberg Unterdorf 5, 4254 Liesberg Dorf
-Array
-7.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-7.5
-Wohnfläche
-100 m2
-Iher mehrfamilienhaus Verkaufen Liesberg Unterdorf 5. Mehr Information Bitte Gerne Kontaktieren 078…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Wiedenweg 2
 576'000
 CHF
@@ -529,10 +513,28 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 3
+Bahnweg 1a
+1'390'000
+CHF
+Freistehendes 6.5-Zimmer-Einfamilienhau…
+Bahnweg 1a, 4202 Duggingen
+Array
+6.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+145 m2
+Dieses grosszügige Einfamilienhaus wurde im Jahr 2017 komplett renoviert und überzeugt mit einer ho…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 2
 1
 2
-3
 nächste Seite
 ImmoStreet.ch
 Kaufen

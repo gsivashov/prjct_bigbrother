@@ -1,6 +1,6 @@
-URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/unterkategorie-flat/in-chur/
+URL: https://www.immostreet.ch/de/kaufen/wohnung/in-chur/
 Title: Wohnung kaufen in Chur - Immostreet.ch
-Description: Wohnung kaufen in  Chur - Immostreet.ch: ImmoStreet.ch hat 27 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in  Chur - Immostreet.ch: ImmoStreet.ch hat 25 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -70,25 +70,12 @@ Möbliertes Wohnobjekt
 Dachwohnung
 Maisonette / Duplex
 Attikawohnung
-Einfamilienhaus
 Einzelzimmer
 Studio
-Doppeleinfamilienhaus
-Hobbyraum
-Reihenfamilienhaus
 Loft
-Villa
 Terrassenwohnung
-Chalet
-Bauernhaus
 Einliegerwohnung
 Mansarde
-Kellerabteil
-Terrassenhaus
-Rustico
-Stöckli
-Schloss
-Höhlen- / Erdhaus
 Preis von
 Preis bis
 Zimmer von
@@ -96,10 +83,6 @@ Zimmer bis
 Fläche von
 m2
 Fläche bis
-m2
-Grundstückfläche von
-m2
-Grundstückfläche bis
 m2
 Nutzfläche von
 m2
@@ -132,13 +115,13 @@ Immocode
 Letzte Suche
 geo-city-chur
 Kaufen
-Wohnung & Haus
+Wohnung
 Suche zurücksetzen
 Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-27 Resultate gefunden ·
+25 Resultate gefunden ·
 Wohnung kaufen in Chur
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +134,44 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+795'000
+CHF
+Grosszügig und elegant
+Adresse auf Anfrage, 7000 Chur
+Array
+3.5 Zimmer
+102 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+102 m2
+Diese neuwertige 3.5-Zimmer-Wohnung im ersten Obergeschoss eines modernen Mehrfamilienhauses liegt …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+680'000
+CHF
+TOP RENOVIERT AN RUHIGER LAGE
+Adresse auf Anfrage, 7000 Chur
+Array
+4.5 Zimmer
+108 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+108 m2
+Diese gepflegte und top renovierte Wohnung befindet sich an ruhiger Lage am Stadtrand von Chur. 201…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 850'000
 CHF
@@ -305,28 +326,7 @@ E-Mail
 Facebook
 Whatsapp
 Salvatorenstrasse 53
-1'250'000
-CHF
-Neubau - Salva53 - 3.OG - Chur
-Salvatorenstrasse 53, 7000 Chur
-Array
-4.5 Zimmer
-125 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-125 m2
-Das Stadthaus im Grünen
-Im Salva53 finden Sie ein ruhiges, zentrales Zuhause.
-Im Neubau befinde…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Salvatorenstrasse 53
-1'200'000
+1'350'000
 CHF
 Neubau - Salva53 - 2.OG - Chur
 Salvatorenstrasse 53, 7000 Chur
@@ -347,28 +347,7 @@ E-Mail
 Facebook
 Whatsapp
 Salvatorenstrasse 53
-1'100'000
-CHF
-Neubau - Salva53 - EG - Chur
-Salvatorenstrasse 53, 7000 Chur
-Array
-4.5 Zimmer
-111 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-111 m2
-Das Stadthaus im Grünen
-Im Salva53 finden Sie ein ruhiges, zentrales Zuhause.
-Im Neubau befinde…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Salvatorenstrasse 53
-1'200'000
+1'350'000
 CHF
 Neubau- Salva53 - 1.OG - Chur
 Salvatorenstrasse 53, 7000 Chur
@@ -403,44 +382,6 @@ Zimmer
 Wohnfläche
 291 m2
 Diese exklusive Penthouse-Wohnung wurde im Jahr 2000 auf höchstem Niveau errichtet und bietet auf e…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-680'000
-CHF
-TOP RENOVIERT AN RUHIGER LAGE
-Adresse auf Anfrage, 7000 Chur
-Array
-4.5 Zimmer
-108 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-108 m2
-Diese gepflegte und top renovierte Wohnung befindet sich an ruhiger Lage am Stadtrand von Chur. 201…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-505'000
-CHF
-Zentrales und charmantes Wohnen
-Adresse auf Anfrage, 7000 Chur
-Array
-4.5 Zimmer
-96 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Wohnfläche
-96 m2
-Mit ihrer zentralen Lage bietet die 4.5-Zimmer-Wohnung alles in Gehdistanz, was man für gute Lebens…
 Teilen
 E-Mail
 Facebook
@@ -544,15 +485,53 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+Huberstrasse 3
+750'000
+CHF
+sonnenverwöhnte 4.5-Zimmerwohnung
+Huberstrasse 3, 7000 Chur
+Array
+4.5 Zimmer
+84 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+84 m2
+sonnenverwöhnte 4.5-Zimmerwohnung im familienfreundlichen Huberpark-QuartierWollten Sie schon immer…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+485'000
+CHF
+MODERNE WOHNUNG ÜBER DEN DÄCHERN VON CH…
+Adresse auf Anfrage, 7000 Chur
+Array
+4.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+80 m2
+An zentraler Lage in der Alpenstadt Chur befindet sich dieses spannende Prachtstück. Der gut durchd…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Seite 1 von 2
 1
 2
 nächste Seite
 ImmoStreet.ch
 Kaufen
-Wohnung & Haus zu kaufen
+Wohnung zu kaufen
 Wohnung kaufen in der Stadt Chur
-Wohnung & Haus zu kaufen PLZ 7000
+Wohnung zu kaufen PLZ 7000
 Privatperson
 Inserieren
 Suchabo

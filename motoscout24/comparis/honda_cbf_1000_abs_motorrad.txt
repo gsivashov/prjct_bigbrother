@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -150,7 +149,7 @@ Favoriten (0)
 Ihre Auswahl
 Honda CBF 1000 ABS Motorrad
 Motorradmarkt: Occasionen und neue Motorräder
-13
+14
 Treffer für Sie gefunden auf allen grossen Schweizer Motorrad-Portalen
 Treffer für Sie gefunden auf allen grossen Schweizer Motorrad-Portalen
 Erstzulassung
@@ -1150,69 +1149,81 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Honda
-(2'895)
+(2'923)
 Honda Occasion
-(1'551)
+(1'570)
 Honda Neu
-(1'122)
+(1'121)
 Honda Oldtimer
-(126)
+(127)
 Honda Vorführmodell
-(96)
+(94)
 Aufbau
 Honda Strasse
-(1'232)
+(1'248)
 Honda Roller
-(759)
+(761)
 Honda Gelände / Enduro
-(409)
+(401)
 Honda Chopper
-(177)
+(174)
 Honda
 Modelle
 Honda CB 1000 R ABS
-(84)
+(87)
 Honda CB 1100 A ABS
 (23)
 Honda CB 125 R
-(27)
-Honda CB 500 FA ABS
-(24)
+(25)
+Honda CB 500 F ABS
+(25)
 Honda CB 650 R ABS
-(41)
+(43)
 Honda CBR 1000 RR-R
-(24)
+(25)
 Honda CBR 1000 RR-R SP
-(31)
+(34)
 Honda CMX500 Rebel ABS
 (24)
 Honda CRF 1000A
 Africa Twin
-(30)
+(29)
 Honda CRF 1100L Africa Twin
-(56)
+(55)
 Honda CRF 1100L DCT Africa Twin
-(42)
+(40)
 Honda MSX 125 ABS
-(26)
+(27)
 Honda NC 750 S ABS
-(24)
+(25)
 Honda NC 750 XA ABS
-(28)
+(26)
 Honda Nss 125 Forza ABS
-(57)
+(58)
 Honda NSS 300 Forza ABS
 (34)
 Honda PCX 125 i ABS
 (27)
 Honda SH 125 i Mode
-(74)
+(73)
 Honda SH 300 i ABS
-(28)
+(32)
 Honda X-ADV 750 ABS
-(65)
+(66)
 Weitere Modelle
-(2'895)
+(2'923)
+Honda CBF 1000 ABS
+Alle Details
+Inserat vom 07.06.2021
+Occasion
+03.2007
+80'750 km
+998 ccm
+Preis
+CHF 2'900.-
+Alle Details
+CHF 2'900.-
+Alle Details
 Honda CBF 1000 ABS
 Alle Details
 Inserat vom 30.05.2021
@@ -1315,18 +1326,6 @@ Inserat vom 07.11.2020
 Occasion
 03.2010
 46'698 km
-998 ccm
-Preis
-CHF 4'900.-
-Alle Details
-CHF 4'900.-
-Alle Details
-Honda CBF 1000 ABS
-Alle Details
-Inserat vom 26.10.2020
-Occasion
-09.2011
-24'649 km
 998 ccm
 Preis
 CHF 4'900.-

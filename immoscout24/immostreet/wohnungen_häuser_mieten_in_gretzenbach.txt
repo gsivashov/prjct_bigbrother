@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-gretzenbach/
 Title: Wohnungen & Häuser mieten in Gretzenbach - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Gretzenbach - Immostreet.ch: ImmoStreet.ch hat 33 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Gretzenbach - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-33 Resultate gefunden ·
+32 Resultate gefunden ·
 Wohnungen & Häuser mieten in Gretzenbach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,39 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+1'390
+CHF
+/Monat
+SCHÖN UND HELL, SUCHT SIE
+Adresse auf Anfrage, 5014 Gretzenbach
+Array
+3.5 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+78 m2
+Diese schöne und helle 3.5 Zimmer Wohnung liegt an einer ruhigen, idyllischen und doch zentralen Wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bodenackerstrasse 7
+90
+CHF
+Exzellente Bürofläche mit 36m² 1. OG!
+Bodenackerstrasse 7, 5014 Gretzenbach
+Array
+Objekttyp
+Büro
+Mitten in Gretzenbach befindet sich diese attraktive, komplett ausgebaute Industrieliegenschaft, we…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Staldenacker 2
 1'350
 CHF
@@ -175,26 +208,6 @@ Büro
 Zimmer
 6
 Diese lichtdurchfluteten Büroräume befinden sich an guter Lage in Gretzenbach. Bei den offenen Räum…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'390
-CHF
-/Monat
-SCHÖN UND HELL, SUCHT SIE
-Adresse auf Anfrage, 5014 Gretzenbach
-Array
-3.5 Zimmer
-78 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-78 m2
-Diese schöne und helle 3.5 Zimmer Wohnung liegt an einer ruhigen, idyllischen und doch zentralen Wo…
 Teilen
 E-Mail
 Facebook
@@ -318,26 +331,6 @@ Array
 Objekttyp
 Büro
 Mitten in Gretzenbach befindet sich diese attraktive, komplett ausgebaute Industrieliegenschaft, we…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mattenweg 15
-1'460
-CHF
-/Monat
-Wohn(T)raum in Gretzenbach
-Mattenweg 15, 5014 Gretzenbach
-Array
-2.5 Zimmer
-58 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-58 m2
-Bei Vertragsabschluss winkt ein Einkaufsgutschein Ihrer Wahl im Wert von CHF 500.00!Wohnung:
 Teilen
 E-Mail
 Facebook

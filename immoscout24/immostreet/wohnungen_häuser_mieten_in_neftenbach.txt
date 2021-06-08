@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-neftenbach/
 Title: Wohnungen & Häuser mieten in Neftenbach - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Neftenbach - Immostreet.ch: ImmoStreet.ch hat 13 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Neftenbach - Immostreet.ch: ImmoStreet.ch hat 15 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-13 Resultate gefunden ·
+15 Resultate gefunden ·
 Wohnungen & Häuser mieten in Neftenbach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,45 +122,71 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Kehlhofstrasse 1
-1'350
+Seuzachstrasse 22
+1'275
 CHF
 /Monat
-Per sofort vermieten wir eine sonnige 2…
-Kehlhofstrasse 1, 8413 Neftenbach
-Array
-2 Zimmer
-63 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2
-Wohnfläche
-63 m2
-Beschreibung:
-“2 Zimmerwohnung mit Galerie”
-Zu vermieten per sofort oder nach Vereinbarung ei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wartgutstasse 2
-1'527
-CHF
-/Monat
-Helle 2.5-Zimmerwohnung mit sonnigem Ba…
-Wartgutstasse 2, 8413 Neftenbach
+Sonnige 2,5 Zimmer Wohnung in Neftenbach
+Seuzachstrasse 22, 8413 Neftenbach
 Array
 2.5 Zimmer
-63 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
+Helle, sonnige Wohnung im 1. Stock per Anfang August zu vermieten:- Küche mit Glaskeramik und Gesch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aspacherstrasse 1
+2'065
+CHF
+/Monat
+Ruhige, grosszügige Dachwohnung mit Cha…
+Aspacherstrasse 1, 8413 Neftenbach
+Array
+3 Zimmer
+100 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3
 Wohnfläche
-63 m2
+100 m2
 Etage
-Die 2.5-Zimmer-Wohnung befindet sich in einem Mehrfamilienhaus in sehr ruhiger Lage im Zentrum von …
+Zur Wohnung gehört ein separater Waschraum mit WM und Tumbler, ein Kellerabteil sowie ein grosser E…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zürichstrasse 40
+120
+CHF
+/Monat
+Garagenabstellplätze zu vermieten
+Zürichstrasse 40, 8413 Neftenbach
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten per sofort oder nach Vereinbarung Garagenabstellplätze für CHF 120.- monatlich.Die Ma…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Haltenstrasse 6
+1'848
+CHF
+/Monat
+Erstbezug nach Renovation: Wohnung an r…
+Haltenstrasse 6, 8413 Neftenbach
+Array
+88 m2
+Objekttyp
+Wohnung, Flach
+Wohnfläche
+88 m2
+Erstbezug nach Renovation! Wir vermieten per sofort oder nach Vereinbarung diese grosszügige, frisc…
 Teilen
 E-Mail
 Facebook
@@ -261,7 +287,7 @@ Zimmer
 3.5
 Wohnfläche
 86 m2
-Zu vermieten ab 1. Juni 2021 oder nach Vereinbarung, an der Schulstrasse 146 in Neftenbach, 3 1/2 Z…
+Zu vermieten per sofort oder nach Vereinbarung, an der Schulstrasse 146 in Neftenbach, 3 1/2 Zimmer…
 Teilen
 E-Mail
 Facebook

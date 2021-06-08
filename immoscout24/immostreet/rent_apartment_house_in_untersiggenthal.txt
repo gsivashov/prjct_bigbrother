@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/en/rent/apartment-and-house/at-untersiggenthal/
 Title: Rent Apartment & house in Untersiggenthal - Immostreet.ch
-Description: Rent Apartment & house in  Untersiggenthal - Immostreet.ch: ImmoStreet.com has 37 offers and will help you to find the best deal in  and the surrounding area.
+Description: Rent Apartment & house in  Untersiggenthal - Immostreet.ch: ImmoStreet.com has 39 offers and will help you to find the best deal in  and the surrounding area.
 
 Your browser is out of date!
 Update your browser to view this website correctly. Update my browser now
@@ -137,7 +137,7 @@ Filter
 Search
 Adapt Search
 The search subscription has been added to your Immobox.
-37 results found ·
+39 results found ·
 Rent Apartment & house in Untersiggenthal
 Price (ascending)
 Price (descending)
@@ -150,6 +150,66 @@ Postal code (ascending)
 Postal code (descending)
 Sorting
 Submit
+Schulstrasse 20
+1'690
+CHF
+/Month
+Moderne grosszügige Wohnung mit Balkon …
+Schulstrasse 20, 5417 Untersiggenthal
+Array
+4.5 Rooms
+81 m2
+Object type
+Apartment, Flat
+Rooms
+4.5
+Living space
+81 m2
+In ruhiger, grüner Umgebung und dennoch zentraler Lage, steht Ihnen eine total sanierte Wohnung zur…
+Share
+E-mail
+Facebook
+Whatsapp
+Lochmattstrasse 3b
+1'710
+CHF
+/Month
+IHR NEUES ZUHAUSE IM GRÜNEN
+Lochmattstrasse 3b, 5417 Untersiggenthal
+Array
+4 Rooms
+91 m2
+Object type
+Apartment, Flat
+Rooms
+4
+Living space
+91 m2
+Die Lochmattstrasse liegt am Ortseingang von Untersiggenthal in einem ruhigen, kinderfreundlichen W…
+Share
+E-mail
+Facebook
+Whatsapp
+Irisweg 10
+1'530
+CHF
+/Month
+3.5-Zimmerwohnung im Grünen zu vermieten
+Irisweg 10, 5417 Untersiggenthal
+Array
+3.5 Rooms
+90 m2
+Object type
+Apartment, Flat
+Rooms
+3.5
+Living space
+90 m2
+Per sofort oder nach Vereinbarung vermieten wir eine schöne und helle 3.5-Zimmerwohnung (90m2) im 2…
+Share
+E-mail
+Facebook
+Whatsapp
 Niederwiesstr. 4
 1'710
 CHF
@@ -486,61 +546,6 @@ Rooms
 Living space
 99 m2
 Wir vermieten per sofort oder nach Vereinbarung diese ca. 99 m2 grosse 3.5-Zimmerwohnung mit Balkon…
-Share
-E-mail
-Facebook
-Whatsapp
-Irisweg 7
-1'350
-CHF
-/Month
-Grossräumige und helle Wohnung für Pärc…
-Irisweg 7, 5417 Untersiggenthal
-Array
-2 Rooms
-64 m2
-Object type
-Apartment, Flat
-Rooms
-2
-Living space
-64 m2
-Floor
-Besichtigungstermin nach VereinbarungWir vermieten per sofort oder nach Vereinbarung diese ca. 64 m…
-Share
-E-mail
-Facebook
-Whatsapp
-Address on request
-795
-CHF
-/Month
-Private Room in comfortable WG-apartmen…
-Address on request, 5417 Untersiggenthal
-Array
-Object type
-Apartment, Single room
-Our WG/SH (SH= Shared Home) is especially designed for foreign guests, who will working for a Compa…
-Share
-E-mail
-Facebook
-Whatsapp
-Rebbergstrasse 18
-1'780
-CHF
-/Month
-EINZIEHEN UND WOHLFÜHLEN - SENIORENWOHN…
-Rebbergstrasse 18, 5417 Untersiggenthal
-Array
-2.5 Rooms
-62 m2
-Object type
-Apartment, Flat
-Rooms
-2.5
-Living space
-62 m2
-In Untersiggenthal, unweit der Stadt Baden und Brugg, wird das Seniorenzentrum "Sunnhalde" umgebaut…
 Share
 E-mail
 Facebook

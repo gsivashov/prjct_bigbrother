@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-muenchenbuchsee/
 Title: Wohnungen & Häuser mieten in Münchenbuchsee - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Münchenbuchsee - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Münchenbuchsee - Immostreet.ch: ImmoStreet.ch hat 35 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-34 Resultate gefunden ·
+35 Resultate gefunden ·
 Wohnungen & Häuser mieten in Münchenbuchsee
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Weierweg 29
+1'500
+CHF
+/Monat
+Blick in die Berge !
+Weierweg 29, 3053 Münchenbuchsee
+Array
+3.5 Zimmer
+79 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+79 m2
+Wir vermieten am Weierweg 29 in Münchenbuchsee diese tolle 3.5-Zimmer Dachwohnung im 2. Obergeschos…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Ursprungstrasse 67
 1'810
 CHF
@@ -208,7 +228,7 @@ Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Zu vermieten ab sofort oder nach Vereinbarung. Schöne 4 1/2 Zimmerwohnung (3.Stock) in ruhigem Qua…
+Zu vermieten ab sofort oder nach Vereinbarung. Schöne 4 1/2 Zimmerwohnung (3.Stock ohne Lift) in ru…
 Teilen
 E-Mail
 Facebook
@@ -225,7 +245,7 @@ Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Zu vermieten ab sofort oder nach Vereinbarung. Schöne 4 1/2 Zimmerwohnung (3.Stock) in ruhigem Qua…
+Zu vermieten ab sofort oder nach Vereinbarung. Schöne 4 1/2 Zimmerwohnung (3.Stock ohne Lift) in ru…
 Teilen
 E-Mail
 Facebook
@@ -465,23 +485,6 @@ Zimmer
 Wohnfläche
 80 m2
 Die Wohnung (2. Stock ohne Lift) ist sehr sonnig mit grossem Balkon, Parkett und Laminatböden. Küch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-MÜNCHENBUCHSEE
-1'585
-CHF
-/Monat
-MÜNCHENBUCHSEE 4,5 ZIMMER-WOHNUNG
-MÜNCHENBUCHSEE, 3053 Münchenbuchsee
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-AB SOFIRT ODER NACH VEREINBARUNG, SCHÖNE HELLE 4,1/2 ZIMMER-WOHNUNG ZU VERMIETEN GROSSER SONNIGER …
 Teilen
 E-Mail
 Facebook

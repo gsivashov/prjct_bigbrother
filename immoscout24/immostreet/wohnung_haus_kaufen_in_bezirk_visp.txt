@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-visp/
 Title: Wohnung & Haus kaufen in Bezirk Visp - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Visp - Immostreet.ch: ImmoStreet.ch hat 173 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Visp - Immostreet.ch: ImmoStreet.ch hat 170 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-173 Resultate gefunden ·
+170 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Visp
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Hanniggasse 18
+2'375'000
+CHF
+Ein Swiss Chalet in den Bergen von Saas…
+Hanniggasse 18, 3906 Saas-Fee
+Array
+6.5 Zimmer
+200 m2
+Objekttyp
+Wohnung, Chalet
+Zimmer
+6.5
+Wohnfläche
+200 m2
+Etage
+Ein Schweizer Chalet mit unverbauter SichtAlleinstehende schöne alpine Residenz, auf einem außergew…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 635'000
 CHF
@@ -184,26 +204,7 @@ Zimmer
 3.5
 Wohnfläche
 130 m2
-Vous recherchez un appartement moderne, tout confort, spacieux, lumineux, agréable à vivre pour vou…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Talstrasse
-40'000
-CHF
-*Dachgeschosswohnung*
-Talstrasse, 3905 Saas-Almagell
-Array
-3 Zimmer
-47 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-47 m2
-Es handelt sich um eine 3-Zimmerwohnung im Dachgeschoss mit Keller im Erdgeschoss in einem vierstöc…
+Vous recherchez un appartement moderne, tout confort, spacieux, lumineux, agréable à vivre ? Ce bie…
 Teilen
 E-Mail
 Facebook
@@ -223,23 +224,6 @@ Zimmer
 Wohnfläche
 30 m2
 Das Haus Rossignol C ist eines von vier Wohnhäusern einer Überbauung im Quartier Spiss in Zermatt. …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'650'000
-CHF
-Ferienchalet Ski in / Ski out
-Adresse auf Anfrage, 3920 Zermatt
-Array
-5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Etage
-ZweitwohnungDiese Immobilie bietet Ihnen 3 Wohneinheiten -  alles Zweitwohnungen. 1. Hauptwohnung i…
 Teilen
 E-Mail
 Facebook
@@ -527,6 +511,26 @@ Zimmer
 2.5
 Wohnfläche
 78 m2
+Etage
+Ab August 2021 entsteht in Täsch die Überbaung Solita mit ihren drei Häusern A, B und C. Die insges…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+920'000
+CHF
+Neue 3½-Zimmer-Dachwohnungen
+Adresse auf Anfrage, 3929 Täsch
+Array
+3.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+123 m2
 Etage
 Ab August 2021 entsteht in Täsch die Überbaung Solita mit ihren drei Häusern A, B und C. Die insges…
 Teilen

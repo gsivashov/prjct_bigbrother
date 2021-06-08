@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -586,54 +585,54 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Mazda
-(4'333)
+(4'296)
 Mazda Occasion
-(2'483)
+(2'452)
 Mazda Neuwagen
-(1'247)
+(1'244)
 Mazda Vorführwagen
-(598)
+(595)
 Mazda Oldtimer
 (5)
 Aufbau
 Mazda Geländewagen
-(2'072)
+(2'037)
 Mazda Limousine
-(1'102)
+(1'101)
 Mazda Kombi
 (226)
 Mazda Cabrio
 (194)
 Mazda Minivan/Van
-(168)
+(167)
 Mazda Coupé
 (20)
-Mazda Pickup
-(10)
 Mazda Nutzfahrzeug
-(7)
+(9)
+Mazda Pickup
+(8)
 Motor
 Mazda Benzin
-(2'746)
+(2'729)
 Mazda Diesel
-(524)
+(523)
 Mazda Elektroautos
-(202)
+(205)
 Modelle
 Mazda CX-5
-(828)
+(817)
 Mazda CX-30
-(748)
+(735)
 Mazda 2
-(719)
+(720)
 Mazda 3
-(634)
-Mazda CX-3
-(329)
+(635)
 Mazda 6
+(327)
+Mazda CX-3
 (326)
 Mazda 5
-(214)
+(211)
 Mazda MX-5
 (194)
 CAR FOR YOU wird durchsucht ...
@@ -661,6 +660,7 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 10'900
 ab CHF 199 / Monat
+Preisreduktion
 MAZDA RX-8 Revolution
 31.05.2021
 Occasion
@@ -669,8 +669,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 6'990
-ab CHF 128 / Monat
+CHF 6'690
+ab CHF 122 / Monat
 MAZDA RX-7 2.3
 17.05.2021
 Oldtimer

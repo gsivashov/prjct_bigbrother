@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-interlakenoberhasli/
 Title: Wohnung kaufen in Region Interlaken Oberhasli - Immostreet.ch
-Description: Wohnung kaufen in Region Interlaken Oberhasli - Immostreet.ch: ImmoStreet.ch hat 42 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Region Interlaken Oberhasli - Immostreet.ch: ImmoStreet.ch hat 45 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-42 Resultate gefunden ·
+45 Resultate gefunden ·
 Wohnung kaufen in Region Interlaken Oberhasli
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,84 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Brünigstrasse 50
+598'000
+CHF
+Heimatgefühl auf zwei Etagen verteilt
+Brünigstrasse 50, 3860 Meiringen
+Array
+4.5 Zimmer
+134 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+134 m2
+Ein positives Gefühl von Wärme und Heimeligkeit kommt auf Sie zu, jedes Mal wenn Sie diese wunderba…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mauren 814
+700'000
+CHF
+Grosszügige 5.5 Zimmer Dachwohnung in B…
+Mauren 814, 3803 Beatenberg
+Array
+5.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+5.5
+Wohnfläche
+145 m2
+Etage
+Diese grosszügige 5.5 Zimmer Dachwohnung verfügt über ein Badezimmer, ein Gäste-WC, ein Cheminée un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'200'000
+CHF
+Ihr zukünftiger Wohn(T)raum auf 265 m²!
+Adresse auf Anfrage, 3855 Brienz BE
+Array
+6.5 Zimmer
+265 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+6.5
+Wohnfläche
+265 m2
+Etage
+Wo vormals frühmorgens die Maschinen gestartet wurden und viel Schönes aus Holz entstand, das könnt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rothornstrasse 16
+495'000
+CHF
+zentrumsnahe 4.5-Zimmer Wohnung mit Bal…
+Rothornstrasse 16, 3800 Interlaken
+Array
+4.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+80 m2
+Die 4.5-Zimmer Wohnung befindet sich in einem Mehrfamilienhaus im 1. Stock welches in den 1970er Ja…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Spillstattstrasse 69
 3'450'000
 CHF
@@ -218,13 +296,13 @@ CHF
 Am Fussweg, 3818 Grindelwald
 Array
 4.5 Zimmer
-154 m2
+129 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-154 m2
+129 m2
 Die Überbauung Bergwelt liegt im Zentrum von Grindelwald, leicht oberhalb der Dorfstrasse am "Fussw…
 Teilen
 E-Mail
@@ -435,83 +513,6 @@ Wohnfläche
 85 m2
 Etage
 Zu verkaufen 3.5-Zimmer Gartenwohnung in MeiringenDas Wohnquartier Adler befindet sich mitten im Do…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schulhausgasse 3
-650'000
-CHF
-Zu verkaufen 3.5-Zimmerwohnung in Meiri…
-Schulhausgasse 3, 3860 Meiringen
-Array
-3.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-98 m2
-Etage
-Zu verkaufen 3.5-Zimmerwohnung in MeiringenDas Wohnquartier Adler befindet sich mitten im Dorfzentr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schulhausgasse 3
-630'000
-CHF
-Zu verkaufen 3.5-Zimmer Gartenwohnung i…
-Schulhausgasse 3, 3860 Meiringen
-Array
-3.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-98 m2
-Etage
-Zu verkaufen 3.5-Zimmer Gartenwohnung in MeiringenDas Wohnquartier Adler befindet sich mitten im Do…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schulhausgasse 3
-745'000
-CHF
-Zu verkaufen 4.5-Zimmerwohnung in Meiri…
-Schulhausgasse 3, 3860 Meiringen
-Array
-4.5 Zimmer
-113 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-113 m2
-Etage
-Zu verkaufen 4.5-Zimmerwohnung in MeiringenDas Wohnquartier Adler befindet sich mitten im Dorfzentr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Spillstattstrasse 63
-2'950'000
-CHF
-4.5-Zimmer-Dachwohnung im Chalet Silber…
-Spillstattstrasse 63, 3818 Grindelwald
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Etage
-ObjektbeschreibungModernes und gemütliches Wohnambiente erwartet Sie in der Dachwohnung vom Chalet …
 Teilen
 E-Mail
 Facebook

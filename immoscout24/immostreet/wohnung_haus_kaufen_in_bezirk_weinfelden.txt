@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-weinfelden/
 Title: Wohnung & Haus kaufen in Bezirk Weinfelden - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Weinfelden - Immostreet.ch: ImmoStreet.ch hat 84 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Weinfelden - Immostreet.ch: ImmoStreet.ch hat 82 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-84 Resultate gefunden ·
+82 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Weinfelden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Schweizersholzstrasse 2
+1'650'000
+CHF
+Exklusive 4.5-Zimmer-Terrassenwohnung m…
+Schweizersholzstrasse 2, 9220 Bischofszell
+Array
+4.5 Zimmer
+185 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+185 m2
+Etage
+Exklusive 4.5-Zimmer-Terrassenwohnung mit herrlichem SäntisblickDie 4.5 Zimmer-Terrassenwohnung mit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bahnhofstrasse 23
 835'000
 CHF
@@ -370,7 +390,7 @@ Kradolfstrasse 18
 750'000
 CHF
 Liegenschaft mit viel Potential... für …
-Kradolfstrasse 18, 8583 Donzhausen
+Kradolfstrasse 18, 8583 Sulgen
 Array
 12.5 Zimmer
 215 m2
@@ -506,26 +526,6 @@ Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Etage
-www.langäcker.ch>> Im Langäcker in Sitterdorf entstehen neue Eigentumswohnungen <<Diese…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rofenstrasse 1
-550'000
-CHF
-HIER ENTSTEHEN - Eigentumswohnungen im …
-Rofenstrasse 1, 8589 Sitterdorf
-Array
-3.5 Zimmer
-117 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-117 m2
 Etage
 www.langäcker.ch>> Im Langäcker in Sitterdorf entstehen neue Eigentumswohnungen <<Diese…
 Teilen

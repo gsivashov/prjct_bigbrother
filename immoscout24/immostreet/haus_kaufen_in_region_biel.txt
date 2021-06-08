@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-biel/
 Title: Haus kaufen in Region Biel - Immostreet.ch
-Description: Haus kaufen in Region Biel - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Region Biel - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-19 Resultate gefunden ·
+20 Resultate gefunden ·
 Haus kaufen in Region Biel
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Kanalweg
+1'410'000
+CHF
+*7,5-Zimmer-Familienhaus - Liebhaberobj…
+Kanalweg, 2560 Nidau
+Array
+8 Zimmer
+225 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+8
+Wohnfläche
+225 m2
+Es handelt sich um ein 7.5-Zimmer-Familienhaus mit Autounterstand / Garage und Gartenhaus. Die Lieg…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 2'595'000
 CHF

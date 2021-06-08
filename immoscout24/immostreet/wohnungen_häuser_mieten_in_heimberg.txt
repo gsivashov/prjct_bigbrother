@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-heimberg/
 Title: Wohnungen & Häuser mieten in Heimberg - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Heimberg - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Heimberg - Immostreet.ch: ImmoStreet.ch hat 17 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-18 Resultate gefunden ·
+17 Resultate gefunden ·
 Wohnungen & Häuser mieten in Heimberg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Stationsweg 4
+1'500
+CHF
+/Monat
+Helle zentral gelegene Wohnung mit Sich…
+Stationsweg 4, 3627 Heimberg
+Array
+3.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+75 m2
+Per sofort oder nach Vereinbarung vermieten wir diese grosszügige 3.5-Zimmerwohnung in Heimberg. Di…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Haslikehrweg 13
 1'880
 CHF
@@ -142,23 +162,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Jägerweg 21
-1'370
-CHF
-/Monat
-3.5 Zimmer Wohnung zu vermieten per sof…
-Jägerweg 21, 3627 Heimberg
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Nachmieter gesucht per sofort oder nach VereinbarungSchöne 3.5 Zimmer Wohnung an zentraler, aber ru…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bernstrasse 311
 1'630
 CHF
@@ -175,26 +178,6 @@ Zimmer
 Wohnfläche
 99 m2
 Diese attraktive moderne 2.5-Zimmer-Wohnung liegt an top Lage und ist ideal für ein Single oder ein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schwalbenweg 38
-870
-CHF
-/Monat
-Wohnung sucht Single!
-Schwalbenweg 38, 3627 Heimberg
-Array
-1.5 Zimmer
-30 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-30 m2
-An ruhiger Lage vermieten wir per 1. September 2021 diese gemütliche 1.5 Zimmer-Wohnung im Hochpart…
 Teilen
 E-Mail
 Facebook

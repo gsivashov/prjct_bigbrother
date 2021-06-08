@@ -81,7 +81,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -153,355 +153,341 @@ WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
 NEU
-FIAT
-Ducato 17 2.3 MJ
-CHF 15'900
-ab CHF 171/Monat
-04.2013
+NISSAN
+NV250 1.5dCi Comfort 2.0t
+CHF 21'700
+ab CHF 234/Monat
+01.2021
 Handschaltung
-69'000 km
-Diesel
-Vorderradantrieb
-blau
-148 PS
-LU
-Merken
-FIAT
-Ducato 17 2.3 MJ
-04.2013
-148 PS
-69'000 km
-CHF 15'900
-Merken
-ab CHF 171/Monat
-NEU
-FIAT
-Talento 29 2.0 MJ L1H1 Easy Pro Plus
-CHF 23'900
-ab CHF 257/Monat
-12.2020
-Handschaltung
-4'000 km
+10 km
 Diesel
 Vorderradantrieb
 weiss
-120 PS
-LU
+116 PS
+AG
 Merken
-FIAT
-Talento 29 2.0 MJ L1H1 Easy Pro P...
-12.2020
-120 PS
-4'000 km
-CHF 23'900
+NISSAN
+NV250 1.5dCi Comfort 2.0t
+01.2021
+116 PS
+10 km
+CHF 21'700
 Merken
-ab CHF 257/Monat
+ab CHF 234/Monat
 NEU
-FIAT
-Doblò 1.6 Multijet Cargo Swiss
-CHF 17'900
-ab CHF 193/Monat
-10.2019
+RENAULT
+Trafic 1.6 dCi 95 2.9t Access L1H1
+CHF 14'900
+ab CHF 161/Monat
+05.2018
 Handschaltung
-8'364 km
+40'827 km
 Diesel
 Vorderradantrieb
 weiss
-105 PS
-VS
+95 PS
+GE
 Merken
-FIAT
-Doblò 1.6 Multijet Cargo Swiss
-10.2019
-105 PS
-8'364 km
-CHF 17'900
+RENAULT
+Trafic 1.6 dCi 95 2.9t Access L1H...
+05.2018
+95 PS
+40'827 km
+CHF 14'900
 Merken
-ab CHF 193/Monat
+ab CHF 161/Monat
 NEU
-VW
-Crafter 35 Chassis-Kabine RS 4325 mm
-CHF 22'900
-ab CHF 246/Monat
-12.2014
+IVECO
+Daily 35 C 17 K.-Ch. 3000 3.0 HPI 170
+CHF 25'900
+ab CHF 279/Monat
+03.2012
 Handschaltung
-91'800 km
+91'000 km
 Diesel
 Hinterradantrieb
 weiss
-136 PS
+170 PS
 ZH
 Merken
-VW
-Crafter 35 Chassis-Kabine RS 4325...
-12.2014
-136 PS
-91'800 km
-CHF 22'900
+IVECO
+Daily 35 C 17 K.-Ch. 3000 3.0 HPI...
+03.2012
+170 PS
+91'000 km
+CHF 25'900
 Merken
-ab CHF 246/Monat
+ab CHF 279/Monat
 NEU
-VW
-Transporter 6.1 Kastenwagen Entry RS 3000 mm
-CHF 28'900
-ab CHF 311/Monat
--
+IVECO
+Daily 35 C 17 K.-Ch. 3000 3.0 HPI 170
+CHF 25'900
+ab CHF 279/Monat
+03.2012
 Handschaltung
-50 km
+90'200 km
+Diesel
+Hinterradantrieb
+weiss
+170 PS
+ZH
+Merken
+IVECO
+Daily 35 C 17 K.-Ch. 3000 3.0 HPI...
+03.2012
+170 PS
+90'200 km
+CHF 25'900
+Merken
+ab CHF 279/Monat
+NEU
+IVECO
+Daily 35 C 17 K.-Ch. 3000 3.0 HPI 170
+CHF 25'900
+ab CHF 279/Monat
+03.2012
+Handschaltung
+88'800 km
+Diesel
+Hinterradantrieb
+weiss
+170 PS
+ZH
+Merken
+IVECO
+Daily 35 C 17 K.-Ch. 3000 3.0 HPI...
+03.2012
+170 PS
+88'800 km
+CHF 25'900
+Merken
+ab CHF 279/Monat
+NEU
+MERCEDES-BENZ
+Citan 109 CDI EL Euro 6
+CHF 18'450
+ab CHF 199/Monat
+09.2020
+Handschaltung
+2'560 km
 Diesel
 Vorderradantrieb
 weiss
-110 PS
-TG
+95 PS
+LU
 Merken
-VW
-Transporter 6.1 Kastenwagen Entry...
--
-110 PS
-50 km
-CHF 28'900
+MERCEDES-BENZ
+Citan 109 CDI EL Euro 6
+09.2020
+95 PS
+2'560 km
+CHF 18'450
 Merken
-ab CHF 311/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
+ab CHF 199/Monat
 NEU
-RENAULT
-Master T35 2.3dCi 125 L3H2
-CHF 15'800
-ab CHF 170/Monat
-07.2016
+VW
+Caddy Cargo Entry
+CHF 23'500
+ab CHF 253/Monat
+02.2021
 Handschaltung
-67'000 km
+15 km
 Diesel
 Vorderradantrieb
-gelb
-125 PS
+weiss
+102 PS
+VD
+Merken
+VW
+Caddy Cargo Entry
+02.2021
+102 PS
+15 km
+CHF 23'500
+Merken
+ab CHF 253/Monat
+NEU
+VW
+T6 2.0 Bi-TDI
+CHF 23'900
+ab CHF 257/Monat
+04.2016
+Handschaltung
+115'000 km
+Diesel
+Vorderradantrieb
+weiss
+180 PS
 FR
 Merken
-RENAULT
-Master T35 2.3dCi 125 L3H2
-07.2016
-125 PS
-67'000 km
-CHF 15'800
-Merken
-ab CHF 170/Monat
-NEU
 VW
-Crafter 35 Chassis-Doppelkabine Champion RS 3665 mm
-CHF 20'500
-ab CHF 221/Monat
-03.2013
+T6 2.0 Bi-TDI
+04.2016
+180 PS
+115'000 km
+CHF 23'900
+Merken
+ab CHF 257/Monat
+NEU
+FORD
+Transit 350M Level 3
+CHF 17'300
+ab CHF 186/Monat
+11.2013
 Handschaltung
-97'000 km
+103'200 km
 Diesel
 Hinterradantrieb
 weiss
-163 PS
-BL
-Merken
-VW
-Crafter 35 Chassis-Doppelkabine C...
-03.2013
-163 PS
-97'000 km
-CHF 20'500
-Merken
-ab CHF 221/Monat
-NEU
-VW
-Transporter 6.1 Kastenwagen Entry RS 3000 mm
-CHF 29'990
-ab CHF 323/Monat
--
-Handschaltung
-30 km
-Diesel
-Vorderradantrieb
-weiss
-110 PS
-TG
-Merken
-VW
-Transporter 6.1 Kastenwagen Entry...
--
-110 PS
-30 km
-CHF 29'990
-Merken
-ab CHF 323/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-VW
-California 6.1 Beach Liberty
-CHF 68'800
-ab CHF 739/Monat
--
-Automat
-50 km
-Diesel
-Vorderradantrieb
-grau
-150 PS
-BL
-Merken
-VW
-California 6.1 Beach Liberty
--
-150 PS
-50 km
-CHF 68'800
-Merken
-ab CHF 739/Monat
-NEU
-VW
-Caddy Cargo Entry
-CHF 20'900
-ab CHF 225/Monat
--
-Handschaltung
-20 km
-Diesel
-Vorderradantrieb
-weiss
-75 PS
+155 PS
 ZH
 Merken
-VW
-Caddy Cargo Entry
+FORD
+Transit 350M Level 3
+11.2013
+155 PS
+103'200 km
+CHF 17'300
+Merken
+ab CHF 186/Monat
+NEU
+FORD
+Transit Custom Van 310 L1H1 Trend
+CHF 19'700
+ab CHF 212/Monat
+11.2015
+Handschaltung
+37'000 km
+Diesel
+Vorderradantrieb
+weiss
+125 PS
+ZH
+Merken
+FORD
+Transit Custom Van 310 L1H1 Trend
+11.2015
+125 PS
+37'000 km
+CHF 19'700
+Merken
+ab CHF 212/Monat
+NEU
+MERCEDES-BENZ
+Citan 111 CDI L Euro 6
+CHF 14'800
+ab CHF 159/Monat
+09.2016
+Handschaltung
+51'000 km
+Diesel
+Vorderradantrieb
+silber
+110 PS
+LU
+Merken
+MERCEDES-BENZ
+Citan 111 CDI L Euro 6
+09.2016
+110 PS
+51'000 km
+CHF 14'800
+Merken
+ab CHF 159/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+MERCEDES-BENZ
+Sprinter 316 CDI 3500 kg Anhängelast
+CHF 29'800
+ab CHF 321/Monat
+04.2017
+Handschaltung
+45'800 km
+Diesel
+Hinterradantrieb
+weiss
+163 PS
+LU
+Merken
+MERCEDES-BENZ
+Sprinter 316 CDI 3500 kg Anhängel...
+04.2017
+163 PS
+45'800 km
+CHF 29'800
+Merken
+ab CHF 321/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+FIAT
+Ducato 15 2.3 JTD
+CHF 2'999
+01.2011
+Handschaltung
+275'000 km
+Diesel
+Vorderradantrieb
+weiss
+120 PS
+LU
+Merken
+FIAT
+Ducato 15 2.3 JTD
+01.2011
+120 PS
+275'000 km
+CHF 2'999
+Merken
+NEU
+NISSAN
+NV200 1.5 dCi 90 Comfort
+CHF 9'900
+ab CHF 112/Monat
+09.2011
+Handschaltung
+101'650 km
+Diesel
+Vorderradantrieb
+silber
+90 PS
+ZH
+Merken
+NISSAN
+NV200 1.5 dCi 90 Comfort
+09.2011
+90 PS
+101'650 km
+CHF 9'900
+Merken
+ab CHF 112/Monat
+NEU
+OPEL
+Vivaro Cargo 2.0 CDTI Enjoy s/s L EN
+CHF 43'800
+ab CHF 471/Monat
 -
-75 PS
-20 km
-CHF 20'900
-Merken
-ab CHF 225/Monat
-NEU
-VW
-Crafter 35 Chassis-Kabine Champion RS 4490 mm Singlebereifun
-CHF 58'900
-ab CHF 633/Monat
-05.2021
 Handschaltung
-50 km
-Diesel
-Hinterradantrieb
-weiss
-177 PS
-TI
-Merken
-VW
-Crafter 35 Chassis-Kabine Champio...
-05.2021
-177 PS
-50 km
-CHF 58'900
-Merken
-ab CHF 633/Monat
-NEU
-VW
-Crafter 35 Chassis-Kabine Champion RS 4490 mm Singlebereifun
-CHF 58'900
-ab CHF 633/Monat
-05.2021
-Handschaltung
-50 km
-Diesel
-Hinterradantrieb
-weiss
-177 PS
-TI
-Merken
-VW
-Crafter 35 Chassis-Kabine Champio...
-05.2021
-177 PS
-50 km
-CHF 58'900
-Merken
-ab CHF 633/Monat
-NEU
-FORD
-Transit Custom Van 300 L2 2.0 TDCi 170 Trend
-CHF 31'900
-ab CHF 343/Monat
-10.2019
-Automat
-51'000 km
+100 km
 Diesel
 Vorderradantrieb
 weiss
-170 PS
-LU
+122 PS
+SG
 Merken
-FORD
-Transit Custom Van 300 L2 2.0 TDC...
-10.2019
-170 PS
-51'000 km
-CHF 31'900
+OPEL
+Vivaro Cargo 2.0 CDTI Enjoy s/s L...
+-
+122 PS
+100 km
+CHF 43'800
 Merken
-ab CHF 343/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-FORD
-Transit Custom Van 290 L1 2.0 TDCi 130 PS Trend Automat
-CHF 28'500
-ab CHF 307/Monat
-05.2018
-Automat
-45'800 km
-Diesel
-Vorderradantrieb
-weiss
-130 PS
-LU
-Merken
-FORD
-Transit Custom Van 290 L1 2.0 TDC...
-05.2018
-130 PS
-45'800 km
-CHF 28'500
-Merken
-ab CHF 307/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-FORD
-Transit Custom Van 280 L1 2.0 TDCi 105 PS Trend
-CHF 23'900
-ab CHF 257/Monat
-05.2019
-Handschaltung
-51'500 km
-Diesel
-Vorderradantrieb
-weiss
-105 PS
-LU
-Merken
-FORD
-Transit Custom Van 280 L1 2.0 TDC...
-05.2019
-105 PS
-51'500 km
-CHF 23'900
-Merken
-ab CHF 257/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
+ab CHF 471/Monat
 1
 1
 2

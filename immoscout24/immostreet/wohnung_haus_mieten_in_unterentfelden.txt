@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-unterentfelden/
 Title: Wohnung & Haus mieten in Unterentfelden - Immostreet.ch
-Description: Wohnung & Haus mieten in  Unterentfelden - Immostreet.ch: ImmoStreet.ch hat 26 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Unterentfelden - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-26 Resultate gefunden ·
+24 Resultate gefunden ·
 Wohnung & Haus mieten in Unterentfelden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,16 +152,22 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Fliederweg 17
-190
+Quellmattstr. 81
+1'285
 CHF
 /Monat
-Sie brauchen zusätzlichen Stauraum?
-Fliederweg 17, 5035 Unterentfelden
+Sonnige 3.5-Z'Wohnung mit Balkon
+Quellmattstr. 81, 5035 Unterentfelden
 Array
+3.5 Zimmer
+66 m2
 Objekttyp
-Atelier
-Nach Vereinbarung vermieten wir einen Bastelraum im 1. Untergeschoss.
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+66 m2
+Diese sonnenverwöhnte 3.5-Zimmerwohnung ist per 1. Juli 2021 oder nach Vereinbarung zu vermieten. D…
 Teilen
 E-Mail
 Facebook
@@ -213,26 +219,6 @@ Wohnung, Einzelzimmer
 Wohnfläche
 30 m2
 Gross - hell - freundlich! Wer gerne in einer WG leben möchte, aber trotzdem viel Platz für sich br…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eichenweg 3 Unterentfelden
-1'258
-CHF
-/Monat
-Zu vermieten ruhige und bequeme Wohnung
-Eichenweg 3 Unterentfelden, 5035 Unterentfelden
-Array
-3 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-60 m2
-Per sofort oder nach Vereinbarung vermiete ich eine charmante 3 Zimmer Wohnung im Erdgeschoss. Die…
 Teilen
 E-Mail
 Facebook
@@ -521,6 +507,24 @@ Zimmer
 Wohnfläche
 67 m2
 Die Wohnung befindet sich an ruhiger Lage (Einbahnstrasse) in familienfreundlichem Mehrfamilienhaus…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Birkenweg 3
+1'550
+CHF
+/Monat
+Attraktive 4-Zimmerwohnung an ruhiger L…
+Birkenweg 3, 5035 Unterentfelden
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Etage
+Wir vermieten per sofort oder nach Vereinbarung in komplett renoviertem 6-Familenhaus an ruhiger La…
 Teilen
 E-Mail
 Facebook

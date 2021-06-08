@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/unterkategorie-terrassenhaus/
 Title: Terrassenhaus kaufen in - Immostreet.ch
-Description: Terrassenhaus kaufen in   - Immostreet.ch: ImmoStreet.ch hat 233 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Terrassenhaus kaufen in   - Immostreet.ch: ImmoStreet.ch hat 231 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -123,7 +123,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-233 Resultate gefunden ·
+231 Resultate gefunden ·
 Terrassenhaus kaufen in
 Preis (aufsteigend)
 Preis (absteigend)
@@ -137,10 +137,86 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Adresse auf Anfrage
-374'500
+20'000
 EUR
-Dpt Pyrénées Atlantiques (64), à vendre…
-Adresse auf Anfrage, 64320 BIZANOS
+Dpt Allier (03), à vendre LE DONJON mai…
+Adresse auf Anfrage, 03130 LE DONJON
+Array
+3 Zimmer
+51 m2
+Objekttyp
+Wohnung, Terrassenhaus
+Zimmer
+3
+Wohnfläche
+51 m2
+LE DONJON, maison T3 -Dans un village très dynamique avec de nombreux commerces ,médecin ,école ,ec…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wallenrütistrasse
+1'700'000
+CHF
+Exklusives Wohnen mit atemberaubender W…
+Wallenrütistrasse, 8234 Stetten SH
+Array
+5.5 Zimmer
+168 m2
+Objekttyp
+Wohnung, Terrassenhaus
+Zimmer
+5.5
+Wohnfläche
+168 m2
+Dieses Terrassenhaus wird Sie begeistern. Hier nur einige Punkte warum dieses Traumhaus Ihr neues Z…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+425'250
+EUR
+Dpt Bouches du Rhône (13), à vendre ARL…
+Adresse auf Anfrage, 13200 ARLES
+Array
+5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Terrassenhaus
+Zimmer
+5
+Wohnfläche
+140 m2
+ARLES, dans le centre ancien, belle maison de ville en pierre, restaurée, comprenant une entrée, un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+4'780'000
+CHF
+Zürichsee Ahoi
+Adresse auf Anfrage, 8832 Wollerau
+Array
+5.5 Zimmer
+192 m2
+Objekttyp
+Wohnung, Terrassenhaus
+Zimmer
+5.5
+Wohnfläche
+192 m2
+Gediegenes Wohnen mit dem Zürichsee zu FüssenEine der schönsten Seesichtlagen in der steuergünstige…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+139'000
+EUR
+Maison de Ville Charmante 135m2 au coeu…
+Adresse auf Anfrage, 01190 PONT DE VAUX
 Array
 5 Zimmer
 135 m2
@@ -150,7 +226,86 @@ Zimmer
 5
 Wohnfläche
 135 m2
-Bizanos ,venez découvrir cette maison de 1890 en plein centre ,proche des commerces ,services, bus …
+MAGNIFIQUE Maison de ville sur deux niveaux de 135m2 où CHARME et AUTHENTICITE sont les maître mots…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+139'000
+EUR
+Dpt Vosges (88), à vendre EPINAL maison…
+Adresse auf Anfrage, 88000 EPINAL
+Array
+5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Terrassenhaus
+Zimmer
+5
+Wohnfläche
+120 m2
+EPINAL, C'est au coeur d'un joli terrain de 750m² bien entretenu que se situe cette maison à réno…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rue du Grand Cerclet
+795'000
+CHF
+Superbe villa de 4.5 p
+Rue du Grand Cerclet, 1852 Roche VD
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Terrassenhaus
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Etage
+Villa mitoyenne de 4,5 pièces de 120 m2 sur 2 niveaux. Elle est composée comme suit :
+Au rez
+-…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+102'720
+EUR
+Dpt Sarthe (72), à vendre ARNAGE centre…
+Adresse auf Anfrage, 72230 ARNAGE
+Array
+4 Zimmer
+51 m2
+Objekttyp
+Wohnung, Terrassenhaus
+Zimmer
+4
+Wohnfläche
+51 m2
+En plein coeur du centre ville d'ARNAGE, Raphaël JOUBERT vous propose EN EXCLUSIVITÉ cette charmant…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+268'000
+EUR
+Maison de ville 100m2 avec garage doubl…
+Adresse auf Anfrage, 01000 BOURG EN BRESSE
+Array
+5 Zimmer
+101 m2
+Objekttyp
+Wohnung, Terrassenhaus
+Zimmer
+5
+Wohnfläche
+101 m2
+Magnifique Maison de Ville de Caractère entièrement rénovée tout récemment,de 101m2, alliant CONFOR…
 Teilen
 E-Mail
 Facebook
@@ -190,25 +345,6 @@ Wohnfläche
 183 m2
 Etage
 Am Panoramaweg der Aargauer Gemeinde Remetschwil, zwischen Zürich und Baden, entstehen an schönster…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-4'780'000
-CHF
-Zürichsee Ahoi
-Adresse auf Anfrage, 8832 Wollerau
-Array
-5.5 Zimmer
-192 m2
-Objekttyp
-Wohnung, Terrassenhaus
-Zimmer
-5.5
-Wohnfläche
-192 m2
-Gediegenes Wohnen mit dem Zürichsee zu FüssenEine der schönsten Seesichtlagen in der steuergünstige…
 Teilen
 E-Mail
 Facebook
@@ -266,25 +402,6 @@ Zimmer
 Wohnfläche
 77 m2
 Devenez propriétaire d' une maison en ville avec jardin et garage pour le prix d' un appartement. I…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-238'500
-EUR
-Dpt Sarthe (72), à vendre LE MANS maiso…
-Adresse auf Anfrage, 72100 LE MANS
-Array
-5 Zimmer
-115 m2
-Objekttyp
-Wohnung, Terrassenhaus
-Zimmer
-5
-Wohnfläche
-115 m2
-Olivier GÊNES vous propose en exclusivité cette maison de quartier des années 1930 ( RIVE SARTHE)Id…
 Teilen
 E-Mail
 Facebook
@@ -398,120 +515,6 @@ Zimmer
 Wohnfläche
 200 m2
 Maison individuelle 6 pièces de 200m²Grande maison individuelle de 6 pièces de 200m² sur un terrain…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-630'000
-EUR
-Maison moderne 5 pièces de 184m²
-Adresse auf Anfrage, 25370 Longevilles-Mont-d'Or
-Array
-5 Zimmer
-184 m2
-Objekttyp
-Wohnung, Terrassenhaus
-Zimmer
-5
-Wohnfläche
-184 m2
-Maison moderne 5 pièces de 184m²Superbe maison moderne de 5 pièces de 184m².Construction récente de…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'450'000
-CHF
-Villa 7 pièces de 180m²
-Adresse auf Anfrage, 1965 Savièse
-Array
-7 Zimmer
-180 m2
-Objekttyp
-Wohnung, Terrassenhaus
-Zimmer
-7
-Wohnfläche
-180 m2
-Villa 7 pièces de 180m²Villa de charme avec studio indépendant située à Savièse dans un quartier ré…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-160'500
-EUR
-Dpt (), à vendre maison P3 de 66,11 m…
-Adresse auf Anfrage, 38490 LES ABRETS
-Array
-3 Zimmer
-66 m2
-Objekttyp
-Wohnung, Terrassenhaus
-Zimmer
-3
-Wohnfläche
-66 m2
-En exclusivité au centre ville des Abrets les commerces à pied, maison de ville avec son jardinet, …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-98'400
-EUR
-Maison de village à Peyrefitte-sur-l'he…
-Adresse auf Anfrage, 11410 PEYREFITTE SUR L'HERS
-Array
-4 Zimmer
-102 m2
-Objekttyp
-Wohnung, Terrassenhaus
-Zimmer
-4
-Wohnfläche
-102 m2
-Maison de village à Peyrefitte-sur-l'hersVenez découvrir cette belle maison au coeur du village de …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-337'600
-EUR
-Montpellier quartier Ovalie Maison de v…
-Adresse auf Anfrage, 34070 MONTPELLIER
-Array
-5 Zimmer
-121 m2
-Objekttyp
-Wohnung, Terrassenhaus
-Zimmer
-5
-Wohnfläche
-121 m2
-MONTPELLIER Ouest quartier Ovalie , en exclusivité , au calme et au fond d'une impasse ,une maison…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-192'600
-EUR
-Dpt Pyrénées Orientales (66), à vendre …
-Adresse auf Anfrage, 66500 PRADES
-Array
-6 Zimmer
-191 m2
-Objekttyp
-Wohnung, Terrassenhaus
-Zimmer
-6
-Wohnfläche
-191 m2
-PRADES EXCLUSIVITE.RARE: MAISON DE VILLE AVEC JARDIN.Cette maison située au centre ville, dispose d…
 Teilen
 E-Mail
 Facebook

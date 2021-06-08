@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-rorschach/
 Title: Wohnung & Haus kaufen in Region Rorschach - Immostreet.ch
-Description: Wohnung & Haus kaufen in Region Rorschach - Immostreet.ch: ImmoStreet.ch hat 40 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Region Rorschach - Immostreet.ch: ImmoStreet.ch hat 43 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-40 Resultate gefunden ·
+43 Resultate gefunden ·
 Wohnung & Haus kaufen in Region Rorschach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,160 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Baumgartenstrasse 1
+720'000
+CHF
+Eigentumswohnung an attraktiver Quartie…
+Baumgartenstrasse 1, 9403 Goldach
+Array
+5.5 Zimmer
+127 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+127 m2
+Wir verkaufen eine sehr schöne und grossflächige Eigentumswohnung im 1. Stock eines Mehrfamilienhau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Reggenschwilerstrasse 20
+2'650'000
+CHF
+Freistehendes Einfamilienhaus
+Reggenschwilerstrasse 20, 9402 Mörschwil
+Array
+7.5 Zimmer
+240 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Wohnfläche
+240 m2
+Etage
+Das gepflegte, grosszügige Einfamilienhaus befindet sich an bevorzugter, unverbaubarer Wohnlage, an…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Heidenerstrasse 59
+2'250'000
+CHF
+Einzigartige und luxuriöse Penthouse-Wo…
+Heidenerstrasse 59, 9404 Rorschacherberg
+Array
+5.5 Zimmer
+255 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+Wohnfläche
+255 m2
+Etage
+MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Einzigartige und luxuriö…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bachwiesstrasse 11
+660'000
+CHF
+Sehr schöne grosse 4.5 Zimmer Wohnung r…
+Bachwiesstrasse 11, 9404 Rorschacherberg
+Array
+4.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+123 m2
+Helle und grosse Wohnung mit 2 Balkonen im 2. OG; mit Lift.Hauptvorteile:      Sehr gute Aufteilung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Löwengartenstrasse 14
+490'000
+CHF
+Stadtleben Rorschach
+Löwengartenstrasse 14, 9400 Rorschach
+Array
+3.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+77 m2
+In der modernen Überbauung entstehen 30 Eigentumswohnungen, 42 Mietwohnungen, dies bildet eine bunt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Löwengartenstrasse 14
+370'000
+CHF
+Stadtleben Rorschach
+Löwengartenstrasse 14, 9400 Rorschach
+Array
+2.5 Zimmer
+54 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+54 m2
+In der modernen Überbauung entstehen 30 Eigentumswohnungen, 42 Mietwohnungen, dies bildet eine bunt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Löwengartenstrasse 14
+940'000
+CHF
+Stadtleben Rorschach
+Löwengartenstrasse 14, 9400 Rorschach
+Array
+4.5 Zimmer
+122 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+122 m2
+In der modernen Überbauung entstehen 30 Eigentumswohnungen, 42 Mietwohnungen, dies bildet eine bunt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Löwengartenstrasse 14
+730'000
+CHF
+Stadtleben Rorschach
+Löwengartenstrasse 14, 9400 Rorschach
+Array
+4.5 Zimmer
+111 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+111 m2
+In der modernen Überbauung entstehen 30 Eigentumswohnungen, 42 Mietwohnungen, dies bildet eine bunt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Rietbergstrasse 37
 849'000
 CHF
@@ -201,26 +355,6 @@ Array
 Objekttyp
 Wohnung, Villa
 MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Traumhafte Villa mit sch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Heidenerstrasse 59
-2'250'000
-CHF
-Einzigartige und luxuriöse Penthouse-Wo…
-Heidenerstrasse 59, 9404 Rorschacherberg
-Array
-5.5 Zimmer
-255 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-255 m2
-Etage
-MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Einzigartige und luxuriö…
 Teilen
 E-Mail
 Facebook
@@ -354,25 +488,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bachwiesstrasse 11
-660'000
-CHF
-Sehr schöne grosse 4.5 Zimmer Wohnung r…
-Bachwiesstrasse 11, 9404 Rorschacherberg
-Array
-4.5 Zimmer
-123 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-123 m2
-Helle und grosse Wohnung mit 2 Balkonen im 2. OG; mit Lift.Hauptvorteile:      Sehr gute Aufteilung…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Steinach
 785'000
 CHF
@@ -412,125 +527,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'980'000
-CHF
-EFH mit XXL-Grundstück und bewilligtem …
-Adresse auf Anfrage, 9425 Thal
-Array
-7.5 Zimmer
-322 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-7.5
-Wohnfläche
-322 m2
-Das Projekt befindet sich an privilegierter Lage eines sehrruhigen Villenquartiers in Thal mit wund…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-519'000
-CHF
-Lichtdurchflutete Etagenwohnung mit See…
-Adresse auf Anfrage, 9403 Goldach
-Array
-4.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-85 m2
-Etage
-Diese traumhafte Etagenwohnung befindet sich im obersten Geschoss eines Mehrfamilienhausesan bester…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'450'000
-CHF
-Einfamilienhaus an begehrter Lage mit B…
-Adresse auf Anfrage, 9404 Rorschacherberg
-Array
-5.5 Zimmer
-118 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-118 m2
-An traumhafter Hang- und Aussichtslage präsentiert sich dieses Einfamilienhaus mit phänomenalem Bod…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seepark 11
-1'250'000
-CHF
-Einmalige Wohnung direkt am Wasser
-Seepark 11, 9422 Staad SG
-Array
-3.5 Zimmer
-157 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-157 m2
-Exklusive ruhige und grosszügige 3.5 Zimmer WohnungAtemberaubende und luxuriöse Wohnung direkt am S…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-760'000
-CHF
-Stylische 4.5-Zimmer Eigentumswohnung a…
-Adresse auf Anfrage, 9403 Goldach
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-An zentraler und doch ruhiger Lage in Goldach, im 2. Obergeschoss eines gepflegten Mehrfamilienhaus…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wiesentalstrasse 10
-450'000
-CHF
-Bodensee-Feeling: Attraktive 3.5-Zimmer…
-Wiesentalstrasse 10, 9404 Rorschacherberg
-Array
-3.5 Zimmer
-87 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-87 m2
-Etage
-Rorschacherberg offeriert eine ganz besondere Lage, denn die Gemeinde liegt am Ufer des Oberen Bode…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 2
+Seite 1 von 3
 1
 2
+3
 nächste Seite
 ImmoStreet.ch
 Kaufen

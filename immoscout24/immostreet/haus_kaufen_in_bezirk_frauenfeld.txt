@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-frauenfeld/
 Title: Haus kaufen in Bezirk Frauenfeld - Immostreet.ch
-Description: Haus kaufen in Bezirk Frauenfeld - Immostreet.ch: ImmoStreet.ch hat 59 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Frauenfeld - Immostreet.ch: ImmoStreet.ch hat 53 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-59 Resultate gefunden ·
+53 Resultate gefunden ·
 Haus kaufen in Bezirk Frauenfeld
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Steinacker 13
+925'000
+CHF
+sehr gepflegtes Einfamilienhaus
+Steinacker 13, 9548 Matzingen
+Array
+5.5 Zimmer
+177 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+177 m2
+Im Auftrag verkaufen wir ein sehr gepflegtes Einfamilienhaus am Steinacker 13 in Matzingen. Das Hau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Häckiweg 14
 846'000
 CHF
@@ -250,25 +269,6 @@ Wohnfläche
 Ein (t)raumhafter WohlFühlOrt in den Weinbergen
 (Homing für Anspruchsvolle)
 Auf einem Grundst…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-850'000
-CHF
-Familienfreundliches Einfamilienhaus zu…
-Adresse auf Anfrage, 9548 Matzingen
-Array
-7 Zimmer
-531 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7
-Wohnfläche
-531 m2
-7 Zimmer Einfamilienhaus an zentraler Lager im Dorfkern von Matzingen gelegen, 2 Minuten ab Autobah…
 Teilen
 E-Mail
 Facebook
@@ -491,40 +491,38 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Sommeraustrasse 11
-970'000
+Schmiedestrasse 19
+1'280'000
 CHF
-Freistehendes Haus für Ihr Familienglück
-Sommeraustrasse 11, 8255 Schlattingen
+Einfamilienhaus mit schönem Umschwung
+Schmiedestrasse 19, 8555 Müllheim Dorf
 Array
-5.5 Zimmer
-165 m2
+6.5 Zimmer
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-5.5
-Wohnfläche
-165 m2
-Das gepflegte Einfamilienhaus mit zwei Stockwerken ist kinderfreundlich ausgestattet. Der geräumige…
+6.5
+Etage
+Gemütliches Einfamilienhaus mit schönem Gartenumschwung - ruhiges und familienfreundliches Wohnqua…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Im Zelgli 17a
-890'000
+Langenharterstrasse 7/3
+898'500
 CHF
-Helle Doppelhaushälfte im Familienquart…
-Im Zelgli 17a, 8255 Schlattingen
+Gepflegtes 5.5 Zimmer Doppeleinfamilien…
+Langenharterstrasse 7/3, 8555 Müllheim Dorf
 Array
 5.5 Zimmer
-160 m2
+150 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Doppeleinfamilienhaus
 Zimmer
 5.5
 Wohnfläche
-160 m2
-Diese moderne Doppelhaushälfte überzeugt mit einem offenen Grundriss. Der helle und geräumige Einga…
+150 m2
+Gepflegtes Doppeleinfamilienhaus in familienfreundlicher, ruhiger Lager, nah an der Natur Das Doppe…
 Teilen
 E-Mail
 Facebook

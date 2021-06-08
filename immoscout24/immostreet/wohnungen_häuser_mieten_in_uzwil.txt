@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-uzwil/
 Title: Wohnungen & Häuser mieten in Uzwil - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Uzwil - Immostreet.ch: ImmoStreet.ch hat 44 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Uzwil - Immostreet.ch: ImmoStreet.ch hat 43 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-44 Resultate gefunden ·
+43 Resultate gefunden ·
 Wohnungen & Häuser mieten in Uzwil
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Waldhofstrasse 18A
+1'560
+CHF
+/Monat
+moderne Familienwohnung
+Waldhofstrasse 18A, 9240 Uzwil
+Array
+4.5 Zimmer
+101 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+101 m2
+BeschreibungDie Besichtigungen für dieses Objekt werden von der aktuellen Mieterin durchgeführt. Ge…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Birkenstrasse 1
 1'080
 CHF
@@ -159,23 +179,6 @@ Wohnfläche
 45 m2
 UZWIL SG
 Uzwil liegt auf der Achse St. Gallen-Zürich direkt an der Autobahn A1 und der Hauptlinie …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fabrikstrasse, 10
-990
-CHF
-/Monat
-3 ½-Zimmerwohnung im 3.OG
-Fabrikstrasse, 10, 9240 Uzwil
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Aussenparkplatz Fr. 40.00 / MonatEinzelgarage Fr. 135.00 / Monat
 Teilen
 E-Mail
 Facebook
@@ -490,7 +493,7 @@ E-Mail
 Facebook
 Whatsapp
 Bahnhofstrassse 97
-1'390
+1'450
 CHF
 /Monat
 Herrliche und grosse 4- Zimmerwohnung m…

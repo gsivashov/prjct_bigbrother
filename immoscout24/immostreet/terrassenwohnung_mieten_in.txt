@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-terrassenwohnung/
 Title: Terrassenwohnung mieten in - Immostreet.ch
-Description: Terrassenwohnung mieten in   - Immostreet.ch: ImmoStreet.ch hat 86 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Terrassenwohnung mieten in   - Immostreet.ch: ImmoStreet.ch hat 75 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -116,7 +116,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-86 Resultate gefunden ·
+75 Resultate gefunden ·
 Terrassenwohnung mieten in
 Preis (aufsteigend)
 Preis (absteigend)
@@ -129,12 +129,94 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Chrüzgass 6
-1'760
+Rigistrasse 31
+2'300
 CHF
 /Monat
-Nachmieter gesucht für schöne 4 1/2 Zim…
-Chrüzgass 6, 7023 Haldenstein
+Schöne Gartenwohnung am Rigiblick
+Rigistrasse 31, 8006 Zürich
+Array
+3 Zimmer
+75 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+3
+Wohnfläche
+75 m2
+Wir vermieten unsere katzenfreundliche Gartenwohnung für bis zu drei Jahre unter. Sie ist frisch im…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zwidellen 26A
+1'900
+CHF
+/Monat
+Einzigartige Wohnung an ruhiger Lage im…
+Zwidellen 26A, 5070 Frick
+Array
+3 Zimmer
+65 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+3
+Wohnfläche
+65 m2
+Etage
+Gedeckter AutoabstellplatzDachterrasse 53m2 mit Ausblick ins GrüneKellera…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lettenweg 87
+2'050
+CHF
+/Monat
+Sonnige 4.5 mit grosser Terrasse & Schw…
+Lettenweg 87, 4325 Schupfart
+Array
+4.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+4.5
+Wohnfläche
+125 m2
+Etage
+Wir suchen neue Nachbaren für unser familiäres 5-Mehrfamilienhaus!Sehr helle, grosszügige Wohnung a…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lütisämetstrasse 84
+4'020
+CHF
+/Monat
+Charmante 4.5 Zimmer Gartenwohnung an I…
+Lütisämetstrasse 84, 8706 Meilen
+Array
+4.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+4.5
+Wohnfläche
+105 m2
+Die charmante 4.5 Zimmer-Gartenwohnung in der steuergünstigen Seegemeinde Meilen liegt eingebettet …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+5'000
+CHF
+/Monat
+Très bel appartement au Grand-Saconnex …
+Adresse auf Anfrage, 1218 Le Grand-Saconnex
 Array
 4.5 Zimmer
 100 m2
@@ -144,8 +226,131 @@ Zimmer
 4.5
 Wohnfläche
 100 m2
+Agence : Millenium Properties SARéf : JL 971Situé dans un quartier résidentiel sécurisé, cet appart…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+6'300
+CHF
+/Monat
+Lichtdurchflutete Terrassenwohnung im E…
+Adresse auf Anfrage, 8832 Wilen b. Wollerau
+Array
+5.5 Zimmer
+185 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+5.5
+Wohnfläche
+185 m2
+In der beliebten und steuergünsünstigen Gemeinde Wilen b. Wollerau, liegt diese lichtdurchflutete 5…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+In der Weid 18
+3'950
+CHF
+/Monat
+Ruhig, Familienfreundlich und Stadtnah
+In der Weid 18, 8143 Stallikon
+Array
+5.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+5.5
+Wohnfläche
+140 m2
 Etage
-Wir suchen für unsere schöne Gratenwohnung einen Nachmieter per 1.9.2021. 1 Zimmer mit 11m2 und 2 Z…
+Direkt am Waldrand gelegen bietet diese Wohnung mit ihrer 40qm grossen Terasse mit Südwest-Ausricht…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hochstrasse 112
+2'145
+CHF
+/Monat
+Wunderschön gelegene 3.5-Zimmer Wohnung…
+Hochstrasse 112, 8330 Pfäffikon ZH
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Etage
+Diese wunderschöne 3.5-Zimmer Wohnung liegt im idyllischen Pfäffikon ZH. Sie besticht vor allem dur…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rebmoosweg 69
+2'500
+CHF
+/Monat
+Wohnen am Brugger Berg
+Rebmoosweg 69, 5200 Brugg AG
+Array
+5.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+5.5
+Wohnfläche
+110 m2
+Etage
+Diese 5 ½ -Zimmer Terrassenwohnung wurde 2014 komplett renoviert und hat einen zeigemässen Look. Si…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'990
+CHF
+/Monat
+TOP AUSSICHT, MODERN UND EINZIGARTIG
+Adresse auf Anfrage, 2505 Biel/Bienne
+Array
+4.5 Zimmer
+115 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+4.5
+Wohnfläche
+115 m2
+Hier können Sie Ihre Seele wortwörtlich baumeln lassen. Die Wohnung mit grosser, gedeckter Terrasse…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rosengartenstrasse 28
+1'720
+CHF
+/Monat
+Attraktive Gartenwohnung
+Rosengartenstrasse 28, 8716 Schmerikon
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+3.5
+Wohnfläche
+85 m2
+Etage
+In Schmerikon an zentraler Lage befindet sich diese kernsanierte Wohnung.Die Wohnung besticht durch…
 Teilen
 E-Mail
 Facebook
@@ -166,28 +371,7 @@ Zimmer
 Wohnfläche
 90 m2
 Etage
-Suche ab 1.8.21 einen Nachmieter für eine schöne 4.5 Zimmer Wohnung auf dem Land. Küche ist mit GS …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Aubrigstrasse 6
-4'850
-CHF
-/Monat
-Enge - Exclusive Große Wohnung in der S…
-Aubrigstrasse 6, 8002 Zurich
-Array
-4.5 Zimmer
-146 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-4.5
-Wohnfläche
-146 m2
-Etage
-3 Schlafzimmer und 2 Badezimmer Wohnung zur Untermiete im 2. Stock, mit Terrasse und kleinem Balkon…
+Suche ab 1.8.21 oder 1.9.21 einen Nachmieter für eine schöne 4.5 Zimmer Wohnung auf dem Land. Küche…
 Teilen
 E-Mail
 Facebook
@@ -228,7 +412,7 @@ Zimmer
 2.5
 Wohnfläche
 80 m2
-Hohe Wohnqualität und ein aussergewöhnlich grosszügiger Grundriss mit Riesen-Terrasse, offenem Port…
+Hohe Wohnqualität und ein aussergewöhnlich grosszügiger Grundriss mit Riesen-Terrasse, offener Logg…
 Teilen
 E-Mail
 Facebook
@@ -250,27 +434,6 @@ Wohnfläche
 177 m2
 Etage
 Neu gebaute Gartenwohnung per sofort zur Miete verfügbarAuf einer der letzten unverbaubaren Landpar…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Badenerstrasse 701
-2'600
-CHF
-/Monat
-Besichtigung diesen Samstag: Riesige 1.…
-Badenerstrasse 701, 8048 Zürich
-Array
-1.5 Zimmer
-49 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-1.5
-Wohnfläche
-49 m2
-Besichtigung diesen Samstag: Riesige 1.5- Zimmerwohnung mit Traumterrasse!
-Die Besichtigungen fi…
 Teilen
 E-Mail
 Facebook
@@ -317,48 +480,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Schützenweg 3
-2'490
-CHF
-/Monat
-4,5 Zimmer - Penthouse Wohnung mit alle…
-Schützenweg 3, 4102 Binningen
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Etage
-Die 4,5 Zimmer - Penthouse Wohnung (4. OG ohne Lift) eines 8 Parteien Objektes in sehr guter Binnin…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hohlenbaumstrasse 109
-2'550
-CHF
-/Monat
-Ruhige 5.5 Zimmer Gartenwohnung auf der…
-Hohlenbaumstrasse 109, 8200 Schaffhausen
-Array
-5.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-5.5
-Wohnfläche
-130 m2
-Etage
-Sehr schöne Wohnung mit zwei Gartenterassen. Die Wohnung wurde im Jahr 2013 saniert. 2018 wurden ne…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Veja Alvra 58
 1'000
 CHF
@@ -398,47 +519,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'630
-CHF
-/Monat
-3.5 Zimmer EG-Wohnung in Reinach AG
-Adresse auf Anfrage, 5734 Reinach AG
-Array
-3.5 Zimmer
-87 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-3.5
-Wohnfläche
-87 m2
-Etage
-Zu vermieten ist eine grosse, schöne, helle 3.5 Zimmer EG-Wohnung in einem ruhigen Quartier in Rein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-5'000
-CHF
-/Monat
-Très bel appartement au Grand-Saconnex …
-Adresse auf Anfrage, 1218 Le Grand-Saconnex
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Agence : Millenium Properties SARéf : JL 971Situé dans un quartier résidentiel sécurisé, cet appart…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Welschlohstrasse 5
 3'150
 CHF
@@ -460,84 +540,7 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Wehrlisteig 19
-5'570
-CHF
-/Monat
-Exklusive Terassenwohnung mit Panaromas…
-Wehrlisteig 19, 8049 Zürich
-Array
-5.5 Zimmer
-140 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-5.5
-Wohnfläche
-140 m2
-Etage
-Zuoberst am Hönggerberg, an fantastischer Lage!Vom Alpen-Kamm über den Zürichsee, die Albiskette, d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brüggershofstrasse 27
-1'250
-CHF
-/Monat
-3.5 Zimmer Wohnung mit Terrasse
-Brüggershofstrasse 27, 9424 Rheineck
-Array
-3.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-3.5
-Wohnfläche
-98 m2
-Etage
-Rheineck9424 Rheineck liegt im Wahlkreis Rheintal, im Kanton St. Gallen. Die Bevölkerung in der pol…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'450
-CHF
-/Monat
-Appartement 3 pièces
-Adresse auf Anfrage, 1337 Vallorbe
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-3
-Appartement 3 piècesBel appartement 3 pièces situé au 1er étage d'un immeuble.Il se compose :
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chemin des Fleurettes 4
-Preis auf Anfrage
-Appartement de 2 pièces dans une belle …
-Chemin des Fleurettes 4, 1854 Leysin
-Array
-2 Zimmer
-44 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-2
-Wohnfläche
-44 m2
-A proximité de tous les commerces, ce bien comprend 1 salle de douche, 1 belle cuisine entièrement …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 5
+Seite 1 von 4
 1
 2
 3

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-triengen/
 Title: Wohnung & Haus mieten in Triengen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Triengen - Immostreet.ch: ImmoStreet.ch hat 9 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Triengen - Immostreet.ch: ImmoStreet.ch hat 10 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-9 Resultate gefunden ·
+10 Resultate gefunden ·
 Wohnung & Haus mieten in Triengen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Kantonsstrasse 16
+950
+CHF
+/Monat
+2.5 Zi.-Whg an ländlicher Lage
+Kantonsstrasse 16, 6234 Triengen
+Array
+2.5 Zimmer
+40 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+40 m2
+Sie sind auf der Suche nach einer kleinen Wohnung, konnten jedoch noch nicht eine passende Wohnung …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 1'680
 CHF

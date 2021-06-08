@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-schoeftland/
 Title: Wohnungen & Häuser mieten in Schöftland - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Schöftland - Immostreet.ch: ImmoStreet.ch hat 37 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Schöftland - Immostreet.ch: ImmoStreet.ch hat 35 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-37 Resultate gefunden ·
+35 Resultate gefunden ·
 Wohnungen & Häuser mieten in Schöftland
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,17 +122,42 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Birkenweg 2
-220
+Adresse auf Anfrage
+1'650
 CHF
 /Monat
-DOPPELGARAGENBOX sehr zentral in Schöft…
-Birkenweg 2, 5040 Schöftland
+SCHICKES WOHNPARADIES MIT BALKON
+Adresse auf Anfrage, 5040 Schöftland
 Array
+3.5 Zimmer
+110 m2
 Objekttyp
-Einzelgarage
-Ab sofort vermieten wir zentral in Schöftland am Birkenweg 2 eine geräumige DOPPELGARAGENBOX.
-Di…
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+110 m2
+Diese helle und schicke 3.5 Zimmer-Wohnung wird Sie bestimmt begeistern. Sie bietet viel Privatsphä…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Luzernerstrasse 1
+1'030
+CHF
+/Monat
+1.5 Zimmer Wohnung «an zentraler…
+Luzernerstrasse 1, 5040 Schöftland
+Array
+1.5 Zimmer
+39 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+39 m2
+Ab 1. April 2021 oder nach Vereinbarung, vermieten wir diese zentral gelegene, gemütliche 1 ½ Zimme…
 Teilen
 E-Mail
 Facebook
@@ -302,26 +327,6 @@ Verkauf, Werbefläche
 Wohnfläche
 200 m2
 Grosse Verkaufs- / Geschäftsfläche mit viel Potenzial und zahlreichen MöglichkeitenDie zur Vermietu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'650
-CHF
-/Monat
-SCHICKES WOHNPARADIES MIT BALKON
-Adresse auf Anfrage, 5040 Schöftland
-Array
-3.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-110 m2
-Diese helle und schicke 3.5 Zimmer-Wohnung wird Sie bestimmt begeistern. Sie bietet viel Privatsphä…
 Teilen
 E-Mail
 Facebook

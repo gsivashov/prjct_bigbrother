@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/unterkategorie-chalet/in-verbier/
 Title: Chalet kaufen in Verbier - Immostreet.ch
-Description: Chalet kaufen in  Verbier - Immostreet.ch: ImmoStreet.ch hat 73 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Chalet kaufen in  Verbier - Immostreet.ch: ImmoStreet.ch hat 66 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-73 Resultate gefunden ·
+66 Resultate gefunden ·
 Chalet kaufen in Verbier
 Preis (aufsteigend)
 Preis (absteigend)
@@ -139,20 +139,19 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Adresse auf Anfrage
-2'950'000
-CHF
-Superbe chalet familial avec vue panora…
+Preis auf Anfrage
+CHALET CORNICHE
 Adresse auf Anfrage, 1936 Verbier
 Array
-6.5 Zimmer
-350 m2
+7 Zimmer
+465 m2
 Objekttyp
 Wohnung, Chalet
 Zimmer
-6.5
+7
 Wohnfläche
-350 m2
-Charmant chalet situé tout en haut de Médières avec des belles vues panoramiques sur les Combins.Le…
+465 m2
+Idéalement situé à côté des remontées mécaniques de Savoleyres et à distance de marche du centre du…
 Teilen
 E-Mail
 Facebook
@@ -333,25 +332,6 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-9'750'000
-CHF
-Chalet 3 FLOCONS
-Adresse auf Anfrage, 1936 Verbier
-Array
-6 Zimmer
-344 m2
-Objekttyp
-Wohnung, Chalet
-Zimmer
-6
-Wohnfläche
-344 m2
-Le Chalet 3 Flocons est un magnifique chalet de luxe de cinq chambres à coucher perché sur la piste…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
 Preis auf Anfrage
 Verbier / Quartier résidentiel de Savol…
 Adresse auf Anfrage, 1936 Verbier
@@ -401,7 +381,7 @@ Zimmer
 Wohnfläche
 417 m2
 Etage
-Descriptif généralC'est au lieu-dit Les Clous à Verbier-Village sur la parcelle n°15275, que sera c…
+Descriptif généralC'est au lieu-dit Les Clous à Verbier-Village sur la parcelle n°15275, que se con…
 Teilen
 E-Mail
 Facebook
@@ -446,26 +426,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Chemin de Plan-Pra
-3'290'000
-CHF
-ATHANOR
-Chemin de Plan-Pra, 1936 Verbier
-Array
-4.5 Zimmer
-141 m2
-Objekttyp
-Wohnung, Chalet
-Zimmer
-4.5
-Wohnfläche
-141 m2
-Etage
-Descriptif généralMagnifique chalet  de 4.5 pièces, construit en 1998, en vieux bois avec beaucoup …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Chemin de Chevillard
 7'000'000
 CHF
@@ -500,6 +460,44 @@ Wohnfläche
 250 m2
 Etage
 Désignée parmi l’une des plus prestigieuses stations de ski au monde, Verbier est la porte d’entrée…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Chemin de Chevillard 92
+Preis auf Anfrage
+Chalet Chevillard
+Chemin de Chevillard 92, 1936 Verbier
+Array
+5 Zimmer
+417 m2
+Objekttyp
+Wohnung, Chalet
+Zimmer
+5
+Wohnfläche
+417 m2
+Splendide chalet de 5 pièces en cours de construction dans la région de Chevillard.Ce chalet en vie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Chemin de Chevillard
+12'600'000
+CHF
+A VENDRE LUXUEUX CHALET NEUF A VERBIER
+Chemin de Chevillard, 1936 Verbier
+Array
+9 Zimmer
+508 m2
+Objekttyp
+Wohnung, Chalet
+Zimmer
+9
+Wohnfläche
+508 m2
+Etage
+Verbier - Veya Immobilier - Fabuleux chalets réunis de luxe en vieux bois à construire sur 3 étages…
 Teilen
 E-Mail
 Facebook

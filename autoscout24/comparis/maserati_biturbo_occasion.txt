@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -574,7 +573,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Maserati
-(760)
+(738)
 Maserati Biturbo Occasion
 (22)
 Maserati Biturbo Oldtimer
@@ -583,9 +582,9 @@ Aufbau
 Maserati Biturbo Limousine
 (11)
 Maserati Biturbo Cabrio
-(8)
+(9)
 Maserati Biturbo Coupé
-(8)
+(7)
 Motor
 Maserati Biturbo Benzin
 (26)
@@ -596,19 +595,19 @@ Maserati Biturbo
 (9)
 Modelle
 Maserati Ghibli
-(224)
+(223)
 Maserati Levante
-(163)
+(161)
 Maserati Quattroporte
-(135)
+(129)
 Maserati Granturismo
-(75)
+(67)
 Maserati Coupé
 (38)
 Maserati 3200
-(35)
+(34)
 Maserati Grancabrio
-(33)
+(30)
 Maserati Spyder
 (13)
 CAR FOR YOU wird durchsucht ...
@@ -626,6 +625,16 @@ weniger
 18 Inserate
 0 Inserate
 0 Inserate
+MASERATI Biturbo Spyder E
+03.06.2021
+Occasion
+09.1990, Automat, Benzin
+57'000 km, 225 PS, Blau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 29'999
+ab CHF 548 / Monat
 Maserati Biturbo 2.5
 06.05.2021
 Occasion
@@ -709,17 +718,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 22'900
 ab CHF 418 / Monat
-Preisreduktion
-MASERATI Biturbo 222 4V
-09.03.2021
-Occasion
-12.1993, Manuell, Benzin
-14'900 km, 279 PS, Rot
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 52'900
-ab CHF 966 / Monat
 MASERATI BITURBO E
 03.03.2021
 Occasion

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-ebnat-kappel/
 Title: Wohnung & Haus mieten in Ebnat-Kappel - Immostreet.ch
-Description: Wohnung & Haus mieten in  Ebnat-Kappel - Immostreet.ch: ImmoStreet.ch hat 25 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Ebnat-Kappel - Immostreet.ch: ImmoStreet.ch hat 23 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-25 Resultate gefunden ·
+23 Resultate gefunden ·
 Wohnung & Haus mieten in Ebnat-Kappel
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,46 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+2'600
+CHF
+/Monat
+HELL UND GROSSZÜGIG
+Adresse auf Anfrage, 9642 Ebnat-Kappel
+Array
+8.5 Zimmer
+205 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+8.5
+Wohnfläche
+205 m2
+Hier finden Sie das perfekte Generationenhaus! Im Erdgeschoss befinden sich Keller/Hobbyraum und di…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'800
+CHF
+/Monat
+CHARMANTE UND RUSTIKALE WOHLFÜHLOASE
+Adresse auf Anfrage, 9642 Ebnat-Kappel
+Array
+6.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+6.5
+Wohnfläche
+150 m2
+Diese wunderschöne und lichtdurchflutende charmante Maisonnte Wohnung zieht sich über drei Etagen. …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Kapplerstrasse 11
 1'835
 CHF
@@ -306,46 +346,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-2'600
-CHF
-/Monat
-HELL UND GROSSZÜGIG
-Adresse auf Anfrage, 9642 Ebnat-Kappel
-Array
-8.5 Zimmer
-205 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-8.5
-Wohnfläche
-205 m2
-Hier finden Sie das perfekte Generationenhaus! Im Erdgeschoss befinden sich Keller/Hobbyraum und di…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'800
-CHF
-/Monat
-CHARMANTE UND RUSTIKALE WOHLFÜHLOASE
-Adresse auf Anfrage, 9642 Ebnat-Kappel
-Array
-6.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-6.5
-Wohnfläche
-150 m2
-Diese wunderschöne und lichtdurchflutende charmante Maisonnte Wohnung zieht sich über drei Etagen. …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Kapplerstrasse 74
 925
 CHF
@@ -379,26 +379,6 @@ Zimmer
 Wohnfläche
 125 m2
 Günstiger mit dem Wohnraum ist kaum möglich !Die sehr gepflegte und modernisierte Liegenschaft ist …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wierstrasse 2 6
-960
-CHF
-/Monat
-2.5-Zi-WHG,SCHÖN,HELL,SONNIG,RENOVIERT,…
-Wierstrasse 2 6, 9642 Ebnat-Kappel
-Array
-2.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-65 m2
-Die gepflegte sehr gut unterhaltene Liegenschaft ist ruhig, sonnig und doch zentral gelegen. Bussta…
 Teilen
 E-Mail
 Facebook
@@ -520,22 +500,39 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Oberdorfstrasse 15
-1'890
+Ebnaterstrasse 71
+865
 CHF
 /Monat
-grosse, zentrale 3.5 Zimmer-Dachwohnung…
-Oberdorfstrasse 15, 9642 Ebnat-Kappel
+Günstige Wohnung
+Ebnaterstrasse 71, 9642 Ebnat-Kappel
 Array
 3.5 Zimmer
-166 m2
 Objekttyp
-Wohnung, Duplex
+Wohnung, Flach
 Zimmer
 3.5
+Günstige, helle Wohnung inklusive Parkplatz und KellerabteilZur Mitbenützung Wasch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sonneggstrasse 21
+850
+CHF
+/Monat
+TOP ANGEBOT 2.5 Zimmer-Wohnung mit zwei…
+Sonneggstrasse 21, 9642 Ebnat-Kappel
+Array
+2.5 Zimmer
+71 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
 Wohnfläche
-166 m2
-Wer das Spezielle sucht, ist hier goldrichtig!Wir bieten eine einzigartige 3.5-Zimmer-Maisonettewoh…
+71 m2
+grosszügige 2.5-Zimmer-Wohnung mit ca. 71 m² Das Wohn-und Schlafzimmer sind mit Laminat verlegt. Di…
 Teilen
 E-Mail
 Facebook

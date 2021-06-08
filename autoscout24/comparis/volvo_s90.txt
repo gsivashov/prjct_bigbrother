@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -596,7 +595,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Volvo
-(5'672)
+(5'425)
 Volvo S90 Neuwagen
 (65)
 Volvo S90 Occasion
@@ -616,21 +615,21 @@ Volvo S90
 (121)
 Modelle
 Volvo XC60
-(1'642)
+(1'500)
 Volvo XC40
-(1'095)
+(1'030)
 Volvo V60
-(738)
+(768)
 Volvo XC90
-(618)
+(524)
 Volvo V90
-(333)
+(328)
 Volvo V40
-(217)
+(226)
 Volvo V50
-(153)
+(157)
 Volvo V70
-(151)
+(153)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -646,6 +645,16 @@ weniger
 32 Inserate
 0 Inserate
 0 Inserate
+VOLVO S90 T5 Inscription Geartronic
+07.06.2021
+Occasion
+12.2016, Automat, Benzin
+49'900 km, 254 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 34'900
+ab CHF 637 / Monat
 VOLVO S90 D4 Momentum Geartronic
 31.05.2021
 Occasion
@@ -656,16 +665,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 27'980
 ab CHF 511 / Monat
-VOLVO S90 T5 Inscription Geartronic
-30.05.2021
-Occasion
-12.2016, Automat, Benzin
-49'850 km, 254 PS, Weiss
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 33'900
-ab CHF 619 / Monat
 VOLVO S90 D5 AWD Inscription Geartronic Powerpulse
 4.5
 25.05.2021

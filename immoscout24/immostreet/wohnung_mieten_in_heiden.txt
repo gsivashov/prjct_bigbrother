@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-wohnung/in-heiden/
 Title: Wohnung mieten in Heiden - Immostreet.ch
-Description: Wohnung mieten in  Heiden - Immostreet.ch: ImmoStreet.ch hat 16 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Heiden - Immostreet.ch: ImmoStreet.ch hat 17 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-16 Resultate gefunden ·
+17 Resultate gefunden ·
 Wohnung mieten in Heiden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,47 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Lilienweg 3
+1'590
+CHF
+/Monat
+Schöne helle 2.5 Zimmer Wohnung im grün…
+Lilienweg 3, 9410 Heiden
+Array
+2.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+80 m2
+-Nachmieter gesucht-Schöne helle, grosse 2.5 Zimmer Wohnung mit modernem Innenausbau, komfortable K…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Rosenberg 6
+1'390
+CHF
+/Monat
+3.5 Zimmer-Wohnung an sonniger Hanglage
+Am Rosenberg 6, 9410 Heiden
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Etage
+Im Auftrag der Grubenmann Liegenschaften AG vermieten wir diese 3.5 Zimmerwohnung im 1. Obergeschos…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Obereggerstrasse 28
 1'350
 CHF
@@ -337,23 +378,6 @@ Zimmer
 5
 Etage
 Wohnen im Herzen von HeidenIn der Nähe vom Zentrum Heiden vermieten wir diese grosszügige 5 Zimmer-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Thalerstrasse 19
-585
-CHF
-/Monat
-1.5 Zimmer Dachwohnung Fr. 585 inkl. NK
-Thalerstrasse 19, 9410 Heiden
-Array
-1.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Dachwohnung 1.5 Zimmer in HeidenHelles Wohnzimmer, grosse Küche sep. Dusche / WC.Allgemein: Waschm…
 Teilen
 E-Mail
 Facebook

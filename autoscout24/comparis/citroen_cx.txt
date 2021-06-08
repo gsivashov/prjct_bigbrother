@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -603,7 +602,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Citroen
-(3'785)
+(3'771)
 Citroen CX Occasion
 (7)
 Aufbau
@@ -617,21 +616,21 @@ Citroen CX
 (8)
 Modelle
 Citroen C3
-(726)
+(716)
 Citroen C5
-(397)
+(402)
 Citroen C4
-(369)
+(368)
 Citroen Berlingo
 (342)
-Citroen C1
-(274)
 Citroen Jumper
-(269)
+(276)
+Citroen C1
+(272)
 Citroen Spacetourer
-(168)
+(170)
 Citroen Jumpy
-(166)
+(157)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...

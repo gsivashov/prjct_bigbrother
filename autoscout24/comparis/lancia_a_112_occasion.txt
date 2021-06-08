@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -596,20 +595,20 @@ Lancia A 112
 (6)
 Modelle
 Lancia Delta
-(64)
+(63)
 Lancia Ypsilon
 (53)
+Lancia Thema
+(25)
 Lancia Voyager
 (24)
-Lancia Thema
-(23)
 Lancia Beta
-(20)
-Lancia Fulvia
-(15)
+(21)
 Lancia Musa
+(15)
+Lancia Fulvia
 (13)
-Lancia Kappa
+Lancia Flavia
 (12)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...

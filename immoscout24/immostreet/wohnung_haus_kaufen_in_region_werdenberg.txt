@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-werdenberg/
 Title: Wohnung & Haus kaufen in Region Werdenberg - Immostreet.ch
-Description: Wohnung & Haus kaufen in Region Werdenberg - Immostreet.ch: ImmoStreet.ch hat 35 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Region Werdenberg - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-35 Resultate gefunden ·
+34 Resultate gefunden ·
 Wohnung & Haus kaufen in Region Werdenberg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+890'000
+CHF
+Idyllisches Einfamilienhaus mit grossem…
+Adresse auf Anfrage, 9473 Gams
+Array
+4.5 Zimmer
+102 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+102 m2
+Etage
+Die im Jahr 1978 erbaute Liegenschaft liegt am Rande der politischen Gemeinde Gams, im Gebiet Gasen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 Preis auf Anfrage
 Moderne, und ruhige 4½ Zimmer Eigentums…
@@ -414,24 +434,6 @@ Wohnfläche
 125 m2
 Etage
 Baubeginn erfolgt! - www.frohlweg10.ch An ruhiger Lage, in einem gepflegten Wohnquartier und angr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Gartenparadies mit klassisch-elegantem …
-Adresse auf Anfrage, 9478 Azmoos
-Array
-11 Zimmer
-340 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-11
-Wohnfläche
-340 m2
-An schöner Aussichtslage mit Blick über das Rheintal und in die umliegende Bergwelt liegt dieses st…
 Teilen
 E-Mail
 Facebook

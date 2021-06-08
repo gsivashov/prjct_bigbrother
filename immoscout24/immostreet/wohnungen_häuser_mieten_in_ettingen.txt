@@ -122,6 +122,46 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Hauptstrasse 3a
+1'990
+CHF
+/Monat
+grosszügige Familienwohnung mit separat…
+Hauptstrasse 3a, 4107 Ettingen
+Array
+4.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+125 m2
+Per 1. September 2021 vermieten wir diese grosszügige und helle Familienwohnung mit nachfolgendem A…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+3'100
+CHF
+/Monat
+HOCHWERTIG, MODERN MIT AUSSICHT
+Adresse auf Anfrage, 4107 Ettingen
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Diese Wohnung bietet allen Luxus, den sie sich vorstellen können. Sie haben zwei Badezimmer, drei S…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Flühbergring 12
 2'990
 CHF
@@ -138,26 +178,6 @@ Zimmer
 Wohnfläche
 144 m2
 Per sofort oder nach Vereinbarung vermieten wir eine wunderbar grosse 4.5 ZWG am Rand der Bauzone i…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Nonnenmattstrasse 26
-2'500
-CHF
-/Monat
-In Ettingen 4.5-Zimmer-Eckeinfamilienha…
-Nonnenmattstrasse 26, 4107 Ettingen
-Array
-4.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-98 m2
-Im schönen Ettingen an der Nonnenmattstrasse vermieten wir ein 4.5-Zimmer-Eckeinfamilienhaus mit Ga…
 Teilen
 E-Mail
 Facebook
@@ -183,7 +203,7 @@ E-Mail
 Facebook
 Whatsapp
 Hauptstrasse 26
-1'400
+1'200
 CHF
 /Monat
 2-Zi Wohnung mit Balkon im 1.OG im Dorf…
@@ -197,7 +217,7 @@ Zimmer
 2
 Wohnfläche
 59 m2
-Helle und neu renovierte 2-Zi Wohnung im Dorfkern von Ettingen. Die Wohnung liegt im 1.Stock (kein …
+Helle und neu renovierte 2-Zi Wohnung im Dorfkern von Ettingen. ÖV, Einkauf, Restaurants, alles in …
 Teilen
 E-Mail
 Facebook
@@ -252,27 +272,6 @@ Büro
 Zimmer
 2
 In neu erstelltem Mehrfamilienhaus vermieten wir im 1. Untergeschoss per sofort oder nach Vereinbar…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Elblingstrasse 14
-2'550
-CHF
-/Monat
-3-Zimmer Attikawohnung
-Elblingstrasse 14, 4107 Ettingen
-Array
-3 Zimmer
-85 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3
-Wohnfläche
-85 m2
-Etage
-Wir vermieten eine neue 3-Zimmer Attikawohnung. Diese helle Wohnung wurde in Minergiebauweise im Ei…
 Teilen
 E-Mail
 Facebook

@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -826,16 +825,16 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 KTM
-(939)
+(937)
 KTM Neu
-(518)
+(520)
 KTM Occasion
-(351)
+(347)
 KTM Vorführmodell
 (69)
 Aufbau
 KTM Gelände / Enduro
-(414)
+(416)
 KTM Strasse
 (297)
 KTM
@@ -843,17 +842,17 @@ Modelle
 KTM 125 Duke ABS
 (22)
 KTM 1290 Super Adventure ABS
-(12)
+(11)
 KTM 1290 Super Adventure R
 (8)
 KTM 1290 Super Adventure S
-(48)
+(51)
 KTM 1290 Super Duke GT
-(54)
+(55)
 KTM 1290 Super Duke R
-(41)
+(40)
 KTM 250 EXC F Freeride
-(14)
+(15)
 KTM 250 EXC-F
 (10)
 KTM 350 EXC-F 4-T
@@ -861,27 +860,27 @@ KTM 350 EXC-F 4-T
 KTM 350 EXC-F 4-T Six Days
 (8)
 KTM 390 Duke ABS
-(32)
+(29)
 KTM 690 Duke ABS
-(17)
+(16)
 KTM 690 Enduro R ABS
-(10)
+(11)
 KTM 690 SMC R ABS
-(10)
+(9)
 KTM 790 Adventure ABS
-(44)
+(42)
 KTM 790 Adventure R ABS
 (10)
 KTM 790 Duke ABS
-(28)
+(29)
 KTM 990 Super Duke
 (9)
 KTM Freeride E-XC
-(8)
+(9)
 KTM RC 390 ABS
-(8)
+(10)
 Weitere Modelle
-(939)
+(937)
 KTM 640 LC4-E Supermoto
 Alle Details
 Inserat vom 01.06.2021

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/gewerbe-industrie/kanton-zuerich/
 Title: Gewerbe kaufen in Kanton Zürich - Immostreet.ch
-Description: Gewerbe kaufen in Kanton Zürich - Immostreet.ch: ImmoStreet.ch hat 45 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Gewerbe kaufen in Kanton Zürich - Immostreet.ch: ImmoStreet.ch hat 43 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -131,7 +131,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-45 Resultate gefunden ·
+43 Resultate gefunden ·
 Gewerbe kaufen in Kanton Zürich
 Preis (aufsteigend)
 Preis (absteigend)
@@ -144,6 +144,18 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Landstrasse 49A
+Preis auf Anfrage
+Büro, Praxis, Kanzlei, Atelier, etc. ze…
+Landstrasse 49A, 8450 Andelfingen
+Array
+Objekttyp
+Büro
+Zentralst gelegene Büro-Räume Unmittelbar beim Bahnhof Andelfingen, stehen per Herbst 2021 diese Bü…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Ernst-Jung-Gasse 18
 894'000
 CHF
@@ -208,19 +220,6 @@ Array
 Objekttyp
 Verkauf, Gewerbe
 An gut sichtbarer, zentrumsnaher Mikrolage in einem 1995 erbauten Gewerbehaus stehen Gewerbeflächen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Landstrasse 49A
-790'000
-CHF
-Ruhige Büros, Praxis, Kanzlei, Atelier,…
-Landstrasse 49A, 8450 Andelfingen
-Array
-Objekttyp
-Büro
-Zentralst gelegene Büro-Räume Unmittelbar beim Bahnhof Andelfingen, stehen per Herbst 2021 diese Bü…
 Teilen
 E-Mail
 Facebook

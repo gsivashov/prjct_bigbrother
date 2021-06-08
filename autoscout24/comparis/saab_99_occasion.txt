@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -568,12 +567,12 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Saab
-(249)
+(254)
 Modelle
 Saab 9-3
 (138)
 Saab 9-5
-(58)
+(63)
 Saab 900
 (32)
 Saab 9000
@@ -602,8 +601,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 7'600
-ab CHF 139 / Monat
+CHF 6'800
+ab CHF 124 / Monat
 SAAB 99 2.0 GL-2sn-Cm4
 10.03.2020
 Occasion

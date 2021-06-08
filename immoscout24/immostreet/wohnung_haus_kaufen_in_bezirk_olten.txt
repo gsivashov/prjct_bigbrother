@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-olten/
 Title: Wohnung & Haus kaufen in Bezirk Olten - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Olten - Immostreet.ch: ImmoStreet.ch hat 54 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Olten - Immostreet.ch: ImmoStreet.ch hat 58 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-54 Resultate gefunden ·
+58 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Olten
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,133 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Villenstrasse
+200'000
+CHF
+Günstige Gelegenheit mit vielen Extras
+Villenstrasse, 5012 Schönenwerd
+Array
+2.5 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+60 m2
+Sie halten Ausschau nach einem Renditeobjekt oder sind auf der Suche nach einer schönen Wohnung zum…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+275'000
+CHF
+HELLER WOHNTRAUM MIT SICHT INS GRÜNE
+Adresse auf Anfrage, 5012 Schönenwerd
+Array
+3.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+70 m2
+Diese helle und grosszügige 3.5 Zimmerwohnung, unterteilt nach Schlaf- und Wohnbereich, wird Sie be…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+490'000
+CHF
+Schöne 4.5 Zimmer Wohnung an ruhiger La…
+Adresse auf Anfrage, 4656 Starrkirch-Wil
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+110 m2
+Diese wunderschöne Wohnung liegt in einem ruhigen Quartier und bietet alles was Sie brauchen. Die R…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Chrummatt
+519'000
+CHF
+*Wohnhaus*
+Chrummatt, 4612 Wangen b. Olten
+Array
+Objekttyp
+Wohnung, Einzelhaus
+Es handelt sich um ein Wohnhaus mit Nebengebäude.Bei dieser Immobilie handelt es sich um ein Objekt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dulliken
+615'000
+CHF
+Charmantes Haus mit 6.5 Zimmern mit vie…
+Dulliken, 4657 Dulliken
+Array
+6.5 Zimmer
+155 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+155 m2
+Das Haus in der Nähe der Aare zeichnet sich durch die ganztags besonnten Terrassen und den grossen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dulliken
+550'000
+CHF
+Freistehendes EFH mit Garten und Obstbä…
+Dulliken, 4657 Dulliken
+Array
+4.5 Zimmer
+92 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+92 m2
+Dieses charmante 4.5 Zimmer Haus mit Ausbaumöglichkeit und grossem Garten liegt ruhig und gut beson…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Burgweg 19
+Preis auf Anfrage
+Haus zu verkaufen
+Burgweg 19, 4600 Olten
+Array
+6.5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+160 m2
+Etage
+Dieses Eck-Reihen-Einfamilienhaus befindet sich an erhöhter, sonniger und relativ ruhiger Wohnlage …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Allmendstrasse 17
 920'000
 CHF
@@ -224,25 +351,6 @@ Zimmer
 Wohnfläche
 139 m2
 Hier erwartet Sie ein heimeliges Zuhause in direkter Nähe zum Naherholungsgebiet und wenige Minuten…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-490'000
-CHF
-Schöne 4.5 Zimmer Wohnung an ruhiger La…
-Adresse auf Anfrage, 4656 Starrkirch-Wil
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Diese wunderschöne Wohnung liegt in einem ruhigen Quartier und bietet alles was Sie brauchen. Die R…
 Teilen
 E-Mail
 Facebook
@@ -344,25 +452,6 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-770'000
-CHF
-Moderne 4.5-Zimmer Wohnung in ländliche…
-Adresse auf Anfrage, 4616 Kappel SO
-Array
-4.5 Zimmer
-139 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-139 m2
-Brandneue Wohnungen an ruhiger Lage! Wenn nicht jetzt - wann dann?In dem Mehrfamilienhaus in Kappel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
 399'000
 CHF
 Ruhige Lage - Geniessen!
@@ -436,104 +525,6 @@ Wohnfläche
 106 m2
 Etage
 Ich freue mich schon jetzt, Sie als meinen neuen Eigentümer willkommen zu heissen.Besuchen Sie Ihr …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wilerweg 55
-670'000
-CHF
-RENDITEOBJEKT AN GUTER LAGE MIT VIEL PO…
-Wilerweg 55, 4600 Olten
-Array
-8 Zimmer
-165 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-8
-Wohnfläche
-165 m2
-Dieses an einer idealen Lage gelegene Doppeleinfamilienhaus in der Nähe vom Zentrum wird Sie verzau…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfstrasse 5 und 7
-2'500'000
-CHF
-Perfekte Räumlichkeiten als Mehrgenerat…
-Dorfstrasse 5 und 7, 4656 Starrkirch-Wil
-Array
-12 Zimmer
-327 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-12
-Wohnfläche
-327 m2
-Etage
-Diese interessante Liegenschaft befindet sich an gut erschlossener, zentraler und sonniger Lage in …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-348'000
-CHF
-Nie mehr Miete zahlen! Sei schlau und k…
-Adresse auf Anfrage, 5014 Gretzenbach
-Array
-2.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-70 m2
-Hier erwartet Sie ein praktisches komfortables Zuhause. Der schöne Wohnbereich mit Cheminée lädt zu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-845'000
-CHF
-Charmantes 5½ Zimmer - Einfamilienhaus
-Adresse auf Anfrage, 4657 Dulliken
-Array
-5.5 Zimmer
-136 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-136 m2
-Etage
-ObjektbeschriebDirekt neben Olten (Dulliken SO) erwartet Sie ein ruhig gelegenes, zu Hause ... ein …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Belchenstrasse 16
-1'620'000
-CHF
-Grosszügiges 7.5-Zimmer Einfamilienhaus
-Belchenstrasse 16, 5012 Schönenwerd
-Array
-7.5 Zimmer
-167 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-7.5
-Wohnfläche
-167 m2
-Etage
-Grosses modernes 7.5-Zimmer-Einfamilienhaus an sonniger, aussichtsreicher LageGross, hell, modern, …
 Teilen
 E-Mail
 Facebook

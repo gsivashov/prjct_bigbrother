@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-muenchenbuchsee/
 Title: Wohnung & Haus mieten in Münchenbuchsee - Immostreet.ch
-Description: Wohnung & Haus mieten in  Münchenbuchsee - Immostreet.ch: ImmoStreet.ch hat 29 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Münchenbuchsee - Immostreet.ch: ImmoStreet.ch hat 30 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-29 Resultate gefunden ·
+30 Resultate gefunden ·
 Wohnung & Haus mieten in Münchenbuchsee
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Weierweg 29
+1'500
+CHF
+/Monat
+Blick in die Berge !
+Weierweg 29, 3053 Münchenbuchsee
+Array
+3.5 Zimmer
+79 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+79 m2
+Wir vermieten am Weierweg 29 in Münchenbuchsee diese tolle 3.5-Zimmer Dachwohnung im 2. Obergeschos…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Ursprungstrasse 67
 1'810
 CHF
@@ -238,7 +258,7 @@ Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Zu vermieten ab sofort oder nach Vereinbarung. Schöne 4 1/2 Zimmerwohnung (3.Stock) in ruhigem Qua…
+Zu vermieten ab sofort oder nach Vereinbarung. Schöne 4 1/2 Zimmerwohnung (3.Stock ohne Lift) in ru…
 Teilen
 E-Mail
 Facebook
@@ -255,7 +275,7 @@ Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Zu vermieten ab sofort oder nach Vereinbarung. Schöne 4 1/2 Zimmerwohnung (3.Stock) in ruhigem Qua…
+Zu vermieten ab sofort oder nach Vereinbarung. Schöne 4 1/2 Zimmerwohnung (3.Stock ohne Lift) in ru…
 Teilen
 E-Mail
 Facebook
@@ -504,26 +524,6 @@ Zimmer
 Wohnfläche
 60 m2
 Diese zentral gelegene Wohnsiedlung ist voller Leben. Ob Paar, Single oder junge Familie. Sie finde…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schaalweg 6 (Neumatt II)
-1'295
-CHF
-/Monat
-Endlich in eigenen vier Wänden
-Schaalweg 6 (Neumatt II), 3053 Münchenbuchsee
-Array
-2 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-60 m2
-Wir vermieten eine gemütliche Wohnung mit sonnigem Balkon: *Die Bilder stammen von einer typähnlich…
 Teilen
 E-Mail
 Facebook

@@ -151,21 +151,21 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Neumatt
-3'950'000
+Nägelistrasse
+1'295'000
 CHF
-Grosszügiges EFH inkl. Gewerbehalle und…
-Neumatt, 5712 Beinwil am See
+5 freistehende Einfamilienhäuser
+Nägelistrasse, 5712 Beinwil am See
 Array
-7.5 Zimmer
-250 m2
+5.5 Zimmer
+155 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-7.5
+5.5
 Wohnfläche
-250 m2
-Neuwertiges Traumhaus mit Renditemöglichkeit (2 Parzellen)Sie suchen eine wunderschön gelegene gros…
+155 m2
+Wohnen mit SeesichtBaubewilligung erteilt - Baustart vorgesehen Frühling/Sommer 2021In der wundersc…
 Teilen
 E-Mail
 Facebook
@@ -189,21 +189,21 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Nägelistrasse
-1'295'000
+Neumatt
+3'950'000
 CHF
-5 freistehende Einfamilienhäuser
-Nägelistrasse, 5712 Beinwil am See
+Grosszügiges EFH inkl. Gewerbehalle und…
+Neumatt, 5712 Beinwil am See
 Array
-5.5 Zimmer
-155 m2
+7.5 Zimmer
+250 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-5.5
+7.5
 Wohnfläche
-155 m2
-Wohnen mit SeesichtBaubewilligung erteilt - Baustart vorgesehen Frühling/Sommer 2021In der wundersc…
+250 m2
+Neuwertiges Traumhaus mit Renditemöglichkeit (2 Parzellen)Sie suchen eine wunderschön gelegene gros…
 Teilen
 E-Mail
 Facebook

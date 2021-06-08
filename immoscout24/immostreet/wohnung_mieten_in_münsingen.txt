@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-muensingen/
 Title: Wohnung mieten in Münsingen - Immostreet.ch
-Description: Wohnung mieten in  Münsingen - Immostreet.ch: ImmoStreet.ch hat 33 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Münsingen - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-33 Resultate gefunden ·
+34 Resultate gefunden ·
 Wohnung mieten in Münsingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,57 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Löwenmattweg 31
+1'220
+CHF
+/Monat
+Wohnen mit Blick ins Grüne
+Löwenmattweg 31, 3110 Münsingen
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wir vermieten ab dem 1. August 2021 oder nach Vereinbarung diese heimelige 3-Zimmer-Wohnung mit fol…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Löwenmattweg 31
+1'230
+CHF
+/Monat
+gemütlich Wohnen!
+Löwenmattweg 31, 3110 Münsingen
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wir vermieten ab dem 1. August 2021 oder nach Vereinbarung diese heimelige 3-Zimmer-Wohnung mit fol…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Löwenmattweg 9
+1'370
+CHF
+/Monat
+3-Zimmer-Wohnung mit schönem Balkon!
+Löwenmattweg 9, 3110 Münsingen
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wir vermieten nach Vereinbarung eine 3-Zimmerwohnung. Die Wohnung im 1. Obergeschoss verfügt über: …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Aeschistrasse 6
 1'350
 CHF
@@ -445,23 +496,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Löwenmattweg 31
-1'220
-CHF
-/Monat
-Wohnen mit Blick ins Grüne
-Löwenmattweg 31, 3110 Münsingen
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wir vermieten ab dem 1. August 2021 oder nach Vereinbarung diese heimelige 3-Zimmer-Wohnung mit fol…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bahnhofplatz 1
 1'780
 CHF
@@ -478,46 +512,6 @@ Zimmer
 Wohnfläche
 74 m2
 Die LageDiese Wohnung könnte keinen besseren Standort haben. Sie brauchen nur die Strasse zu überqu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schlossmatte 16
-1'630
-CHF
-/Monat
-Mieten ohne Kaution - Wohnung mit Garte…
-Schlossmatte 16, 3110 Münsingen
-Array
-3.5 Zimmer
-86 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-86 m2
-Die attraktive und gepflegte Überbauung an der Schlossmatte 1-18 in Münsingen ist ruhig gelegen. Wa…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Thunstrasse 20F
-2'180
-CHF
-/Monat
-Nachmieter für wunderschöne 4.5-Zi-Wohn…
-Thunstrasse 20F, 3110 Münsingen
-Array
-4.5 Zimmer
-108 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-108 m2
-Per 1. Juli 2021 suchen wir einen Nachmieter für unsere wunderschöne, grosse, sonnige Wohnung 4.5 Z…
 Teilen
 E-Mail
 Facebook

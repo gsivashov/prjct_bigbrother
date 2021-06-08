@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -198,302 +198,292 @@ Merken
 ab CHF 167/Monat
 NEU
 VW
-T6 2.0 Bi-TDI 4Motion
-CHF 30'900
-ab CHF 332/Monat
-11.2015
+Caddy 2.0 TDI 4Motion
+CHF 16'600
+ab CHF 179/Monat
+11.2011
 Handschaltung
-91'000 km
+112'250 km
 Diesel
 Allradantrieb
-grau
-204 PS
-AR
+weiss
+110 PS
+LU
 Merken
 VW
-T6 2.0 Bi-TDI 4Motion
-11.2015
-204 PS
-91'000 km
-CHF 30'900
+Caddy 2.0 TDI 4Motion
+11.2011
+110 PS
+112'250 km
+CHF 16'600
 Merken
-ab CHF 332/Monat
+ab CHF 179/Monat
 NEU
 VW
-Tiguan 2.0TDI High 4M
-CHF 34'900
-ab CHF 375/Monat
-10.2018
+Golf Variant 1.5 TSI EVO Highline DSG
+CHF 23'800
+ab CHF 256/Monat
+12.2019
 Automat
-27'600 km
-Diesel
-Allradantrieb
-grau
+28'200 km
+Benzin
+Vorderradantrieb
+schwarz
 150 PS
-TI
+ZH
 Merken
 VW
-Tiguan 2.0TDI High 4M
-10.2018
+Golf Variant 1.5 TSI EVO Highline...
+12.2019
 150 PS
-27'600 km
-CHF 34'900
+28'200 km
+CHF 23'800
 Merken
-ab CHF 375/Monat
+ab CHF 256/Monat
 NEU
 VW
-Passat Variant Business PA
-CHF 31'500
-ab CHF 339/Monat
-07.2020
+Caddy Liberty
+CHF 33'900
+ab CHF 365/Monat
+04.2021
 Automat
-22'591 km
+5'000 km
 Diesel
 Vorderradantrieb
-sonstiges
-150 PS
-AI
+schwarz
+122 PS
+VD
 Merken
 VW
-Passat Variant Business PA
-07.2020
-150 PS
-22'591 km
-CHF 31'500
+Caddy Liberty
+04.2021
+122 PS
+5'000 km
+CHF 33'900
 Merken
-ab CHF 339/Monat
+ab CHF 365/Monat
 NEU
 VW
-Golf 2.0 TDI Alltrack 4Motion
-CHF 16'900
-ab CHF 182/Monat
-05.2015
+Golf Variant Comfortline
+CHF 23'700
+ab CHF 255/Monat
+05.2020
 Automat
-138'000 km
+18'000 km
+Benzin
+Vorderradantrieb
+silber
+150 PS
+SO
+Merken
+VW
+Golf Variant Comfortline
+05.2020
+150 PS
+18'000 km
+CHF 23'700
+Merken
+ab CHF 255/Monat
+NEU
+VW
+new Golf Variant Highline EVO
+CHF 23'900
+ab CHF 257/Monat
+07.2017
+Automat
+33'000 km
+Benzin
+Vorderradantrieb
+grau
+150 PS
+TG
+Merken
+VW
+new Golf Variant Highline EVO
+07.2017
+150 PS
+33'000 km
+CHF 23'900
+Merken
+ab CHF 257/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+VW
+Caddy Liberty
+CHF 38'914
+ab CHF 418/Monat
+-
+Handschaltung
+50 km
+Diesel
+Allradantrieb
+silber
+122 PS
+VD
+Merken
+VW
+Caddy Liberty
+-
+122 PS
+50 km
+CHF 38'914
+Merken
+ab CHF 418/Monat
+NEU
+VW
+Multivan TDI Comfort 4M
+CHF 20'900
+ab CHF 225/Monat
+05.2012
+Handschaltung
+161'500 km
 Diesel
 Allradantrieb
 schwarz
-184 PS
-OW
+140 PS
+SG
 Merken
 VW
-Golf 2.0 TDI Alltrack 4Motion
-05.2015
-184 PS
-138'000 km
-CHF 16'900
+Multivan TDI Comfort 4M
+05.2012
+140 PS
+161'500 km
+CHF 20'900
 Merken
-ab CHF 182/Monat
+ab CHF 225/Monat
+NEU
+VW
+Passat Variant 2.0 TDI BMT Highline 4MDSG
+CHF 13'900
+ab CHF 150/Monat
+08.2012
+Automat
+131'000 km
+Diesel
+Allradantrieb
+grau
+170 PS
+AG
+Merken
+VW
+Passat Variant 2.0 TDI BMT Highli...
+08.2012
+170 PS
+131'000 km
+CHF 13'900
+Merken
+ab CHF 150/Monat
+NEU
+VW
+Passat Variant Comfortline
+CHF 23'500
+ab CHF 253/Monat
+04.2018
+Automat
+109'400 km
+Diesel
+Allradantrieb
+weiss
+190 PS
+ZG
+Merken
+VW
+Passat Variant Comfortline
+04.2018
+190 PS
+109'400 km
+CHF 23'500
+Merken
+ab CHF 253/Monat
+NEU
+VW
+Golf Variant Comfortline
+CHF 15'900
+ab CHF 171/Monat
+01.2018
+Handschaltung
+78'625 km
+Diesel
+Vorderradantrieb
+rot
+115 PS
+SG
+Merken
+VW
+Golf Variant Comfortline
+01.2018
+115 PS
+78'625 km
+CHF 15'900
+Merken
+ab CHF 171/Monat
+NEU
+VW
+Golf R Variant
+CHF 37'700
+ab CHF 405/Monat
+05.2018
+Automat
+46'000 km
+Benzin
+Allradantrieb
+weiss
+310 PS
+SO
+Merken
+VW
+Golf R Variant
+05.2018
+310 PS
+46'000 km
+CHF 37'700
+Merken
+ab CHF 405/Monat
 NEU
 VW
 Caddy Family BlueMotion Technology
-CHF 15'390
-ab CHF 166/Monat
-01.2017
+CHF 13'900
+ab CHF 150/Monat
+04.2018
 Handschaltung
-61'800 km
+60'000 km
 Benzin
 Vorderradantrieb
 weiss
 84 PS
-BE
+GR
 Merken
 VW
 Caddy Family BlueMotion Technolog...
-01.2017
+04.2018
 84 PS
-61'800 km
-CHF 15'390
+60'000 km
+CHF 13'900
 Merken
-ab CHF 166/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
+ab CHF 150/Monat
 NEU
 VW
-Passat Variant 2.0 TSI Highline DSG
-CHF 21'850
-ab CHF 235/Monat
-05.2016
-Automat
-128'500 km
-Benzin
-Vorderradantrieb
-grau
-220 PS
-SG
-Merken
-VW
-Passat Variant 2.0 TSI Highline D...
-05.2016
-220 PS
-128'500 km
-CHF 21'850
-Merken
-ab CHF 235/Monat
-NEU
-VW
-Golf 8 Variant Life
-CHF 37'995
-ab CHF 409/Monat
--
-Automat
-15 km
-Benzin
-Vorderradantrieb
-grau
-130 PS
-LU
-Merken
-VW
-Golf 8 Variant Life
--
-130 PS
-15 km
-CHF 37'995
-Merken
-ab CHF 409/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-VW
-Passat Variant Elegance PA
-CHF 35'900
-ab CHF 386/Monat
-11.2019
-Automat
-55'100 km
+Passat Variant 2.0 TDI CR Highline 4m
+CHF 5'400
+04.2009
+Handschaltung
+245'000 km
 Diesel
 Allradantrieb
 silber
-190 PS
-VD
-Merken
-VW
-Passat Variant Elegance PA
-11.2019
-190 PS
-55'100 km
-CHF 35'900
-Merken
-ab CHF 386/Monat
-NEU
-VW
-Golf Variant 1.6 TDI Comfortline 4Motion
-CHF 9'500
-ab CHF 107/Monat
-12.2011
-Handschaltung
-118'000 km
-Diesel
-Allradantrieb
-schwarz
-105 PS
-NW
-Merken
-VW
-Golf Variant 1.6 TDI Comfortline ...
-12.2011
-105 PS
-118'000 km
-CHF 9'500
-Merken
-ab CHF 107/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-VW
-Passat Alltrack 2.0 TDI BMT 4Motion DSG
-CHF 22'900
-ab CHF 246/Monat
-12.2016
-Automat
-143'302 km
-Diesel
-Allradantrieb
-schwarz
-190 PS
-ZH
-Merken
-VW
-Passat Alltrack 2.0 TDI BMT 4Moti...
-12.2016
-190 PS
-143'302 km
-CHF 22'900
-Merken
-ab CHF 246/Monat
-NEU
-VW
-Passat Variant 2.0 TDI BMT Highline DSG
-CHF 17'900
-ab CHF 193/Monat
-04.2017
-Automat
-143'227 km
-Diesel
-Vorderradantrieb
-schwarz
-150 PS
-ZH
-Merken
-VW
-Passat Variant 2.0 TDI BMT Highli...
-04.2017
-150 PS
-143'227 km
-CHF 17'900
-Merken
-ab CHF 193/Monat
-NEU
-VW
-Passat Variant Comfortline BlueMotion Technology
-CHF 14'950
-ab CHF 161/Monat
-04.2014
-Automat
-90'200 km
-Diesel
-Vorderradantrieb
-schwarz
 140 PS
-AG
+LU
 Merken
 VW
-Passat Variant Comfortline BlueMo...
-04.2014
+Passat Variant 2.0 TDI CR Highlin...
+04.2009
 140 PS
-90'200 km
-CHF 14'950
+245'000 km
+CHF 5'400
 Merken
-ab CHF 161/Monat
-NEU
-VW
-Golf 8 Variant R-Line
-CHF 39'999
-ab CHF 430/Monat
--
-Automat
-10 km
-Benzin
-Vorderradantrieb
-grau
-150 PS
-SG
-Merken
-VW
-Golf 8 Variant R-Line
--
-150 PS
-10 km
-CHF 39'999
-Merken
-ab CHF 430/Monat
 1
 1
 2

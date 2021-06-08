@@ -132,7 +132,6 @@ Kurzarbeit: Lohn berechnen
 Umzug in die Schweiz
 Handytarif-Vergleich
 Internet, TV & Festnetz
-Strom
 Newsletter
 Download Center
 Gebühren
@@ -590,7 +589,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Mitsubishi
-(1'827)
+(1'842)
 Mitsubishi Carisma Occasion
 (8)
 Aufbau
@@ -604,22 +603,22 @@ Mitsubishi Carisma
 (8)
 Modelle
 Mitsubishi Outlander
-(383)
+(386)
 Mitsubishi Space
 Star
-(338)
+(351)
 Mitsubishi ASX
-(277)
+(278)
 Mitsubishi Eclipse
-(223)
+(221)
 Mitsubishi Colt
-(164)
+(159)
 Mitsubishi Lancer
-(130)
+(134)
 Mitsubishi Pajero
-(95)
+(101)
 Mitsubishi L 200
-(77)
+(74)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -644,6 +643,7 @@ Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 3'900
+Preisreduktion
 MITSUBISHI Carisma 1.8 GLS A
 22.05.2021
 Occasion
@@ -652,7 +652,7 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 3'200
+CHF 2'900
 Preisreduktion
 Mitsubishi Carisma Hatchback 1.8 16V GDI Elegance
 6.0
