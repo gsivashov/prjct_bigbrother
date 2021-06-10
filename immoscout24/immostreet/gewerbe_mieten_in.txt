@@ -147,292 +147,100 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Hauptstrasse 46
-300
+Adresse auf Anfrage
+580
 CHF
-Zu vermieten per sofort oder nach Verei…
-Hauptstrasse 46, 5212 Hausen AG
+Rue du Rhône , à deux pas de Rive - Bur…
+Adresse auf Anfrage, 1207 Genève
 Array
+394 m2
 Objekttyp
-Verkauf, Lager
-Etage
-Wir vermieten ab sofort oder nach Vereinbarung einen Lagerraum mit 70 m2 Fläche. Gut erreichbar mit…
+Büro
+Wohnfläche
+394 m2
+Situé sur la rive gauche, dans l'hyper centre de Genève, cet emplacement à proximité immédiate de t…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Kirchgasse 33
-1'200
+Zürcherstrasse 18
+920
 CHF
 /Monat
-vielseitig verwendbare Räumlichkeiten z…
-Kirchgasse 33, 8302 Kloten
+Ladenlokal/Büro an prominenter Lage am …
+Zürcherstrasse 18, 5210 Windisch
 Array
-67 m2
+2 Zimmer
+50 m2
 Objekttyp
 Büro
+Zimmer
+2
 Wohnfläche
-67 m2
-Heller Raum im Erdgeschoss (66.84 m2) mit dazugehörenden WC-Anlagen Damen und Herren zu vermieten.R…
+50 m2
+Attraktives Ladenlokal/Büro an prominenter Lage zu vermieten.Verkehrstechnisch sind diese Räumlichk…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sägereistrasse 10
+Preis auf Anfrage
+Ausgebaute Büroflächen an Business Loca…
+Sägereistrasse 10, 8152 Glattpark (Opfikon)
+Array
+Objekttyp
+Verkauf, Gewerbe
+Etage
+In der Geschäftsliegenschaft Airportal, im pulsierenden Zürich Nord, stehen ab sofort ca. 4'928m² B…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-Preis auf Anfrage
-120 m2 Bürofläche am Zürichberg, Nähe U…
-Adresse auf Anfrage, 8044 Zürich
-Array
-5 Zimmer
-120 m2
-Objekttyp
-Büro
-Zimmer
-5
-Wohnfläche
-120 m2
-Etage
-Oberhalb von USZ/Uni/ETH (5 Min. Fussweg) vermieten wir per 01. Oktober 2021 oder nach Übereinkunft…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Horwerstrasse 73
-550
-CHF
-Gewerberaum in Kriens zu vermieten!
-Horwerstrasse 73, 6010 Kriens
-Array
-Objekttyp
-Verkauf, Gewerbe
-Wir vermieten ab dem 01.10.2021 ein Gewerberaum an der Horwerstrasse 73 in 6010 Kriens.
-Der Gewe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Englisch-Gruss-Strasse, 6
-6'020
+490
 CHF
 /Monat
-Bürofläche mit Atelier zu vermieten
-Englisch-Gruss-Strasse, 6, 3902 Glis
-Array
-Objekttyp
-Büro
-Etage
-Zu vermieten nach Vereinbarung Bürofläche in Brig-Glis.Die Räumlichkeiten sind verkabelt und es bes…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 70
-67'000
-CHF
-/Monat
-Ladenlokal an der Bahnhofstrasse zu ver…
-Bahnhofstrasse 70, 8001 Zürich
-Array
-Objekttyp
-Verkauf, Geschäft
-Etage
-ANFRAGEN WERDEN NUR BEANTWORTET, WENN SIE IHR KONZEPT MITSENDEN Wir vermieten im Exklusivmandat ein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weggisgasse 1
-26'667
-CHF
-/Monat
-Prime Location Grendel / Weggisgasse / …
-Weggisgasse 1, 6004 Luzern
-Array
-172 m2
-Objekttyp
-Verkauf, Geschäft
-Wohnfläche
-172 m2
-Etage
-NEU: DAS LADENLOKAL KANN AB 1. JULI AUCH ALS POP-UP STORE BIS ZUM 31.12.2021 ANGEMIETET WERDENBeste…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kürbergstrasse 25
-1'200
-CHF
-/Monat
-Eigenständige Praxis- / Büroräumlichkei…
-Kürbergstrasse 25, 8049 Zürich
-Array
-Objekttyp
-Büro
-Nach Vereinbarung vermieten wir an der Kürbergstrasse 25 in Zürich Höngg einen eigenständigen Praxi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Avenue du Casino 50
-1'950
-CHF
-/Monat
-Bureau de 3.0 pièces au 3ème étage
-Avenue du Casino 50, 1820 Montreux
-Array
-3 Zimmer
-Objekttyp
-Büro
-Zimmer
-3
-Locaux commerciaux / bureaux à louer en plein centre de Montreux.3 bureaux fermésGrand hall / salle…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Badenerstrasse 15
-Preis auf Anfrage
-STAUFFACHERTOR - Neue Büroflächen mit K…
-Badenerstrasse 15, 8004 Zürich
-Array
-Objekttyp
-Büro
-ALLES NEU AM STAUFFACHER - neue Büroflächen mit vielen Parkplätzen
-Wir vermieten per Q1 2022 im …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Via Lugano 32
-1'100
-CHF
-/Monat
-AFFITTASI SPAZIO COMMERCIALE
-Via Lugano 32, 6710 Biasca
-Array
-2 Zimmer
-70 m2
-Objekttyp
-Fabrik, Industrieobjekt
-Zimmer
-2
-Wohnfläche
-70 m2
-Affittasi spazio commerciale nella zona artigianale di Biasca. Ampio locale con grandi vetrine idea…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Olympiastrasse 26
-750
-CHF
-Gewerberaum
-Olympiastrasse 26, 3714 Frutigen
-Array
-2 Zimmer
-Objekttyp
-Verkauf, Gewerbe
-Zimmer
-2
-ECKDATEN IM ÜBERBLICK
-• Offener Gewerbe- Praxisraum für verschiedene Möglichkeiten
-(Gesundheit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Räffelstrasse 26
-3'283
-CHF
-/Monat
-Du findest keine Werkstatt in der Stadt…
-Räffelstrasse 26, 8045 Zürich
-Array
-Objekttyp
-Verkauf, Gewerbe
-Findest du für dein Schmuckatelier keinen Raum? Bietet dir niemand Platz für deine Modellwerkstatt?…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rue des Côtes-de-Montbenon 1,3,5
-2'805
-CHF
-/Monat
-Arcade commerciale de 89m2. Quartier du…
-Rue des Côtes-de-Montbenon 1,3,5, 1003 Lausanne
-Array
-2 Zimmer
-Objekttyp
-Verkauf, Geschäft
-Zimmer
-2
-Etage
-Arcade commerciale dans le Quartier du FlonSituée dans le Quartier du Flon, cette arcade commercial…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-via Nassa 3A
-1'400
-CHF
-/Monat
-COMODO UFFICIO NELLA PRESTIGIOSA VIA NA…
-via Nassa 3A, 6900 Lugano
+Einzelbüro, 20m2
+Adresse auf Anfrage, 8702 Zollikon
 Array
 1 Zimmer
+20 m2
 Objekttyp
 Büro
 Zimmer
 1
-In una delle zone più centrali e strategiche di Lugano, nella rinomata via Nassa, proponiamo al pri…
+Wohnfläche
+20 m2
+Wir vermieten nach Vereinbarung ein Einzelbüro mit Fenster und abschliessbarer Türe, ohne Möbilieru…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-310
+Avenue de Provence 82
+47'843
 CHF
-Vue sur Lac et parc, bureaux lumineux e…
-Adresse auf Anfrage, 1005 Lausanne
+/Monat
+Exceptionnel à Lausanne 1'950 m2 divisi…
+Avenue de Provence 82, 1007 Lausanne
 Array
 Objekttyp
 Büro
-LausanneSituation:Station métro M2 Ours à 500 m, busDescription :Dans un immeuble administratif, le…
+Etage
+A deux pas des transports en communs, dans une zone dense et active, cette belle surface atypique b…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Ebnatstr. 65
-550
+Denges 28F
+11'106
 CHF
 /Monat
-Heller, grosszügiger Büroraum zu mieten
-Ebnatstr. 65, 8200 Schaffhausen
+Showroom / Surface d'exposition de 544 …
+Denges 28F, 1027 Lonay
 Array
-1 Zimmer
 Objekttyp
-Büro
-Zimmer
-1
-Grosszügiges BüroWir vermieten an bester Lage im ehemaligen Fabrikgebäude der ? Schaffhauser Wolle?…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Friedbergstrasse 1
-150
-CHF
-/Monat
-Grosser Hobby-/Lagerraum in Braunau TG …
-Friedbergstrasse 1, 9502 Braunau
-Array
-1 Zimmer
-Objekttyp
-Verkauf, Lager
-Zimmer
-1
-Grosser Hobby-/Lagerraum in Braunau TG zu vermietenBei unserer Liegenschaft Friedbergstrasse 1, Bra…
+Gewerbe, Arcade
+Cette surface de 544 m2 carrelée se trouve au rez-de-chaussée du bâtiment avec une hauteur sous-pla…
 Teilen
 E-Mail
 Facebook
@@ -451,17 +259,192 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Avenue de Provence 82
-47'843
+Denges 28G
+977
 CHF
 /Monat
-Exceptionnel à Lausanne 1'950 m2 divisi…
-Avenue de Provence 82, 1007 Lausanne
+Bureaux de 47m² à louer
+Denges 28G, 1027 Lonay
+Array
+Objekttyp
+Büro
+Cette surface de 47 m2 se trouve au deuxième étage. D'autres surfaces de bureaux sont disponibles d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rue de la Serre 37-43
+Preis auf Anfrage
+Arcades / surfaces commerciales de 238m2
+Rue de la Serre 37-43, 2300 La Chaux-de-Fonds
+Array
+Objekttyp
+Gewerbe, Arcade
+Bâtiment livré en 2019 ! Dans un bâtiment mixte, habitation et commercial, cette arcade idéalement …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Denges 28G
+1'229
+CHF
+/Monat
+Bureaux de 55m² à louer
+Denges 28G, 1027 Lonay
+Array
+Objekttyp
+Büro
+Cette surface de 55 m2 se trouve au premier étage. D'autres surfaces de bureaux sont disponibles da…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Denges 28G
+16'100
+CHF
+/Monat
+805 m² de surface administrative à louer
+Denges 28G, 1027 Lonay
+Array
+Objekttyp
+Büro
+Cette surface de 805 m2 se trouve au 1er étage. D'autres surfaces sont disponibles dans le même com…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rente 26
+5'750
+CHF
+/Monat
+Rente 26 1030 Bussigny / Bureau / 300m²
+Rente 26, 1030 Bussigny
 Array
 Objekttyp
 Büro
 Etage
-A deux pas des transports en communs, dans une zone dense et active, cette belle surface atypique b…
+Perché au sommet d'une colline qui surplombe Lausanne, le Business Village offre à votre entreprise…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Vernay 14
+44'000
+CHF
+/Monat
+Nouveau Bâtiment ? à proximité immédiat…
+Vernay 14, 1196 Gland
+Array
+Objekttyp
+Büro
+Etage
+L'Ellipse est une nouvelle construction qui offre un cadre de travail idéal et qui répond aux derni…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Chemin de la Vallée 7-11
+6'639
+CHF
+/Monat
+Bureau lumineux de 310 m2 à deux pas de…
+Chemin de la Vallée 7-11, 1180 Rolle
+Array
+Objekttyp
+Büro
+Situé au 1er étage d'un immeuble se trouvant à deux pas de la gare de Rolle dans un quartier commer…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Chemin de la Vallée 7-11
+3'004
+CHF
+/Monat
+A deux pas de la gare
+Chemin de la Vallée 7-11, 1180 Rolle
+Array
+Objekttyp
+Büro
+Surface brute de 136 m2 au 1er étage d'un immeuble à proximité immédiate de la gare de Rolle. Cette…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Vernay 14
+14'667
+CHF
+/Monat
+Nouvelles surfaces administratives à pr…
+Vernay 14, 1196 Gland
+Array
+Objekttyp
+Büro
+Etage
+L'Ellipse est une nouvelle construction qui offre un cadre de travail idéal et qui répond aux derni…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Longeraie 9
+33'120
+CHF
+/Monat
+Surface aménagée - Vue et visibilité
+Longeraie 9, 1110 Morges
+Array
+Objekttyp
+Büro
+Etage
+Disposant d'une très bonne visibilité depuis l'axe autoroutier A1, cet immeuble moderne offre un ca…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Place de Pury 11
+14'840
+CHF
+/Monat
+Hyper-centre de Neuchâtel
+Place de Pury 11, 2000 Neuchâtel
+Array
+Objekttyp
+Büro
+Etage
+Immeuble de caractère situé sur la fameuse place Pury, cet objet vous offre une visibilité et acces…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Route de la Corniche 3
+58'077
+CHF
+/Monat
+Surfaces administratives de 1787m2 divi…
+Route de la Corniche 3, 1066 Epalinges
+Array
+Objekttyp
+Büro
+Etage
+Vous êtes une société dans le domaine des sciences de la vie ? Vous aimeriez développer vos activit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Route de la Corniche 3AB
+4'125
+CHF
+/Monat
+Surfaces administratives de 100m2 au se…
+Route de la Corniche 3AB, 1066 Epalinges
+Array
+100 m2
+Objekttyp
+Büro
+Wohnfläche
+100 m2
+Etage
+Vous êtes une société dans le domaine des sciences de la vie ? Vous aimeriez développer vos activit…
 Teilen
 E-Mail
 Facebook

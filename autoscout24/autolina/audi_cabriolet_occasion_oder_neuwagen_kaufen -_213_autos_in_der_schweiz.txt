@@ -220,6 +220,165 @@ Merken
 ab CHF 68/Monat
 NEU
 AUDI
+S3 Cabriolet 2.0 TFSI quattro S-tronic
+CHF 49'900
+ab CHF 536/Monat
+03.2018
+Automat
+30'100 km
+Benzin
+Allradantrieb
+schwarz
+310 PS
+SZ
+Merken
+AUDI
+S3 Cabriolet 2.0 TFSI quattro S-t...
+03.2018
+310 PS
+30'100 km
+CHF 49'900
+Merken
+ab CHF 536/Monat
+NEU
+AUDI
+TT Roadster 2.0 TFSI S-Line S-Tronic
+CHF 11'500
+ab CHF 130/Monat
+05.2010
+Automat
+230'100 km
+Benzin
+Vorderradantrieb
+weiss
+200 PS
+SG
+Merken
+AUDI
+TT Roadster 2.0 TFSI S-Line S-Tro...
+05.2010
+200 PS
+230'100 km
+CHF 11'500
+Merken
+ab CHF 130/Monat
+NEU
+AUDI
+A3 Cabriolet 1.8 TFSI Attraction
+CHF 5'500
+10.2010
+Handschaltung
+176'200 km
+Benzin
+Vorderradantrieb
+grau
+160 PS
+SG
+Merken
+AUDI
+A3 Cabriolet 1.8 TFSI Attraction
+10.2010
+160 PS
+176'200 km
+CHF 5'500
+Merken
+NEU
+AUDI
+S5 Cabrio 3.0 TFSI quatt.
+CHF 69'400
+ab CHF 746/Monat
+07.2020
+Automat
+10'900 km
+Benzin
+Allradantrieb
+grau
+354 PS
+AG
+Merken
+AUDI
+S5 Cabrio 3.0 TFSI quatt.
+07.2020
+354 PS
+10'900 km
+CHF 69'400
+Merken
+ab CHF 746/Monat
+NEU
+AUDI
+A5 Cabrio 40 TFSI S-Line S-Tronic NAV 19Z LEDER DAB
+CHF 51'500
+ab CHF 607/Monat
+01.2021
+Automat
+10 km
+Benzin
+Vorderradantrieb
+grau
+190 PS
+ZH
+Merken
+AUDI
+A5 Cabrio 40 TFSI S-Line S-Tronic...
+01.2021
+190 PS
+10 km
+CHF 51'500
+Merken
+ab CHF 607/Monat
+NEU
+AUDI
+A3 Cabriolet 1.8 16V TFSI Ambition
+CHF 11'500
+ab CHF 130/Monat
+05.2008
+Handschaltung
+90'550 km
+Benzin
+Vorderradantrieb
+silber
+160 PS
+LU
+Merken
+AUDI
+A3 Cabriolet 1.8 16V TFSI Ambitio...
+05.2008
+160 PS
+90'550 km
+CHF 11'500
+Merken
+ab CHF 130/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+AUDI
+A3 Cabriolet 2.0 16V T FSI Amb
+CHF 13'800
+ab CHF 149/Monat
+11.2009
+Automat
+143'500 km
+Benzin
+Vorderradantrieb
+schwarz
+200 PS
+TG
+Merken
+AUDI
+A3 Cabriolet 2.0 16V T FSI Amb
+11.2009
+200 PS
+143'500 km
+CHF 13'800
+Merken
+ab CHF 149/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+AUDI
 A5 Cabriolet 40 TDi S line
 CHF 51'800
 ab CHF 557/Monat
@@ -240,7 +399,6 @@ A5 Cabriolet 40 TDi S line
 CHF 51'800
 Merken
 ab CHF 557/Monat
-NEU
 AUDI
 A5 Cabriolet sport
 CHF 69'900
@@ -262,7 +420,6 @@ A5 Cabriolet sport
 CHF 69'900
 Merken
 ab CHF 751/Monat
-NEU
 AUDI
 A3 Cabriolet Ambition ultra
 CHF 24'400
@@ -284,7 +441,6 @@ A3 Cabriolet Ambition ultra
 CHF 24'400
 Merken
 ab CHF 263/Monat
-NEU
 AUDI
 A5 Cabrio 3.0 TFSI quatt
 CHF 23'900
@@ -331,157 +487,6 @@ A5 Cabrio 2.0 TFSI quatt
 CHF 25'800
 Merken
 ab CHF 278/Monat
-AUDI
-A3 Cabriolet 1.8 TFSI Ambition S-tronic
-CHF 12'800
-ab CHF 138/Monat
-01.2010
-Automat
-105'000 km
-Benzin
-Vorderradantrieb
-schwarz
-160 PS
-ZH
-Merken
-AUDI
-A3 Cabriolet 1.8 TFSI Ambition S-...
-01.2010
-160 PS
-105'000 km
-CHF 12'800
-Merken
-ab CHF 138/Monat
-AUDI
-A5 Cabriolet 3.0 TDI multitronic
-CHF 17'999
-ab CHF 194/Monat
-05.2013
-Automat
-149'500 km
-Diesel
-Vorderradantrieb
-weiss
-204 PS
-SZ
-Merken
-AUDI
-A5 Cabriolet 3.0 TDI multitronic
-05.2013
-204 PS
-149'500 km
-CHF 17'999
-Merken
-ab CHF 194/Monat
-AUDI
-TTS Rds 2.0 TFSI quattro 4x4 Aut,
-CHF 44'900
-ab CHF 483/Monat
-06.2017
-Automat
-55'900 km
-Benzin
-Allradantrieb
-grau
-310 PS
-AG
-Merken
-AUDI
-TTS Rds 2.0 TFSI quattro 4x4 Aut,
-06.2017
-310 PS
-55'900 km
-CHF 44'900
-Merken
-ab CHF 483/Monat
-AUDI
-A5 Cabriolet 45 TFSI S line Attraction
-CHF 82'500
-ab CHF 886/Monat
--
-Automat
-20 km
-Benzin
-Allradantrieb
-schwarz
-265 PS
-TG
-Merken
-AUDI
-A5 Cabriolet 45 TFSI S line Attra...
--
-265 PS
-20 km
-CHF 82'500
-Merken
-ab CHF 886/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-AUDI
-S5 Cabrio 3.0 TFSI quattro S-tronic *gletscherweiss*
-CHF 37'500
-ab CHF 403/Monat
-08.2015
-Automat
-48'000 km
-Benzin
-Allradantrieb
-weiss
-333 PS
-ZH
-Merken
-AUDI
-S5 Cabrio 3.0 TFSI quattro S-tron...
-08.2015
-333 PS
-48'000 km
-CHF 37'500
-Merken
-ab CHF 403/Monat
-AUDI
-A5 Cabriolet 3.0 TDI quattro S-tronic
-CHF 33'500
-ab CHF 360/Monat
-05.2016
-Automat
-47'000 km
-Diesel
-Allradantrieb
-weiss
-245 PS
-ZG
-Merken
-AUDI
-A5 Cabriolet 3.0 TDI quattro S-tr...
-05.2016
-245 PS
-47'000 km
-CHF 33'500
-Merken
-ab CHF 360/Monat
-AUDI
-A3 Cabriolet sport ultra
-CHF 23'900
-ab CHF 257/Monat
-12.2016
-Automat
-79'000 km
-Benzin
-Vorderradantrieb
-grau
-150 PS
-GE
-Merken
-AUDI
-A3 Cabriolet sport ultra
-12.2016
-150 PS
-79'000 km
-CHF 23'900
-Merken
-ab CHF 257/Monat
 1
 1
 2

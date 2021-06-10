@@ -154,6 +154,71 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 MERCEDES-BENZ
+CLA 250 AMG Line 4Matic PANO AHK NAV DISTRONIC
+CHF 43'700
+ab CHF 515/Monat
+12.2019
+Automat
+26'000 km
+Benzin
+Allradantrieb
+schwarz
+224 PS
+ZH
+Merken
+MERCEDES-BENZ
+CLA 250 AMG Line 4Matic PANO AHK ...
+12.2019
+224 PS
+26'000 km
+CHF 43'700
+Merken
+ab CHF 515/Monat
+NEU
+MERCEDES-BENZ
+E 220 d AMG Edition Sportstyle 9G-Tronic
+CHF 43'400
+ab CHF 511/Monat
+06.2020
+Automat
+9'000 km
+Diesel
+Hinterradantrieb
+weiss
+194 PS
+ZH
+Merken
+MERCEDES-BENZ
+E 220 d AMG Edition Sportstyle 9G...
+06.2020
+194 PS
+9'000 km
+CHF 43'400
+Merken
+ab CHF 511/Monat
+NEU
+MERCEDES-BENZ
+B 180 AMG Line 7G-DCT
+CHF 28'700
+ab CHF 338/Monat
+06.2019
+Automat
+15'000 km
+Benzin
+Vorderradantrieb
+schwarz
+136 PS
+ZH
+Merken
+MERCEDES-BENZ
+B 180 AMG Line 7G-DCT
+06.2019
+136 PS
+15'000 km
+CHF 28'700
+Merken
+ab CHF 338/Monat
+MERCEDES-BENZ
 A-Klasse W176 A 250 Sport 4m
 CHF 29'000
 ab CHF 312/Monat
@@ -174,7 +239,6 @@ A-Klasse W176 A 250 Sport 4m
 CHF 29'000
 Merken
 ab CHF 312/Monat
-NEU
 MERCEDES-BENZ
 CLA-Klasse X117 Shooting Brake CLA 200 d AMG Line 4 matic
 CHF 22'500
@@ -196,7 +260,6 @@ CLA-Klasse X117 Shooting Brake CL...
 CHF 22'500
 Merken
 ab CHF 242/Monat
-NEU
 MERCEDES-BENZ
 S-Klasse W221 S 350 V6 CDI BlueTec 4matic
 CHF 14'000
@@ -407,69 +470,6 @@ GLC-Klasse C253 Coupé GLC 300 AMG...
 CHF 62'000
 Merken
 ab CHF 666/Monat
-MERCEDES-BENZ
-CLK-Klasse A209 Cabriolet CLK 240
-CHF 9'900
-ab CHF 112/Monat
-09.2003
-Automat
-139'228 km
-Benzin
-Hinterradantrieb
-schwarz
-170 PS
-ZH
-Merken
-MERCEDES-BENZ
-CLK-Klasse A209 Cabriolet CLK 240
-09.2003
-170 PS
-139'228 km
-CHF 9'900
-Merken
-ab CHF 112/Monat
-MERCEDES-BENZ
-C-Klasse W203 C 320 V6
-CHF 7'500
-ab CHF 85/Monat
-05.2002
-Automat
-130'000 km
-Benzin
-Hinterradantrieb
-grau
-218 PS
-VD
-Merken
-MERCEDES-BENZ
-C-Klasse W203 C 320 V6
-05.2002
-218 PS
-130'000 km
-CHF 7'500
-Merken
-ab CHF 85/Monat
-MERCEDES-BENZ
-GLA-Klasse X156 GLA 200 d AMG Line 4m
-CHF 31'900
-ab CHF 343/Monat
-01.2019
-Automat
-24'000 km
-Diesel
-Allradantrieb
-schwarz
-136 PS
-SG
-Merken
-MERCEDES-BENZ
-GLA-Klasse X156 GLA 200 d AMG Lin...
-01.2019
-136 PS
-24'000 km
-CHF 31'900
-Merken
-ab CHF 343/Monat
 1
 1
 2
@@ -587,9 +587,7 @@ MERCEDES-BENZ EQV
 MERCEDES-BENZ G 350
 MERCEDES-BENZ G 400
 MERCEDES-BENZ G 500
-MERCEDES-BENZ G 55 AMG
 MERCEDES-BENZ G 63 AMG
-MERCEDES-BENZ GL 320
 MERCEDES-BENZ GL 350
 MERCEDES-BENZ GL 450
 MERCEDES-BENZ GL 500

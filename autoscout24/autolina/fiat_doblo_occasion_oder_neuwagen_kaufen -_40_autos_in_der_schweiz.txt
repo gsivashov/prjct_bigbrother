@@ -154,6 +154,28 @@ TI
 WIR-ANTEIL
 40 Treffer
 Suche zurücksetzen
+NEU
+FIAT
+Doblò 1.4 MPI Cargo Swiss
+CHF 13'450
+ab CHF 145/Monat
+03.2017
+Handschaltung
+6'500 km
+Benzin
+Vorderradantrieb
+weiss
+95 PS
+SH
+Merken
+FIAT
+Doblò 1.4 MPI Cargo Swiss
+03.2017
+95 PS
+6'500 km
+CHF 13'450
+Merken
+ab CHF 145/Monat
 FIAT
 Doblò 1.6 Multijet Cargo Swiss
 CHF 17'900
@@ -366,7 +388,7 @@ CHF 12'280
 ab CHF 132/Monat
 07.2017
 Handschaltung
-39'500 km
+47'080 km
 Benzin
 Vorderradantrieb
 weiss
@@ -377,7 +399,7 @@ FIAT
 Doblò 1.4 MPI Cargo Swiss
 07.2017
 95 PS
-39'500 km
+47'080 km
 CHF 12'280
 Merken
 ab CHF 132/Monat
@@ -444,27 +466,6 @@ Doblò 1.4 MPI CargoMaxi Base
 114'000 km
 CHF 4'300
 Merken
-FIAT
-Doblò 1.4 MPI Cargo Swiss
-CHF 12'900
-ab CHF 139/Monat
-03.2019
-Handschaltung
-13'000 km
-Benzin
-Vorderradantrieb
-weiss
-95 PS
-TI
-Merken
-FIAT
-Doblò 1.4 MPI Cargo Swiss
-03.2019
-95 PS
-13'000 km
-CHF 12'900
-Merken
-ab CHF 139/Monat
 1
 1
 2

@@ -156,11 +156,11 @@ WIR-ANTEIL
 Suche zurücksetzen
 AUSTIN-HEALEY
 3000 MKIII (1967)
-CHF 74'797
+CHF 74'800
 ab CHF 804/Monat
 06.1967
 Handschaltung
-54'500 km
+50'000 km
 -
 Hinterradantrieb
 grün
@@ -171,8 +171,8 @@ AUSTIN-HEALEY
 3000 MKIII (1967)
 06.1967
 147 PS
-54'500 km
-CHF 74'797
+50'000 km
+CHF 74'800
 Merken
 ab CHF 804/Monat
 AUSTIN-HEALEY

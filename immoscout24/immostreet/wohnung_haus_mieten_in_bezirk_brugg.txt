@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/bezirk-brugg/
 Title: Wohnung & Haus mieten in Bezirk Brugg - Immostreet.ch
-Description: Wohnung & Haus mieten in Bezirk Brugg - Immostreet.ch: ImmoStreet.ch hat 252 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Bezirk Brugg - Immostreet.ch: ImmoStreet.ch hat 254 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-252 Resultate gefunden ·
+254 Resultate gefunden ·
 Wohnung & Haus mieten in Bezirk Brugg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,22 +152,259 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Brunnengässli 3a/3b
-1'780
+Stückstrasse 16
+1'830
 CHF
 /Monat
-3.5 Zimmerwohnung am Bächli
-Brunnengässli 3a/3b, 5107 Schinznach Dorf
+Wohnen im Grünen
+Stückstrasse 16, 5212 Hausen AG
+Array
+4.5 Zimmer
+101 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+101 m2
+Per sofort vermieten wir diese moderne Wohnung mit folgenden Vorzügen:
+-Küche mit Granitabdeckun…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Untere Au 16
+1'725
+CHF
+/Monat
+MODERNES UND SONNIGES WOHNEN
+Untere Au 16, 5200 Brugg AG
 Array
 3.5 Zimmer
-94 m2
+81 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-94 m2
-Gebaut nach MINERGIE-P® Durchgehend rollstuhlgängige Bauweise, 2 Liftanlagen Eigene Stromproduktion…
+81 m2
+IHR NEUES ZUHAUSE IN BRUGGFolgende Eigenschaften zeichnen diese tolle Wohnung aus:Keramisch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Klosterzelgstrasse 1b
+1'670
+CHF
+/Monat
+*Sommeraktion* - Wir beschenken Sie!
+Klosterzelgstrasse 1b, 5210 Windisch
+Array
+2.5 Zimmer
+67 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+67 m2
+Bei Vertragsabschluss bis Ende Juli 2021 schenken wir Ihnen einen Coop- oder Migros-Gutschein im We…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kirchackerstrasse 7
+1'160
+CHF
+/Monat
+Helle, günstige 4-Zimmer Wohnung in Rin…
+Kirchackerstrasse 7, 5223 Riniken
+Array
+4 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+60 m2
+Nachmieter gesucht.Für eine geräumige, helle und günstige 4-Zimmer Wohnung in Riniken bei Brugg suc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brunnengässli 3b
+2'092
+CHF
+/Monat
+4.5 Zimmerwohnung am Bächli
+Brunnengässli 3b, 5107 Schinznach Dorf
+Array
+4.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+112 m2
+Die Wohnung verfügt über einen gedeckten Sitzplatzelektrisch betriebene Storen
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Bach 6
+1'540
+CHF
+/Monat
+Charmante 4.5-Zimmerdachwohnung mit Che…
+Am Bach 6, 5213 Villnachern
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wir vermieten per sofort oder nach Vereinbarung diese schmucke Dachwohnung mit viel Charme und folg…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lettenstrasse 4
+3'500
+CHF
+/Monat
+Einfamilienhaus komplett saniert
+Lettenstrasse 4, 5210 Windisch
+Array
+6.5 Zimmer
+135 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+135 m2
+Etage
+Einfamilienhaus in ruhigem, familienfreundlichen Quartier. Gemütlicher Sitzplatz. 2 Parkplätze.2020…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bodenackerstrasse 54
+1'450
+CHF
+/Monat
+Sonnige Wohnung mit Blick ins Grüne
+Bodenackerstrasse 54, 5200 Brugg AG
+Array
+4.5 Zimmer
+89 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+89 m2
+Per 01.07.2021 vermieten wir diese schöne 4.5-Zimmerwohnung (4.OG) im Grünen, welche Ihnen folgende…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Baslerstr. 3
+840
+CHF
+/Monat
+Sicht auf die Aare und Altstadt
+Baslerstr. 3, 5200 Brugg AG
+Array
+1 Zimmer
+27 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+27 m2
+Per 1. Oktober 2021 vermieten wir diese schöne 1-Zimmerwohnung. Die Wohnung mit Blick auf die Aare …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Breite 8
+1'670
+CHF
+/Monat
+Ruhige und sonnige Familienwohnung in d…
+Breite 8, 5210 Windisch
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+In einer ruhigen, gepflegten Liegenschaft vermieten wir diese tolle Wohnung!
+- helle Räumlichkei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 28
+1'770
+CHF
+/Monat
+Einzigartige Attikawohnung in der Brugg…
+Hauptstrasse 28, 5200 Brugg AG
+Array
+2.5 Zimmer
+56 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+2.5
+Wohnfläche
+56 m2
+Schöne 2.5 Zimmer-AttikawohnungWir vermieten per sofort diese einzigartige Attikawohnung im Herzen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 17
+1'100
+CHF
+/Monat
+Erstbezug - frisch renovierte 3,5-Zimme…
+Bahnhofstrasse 17, 5116 Schinznach Bad
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Diese schöne, frisch renovierte Wohnung mit Balkon könnte schon bald dein Zuhause sein.Preis-Leistu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'580
+CHF
+/Monat
+EINZIGARTIGES UND EXKLUSIVES WOHNEN!!
+Adresse auf Anfrage, 5106 Veltheim AG
+Array
+4.5 Zimmer
+128 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+128 m2
+Sind Sie auf der Suche nach einem besonderem zu Hause?Dann sind Sie hier genau richtig. Dieses im J…
 Teilen
 E-Mail
 Facebook
@@ -253,23 +490,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Am Bach 6
-1'540
-CHF
-/Monat
-Charmante 4.5-Zimmerdachwohnung mit Che…
-Am Bach 6, 5213 Villnachern
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wir vermieten per sofort oder nach Vereinbarung diese schmucke Dachwohnung mit viel Charme und folg…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Erlenweg 1
 2'180
 CHF
@@ -321,219 +541,6 @@ Zimmer
 2.5
 Ruhig gelegene Wohnung in kleinem Mehrfamilienhaus (4 kleinere Wohnungen) mit viel Umschwung.
 Wo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Badstr. 25
-1'685
-CHF
-/Monat
-Wohlfühloase zum Schnäppchenpreis
-Badstr. 25, 5200 Brugg AG
-Array
-4.5 Zimmer
-87 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-87 m2
-Wir vermieten per 1. Juli 2021 oder nach Vereinbarung eine attraktive 4½-Zimmer-Wohnung mit folgend…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Am Schmittenbach 9 A
-1'505
-CHF
-/Monat
-Pure Lebensqualität!
-Am Schmittenbach 9 A, 5236 Remigen
-Array
-3.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-88 m2
-Wir vermieten diese moderne 3.5-Zimmerwohnung im Grünen, welche Ihnen nebst ruhiger Wohnlage die fo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Burgenmatt 1
-1'600
-CHF
-/Monat
-Ihr neues Zuhause: Traumhafte 3.5-Zimme…
-Burgenmatt 1, 5213 Villnachern
-Array
-3.5 Zimmer
-86 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-86 m2
-Etage
-Sich wohlfühlen, entspannen und die Ruhe geniessen, ländlich und doch nur wenige Fahrminuten von Br…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Flachsacherstr. 8
-2'100
-CHF
-/Monat
-grosszügige 4.5-Zimmer Maisonette sonni…
-Flachsacherstr. 8, 5242 Lupfig
-Array
-4.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Duplex, Maisonette
-Zimmer
-4.5
-Wohnfläche
-130 m2
-Etage
-4.5-Zimmer Maisonette-Wohnung mit Galerie, zwei Balkon S/W Cheminée, 4-türigem Einbaukasten, Küche …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'450
-CHF
-/Monat
-ZENTRAL HELL MIT ZWEI BALKONE
-Adresse auf Anfrage, 5242 Lupfig
-Array
-2.5 Zimmer
-67 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-67 m2
-Suchen Sie eine neue Wohnung? Dann haben wir die passende für Sie! Diese helle und schöne Wohnung v…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hübelweg 6
-1'290
-CHF
-/Monat
-Ruhige, helle 3.5-Zimmerwohnung mit zwe…
-Hübelweg 6, 5106 Veltheim AG
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Ruhige, helle 3.5-Zimmerwohnung mit zwei Balkone, Kellerabteil, estrich, Garage, Parkplatz und geme…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'500
-CHF
-/Monat
-Helle 3 Zimmer Windisch AG
-Adresse auf Anfrage, 5210 Windisch
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Helle 3 Zimmerwohnung 1 Badezimmer mit Badwanne/WC8. EtageBalkon ist verglast, mit SchiebefensterKi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hübelweg
-1'290
-CHF
-/Monat
-Ruhige, helle 3.5-Zimmerwohnung mit zwe…
-Hübelweg, 5106 Veltheim AG
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Ruhige, helle 3.5-Zimmerwohnung mit zwei Balkone, Kellerabteil, Estrich, Garage und gemeinsamer Ga…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hafnerweg 4
-1'510
-CHF
-/Monat
-Ihr neues Zuhause?
-Hafnerweg 4, 5200 Brugg AG
-Array
-4.5 Zimmer
-82 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-82 m2
-Nach Vereinbarung vermieten wir diese helle 4.5-Zimmerwohnung in Brugg, welche Ihnen nebst dem gros…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Am Schmittenbach 9 B
-1'360
-CHF
-/Monat
-Ihr Wohn(t)raum in Remigen!
-Am Schmittenbach 9 B, 5236 Remigen
-Array
-2.5 Zimmer
-61 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-61 m2
-Wir vermieten diese wunderschöne 2.5-Zimmerwohnung im schönen Remigen, welche Ihnen nebst der tolle…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unterdorfstrasse 5
-1'380
-CHF
-/Monat
-charmante ruhige 3.5 Zi-Whg EG mit sani…
-Unterdorfstrasse 5, 5213 Villnachern
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Die gemütliche Wohnung mit charme hat einen Kachelofen im grossen Wohnzimmer/Esszimmer, und geräumi…
 Teilen
 E-Mail
 Facebook

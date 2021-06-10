@@ -139,20 +139,38 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Adresse auf Anfrage
-1'440'000
-CHF
-Es steht bereit!!! Und Sie dürfen noch …
-Adresse auf Anfrage, 5026 Densbüren
+Preis auf Anfrage
+Hochwertige Villa an vorzüglicher Lage
+Adresse auf Anfrage, 5024 Küttigen
 Array
-6.5 Zimmer
-187 m2
+7.5 Zimmer
+239 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+7.5
+Wohnfläche
+239 m2
+Ein grosszügiges, flexibles Raumkonzept sowie eine luxuriöse Ausstattung werden Sie bei dieser auss…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Weidenweg 22
+2'995'000
+CHF
+Another day in paradise mit Sicht auf d…
+Weidenweg 22, 5036 Oberentfelden
+Array
+12 Zimmer
+380 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-6.5
+12
 Wohnfläche
-187 m2
-Am Sonnenhügel vom Staffeleggtal wird Ihnen dieses exklusive 6.5-Zimmer Einfamilienhaus mit schöner…
+380 m2
+Am Ende einer Sackgasse, direkt an der Suhre, ohne Durchgangsverkehr, befindet sich diese top gepfl…
 Teilen
 E-Mail
 Facebook
@@ -491,26 +509,6 @@ Wohnfläche
 175 m2
 Etage
 Naturnahes Wohnen mit schönster Aussicht und guter Verkehrsanbindung.Freistehendes, modernes und gr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weinbergstrasse 59
-1'450'000
-CHF
-Interessante und grosszügige Wohnräume …
-Weinbergstrasse 59, 5000 Aarau
-Array
-6 Zimmer
-174 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6
-Wohnfläche
-174 m2
-Etage
-Dieses interessante und gepflegte Einfamilienhaus erwartet Sie an schöner, sonniger und gut erschlo…
 Teilen
 E-Mail
 Facebook

@@ -151,6 +151,84 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+420'000
+CHF
+Gemütliche Wohnung an familiärer Lage
+Adresse auf Anfrage, 7204 Untervaz
+Array
+4.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+97 m2
+Diese gemütliche 4.5-Zi. Wohnung befindet sich in einem familienfreundlichen Quartier an sonniger L…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'500'000
+CHF
+Traumhafte 4.5-Zimmer Doppelhaushälfte
+Adresse auf Anfrage, 7304 Maienfeld
+Array
+4.5 Zimmer
+151 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+4.5
+Wohnfläche
+151 m2
+Etage
+Diese traumhafte Doppelhaushälfte in der Bündner Herrschaft, befindet sich an beliebter und ruhiger…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'750'000
+CHF
+Einzigartige 6.5- Zimmer Doppelhaushälf…
+Adresse auf Anfrage, 7304 Maienfeld
+Array
+6.5 Zimmer
+147 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+6.5
+Wohnfläche
+147 m2
+Etage
+Diese traumhafte Doppelhaushälfte in der Bündner Herrschaft befindet sich an beliebter und ruhiger …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+625'000
+CHF
+Originelle & charmante Attika-EGTW mit …
+Adresse auf Anfrage, 7205 Zizers
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+110 m2
+Originelle, sowie charmante 4 .5 Zimmer Attika-Eigentumswohnung, mit Loggia und 2 PP in der Einstel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Loretscher 14
 1'100'000
 CHF
@@ -216,12 +294,12 @@ CHF
 Paradies am Rhein
 Luamaweg 13, 7303 Mastrils
 Array
-5.5 Zimmer
+4.5 Zimmer
 110 m2
 Objekttyp
 Wohnung, Reihenfamilienhaus
 Zimmer
-5.5
+4.5
 Wohnfläche
 110 m2
 Mastrils ist Teil der Gemeinde Landquart und liegt am Eingangstor zu Graubünden im unteren Bündner …
@@ -245,65 +323,6 @@ Wohnfläche
 114 m2
 Etage
 Südlich ausgerichtet mit traumhaftem Blick auf die Bündner-Berglandschaft.Das gut durchdachte Grund…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-450'000
-CHF
-Gemütliche Wohnung an familiärer Lage
-Adresse auf Anfrage, 7204 Untervaz
-Array
-4.5 Zimmer
-97 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-97 m2
-Diese gemütliche 4.5-Zi. Wohnung befindet sich in einem familienfreundlichen Quartier an sonniger L…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'500'000
-CHF
-Traumhafte 4.5-Zimmer Doppelhaushälfte
-Adresse auf Anfrage, 7304 Maienfeld
-Array
-4.5 Zimmer
-151 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-4.5
-Wohnfläche
-151 m2
-Etage
-Diese traumhafte Doppelhaushälfte in der Bündner Herrschaft, befindet sich an beliebter und ruhiger…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'750'000
-CHF
-Einzigartige 6.5- Zimmer Doppelhaushälf…
-Adresse auf Anfrage, 7304 Maienfeld
-Array
-6.5 Zimmer
-147 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-6.5
-Wohnfläche
-147 m2
-Etage
-Diese traumhafte Doppelhaushälfte in der Bündner Herrschaft befindet sich an beliebter und ruhiger …
 Teilen
 E-Mail
 Facebook
@@ -435,25 +454,6 @@ Zimmer
 4.5
 Wohnfläche
 113 m2
-Mehrfamilienhaus "Hirschengasse"Das Mehrfamilienhaus entsteht an attraktiver, gut erschlossener Lag…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hirschengasse 22
-545'000
-CHF
-Moderne 3.5 Zimmer-Gartenwohnung
-Hirschengasse 22, 7206 Igis
-Array
-3.5 Zimmer
-96 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-96 m2
 Mehrfamilienhaus "Hirschengasse"Das Mehrfamilienhaus entsteht an attraktiver, gut erschlossener Lag…
 Teilen
 E-Mail

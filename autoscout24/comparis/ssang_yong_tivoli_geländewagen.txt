@@ -568,7 +568,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Ssang Yong
-(224)
+(219)
 Ssang Yong Tivoli Occasion
 (32)
 Ssang Yong Tivoli Vorführwagen
@@ -580,23 +580,23 @@ Ssang Yong Tivoli Geländewagen
 (49)
 Motor
 Ssang Yong Tivoli Diesel
-(32)
+(31)
 Ssang Yong Tivoli Benzin
-(17)
+(18)
 Typ
 Ssang Yong Tivoli
 (49)
 Modelle
 Ssang Yong Korando
-(82)
+(80)
 Ssang Yong Rexton
-(42)
+(40)
 Ssang Yong Kyron
-(13)
+(14)
 Ssang Yong Rodius
-(12)
-Ssang Yong XLV
 (11)
+Ssang Yong XLV
+(10)
 Ssang Yong Actyon
 (9)
 Ssang Yong Musso
@@ -616,6 +616,16 @@ weniger
 49 Inserate
 0 Inserate
 0 Inserate
+SSANGYONG Tivoli 1.5 T GDI Crystal 2WD
+09.06.2021
+Occasion
+10.2020, Manuell, Benzin
+200 km, 163 PS, Orange
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 18'900
+ab CHF 345 / Monat
 SSANGYONG Tivoli 1.6 eXDi Sapphire 4WD
 5.0
 05.06.2021
@@ -714,16 +724,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 12'800
 ab CHF 234 / Monat
-SSANGYONG Tivoli 1.6 eXDi Sapphire 2WD Automatic
-14.05.2021
-Occasion
-12.2015, Automat, Diesel
-75'500 km, 115 PS, Silber
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 13'500
-ab CHF 247 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-brig/
 Title: Wohnung & Haus kaufen in Bezirk Brig - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Brig - Immostreet.ch: ImmoStreet.ch hat 83 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Brig - Immostreet.ch: ImmoStreet.ch hat 84 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-83 Resultate gefunden ·
+84 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Brig
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,46 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Weingartenstrasse, 46
+790'000
+CHF
+5.5. Zimmerwohnung
+Weingartenstrasse, 46, 3904 Naters
+Array
+5.5 Zimmer
+134 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+134 m2
+Etage
+Diese 5.5 Zimmerwohnung wurde an unverbaubarer Lage 2020 in der zweiten Etage eines Mehrfamilienhau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+369'000
+CHF
+Moderner Neubau an ruhiger Lage - Parte…
+Adresse auf Anfrage, 3900 Brig
+Array
+2.5 Zimmer
+68 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+68 m2
+Etage
+Exklusives Wohnen an zentraler Lage zu fairen Preisen – greifen Sie jetzt zu!Ihr Zuhause ist uns e…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 620'000
 CHF
@@ -183,22 +223,6 @@ Zimmer
 4.5
 Für einen Handwerker. Mit enormen Gestaltungs- und Entwicklungspotential
 Verkauf als Ferien…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-12'345
-CHF
-5.5 Zimmerwohnung
-Adresse auf Anfrage, 3904 Naters
-Array
-5.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-An unverbaubarer Lage wurde 2020 diese 5.5-Zimmerwohnung in der zweiten Etage eines Mehrfamilienhau…
 Teilen
 E-Mail
 Facebook
@@ -504,26 +528,6 @@ Wohnfläche
 132 m2
 Etage
 WIR REALISIEREN IHREN TRAUM VOM EIGENHEIMIn zentralster und ruhiger Lage, im Herzen von Glis, enste…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'265'000
-CHF
-ZU HAUSE IST ES AM SCHÖNSTEN
-Adresse auf Anfrage, 3902 Glis
-Array
-5.5 Zimmer
-173 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-173 m2
-Etage
-ZU HAUSE IST ES AM SCHÖNSTEN...WOHNEN IN HÖCHSTKLASSE...Dafür sorgen WIR...Ihr zu Hause ist bei uns…
 Teilen
 E-Mail
 Facebook

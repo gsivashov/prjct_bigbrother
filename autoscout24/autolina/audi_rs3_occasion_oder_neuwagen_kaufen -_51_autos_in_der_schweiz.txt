@@ -261,8 +261,8 @@ Merken
 ab CHF 493/Monat
 AUDI
 RS3 2.5 TSI quattro
-CHF 42'989
-ab CHF 462/Monat
+CHF 42'800
+ab CHF 460/Monat
 04.2016
 Automat
 71'500 km
@@ -277,9 +277,9 @@ RS3 2.5 TSI quattro
 04.2016
 367 PS
 71'500 km
-CHF 42'989
+CHF 42'800
 Merken
-ab CHF 462/Monat
+ab CHF 460/Monat
 AUDI
 RS3 2.5 TSI quattro S-tronic
 CHF 31'900
@@ -328,8 +328,8 @@ Garantieversprechen
 Faires Eintauschangebot
 AUDI
 RS3 Sportback
-CHF 47'650
-ab CHF 512/Monat
+CHF 45'720
+ab CHF 491/Monat
 09.2017
 Automat
 76'644 km
@@ -344,9 +344,9 @@ RS3 Sportback
 09.2017
 400 PS
 76'644 km
-CHF 47'650
+CHF 45'720
 Merken
-ab CHF 512/Monat
+ab CHF 491/Monat
 35-Punkte-Check
 Kostenlose Probefahrt
 Garantieversprechen

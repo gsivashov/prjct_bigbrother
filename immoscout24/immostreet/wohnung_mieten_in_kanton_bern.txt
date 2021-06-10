@@ -131,368 +131,383 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Schwarzenburgstrasse 232
-1'010
+Elisabethenstr. 10
+2'500
 CHF
 /Monat
-Ihre erste eigene Wohnung ?
-Schwarzenburgstrasse 232, 3098 Köniz
-Array
-2 Zimmer
-45 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-45 m2
-Wir vermieten per 01.09.2021 nach Vereinbarung eine helle 2-Zimmerwohnung im 1.OG.
-kleine Küch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Jakob-Stämpfli-Strasse 128
-940
-CHF
-/Monat
-Ihre neue Wohnung mit zwei Balkonen!
-Jakob-Stämpfli-Strasse 128, 2502 Biel/Bienne
-Array
-2.5 Zimmer
-56 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-56 m2
-Diese Liegenschaft befindet sich an zentraler Lage und bietet Ihnen folgenden Wohnkomfort:- Parkett…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Jurastrasse 9
-1'120
-CHF
-/Monat
-Attraktiv und urban - mitten in der Lor…
-Jurastrasse 9, 3013 Bern
-Array
-2 Zimmer
-35 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-35 m2
-Per 01.08.2021 vermieten wir an zentraler Lage eine 2-Zimmerwohnung die mit folgenden Argumenten be…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Waldheimstrasse 8
-1'520
-CHF
-/Monat
-Helle 3-Zimmer-Wohnung in der beliebten…
-Waldheimstrasse 8, 3012 Bern
-Array
-3 Zimmer
-57 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-57 m2
-Das Mehrfamilienhaus mit Lift befindet sich im beliebten Länggassquartier. Diverse Einkaufsmöglichk…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kreuzackerweg 14
-1'590
-CHF
-/Monat
-4-Zimmerwohnung in Lyss zu vermieten
-Kreuzackerweg 14, 3250 Lyss
-Array
-4 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wir vermieten per 1. Juli 2021 diese helle 4-Zimmerwohnung im 2. OG links am Kreuzackerweg 14 in Ly…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Friedhofweg 10
-1'350
-CHF
-/Monat
-Schöne 3-Zimmerwohnung in Jegenstorf - …
-Friedhofweg 10, 3303 Jegenstorf
-Array
-3 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-70 m2
-Wir vermieten diese schöne 3-Zimmerwohnung (2. Stock) in Jegenstorf:Parkett-/Plattenböden
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rainstrasse 1
-1'085
-CHF
-/Monat
-ideal für Singles!
-Rainstrasse 1, 2555 Brügg BE
-Array
-2 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wir vermieten per 1. Juli 2021 oder nach Vereinbarung diese gemütliche 2-Zimmer-Wohnung mit folgend…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blumenrain 2
-1'210
-CHF
-/Monat
-helle 3-Zimmer-Wohnung im Herzen von Bi…
-Blumenrain 2, 2503 Biel/Bienne
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wir vermieten per sofort oder nach Vereinbarung diese gemütliche 3-Zimmer-Wohnung mit folgenden Vor…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Strättlingerweg 6
-1'695
-CHF
-/Monat
-Wohnen mit Blick auf den Thunersee
-Strättlingerweg 6, 3626 Hünibach
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Diese 3-Zimmer-Wohnung befindet sich in einer Liegenschaft, welche nur 2 Gehminuten vom Thunersee e…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sahlistrasse 47
-1'780
-CHF
-/Monat
-Wohnen in der Länggasse!
-Sahlistrasse 47, 3012 Bern
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wir vermieten per 01.07.2021 oder nach Vereinbarung diese moderne 2.5-Zimmer-Wohnung mit folgenden …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bütikofenstrasse 24b
-2'070
-CHF
-/Monat
-Ideale Familienwohnung zum Verweilen
-Bütikofenstrasse 24b, 3422 Kirchberg BE
+Grosse Wohnung im Breitenrain
+Elisabethenstr. 10, 3014 Bern
 Array
 4.5 Zimmer
+113 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Wir vermieten per sofort oder nach Vereinbarung diese grosse und gemütliche 4.5-Zimmer-Wohnung in K…
+Wohnfläche
+113 m2
+Wir bieten Ihnen eine sanierte Wohnung im Breitenrain Quartier (Fotos typenähnlich):- Top moderne, …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Büetigenstrasse 50
-1'450
+Weidstrasse 39
+825
 CHF
 /Monat
-Wir vermieten Gemütlichkeit
-Büetigenstrasse 50, 3292 Busswil BE
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wir vermieten per sofort oder nach Vereinbarung diese grosse 4.5-Zimmer-Wohnung in Busswil.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Löwenmattweg 31
-1'220
-CHF
-/Monat
-Wohnen mit Blick ins Grüne
-Löwenmattweg 31, 3110 Münsingen
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wir vermieten ab dem 1. August 2021 oder nach Vereinbarung diese heimelige 3-Zimmer-Wohnung mit fol…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchbergstrasse 63
-550
-CHF
-/Monat
-Studio in Burgdorf
-Kirchbergstrasse 63, 3400 Burgdorf
+Wohnung an ruhiger Lage
+Weidstrasse 39, 2503 Biel/Bienne
 Array
 1 Zimmer
-29 m2
+34 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 1
 Wohnfläche
-29 m2
-Das Mehrfamilienhaus liegt an zentraler Lage. Diverse Einkaufsmöglichkeiten sowie Anschlüsse an den…
+34 m2
+Wir vermieten ab sofort oder nach Vereinbarung eine gemütliche 1-Zimmerwohnung im 2. Stock.
+Folg…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Friedhofweg 10
-1'170
+Neuhausweg 23
+1'390
 CHF
 /Monat
-Wohnen im Grünen
-Friedhofweg 10, 3303 Jegenstorf
+Maisonettwohnung im Herzen von Bern
+Neuhausweg 23, 3027 Bern
+Array
+3.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+75 m2
+An ruhiger Lage und in gepflegter Liegenschaft, vermieten wir eine helle und gemütliche 3.5 Zimmer …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Weidstrasse 39
+1'490
+CHF
+/Monat
+renovierte Wohnung im Mühlefeld-Quartier
+Weidstrasse 39, 2503 Biel/Bienne
+Array
+4 Zimmer
+74 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+74 m2
+Ab sofort oder nach Vereinbarung vermieten wir eine renovierte, gemütliche 4-Zimmerwohnung, an ruhi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bernstrasse 25
+1'650
+CHF
+/Monat
+2 ½ Zimmer-Wohnung, 3072 Ostermundigen
+Bernstrasse 25, 3072 Ostermundigen
 Array
 2.5 Zimmer
-50 m2
+68 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-50 m2
-Wir vermieten per 1. August 2021 diese schöne 2.5-Zimmer-Wohnung mit folgenden Vorzügen:Lam…
+68 m2
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Büetigenstrasse 48
-1'220
+Bernstrasse 25
+1'960
 CHF
 /Monat
-Gemütliche 3.5-Zimmer-Wohnung
-Büetigenstrasse 48, 3292 Busswil BE
+Homeoffice? Hier haben Sie Platz dafür!
+Bernstrasse 25, 3072 Ostermundigen
+Array
+3.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+70 m2
+Direkt an der Stadtgrenze von Bern nahe vom Rosengarten und der Allmend entsteht der BäreTower mit …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Reimannstrasse 47
+1'370
+CHF
+/Monat
+Biel-Mett renovierte 3.5 Zimmerwohnung …
+Reimannstrasse 47, 2504 Biel/Bienne
+Array
+3.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+70 m2
+Beschreibung
+In Biel/Mett vermieten wir ab 1.10.21 oder nach Vereinbarung eine renovierte 3.5- Zim…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kändlenstrasse 6
+1'485
+CHF
+/Monat
+Entspanntes Wohnen in angenehmer Umgebu…
+Kändlenstrasse 6, 2543 Lengnau BE
+Array
+4.5 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+81 m2
+Im freundlichen, vom Grün umgebenen Wohnquartier vermieten wir diese geräumige 4.5-Zimmerwohnung. F…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bärenplatz 5
+1'680
+CHF
+/Monat
+Suchen Sie eine altersgerechte Wohnung?…
+Bärenplatz 5, 3177 Laupen BE
+Array
+2.5 Zimmer
+57 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+57 m2
+Etage
+An zentraler und ruhiger Lage im wunderschönen Laupen vermieten wir per sofort eine 2½-Zimmer-Senio…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Nidaustrasse 17
+1'760
+CHF
+/Monat
+helle 4 ½ Zimmerwohnung mit Balkon
+Nidaustrasse 17, 3270 Aarberg
+Array
+4.5 Zimmer
+108 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+108 m2
+Die Wohnung wurde 2004 total renoviert. Sie verfügt über eine Wohnküche, Bad/Dusche mit sep. WC sow…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Spinsstrasse 2b
+1'780
+CHF
+/Monat
+helle 4 ½ Zimmerwohnung - zentrale Lage
+Spinsstrasse 2b, 3270 Aarberg
+Array
+4.5 Zimmer
+103 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+103 m2
+Zentrale Lage, in der Nähe von Einkaufsmöglichkeiten, Schulen und öffentlichen Verkehrsmitteln. Die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Nesslerenweg 98
+2'190
+CHF
+/Monat
+4.5-Zimmerwohnung zu vermieten!
+Nesslerenweg 98, 3084 Wabern
+Array
+4.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+97 m2
+Wir vermieten per 1. September 2021 eine topmoderne familienfreundliche 4.5-Zimmerwohnung in der sa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Nesslerenweg 116
+2'105
+CHF
+/Monat
+Natur- und zentrumnahes Wohnen
+Nesslerenweg 116, 3084 Wabern
+Array
+4.5 Zimmer
+93 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+93 m2
+Wir vermieten per 1. September 2021 eine topmoderne 4.5-Zimmerwohnung im Erdgeschoss in der saniert…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Frikartweg
+720
+CHF
+/Monat
+Vermiete möbliertes grosses sonniges Zi…
+Frikartweg, 3006 Bern
+Array
+Objekttyp
+Wohnung, Einzelzimmer
+Befristet bis Herbst, nach Absprache, in 2-erWG (bin selten zuhause)
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sulgenrain 27
+800
+CHF
+/Monat
+Wohnung in Bern- Sulgenrain , Möbliert,…
+Sulgenrain 27, 3007 Bern
+Array
+1 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Die Wohnung , Bad, Küche . Waschküche zur Mitbenutzung. sämtlichem Mobiliar zur Verfügung. Unterm…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+600
+CHF
+/Monat
+2 Zimmer für WG oder Ferien
+Adresse auf Anfrage, 3714 Frutigen
+Array
+Objekttyp
+Wohnung, Einzelzimmer
+vermiete zwei Zimmer im oberen Stock eines 50ig jährigen Bauernhausesandere Räumlichkeiten wie Küch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'020
+CHF
+/Monat
+Modernes, tolles WG-Zimmer in 2er-WG
+Adresse auf Anfrage, 3072 Ostermundigen
+Array
+14 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+14 m2
+Nachmieter/-in per 01.08.2021 gesucht:Ab 01.08.2021 wird mein tolles WG-Zimmer (14 m2) in einer 2er…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Längenbühlstrasse 3
+1'069
+CHF
+/Monat
+3,5 Zimmer EG in Moosseedorf
+Längenbühlstrasse 3, 3302 Moosseedorf
 Array
 3.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Wir vermieten per sofort diese gemütliche 3.5-Zimmer-Wohnung in Busswil. Diese bietet folgende Vorz…
+Nachmieter für meine helle, schöne 3.5 Zimmer EG Wohnung in Moosseedorf gesucht.Ruhige LageSchöne S…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Löwenmattweg 31
-1'230
-CHF
-/Monat
-gemütlich Wohnen!
-Löwenmattweg 31, 3110 Münsingen
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wir vermieten ab dem 1. August 2021 oder nach Vereinbarung diese heimelige 3-Zimmer-Wohnung mit fol…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rue Baptiste-Savoye 39
+Nageldach 1
 670
 CHF
 /Monat
-Baptiste-Savoye 39 - Saint-Imier
-Rue Baptiste-Savoye 39, 2610 St-Imier
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Appartement de 3 pièces au 3ème étage
-Cuisine semi-agencée, salle-de-bain/wc, cave
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zähringerstrasse 71
-1'385
-CHF
-/Monat
-2-Zimmerwohnung, 1. Stock
-Zähringerstrasse 71, 3012 Bern
+2-Zimmer-Wohnung in St. Stephan ab 1. N…
+Nageldach 1, 3772 St. Stephan
 Array
 2 Zimmer
-55 m2
+36 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2
 Wohnfläche
-55 m2
-Sonnige und zentrale Lage - öV und Einkaufsmöglichkeiten in der NäheHelle Wohnung - Wohn- und Schla…
+36 m2
+In unserem Haus gibt es neun Wohneinheiten gleichmässig auf drei Stockwerken verteilt. Die Wohnung …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Eigerweg 9
+Nageldach 1
 970
 CHF
 /Monat
-3- Zimmerwohnung, 1. Stock links
-Eigerweg 9, 3177 Laupen BE
+2.5-Zimmer-Wohnung in St. Stephan ab 1.…
+Nageldach 1, 3772 St. Stephan
 Array
-3 Zimmer
+2.5 Zimmer
+69 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
-Die Liegenschaft befindet sich an ruhiger und sonniger Wohnlage. Diverse Einkaufsmöglichkeiten befi…
+2.5
+Wohnfläche
+69 m2
+In unserem Haus gibt es neun Wohneinheiten gleichmässig auf drei Stockwerken verteilt. Die Wohnung …
 Teilen
 E-Mail
 Facebook

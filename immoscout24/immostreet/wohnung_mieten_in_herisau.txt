@@ -131,6 +131,63 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Hölzli 2787
+1'250
+CHF
+/Monat
+Wohnung im Grünen
+Hölzli 2787, 9100 Herisau
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wir suchen per sofort einen Mieter/in .Die Wohnung liegt in der zweiten Etage eines Dreifamilienhau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Untere Fabrik 18
+700
+CHF
+/Monat
+Hübsche helle 2,5 Zimmer Wohng in famil…
+Untere Fabrik 18, 9100 Herisau
+Array
+2.5 Zimmer
+55 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+55 m2
+Hübsche helle 2,5Zi-Whg in rhg. Fam.QuartierDie Wohnung ist in einem charmanten älteren Haus, direk…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Birkenstrasse, 11
+1'520
+CHF
+/Monat
+GEMÜTLICH & ZENTRAL
+Birkenstrasse, 11, 9100 Herisau
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Mitten im Zentrum von Herisau befindet sich das moderne Haus mit spezieller Architektur.   Die schö…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bachstrasse 23
 780
 CHF
@@ -472,66 +529,6 @@ Wohnfläche
 101 m2
 Etage
 Die attraktive 3.5 Zimmer-Wohnung besticht durch ihren durchdachten Wohnungsgrundriss und überzeugt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Degersheimerstrasse 29a
-1'150
-CHF
-/Monat
-2.5-Zimmer Wohnung mit wundervollem Aus…
-Degersheimerstrasse 29a, 9100 Herisau
-Array
-2.5 Zimmer
-62 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-62 m2
-Diese 3.5-Zimmer-Wohnung im herrlichen Herisau sucht Sie!Die Wohnung verfügt über weiträumige Zimme…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonneggstrasse 2
-980
-CHF
-/Monat
-stilvolle, zentrale Wohnung!
-Sonneggstrasse 2, 9100 Herisau
-Array
-2.5 Zimmer
-59 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-59 m2
-Das 3-Familienhaus liegt sonnig und zentral, aber ruhig; Einkauf, Post und ÖV in kurzer Gehdistanz.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonneggstrasse 2
-1'200
-CHF
-/Monat
-günstig zentral Wohnen !
-Sonneggstrasse 2, 9100 Herisau
-Array
-4.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-80 m2
-Das 3-Familienhaus liegt sonnig und zentral, aber ruhig; Einkauf, Post und ÖV in kurzer Gehdistanz.…
 Teilen
 E-Mail
 Facebook

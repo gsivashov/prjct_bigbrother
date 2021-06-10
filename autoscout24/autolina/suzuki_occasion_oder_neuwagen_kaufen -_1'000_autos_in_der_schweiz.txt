@@ -178,27 +178,6 @@ Kostenlose Probefahrt
 Garantieversprechen
 Faires Eintauschangebot
 SUZUKI
-Vitara 1.4 T Generation Top Hyb. 4x4
-CHF 34'490
-ab CHF 371/Monat
--
-Automat
-50 km
-Mild-Hybrid Benzin/Elektro
-Allradantrieb
-schwarz
-129 PS
-SO
-Merken
-SUZUKI
-Vitara 1.4 T Generation Top Hyb. ...
--
-129 PS
-50 km
-CHF 34'490
-Merken
-ab CHF 371/Monat
-SUZUKI
 Vitara 1.4 T Compact+ 4x4
 CHF 27'900
 ab CHF 300/Monat
@@ -473,48 +452,66 @@ Garantieversprechen
 Faires Eintauschangebot
 NEU
 SUZUKI
-SX4 S-Cross 1.6 16V Compact Top 4x4
-CHF 16'400
-ab CHF 177/Monat
-12.2014
-Automat
-93'500 km
+SX4 S-Cross 1.6 16V GL 4WD
+CHF 13'400
+ab CHF 144/Monat
+12.2013
+Handschaltung
+104'600 km
 Benzin
 Allradantrieb
-rot
+grau
 120 PS
-ZH
+VS
 Merken
 SUZUKI
-SX4 S-Cross 1.6 16V Compact Top 4...
-12.2014
+SX4 S-Cross 1.6 16V GL 4WD
+12.2013
 120 PS
-93'500 km
-CHF 16'400
+104'600 km
+CHF 13'400
 Merken
-ab CHF 177/Monat
+ab CHF 144/Monat
 NEU
 SUZUKI
-Splash 1.2 Sergio Cellano
-CHF 10'500
-ab CHF 119/Monat
-04.2014
+Jimny 1.3 16V JLX
+CHF 6'800
+08.2001
+Handschaltung
+56'000 km
+Benzin
+Allradantrieb
+orange
+80 PS
+VD
+Merken
+SUZUKI
+Jimny 1.3 16V JLX
+08.2001
+80 PS
+56'000 km
+CHF 6'800
+Merken
+NEU
+SUZUKI
+Alto 1.0 GL Top
+CHF 4'900
+05.2009
 Automat
-117'500 km
+74'500 km
 Benzin
 Vorderradantrieb
-schwarz
-94 PS
+silber
+68 PS
 ZH
 Merken
 SUZUKI
-Splash 1.2 Sergio Cellano
-04.2014
-94 PS
-117'500 km
-CHF 10'500
+Alto 1.0 GL Top
+05.2009
+68 PS
+74'500 km
+CHF 4'900
 Merken
-ab CHF 119/Monat
 1
 1
 2

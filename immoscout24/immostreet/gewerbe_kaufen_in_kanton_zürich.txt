@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/gewerbe-industrie/kanton-zuerich/
 Title: Gewerbe kaufen in Kanton Zürich - Immostreet.ch
-Description: Gewerbe kaufen in Kanton Zürich - Immostreet.ch: ImmoStreet.ch hat 43 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Gewerbe kaufen in Kanton Zürich - Immostreet.ch: ImmoStreet.ch hat 45 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -131,7 +131,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-43 Resultate gefunden ·
+45 Resultate gefunden ·
 Gewerbe kaufen in Kanton Zürich
 Preis (aufsteigend)
 Preis (absteigend)
@@ -144,6 +144,36 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Schöneggstrasse 6
+495'000
+CHF
+Büroräume im Zentrum von Dietikon
+Schöneggstrasse 6, 8953 Dietikon
+Array
+76 m2
+Objekttyp
+Büro
+Wohnfläche
+76 m2
+Etage
+An verkehrstechnisch optimaler Lage im Zentrum von Dietikon, keine 100 m vom Stadthaus entfernt, ve…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dolderstrasse 62
+Preis auf Anfrage
+Büro- oder Praxisräume am Zürichberg
+Dolderstrasse 62, 8032 Zürich
+Array
+Objekttyp
+Büro
+Etage
+An bevorzugter Lage im Kreis 7 an der Dolderstrasse 62, verkaufen wir per sofort in einem Wohnhaus …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Landstrasse 49A
 Preis auf Anfrage
 Büro, Praxis, Kanzlei, Atelier, etc. ze…
@@ -406,37 +436,6 @@ Restaurant
 Zimmer
 14
 Im nördlichen Teil von Sternenberg, Gemeinde Bauma, an äusserst idyllischer, ruhiger und sonniger L…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-400'000
-CHF
-frequentierte Lage in der Zürcher Innen…
-Adresse auf Anfrage, 8001 Zürich
-Array
-Objekttyp
-Restaurant
-Sehr geehrter Interessent.Im Auftrag eines Kunden suchen wir an bester stark frequentierter innerst…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Thurgauerstrasse 117
-105'000
-CHF
-Neu renovierte und möblierte Büroräumli…
-Thurgauerstrasse 117, 8152 Glattpark (Opfikon)
-Array
-1 Zimmer
-Objekttyp
-Büro
-Zimmer
-1
-Etage
-Neu renovierte und möblierte Büroräumlichkeit oder Showraum im TMC.
-Gewerberaum für Büroräumlich…
 Teilen
 E-Mail
 Facebook

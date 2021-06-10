@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-arlesheim/
 Title: Wohnungen & Häuser mieten in Arlesheim - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Arlesheim - Immostreet.ch: ImmoStreet.ch hat 69 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Arlesheim - Immostreet.ch: ImmoStreet.ch hat 67 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-69 Resultate gefunden ·
+67 Resultate gefunden ·
 Wohnungen & Häuser mieten in Arlesheim
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,67 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Hauptstrasse 32
+2'625
+CHF
+/Monat
+moderne und renovierte Maisonette Wohnu…
+Hauptstrasse 32, 4144 Arlesheim
+Array
+6.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+6.5
+Wohnfläche
+145 m2
+Dieses charakteristische Objekt liegt im Herzen von Arlesheim an zentraler Lage.
+Die charmante M…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Untertalweg 20
+1'480
+CHF
+/Monat
+helle und geräumige Wohnung
+Untertalweg 20, 4144 Arlesheim
+Array
+4 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+70 m2
+Nach Vereinbarung, frühestens jedoch per 1. September 2021, vermieten wir diese 4-Zimmerwohnung am …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Baselstrasse 97
+1'430
+CHF
+/Monat
+Ruhig gelegen - Nähe Tramanschluss...
+Baselstrasse 97, 4144 Arlesheim
+Array
+3 Zimmer
+62 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+62 m2
+In schöner Grünlage, die Tramhaltestelle in direkter Nähe, vermieten wir diese gemütliche Wohnung m…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bahnhofstrasse 1
 2'240
 CHF
@@ -424,47 +485,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-General Guisan-Strasse 11
-2'000
-CHF
-/Monat
-Helle 3.5- Zimmerwohnung mit Blick ins …
-General Guisan-Strasse 11, 4144 Arlesheim
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-Wir vermieten per 01. August 2021 diese helle 3.5- Zimmerwohnung in der Nähe des Schwimmbads Arlesh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-General Guisan-Strasse 11
-2'390
-CHF
-/Monat
-Helle 4.5-Zimmerwohnung mit Blick ins G…
-General Guisan-Strasse 11, 4144 Arlesheim
-Array
-4.5 Zimmer
-99 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-99 m2
-Etage
-Wir vermieten per 01. August 2021 diese helle 4.5- Zimmerwohnung in der Nähe des Schwimmbads Arlesh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Dornwydenweg 7
 133
 CHF
@@ -475,26 +495,6 @@ Array
 Objekttyp
 Tiefgarage
 Im Auftrag vermieten wir Parkplätze in der Einstellhalle des Werkhofs der Gemeinde Arlesheim. Mietz…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hofmattweg 67
-1'730
-CHF
-/Monat
-Topmoderne und hochwertig sanierte Wohn…
-Hofmattweg 67, 4144 Arlesheim
-Array
-3.5 Zimmer
-73 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-73 m2
-An ruhiger Lage in Arlesheim vermieten wir eine sanierte Wohnung mit folgender Ausstattung:- Modern…
 Teilen
 E-Mail
 Facebook

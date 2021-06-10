@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-wohnung/in-liestal/
 Title: Wohnung mieten in Liestal - Immostreet.ch
-Description: Wohnung mieten in  Liestal - Immostreet.ch: ImmoStreet.ch hat 141 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Liestal - Immostreet.ch: ImmoStreet.ch hat 136 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-141 Resultate gefunden ·
+136 Resultate gefunden ·
 Wohnung mieten in Liestal
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,27 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Unterer Burghaldenweg 2
+1'521
+CHF
+/Monat
+In Liestal am Unteren Burghaldenweg 2
+Unterer Burghaldenweg 2, 4410 Liestal
+Array
+4.5 Zimmer
+91 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+91 m2
+Etage
+An ruhiger Lage vermieten wir eine moderne 4.5-Zimmerwohnung.Vorplatz, grosszügige Essküche mit GWM…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Heidenlochstrasse 76
 1'090
 CHF
@@ -330,26 +351,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Kesselweg 19
-1'870
-CHF
-/Monat
-Moderne 4.5-Zimmer-Wohnung an der Ergolz
-Kesselweg 19, 4410 Liestal
-Array
-4.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-95 m2
-Der Kesselweg befindet sich nördlich vom Zentrum Liestals, direkt an der Ergolz und wenige Fahrminu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Uferweg 6
 1'382
 CHF
@@ -530,7 +531,7 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 8
+Seite 1 von 7
 1
 2
 3

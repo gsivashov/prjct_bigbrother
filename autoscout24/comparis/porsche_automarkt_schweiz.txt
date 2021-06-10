@@ -146,15 +146,15 @@ Alle Automarken
 Porsche
 Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseite zu gewährleisten.
 Porsche Automarkt Schweiz
-3'199 Occasionen
-561 Neuwagen
-147 Vorführwagen
+3'176 Occasionen
+544 Neuwagen
+146 Vorführwagen
 Porsche 924 - 13 Inserate im Automarkt - Ab CHF 6'900
 Porsche 928 - 39 Inserate im Automarkt - Ab CHF 19'999
 Porsche 968 - 11 Inserate im Automarkt - Ab CHF 18'900
 Porsche Carrera GT - 2 Inserate im Automarkt - Ab CHF 750'000
 Porsche Modelle
-Porsche 911 - 1'393 Inserate anzeigen
+Porsche 911 - 1'367 Inserate anzeigen
 PORSCHE 911 Turbo
 Occasion
 11.2012
@@ -185,7 +185,7 @@ Mehr
 CHF
 119'900
 20.04.2021
-Porsche Boxster - 177 Inserate anzeigen
+Porsche Boxster - 182 Inserate anzeigen
 Porsche Boxster S 3.2
 Occasion
 02.2000
@@ -196,27 +196,37 @@ Mehr
 CHF
 6'500
 30.05.2021
-PORSCHE Boxster S 3.4
+PORSCHE BOXSTER Spyder
 Occasion
-03.2008
-80'000 km
-295 PS
-Mehr
-6.0
-CHF
-13'900
-29.05.2021
-PORSCHE Boxster S 3.2
-Occasion
-02.2000
-165'430 km
-252 PS
+03.2011
+11'500 km
+320 PS
 Mehr
 5.0
 CHF
-6'500
-11.05.2021
-Porsche Cayenne - 873 Inserate anzeigen
+65'900
+01.09.2020
+Porsche Boxster 718
+Neuwagen
+Neuwagen
+1 km
+300 PS
+Mehr
+5.0
+CHF
+64'700
+27.08.2020
+Porsche Cayenne - 863 Inserate anzeigen
+PORSCHE Cayenne S
+Occasion
+05.2008
+193'000 km
+385 PS
+Mehr
+6.0
+CHF
+5'900
+09.06.2021
 PORSCHE CAYENNE GTS
 Vorführwagen
 06.2021
@@ -237,17 +247,7 @@ Mehr
 CHF
 26'900
 03.06.2021
-Porsche Cayenne S
-Occasion
-10.2013
-123'500 km
-400 PS
-Mehr
-5.0
-CHF
-28'900
-30.05.2021
-Porsche Cayman - 159 Inserate anzeigen
+Porsche Cayman - 162 Inserate anzeigen
 Porsche Cayman 718 GT4
 Occasion
 01.2021
@@ -277,7 +277,7 @@ Mehr
 CHF
 99'900
 26.05.2021
-Porsche Panamera - 466 Inserate anzeigen
+Porsche Panamera - 464 Inserate anzeigen
 PORSCHE PANAMERA 4S E-Hybrid Sport Tursimo
 Neuwagen
 Neuwagen
@@ -308,7 +308,7 @@ Mehr
 CHF
 136'750
 15.05.2021
-Porsche Macan - 548 Inserate anzeigen
+Porsche Macan - 541 Inserate anzeigen
 Porsche Macan Turbo PDK
 Occasion
 09.2014
@@ -329,16 +329,16 @@ Mehr
 CHF
 31'880
 05.06.2021
-PORSCHE Macan S
-Occasion
-05.2017
-50'000 km
-340 PS
+Porsche Macan 3.0 V6 S
+Neuwagen
+Neuwagen
+25 km
+354 PS
 Mehr
 5.0
 CHF
-49'500
-05.06.2021
+85'300
+28.05.2021
 comparis.ch
 Über Comparis
 Medien

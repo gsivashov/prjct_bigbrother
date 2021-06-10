@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/en/rent/apartment/subcategory-maisonette/at-zurich/
 Title: Rent Duplex in Zurich - Immostreet.ch
-Description: Rent Duplex in  Zurich - Immostreet.ch: ImmoStreet.com has 26 offers and will help you to find the best deal in  and the surrounding area.
+Description: Rent Duplex in  Zurich - Immostreet.ch: ImmoStreet.com has 24 offers and will help you to find the best deal in  and the surrounding area.
 
 Your browser is out of date!
 Update your browser to view this website correctly. Update my browser now
@@ -116,7 +116,7 @@ Filter
 Search
 Adapt Search
 The search subscription has been added to your Immobox.
-26 results found ·
+24 results found ·
 Rent Duplex in Zurich
 Price (ascending)
 Price (descending)
@@ -129,26 +129,6 @@ Postal code (ascending)
 Postal code (descending)
 Sorting
 Submit
-Anemonenstrasse 40 C
-3'540
-CHF
-/Month
-Geniessen Sie modernste Wohn-Ausstattung
-Anemonenstrasse 40 C, 8047 Zürich
-Array
-5.5 Rooms
-157 m2
-Object type
-Apartment, Duplex
-Rooms
-5.5
-Living space
-157 m2
-Nach Vereinbarung suchen wir einen Nachmieter für diese schöne 5.5-Zimmer-Maisonette-Attikawohnung,…
-Share
-E-mail
-Facebook
-Whatsapp
 Im Waidegg 5
 1'990
 CHF
@@ -165,6 +145,26 @@ Rooms
 Living space
 75 m2
 Per sofort vermieten wir diese 3.5-Zimmerwohnung am Bucheggplatz inkl. Aussenparkplatz von zusätzli…
+Share
+E-mail
+Facebook
+Whatsapp
+Anemonenstrasse 40 C
+3'540
+CHF
+/Month
+Geniessen Sie modernste Wohn-Ausstattung
+Anemonenstrasse 40 C, 8047 Zürich
+Array
+5.5 Rooms
+157 m2
+Object type
+Apartment, Duplex
+Rooms
+5.5
+Living space
+157 m2
+Nach Vereinbarung suchen wir einen Nachmieter für diese schöne 5.5-Zimmer-Maisonette-Attikawohnung,…
 Share
 E-mail
 Facebook
@@ -395,46 +395,6 @@ Share
 E-mail
 Facebook
 Whatsapp
-Konradstrasse 20
-1'550
-CHF
-/Month
-Maisonnette Dachwohnung mit Galerie näh…
-Konradstrasse 20, 8005 Zürich
-Array
-2 Rooms
-70 m2
-Object type
-Apartment, Duplex
-Rooms
-2
-Living space
-70 m2
-Hier vermieten wir im Herzen von Zürich in einer Altbauliegenschaft mit Industrieflair eine grosszü…
-Share
-E-mail
-Facebook
-Whatsapp
-Konradstrasse 20
-1'870
-CHF
-/Month
-Wohnen im Herzen von Zürich
-Konradstrasse 20, 8005 Zürich
-Array
-2 Rooms
-97 m2
-Object type
-Apartment, Duplex
-Rooms
-2
-Living space
-97 m2
-Hier vermieten wir im Herzen von Zürich in einer Altbauliegenschaft mit Industrieflair eine grosszü…
-Share
-E-mail
-Facebook
-Whatsapp
 Address on request
 Price on request
 Exklusive Maisonette-Penthouse-Wohnung …
@@ -532,6 +492,46 @@ Living space
 110 m2
 Floor
 Neue, helle Küche mit PlattenbodenNeues Bad mit PlattenbodenSchöner neuer Eichenparkett matt in der…
+Share
+E-mail
+Facebook
+Whatsapp
+Utoquai 37
+13'040
+CHF
+/Month
+Schöne Wohnung mit einzigartigem Seebli…
+Utoquai 37, 8008 Zürich
+Array
+4 Rooms
+215 m2
+Object type
+Apartment, Duplex
+Rooms
+4
+Living space
+215 m2
+Wir sind auf der Suche nach neuen Mietern für diese exklusive Luxuswohnung mit viel Charme in einer…
+Share
+E-mail
+Facebook
+Whatsapp
+Waldmannstrasse 12a
+6'490
+CHF
+/Month
+Etwas ganz besonderes im Herzen der Sta…
+Waldmannstrasse 12a, 8001 Zürich
+Array
+3.5 Rooms
+114 m2
+Object type
+Apartment, Duplex
+Rooms
+3.5
+Living space
+114 m2
+Per sofort vermieten wir die idyllische 3.5-Zimmerwohnung mit hochwertigem Ausbau, direkt an einer …
 Share
 E-mail
 Facebook

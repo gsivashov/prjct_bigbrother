@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-dachwohnung/in-zuerich/
 Title: Dachwohnung mieten in Zürich - Immostreet.ch
-Description: Dachwohnung mieten in  Zürich - Immostreet.ch: ImmoStreet.ch hat 26 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Dachwohnung mieten in  Zürich - Immostreet.ch: ImmoStreet.ch hat 27 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-26 Resultate gefunden ·
+27 Resultate gefunden ·
 Dachwohnung mieten in Zürich
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,61 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Altstetterstrasse 140
+2'252
+CHF
+/Monat
+Dachwohnung mitten in Zürich-Altstetten
+Altstetterstrasse 140, 8048 Zürich
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+2.5
+Etage
+Mitten in Zürich-Altstetten, an sehr zentraler Lage, vermieten wir per 01.08.21 eine stilvolle, gro…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blütenstrasse 2
+2'980
+CHF
+/Monat
+FRISCH RENOVIERT IM KREIS 11
+Blütenstrasse 2, 8050 Zürich
+Array
+3.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+110 m2
+An sonniger und leicht erhöhter Lage lockt diese frisch renovierte 3.5-Zimmer-Dachwohnung mit Landh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kirchenackerweg 2
+1'510
+CHF
+/Monat
+WOHNEN MIT AUSSICHT, ZENTRAL UND RUHIG
+Kirchenackerweg 2, 8050 Zürich
+Array
+2 Zimmer
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+2
+Ab 15.07.2021 oder nach Vereinbarung vermieten wir diese wunderschöne Wohnung in einem ruhigen 3-Fa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Saumackerstrasse 29
 2'150
 CHF
@@ -354,26 +409,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Hammerstrasse 11
-3'650
-CHF
-/Monat
-3.5-Zimmer Attikawohnung mit sonniger D…
-Hammerstrasse 11, 8008 Zürich
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-85 m2
-ENGLISH BELOWNachmieter gesucht per 1. September 2021:Wohn-Essbereich (43m2) mit Cheminée u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Culmannstrasse 34
 2'340
 CHF
@@ -391,27 +426,6 @@ Wohnfläche
 70 m2
 Etage
 Die geräumige 2-Zimmer-Wohnung eignet sich perfekt für einen Single-Haushalt oder ein Paar. Das gro…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Feldblumenweg 7
-2'080
-CHF
-/Monat
-Charming & Modern Attic Flat with wonde…
-Feldblumenweg 7, 8048 Zürich
-Array
-2.5 Zimmer
-55 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-55 m2
-Etage
-(German version below)As of August 01, we are looking for a couple or an individual person to take …
 Teilen
 E-Mail
 Facebook
@@ -437,10 +451,10 @@ E-Mail
 Facebook
 Whatsapp
 Badenerstrasse
-3'000
+2'800
 CHF
 /Monat
-Grosszügiges, neu saniertes Bad mit WT
+Charmante Stadtwohnung im Herzen von Zü…
 Badenerstrasse, 8004 Zürich
 Array
 3.5 Zimmer
@@ -451,7 +465,7 @@ Zimmer
 3.5
 Wohnfläche
 110 m2
-Die gemütliche Stadtwohnung liegt im Herzen von Zürich im Kreis 4.Das Apartment überzeugt mit folge…
+Die gemütliche Stadtwohnung liegt im Herzen von Zürich im Kreis 4.Das Appartement überzeugt mit Fol…
 Teilen
 E-Mail
 Facebook
@@ -514,27 +528,6 @@ Wohnfläche
 65 m2
 Etage
 Die helle und ruhige Wohnung ist günstig gelegen und befindet sich zu Fuss nur zwei Minuten vom Bah…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Cramerstrasse 16
-1'970
-CHF
-/Monat
-Kleines Bijou: Ruhiges Studio im Dachge…
-Cramerstrasse 16, 8004 Zürich
-Array
-1.5 Zimmer
-37 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-1.5
-Wohnfläche
-37 m2
-Etage
-English belowLuxuriöser Ausbaustandard.Grosser Schlafbereich mit geräumigem Einbauschrank.Ruhiger W…
 Teilen
 E-Mail
 Facebook

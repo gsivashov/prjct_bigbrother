@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-pratteln/
 Title: Wohnung & Haus mieten in Pratteln - Immostreet.ch
-Description: Wohnung & Haus mieten in  Pratteln - Immostreet.ch: ImmoStreet.ch hat 110 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Pratteln - Immostreet.ch: ImmoStreet.ch hat 111 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-110 Resultate gefunden ·
+111 Resultate gefunden ·
 Wohnung & Haus mieten in Pratteln
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,67 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Gottesackerstrasse 19
+1'350
+CHF
+/Monat
+Wohlfühlen inklusive - Helle, moderne 3…
+Gottesackerstrasse 19, 4133 Pratteln
+Array
+3 Zimmer
+64 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+64 m2
+Etage
+Lassen Sie Sich begeistern von diesem einmaligen Angebot:Grosszügiges helles Wohnzimmer mit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Netzibodenstrasse 33
+2'535
+CHF
+/Monat
+Sensationelle Dachwohnung!
+Netzibodenstrasse 33, 4133 Pratteln
+Array
+4.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+145 m2
+Diese grosszügige, helle 4.5-Z'Dachwohnung liegt in einem gepflegten Bürogebäude im 4. OG. Der Lift…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mühleweg 17
+1'700
+CHF
+/Monat
+Schöne 4.5-Zimmerwohung in Pratteln
+Mühleweg 17, 4133 Pratteln
+Array
+4.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+86 m2
+Diese 4.5-Zimmerwohnung im 5. OG ist ab 16.027.2021 verfügbar und überzeugt durch Folgendes:
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Muttenzerstrasse 40
 1'405
 CHF
@@ -485,67 +546,6 @@ Wohnfläche
 79 m2
 Die 4-Zimmerwohnung befindet sich im 2.OG eines Mehrfamilienhauses mit Lift und schönem Balkon
 M…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schlossstr. 3a
-2'120
-CHF
-/Monat
-Attraktive 3.5-Zimmerwohnung
-Schlossstr. 3a, 4133 Pratteln
-Array
-3.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-95 m2
-Wir vermieten per 16.06.2021 oder nach Vereinbarung diese gemütliche 3.5-Zimmerwohnung im EG.Die Wo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unterer Rütschetenweg 18
-1'373
-CHF
-/Monat
-Sonnige 3.5-Zimmerwohnung an ruhiger La…
-Unterer Rütschetenweg 18, 4133 Pratteln
-Array
-3.5 Zimmer
-64 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-64 m2
-Am Unteren Rütschetenweg 18 in Pratteln vermieten wir nach Vereinbarung eine 3.5-Zimmerwohnung im 2…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gottesackerstrasse 19
-1'440
-CHF
-/Monat
-Wohlfühlen inklusive - Helle, moderne 3…
-Gottesackerstrasse 19, 4133 Pratteln
-Array
-3 Zimmer
-66 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-66 m2
-Etage
-Lassen Sie Sich begeistern von diesem einmaligen Angebot:Grosszügiges helles Wohnzimmer mit…
 Teilen
 E-Mail
 Facebook

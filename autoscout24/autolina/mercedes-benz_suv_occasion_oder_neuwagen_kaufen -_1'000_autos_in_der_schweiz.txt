@@ -345,136 +345,136 @@ Merken
 ab CHF 452/Monat
 NEU
 MERCEDES-BENZ
-GLS 400 d AMG Line 4matic
-CHF 128'600
-ab CHF 1382/Monat
--
+G 63 AMG Exclusive Edition Speedsh. Plus 7G-Tronic
+CHF 114'900
+ab CHF 1234/Monat
+09.2017
 Automat
-0 km
-Diesel
-Allradantrieb
-weiss
-330 PS
-AG
-Merken
-MERCEDES-BENZ
-GLS 400 d AMG Line 4matic
--
-330 PS
-0 km
-CHF 128'600
-Merken
-ab CHF 1382/Monat
-NEU
-MERCEDES-BENZ
-GLA 35 AMG 4matic
-CHF 74'200
-ab CHF 797/Monat
--
-Automat
-0 km
-Benzin
-Allradantrieb
-grau
-306 PS
-AG
-Merken
-MERCEDES-BENZ
-GLA 35 AMG 4matic
--
-306 PS
-0 km
-CHF 74'200
-Merken
-ab CHF 797/Monat
-NEU
-MERCEDES-BENZ
-G 500 4x4² FAB SHAHIN Aut. Unikat
-CHF 99'900
-ab CHF 1073/Monat
-01.2008
-Automat
-74'500 km
+45'000 km
 Benzin
 Allradantrieb
 silber
-388 PS
-AG
+571 PS
+SZ
 Merken
 MERCEDES-BENZ
-G 500 4x4² FAB SHAHIN Aut. Unikat
-01.2008
-388 PS
-74'500 km
-CHF 99'900
+G 63 AMG Exclusive Edition Speeds...
+09.2017
+571 PS
+45'000 km
+CHF 114'900
 Merken
-ab CHF 1073/Monat
+ab CHF 1234/Monat
 NEU
 MERCEDES-BENZ
-GLC 43 AMG Facelift 4Matic 9G-Tronic
-CHF 73'990
-ab CHF 795/Monat
-02.2020
+GLC Coupé 220 d AMG Line 4Matic 9G-Tronic
+CHF 75'900
+ab CHF 816/Monat
+09.2019
 Automat
-14'456 km
-Benzin
+180 km
+Diesel
 Allradantrieb
 schwarz
-390 PS
+194 PS
 SZ
 Merken
 MERCEDES-BENZ
-GLC 43 AMG Facelift 4Matic 9G-Tro...
-02.2020
-390 PS
-14'456 km
-CHF 73'990
+GLC Coupé 220 d AMG Line 4Matic 9...
+09.2019
+194 PS
+180 km
+CHF 75'900
 Merken
-ab CHF 795/Monat
+ab CHF 816/Monat
 NEU
 MERCEDES-BENZ
-GLC 43 AMG Edition mattgrau magno 4Matic 9G-Tronic
-CHF 75'790
-ab CHF 814/Monat
-06.2020
+GLE 350 d Executive 4Matic 9G-Tronic
+CHF 49'900
+ab CHF 536/Monat
+07.2018
 Automat
-14'456 km
-Benzin
+57'000 km
+Diesel
+Allradantrieb
+weiss
+258 PS
+SZ
+Merken
+MERCEDES-BENZ
+GLE 350 d Executive 4Matic 9G-Tro...
+07.2018
+258 PS
+57'000 km
+CHF 49'900
+Merken
+ab CHF 536/Monat
+NEU
+MERCEDES-BENZ
+GLE Coupé 350 d 4Matic 9G-Tronic
+CHF 57'900
+ab CHF 622/Monat
+06.2017
+Automat
+34'900 km
+Diesel
 Allradantrieb
 anthrazit
-390 PS
-SZ
+258 PS
+GE
 Merken
 MERCEDES-BENZ
-GLC 43 AMG Edition mattgrau magno...
-06.2020
-390 PS
-14'456 km
-CHF 75'790
+GLE Coupé 350 d 4Matic 9G-Tronic
+06.2017
+258 PS
+34'900 km
+CHF 57'900
 Merken
-ab CHF 814/Monat
+ab CHF 622/Monat
 NEU
 MERCEDES-BENZ
-GLA 200 Night Star 7G-DCT
-CHF 19'900
-ab CHF 214/Monat
-04.2016
+GLK 250 BlueTEC 4Matic 7G-Tronic
+CHF 19'700
+ab CHF 212/Monat
+09.2012
 Automat
-96'000 km
-Benzin
-Vorderradantrieb
-weiss
-156 PS
-ZH
+74'999 km
+Diesel
+Allradantrieb
+blau
+204 PS
+GR
 Merken
 MERCEDES-BENZ
-GLA 200 Night Star 7G-DCT
-04.2016
-156 PS
-96'000 km
-CHF 19'900
+GLK 250 BlueTEC 4Matic 7G-Tronic
+09.2012
+204 PS
+74'999 km
+CHF 19'700
 Merken
-ab CHF 214/Monat
+ab CHF 212/Monat
+NEU
+MERCEDES-BENZ
+GL 450 4Matic 7G-Tronic
+CHF 13'700
+ab CHF 148/Monat
+01.2007
+Automat
+209'900 km
+Benzin
+Allradantrieb
+weiss
+340 PS
+GR
+Merken
+MERCEDES-BENZ
+GL 450 4Matic 7G-Tronic
+01.2007
+340 PS
+209'900 km
+CHF 13'700
+Merken
+ab CHF 148/Monat
 1
 1
 2

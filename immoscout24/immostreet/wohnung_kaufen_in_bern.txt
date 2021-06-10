@@ -141,13 +141,13 @@ Urbane Wohnung in Bern City!
 Adresse auf Anfrage, 3014 Bern
 Array
 4.5 Zimmer
-90 m2
+77 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-90 m2
+77 m2
 Die tolle Wohnung liegt an bester Lage in Bern und wurde 2020 renoviert. Es sind keine weiteren Ren…
 Teilen
 E-Mail

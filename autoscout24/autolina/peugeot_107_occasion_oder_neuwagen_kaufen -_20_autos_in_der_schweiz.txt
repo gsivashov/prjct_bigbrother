@@ -154,6 +154,26 @@ TI
 WIR-ANTEIL
 20 Treffer
 Suche zurücksetzen
+NEU
+PEUGEOT
+107 1.0 Urban
+CHF 5'690
+04.2011
+Handschaltung
+16'700 km
+Benzin
+Vorderradantrieb
+weiss
+68 PS
+FR
+Merken
+PEUGEOT
+107 1.0 Urban
+04.2011
+68 PS
+16'700 km
+CHF 5'690
+Merken
 PEUGEOT
 107 1.0 Swiss Edition BMP5
 CHF 4'999
@@ -173,29 +193,6 @@ PEUGEOT
 110'000 km
 CHF 4'999
 Merken
-PEUGEOT
-107 1.0 Trendy
-CHF 3'500
-09.2008
-Handschaltung
-51'500 km
-Benzin
-Vorderradantrieb
-gelb
-68 PS
-LU
-Merken
-PEUGEOT
-107 1.0 Trendy
-09.2008
-68 PS
-51'500 km
-CHF 3'500
-Merken
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
 PEUGEOT
 107 1.0 Trendy
 CHF 2'500
@@ -369,10 +366,10 @@ CHF 5'800
 Merken
 PEUGEOT
 107 1.0 Trendy
-CHF 3'193
+CHF 3'200
 12.2011
 Handschaltung
-98'233 km
+81'861 km
 Benzin
 Vorderradantrieb
 weiss
@@ -383,8 +380,8 @@ PEUGEOT
 107 1.0 Trendy
 12.2011
 68 PS
-98'233 km
-CHF 3'193
+81'861 km
+CHF 3'200
 Merken
 PEUGEOT
 107 1.0 Black&Silver

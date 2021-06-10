@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-obfelden/
 Title: Wohnungen & Häuser mieten in Obfelden - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Obfelden - Immostreet.ch: ImmoStreet.ch hat 22 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Obfelden - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-22 Resultate gefunden ·
+19 Resultate gefunden ·
 Wohnungen & Häuser mieten in Obfelden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,26 +122,6 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Sentmattstrasse 4
-1'800
-CHF
-/Monat
-Morderne 3.5-Zimmerwohung im Erdgeschoss
-Sentmattstrasse 4, 8912 Obfelden
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Für unsere morderne 3.5-Zimmerwohung im Erdgeschoss in der Überbauung Sentmatt in Obfelden suchen w…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Sentmattstrasse 4
 1'800
 CHF
@@ -178,26 +158,6 @@ Zimmer
 Wohnfläche
 72 m2
 Schöne sonnig und heimelige 3-Zimmer-Dachwohnung angrenzend an Naherholungsgebiet Die Wohnung selbe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chileweg 23
-1'230
-CHF
-/Monat
-ruhige Umgebung - Balkon mit Sicht ins …
-Chileweg 23, 8912 Obfelden
-Array
-2.5 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-60 m2
-In der ruhig gelegenen Überbauung am Chileweg vermieten wir per 1. August 2021 eine geräumige 2.5-Z…
 Teilen
 E-Mail
 Facebook
@@ -264,26 +224,6 @@ Array
 Objekttyp
 Tiefgarage
 Der Parkplatz in der Einstellhalle ist gut zugänglich und eignet sich zum Abstellen von Personenwag…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfstrasse 45
-1'530
-CHF
-/Monat
-Lichtdurchflutete 3.5-Zimmer Wohnung
-Dorfstrasse 45, 8912 Obfelden
-Array
-3.5 Zimmer
-86 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-86 m2
-Für die Besichtigung melden Sie sich bitte auf mietwelt.ch an. Hierzu können Sie gerne auch den fol…
 Teilen
 E-Mail
 Facebook
@@ -496,10 +436,46 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 2
-1
+Stehli-Seiden-Areal 4
+3'300
+CHF
+/Monat
+Satin Loft auf Zeit
+Stehli-Seiden-Areal 4, 8912 Obfelden
+Array
+2 Zimmer
+133 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
 2
-nächste Seite
+Wohnfläche
+133 m2
+Hohe, offene Räume, grosszügige Architektur mit vielen Details aus der Fabrikgeschichte, entspannt …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stehli Seiden Areal 3
+3'200
+CHF
+/Monat
+Cocon Loft auf Zeit
+Stehli Seiden Areal 3, 8912 Obfelden
+Array
+2 Zimmer
+108 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+2
+Wohnfläche
+108 m2
+Die schönsten Lofts im Säuliamt gibt es jetzt auch auf Zeit. Als Übergangslösung, zum Ausprobieren,…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 ImmoStreet.ch
 Mieten
 Immobilien mieten in der Stadt Obfelden

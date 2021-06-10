@@ -156,6 +156,115 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 JAGUAR
+F-Pace 3.0 V6 Prestige AWD Automatik
+CHF 46'900
+ab CHF 504/Monat
+03.2017
+Automat
+38'000 km
+Benzin
+Allradantrieb
+blau
+340 PS
+SZ
+Merken
+JAGUAR
+F-Pace 3.0 V6 Prestige AWD Automa...
+03.2017
+340 PS
+38'000 km
+CHF 46'900
+Merken
+ab CHF 504/Monat
+NEU
+JAGUAR
+F-Pace 30t 2.0 Portfolio AWD Automatik
+CHF 67'900
+ab CHF 730/Monat
+10.2019
+Automat
+500 km
+Benzin
+Allradantrieb
+weiss
+300 PS
+ZH
+Merken
+JAGUAR
+F-Pace 30t 2.0 Portfolio AWD Auto...
+10.2019
+300 PS
+500 km
+CHF 67'900
+Merken
+ab CHF 730/Monat
+NEU
+JAGUAR
+F-Pace 2.0d Prestige AWD Automatik
+CHF 69'900
+ab CHF 751/Monat
+05.2021
+Automat
+100 km
+Diesel
+Allradantrieb
+schwarz
+180 PS
+ZH
+Merken
+JAGUAR
+F-Pace 2.0d Prestige AWD Automati...
+05.2021
+180 PS
+100 km
+CHF 69'900
+Merken
+ab CHF 751/Monat
+NEU
+JAGUAR
+F-Pace 2.0d Prestige AWD Automatik
+CHF 69'900
+ab CHF 751/Monat
+12.2018
+Automat
+100 km
+Diesel
+Allradantrieb
+grau
+180 PS
+ZH
+Merken
+JAGUAR
+F-Pace 2.0d Prestige AWD Automati...
+12.2018
+180 PS
+100 km
+CHF 69'900
+Merken
+ab CHF 751/Monat
+NEU
+JAGUAR
+F-Pace 3.0 V6 Prestige AWD Automatik
+CHF 39'900
+ab CHF 429/Monat
+10.2016
+Automat
+59'000 km
+Benzin
+Allradantrieb
+grau
+340 PS
+ZH
+Merken
+JAGUAR
+F-Pace 3.0 V6 Prestige AWD Automa...
+10.2016
+340 PS
+59'000 km
+CHF 39'900
+Merken
+ab CHF 429/Monat
+JAGUAR
 F-Pace 2.0 D200 MHEV SE AWD
 CHF 87'520
 ab CHF 940/Monat
@@ -365,111 +474,6 @@ F-Pace 30t 2.0 R-Sport AWD Automa...
 CHF 59'900
 Merken
 ab CHF 644/Monat
-JAGUAR
-F-Pace 30t 2.0 Portf. AWD
-CHF 67'900
-ab CHF 730/Monat
-10.2019
-Automat
-500 km
-Benzin
-Allradantrieb
-weiss
-300 PS
-ZH
-Merken
-JAGUAR
-F-Pace 30t 2.0 Portf. AWD
-10.2019
-300 PS
-500 km
-CHF 67'900
-Merken
-ab CHF 730/Monat
-JAGUAR
-F-Pace 3.0 V6 Prest. AWD
-CHF 39'900
-ab CHF 429/Monat
-10.2016
-Automat
-59'000 km
-Benzin
-Vorderradantrieb
-grau
-340 PS
-ZH
-Merken
-JAGUAR
-F-Pace 3.0 V6 Prest. AWD
-10.2016
-340 PS
-59'000 km
-CHF 39'900
-Merken
-ab CHF 429/Monat
-JAGUAR
-F-Pace 2.0d Prestige AWD
-CHF 69'900
-ab CHF 751/Monat
-12.2018
-Automat
-100 km
-Diesel
-Allradantrieb
-grau
-180 PS
-ZH
-Merken
-JAGUAR
-F-Pace 2.0d Prestige AWD
-12.2018
-180 PS
-100 km
-CHF 69'900
-Merken
-ab CHF 751/Monat
-JAGUAR
-F-Pace 2.0d Prestige AWD
-CHF 69'900
-ab CHF 751/Monat
-05.2021
-Automat
-100 km
-Diesel
-Allradantrieb
-schwarz
-180 PS
-ZH
-Merken
-JAGUAR
-F-Pace 2.0d Prestige AWD
-05.2021
-180 PS
-100 km
-CHF 69'900
-Merken
-ab CHF 751/Monat
-JAGUAR
-F-Pace 3.0 TD Prestige AWD Automatik "Top Ausstattung"
-CHF 39'600
-ab CHF 426/Monat
-03.2017
-Automat
-87'400 km
-Diesel
-Allradantrieb
-blau
-300 PS
-AG
-Merken
-JAGUAR
-F-Pace 3.0 TD Prestige AWD Automa...
-03.2017
-300 PS
-87'400 km
-CHF 39'600
-Merken
-ab CHF 426/Monat
 1
 1
 2

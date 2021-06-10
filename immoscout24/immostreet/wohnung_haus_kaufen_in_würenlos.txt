@@ -160,7 +160,7 @@ Array
 3.5 Zimmer
 85 m2
 Objekttyp
-Wohnung, Möblierte Wohnung
+Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche

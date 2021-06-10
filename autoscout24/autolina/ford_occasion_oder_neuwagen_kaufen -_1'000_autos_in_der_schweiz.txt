@@ -152,27 +152,72 @@ TI
 WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
+NEU
 FORD
-Custom Dreamer Cap Coast 2.0 TDCi 170 PS Aut
-CHF 48'000
-ab CHF 516/Monat
-04.2018
+C-Max 2.0 177 Energi
+CHF 20'800
+ab CHF 224/Monat
+09.2017
 Automat
-30'000 km
-Diesel
+25'444 km
+Voll-Hybrid Benzin/Elektro
 Vorderradantrieb
-beige
-170 PS
+schwarz
+137 PS
 AG
 Merken
 FORD
-Custom Dreamer Cap Coast 2.0 TDCi...
-04.2018
-170 PS
-30'000 km
-CHF 48'000
+C-Max 2.0 177 Energi
+09.2017
+137 PS
+25'444 km
+CHF 20'800
 Merken
-ab CHF 516/Monat
+ab CHF 224/Monat
+NEU
+FORD
+FOCUS 1.5 SCTi ST Line 182HP
+CHF 27'400
+ab CHF 323/Monat
+06.2020
+Automat
+6'000 km
+Benzin
+Vorderradantrieb
+grau
+182 PS
+ZH
+Merken
+FORD
+FOCUS 1.5 SCTi ST Line 182HP
+06.2020
+182 PS
+6'000 km
+CHF 27'400
+Merken
+ab CHF 323/Monat
+NEU
+FORD
+Puma 1.0 MHEV ST-Line X
+CHF 24'700
+ab CHF 291/Monat
+01.2021
+Handschaltung
+10 km
+Mild-Hybrid Benzin/Elektro
+Vorderradantrieb
+grau
+125 PS
+ZH
+Merken
+FORD
+Puma 1.0 MHEV ST-Line X
+01.2021
+125 PS
+10 km
+CHF 24'700
+Merken
+ab CHF 291/Monat
 FORD
 Mustang Coupé 5.0 V8 GT Black Shadow Ed.
 CHF 37'500
@@ -236,90 +281,6 @@ Mustang(Cabriolet)
 CHF 51'900
 Merken
 ab CHF 558/Monat
-FORD
-Focus 1.0 SCTi ST Line
-CHF 24'500
-ab CHF 289/Monat
--
-Handschaltung
-10 km
-Benzin
-Vorderradantrieb
-weiss
-125 PS
-ZH
-Merken
-FORD
-Focus 1.0 SCTi ST Line
--
-125 PS
-10 km
-CHF 24'500
-Merken
-ab CHF 289/Monat
-FORD
-Focus 2.3 EcoBoost RS AWD
-CHF 34'700
-ab CHF 409/Monat
-05.2018
-Handschaltung
-35'000 km
-Benzin
-Allradantrieb
-grau
-350 PS
-ZH
-Merken
-FORD
-Focus 2.3 EcoBoost RS AWD
-05.2018
-350 PS
-35'000 km
-CHF 34'700
-Merken
-ab CHF 409/Monat
-FORD
-Focus 1.0 SCTi ST Line
-CHF 24'500
-ab CHF 289/Monat
--
-Handschaltung
-10 km
-Benzin
-Vorderradantrieb
-grau
-125 PS
-ZH
-Merken
-FORD
-Focus 1.0 SCTi ST Line
--
-125 PS
-10 km
-CHF 24'500
-Merken
-ab CHF 289/Monat
-FORD
-PUMA 1.0 HEV ST-Line X 155HP PANO NAV LED RFK
-CHF 27'700
-ab CHF 327/Monat
--
-Handschaltung
-10 km
-Benzin
-Vorderradantrieb
-blau
-155 PS
-ZH
-Merken
-FORD
-PUMA 1.0 HEV ST-Line X 155HP PANO...
--
-155 PS
-10 km
-CHF 27'700
-Merken
-ab CHF 327/Monat
 FORD
 EcoSport 1.0 EcoB 125 ST-Line
 CHF 20'000
@@ -426,47 +387,89 @@ CHF 41'000
 Merken
 ab CHF 441/Monat
 FORD
-Focus 1.5 TDCi Active Automatic
-CHF 25'900
-ab CHF 279/Monat
-02.2020
+Mondeo Station Wagon 2.0 TDCi 210 Titanium
+CHF 13'900
+ab CHF 150/Monat
+08.2016
 Automat
-10'000 km
+105'000 km
 Diesel
 Vorderradantrieb
-anthrazit
-120 PS
+schwarz
+210 PS
 AG
 Merken
 FORD
-Focus 1.5 TDCi Active Automatic
-02.2020
-120 PS
-10'000 km
-CHF 25'900
+Mondeo Station Wagon 2.0 TDCi 210...
+08.2016
+210 PS
+105'000 km
+CHF 13'900
 Merken
-ab CHF 279/Monat
+ab CHF 150/Monat
 FORD
-Focus 1.5 SCTi ST Line Automatic
-CHF 29'900
-ab CHF 322/Monat
-04.2020
-Automat
-28'000 km
+C-Max 1.6i EB SCTi 150 Carving S/S
+CHF 10'000
+ab CHF 113/Monat
+07.2012
+Handschaltung
+120'000 km
 Benzin
 Vorderradantrieb
-schwarz
+weiss
 150 PS
-AG
+FR
 Merken
 FORD
-Focus 1.5 SCTi ST Line Automatic
-04.2020
+C-Max 1.6i EB SCTi 150 Carving S/...
+07.2012
 150 PS
-28'000 km
-CHF 29'900
+120'000 km
+CHF 10'000
 Merken
-ab CHF 322/Monat
+ab CHF 113/Monat
+FORD
+Mustang 3.8 Cabriolet
+CHF 6'500
+ab CHF 74/Monat
+05.1995
+Automat
+130'000 km
+Benzin
+Hinterradantrieb
+blau
+140 PS
+TG
+Merken
+FORD
+Mustang 3.8 Cabriolet
+05.1995
+140 PS
+130'000 km
+CHF 6'500
+Merken
+ab CHF 74/Monat
+FORD
+Grand C-Max 1.6i EB SCTi 150 Carving S/S
+CHF 11'900
+ab CHF 134/Monat
+11.2012
+Handschaltung
+50'100 km
+Benzin
+Vorderradantrieb
+blau
+150 PS
+SO
+Merken
+FORD
+Grand C-Max 1.6i EB SCTi 150 Carv...
+11.2012
+150 PS
+50'100 km
+CHF 11'900
+Merken
+ab CHF 134/Monat
 1
 1
 2

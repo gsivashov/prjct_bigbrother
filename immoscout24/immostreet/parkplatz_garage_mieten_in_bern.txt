@@ -121,16 +121,70 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Huberstrasse 5
-150
+Weissenbühlweg 43 EH
+140
 CHF
 /Monat
-Einstellhallenplatz im Quartier Holligen
-Huberstrasse 5, 3008 Bern
+Hat Ihr Auto auch gerne ein Dach über d…
+Weissenbühlweg 43 EH, 3007 Bern
 Array
 Objekttyp
 Tiefgarage
-Wir vermieten per sofort einen Einstellhallenplatz in der Nähe des Loryplatzes.Das Inselspital ist …
+Sie möchten Ihr Auto nicht im Regen stehen lassen oder suchen ganz einfach für die Wintermonate ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gartenstrasse 1/3
+120
+CHF
+/Monat
+EINSTELLHALLENPLÄTZE IN DER NÄHE DES IN…
+Gartenstrasse 1/3, 3007 Bern
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten ab sofort oder nach Vereinbarung diverse Einstellhallenplätze an zentraler Lage an de…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Frohbergweg 4
+175
+CHF
+/Monat
+Hallenplatz Nr. 5
+Frohbergweg 4, 3012 Bern
+Array
+Objekttyp
+Tiefgarage
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brückfeldstr. 19
+145
+CHF
+/Monat
+Einstelhallenplatz in der Länggasse!
+Brückfeldstr. 19, 3012 Bern
+Array
+Objekttyp
+Tiefgarage
+Mitten im Länggass-Quartier vermieten wir div. Einstellhallenplätze. Der Preis versteht sich exkl. …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blumenweg 5/7
+125
+CHF
+/Monat
+Einstellhallenplatz in der Lorraine zu …
+Blumenweg 5/7, 3013 Bern
+Array
+Objekttyp
+Tiefgarage
 Teilen
 E-Mail
 Facebook
@@ -246,20 +300,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Laupenstr. 17
-250
-CHF
-/Monat
-Einstellhallenplätze nähe Bahnhof
-Laupenstr. 17, 3011 Bern
-Array
-Objekttyp
-Tiefgarage
-Wir vermieten per sofort oder nach Vereinbarung diverse Einstellhallenplätze im City-West-Parking. …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Sandrainstrasse 66a
 130
 CHF
@@ -316,20 +356,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Werkgasse 30 - 40
-100
-CHF
-/Monat
-Nähe Stadtzentrum!
-Werkgasse 30 - 40, 3018 Bern
-Array
-Objekttyp
-Tiefgarage
-Die Einstellhalle befindet sich im Stöckackerquartier.Die Tramlinie ist in unmittelbarer Nähe.
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Schwarztorstrasse 60
 170
 CHF
@@ -368,34 +394,6 @@ Array
 Objekttyp
 Tiefgarage
 Wir vermieten nach Vereinbarung Einstellhallenplätze an der Bolligenstrasse 28, 28a, 28b in Bern:Mi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eigerstrasse 12
-155
-CHF
-/Monat
-Einstellhallenplatz an idealer Lage!
-Eigerstrasse 12, 3007 Bern
-Array
-Objekttyp
-Tiefgarage
-Ab sofort oder nach Vereinbarung vermieten wir Einstellhallenplätze an der Eigerstrasse 4-12 in 300…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Scheuerrain
-190
-CHF
-/Monat
-Auf der Suche nach einem Einstellhallen…
-Scheuerrain, 3007 Bern
-Array
-Objekttyp
-Tiefgarage
-Die Liegenschaft befindet sich in einer attraktiven und bestens erschlossenen Gewerbe- und Wohnzone…
 Teilen
 E-Mail
 Facebook

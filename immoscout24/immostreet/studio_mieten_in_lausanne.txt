@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-studio/in-lausanne/
 Title: Studio mieten in Lausanne - Immostreet.ch
-Description: Studio mieten in  Lausanne - Immostreet.ch: ImmoStreet.ch hat 22 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Studio mieten in  Lausanne - Immostreet.ch: ImmoStreet.ch hat 21 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-22 Resultate gefunden ·
+21 Resultate gefunden ·
 Studio mieten in Lausanne
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Chemin du Mont-Tendre 8ter
+1'800
+CHF
+/Monat
+Superbe Studio meublé à Lausanne sous g…
+Chemin du Mont-Tendre 8ter, 1007 Lausanne
+Array
+1 Zimmer
+29 m2
+Objekttyp
+Wohnung, Studio
+Zimmer
+1
+Wohnfläche
+29 m2
+Ce beau studio meublé de 29 m² se situe à Lausanne quartier sous-gare à deux pas de toutes commodit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Tivoli 4
 1'150
 CHF
@@ -204,26 +224,6 @@ Zimmer
 Wohnfläche
 31 m2
 Dans un quartier agréable, proche du centre ville et de toutes commodités Studio au 4ème étage, com…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Avenue de Morges 72bis
-1'260
-CHF
-/Monat
-Studio au 5ème et denier étage
-Avenue de Morges 72bis, 1004 Lausanne
-Array
-1 Zimmer
-24 m2
-Objekttyp
-Wohnung, Studio
-Zimmer
-1
-Wohnfläche
-24 m2
-Dans un quartier agréable, proche du centre ville et de toutes commodités Studio au 5ème étage, com…
 Teilen
 E-Mail
 Facebook
@@ -312,7 +312,7 @@ Chemin de Grandchamp 9
 1'136
 CHF
 /Monat
-Studio au rez-de-chaussée, construction…
+Studio au rez-de-chaussée avec terrasse…
 Chemin de Grandchamp 9, 1018 Lausanne
 Array
 1.5 Zimmer
@@ -442,23 +442,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Chemin du Devin 47C
-1'080
-CHF
-/Monat
-Studio rénové
-Chemin du Devin 47C, 1012 Lausanne
-Array
-1 Zimmer
-Objekttyp
-Wohnung, Studio
-Zimmer
-1
-Elégant immeuble en copropriété avec jouissance de la piscine. A 10 minutes à pied de Chailly avec …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Rue de la Louve 2
 740
 CHF
@@ -494,7 +477,7 @@ Zimmer
 1
 Wohnfläche
 9 m2
-Quartier centré, proche de toutes les commodités. Métro à 2 pas. Comprenant : pièce principale, cui…
+Quartier centré, proche de toutes les commodités. Métro à 2 pas. Comprenant : pièce principale, cu…
 Teilen
 E-Mail
 Facebook
@@ -515,6 +498,26 @@ Zimmer
 Wohnfläche
 9 m2
 Quartier centré, proche de toutes les commodités. Métro à 2 pas. Comprenant : pièce principale, cui…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Chemin du Calvaire 17
+1'190
+CHF
+/Monat
+Près du CHUV studio charmant et rénové
+Chemin du Calvaire 17, 1005 Lausanne
+Array
+1 Zimmer
+28 m2
+Objekttyp
+Wohnung, Studio
+Zimmer
+1
+Wohnfläche
+28 m2
+Renseignements chez Mme Goldschmidttél. 021 340 66 66le matin de 8.15 h à 1230 hÜberzeugen Sie sich…
 Teilen
 E-Mail
 Facebook

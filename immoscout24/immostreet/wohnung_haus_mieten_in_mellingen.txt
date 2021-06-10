@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-mellingen/
 Title: Wohnung & Haus mieten in Mellingen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Mellingen - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Mellingen - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-31 Resultate gefunden ·
+34 Resultate gefunden ·
 Wohnung & Haus mieten in Mellingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,66 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Bruggerstrasse 14
+2'500
+CHF
+/Monat
+7.5 Zimmer-Hausteil im historischen Stä…
+Bruggerstrasse 14, 5507 Mellingen
+Array
+7.5 Zimmer
+200 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+7.5
+Wohnfläche
+200 m2
+Etage
+7.5 Zimmer-Hausteil im Zentrum des historischen Städtchen Mellingen
+Der Hausteil ist teilrenovi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zentralplatz 2
+1'420
+CHF
+/Monat
+Schöne 3-Zimmerwohnung an der Reuss
+Zentralplatz 2, 5507 Mellingen
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Die Wohnung liegt an der Reuss mit herrlicher Aussicht.
+Moderne Küche mit Granitabdeckung und vi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ulmenweg 1
+1'750
+CHF
+/Monat
+Das perfekte Zuhause für Sie!
+Ulmenweg 1, 5507 Mellingen
+Array
+3.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+83 m2
+Wir vermieten ab dem 01.09.2021 eine topmoderne 3½-Zimmer-Wohnung. Einige Highlights:- Kontrollier…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Farnstrasse 6
 2'550
 CHF
@@ -469,64 +529,6 @@ Zimmer
 2
 Helles möbliertes Studio an erhöhter Lage in Mellingen zu vermieten!
 + schöner sonniger Balkon m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zeughausstrasse 14
-995
-CHF
-/Monat
-Zentral gelegene Wohnung in Mellingen
-Zeughausstrasse 14, 5507 Mellingen
-Array
-1.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Etage
-An sonniger und ruhiger Lage an der Zeughausstr. 14 vermieten wir diese gemütliche 1.5-Zimmerwohnun…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Birnenweg 10
-2'215
-CHF
-/Monat
-Die perfekte Familienwohnung!
-Birnenweg 10, 5507 Mellingen
-Array
-4.5 Zimmer
-101 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-101 m2
-Wir vermieten ab 01.07.2021 oder nach Vereinbarung eine topmoderne 4½-Zimmer-Wohnung. Einige Highli…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ulmenweg 1
-1'810
-CHF
-/Monat
-Das perfekte Zuhause für Sie!
-Ulmenweg 1, 5507 Mellingen
-Array
-3.5 Zimmer
-82 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-82 m2
-Wir vermieten eine topmoderne 3½-Zimmer-Wohnung mit höchsten Minergie-Standards im Neugrüen in Mell…
 Teilen
 E-Mail
 Facebook

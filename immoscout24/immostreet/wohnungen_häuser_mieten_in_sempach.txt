@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-sempach/
 Title: Wohnungen & Häuser mieten in Sempach - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Sempach - Immostreet.ch: ImmoStreet.ch hat 13 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Sempach - Immostreet.ch: ImmoStreet.ch hat 16 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-13 Resultate gefunden ·
+16 Resultate gefunden ·
 Wohnungen & Häuser mieten in Sempach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,64 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Feld 14
+1'970
+CHF
+/Monat
+Familienwohnung nähe Sempachersee
+Feld 14, 6204 Sempach
+Array
+5.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+112 m2
+Ihre Lage-VorteileIm Feld, Sempach, geniessen Sie alle Vorzüge einer idealen Wohnlage. Die grüne un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gerbegass 6
+985
+CHF
+Vielseitig nutzbare Räumlichkeiten in a…
+Gerbegass 6, 6204 Sempach
+Array
+2 Zimmer
+Objekttyp
+Büro
+Zimmer
+2
+Etage
+Lage:
+Die Gerbegass in Sempach ist eine attraktive Seitengasse zur Stadtstrasse unweit vom See ent…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Felsenegg 1
+150
+CHF
+/Monat
+Lager-, Bastel- oder Homeofficeraum näh…
+Felsenegg 1, 6204 Sempach
+Array
+1 Zimmer
+10 m2
+Objekttyp
+Atelier
+Zimmer
+1
+Wohnfläche
+10 m2
+Im Mehrfamilienhaus Felsenegg 1 in Sempach vermieten wir per sofort oder nach Vereinbarung einenLag…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Schlachtstrasse 3
 2'760
 CHF

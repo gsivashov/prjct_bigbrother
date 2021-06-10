@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-pieterlen/
 Title: Wohnung & Haus mieten in Pieterlen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Pieterlen - Immostreet.ch: ImmoStreet.ch hat 22 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Pieterlen - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-22 Resultate gefunden ·
+24 Resultate gefunden ·
 Wohnung & Haus mieten in Pieterlen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,46 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Bahnhofstrasse 32
+1'220
+CHF
+/Monat
+3.5-Zimmer-Wohnung nahe Zentrum und Bah…
+Bahnhofstrasse 32, 2542 Pieterlen
+Array
+3.5 Zimmer
+68 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+68 m2
+Die Liegenschaft Bahnhofstrasse 32 befindet sich an zentraler Lage direkt hinter dem Bahnhof Pieter…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 28
+1'080
+CHF
+/Monat
+3.0-Zimmer-Wohnung nahe Zentrum und Bah…
+Bahnhofstrasse 28, 2542 Pieterlen
+Array
+3 Zimmer
+57 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+57 m2
+Die Liegenschaft Bahnhofstrasse 28 befindet sich an zentraler Lage direkt hinter dem Bahnhof Pieter…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Gräuschenweg
 500
 CHF
@@ -370,7 +410,7 @@ E-Mail
 Facebook
 Whatsapp
 Leimernweg 10 Leimernweg 10
-1'690
+1'595
 CHF
 /Monat
 5.5 Zimmerwohnung in Pieterlen
@@ -381,13 +421,13 @@ Objekttyp
 Wohnung, Flach
 Zimmer
 5.5
-Wir vermieten per 1. Mai 2021 oder nach Vereinbarung eine schöne und gemütliche 5.5 Zimmerwohnung i…
+Wir vermieten per sofort oder nach Vereinbarung eine schöne und gemütliche 5.5 Zimmerwohnung in Pie…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Bassbeltweg 3
-1'750
+1'650
 CHF
 /Monat
 appartement de 3.5 pièces 138m2 avec te…
@@ -476,43 +516,6 @@ Wohnung, Flach
 Zimmer
 3
 Wir vermieten per sofort oder nach Vereinbarung eine grosszügige 3-Zimmer-Wohnung im 2. Obergeschos…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Solothurnstrasse 22a
-1'630
-CHF
-/Monat
-Die schönsten Mietwohnungen am Jurasüdf…
-Solothurnstrasse 22a, 2542 Pieterlen
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-In der Bassbelt-Siedlung finden Sie Ihre persönliche Wohnperle. Die 3.5- Zimmer-Wohnung mit spannen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rebenweg 32
-1'200
-CHF
-/Monat
-Schöne Wohnung an sonniger und ruhiger …
-Rebenweg 32, 2542 Pieterlen
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wir vermieten per sofort oder nach Vereinbarung eine grosszügige 3-Zimmer-Wohnung im 1. Obergeschos…
 Teilen
 E-Mail
 Facebook

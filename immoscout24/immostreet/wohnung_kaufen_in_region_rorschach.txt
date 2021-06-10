@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-rorschach/
 Title: Wohnung kaufen in Region Rorschach - Immostreet.ch
-Description: Wohnung kaufen in Region Rorschach - Immostreet.ch: ImmoStreet.ch hat 30 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Region Rorschach - Immostreet.ch: ImmoStreet.ch hat 29 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-30 Resultate gefunden ·
+29 Resultate gefunden ·
 Wohnung kaufen in Region Rorschach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -368,21 +368,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Schulstrasse 5
-Preis auf Anfrage
-Edle 4 1/2-Zimmer Eigentumswohnung mit …
-Schulstrasse 5, 9402 Mörschwil
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Edle 4.5-Zimmer Gartenwohnung mit herrlicher SeesichtDiese grosszügige und qualitativ erstklassige …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Steinach
 785'000
 CHF
@@ -519,6 +504,27 @@ Zimmer
 3.5
 Wohnfläche
 101 m2
+Ein Projekt der Tilings Immobilien
+Bezugsbereit Frühling 2023
+Die neue Wohnüberbauung in Gold…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Rebberg 2
+525'000
+CHF
+Purelive - die pure Freude am Wohnen
+Am Rebberg 2, 9403 Goldach
+Array
+2.5 Zimmer
+71 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+71 m2
 Ein Projekt der Tilings Immobilien
 Bezugsbereit Frühling 2023
 Die neue Wohnüberbauung in Gold…

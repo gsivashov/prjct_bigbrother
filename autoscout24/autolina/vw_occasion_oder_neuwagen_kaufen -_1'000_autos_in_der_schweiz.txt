@@ -154,6 +154,159 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 VW
+Golf VI 2.0 TSI GTI Edition 35 DSG
+CHF 22'500
+ab CHF 242/Monat
+07.2011
+Automat
+67'300 km
+Benzin
+Vorderradantrieb
+rot
+235 PS
+VD
+Merken
+VW
+Golf VI 2.0 TSI GTI Edition 35 DS...
+07.2011
+235 PS
+67'300 km
+CHF 22'500
+Merken
+ab CHF 242/Monat
+NEU
+VW
+Typ 2
+CHF 34'900
+ab CHF 375/Monat
+05.1981
+Handschaltung
+201'744 km
+Benzin
+Hinterradantrieb
+violett
+70 PS
+FR
+Merken
+VW
+Typ 2
+05.1981
+70 PS
+201'744 km
+CHF 34'900
+Merken
+ab CHF 375/Monat
+NEU
+VW
+Golf Sportsvan 1.5 TSI EVO Highline DSG
+CHF 27'700
+ab CHF 327/Monat
+01.2021
+Automat
+10 km
+Benzin
+Vorderradantrieb
+silber
+150 PS
+ZH
+Merken
+VW
+Golf Sportsvan 1.5 TSI EVO Highli...
+01.2021
+150 PS
+10 km
+CHF 27'700
+Merken
+ab CHF 327/Monat
+NEU
+VW
+Up 1.0 MPI Black Style
+CHF 15'700
+ab CHF 185/Monat
+01.2021
+Handschaltung
+10 km
+Benzin
+Vorderradantrieb
+weiss
+60 PS
+ZH
+Merken
+VW
+Up 1.0 MPI Black Style
+01.2021
+60 PS
+10 km
+CHF 15'700
+Merken
+ab CHF 185/Monat
+NEU
+VW
+POLO 1.0 TSI Highline Black Style
+CHF 18'800
+ab CHF 222/Monat
+07.2020
+Handschaltung
+8'000 km
+Benzin
+Vorderradantrieb
+weiss
+95 PS
+ZH
+Merken
+VW
+POLO 1.0 TSI Highline Black Style
+07.2020
+95 PS
+8'000 km
+CHF 18'800
+Merken
+ab CHF 222/Monat
+NEU
+VW
+GOLF 8 1.5 eTSI Style NAV LED ACC RFK PDC SHZ
+CHF 29'400
+ab CHF 347/Monat
+01.2021
+Automat
+10 km
+Mild-Hybrid Benzin/Elektro
+Vorderradantrieb
+schwarz
+150 PS
+ZH
+Merken
+VW
+GOLF 8 1.5 eTSI Style NAV LED ACC...
+01.2021
+150 PS
+10 km
+CHF 29'400
+Merken
+ab CHF 347/Monat
+NEU
+VW
+T-ROC 2.0 TSI R 4Motion AHK NAV 301HP
+CHF 40'700
+ab CHF 480/Monat
+07.2020
+Automat
+13'000 km
+Benzin
+Allradantrieb
+schwarz
+301 PS
+ZH
+Merken
+VW
+T-ROC 2.0 TSI R 4Motion AHK NAV 3...
+07.2020
+301 PS
+13'000 km
+CHF 40'700
+Merken
+ab CHF 480/Monat
+VW
 Buggy Albar
 CHF 18'900
 ab CHF 203/Monat
@@ -299,27 +452,6 @@ CHF 13'000
 Merken
 ab CHF 140/Monat
 VW
-GOLF 1.5 eTSI R-Line PANO NAV 18Z DAB LED PDC ACC
-CHF 34'700
-ab CHF 409/Monat
--
-Automat
-10 km
-Mild-Hybrid Benzin/Elektro
-Vorderradantrieb
-grau
-150 PS
-ZH
-Merken
-VW
-GOLF 1.5 eTSI R-Line PANO NAV 18Z...
--
-150 PS
-10 km
-CHF 34'700
-Merken
-ab CHF 409/Monat
-VW
 T-Cross 1.0 TSI 115 Life DSG
 CHF 28'500
 ab CHF 307/Monat
@@ -340,132 +472,6 @@ T-Cross 1.0 TSI 115 Life DSG
 CHF 28'500
 Merken
 ab CHF 307/Monat
-VW
-Amarok 2.0 TDI Highline 4Motion
-CHF 23'000
-ab CHF 247/Monat
-06.2012
-Handschaltung
-54'000 km
-Diesel
-Allradantrieb
-schwarz
-122 PS
-ZH
-Merken
-VW
-Amarok 2.0 TDI Highline 4Motion
-06.2012
-122 PS
-54'000 km
-CHF 23'000
-Merken
-ab CHF 247/Monat
-VW
-Tiguan 2.0 TDI SCR Sound 4Motion DSG
-CHF 30'690
-ab CHF 330/Monat
-10.2017
-Automat
-40'000 km
-Diesel
-Allradantrieb
-schwarz
-190 PS
-SH
-Merken
-VW
-Tiguan 2.0 TDI SCR Sound 4Motion ...
-10.2017
-190 PS
-40'000 km
-CHF 30'690
-Merken
-ab CHF 330/Monat
-VW
-Golf VII 2.0 TSI R 310 DSG 4motion
-CHF 33'780
-ab CHF 363/Monat
-04.2017
-Automat
-53'000 km
-Benzin
-Allradantrieb
-blau
-310 PS
-VD
-Merken
-VW
-Golf VII 2.0 TSI R 310 DSG 4motio...
-04.2017
-310 PS
-53'000 km
-CHF 33'780
-Merken
-ab CHF 363/Monat
-VW
-Scirocco 2.0 TSI
-CHF 14'890
-ab CHF 160/Monat
-01.2011
-Handschaltung
-42'200 km
-Benzin
-Vorderradantrieb
-silber
-200 PS
-SH
-Merken
-VW
-Scirocco 2.0 TSI
-01.2011
-200 PS
-42'200 km
-CHF 14'890
-Merken
-ab CHF 160/Monat
-VW
-Polo 1.0 MPI 60 BlueMT Value
-CHF 8'900
-ab CHF 101/Monat
-12.2016
-Handschaltung
-49'300 km
-Benzin
-Vorderradantrieb
-schwarz
-60 PS
-ZH
-Merken
-VW
-Polo 1.0 MPI 60 BlueMT Value
-12.2016
-60 PS
-49'300 km
-CHF 8'900
-Merken
-ab CHF 101/Monat
-VW
-Touareg 3.0 V6 TDI 225 DPF
-CHF 8'000
-ab CHF 91/Monat
-06.2005
-Automat
-172'000 km
-Diesel
-Allradantrieb
-silber
-224 PS
-VD
-Merken
-VW
-Touareg 3.0 V6 TDI 225 DPF
-06.2005
-224 PS
-172'000 km
-CHF 8'000
-Merken
-ab CHF 91/Monat
 1
 1
 2

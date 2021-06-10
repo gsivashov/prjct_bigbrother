@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-freienbach/
 Title: Wohnungen & Häuser mieten in Freienbach - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Freienbach - Immostreet.ch: ImmoStreet.ch hat 33 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Freienbach - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-33 Resultate gefunden ·
+31 Resultate gefunden ·
 Wohnungen & Häuser mieten in Freienbach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -170,26 +170,6 @@ Array
 Objekttyp
 Tiefgarage
 Per 01.07.2021 oder nach Vereinbarung vermieten wir einen Einstellplatz an der Wolleraustrasse 41 i…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Langackerweg 15 B
-1'485
-CHF
-/Monat
-Attraktive Dachwohnung im Grünen (30 Mi…
-Langackerweg 15 B, 8807 Freienbach
-Array
-2.5 Zimmer
-41 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-41 m2
-Sehr ruhig gelegene, nach Süden exponierte 2.5-Zimmer-Dachwohnung mit herrlichem Ausblick auf Wiese…
 Teilen
 E-Mail
 Facebook
@@ -320,23 +300,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bodmerweg 82
-120
-CHF
-/Monat
-Bastelraum im UG
-Bodmerweg 82, 8807 Freienbach
-Array
-7 m2
-Objekttyp
-Atelier
-Wohnfläche
-7 m2
-Per sofort vermieten wir einen Bastelraum im UG (ca. 7.5m2) eines Mehramilienhauses.Falls Sie Inter…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Abstellplätze Wolleraustr. 41
 80
 CHF
@@ -351,12 +314,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Luziaweg 2
-1'440
-CHF
-/Monat
-Stillvolle Wohnung in Seenähe
-Luziaweg 2, 8807 Freienbach
+RESERVIERT // Luziaweg 2
+Preis auf Anfrage
+RESERVIERT // Stillvolle Wohnung in See…
+RESERVIERT // Luziaweg 2, 8807 Freienbach
 Array
 3 Zimmer
 Objekttyp
@@ -447,6 +408,38 @@ Büro
 Wohnfläche
 95 m2
 3D Rundgang: https://my.matterport.com/show/?m=yTnYiU24xqNPer sofort sind diese Gewerbe- und Bürorä…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kantonsstrasse 10
+2'350
+CHF
+/Monat
+Gemütliche 4.5-Zimmerwohnung mit tollem…
+Kantonsstrasse 10, 8807 Freienbach
+Array
+4.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+90 m2
+Diese helle, gutbürgerliche 4.5 Zimmerwohnung ist ab sofort bezugsbereit und überzeugt mit ihrem at…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wolleraustrasse 15J
+Preis auf Anfrage
+Teilfläche in modernem Hallenbau mit La…
+Wolleraustrasse 15J, 8807 Freienbach
+Array
+Objekttyp
+Verkauf, Gewerbe
+Wir vermieten per sofort oder nach Vereinbarung eine Teilfläche in einem modernen Hallenbau inkl. B…
 Teilen
 E-Mail
 Facebook

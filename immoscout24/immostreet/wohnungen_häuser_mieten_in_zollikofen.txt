@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-zollikofen/
 Title: Wohnungen & Häuser mieten in Zollikofen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Zollikofen - Immostreet.ch: ImmoStreet.ch hat 53 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Zollikofen - Immostreet.ch: ImmoStreet.ch hat 50 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-53 Resultate gefunden ·
+50 Resultate gefunden ·
 Wohnungen & Häuser mieten in Zollikofen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,46 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Zollikofen
+999
+CHF
+/Monat
+Zwischenmiete Auszeit Juli 2021
+Zollikofen, 3052 Zollikofen
+Array
+6 Zimmer
+150 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6
+Wohnfläche
+150 m2
+BITTE GESAMTES INSERAT LESEN! KEINE DAUERMIETESommerauszeit? Zwischenlösung? Ferienalternative? Hom…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'813
+CHF
+/Monat
+4½ ZI-WOHNUNG IN BERN - ZOLLIKOFEN, MÖB…
+Adresse auf Anfrage, 3052 Zollikofen
+Array
+4.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+4.5
+Wohnfläche
+150 m2
+MIETDAUER ab 12. Juli 2021 bis 30. Juni 2022 (mind. 2 Monate, nach Absprache)AllgemeinSehr geräumig…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bim Hasel 20
 230
 CHF
@@ -172,26 +212,6 @@ Zimmer
 Wohnfläche
 60 m2
 Die Liegenschaft befindet sich an ruhiger und dennoch zentraler Lage in Zollikofen. Eine Busstation…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchlindachstrasse 2
-1'400
-CHF
-/Monat
-Wohnung mit Charme
-Kirchlindachstrasse 2, 3052 Zollikofen
-Array
-3.5 Zimmer
-78 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-78 m2
-Per 1. Juni 2021 oder nach Vereinbarung vermieten wir diese helle und schöne Wohnung mit folgenden …
 Teilen
 E-Mail
 Facebook
@@ -321,26 +341,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Höhenweg 5
-1'530
-CHF
-/Monat
-Urbaner Lifestyle mitten in einem Park …
-Höhenweg 5, 3052 Zollikofen
-Array
-2.5 Zimmer
-53 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-53 m2
-Moderne und helle Wohnung auf der Schäferhöhe Wir vermieten per 1. August 2021 eine moderne 2.5-Zim…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Häberlimatteweg 53
 1'527
 CHF
@@ -357,57 +357,6 @@ Zimmer
 Wohnfläche
 69 m2
 Für meine 2.5-Zimmerwohnung im Parterre am Häberlimatteweg 53 in 3052 Zollikofen suche ich per 1. A…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blumenstrasse 16
-1'400
-CHF
-/Monat
-Nachmieter für helle 3 Zi.- Whg per sof…
-Blumenstrasse 16, 3052 Zollikofen
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Für meine ruhige, helle 3 -Zimmerwohnung mit Balkon in Zollikofen suche ich per sofort oder nach Ve…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alpenstrasse 121
-1'900
-CHF
-/Monat
-Ein Wohntraum für Familien!
-Alpenstrasse 121, 3052 Zollikofen
-Array
-4.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-105 m2
-Per 1. August 2021 oder nach Vereinbarung vermieten wir diese helle, moderne und zentrale Wohnung m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Aarestrasse 4
-50
-CHF
-/Monat
-Parkplatz Nr. 7
-Aarestrasse 4, 3052 Zollikofen
-Array
-Objekttyp
-Offener Parkplatz
-Sonnige ruhige Lage mit Blick ins Grüne - kinderfreundlich - Nähe Einkaufsmöglichkeiten, öV, Aare u…
 Teilen
 E-Mail
 Facebook
@@ -482,6 +431,61 @@ Zimmer
 Wohnfläche
 73 m2
 MIETDAUER ab sofort bis 30. April 2022 (mind. 1 Monat)AllgemeinBei einer Mietdauer ab 3 Monaten ist…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bernstrasse 39
+1'300
+CHF
+/Monat
+attraktive Wohnung in Stadtnähe!
+Bernstrasse 39, 3052 Zollikofen
+Array
+2 Zimmer
+48 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+48 m2
+Etage
+In Stadtnähe vermieten wir ab sofort diese attraktive 2-Zimmer-Wohnung im Hochparterre mit folgende…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aegelseeweg 1A
+790
+CHF
+/Monat
+WG Zimmer in Doppeleinfamilienhaus zu v…
+Aegelseeweg 1A, 3052 Zollikofen
+Array
+18 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+18 m2
+Das Einfamilienhaus steht direkt am Waldrand. Bus/Zug in 5 Min. Fussweg erreichbar. Nach Bern ca. …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hübeliweg 9
+1'350
+CHF
+/Monat
+Sanierte Wohnung in Zollikofen
+Hübeliweg 9, 3052 Zollikofen
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wir vermieten am Hübeliweg 9 in Zollikofen eine 3 Zimmerwohnung im 3. OG links (=Dachgeschoss).Die …
 Teilen
 E-Mail
 Facebook

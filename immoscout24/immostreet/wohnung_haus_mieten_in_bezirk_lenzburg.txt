@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/bezirk-lenzburg/
 Title: Wohnung & Haus mieten in Bezirk Lenzburg - Immostreet.ch
-Description: Wohnung & Haus mieten in Bezirk Lenzburg - Immostreet.ch: ImmoStreet.ch hat 255 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Bezirk Lenzburg - Immostreet.ch: ImmoStreet.ch hat 250 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-255 Resultate gefunden ·
+250 Resultate gefunden ·
 Wohnung & Haus mieten in Bezirk Lenzburg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,42 +152,82 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Steinmattweg 416
-1'620
+Milchgasse 13
+1'550
 CHF
 /Monat
-3.5 Zimmer-Wohnung in ländlicher Umgebu…
-Steinmattweg 416, 5705 Hallwil
+4.5 Zimmer Wohnung zu vermieten per 1. …
+Milchgasse 13, 5503 Schafisheim
+Array
+4.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+80 m2
+Es ist eine gemütliche 4.5 Zimmer Wohnung am ende des Dorfes in Schafisheim. Der Wald ist in 3 Minu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Färberweg 1
+1'350
+CHF
+/Monat
+3.5 Zimmer Wohnung zentral in Lenzburg
+Färberweg 1, 5600 Lenzburg
 Array
 3.5 Zimmer
-86 m2
+64 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-86 m2
-Nach Vereinbarung vermieten wir diese moderne, lichtdurchflutete 3,5- Zimmer-Wohnung: Die Wohnung v…
+64 m2
+Die Wohnung ist in einem ruhigen Quartier gelegen, mit sehr kurzem Weg zum Bahnhof und Einkaufsmögl…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Gustav Zeiler-Ring 24-34
-1'540
+Reussgasse 22A
+2'070
 CHF
 /Monat
-Wohnen im nachhaltigen Stadtquartier "I…
-Gustav Zeiler-Ring 24-34, 5600 Lenzburg
+Moderne 4.5-Zimmerwohnung im Parterre a…
+Reussgasse 22A, 5703 Seon
+Array
+4.5 Zimmer
+102 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+102 m2
+Per 01. Oktober 2021 oder nach Vereinbarung vermieten wir diese grosszügige 4.5-Zimmerwohnung im Pa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zentrum, Mühlestrasse 6
+1'440
+CHF
+/Monat
+WOHNTRAUM
+Zentrum, Mühlestrasse 6, 5702 Niederlenz
 Array
 2.5 Zimmer
-66 m2
+65 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-66 m2
-Ab 1. September 2021 oder nach Vereinbarung vermieten wir diese grosszügige 2.5-Zimmerwohnung im 20…
+65 m2
+Per 1. Oktober 2021 oder nach Vereinbarung vermieten wir diese im Jahre 2016 sanierte 2.5-Zimmer-Wo…
 Teilen
 E-Mail
 Facebook
@@ -212,6 +252,23 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+Sarmenstorferstrasse 22
+950
+CHF
+/Monat
+Das richtige Budget!
+Sarmenstorferstrasse 22, 5615 Fahrwangen
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Diese geräumige 3-Zimmerwohnung ist per sofort oder nach Vereinbarung bezugsbereit. Die Wohnung lie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Mühlackerstrasse 1+3
 1'340
 CHF
@@ -232,80 +289,123 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Sarmenstorferstrasse 22
-950
+Gustav Zeiler-Ring 24-34
+1'595
 CHF
 /Monat
-Das richtige Budget!
-Sarmenstorferstrasse 22, 5615 Fahrwangen
+Moderne 2.5 Zimmerwohnung direkt am Bah…
+Gustav Zeiler-Ring 24-34, 5600 Lenzburg
 Array
-3 Zimmer
+2.5 Zimmer
+76 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
-Diese geräumige 3-Zimmerwohnung ist per sofort oder nach Vereinbarung bezugsbereit. Die Wohnung lie…
+2.5
+Wohnfläche
+76 m2
+Per 1. August 2021 oder nach Vereinbarung vermieten wir diese grosszügige 2.5-Zimmerwohnung im 2000…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Ammerswilerstrasse 33c
-2'150
+Poststrasse 1
+1'670
 CHF
 /Monat
-Wohnen am Fusse des Schlossberges
-Ammerswilerstrasse 33c, 5600 Lenzburg
+*1 Gratismonat* helle und moderne Wohnu…
+Poststrasse 1, 5707 Seengen
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+100 m2
+*1 Gratismonat (netto)*Per sofort oder nach Vereinbarung vermieten wir diese helle und moderne 3.5-…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lochackerweg 3+5
+1'680
+CHF
+/Monat
+schöne, helle 4.5-Zimmerwohnung im 1.OG
+Lochackerweg 3+5, 5702 Niederlenz
 Array
 4.5 Zimmer
-107 m2
+102 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-107 m2
-Sind Sie auf der Suche nach einer modernen, gut gelegenen Wohnung in Lenzburg?Wir vermieten per 1. …
+102 m2
+Wir vermieten per 01.07.21 oder nach Vereinbarung eine schöne, nahe am Waldrand liegende 4.5-Zimmer…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Grabenweg 14c
-2'160
+Oberdorfstrasse 3
+1'380
 CHF
 /Monat
-FAMILIENPARADIES | ERHOLUNG | PLUS-ENER…
-Grabenweg 14c, 5103 Möriken AG
+Wunderschöne helle und grosszügige Wohn…
+Oberdorfstrasse 3, 5703 Seon
 Array
-4.5 Zimmer
-114 m2
+3.5 Zimmer
+93 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+3.5
 Wohnfläche
-114 m2
-360 Grad TourBei der angezeigten Tour handelt es sich um ein Beispiel einer 4.5 Zimmerwohnung im Ha…
+93 m2
+Ab sofort oder nach Vereinbarung vermieten wir diese moderne 3.5-Zimmerwohnung im Dorfzentrum Seon…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Rötlerweg 2
-2'850
+Schweizistrasse 5
+1'690
 CHF
 /Monat
-HOCHWERTIGER NEUBAU MIT GARTEN
-Rötlerweg 2, 5704 Egliswil
+3.5 Zimmer- Duplexwohnung die Sie schon…
+Schweizistrasse 5, 5102 Rupperswil
 Array
-5.5 Zimmer
-159 m2
+3.5 Zimmer
+92 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-5.5
+3.5
 Wohnfläche
-159 m2
+92 m2
 Etage
-Diese hochwertige, lichtdurchflutete Duplexwohnung wird Ihre perfekte Ruheoase. Zwischen Lenzburg u…
+Eine wunderschöne, charmante 3.5- Zimmer- Duplexwohnung im 2. und 3. Obergeschoss, die Ihren Erwart…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Bach 7
+1'610
+CHF
+/Monat
+3.5 Zimmer-Wohnung, hell + modern in lä…
+Am Bach 7, 5604 Hendschiken
+Array
+3.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+86 m2
+Per  1. Oktober 2021 vermieten wir diese helle 3,5- Zimmer-Wohnungen im 1.OG: - Komplette Wohnung s…
 Teilen
 E-Mail
 Facebook
@@ -328,113 +428,54 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Milchgasse 11
-710
+Weiherweg 6A
+1'685
 CHF
 /Monat
-Hübsche Wohnung in grüner Umgebung
-Milchgasse 11, 5503 Schafisheim
+Modernität im idyllischen Weiherpark
+Weiherweg 6A, 5502 Hunzenschwil
 Array
-1 Zimmer
-31 m2
+2.5 Zimmer
+62 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
-1
+2.5
 Wohnfläche
-31 m2
-Diese 1-Zimmerwohnung befindet sich im 2. Obergeschoss in einer gepflegten Umgebung. Nebst dem Dorf…
+62 m2
+Die topmoderne Attikawohnung besticht durch ihren modernen Innenausbau und die praktische Raumaufte…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Färberweg 1
-1'350
+Bahnhofmatten 4
+1'990
 CHF
 /Monat
-Nachmieter gesucht für zentrale 3.5 Zim…
-Färberweg 1, 5600 Lenzburg
+Familienfreundliche Maisonettewohnung
+Bahnhofmatten 4, 5502 Hunzenschwil
 Array
-3.5 Zimmer
-65 m2
+5.5 Zimmer
+100 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Duplex, Maisonette
 Zimmer
-3.5
+5.5
 Wohnfläche
-65 m2
+100 m2
 Etage
-Die Wohnung ist in einem ruhigen Quartier gelegen, mit sehr kurzem Weg zum Bahnhof und Einkaufsmögl…
+Wir vermieten per 01.09.2021 diese 5.5-Zimmerwohnung mit folgenden Vorzügen:
+- Küche mit Granita…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-2'670
+Mitteldorf 4
+1'600
 CHF
 /Monat
-NICHT MEHR VERFÜGBAR!
-Adresse auf Anfrage, 5102 Rupperswil
-Array
-4.5 Zimmer
-140 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-140 m2
-Das charmante und sehr gepflegte Einfamilienhaus lädt ein, viele schöne Stunden drinnen sowie im sc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'580
-CHF
-/Monat
-FAMILIENWOHNUNG AN RUHIGER LAGE
-Adresse auf Anfrage, 5703 Seon
-Array
-4.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-85 m2
-Ab sofort oder nach Vereinbarung ist diese lichtdurchflutete und frisch renovierte 4.5 Zimmer Wohnu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'580
-CHF
-/Monat
-FAMILIENWOHNUNG AN RUHIGER LAGE!
-Adresse auf Anfrage, 5703 Seon
-Array
-4.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-85 m2
-Ab sofort oder nach Vereinbarung ist diese lichtdurchflutete und frisch renovierte 4.5 Zimmer Wohnu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zopfgasse 12
-1'900
-CHF
-/Monat
-4 1/2 Dach-Wohnung
-Zopfgasse 12, 5504 Othmarsingen
+HELLE UND ZENTRALE WOHNUNG
+Mitteldorf 4, 5102 Rupperswil
 Array
 4.5 Zimmer
 110 m2
@@ -445,108 +486,67 @@ Zimmer
 Wohnfläche
 110 m2
 Etage
-Gemütliche 4 1/2 Dach-Wohnung in einem umgebauten Bauernhaus an ruhiger Lage. In der Wohnung integr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chrüzweg 26 (Haus A1 rechts)
-1'515
-CHF
-/Monat
-Hier finden Sie Ihr Wohnglück
-Chrüzweg 26 (Haus A1 rechts), 5603 Staufen
-Array
-2.5 Zimmer
-68 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-68 m2
-Per 01.07.2021 vermieten wir diese schöne und top moderne 2.5-Zimmerwohnung im 2. Stock.Die Wohnung…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hornimattstrasse 8
-1'495
-CHF
-/Monat
-Zentral Wohnen!
-Hornimattstrasse 8, 5103 Wildegg
-Array
-2.5 Zimmer
-63 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-63 m2
-Wir bieten Ihnen eine Wohnoase im Herzen von Wildegg!Der hochwertige Innenausbau mit schönen Eichen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Othmarsingerstrasse 22
-1'271
-CHF
-/Monat
-3.5 Zimmer Wohnung mit Balkon und Aussi…
-Othmarsingerstrasse 22, 5600 Lenzburg
-Array
-3.5 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-60 m2
-Sehr geräumige 3.5 Zimmer Wohnung direkt unterhalb des Schloss Lenzburg.Auf dem grossen Balkon läss…
+Die Wohnung besticht durch ihren Charme, ihre hellen Räumlichkeiten und ihrem grosszügigen Balkon.D…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'360
+1'500
 CHF
 /Monat
-Nachmieter gesucht per 1.8.2021
-Adresse auf Anfrage, 5702 Niederlenz
+Nachmieter für 4 Zimmerdachwohnung
+Adresse auf Anfrage, 5600 Lenzburg
 Array
-3.5 Zimmer
-79 m2
+4 Zimmer
+74 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+4
 Wohnfläche
-79 m2
-Nachmieter gesucht für 3.5 Zimmer Dachwohnung in Niederlenz per 1.8.2021Miete 1180.- plus 180.-Nebe…
+74 m2
+Ab Juli wird diese schöne 4 Zimmerdachwohnung frei, grosse Terasse ( 40qm ). Mit einem grossen Bade…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Falkenweg 4
-2'500
+Lenzburgerstrasse 46
+2'090
 CHF
 /Monat
-Gemütliches Haus im Grünen
-Falkenweg 4, 5504 Othmarsingen
+Träumen Sie von einer Haushälfte mit gr…
+Lenzburgerstrasse 46, 5504 Othmarsingen
 Array
 4.5 Zimmer
-130 m2
+100 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-130 m2
-Etage
-Von privat zu vermieten, ein modernes und grosses Haus mit Umschwung.Es erwarten Sie ein grosses Wo…
+100 m2
+Zur Wohnung im Obergeschoss eines Zweifamilienhauses: saniert im 2021 (Erstvermietung)das 2-Familie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bünzweg 11
+1'410
+CHF
+/Monat
+4.5 Zimmer Dachwohnung mitten im Dorfke…
+Bünzweg 11, 5504 Othmarsingen
+Array
+4.5 Zimmer
+93 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+93 m2
+Die helle Dachwohnung befindet sich im 2. Obergeschoss eines Mehrfamilienhauses mit insgesamt 3 Par…
 Teilen
 E-Mail
 Facebook

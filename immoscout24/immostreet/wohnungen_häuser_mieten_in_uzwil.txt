@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-uzwil/
 Title: Wohnungen & Häuser mieten in Uzwil - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Uzwil - Immostreet.ch: ImmoStreet.ch hat 43 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Uzwil - Immostreet.ch: ImmoStreet.ch hat 42 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-43 Resultate gefunden ·
+42 Resultate gefunden ·
 Wohnungen & Häuser mieten in Uzwil
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,18 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+EKZ Mühlehof, Bahnhofstr. 82
+Preis auf Anfrage
+Moderne Ladenfläche an vorderster Front
+EKZ Mühlehof, Bahnhofstr. 82, 9240 Uzwil
+Array
+Objekttyp
+Verkauf, Geschäft
+Das moderne Einkaufszentrum "Mühlehof" liegt an sehr zentraler Lage in Bahnhofsnähe und wird durch …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Waldhofstrasse 18A
 1'560
 CHF
@@ -488,24 +500,6 @@ Zimmer
 Wohnfläche
 80 m2
 Diese frisch renovierte 3.5-Zimmer-Wohnung liegt an zentraler Lage in Uzwil. Hier erwartet Sie ein …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrassse 97
-1'450
-CHF
-/Monat
-Herrliche und grosse 4- Zimmerwohnung m…
-Bahnhofstrassse 97, 9240 Uzwil
-Array
-4 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wir vermieten per sofort ein wunderschöne, moderne und grosszügige 4 Zimmerwohnung
-BESONDERHEITE…
 Teilen
 E-Mail
 Facebook

@@ -122,6 +122,63 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Hölzli 2787
+1'250
+CHF
+/Monat
+Wohnung im Grünen
+Hölzli 2787, 9100 Herisau
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wir suchen per sofort einen Mieter/in .Die Wohnung liegt in der zweiten Etage eines Dreifamilienhau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Untere Fabrik 18
+700
+CHF
+/Monat
+Hübsche helle 2,5 Zimmer Wohng in famil…
+Untere Fabrik 18, 9100 Herisau
+Array
+2.5 Zimmer
+55 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+55 m2
+Hübsche helle 2,5Zi-Whg in rhg. Fam.QuartierDie Wohnung ist in einem charmanten älteren Haus, direk…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Birkenstrasse, 11
+1'520
+CHF
+/Monat
+GEMÜTLICH & ZENTRAL
+Birkenstrasse, 11, 9100 Herisau
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Mitten im Zentrum von Herisau befindet sich das moderne Haus mit spezieller Architektur.   Die schö…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bachstrasse 23
 780
 CHF
@@ -451,64 +508,6 @@ Zimmer
 Wohnfläche
 93 m2
 Wir vermieten per 1. Juli 2021 oder nach Vereinbarung diese schöne 4- Zimmerwohnung in Herisau.Die …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bergstrasse 8c
-1'410
-CHF
-/Monat
-Gemütliche 4-Zimmer-Wohnung in Herisau
-Bergstrasse 8c, 9100 Herisau
-Array
-4 Zimmer
-93 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-93 m2
-Wir vermieten per 1. Juni 2021 oder nach Vereinbarung diese heimelige4- Zimmerwohnung mit schöner W…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Burghalden 1
-1'850
-CHF
-/Monat
-Weisse, zeitlose Gestaltung
-Burghalden 1, 9100 Herisau
-Array
-3.5 Zimmer
-101 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-101 m2
-Etage
-Die attraktive 3.5 Zimmer-Wohnung besticht durch ihren durchdachten Wohnungsgrundriss und überzeugt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'250
-CHF
-/Monat
-IHR NEUES BÜRO MIT WOHNMÖGLICHKEITEN
-Adresse auf Anfrage, 9100 Herisau
-Array
-5 Zimmer
-Objekttyp
-Büro
-Zimmer
-5
-Sie suchen neue Büroräumlichkeiten, eine Kanzlei oder einen Praxisraum? Dann ist dieses besondere S…
 Teilen
 E-Mail
 Facebook

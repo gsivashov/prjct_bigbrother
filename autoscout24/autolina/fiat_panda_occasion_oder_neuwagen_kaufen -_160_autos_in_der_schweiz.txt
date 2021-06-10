@@ -198,6 +198,49 @@ Merken
 ab CHF 93/Monat
 NEU
 FIAT
+Panda 0.9 T TwinAir Cross 4x4 S/S
+CHF 22'300
+ab CHF 240/Monat
+-
+Handschaltung
+50 km
+Benzin
+Allradantrieb
+blau
+85 PS
+ZG
+Merken
+FIAT
+Panda 0.9 T TwinAir Cross 4x4 S/S
+-
+85 PS
+50 km
+CHF 22'300
+Merken
+ab CHF 240/Monat
+NEU
+FIAT
+Panda 1.0 MHEV City Cross
+CHF 15'900
+ab CHF 171/Monat
+12.2020
+Handschaltung
+5 km
+Mild-Hybrid Benzin/Elektro
+Vorderradantrieb
+weiss
+70 PS
+SH
+Merken
+FIAT
+Panda 1.0 MHEV City Cross
+12.2020
+70 PS
+5 km
+CHF 15'900
+Merken
+ab CHF 171/Monat
+FIAT
 Panda 1.2 Dynamic
 CHF 2'500
 05.2009
@@ -216,7 +259,6 @@ Panda 1.2 Dynamic
 161'350 km
 CHF 2'500
 Merken
-NEU
 FIAT
 Panda 0.9 Twinair Turbo Climbing 4x4
 CHF 10'499
@@ -410,8 +452,8 @@ Garantieversprechen
 Faires Eintauschangebot
 FIAT
 Panda 0.9 Twinair Turbo Trussardi 4x4
-CHF 16'900
-ab CHF 182/Monat
+CHF 15'900
+ab CHF 171/Monat
 01.2020
 Handschaltung
 15'250 km
@@ -426,49 +468,9 @@ Panda 0.9 Twinair Turbo Trussardi...
 01.2020
 85 PS
 15'250 km
-CHF 16'900
+CHF 15'900
 Merken
-ab CHF 182/Monat
-FIAT
-Panda 0.9 Twinair Turbo Easy MTA
-CHF 7'900
-06.2013
-Automat
-62'000 km
-Benzin
-Vorderradantrieb
-weiss
-85 PS
-AG
-Merken
-FIAT
-Panda 0.9 Twinair Turbo Easy MTA
-06.2013
-85 PS
-62'000 km
-CHF 7'900
-Merken
-FIAT
-Panda 1.0 Hybrid Cool
-CHF 13'030
-ab CHF 140/Monat
--
-Handschaltung
-0 km
-Mild-Hybrid Benzin/Elektro
-Vorderradantrieb
-rot
-70 PS
-ZH
-Merken
-FIAT
-Panda 1.0 Hybrid Cool
--
-70 PS
-0 km
-CHF 13'030
-Merken
-ab CHF 140/Monat
+ab CHF 171/Monat
 1
 1
 2

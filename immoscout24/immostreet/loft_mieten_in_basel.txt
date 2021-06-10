@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-loft/in-basel/
 Title: Loft mieten in Basel - Immostreet.ch
-Description: Loft mieten in  Basel - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Loft mieten in  Basel - Immostreet.ch: ImmoStreet.ch hat 10 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-7 Resultate gefunden ·
+10 Resultate gefunden ·
 Loft mieten in Basel
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,66 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Rebgasse 20
+5'410
+CHF
+/Monat
+Erstvermietung - Luxuriöse Loftwohnung …
+Rebgasse 20, 4058 Basel
+Array
+2.5 Zimmer
+195 m2
+Objekttyp
+Wohnung, Loft
+Zimmer
+2.5
+Wohnfläche
+195 m2
+Im trendigen und pulsierenden Kleinbasel über dem Räbgass-Center vermieten wir eine lichtdurchflute…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rebgasse 20
+4'210
+CHF
+/Monat
+Erstvermietung - Topmoderne Loftwohnung…
+Rebgasse 20, 4058 Basel
+Array
+1.5 Zimmer
+148 m2
+Objekttyp
+Wohnung, Loft
+Zimmer
+1.5
+Wohnfläche
+148 m2
+Im trendigen und pulsierenden Kleinbasel über dem Räbgass-Center vermieten wir eine lichtdurchflute…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rebgasse 20
+3'560
+CHF
+/Monat
+Erstvermietung - Urbane Loftwohnung im …
+Rebgasse 20, 4058 Basel
+Array
+1.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Loft
+Zimmer
+1.5
+Wohnfläche
+125 m2
+Im trendigen und pulsierenden Kleinbasel über dem Räbgass-Center vermieten wir eine lichtdurchflute…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Tangentenweg 32
 1'770
 CHF

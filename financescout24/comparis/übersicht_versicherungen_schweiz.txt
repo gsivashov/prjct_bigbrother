@@ -153,6 +153,107 @@ Hausrat und Privathaftpflicht
 Rechtsschutz
 Lebensversicherung
 Tierversicherung
+A
+Agrisano
+Allianz Suisse
+AMB
+Animalia
+Aquilana
+Assura
+Atupri
+AutoMate
+Avenir
+AXA
+AXA-ARAG
+B
+baloisedirect.ch
+Basler
+Basler Versicherung
+C
+CAP
+Cassa da malsauns Lumneziana
+CM Vallée d'Entremont
+Compact
+Concordia
+Coop Rechtsschutz
+CSS
+CSS - Arcosana
+CSS - Intras
+D
+Dextra
+Die Mobiliar
+E
+Easy Sana
+EGK-Gesundheitskasse
+Einsiedler Krankenkasse
+ELVIA
+Epona
+Europäische
+F
+Fortuna-Generali
+G
+Galenos
+Generali
+Glarner Krankenversicherung
+Groupe Mutuel
+H
+Helsana
+Helvetia
+J
+JUSTIS
+K
+Klug
+KPT
+Krankenkasse Birchmeier
+Krankenkasse Ingenbohl
+Krankenkasse Luzerner Hinterland
+Krankenkasse Simplon
+Krankenkasse Steffisburg
+Krankenkasse Stoffel
+Krankenkasse Turbenthal
+Krankenkasse Visperterminen
+Krankenkasse Wädenswil
+K-Tipp
+KVF
+M
+Mutuel Assurance
+Ö
+ÖKK
+P
+Philos
+Post Finance
+Progrès
+Protekta
+Provita
+R
+Rhenusana
+S
+Sana24
+Sanagate
+Sanavals
+Sanitas
+Simpego
+Slkk
+smile.direct
+Sodalis
+Sumiswalder Krankenkasse
+Supra
+Swica
+Sympany - Kolping
+Sympany - Moove
+Sympany - Vivao
+T
+TCS
+Touring Club Schweiz (TCS)
+V
+Vaudoise
+VCS
+Visana
+Vita Surselva
+Vivacare
+Z
+Zurich
+Zurich Connect
 comparis.ch
 Über Comparis
 Medien

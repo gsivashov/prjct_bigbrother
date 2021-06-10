@@ -23,7 +23,7 @@ Sie erhalten den bestellten Artikel oder bekommen Ihr Geld zurück.
 Mehr erfahren - eBay-Käuferschutz - wird in neuem Fenster oder Tab geöffnet
 Angaben zum Verkäufer
 rezone-de
-(15066
+(15089
 )
 99,9% Positive Bewertungen
 Diesen Verkäufer speichern
@@ -39,7 +39,7 @@ Gut
 Preis:
 EUR 7,14
 (inkl. MwSt.)
-Ca. CHF 7,81(einschließlich Versand)
+Ca. CHF 7,79(einschließlich Versand)
 Mercenaries Fighters (DVD) gebraucht gut FSK18
 Einloggen und zur Kasse gehen
 Als Gast kaufen
@@ -49,12 +49,12 @@ In den Warenkorb
 Auf die Beobachtungsliste
 Ich beobachte
 Ihre Beobachtungsliste ist voll.
-Lieferung in 3 Tagen
+Lieferung in 2-3 Tagen
 Keine zusätzlichen Gebühren bei Lieferung!
 Dieser Artikel wird über das Programm zum weltweiten Versand verschickt und mit einer internationalen Sendungsnummer versehen. Mehr erfahren- wird in neuem Fenster oder Tab geöffnet
 Versand:
 EUR 4,99
-(ca. CHF 5,46)
+(ca. CHF 5,45)
 Standardversand
 |
 Weitere Details
@@ -71,7 +71,7 @@ Hilfe zum Versand - öffnet ein Fenster
 Dieser Betrag enthält die anfallenden Zollgebühren, Steuern, Provisionen und sonstigen Gebühren. Angaben ohne Gewähr. Der Betrag kann sich bis zum Zahlungstermin ändern. Weitere Informationen finden Sie in den Nutzungsbedingungen für das Programm zum weltweiten Versand- wird in neuem Fenster oder Tab geöffnet
 Dieser Betrag enthält die anfallenden Zollgebühren, Steuern, Provisionen und sonstigen Gebühren. Angaben ohne Gewähr. Der Betrag kann sich bis zum Zahlungstermin ändern. Für Käufer mit Wohnsitz in einem EU-Mitgliedsstaat außer Großbritannien ist die Importsteuer nicht erstattungsfähig. Weitere Informationen finden Sie in den Nutzungsbedingungen für das Programm zum weltweiten Versand- wird in neuem Fenster oder Tab geöffnet
 Lieferung:
-Lieferung in 3 Werktagen nach Zahlungseingang
+Lieferung in 2-3 Werktagen nach Zahlungseingang
 Verkäufer verschickt innerhalb von 1 Tag nach Zahlungseingang - wird in neuem Fenster oder Tab geöffnet.
 Hilfe zum Liefertermin - öffnet ein Fenster
 Das Lieferdatum
@@ -657,7 +657,7 @@ Lieferung*
 EUR 4,99
 Schweiz
 Standardversand (Deutsche Post Brief International)
-Lieferung in 3 Werktagen nach Zahlungseingang
+Lieferung in 2-3 Werktagen nach Zahlungseingang
 Verkäufer verschickt innerhalb von 1 Tag nach Zahlungseingang - wird in neuem Fenster oder Tab geöffnet.
 *Die Angaben zum Lieferdatum beziehen sich auf einen Zahlungseingang am Tag des Kaufs. Bei einem späteren Zahlungseingang verschiebt sich das Lieferdatum entsprechend. Im Übrigen hängt das konkrete Lieferdatum vom Absende- und Lieferort ab, insbesondere während der Spitzenzeiten, und basiert auf der vom Verkäufer angegebenen Bearbeitungszeit und der ausgewählten Versandart.
 Bearbeitungszeit für den Inlandsversand
@@ -680,10 +680,10 @@ Regionsfrei DVDs,
 Western-DVDs,
 Horror DVDs,
 Märchen auf DVD,
-Komödien auf DVDs,
-Sissi-DVDs,
-Pidax Dvd,
-Hentai Dvd
+Disney Dvd,
+Alle unter Einem Dach Dvd,
+Rambo Dvd,
+Romantik DVDs
 Zum Vergrößern bitte anklicken
 Zusätzliches Navigationsmenü
 Über eBay

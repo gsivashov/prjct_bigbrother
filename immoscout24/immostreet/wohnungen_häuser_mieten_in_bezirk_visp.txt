@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/bezirk-visp/
 Title: Wohnungen & Häuser mieten in Bezirk Visp - Immostreet.ch
-Description: Wohnungen & Häuser mieten in Bezirk Visp - Immostreet.ch: ImmoStreet.ch hat 36 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in Bezirk Visp - Immostreet.ch: ImmoStreet.ch hat 37 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-36 Resultate gefunden ·
+37 Resultate gefunden ·
 Wohnungen & Häuser mieten in Bezirk Visp
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,44 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Balfrinstrasse 5
+2'600
+CHF
+/Monat
+6-Zimmer-Attika-Wohnung 185 m2 auf 2 Et…
+Balfrinstrasse 5, 3930 Visp
+Array
+6 Zimmer
+185 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+6
+Wohnfläche
+185 m2
+Etage
+Langfristig zu vermieten ab sofort oder nach Übereinkunft Zentrale ruhige Lage beim Bahnhof Die Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Jasminweg 4
+70
+CHF
+/Monat
+Bastelraum zu vermieten
+Jasminweg 4, 3930 Visp
+Array
+21 m2
+Objekttyp
+Atelier
+Wohnfläche
+21 m2
+ab sofort oder nach Vereinbarung vermieten wir einen Bastelraum (20,6 m2) am Jasminweg 4 in Visp.Si…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 70
 CHF
@@ -328,23 +366,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Jasminweg 4
-80
-CHF
-/Monat
-Bastelraum zu vermieten im Jasminum Visp
-Jasminweg 4, 3930 Visp
-Array
-26 m2
-Objekttyp
-Atelier
-Wohnfläche
-26 m2
-ab sofort oder nach Vereinbarung vermieten wir einen Bastelraum ca. 25.6 m2) am Jasminweg 4 in Visp…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Täsch
 1'590
 CHF
@@ -445,26 +466,6 @@ Array
 Objekttyp
 Wohnung, Flach
 Kürzlich renovierte und geschmackvoll eingerichtete 2.5 Zimmer Wohnung mit eigenem Skischrank in Ja…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Carl-Zuckmayer-weg 23
-950
-CHF
-/Monat
-Wallis, Saas-Fee 2 1/2 Zi Wohnung in J…
-Carl-Zuckmayer-weg 23, 3906 Saas-Fee
-Array
-2.5 Zimmer
-64 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-64 m2
-Die gemütlich 2 ½ Wohnung bietet Behaglichkeit und Platz für 2 Personen. Das Haus befindet sich am …
 Teilen
 E-Mail
 Facebook

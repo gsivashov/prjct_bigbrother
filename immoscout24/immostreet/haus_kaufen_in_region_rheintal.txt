@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-rheintal/
 Title: Haus kaufen in Region Rheintal - Immostreet.ch
-Description: Haus kaufen in Region Rheintal - Immostreet.ch: ImmoStreet.ch hat 43 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Region Rheintal - Immostreet.ch: ImmoStreet.ch hat 44 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-43 Resultate gefunden ·
+44 Resultate gefunden ·
 Haus kaufen in Region Rheintal
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,43 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+Preis auf Anfrage
+Historisches Juwel für Liebhaber des Be…
+Adresse auf Anfrage, 9442 Berneck
+Array
+7.5 Zimmer
+320 m2
+Objekttyp
+Wohnung, Bauernhaus
+Zimmer
+7.5
+Wohnfläche
+320 m2
+Etage
+An bevorzugter Wohnlage, erhöht über der Weinbaugemeinde Berneck, bieten wir exklusiv die historisc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rüdenstrasse 22a
+Preis auf Anfrage
+Sonnig und ruhig wohnen mit einzigartig…
+Rüdenstrasse 22a, 9442 Berneck
+Array
+7.5 Zimmer
+183 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Wohnfläche
+183 m2
+Dieses einzigartige, behagliche Einfamilienhaus befindet sich etwas oberhalb Berneck im Gebiet Rüde…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Rhodstrasse 14
 Preis auf Anfrage
 Attraktives Dreigenerationenhaus zu kau…
@@ -326,25 +363,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-330'000
-CHF
-REFH oder als Renditeobjekt?
-Adresse auf Anfrage, 9445 Rebstein
-Array
-5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5
-Wohnfläche
-95 m2
-Privatverkauf! Älteres Reiheneinfamilienhaus in Rebstein.5 Zimmer / ca. 95m2 / 284m3Neue Gasheizung…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Töbelimülistrasse 15
 Preis auf Anfrage
 Wohnen im Grünen
@@ -495,25 +513,6 @@ Wohnfläche
 145 m2
 Etage
 Wunderschönes 4.5 Zimmer- Einfamilienhaus (Ausbaumöglichkeit zu 5.5 Zimmer) Suchen Sie ein einmalig…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Am Ruderbach
-945'000
-CHF
-Neues Einfamilienhaus an zentraler Lage…
-Am Ruderbach, 9430 St. Margrethen SG
-Array
-5.5 Zimmer
-195 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-195 m2
-Moderne Wohnoase an idyllischer Lage   Gönnen Sie sich eine entspannte Bauphase und realisieren Sie…
 Teilen
 E-Mail
 Facebook

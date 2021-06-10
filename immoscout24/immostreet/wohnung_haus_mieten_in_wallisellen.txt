@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-wallisellen/
 Title: Wohnung & Haus mieten in Wallisellen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Wallisellen - Immostreet.ch: ImmoStreet.ch hat 67 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Wallisellen - Immostreet.ch: ImmoStreet.ch hat 69 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-67 Resultate gefunden ·
+69 Resultate gefunden ·
 Wohnung & Haus mieten in Wallisellen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,61 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Friedenstrasse 17
+1'950
+CHF
+/Monat
+Freie 4 Zimmer-Wohnung in Wallisellen
+Friedenstrasse 17, 8304 Wallisellen
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Ich suche einen Mieter für eine 4.5-Zimmer-Wohnung in Wallisellen.Einzugstermin: 01.07.2021Haustie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 32
+2'080
+CHF
+/Monat
+This light flooded apartment is located…
+Bahnhofstrasse 32, 8304 Wallisellen
+Array
+3.5 Zimmer
+61 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+61 m2
+Etage
+This modern light flooded 3.5 room apartment is on 2 mins walk from Wallisellen railway station, tr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Parkstrasse 1
+1'652
+CHF
+/Monat
+Schöne Wohnung an ruhiger Lage
+Parkstrasse 1, 8304 Wallisellen
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+DAS WICHTIGSTEmoderne Küche mit genügend StauraumLaminatbelag im Wohn- und Schlafz…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Schäfligrabenstrasse 13
 2'500
 CHF
@@ -409,26 +464,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Zwirnereistrasse 27
-2'660
-CHF
-/Monat
-Komfortables Wohnen im Zwicky-Zentrum
-Zwirnereistrasse 27, 8304 Wallisellen
-Array
-4.5 Zimmer
-104 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-104 m2
-Die Liegenschaft Zwirnereistrasse (Zwicky-Zentrum) wurde 2019 neu erstellt und bietet Ihnen nebst d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Alte Winterthurerstrasse 57
 880
 CHF
@@ -508,46 +543,6 @@ Zimmer
 Wohnfläche
 95 m2
 Im beliebten Wohnquartier "Melchrüti" in Wallisellen vermieten wir per 1. August 2021 diese 3.5-Zim…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Riedenerstrasse 49
-2'620
-CHF
-/Monat
-NEUBAU AN BESTER LAGE IN WALLISELLEN
-Riedenerstrasse 49, 8304 Wallisellen
-Array
-4.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-105 m2
-In Wallisellen an bester Lage, erleben Sie in diesem Neubauprojekt, wahren Komfort. Der offene Grun…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Riedenerstrasse 49
-2'820
-CHF
-/Monat
-NEUBAU AN BESTER LAGE IN WALLISELLEN
-Riedenerstrasse 49, 8304 Wallisellen
-Array
-4.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-105 m2
-In Wallisellen an bester Lage, erleben Sie in diesem Neubauprojekt wahren Komfort. Der offene Grund…
 Teilen
 E-Mail
 Facebook

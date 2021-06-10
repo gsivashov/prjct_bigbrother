@@ -198,11 +198,11 @@ Merken
 ab CHF 666/Monat
 MASERATI
 GRANCABRIO 4.7 V8 Automatica
-CHF 59'800
-ab CHF 643/Monat
+CHF 56'900
+ab CHF 612/Monat
 04.2012
 Automat
-62'900 km
+61'705 km
 Benzin
 Hinterradantrieb
 grau
@@ -213,10 +213,10 @@ MASERATI
 GRANCABRIO 4.7 V8 Automatica
 04.2012
 440 PS
-62'900 km
-CHF 59'800
+61'705 km
+CHF 56'900
 Merken
-ab CHF 643/Monat
+ab CHF 612/Monat
 MASERATI
 GranCabrio Sport
 CHF 99'500

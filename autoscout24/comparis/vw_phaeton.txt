@@ -610,7 +610,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 VW
-(18'530)
+(18'385)
 VW Phaeton Occasion
 (33)
 Aufbau
@@ -626,21 +626,21 @@ VW Phaeton
 (33)
 Modelle
 VW Golf
-(4'883)
+(4'833)
 VW Tiguan
-(1'967)
+(2'001)
 VW Polo
-(1'876)
+(1'796)
 VW Passat
-(1'415)
+(1'376)
 VW Touran
-(907)
+(913)
 VW T6
-(884)
-VW Caddy
-(811)
+(875)
 VW T-ROC
-(805)
+(815)
+VW Caddy
+(801)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -666,7 +666,7 @@ Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 2'200
-Preisreduktion
+Preiserhöhung
 VW Phaeton L 6.0 W12 4Motion
 03.06.2021
 Occasion
@@ -675,8 +675,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 6'500
-ab CHF 119 / Monat
+CHF 7'900
+ab CHF 144 / Monat
 VW Phaeton 3.0 TDi V6 4Motion Tiptronic
 4.5
 25.05.2021

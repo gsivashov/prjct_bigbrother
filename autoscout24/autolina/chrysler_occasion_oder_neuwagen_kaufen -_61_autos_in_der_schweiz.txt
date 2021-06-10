@@ -155,6 +155,45 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 CHRYSLER
+Stratus 2.5 V6 LX
+CHF 1'900
+04.2000
+Automat
+245'690 km
+Benzin
+Vorderradantrieb
+schwarz
+163 PS
+SG
+Merken
+CHRYSLER
+Stratus 2.5 V6 LX
+04.2000
+163 PS
+245'690 km
+CHF 1'900
+Merken
+NEU
+CHRYSLER
+Grand Voyager 3.3 LTD Swiss Edition Automatic
+CHF 5'500
+06.2007
+Automat
+134'000 km
+Benzin
+Vorderradantrieb
+blau
+174 PS
+SG
+Merken
+CHRYSLER
+Grand Voyager 3.3 LTD Swiss Editi...
+06.2007
+174 PS
+134'000 km
+CHF 5'500
+Merken
+CHRYSLER
 300S 3.6-V6
 CHF 38'900
 ab CHF 418/Monat
@@ -253,27 +292,6 @@ Viper · RT/10
 CHF 44'000
 Merken
 ab CHF 473/Monat
-CHRYSLER
-Grand Voyager 2.8 CRD Classic Line Plus Automatic
-CHF 14'500
-ab CHF 156/Monat
-11.2010
-Automat
-60'900 km
-Diesel
-Vorderradantrieb
-schwarz
-163 PS
-JU
-Merken
-CHRYSLER
-Grand Voyager 2.8 CRD Classic Lin...
-11.2010
-163 PS
-60'900 km
-CHF 14'500
-Merken
-ab CHF 156/Monat
 CHRYSLER
 Crossfire 3.2 SRT6
 CHF 19'900
@@ -450,29 +468,6 @@ Crossfire 3.2 V6 Roadster
 CHF 9'900
 Merken
 ab CHF 112/Monat
-CHRYSLER
-Grand Voy. 2.8 CRD LX
-CHF 2'499
-11.2005
-Automat
-196'000 km
-Diesel
-Vorderradantrieb
-silber
-150 PS
-TG
-Merken
-CHRYSLER
-Grand Voy. 2.8 CRD LX
-11.2005
-150 PS
-196'000 km
-CHF 2'499
-Merken
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
 1
 1
 2
@@ -498,14 +493,13 @@ CHRYSLER VIPER
 CHRYSLER Nach Fahrzeugaufbau
 Cabriolet
 Coupé
-Kombi
 Limousine
 Van
 CHRYSLER Nach Kanton Suchen
 Aargau
 Bern
+St Gallen
 Schaffhausen
-Thurgau
 Zürich
 Aktuelle Suche abonnieren
 Viele Dank für die Anmeldung!

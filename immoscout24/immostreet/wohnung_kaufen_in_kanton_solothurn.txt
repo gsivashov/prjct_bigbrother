@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/kanton-solothurn/
 Title: Wohnung kaufen in Kanton Solothurn - Immostreet.ch
-Description: Wohnung kaufen in Kanton Solothurn - Immostreet.ch: ImmoStreet.ch hat 195 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Kanton Solothurn - Immostreet.ch: ImmoStreet.ch hat 196 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-195 Resultate gefunden ·
+196 Resultate gefunden ·
 Wohnung kaufen in Kanton Solothurn
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,82 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+350'000
+CHF
+4,5 Zimmer.-Wohnung im 1. OG
+Adresse auf Anfrage, 4657 Dulliken
+Array
+4.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+85 m2
+In Dulliken SO ist eine neu renovierte 4,5 -Zimmerwohnung an sonniger Lage in einer gepflegten Lieg…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+770'000
+CHF
+Moderne 4.5-Zimmer Wohnung in ländliche…
+Adresse auf Anfrage, 4616 Kappel SO
+Array
+4.5 Zimmer
+139 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+139 m2
+Brandneue Wohnungen an ruhiger Lage! Wenn nicht jetzt wann dann?In dem Mehrfamilienhaus in Kappel …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kastanienweg 1
+650'000
+CHF
+Farbenfrohe, flexible, grosszügige 6 1/…
+Kastanienweg 1, 4542 Luterbach
+Array
+6.5 Zimmer
+170 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+6.5
+Wohnfläche
+170 m2
+Die geräumige und helle Wohnung kann durchaus mit einem Einfamilienhaus verglichen werden. Die aktu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberbuchsiten
+1'055'000
+CHF
+Moderne 4.5-Zimmer Terrassenwohnung auf…
+Oberbuchsiten, 4625 Oberbuchsiten
+Array
+4.5 Zimmer
+199 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+4.5
+Wohnfläche
+199 m2
+Diese geräumige Terrassenwohnung wird Sie begeistern. Die Highlights sind das lichtdurchflutete Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 460'000
 CHF
@@ -436,82 +512,6 @@ Zimmer
 Wohnfläche
 92 m2
 Auf dem Grundstück entsteht per Spätsommer/Herbst 2022 ein zeitgenössischer, hochwertiger und nachh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-595'000
-CHF
-Dein Garten, Dein Zuhause, Dein Glück!
-Adresse auf Anfrage, 4612 Wangen b. Olten
-Array
-4.5 Zimmer
-122 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Wohnfläche
-122 m2
-Hier erwartet Sie an einer grünen und ruhigen Lage ein Zuhause, welches liebevoll unterhalten wurde…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 29
-830'000
-CHF
-Einzigartiges SCHMUCKSTÜCK an bester La…
-Hauptstrasse 29, 5013 Niedergösgen
-Array
-4.5 Zimmer
-137 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Wohnfläche
-137 m2
-Diese traumhafte Wohnung wurde 2020 mit viel Liebe zum Detail und mit einem hohen ästhetischen Ansp…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Erlinsbach
-450'000
-CHF
-Dachwohnung
-Erlinsbach, 5015 Erlinsbach SO
-Array
-4.5 Zimmer
-117 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-117 m2
-Diese schöne ideale Wohnung eignet sich ausgezeichnet für eine Familie mit Kinder. Der ländliche Ch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-338'000
-CHF
-Ihr neues Zuhause in einem freundlichen…
-Adresse auf Anfrage, 4702 Oensingen
-Array
-3.5 Zimmer
-72 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-72 m2
-Diese neu renovierte 3.5 Zimmer Eigentumswohnung im 1. Obergeschoss befindet sich in einer gepflegt…
 Teilen
 E-Mail
 Facebook

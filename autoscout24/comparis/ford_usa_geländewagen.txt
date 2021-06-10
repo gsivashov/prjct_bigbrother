@@ -568,27 +568,27 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Ford (USA)
-(70)
+(71)
 Ford (USA) Occasion
 (59)
 Ford (USA) Neuwagen
 (8)
 Ford (USA) Oldtimer
-(3)
+(4)
 Aufbau
 Ford (USA) Coupé
 (20)
 Ford (USA) Limousine
 (13)
+Ford (USA) Cabrio
+(13)
 Ford (USA) Geländewagen
 (13)
-Ford (USA) Cabrio
-(12)
 Ford (USA) Pickup
 (11)
 Motor
 Ford (USA) Benzin
-(67)
+(68)
 Modelle
 Ford (USA) Mustang
 (25)
@@ -613,6 +613,15 @@ weniger
 5 Inserate
 0 Inserate
 0 Inserate
+FORD Explorer 4.0
+09.06.2021
+Occasion
+12.1997, Automat, Benzin
+135'000 km, 197 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 3'900
 Ford USA Explorer 4.0i V6 4x4 Limited Edition
 21.05.2021
 Occasion
@@ -632,15 +641,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 9'800
 ab CHF 179 / Monat
-FORD Explorer 4.0 Ltd. Edition
-20.05.2021
-Occasion
-09.2000, Automat, Benzin
-242'000 km, 197 PS, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 2'800
 FORD Explorer 4.0 Ltd. Edition
 1.0
 11.05.2021

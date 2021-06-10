@@ -152,392 +152,411 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Haselstrasse 7
-1'630
+Rickenstrasse 20
+1'290
 CHF
 /Monat
-Heimkommen und wohlfühlen...
-Haselstrasse 7, 9014 St. Gallen
+Perfekte Studenten oder Single Wohnung!
+Rickenstrasse 20, 9014 St. Gallen
 Array
-3.5 Zimmer
-91 m2
+3 Zimmer
+48 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+3
 Wohnfläche
-91 m2
-Ruhige Wohnung mit modernem Innenausbau sucht neuen Mieter. Die Wohnung im beliebten Schlössli-Quar…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dreilindenhang 22
-1'435
-CHF
-/Monat
-Moderne Single-Wohnung mit Blick über d…
-Dreilindenhang 22, 9000 St. Gallen
-Array
-2.5 Zimmer
-68 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-68 m2
-Ein grosszügiger Grundriss, offene lichtdurchflutete Räume und ein guter Ausbaustandard versprechen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-St. Gallerstrasse 1
-626
-CHF
-/Monat
-Befristete und preiswerte Wohnung gesuc…
-St. Gallerstrasse 1, 9300 Wittenbach
-Array
-2.5 Zimmer
-49 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-49 m2
+48 m2
 Etage
-Per sofort oder nach Vereinbarung vermieten wir an zentraler Lage diese hübsche 2.5-Zimmer-Wohnung.…
+Die renovierte Liegenschaft an der Rickenstrasse bietet alle Annehmlichkeiten die von einer moderne…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Rheinstrasse 14C
-1'790
+Lägernstrasse 20
+1'050
 CHF
 /Monat
-komplett sanierte 4,5-Zi-Dachwohung
-Rheinstrasse 14C, 9470 Buchs SG
+Frisch renovierte 4.5-Zimmerwohnung
+Lägernstrasse 20, 9552 Bronschhofen
 Array
 4.5 Zimmer
-102 m2
 Objekttyp
 Wohnung, Dachwohnung
 Zimmer
 4.5
-Wohnfläche
-102 m2
-Etage
-Die grosszügige 4.5-Zi-Dachwohnung in unmittelbarer Nähe zum Bahnhof, Autobahnzubringer und Grenze …
+Ab sofort vermieten wird diese schöne 4.5-Zimmerwohnung im obersten Stock und wunderschöner Aussich…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Pelikanstrasse 21
-690
+Weiherstrasse 15
+1'080
 CHF
 /Monat
-grosszügige 1-Zimmer-Wohnung mit Balkon…
-Pelikanstrasse 21, 9008 St. Gallen
+Renovierte 2.5 Zimmerwohnung an zentral…
+Weiherstrasse 15, 9400 Rorschach
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+An sehr zentraler Lage - nur eine Gehminute vom Bahnhof entfernt und zwei Gehminuten vom Bodensee- …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blumenstrasse 8
+1'700
+CHF
+/Monat
+EinEine nette Familienwohnung in Witten…
+Blumenstrasse 8, 9300 Wittenbach
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Bachelor flat
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Etage
+In der Anlage an der Blumenstrasse befinden sind mehrere kleine Wohnblöcke mit 6 Wohnungen.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+St. Gallerstrasse 70a
+990
+CHF
+/Monat
+Doppelstudio mit Balkon
+St. Gallerstrasse 70a, 9500 Wil SG
 Array
 1 Zimmer
-30 m2
+20 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+1
+Wohnfläche
+20 m2
+English below
+Serviced Business Studio zu vermieten in Appartementhaus
+Ausstattung: Balkon, Kom…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+st. Gallerstrasse 70A
+880
+CHF
+/Monat
+Single Studio
+st. Gallerstrasse 70A, 9500 Wil SG
+Array
+15 m2
+Objekttyp
+Wohnung, Flach
+Wohnfläche
+15 m2
+English below
+Serviced Business Studio Single zu vermieten in Appartementhaus
+Ausstattung: Komf…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+St. Gallerstrasse 70a
+990
+CHF
+/Monat
+Doppelstudio mit Balkon
+St. Gallerstrasse 70a, 9500 Wil SG
+Array
+1 Zimmer
+20 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 1
 Wohnfläche
-30 m2
-ST. GALLEN
-St. Gallen liegt im wirtschaftsdynamischen Dreieck Stuttgart – München – Mailand. Inter…
+20 m2
+English below
+Serviced Business Studio zu vermieten in Appartementhaus
+Ausstattung: Balkon, Kom…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Feldgass 6
-1'885
+st. Gallerstrasse 70A
+880
 CHF
 /Monat
-Charmantes WOHNERLEBNIS auf 137m2 mit s…
-Feldgass 6, 9478 Azmoos
+Single Studio
+st. Gallerstrasse 70A, 9500 Wil SG
 Array
-5.5 Zimmer
-137 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-137 m2
-Etage
-An unserer Liegenschaft an der Feldgass 6 in Azmoos (Gemeinde Wartau) vermieten wir per Sofort oder…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Baumgartenstrasse 3
-1'620
-CHF
-/Monat
-Wenn Wohnträume wahr werden!
-Baumgartenstrasse 3, 8880 Walenstadt
-Array
-2.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-2.5
-Wohnfläche
-70 m2
-Zur Überbauung Churfirstenpark gehört eine wunderbare Aussicht auf die Churfirsten. Die Überbauung …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Langgasse 11
-1'325
-CHF
-/Monat
-Wohnen Nähe Universität, KSSG, Olma
-Langgasse 11, 9008 St. Gallen
-Array
-2.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-77 m2
-Offene, hellen, grosszügigen 2.5 Zimmer-Wohnung mit folgender Ausstattung:- neue Küche mit Geschirr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Tellstrasse 26
-1'120
-CHF
-/Monat
-Studenten und Singles gesucht! Möbliert…
-Tellstrasse 26, 9000 St. Gallen
-Array
-1.5 Zimmer
+15 m2
 Objekttyp
 Wohnung, Möblierte Wohnung
-Zimmer
-1.5
-Heute besichtigen und morgen einziehen - das ist unser aussergewöhnlicher Service für Sie!Wohnen Si…
+Wohnfläche
+15 m2
+English below
+Serviced Business Studio Single zu vermieten in Appartementhaus
+Ausstattung: Komf…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Tellstrasse 26
-1'120
+Unterfeldweg 1
+2'590
 CHF
 /Monat
-Studenten und Singles gesucht! Möbliert…
-Tellstrasse 26, 9000 St. Gallen
-Array
-1.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Heute besichtigen und morgen einziehen - das ist unser aussergewöhnlicher Service für Sie!Wohnen Si…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Poststrasse 13a
-1'670
-CHF
-/Monat
-TRAUMHAFT SCHÖN: Liebhaberobjekt mit ei…
-Poststrasse 13a, 9477 Trübbach
+Serviced Apartment 3,5 Zimmer mit Reini…
+Unterfeldweg 1, 9476 Weite
 Array
 3.5 Zimmer
-82 m2
+100 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-82 m2
-Etage
-Suchen Sie eine moderne Neubauwohnung mit dem gewissen Etwas?Dann haben wir genau das richtige für …
+100 m2
+English belowDeutschGrosszügige neu renovierte 3,5 Zimmerwohnung zu vermieten.Wohnung wurde renovie…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Sonnenhalb 17
-930
+Unterfeldweg 1
+2'590
 CHF
 /Monat
-ideal für Singles und Paare
-Sonnenhalb 17, 9630 Wattwil
+Serviced Apartment 3,5 Zimmer mit Reini…
+Unterfeldweg 1, 9476 Weite
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+3.5
+Wohnfläche
+100 m2
+English belowDeutschGrosszügige neu renovierte 3,5 Zimmerwohnung zu vermieten.Wohnung wurde renovie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterfeldweg 1
+1'990
+CHF
+/Monat
+Serviced Apartment 2,5 Zimmer mit Reini…
+Unterfeldweg 1, 9476 Weite
 Array
 2.5 Zimmer
+75 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
-Die 2.5-Zimmerwohnung liegt in einer gepflegten Liegenschaft mitten in einem ruhigen Wohnquartier. …
+Wohnfläche
+75 m2
+English belowDeutschGrosszügige neu renovierte 2,5 Zimmerwohnung zu vermieten.Wohnung wurde renovie…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-St. Gallerstrasse 18
-1'850
+Unterfeldweg 1
+1'990
 CHF
 /Monat
-moderne 4.5-Zimmerwohnung mit grossem B…
-St. Gallerstrasse 18, 7320 Sargans
+Serviced Apartment 2,5 Zimmer mit Reini…
+Unterfeldweg 1, 9476 Weite
 Array
-4.5 Zimmer
-107 m2
+2.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+2.5
+Wohnfläche
+75 m2
+English belowDeutschGrosszügige neu renovierte 2,5 Zimmerwohnung zu vermieten.Wohnung wurde renovie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zürcherstrasse 96
+1'350
+CHF
+/Monat
+Serviced Apartment 1 Zimmer mit Wifi / …
+Zürcherstrasse 96, 8640 Rapperswil SG
+Array
+1 Zimmer
+20 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+1
+Wohnfläche
+20 m2
+LivingMoments Aparthotel in Rapperswil
+Sehr schönes neu erstelltes 1 Zimmer Appartement mit Küche …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Pizolstrasse 29
+1'280
+CHF
+/Monat
+Serviced Appartement 1.5 Zimmer mit Rei…
+Pizolstrasse 29, 7310 Bad Ragaz
+Array
+1.5 Zimmer
+30 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+1.5
+Wohnfläche
+30 m2
+English below
+Gemütliches Economy 1.5 Zimmer Appartement mit Dusche / WC / Küche zu vermieten in…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hirschenstrasse 1
+1'280
+CHF
+/Monat
+Möbliertes 1,5 Zimmer Appartement mit S…
+Hirschenstrasse 1, 9472 Grabs
+Array
+1.5 Zimmer
+25 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+1.5
 Wohnfläche
-107 m2
-Etage
-Die neuwertige Wohnung befindet sich in der Überbauung St. Gallerstrasse 18 und 20 mit gemeinschaft…
+25 m2
+English below
+Schönes Business 1.5 Zimmer Appartement zu vermieten in Appartementhaus
+Zentral g…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Kniestrasse 27
-1'220
+Hirschenstrasse 1
+1'280
 CHF
 /Monat
-zentral gelegene 2-ZWG zu vermieten
-Kniestrasse 27, 8640 Rapperswil SG
+Möbliertes 1,5 Zimmer Appartement mit S…
+Hirschenstrasse 1, 9472 Grabs
+Array
+1.5 Zimmer
+25 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+1.5
+Wohnfläche
+25 m2
+English below
+Schönes Business 1.5 Zimmer Appartement zu vermieten in Appartementhaus
+Zentral g…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hirschenstrasse 1
+1'490
+CHF
+/Monat
+Möbliertes 2 Zimmer Appartement mit Ser…
+Hirschenstrasse 1, 9472 Grabs
 Array
 2 Zimmer
+35 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+2
+Wohnfläche
+35 m2
+English below
+Schönes Business 2 Zimmer Appartement zu vermieten in Appartementhaus
+Zentral gel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hirschenstrasse 1
+1'490
+CHF
+/Monat
+2 Zimmer Serviced Appartement
+Hirschenstrasse 1, 9472 Grabs
+Array
+2 Zimmer
+35 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2
-Wir vermieten ab sofort oder nach Vereinbarung die zentral gelegene 2-Zimmerwohnung im 2. Obergesch…
+Wohnfläche
+35 m2
+Schönes Business 2 Zimmer Appartement zu vermieten in Appartementhaus
+Zentral gelegen in der Nähe …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-St. Gallerstrasse 37
-1'950
+Dorfstrasse 42
+1'578
 CHF
 /Monat
-Meh Ziit für üs - gnüsse, acho und eifa…
-St. Gallerstrasse 37, 9500 Wil SG
+grosszügige 4 Zimmer Altbauwohnung
+Dorfstrasse 42, 9300 Wittenbach
 Array
-3.5 Zimmer
-94 m2
+4 Zimmer
+110 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+4
 Wohnfläche
-94 m2
-Meh Ziit für üs - gnüsse, acho und eifach Dihei si
-Wollen Sie sich verändern und träumen Sie von…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Greithstrasse 29
-1'660
-CHF
-/Monat
-*Tolle Wohnung fürs kleine Budget und d…
-Greithstrasse 29, 8640 Rapperswil SG
-Array
-5.5 Zimmer
-92 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-92 m2
-Wir vermieten diese charmante und grosszügige Wohnung an ruhiger und zentraler Lage mit ansprechend…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Poststrasse 15
-2'380
-CHF
-/Monat
-Wohntraum in der Villa Trübbach mit eig…
-Poststrasse 15, 9477 Trübbach
-Array
-2.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-2.5
-Wohnfläche
-80 m2
+110 m2
 Etage
-Willkommen in der traumhaften Villa Trübbach!Hier profitieren Sie von einer geschmackvollen und zei…
+Wir vermieten per 01.10.2021 oder nach Vereinbarung, 4.0 Zimmer Altbauwohnung mit: - offene Küche m…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Talstrasse 42a
-1'420
+Pizolstrasse 29
+1'280
 CHF
 /Monat
-Schöne 4.5 Zimmerwohnung, ruhig gelegen
-Talstrasse 42a, 9200 Gossau SG
+Serviced Appartement 1.5 Zimmer mit Rei…
+Pizolstrasse 29, 7310 Bad Ragaz
 Array
-4.5 Zimmer
-93 m2
+1.5 Zimmer
+30 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+1.5
 Wohnfläche
-93 m2
-helle 4.5 Zimmerwohnung im Hochparterre an ruhiger Lage schöne  4.5 Zimmerwohnung im GrünenDie Wohn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-St. Gallerstrasse 21
-151
-CHF
-/Monat
-Sie benötigen mehr Stauraum? Hier finde…
-St. Gallerstrasse 21, 9500 Wil SG
-Array
-Objekttyp
-Atelier
-In unserer Liegenschaft an der St. Gallerstrasse 21, in Gehdistanz zum Zentrum von Wil, vermieten w…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-St. Gallerstrasse 43A
-1'785
-CHF
-/Monat
-Hervorragend Wohnen
-St. Gallerstrasse 43A, 9500 Wil SG
-Array
-3.5 Zimmer
-91 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-91 m2
-Die LageWil bietet Ihnen sehr viel - und das alles in Gehdistanz! Eine ideale Verkehrsanbindung pe…
+30 m2
+English below
+Gemütliches Economy 1.5 Zimmer Appartement mit Dusche / WC / Küche zu vermieten in…
 Teilen
 E-Mail
 Facebook

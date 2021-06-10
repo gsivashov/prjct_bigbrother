@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-heimberg/
 Title: Wohnungen & Häuser mieten in Heimberg - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Heimberg - Immostreet.ch: ImmoStreet.ch hat 17 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Heimberg - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-17 Resultate gefunden ·
+18 Resultate gefunden ·
 Wohnungen & Häuser mieten in Heimberg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,41 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Schwalbenweg 36/38 GA
+30
+CHF
+/Monat
+Suchen Sie eine Parkmöglichkeit?
+Schwalbenweg 36/38 GA, 3627 Heimberg
+Array
+Objekttyp
+Offener Parkplatz
+Per sofort oder nach Vereinbarung vermieten wir einen Parkplatz am Schwalbenweg 36/38 in Heimberg. …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schützenstrasse 55
+850
+CHF
+/Monat
+1-Zimmer-Wohnung im schönen Heimberg zu…
+Schützenstrasse 55, 3627 Heimberg
+Array
+1 Zimmer
+24 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+24 m2
+Etage
+Im schönen Heimberg vermieten wir eine charmante 1-Zimmer-Wohnung.Diese Wohnung bietet die folgende…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Stationsweg 4
 1'500
 CHF
@@ -235,23 +270,6 @@ Wohnung, Flach
 Zimmer
 3.5
 Wir vermieten per sofort oder nach Vereinbarung eine 3.5 Zimmer-Wohnung an der Blümlisalpstrasse 33…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blümlisalpstrasse
-1'500
-CHF
-/Monat
-4 - Zimmer Wohnung an Zentraler Lage in…
-Blümlisalpstrasse, 3627 Heimberg
-Array
-4 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Per sofort oder nach Vereinbarung Fr. 1500.- inkl. Nebenkosten.Die Wohnung ist komplett renoviert w…
 Teilen
 E-Mail
 Facebook

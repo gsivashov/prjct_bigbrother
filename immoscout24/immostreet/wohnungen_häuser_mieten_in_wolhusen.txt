@@ -1,6 +1,6 @@
-URL: https://www.immostreet.ch/de/mieten/in-wolhusen/
+URL: https://www.immostreet.ch/de/mieten/in-wolhusen/?pagenum=2
 Title: Wohnungen & Häuser mieten in Wolhusen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Wolhusen - Immostreet.ch: ImmoStreet.ch hat 23 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Wolhusen - Immostreet.ch: ImmoStreet.ch hat 22 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-23 Resultate gefunden ·
+22 Resultate gefunden ·
 Wohnungen & Häuser mieten in Wolhusen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -308,23 +308,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'480
-CHF
-/Monat
-Zu vermieten in WOLHUSEN 4.5 Zimmer Woh…
-Adresse auf Anfrage, 6110 Wolhusen
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-4 ½ Zimmer-Wohnung (2.OG)Neuwertige, moderne Wohnung mit hellen Räumen, Küche mit Geschirrspüler, …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Entlebucherstrasse 21
 1'230
 CHF
@@ -496,6 +479,20 @@ Wohnfläche
 50 m2
 Total sanierte und helle Wohnung zu vermieten
 Wir vermieten per sofort oder nach Vereinbarung an…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Buholzstrasse 10
+125
+CHF
+Neue Gewerbeboxen ab 120m2 in Ruswil / …
+Buholzstrasse 10, 6110 Wolhusen
+Array
+Objekttyp
+Residential commercial building
+-Gewerbeboxen mit Sektionaltor ab 120m2 zu vermieten
+-Neubau von total 2500m2 Gewerbefläche in der …
 Teilen
 E-Mail
 Facebook

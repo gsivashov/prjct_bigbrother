@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-zumikon/
 Title: Wohnung & Haus mieten in Zumikon - Immostreet.ch
-Description: Wohnung & Haus mieten in  Zumikon - Immostreet.ch: ImmoStreet.ch hat 10 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Zumikon - Immostreet.ch: ImmoStreet.ch hat 11 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-10 Resultate gefunden ·
+11 Resultate gefunden ·
 Wohnung & Haus mieten in Zumikon
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,8 +152,30 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Dorfstrasse 22
+2'160
+CHF
+/Monat
+Grosszügige, helle Wohnung an zentraler…
+Dorfstrasse 22, 8126 Zumikon
+Array
+4.5 Zimmer
+96 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+96 m2
+In Zumikon - an bevorzugter erhöhter, sonniger und nebelfreier Lage am Rand der Stadt Zürich vermie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Peteracher 2
-Preis auf Anfrage
+1'410
+CHF
+/Monat
 Singlewohnung in Stadtnähe
 Peteracher 2, 8126 Zumikon
 Array

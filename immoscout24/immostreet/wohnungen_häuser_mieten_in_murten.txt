@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-murten/
 Title: Wohnungen & Häuser mieten in Murten - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Murten - Immostreet.ch: ImmoStreet.ch hat 35 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Murten - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-35 Resultate gefunden ·
+34 Resultate gefunden ·
 Wohnungen & Häuser mieten in Murten
 Preis (aufsteigend)
 Preis (absteigend)
@@ -169,26 +169,6 @@ Array
 Objekttyp
 Tiefgarage
 Wir vermieten nach Vereinbarung einen Einstellhallenplatz an der Schützenmatte 15 in Murten.Monatli…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schützenmatt 19
-1'010
-CHF
-/Monat
-Grosszügiges Studio in Murten
-Schützenmatt 19, 3280 Murten
-Array
-1.5 Zimmer
-42 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-42 m2
-Wir vermieten per 1.8.2021 oder nach Vereinbarung eine grosszügige 1.5-Zimmerwohnung im 3. Obergesc…
 Teilen
 E-Mail
 Facebook
@@ -498,6 +478,26 @@ Array
 Objekttyp
 Car park
 Parkplätze im Untergeschoss einer geschlossenen Einstellhalle.StandortDas mittelalterliche Städtche…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Engelhardstrasse 83
+1'610
+CHF
+/Monat
+3.5-ZW à 79 m2 zuoberst im 2. OG mit so…
+Engelhardstrasse 83, 3280 Murten
+Array
+3.5 Zimmer
+79 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+79 m2
+Die Wohnung ist 79 m2 gross, liegt zuoberst im 2. OG (ohne Lift) und ist wie folgt ausgestattet:- G…
 Teilen
 E-Mail
 Facebook

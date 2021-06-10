@@ -122,6 +122,92 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Schwimmbadstrasse 33
+1'285
+CHF
+/Monat
+Bürofläche im Baucenter Baden-Wettingen
+Schwimmbadstrasse 33, 5430 Wettingen
+Array
+Objekttyp
+Büro
+Etage
+Wir vermieten in einem historischen Gebäude direkt an zentraler Lage in nächster Nähe zur Autobahna…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Winernstrasse 28
+1'088
+CHF
+/Monat
+Schöne 2.5 Zimmer- Wohnung in Wettingen
+Winernstrasse 28, 5430 Wettingen
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Die Wohnung wird von der Verwaltung «Lägern Wohnen» vermietet undbefindet sich in einer ruhigen und…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstr. 92
+Preis auf Anfrage
+Der 1. Monat ist gratis! Diverse Einste…
+Bahnhofstr. 92, 5430 Wettingen
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten diverse Einstellplätze in der Tiefgarage der Liegenschaft Landstrasse 114a/b und Bahn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse 42a
+3'950
+CHF
+/Monat
+Einfamilienhaus im beliebten Dorfkern v…
+Dorfstrasse 42a, 5430 Wettingen
+Array
+6.5 Zimmer
+216 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+216 m2
+Etage
+Ihr neues Zuhause bietet Ihnen viel Platz und Rückzug.
+Per 1. Oktober 2021 suchen wir für dieses E…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lägernstrasse 8
+1'450
+CHF
+/Monat
+Klein aber fein
+Lägernstrasse 8, 5430 Wettingen
+Array
+2.5 Zimmer
+56 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+56 m2
+Wir vermieten per 1. August oder nach Vereinbarung eine schöne, vollständig renovierte 2.5-Zimmerwo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Zentralstrasse 101
 1'430
 CHF
@@ -308,26 +394,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Chlosterbrüel 15
-1'890
-CHF
-/Monat
-Gemütliches Reiheneinfamilienhaus mit k…
-Chlosterbrüel 15, 5430 Wettingen
-Array
-4 Zimmer
-105 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4
-Wohnfläche
-105 m2
-4 Zimmer, eines davon ist das Dachgeschoss mit Dachfenstern. Praktisch eingerichtete Küche, WC/Du…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Zentralstrasse 130
 1'420
 CHF
@@ -420,87 +486,6 @@ Array
 Objekttyp
 Tiefgarage
 Wir vermieten per sofort oder nach Vereinbarung einen Einstellplatz in der Einstellhalle Büntstrass…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 44
-1'400
-CHF
-/Monat
-Wohnung mit schönem Gartensitzplatz ink…
-Bahnhofstrasse 44, 5430 Wettingen
-Array
-2.5 Zimmer
-64 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-64 m2
-Diese grosszügige Wohnung bietet Ihnen eine durchdachte Raumaufteilung sowie folgende Annehmlichkei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hardstrasse 15
-1'500
-CHF
-/Monat
-Gute Lage !
-Hardstrasse 15, 5430 Wettingen
-Array
-3.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-70 m2
-Die Liegenschaft liegt an zentraler Lage !Die Wohnung verfügt über einen grosszügigen Grundriss, mi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lägernstrasse 19
-1'420
-CHF
-/Monat
-Ihre Wohnungssuche endet hier!
-Lägernstrasse 19, 5430 Wettingen
-Array
-2 Zimmer
-55 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-55 m2
-Per 01.08.2021 vermieten wir eine 2.0-Zimmerwohnung an idyllischer Lage in Wettingen.Die Wohnung bi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse, 99
-1'460
-CHF
-/Monat
-3-Zimmer Wohnung, 3. Stock
-Bahnhofstrasse, 99, 5430 Wettingen
-Array
-3 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-75 m2
-Etage
-Kochherd, Backofen, Kühlschrank neuwertig
 Teilen
 E-Mail
 Facebook

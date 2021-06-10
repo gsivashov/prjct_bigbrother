@@ -152,6 +152,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Quellmattstrasse 90
+1'890
+CHF
+/Monat
+Willkommen zu Hause!
+Quellmattstrasse 90, 5035 Unterentfelden
+Array
+4.5 Zimmer
+104 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+104 m2
+Wir vermieten ab Herbst eine 4.5 Zimmerwohnung im Erdgeschoss, mit eigenem Waschturm im Kellerabtei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Quellmattstr. 81
 1'285
 CHF
@@ -239,26 +259,6 @@ Zimmer
 Wohnfläche
 97 m2
 Schöne grosszügig geschnittene 3.5 Zimmer Wohnung in Unterentfelden per sofort zu vermieten. Man ge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Quellmattstr. 81
-725
-CHF
-/Monat
-1-Z'Wohnung mit grossem Balkon
-Quellmattstr. 81, 5035 Unterentfelden
-Array
-1 Zimmer
-30 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-30 m2
-Ab 1. Juli 2021 oder nach Vereinbarung, vermieten wir diese helle 1-Z'Wohnung mit folgendem Ausbaus…
 Teilen
 E-Mail
 Facebook

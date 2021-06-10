@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-faellanden/
 Title: Wohnungen & Häuser mieten in Fällanden - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Fällanden - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Fällanden - Immostreet.ch: ImmoStreet.ch hat 27 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-31 Resultate gefunden ·
+27 Resultate gefunden ·
 Wohnungen & Häuser mieten in Fällanden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,7 +131,7 @@ Maurstrasse 23, 8117 Fällanden
 Array
 Objekttyp
 Einzelgarage
-Wir vermieten per sofort oder nach Vereinbarung eine Einzelgarage. Grösse ca. 8.5 m2.
+Wir vermieten per sofort oder nach Vereinbarung eine Einzelgarage. Grösse 16 m2.
 Teilen
 E-Mail
 Facebook
@@ -164,50 +164,6 @@ Objekttyp
 Tiefgarage
 Im Zentrum von Fälllanden vermieten wir einen Tiefgaragenplatz.
 Der Platz verfügt über die Grundin…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schwerzenbachstrasse 25
-965
-CHF
-/Monat
-Dachwohnung mit 1.5-Zimmer in Fällanden…
-Schwerzenbachstrasse 25, 8117 Fällanden
-Array
-1.5 Zimmer
-36 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-36 m2
-Lage
-In Zentrum von Fällanden gelegen gegenüber dem Gemeindehaus in der Nähe der Busstation.
-Eink…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schwerzenbachstrasse 23 a
-2'270
-CHF
-/Monat
-3.5 - Zimmer - Neubauwohnung zu vermiet…
-Schwerzenbachstrasse 23 a, 8117 Fällanden
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Duplex, Maisonette
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Etage
-Lage
-Im Zentrum von Fällanden in der Nähe des Gemeindehauses. Zurückversetzt von der Strasse gelge…
 Teilen
 E-Mail
 Facebook
@@ -369,20 +325,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Industriestrasse 1
-1'130
-CHF
-/Monat
-Lagerraum
-Industriestrasse 1, 8117 Fällanden
-Array
-Objekttyp
-Verkauf, Lager
-An der Industriestrasse 1 in Fällanden vermieten wir in einem attraktiven Gewerbehaus einen Lagerra…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Schwerzenbachstrasse 5
 2'000
 CHF
@@ -439,7 +381,7 @@ Zimmer
 Wohnfläche
 45 m2
 Weitere Informationen finden Sie auf www.maurstrasse-faellanden.ch
-Wir vermieten per 1. Juni 202…
+Wir vermieten per sofort dies…
 Teilen
 E-Mail
 Facebook
@@ -481,7 +423,62 @@ Zimmer
 Wohnfläche
 37 m2
 Weitere Informationen finden Sie auf www.maurstrasse-faellanden.ch
-Wir vermieten per 1. Juni 202…
+Wir vermieten per sofort dies…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Maurstrasse 2
+2'700
+CHF
+/Monat
+Erstbezug im Denkmalschutz inmitten von…
+Maurstrasse 2, 8117 Fällanden
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+100 m2
+Weitere Informationen finden Sie auf www.maurstrasse-faellanden.ch
+Wir vermieten per sofort dies…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schwerzenbachstrasse 21
+2'860
+CHF
+/Monat
+Vermietung von attraktiver 3.5-Zimmerwo…
+Schwerzenbachstrasse 21, 8117 Fällanden
+Array
+3.5 Zimmer
+117 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+117 m2
+Wir vermieten ab 15. Juni 2021 diese schöne und helle 3.5-Zimmerwohnung im historischen Herzen von …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zilstr. 1-7 GA
+130
+CHF
+/Monat
+Einstellplätze in Fällanden zu vermieten
+Zilstr. 1-7 GA, 8117 Fällanden
+Array
+Objekttyp
+Tiefgarage
+In der Tiefgarage der Liegenschaft Zilstrasse 1 - 7 vermieten wir per sofort diverse Doppelabstellp…
 Teilen
 E-Mail
 Facebook

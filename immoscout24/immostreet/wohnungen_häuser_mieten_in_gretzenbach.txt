@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-gretzenbach/
 Title: Wohnungen & Häuser mieten in Gretzenbach - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Gretzenbach - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Gretzenbach - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-32 Resultate gefunden ·
+34 Resultate gefunden ·
 Wohnungen & Häuser mieten in Gretzenbach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,86 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Staldenacker 1 (Haus A)
+1'950
+CHF
+/Monat
+GEMÜTLICHE WOHNUNG ZUM WOHLFÜHLEN
+Staldenacker 1 (Haus A), 5014 Gretzenbach
+Array
+5 Zimmer
+121 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5
+Wohnfläche
+121 m2
+Das Mehrfamilienhaus liegt an ruhiger und doch zentraler Wohnlage. In wenigen Gehminuten erreichen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Staldenacker 3 (Haus B)
+1'325
+CHF
+/Monat
+GEMÜTLICHE WOHNUNG ZUM WOHLFÜHLEN
+Staldenacker 3 (Haus B), 5014 Gretzenbach
+Array
+3.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+83 m2
+Das Mehrfamilienhaus liegt an ruhiger und doch zentraler Wohnlage. In wenigen Gehminuten erreichen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Staldenacker 1 (Haus A)
+1'650
+CHF
+/Monat
+GEMÜTLICHE WOHNUNG ZUM WOHLFÜHLEN
+Staldenacker 1 (Haus A), 5014 Gretzenbach
+Array
+4 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+100 m2
+Das Mehrfamilienhaus liegt an ruhiger und doch zentraler Wohnlage. In wenigen Gehminuten erreichen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mattenweg 15
+1'410
+CHF
+/Monat
+Wohn(T)raum in Gretzenbach
+Mattenweg 15, 5014 Gretzenbach
+Array
+2.5 Zimmer
+58 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+58 m2
+Bei Vertragsabschluss winkt ein Einkaufsgutschein Ihrer Wahl im Wert von CHF 500.00!Wohnung:
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 1'390
 CHF
@@ -355,26 +435,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Hegackerstrasse 12
-1'800
-CHF
-/Monat
-Wohnen wie im Eigenheim mit traumhafter…
-Hegackerstrasse 12, 5014 Gretzenbach
-Array
-3.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-100 m2
-Wohnen wie im Eigenheim mit traumhafter Aussicht an bester Lage! Dieses Mehrfamilienhaus wurde in d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Am Stalden 3
 1'030
 CHF
@@ -412,60 +472,6 @@ Wohnfläche
 58 m2
 Etage
 Grosszügige und sonnige Attikawohnung -Heller, offener Wohn- Essbereich mit Parkett-Moderne Küche m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schulstrasse 1
-1'950
-CHF
-/Monat
-TOP: Grosszügige Lagerhalle (165m2) mit…
-Schulstrasse 1, 5014 Gretzenbach
-Array
-Objekttyp
-Verkauf, Warenhaus
-Ab dem 01.06.2021 zu vermieten: Großzügige Lagerhalle mit eingezäunter Außenfläche. An der Schulstr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Staldenacker 11c
-1'510
-CHF
-/Monat
-MODERNE ERDGESCHOSS-WOHNUNG ZUM WOHLFÜH…
-Staldenacker 11c, 5014 Gretzenbach
-Array
-2.5 Zimmer
-76 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-76 m2
-Wir vermieten diese grosszügige Erdgeschoss-Wohnung. - ca. 76 m2- grosser und offener Wohn- / Essbe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lochhofstrasse 14
-520
-CHF
-/Monat
-Atelier / Büro
-Lochhofstrasse 14, 5014 Gretzenbach
-Array
-2 Zimmer
-26 m2
-Objekttyp
-Atelier
-Zimmer
-2
-Wohnfläche
-26 m2
-Einfaches Atelier / Büro mit Toilette, Pissoir, Lavabo mit Kalt- und Warmwasser. R…
 Teilen
 E-Mail
 Facebook

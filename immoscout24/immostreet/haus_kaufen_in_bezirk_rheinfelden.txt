@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-rheinfelden/
 Title: Haus kaufen in Bezirk Rheinfelden - Immostreet.ch
-Description: Haus kaufen in Bezirk Rheinfelden - Immostreet.ch: ImmoStreet.ch hat 27 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Rheinfelden - Immostreet.ch: ImmoStreet.ch hat 29 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-27 Resultate gefunden ·
+29 Resultate gefunden ·
 Haus kaufen in Bezirk Rheinfelden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,85 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Zürcherstrasse 24
+1'235'000
+CHF
+Neuwertiges & modernes 2-Familienhaus m…
+Zürcherstrasse 24, 4332 Stein AG
+Array
+9 Zimmer
+212 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+9
+Wohnfläche
+212 m2
+Etage
+2-Familienhaus mit zwei 4.5 Zi.-Wohnungen & GartenDieses neuwertige 2-Familienhaus mit zwei 4.5…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'450'000
+CHF
+Idyllischer Wohntraum mit viel Liebe zu…
+Adresse auf Anfrage, 4305 Olsberg
+Array
+9.5 Zimmer
+422 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+9.5
+Wohnfläche
+422 m2
+Dieses ehemalige Bauernwohnhaus mit dem angrenzenden, modern ausgebauten Ökonomiegebäude vereint ur…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'800'000
+CHF
+Ein Zuhause mit Potential!
+Adresse auf Anfrage, 4313 Möhlin
+Array
+8 Zimmer
+299 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+8
+Wohnfläche
+299 m2
+Etage
+Verwirklichen Sie Ihren Traum! Hier bietet sich Ihnen die Möglichkeit, eine bestehende Haustierpens…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brodlaube 8
+1'190'000
+CHF
+Ein Unikat in der Altstadt von Rheinfel…
+Brodlaube 8, 4310 Rheinfelden
+Array
+6.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+150 m2
+Etage
+Möchten Sie mitten in der charmanten Altstadt von Rheinfelden wohnen? Geniessen Sie den Rückzugsort…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 1'240'000
 CHF
@@ -289,26 +368,6 @@ Wohnfläche
 Etage
 Einzigartige Liegenschaft mit vielseitigen Nutzungsmöglichkeiten je nach Bedarf:
 Sind Sie auf de…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zürcherstrasse 24
-1'235'000
-CHF
-Neuwertiges & modernes 2-Familienhaus m…
-Zürcherstrasse 24, 4332 Stein AG
-Array
-9 Zimmer
-212 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-9
-Wohnfläche
-212 m2
-Etage
-2-Familienhaus mit zwei 4.5 Zi.-Wohnungen & GartenDieses neuwertige 2-Familienhaus mit zwei 4.5…
 Teilen
 E-Mail
 Facebook
@@ -469,63 +528,6 @@ Zimmer
 Wohnfläche
 197 m2
 An bevorzugter und familienfreundlicher Wohnlage entsteht ein Doppeleinfamilienhaus. Hier können Si…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Talweg
-1'265'000
-CHF
-Neubau - Attraktives Doppeleinfamilienh…
-Talweg, 4324 Obermumpf
-Array
-5.5 Zimmer
-197 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-5.5
-Wohnfläche
-197 m2
-An bevorzugter und familienfreundlicher Wohnlage entsteht ein Doppeleinfamilienhaus. Hier können Si…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-850'000
-CHF
-RIESIGES REIHENECKHAUS
-Adresse auf Anfrage, 4332 Stein AG
-Array
-6.5 Zimmer
-161 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-161 m2
-Reihenhäuser verfügen über wenig Platz? Mitnichten. - 161 m² Wohnfläche verteilt auf 6.5 Zimmer -…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-850'000
-CHF
-Ihr neues "Home & Office"- grosszügiges…
-Adresse auf Anfrage, 4314 Zeiningen
-Array
-6.5 Zimmer
-188 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-188 m2
-Bequem wohnen und arbeiten von zu Hause aus...Dieses charmante Mittelhaus liegt im Zentrum von Zein…
 Teilen
 E-Mail
 Facebook

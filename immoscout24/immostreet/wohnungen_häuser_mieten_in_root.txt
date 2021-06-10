@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-root/
 Title: Wohnungen & Häuser mieten in Root - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Root - Immostreet.ch: ImmoStreet.ch hat 33 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Root - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-33 Resultate gefunden ·
+31 Resultate gefunden ·
 Wohnungen & Häuser mieten in Root
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Mattweg 6
+1'695
+CHF
+/Monat
+Tolle, helle Wohnung in zentraler Lage
+Mattweg 6, 6037 Root
+Array
+3.5 Zimmer
+88 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+88 m2
+0ffene Küche mit viel StauraumBadezimmer mit separater Duschegrosser Einbauschrank im FlurEigener W…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Luzernerstrasse 36
 1'590
 CHF
@@ -282,26 +302,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Geretsmatt 5
-1'030
-CHF
-/Monat
-Günstige, gemütliche 3 1/2-Zi-Dachwohnu…
-Geretsmatt 5, 6037 Root
-Array
-3.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-70 m2
-Günstige, gemütliche 3 1/2-Zi-Dachwohnung (3. Stock)mit Cheminéekein Balkon, kein LiftMitbenützung …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Mattweg 1
 1'900
 CHF
@@ -390,26 +390,6 @@ Wohnung, Flach
 Zimmer
 3.5
 Schöne 3.5 Zimmer Wohnung sucht ein Nachmieter!- Sehr zentral gelegen.- Viel Stauraum- Inkl. einen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberfeldmatt 2
-1'390
-CHF
-/Monat
-Wunderschöne 3.5-Zimmer Dachwohnung mit…
-Oberfeldmatt 2, 6037 Root
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Für die Besichtigung melden Sie sich bitte auf mietwelt.ch an. Hierzu können Sie gerne auch den fol…
 Teilen
 E-Mail
 Facebook
@@ -504,6 +484,20 @@ Wohnfläche
 70 m2
 Etage
 Hier lässt es sich wohnenRoot ist ein Dorf im Luzerner Rontal mit rund 4'800 (2016) Einwohnerinnen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+GA Bahnhofstrasse 24
+150
+CHF
+/Monat
+Einstellhallenplätze zu vermieten!
+GA Bahnhofstrasse 24, 6037 Root
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten per sofort oder nach Vereinbarung Einstellhallenplätze an der Bahnhofstrasse in Root.…
 Teilen
 E-Mail
 Facebook

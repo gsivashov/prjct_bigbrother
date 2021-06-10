@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-mels/
 Title: Wohnung & Haus mieten in Mels - Immostreet.ch
-Description: Wohnung & Haus mieten in  Mels - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Mels - Immostreet.ch: ImmoStreet.ch hat 23 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-24 Resultate gefunden ·
+23 Resultate gefunden ·
 Wohnung & Haus mieten in Mels
 Preis (aufsteigend)
 Preis (absteigend)
@@ -392,26 +392,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Fabrikstrasse 30
-970
-CHF
-/Monat
-preisgünstige und gut erhaltene 4.0-Zim…
-Fabrikstrasse 30, 8887 Mels
-Array
-4 Zimmer
-73 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-73 m2
-Etwas oberhalb von Mels befindet sich diese sehr gut erhaltene 4-Zimmer-Wohnung, welche mit einem ü…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Ringstrasse 17
 1'380
 CHF
@@ -545,6 +525,23 @@ Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
+ÖKOLOGISCH - FAMILIENFREUNDLICH - RUHIGAm Gabreitenweg 2/4 entstehen zwei neue Mehrfamilienhäuser m…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gabreitenweg 4
+1'830
+CHF
+/Monat
+ERSTVERMIETUNG: 3.5-Zimmer-Wohnungen mi…
+Gabreitenweg 4, 8887 Mels
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
 ÖKOLOGISCH - FAMILIENFREUNDLICH - RUHIGAm Gabreitenweg 2/4 entstehen zwei neue Mehrfamilienhäuser m…
 Teilen
 E-Mail

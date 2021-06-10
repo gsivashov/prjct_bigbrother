@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-ostermundigen/
 Title: Wohnung & Haus mieten in Ostermundigen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Ostermundigen - Immostreet.ch: ImmoStreet.ch hat 63 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Ostermundigen - Immostreet.ch: ImmoStreet.ch hat 57 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-63 Resultate gefunden ·
+57 Resultate gefunden ·
 Wohnung & Haus mieten in Ostermundigen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,19 +152,22 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Oberer Flurweg 126
-1'780
+Tiefenmöslistrasse 3
+1'050
 CHF
 /Monat
-Unsere neue Familienwohnung?
-Oberer Flurweg 126, 3072 Ostermundigen
+2 1/2-Zimmerwohnung, Parterre rechts
+Tiefenmöslistrasse 3, 3072 Ostermundigen
 Array
-4.5 Zimmer
+2.5 Zimmer
+53 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
-Per 1. Oktober 2021 oder nach Vereinbarung vermieten wir an schöner und ruhiger Lage eine lichtdurc…
+2.5
+Wohnfläche
+53 m2
+sonnige und ruhige Lage - öV in der NäheGrosse Wohnung mit attraktivem Grundriss - grosszügige Küch…
 Teilen
 E-Mail
 Facebook
@@ -184,7 +187,7 @@ Zimmer
 3.5
 Wohnfläche
 64 m2
-Auf der Suche nach einer neuen Wohnung in einer ruhigen und doch zentralen Umgebung? Gerne möchten …
+Auf der Suche nach einer neuen Wohnung in einer ruhigen und doch zentralen Umgebung? Genau das find…
 Teilen
 E-Mail
 Facebook
@@ -222,23 +225,6 @@ Wohnung, Flach
 Zimmer
 3
 Das 6-Familienhaus ist unmittelbar in der Nähe der öffentlichen Verkehrsmittel. Waschmaschine und S…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obere Zollgasse 51A
-1'095
-CHF
-/Monat
-Heimelige 2.5-Zimmerwohnung im Herzen v…
-Obere Zollgasse 51A, 3072 Ostermundigen
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wir vermieten per 1. September 2021 diese ruhige und gemütliche 2.5-Zimmerwohnungen mitten in O…
 Teilen
 E-Mail
 Facebook
@@ -283,26 +269,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Mitteldorfstrasse 11
-1'140
-CHF
-/Monat
-Grosszügige Wohnung an ruhiger Lage suc…
-Mitteldorfstrasse 11, 3072 Ostermundigen
-Array
-2 Zimmer
-49 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-49 m2
-Es wird ein Nachmieter per 01.07.2021 gesucht!An ruhiger Wohnlage im Grünen vermieten wir diese sch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bernstrasse 25
 1'930
 CHF
@@ -319,27 +285,6 @@ Zimmer
 Wohnfläche
 70 m2
 Das neue Berner Wahrzeichen wurde für die unterschiedlichsten Persönlichkeiten konzipiert. Gestern …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schiessplatzweg 24
-1'420
-CHF
-/Monat
-Gemütliche 3 Zimmer Wohnung in Ostermun…
-Schiessplatzweg 24, 3072 Ostermundigen
-Array
-3 Zimmer
-67 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-67 m2
-Wir vermieten am Schiessplatzweg 24 in Ostermundigen, eine gemütliche 3 Zimmer Wohnung im EG.
-Mi…
 Teilen
 E-Mail
 Facebook
@@ -496,27 +441,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Schiessplatzweg 24
-1'420
-CHF
-/Monat
-Gemütliche 3 Zimmer Wohnung in Ostermun…
-Schiessplatzweg 24, 3072 Ostermundigen
-Array
-3 Zimmer
-67 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-67 m2
-Wir vermieten am Schiessplatzweg 24 in Ostermundigen, eine gemütliche 3 Zimmer Wohnung im EG.
-Mi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 1'050
 CHF
@@ -534,11 +458,87 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 4
+Gerbestrasse, 19
+690
+CHF
+/Monat
+Vermiete ab 1. Juni 2021 In helle WG Wo…
+Gerbestrasse, 19, 3072 Ostermundigen
+Array
+70 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+70 m2
+Vermiete ab 1. Juni 2021In helle Wohnung mit Parkett und eigener Balkon in Ostermundigen/Bern WG Zi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterdorfstr. 45
+1'950
+CHF
+/Monat
+Familienfreundlich und an verkehrsfreie…
+Unterdorfstr. 45, 3072 Ostermundigen
+Array
+4.5 Zimmer
+92 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+92 m2
+Die Wohnung befindet sich an einer ruhigen und sonnigen Verkehrslage. Sie bietet Ihnen folgende Vor…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterdorfstr. 45
+1'945
+CHF
+/Monat
+Wohnen im Lindendorfquartier!
+Unterdorfstr. 45, 3072 Ostermundigen
+Array
+4.5 Zimmer
+92 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+92 m2
+Im Herzen von Ostermundigen vermieten wir eine geräumige, helle Wohnung mit folgenden Merkmalen:- …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blankweg 24
+1'550
+CHF
+/Monat
+Ihr neues, modernes Reich!
+Blankweg 24, 3072 Ostermundigen
+Array
+3.5 Zimmer
+68 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+68 m2
+Wir vermieten per 1. August 2021 oder nach Vereinbarung eine moderne 3.5-Zimmerwohnungen im 4. Stoc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 3
 1
 2
 3
-4
 nächste Seite
 ImmoStreet.ch
 Mieten

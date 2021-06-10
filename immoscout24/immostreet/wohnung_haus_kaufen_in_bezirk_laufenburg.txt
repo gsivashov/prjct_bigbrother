@@ -151,6 +151,104 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Alte Landstrasse 6a
+310'000
+CHF
+Altersgerechte Wohnung an zentraler Lag…
+Alte Landstrasse 6a, 5027 Herznach
+Array
+2.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+75 m2
+Wir verkaufen nach Sanierung per 1. September 2021 oder nach Vereinbarung diese altersgerechte, hel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+598'000
+CHF
+GROSSZÜGIG UND ZENTRAL MIT WEITSICHT
+Adresse auf Anfrage, 5075 Hornussen
+Array
+3.5 Zimmer
+119 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+3.5
+Wohnfläche
+119 m2
+Diese traumhaft ausgestattete Dachwohnung ist ganztags besonnt und bietet ein Wohnerlebnis der Luxu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+695'000
+CHF
+2 ½-Zimmer-Attikawohnung - Ihr Rückzugs…
+Adresse auf Anfrage, 5073 Gipf-Oberfrick
+Array
+2.5 Zimmer
+76 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+76 m2
+Etage
+In einem beliebten Wohnquartier, nur rund 500 Meter vom Bahnhof Frick entfernt, wird diese kleine,…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+520'000
+CHF
+Fünf moderne Neubauwohnungen nahe Dorfz…
+Adresse auf Anfrage, 5074 Eiken
+Array
+2.5 Zimmer
+71 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+71 m2
+Etage
+Sie sind auf der Suche nach einer Eigentumswohnung? Zentral gelegen und überschaubar? Beim Innenaus…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Bifang 20
+1'190'000
+CHF
+Wohnen Sie noch oder leben Sie schon? S…
+Im Bifang 20, 5080 Laufenburg
+Array
+4 Zimmer
+129 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4
+Wohnfläche
+129 m2
+Etage
+Sie sind auf der Suche nach einer gediegenen Wohnung der Extraklasse? Sie legen grossen Wert auf vi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 1'690'000
 CHF
@@ -187,25 +285,6 @@ Wohnfläche
 279 m2
 Etage
 Die Liegenschaft befindet sich an optimal besonnter Südwesthanglage direkt an der Baurandzone und a…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-598'000
-CHF
-GROSSZÜGIG UND ZENTRAL MIT WEITSICHT
-Adresse auf Anfrage, 5075 Hornussen
-Array
-3.5 Zimmer
-119 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-119 m2
-Diese traumhaft ausgestattete Dachwohnung ist ganztags besonnt und bietet ein Wohnerlebnis der Luxu…
 Teilen
 E-Mail
 Facebook
@@ -405,26 +484,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Eichwald 244
-1'850'000
-CHF
-Moderner Luxus an sonnenverwöhnter und …
-Eichwald 244, 5275 Etzgen
-Array
-5.5 Zimmer
-197 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-197 m2
-Etage
-An bester Südwesthanglage in Etzgen, vor Wald- und Naturkulisse, löst dieses freistehende Haus ein,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Lindengasse 6a
 325'000
 CHF
@@ -481,64 +540,6 @@ Wohnfläche
 126 m2
 WÖLFLI -
 Mitten in der Dorfkernzone entsteht mit dem Ersatzneubau ein top-modernes Gebäude mit in…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mühligass 108
-990'000
-CHF
-Schicke 4.5-Zimmer-Galeriewohnung mitte…
-Mühligass 108, 5063 Wölflinswil
-Array
-4.5 Zimmer
-182 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-182 m2
-WÖLFLI -
-Mitten in der Dorfkernzone entsteht mit dem Ersatzneubau ein top-modernes Gebäude mit in…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-760'000
-CHF
-HERRLICHES HAUS IN HORNUSSEN
-Adresse auf Anfrage, 5075 Hornussen
-Array
-5.5 Zimmer
-145 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-145 m2
-Angenehm angetan über die vielen Vorteile werden die künftigen Besitzer dieses attraktiven Doppelei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schulstrasse 4
-995'000
-CHF
-Praktisch im Zentrum - Aussergewöhnlich…
-Schulstrasse 4, 5070 Frick
-Array
-2.5 Zimmer
-101 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-2.5
-Wohnfläche
-101 m2
-Zentraler geht fast nicht! Inmitten des Dorfzentrums entsteht diese kleine, aber feine architektoni…
 Teilen
 E-Mail
 Facebook

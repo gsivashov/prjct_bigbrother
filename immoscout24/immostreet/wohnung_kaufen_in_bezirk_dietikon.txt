@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-dietikon/
 Title: Wohnung kaufen in Bezirk Dietikon - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Dietikon - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Dietikon - Immostreet.ch: ImmoStreet.ch hat 30 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-32 Resultate gefunden ·
+30 Resultate gefunden ·
 Wohnung kaufen in Bezirk Dietikon
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Überlandstrasse 18
+1'090'000
+CHF
+EXKLUSIV IM 16. STOCK MIT UNVERBAUBARER…
+Überlandstrasse 18, 8953 Dietikon
+Array
+2.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+85 m2
+Diese moderne Wohnung an einer idealen Wohnlage, gleich in der Nähe des öffentlichen Verkehrs, dem …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Kirchstrasse 26
 1'840'000
 CHF
@@ -208,26 +227,6 @@ Wohnfläche
 104 m2
 Etage
 Zu verkaufen vom Privat eine sehr schöne helle Attikawohnung mit gehobenem Standart wie z.B.
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weihermattstrasse 10
-1'150'000
-CHF
-Zentral und ruhig die perfekte Kombina…
-Weihermattstrasse 10, 8902 Urdorf
-Array
-5.5 Zimmer
-139 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-Wohnfläche
-139 m2
-Etage
-Der Lift bringt Sie bequem in den 2. Stock und direkt vor die Wohnungstüre. Bereits beim Betreten d…
 Teilen
 E-Mail
 Facebook
@@ -364,25 +363,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Sonnhaldenstrasse 16
-780'000
-CHF
-Gartenwohnung zum Verlieben
-Sonnhaldenstrasse 16, 8142 Uitikon Waldegg
-Array
-2.5 Zimmer
-57 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-57 m2
-An traumhafter Wohnlage realisiert die Alfred Müller AG im zu Uitikon gehörenden Ortsteil Ringlikon…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Dorfstrasse 24
 1'360'000
 CHF
@@ -514,6 +494,25 @@ Wohnfläche
 201 m2
 Etage
 Luxuriöse 5½ Zimmer-Gartenwohnung mit grosser Sonnenterrasse!Neugierig? Starten wir doch gleich mit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ankenhofstrasse 22
+1'990'000
+CHF
+Urban Retreat | ZH
+Ankenhofstrasse 22, 8102 Oberengstringen
+Array
+3.5 Zimmer
+136 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+136 m2
+Moderne Attikawohnung in StadtnäheSowohl angrenzend an die Stadt als auch an das Naherholungsgebiet…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-greifensee/
 Title: Wohnungen & Häuser mieten in Greifensee - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Greifensee - Immostreet.ch: ImmoStreet.ch hat 25 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Greifensee - Immostreet.ch: ImmoStreet.ch hat 26 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-25 Resultate gefunden ·
+26 Resultate gefunden ·
 Wohnungen & Häuser mieten in Greifensee
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,34 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Burstwiesenstr. 18
+120
+CHF
+/Monat
+Bastelraum in Wohnliegenschaft zu vermi…
+Burstwiesenstr. 18, 8606 Greifensee
+Array
+Objekttyp
+Atelier
+Wir vermieten, nach Vereinbarung einen ca. 14m2 grossen Bastelraum (offener Holzverschlag). Einstel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Müllerwis 22
+120
+CHF
+/Monat
+Bastelraum in Wohnliegenschaft zu vermi…
+Müllerwis 22, 8606 Greifensee
+Array
+Objekttyp
+Atelier
+Wir vermieten, nach Vereinbarung einen ca. 14m2 grossen Bastelraum. Einstellplätze à CHF 125.--/Mon…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Am Pfisterhölzli 54
 1'260
 CHF
@@ -469,40 +497,6 @@ Zimmer
 Wohnfläche
 90 m2
 - Wohn- und Schlafbereich Parkettböden- Küche und Bad Plattenboden- Moderne Küche mit Geschirrspüle…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Müllerwis 25
-1'869
-CHF
-/Monat
-Wohnen am schönen Greifensee
-Müllerwis 25, 8606 Greifensee
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Wir vermieten nach Vereinbarung eine zentral gelegene 3½-Zimmer-Wohnung mit folgenden Eckdaten:- Al…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Burstw./Müllerwis/Seilerwis
-125
-CHF
-/Monat
-Einstellplätze per sofort zu vermieten
-Burstw./Müllerwis/Seilerwis, 8606 Greifensee
-Array
-Objekttyp
-Tiefgarage
-Wir vermieten per sofort oder nach Vereinbarung, in der Überbauung Müllerwis, Autoeinstellplätze à …
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-geroldswil/
 Title: Wohnung mieten in Geroldswil - Immostreet.ch
-Description: Wohnung mieten in  Geroldswil - Immostreet.ch: ImmoStreet.ch hat 3 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Geroldswil - Immostreet.ch: ImmoStreet.ch hat 6 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-3 Resultate gefunden ·
+6 Resultate gefunden ·
 Wohnung mieten in Geroldswil
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,66 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Huebwiesenstr. 7a
+2'730
+CHF
+/Monat
+Dachwohnung mit Galerie für Geniesser
+Huebwiesenstr. 7a, 8954 Geroldswil
+Array
+5.5 Zimmer
+155 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+5.5
+Wohnfläche
+155 m2
+Wir vermieten diese grosszügige und lichtdurchflutete Wohnung auf zwei Etagen:- Parkettboden im Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bergstrasse 22
+2'360
+CHF
+/Monat
+Familienwohnung am Südhang von Geroldsw…
+Bergstrasse 22, 8954 Geroldswil
+Array
+4.5 Zimmer
+107 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+107 m2
+Die grosszügige, helle Wohnung befindet sich in einem ruhigen Quartier mit viel grüner Umgebung. Da…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse 94
+1'585
+CHF
+/Monat
+Zentrale Wohnung mit Cheminée und schön…
+Dorfstrasse 94, 8954 Geroldswil
+Array
+3.5 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+78 m2
+Die Liegenschaft an der Dorfstrasse 94 befindet sich oberhalb des Dorfzentrums von Geroldswil an ru…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Welbrigring 42
 970
 CHF

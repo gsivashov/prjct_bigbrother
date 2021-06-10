@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-buttisholz/
 Title: Wohnungen & Häuser mieten in Buttisholz - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Buttisholz - Immostreet.ch: ImmoStreet.ch hat 11 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Buttisholz - Immostreet.ch: ImmoStreet.ch hat 10 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-11 Resultate gefunden ·
+10 Resultate gefunden ·
 Wohnungen & Häuser mieten in Buttisholz
 Preis (aufsteigend)
 Preis (absteigend)
@@ -142,24 +142,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Dorf 31
-Preis auf Anfrage
-Attika Wohnung, möbiliert
-Dorf 31, 6018 Buttisholz
-Array
-2.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-2.5
-Wohnfläche
-98 m2
-Wir vermieten unsere wunderschöne Attika Wohnung ab September bis und mit Dezember 2021. Nach Abspr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Banschimatt 9
 1'440
 CHF
@@ -175,7 +157,7 @@ Zimmer
 4.5
 Wohnfläche
 120 m2
-Ganze Wohnung Laminat- und Plattenböden, grosses Wohnzimmer mit Cheminée, Wohnküche mit Geschirrspü…
+Ganze Wohnung Laminat- und Plattenböden, grosses Wohnzimmer, Wohnküche mit Geschirrspüler, Bad/WC, …
 Teilen
 E-Mail
 Facebook

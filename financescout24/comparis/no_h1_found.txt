@@ -1,6 +1,6 @@
-URL: https://www.comparis.ch/erdbebenversicherung/info/wasevv
-Title: Was ist eine Erdbebenversicherung?
-Description: Das Risiko als Schweizer Einwohner von einem starken Erdbeben betroffen zu werden ist höher als bei allen übrigen Naturgefahren.
+URL: https://www.comparis.ch/motorradversicherung/service/kuendigungserinnerung
+Title: Motorradversicherung kündigen - Kündigungserinnerung
+Description: Kündigen Sie Ihre Motorradversicherung und sparen Sie Geld! Mit der Comparis-Kündigungserinnerung verpassen Sie keine Frist.
 
 Suche
 Menü
@@ -141,44 +141,33 @@ Vermeiden Sie Vorsorgelücken
 Sparen Sie für ein Eigenheim
 Jetzt mehr erfahren
 Versicherungen
-Erdbebenversicherung
+Motorradversicherung
 Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseite zu gewährleisten.
-Was ist eine Erdbebenversicherung?@Model.TitleTagString>
-Die Schweiz ist zwar ein Land mit moderater Erdbebengefährdung, aber durch die dichte Besiedlung und die hohe Konzentration an Sachwerten ist das finanzielle Risiko für Eigentümer sehr hoch. Schäden durch Erdbeben sind durch die obligatorische Gebäudeversicherung nicht oder kaum gedeckt. Der grösste Teil der entstehenden Kosten muss von den Eigentümern selber getragen werden, was unter Umständen zum finanziellen Ruin desselben führen kann. Um dies zu verhindern, empfiehlt es sich, eine Erdbebenversicherung abzuschliessen.
-Was deckt die Erdbebenversicherung ab?
-Wiederherstellung des Gebäudes nach einem Erdbeben
-Aufräumungs- und Erdbewegungskosten
-Expertenkosten und Kosten für Notreparaturen
-Zusätzliche Lebenshaltungskosten
-Mietertragsausfall
-Provisorische Sofortmassnahmen
-Wer zahlt im Schadenfall?
-Schliesst man zusätzlich zur obligatorischen Gebäudeversicherung keine Erdbebenversicherung ab, stellt der „Schweizerische Pool für Erdbebendeckung“ in de 17 Kantonen mit obligatorischer Gebäudeversicherung bis zu zwei Milliarden Franken für Schäden durch Erdbeben bereit. Der Wert aller Gebäude in der Schweiz liegt jedoch bei rund 1'300 Milliarden Franken. Die Kantone Genf, Uri, Schwyz, Tessin, Appenzell Innerrhoden, Wallis und Obwalden verfügen über keine obligatorische, kantonale Gebäudeversicherung und sind somit nicht Teil dieser Erdbebenpool-Lösung. Separat geregelt ist dies im Kanton Zürich, in dem der „Erdbebenfonds der Gebäudeversicherung des Kantons Zürich“ eine Milliarde Franken bereitstellt.
-Leistungen des "Schweizerischen Pools für Erdbebendeckung" und des "Erdbebenfonds der Gebäudeversicherung des Kantons Zürich":
-Zahlungen erfolgen erst bei starken Beben ab einer Intensität von VII auf der MSK-Skala, d.h. bei mittelstarken Beben erfolgt keine Zahlung.
-Pro Gebäude besteht ein Selbstbehalt, der 10 % der Versicherungssumme und mindestens CHF 50'000 beträgt.
-Wenn der Gesamtschaden eines Erdbebens die vom Pool bereitgestellte Summe übersteigt, werden die ausbezahlten Leistungen anteilsmässig gekürzt.
-Es handelt sich hierbei um freiwillige Leistungen und nicht um echte Versicherungslösungen. Daher besteht im Schadenfall kein zwingender Leistungsanspruch.
-Beide Lösungen decken nur Schäden am Gebäude. Aufräumungskosten sowie Kosten für Expertengutachten werden nicht vergütet.
-Absicherung durch private Versicherungsanbieter
-In der Schweiz bieten verschiedene Privatversicherer spezielle Erdbebenversicherungen an:
-Axa Winterthur
+Kündigungserinnerung
+Kündigungserinnerung – ein weiterer Comparis-Service
+Aktuelle Motorradversicherung
+Bitte wählen
+Allianz Suisse
+Allianz24.ch
+AXA
+Basler
+Basler Versicherung
 Die Mobiliar
+ELVIA
 Generali
-GVB Privatversicherungen AG
 Helvetia
-Lloyds
-Swiss Re
+Simpego
+smile.direct
+Touring Club Schweiz (TCS)
+Vaudoise
+Vaudoise
 Zurich
-Folgende Punkte müssen unbedingt beachtet werden:
-Die Erdbebenversicherung wird meistens als Zusatz zur Hausrat- resp. Haushaltversicherung angeboten. Eine Ausnahme dabei bildet die GVB, dort kann unabhängig von einer bestehenden Versicherung eine Erdbebenversicherung abgeschlossen werden.
-Schäden, die durch Erdbeben an Hausrat oder Eigenheim entstehen, werden erst mit Abschluss der Zusatzversicherung gedeckt.
-Dabei spielt es keine Rolle, ob man sein Eigentum bei einer kantonalen oder privaten Gebäudeversicherung versichert hat.
-Zurück
-Newsletter
-Immer aktuell informiert über Sparmöglichkeiten sowie Experten-Tipps rund um die Themen Gesundheit, Finanzen und Steuern.
-Jetzt anmelden
-Mit der Anmeldung stimme ich der Bearbeitung meiner Daten entsprechend der Datenschutzerklärung von comparis.ch zu.
+Vertrag läuft ab am
+Bitte geben Sie ein gültiges Datum ein.
+Bitte das genaue Ablaufdatum eingeben. Sie erhalten von Comparis rechtzeitig vor Ablauf der Kündigungsfrist eine Erinnerung per E-Mail.
+E-Mail-Adresse
+Ja, ich melde mich jetzt für den kostenlosen Comparis-Newsletter an.
+Weiter
 comparis.ch
 Über Comparis
 Medien

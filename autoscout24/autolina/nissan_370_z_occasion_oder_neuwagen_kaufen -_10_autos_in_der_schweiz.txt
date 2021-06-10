@@ -178,7 +178,7 @@ ab CHF 383/Monat
 NISSAN
 370 Z Pack Automatic
 CHF 24'900
-ab CHF 268/Monat
+ab CHF 294/Monat
 03.2010
 Automat
 32'800 km
@@ -195,14 +195,14 @@ NISSAN
 32'800 km
 CHF 24'900
 Merken
-ab CHF 268/Monat
+ab CHF 294/Monat
 NISSAN
 370 Z Roadster Pack
 CHF 19'990
 ab CHF 215/Monat
 08.2011
 Handschaltung
-82'500 km
+83'500 km
 Benzin
 Hinterradantrieb
 weiss
@@ -213,7 +213,7 @@ NISSAN
 370 Z Roadster Pack
 08.2011
 328 PS
-82'500 km
+83'500 km
 CHF 19'990
 Merken
 ab CHF 215/Monat
@@ -311,8 +311,8 @@ Garantieversprechen
 Faires Eintauschangebot
 NISSAN
 370 Z Pack Automatic
-CHF 13'500
-ab CHF 145/Monat
+CHF 12'800
+ab CHF 138/Monat
 04.2012
 Automat
 209'000 km
@@ -327,9 +327,9 @@ NISSAN
 04.2012
 328 PS
 209'000 km
-CHF 13'500
+CHF 12'800
 Merken
-ab CHF 145/Monat
+ab CHF 138/Monat
 NISSAN
 370 Z Roadster 3.7 V6 24V Pack
 CHF 46'500

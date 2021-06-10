@@ -122,6 +122,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Zürichstrasse 52
+1'290
+CHF
+/Monat
+Zu Vermieten 4-½ ZW imMFH mit eigene Ga…
+Zürichstrasse 52, 3360 Herzogenbuchsee
+Array
+4.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+75 m2
+Zu Vermieten in Herzogenbuchsee,Zürichstr. 52, in 2 Fam. Haus, 1. Stock 4-½ Zimmer-Wohnung mit Bal…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Sägeweg 10
 1'620
 CHF
@@ -475,27 +495,6 @@ Zimmer
 Wohnfläche
 85 m2
 Zu vermieten 4.5 Zimmerwohnung in einem 6 Familien Haus sehr ruhig, Kindergarten 2 min Bahnhof 8 mi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberstrasse 15
-1'980
-CHF
-/Monat
-Zu oberst im Haus, Dachwohnung mit Gale…
-Oberstrasse 15, 3360 Herzogenbuchsee
-Array
-4.5 Zimmer
-135 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Wohnfläche
-135 m2
-Etage
-Die grosszügige Dachwohnung ist gut durchdacht und bietet alles was das Herz begehrt.Besonderes Hig…
 Teilen
 E-Mail
 Facebook

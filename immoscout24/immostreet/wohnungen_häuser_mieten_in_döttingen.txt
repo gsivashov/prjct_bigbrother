@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-doettingen/
 Title: Wohnungen & Häuser mieten in Döttingen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Döttingen - Immostreet.ch: ImmoStreet.ch hat 29 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Döttingen - Immostreet.ch: ImmoStreet.ch hat 28 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-29 Resultate gefunden ·
+28 Resultate gefunden ·
 Wohnungen & Häuser mieten in Döttingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Badstrasse 28a
+1'870
+CHF
+/Monat
+Sonnige, grosszügige 3 1/2 - Zimmer-Woh…
+Badstrasse 28a, 5312 Döttingen
+Array
+3.5 Zimmer
+96 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+96 m2
+HIER WOHNEN = GENIESSEN! - sehr hoher Ausbau-Standard - minergiezertifiziert - gerade, schnörkellos…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Unterfeldstrasse 5
 1'300
 CHF
@@ -326,27 +346,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Wasenstrasse 2
-1'580
-CHF
-/Monat
-Moderne Wohnung mit grosser Terrasse
-Wasenstrasse 2, 5312 Döttingen
-Array
-3.5 Zimmer
-97 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-97 m2
-Etage
-- Offener und heller Ess- und Wohnraum- Moderne Küche- Dusche/WC mit Waschturm-separates Badezimmer…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Lärchenweg
 1'450
 CHF
@@ -447,26 +446,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Kornweg 3
-1'720
-CHF
-/Monat
-LETZTE Chance einer einzigartigen Neuba…
-Kornweg 3, 5312 Döttingen
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Idyllisch gelegen, am rechten Ufer der Aare, befindet sich die beschauliche Gemeinde Döttingen.Das …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Surbtalstrasse 23
 1'200
 CHF
@@ -500,6 +479,26 @@ Zimmer
 Wohnfläche
 66 m2
 Suchen Sie eine moderne Kleinwohnung an zentraler Lage Nähe Bahnhof und Einkauf? Dann haben wir die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstr. 32 (Süd)
+2'001
+CHF
+/Monat
+Wohnen mit Services - Ihre Wohlfühloase…
+Hauptstr. 32 (Süd), 5312 Döttingen
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Wer hier wohnt, kann sich als privilegiert betrachten. Denn alles ist da, was man im Seniorenalter …
 Teilen
 E-Mail
 Facebook

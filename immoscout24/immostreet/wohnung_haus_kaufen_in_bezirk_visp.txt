@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-visp/
 Title: Wohnung & Haus kaufen in Bezirk Visp - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Visp - Immostreet.ch: ImmoStreet.ch hat 170 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Visp - Immostreet.ch: ImmoStreet.ch hat 171 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-170 Resultate gefunden ·
+171 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Visp
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+460'000
+CHF
+WOHNEN WIE IM MITTELALTER
+Adresse auf Anfrage, 3932 Visperterminen
+Array
+5 Zimmer
+180 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5
+Wohnfläche
+180 m2
+Das rustikale Walliserhaus dessen Grundmauern aus dem Jahre 1485 datieren befindet sich im Weiler O…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Hanniggasse 18
 2'375'000
 CHF
@@ -511,26 +530,6 @@ Zimmer
 2.5
 Wohnfläche
 78 m2
-Etage
-Ab August 2021 entsteht in Täsch die Überbaung Solita mit ihren drei Häusern A, B und C. Die insges…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-920'000
-CHF
-Neue 3½-Zimmer-Dachwohnungen
-Adresse auf Anfrage, 3929 Täsch
-Array
-3.5 Zimmer
-123 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-123 m2
 Etage
 Ab August 2021 entsteht in Täsch die Überbaung Solita mit ihren drei Häusern A, B und C. Die insges…
 Teilen

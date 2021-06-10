@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-muenchenstein/
 Title: Wohnung & Haus mieten in Münchenstein - Immostreet.ch
-Description: Wohnung & Haus mieten in  Münchenstein - Immostreet.ch: ImmoStreet.ch hat 92 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Münchenstein - Immostreet.ch: ImmoStreet.ch hat 95 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-92 Resultate gefunden ·
+95 Resultate gefunden ·
 Wohnung & Haus mieten in Münchenstein
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,107 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Baselstrasse 71
+1'995
+CHF
+/Monat
+Helle Wohnung mit Aussicht ins Grüne
+Baselstrasse 71, 4142 Münchenstein
+Array
+4 Zimmer
+98 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+98 m2
+Die Adimmo vermietet diese helle 4-Zimmerwohnung im 3. OG im Einkaufszentrum Zollweiden in Münchens…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aeussere lange Heid 16
+1'525
+CHF
+/Monat
+In ruhigem Quartier in Münchenstein
+Aeussere lange Heid 16, 4142 Münchenstein
+Array
+3 Zimmer
+59 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+59 m2
+Wir suchen für diese schöne Wohnung an ruhiger Lage einen Nachmieter per 1. Juli 2021.
+Die Küche…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 49
+1'520
+CHF
+/Monat
+Schöne, grosse 3,5-Zimmer-Wohnung
+Hauptstrasse 49, 4142 Münchenstein
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Grosszügiges Wohn-/Esszimmer ca. 33 m², Zimmer: ca. 14 + 17 m², neue Wohnküche 11 m², Bad /WC, Eing…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bottmingerstrasse 47
+1'720
+CHF
+/Monat
+Sanierte 3.5 Zimmer-Wohnung in Münchens…
+Bottmingerstrasse 47, 4142 Münchenstein
+Array
+3.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+77 m2
+Adimmo AG vermietet per 16.09.2021 oder nach Vereinbarung in Münchenstein eine sanierte 3.5-Zimmer-…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aeussere Lange Heid 7
+1'411
+CHF
+/Monat
+Wohnung an ruhiger und zentraler Lage...
+Aeussere Lange Heid 7, 4142 Münchenstein
+Array
+4 Zimmer
+79 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+79 m2
+Diese ansprechende 4-Zimmerwohnung in grüner und kinderfreundlicher Umgebung liegt zentral und stad…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Therwilerstr. 5
 1'550
 CHF
@@ -310,27 +411,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Birseckstrasse 38
-1'415
-CHF
-/Monat
-DRINGEND ZUR NACHMIETE HEIMELIGE 3-ZI-W…
-Birseckstrasse 38, 4142 Münchenstein
-Array
-3 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-65 m2
-Etage
-Obgenannte 3-Zi-Wohnung ist per 1.8.2021 zu übernehmen!!! Sie befindet sich 5 Min. von der Grün 80 …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Im Steinenmüller 3
 1'520
 CHF
@@ -467,89 +547,6 @@ Zimmer
 Wohnfläche
 83 m2
 An der Binningerstr. 17 vermieten wir per sofort oder nach Vereinbarung eine 4-Zimmerwohnungen im 3…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Freilager-Platz 2
-4'065
-CHF
-/Monat
-Ein Wohntraum für Sie!
-Freilager-Platz 2, 4142 Münchenstein
-Array
-4.5 Zimmer
-185 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-185 m2
-Wir vermieten per 1.7.2021 oder nach Vereinbarung im Dreispitz Areal Transitlager diese moderne 4.5…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Baselstrasse 62
-1'590
-CHF
-/Monat
-Wohnung mit Sitzplatz zu vermieten
-Baselstrasse 62, 4142 Münchenstein
-Array
-3.5 Zimmer
-87 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-87 m2
-Gerne vermieten wir Ihnen diese schöne Wohnung.
-- Moderne Küche mit GWM
-- Esszimmer mit Durchga…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bottmingerstr. 40
-1'490
-CHF
-/Monat
-Lichtdurchflutete, luxuriös ausgebaute …
-Bottmingerstr. 40, 4142 Münchenstein
-Array
-2.5 Zimmer
-58 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-58 m2
-Wir vermieten in Münchenstein an guter Lage 2.5 Zi.-Wohnungen mit folgendem Ausbau:
-- Totalsanie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Baselstrasse 71
-1'920
-CHF
-/Monat
-Teilsanierte Wohnung mit tollem Sitzpla…
-Baselstrasse 71, 4142 Münchenstein
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Die Adimmo vermietet nach Vereinbarung diese grosszügige 3.5-Zimmerwohnung im 1. OG im Einkaufszent…
 Teilen
 E-Mail
 Facebook

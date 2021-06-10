@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-frauenfeld/
 Title: Haus kaufen in Bezirk Frauenfeld - Immostreet.ch
-Description: Haus kaufen in Bezirk Frauenfeld - Immostreet.ch: ImmoStreet.ch hat 53 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Frauenfeld - Immostreet.ch: ImmoStreet.ch hat 57 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-53 Resultate gefunden ·
+57 Resultate gefunden ·
 Haus kaufen in Bezirk Frauenfeld
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,79 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Escherweg 26
+700'000
+CHF
+Schönes Reiheneinfamilienhaus an ruhige…
+Escherweg 26, 8546 Kefikon TG
+Array
+137 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Wohnfläche
+137 m2
+Etage
+Reiheneinfamilienhaus an ruhiger Lage - Familienfreundliches Wohnquartier - Sehr gepflegtes Reih…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rodelstrasse 44
+Preis auf Anfrage
+Bauhaus-Villa mit Pool an erhöhter, ruh…
+Rodelstrasse 44, 8266 Steckborn
+Array
+5.5 Zimmer
+243 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+243 m2
+Bewusst und nachhaltig Leben mit Sinn für Genuss und Qualität hier finden Sie das ideale, moderne …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gartenweg 4
+920'000
+CHF
+Freistehendes Einfamilienhaus im Paradi…
+Gartenweg 4, 8252 Schlatt TG
+Array
+5.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+145 m2
+Anzahl Etagen 3Wohnfläche 145m2Grundstücksfläche 553m2Kubatur …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'400'000
+CHF
+Absolut Familienfreundliches Wohnen in …
+Adresse auf Anfrage, 8500 Frauenfeld
+Array
+6.5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+160 m2
+In Frauenfeld in bester Lage werden in diesem sehr schönen 6.5 Zimmer Haus Wohnträume war. Die verk…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Steinacker 13
 925'000
 CHF
@@ -448,81 +521,6 @@ Wohnfläche
 155 m2
 Etage
 Einfamilienhaus mit gemütlichem Garten an zentraler Lage -zentrale Lage von Frauenfeld -gepflegte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'950'000
-CHF
-Einmalige Chance: das "Rhyhus" könnte I…
-Adresse auf Anfrage, 8253 Diessenhofen
-Array
-6.5 Zimmer
-280 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-280 m2
-Direkt an der Landwirtschaftszone, über dem Rheinufer thronend, bietet sich hier die einmalige Gele…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-General-Weber-Strasse 39
-2'070'000
-CHF
-Fernsicht / Qualität / Nachhaltigkeit /…
-General-Weber-Strasse 39, 8500 Frauenfeld
-Array
-6.5 Zimmer
-250 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-250 m2
-Etage
-Nach dem Motto: «Mehr ist mehr» präsentieren wir Ihnen dieses Minergie-Hybrid-Traumhaus (Massiv-/Ho…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schmiedestrasse 19
-1'280'000
-CHF
-Einfamilienhaus mit schönem Umschwung
-Schmiedestrasse 19, 8555 Müllheim Dorf
-Array
-6.5 Zimmer
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Etage
-Gemütliches Einfamilienhaus mit schönem Gartenumschwung - ruhiges und familienfreundliches Wohnqua…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Langenharterstrasse 7/3
-898'500
-CHF
-Gepflegtes 5.5 Zimmer Doppeleinfamilien…
-Langenharterstrasse 7/3, 8555 Müllheim Dorf
-Array
-5.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-150 m2
-Gepflegtes Doppeleinfamilienhaus in familienfreundlicher, ruhiger Lager, nah an der Natur Das Doppe…
 Teilen
 E-Mail
 Facebook

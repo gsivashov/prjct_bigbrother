@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-baden/
 Title: Wohnung kaufen in Bezirk Baden - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Baden - Immostreet.ch: ImmoStreet.ch hat 111 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Baden - Immostreet.ch: ImmoStreet.ch hat 107 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-111 Resultate gefunden ·
+107 Resultate gefunden ·
 Wohnung kaufen in Bezirk Baden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,64 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Schönaustrasse 47
+510'000
+CHF
+Wohnen mitten in Wettingen
+Schönaustrasse 47, 5430 Wettingen
+Array
+3.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+65 m2
+Etage
+Die 3.5-Zimmer-Eigentumswohnung befindet sich an sonniger und ruhiger Wohnlage im sehr beliebten Al…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rüslerstrasse 9
+1'780'000
+CHF
+Grandiose Attika-Wohnung !
+Rüslerstrasse 9, 5452 Oberrohrdorf
+Array
+6.5 Zimmer
+198 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+6.5
+Wohnfläche
+198 m2
+Selten kommt es vor, dass wir eine attraktive Attika-Wohnung zum Verkauf anbieten dürfen… und wenn …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fluhmattstrasse 31
+335'000
+CHF
+Schmucke 2. Zimmer Wohnung an ruhiger L…
+Fluhmattstrasse 31, 5400 Baden
+Array
+2 Zimmer
+50 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+50 m2
+Im Hochhaus (links) verkaufen wir eine gemütliche 2-Zimmerwohnung im 4. Obergeschoss mit Kellerabte…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Unterriedstrasse 5
 1'740'000
 CHF
@@ -149,6 +207,26 @@ Zimmer
 Wohnfläche
 241 m2
 Dieses Verkaufsobjekt, eine Stockwerkeinheit beinhaltend zwei schöne Terrassenwohnungen an bester L…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Pilgerstrasse 81
+765'000
+CHF
+Gemütliche 5.5-Zimmer Maisonette-Wohnun…
+Pilgerstrasse 81, 5405 Dättwil AG
+Array
+5.5 Zimmer
+136 m2
+Objekttyp
+Wohnung, Duplex, Maisonette
+Zimmer
+5.5
+Wohnfläche
+136 m2
+Etage
+Zum Verkauf steht hier eine gemütliche und grosszügige Maisonette-Wohnung im Stockwerkeigentum. Die…
 Teilen
 E-Mail
 Facebook
@@ -438,80 +516,6 @@ Wohnfläche
 155 m2
 Etage
 Zum Verkauf steht diese attraktive 4.5-Zimmer-Maisonettewohnung in einem kleinen 3-Familienhaus an …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-990'000
-CHF
-GROSSZÜGIG - ELEGANT - MIT WEINKELLER
-Adresse auf Anfrage, 5413 Birmenstorf AG
-Array
-3.5 Zimmer
-124 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-124 m2
-Das Mehrfamilienhaus mit der eleganten Wohnung im 2. Obergeschoss liegt direkt neben den Rebbergen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-450'000
-CHF
-KOMPLETT RENOVIERT, AN ZENTRALER LAGE M…
-Adresse auf Anfrage, 8957 Spreitenbach
-Array
-3.5 Zimmer
-67 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-67 m2
-Hier wird eine Wohnung verkauft, welche aktuell komplett renoviert wird. Der Gang bis zum Wohnzimme…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-650'000
-CHF
-Alterswohnung an ruhiger Lage mit guter…
-Adresse auf Anfrage, 5452 Oberrohrdorf
-Array
-4.5 Zimmer
-99 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-99 m2
-Etage
-Das Mehrfamilienhaus liegt praktisch, zwischen den Dorfzentren von Oberrohrdorf und Niederrohrdorf.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schönbühlstrasse 38
-690'000
-CHF
-Wohnen an zentraler Lage mit grossem Au…
-Schönbühlstrasse 38, 5442 Fislisbach
-Array
-94 m2
-Objekttyp
-Wohnung, Flach
-Wohnfläche
-94 m2
-An der Schönbühlstrasse 38 in Fislisbach verkaufen wir eine praktische 4.5-Zimmer-Gartenwohnung an …
 Teilen
 E-Mail
 Facebook

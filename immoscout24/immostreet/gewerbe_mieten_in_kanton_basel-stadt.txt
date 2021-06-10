@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/gewerbe-industrie/kanton-baselstadt/
 Title: Gewerbe mieten in Kanton Basel-Stadt - Immostreet.ch
-Description: Gewerbe mieten in Kanton Basel-Stadt - Immostreet.ch: ImmoStreet.ch hat 491 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Gewerbe mieten in Kanton Basel-Stadt - Immostreet.ch: ImmoStreet.ch hat 490 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -136,7 +136,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-491 Resultate gefunden ·
+490 Resultate gefunden ·
 Gewerbe mieten in Kanton Basel-Stadt
 Preis (aufsteigend)
 Preis (absteigend)
@@ -149,16 +149,158 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Amerbachstrasse 45
-575
+Adresse auf Anfrage
+4'500
 CHF
 /Monat
-Hobbyraum mit WC zu vermieten
-Amerbachstrasse 45, 4057 Basel
+GERÄUMIG UND VIELE MÖGLICHKEITEN AN BES…
+Adresse auf Anfrage, 4053 Basel
+Array
+6 Zimmer
+Objekttyp
+Verkauf, Geschäft
+Zimmer
+6
+Diese helle und geräumige Gewerbefläche vermieten wir an bester Lage Nähe Bahnhof SBB, gleich am Ec…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Güterstrasse 175
+Preis auf Anfrage
+Laden an TOP-Lage im Gundeli zu vermiet…
+Güterstrasse 175, 4053 Basel
+Array
+3 Zimmer
+79 m2
+Objekttyp
+Verkauf, Geschäft
+Zimmer
+3
+Wohnfläche
+79 m2
+Etage
+Wir vermieten nach Vereinbarung an Top-Lage im Gundeli einen schönen, repräsentativen Laden mit gro…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Falknerstrasse 13
+2'290
+CHF
+/Monat
+Ihr neues Büro an bester Altstadtlage
+Falknerstrasse 13, 4001 Basel
+Array
+2 Zimmer
+Objekttyp
+Büro
+Zimmer
+2
+An perfektem Standort in der Basler Altstadt bieten Ihnen diese Räumlichkeiten die Chance, Ihr neue…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+St. Alban-Tal 34
+225
+CHF
+Arbeiten mit Stil! Attraktive Bürofläch…
+St. Alban-Tal 34, 4052 Basel
 Array
 Objekttyp
-Verkauf, Lager
-Per sofort oder nach Vereinbarung vermieten wir diesen schönen Hobbyraum mit WC an der Amerbachstra…
+Büro
+Etage
+Attraktive Büroräumlichkeiten in repräsentativer Wohnliegenschaft an bester Lage. Die Mietfläche üb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Route du fret
+185
+CHF
+Günstige, optimal ausgestattete Büros v…
+Route du fret, 4030 Basel
+Array
+Objekttyp
+Büro
+Am zentralen Kreisel des Euroairport Basel befindet sich der Bürokomplex der Swiss International Ai…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Route du fret
+185
+CHF
+Günstige, klimatisierte, unterteilte un…
+Route du fret, 4030 Basel
+Array
+Objekttyp
+Büro
+Am zentralen Kreisel des Euroairport Basel befindet sich der Bürokomplex der Swiss International Ai…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Route du fret
+195
+CHF
+Ihr Tor zur Welt und zur 3-Land Region:…
+Route du fret, 4030 Basel
+Array
+Objekttyp
+Büro
+Am zentralen Kreisel des Euroairport Basel befindet sich der Bürokomplex der Swiss International Ai…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Clarastrasse 57
+1'065
+CHF
+/Monat
+Zuhause beim Claraturm
+Clarastrasse 57, 4058 Basel
+Array
+1.5 Zimmer
+Objekttyp
+Geschäft, Atelier
+Zimmer
+1.5
+In Kleinbasel ? direkt neben dem Claraturm ? werden in der Clarastrasse 57 gesamt 19 Wohnungen fris…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Güterstrasse 98
+1'140
+CHF
+/Monat
+Neues Büro, Ladenlokal oder Studio
+Güterstrasse 98, 4053 Basel
+Array
+1.5 Zimmer
+42 m2
+Objekttyp
+Büro
+Zimmer
+1.5
+Wohnfläche
+42 m2
+Ideale Lage für ein Büro, eine Kanzlei oder ein kleines Geschäft.An bester Lage, direkt beim Meret …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aeschenvorstadt 55
+271
+CHF
+Am Puls der Stadt: 1A Geschäftslage am …
+Aeschenvorstadt 55, 4051 Basel
+Array
+Objekttyp
+Büro
+Wir vermieten im Zentrum von Basel, wenige Gehminuten vom Bahnhof und der Einkaufsstrasse, Büroräum…
 Teilen
 E-Mail
 Facebook
@@ -201,28 +343,9 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bläsiring 138
-350
-CHF
-/Monat
-Lagerraum
-Bläsiring 138, 4057 Basel
-Array
-3 Zimmer
-137 m2
-Objekttyp
-Verkauf, Lager
-Zimmer
-3
-Wohnfläche
-137 m2
-In Basel-Stadt ist dieser günstige Lagerraum (in drei Räumen aufgeteilt) zur Untermiete verfügbar. …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Rittergasse 20
-Preis auf Anfrage
+652
+CHF
 Ritterhof - Geschäftshaus an exklusiver…
 Rittergasse 20, 4051 Basel
 Array
@@ -248,7 +371,8 @@ E-Mail
 Facebook
 Whatsapp
 Rittergasse 20
-Preis auf Anfrage
+652
+CHF
 Ritterhof Haupthaus - Buroflächen an ex…
 Rittergasse 20, 4051 Basel
 Array
@@ -261,7 +385,8 @@ E-Mail
 Facebook
 Whatsapp
 Rittergasse 20
-Preis auf Anfrage
+652
+CHF
 Ritterhof - Geschäftshaus an exklusiver…
 Rittergasse 20, 4051 Basel
 Array
@@ -340,127 +465,6 @@ Büro
 Wohnfläche
 295 m2
 Wir vermieten per nächstmöglichem Zeitpunkt 295 m2 vollständig ausgestattete Büroflächen mit unverg…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberdorfstrasse 50
-1'150
-CHF
-/Monat
-Hobby-/Atelierraum in der Nähe des Dorf…
-Oberdorfstrasse 50, 4125 Riehen
-Array
-3 Zimmer
-Objekttyp
-Geschäft, Atelier
-Zimmer
-3
-Per 1. Oktober 2021 vermieten wir dieses grosszügige Atelier mit insgesamt 113m2.Die Räumlichkeiten…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Klybeckstrasse 144
-6'500
-CHF
-/Monat
-RESTAURANT IM KLYBECKQUARTIER ZU ÜBERNE…
-Klybeckstrasse 144, 4057 Basel
-Array
-3 Zimmer
-Objekttyp
-Restaurant
-Zimmer
-3
-RESTAURANT AN BESTER LAGE ZU ÜBERNEHMENWegen gesundheitlichen Grünen wird ein sehr schönes Restaura…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Falknerstr. 9
-2'695
-CHF
-/Monat
-City Lage - Attraktive Gewerbe-/Büroräu…
-Falknerstr. 9, 4001 Basel
-Array
-Objekttyp
-Büro
-An zentraler Lage, zwischen Barfüsserplatz und Marktplatz, vermieten wir diese Bürofläche auf ca. 1…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'930
-CHF
-/Monat
-BOUTIQUE IM ZENTRUM VON BASEL
-Adresse auf Anfrage, 4058 Basel
-Array
-3.5 Zimmer
-Objekttyp
-Verkauf, Geschäft
-Zimmer
-3.5
-Wollten Sie schon immer am Puls des Handels Ihr Verkaufstalent unter Beweis stellen? Oder einfach I…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Clarastrasse 55
-1'290
-CHF
-/Monat
-Ihr neues Büro im Kleinbasel
-Clarastrasse 55, 4058 Basel
-Array
-Objekttyp
-Büro
-Wir vermieten ab sofort oder nach Vereinbarung ein 2 Raum-Büro in der Nähe der Messe Basel. Beide R…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sankt Alban-Ring 211
-3'120
-CHF
-/Monat
-Ladenlokal / Comestibles / Ausstellung
-Sankt Alban-Ring 211, 4052 Basel
-Array
-1.5 Zimmer
-Objekttyp
-Verkauf, Werbefläche
-Zimmer
-1.5
-Wir vermieten per sofort oder nach Vereinbarung in gepflegter Liegenschaft, ein bisher als Vinothek…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Müllheimerstrasse 99
-Preis auf Anfrage
-Gewerbeobjekt, Büro, Ladenfläche, Werks…
-Müllheimerstrasse 99, 4057 Basel
-Array
-Objekttyp
-Verkauf, Gewerbe
-An der Mülheimerstrasse 99 (Ecke Bläsiring) in Basel, vermieten wir diese Gewerberäumlichkeiten.Die…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Vogesenstrasse 135
-107
-CHF
-Lagerraum im 1. Untergeschoss
-Vogesenstrasse 135, 4056 Basel
-Array
-Objekttyp
-Verkauf, Lager
-- Raumhöhe zirka 4.00 m.- Zufahrt mit LKW möglich.- Preise pro m2/Jahr Fr. 107.00 inkl. Nebenkosten…
 Teilen
 E-Mail
 Facebook

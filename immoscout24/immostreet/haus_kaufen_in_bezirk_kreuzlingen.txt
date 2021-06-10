@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-kreuzlingen/
 Title: Haus kaufen in Bezirk Kreuzlingen - Immostreet.ch
-Description: Haus kaufen in Bezirk Kreuzlingen - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Kreuzlingen - Immostreet.ch: ImmoStreet.ch hat 33 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-34 Resultate gefunden ·
+33 Resultate gefunden ·
 Haus kaufen in Bezirk Kreuzlingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,25 +138,6 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-1'800'000
-CHF
-Investor gesucht
-Adresse auf Anfrage, 8274 Tägerwilen
-Array
-7.5 Zimmer
-650 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7.5
-Wohnfläche
-650 m2
-Zum Bau und Verkauf von vier Eigentumswohnungen im Raum Kemmental.Es werden nur seriöse Anfragen be…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Dorfstrasse
 2'020'000
 CHF
@@ -267,7 +248,7 @@ Whatsapp
 Adresse auf Anfrage
 1'600'000
 CHF
-GUTER BAUBESTAND MIT AUSBAUMÖGLICHKEITE…
+BITTE KEINE ANFRAGEN MEHR!
 Adresse auf Anfrage, 8566 Neuwilen
 Array
 10 Zimmer
@@ -500,6 +481,25 @@ Zimmer
 Wohnfläche
 225 m2
 Herzlich Willkommen im schönen Zuben. Dort wo das Leben Familie heisst. Hübsche Häuser mit freundli…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse 2
+1'055'000
+CHF
+Gemeinsame Zukunft mit viel Potenzial
+Dorfstrasse 2, 8596 Scherzingen
+Array
+6.5 Zimmer
+329 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+329 m2
+Herzlich willkommen im Bäckerstübli, einem Wohnhaus mit zahlreichen Umbau- oder Ausbaumöglichkeiten…
 Teilen
 E-Mail
 Facebook

@@ -131,6 +131,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Hauptstrasse 48
+1'500
+CHF
+/Monat
+Wohnen wie im Stockwerkeigentum
+Hauptstrasse 48, 5737 Menziken
+Array
+3.5 Zimmer
+91 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+91 m2
+Wohnung 9Nach einer aufwendigen Sanierung erstrahlt das einst alte Mühlegebäude in neuem Glanze und…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Sagiweg 6
 920
 CHF
@@ -489,26 +509,6 @@ Zimmer
 Wohnfläche
 92 m2
 Wiir vermieten per sofort oder nach Vereinbarung eine moderne 3.5-Zimmerwohnung im Neubau an der Ha…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mühlebühlstrasse 8
-1'000
-CHF
-/Monat
-3-Zimmerwohnung im 2.OG
-Mühlebühlstrasse 8, 5737 Menziken
-Array
-3 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-65 m2
-Ab sofort vermieten wir an der Mühlebühlstrasse 8 eine ruhige 3-Zimmer-Wohnung in einer gut gepfleg…
 Teilen
 E-Mail
 Facebook

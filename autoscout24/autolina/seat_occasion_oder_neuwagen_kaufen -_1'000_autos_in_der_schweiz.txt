@@ -152,6 +152,72 @@ TI
 WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
+NEU
+SEAT
+ATECA 2.0TDI Xcellence 4Drive
+CHF 32'700
+ab CHF 385/Monat
+07.2019
+Automat
+9'000 km
+Diesel
+Allradantrieb
+weiss
+150 PS
+ZH
+Merken
+SEAT
+ATECA 2.0TDI Xcellence 4Drive
+07.2019
+150 PS
+9'000 km
+CHF 32'700
+Merken
+ab CHF 385/Monat
+NEU
+SEAT
+LEON ST 1.4eHybrid FR
+CHF 35'800
+ab CHF 422/Monat
+01.2021
+Automat
+10 km
+Plug-in-Hybrid Benzin/Elektro
+Vorderradantrieb
+grau
+204 PS
+ZH
+Merken
+SEAT
+LEON ST 1.4eHybrid FR
+01.2021
+204 PS
+10 km
+CHF 35'800
+Merken
+ab CHF 422/Monat
+NEU
+SEAT
+IBIZA 1.0TSI Hola FR NAV 18Z LED
+CHF 21'500
+ab CHF 254/Monat
+01.2021
+Handschaltung
+10 km
+Benzin
+Vorderradantrieb
+grau
+110 PS
+ZH
+Merken
+SEAT
+IBIZA 1.0TSI Hola FR NAV 18Z LED
+01.2021
+110 PS
+10 km
+CHF 21'500
+Merken
+ab CHF 254/Monat
 SEAT
 Leon ST 1.4 TSI 150 ACT FR DSG
 CHF 15'500
@@ -237,27 +303,6 @@ CHF 34'000
 Merken
 ab CHF 366/Monat
 SEAT
-IBIZA 1.0 EcoTSI FR 18Z NAV DAB ACC RFK
-CHF 21'500
-ab CHF 254/Monat
--
-Automat
-10 km
-Benzin
-Vorderradantrieb
-schwarz
-110 PS
-ZH
-Merken
-SEAT
-IBIZA 1.0 EcoTSI FR 18Z NAV DAB A...
--
-110 PS
-10 km
-CHF 21'500
-Merken
-ab CHF 254/Monat
-SEAT
 Ibiza 1.4 TSI 150 ACT FR Line
 CHF 12'900
 ab CHF 139/Monat
@@ -299,27 +344,6 @@ Leon 1.4 TSI 150 ACT FR-Evolut. D...
 CHF 22'850
 Merken
 ab CHF 246/Monat
-SEAT
-Leon 2.0 TDI DPF FR
-CHF 7'500
-ab CHF 85/Monat
-07.2010
-Handschaltung
-114'000 km
-Diesel
-Vorderradantrieb
-weiss
-170 PS
-VD
-Merken
-SEAT
-Leon 2.0 TDI DPF FR
-07.2010
-170 PS
-114'000 km
-CHF 7'500
-Merken
-ab CHF 85/Monat
 SEAT
 Leon 1.4 TSI 150 ACT FR
 CHF 13'000
@@ -363,27 +387,6 @@ CHF 20'500
 Merken
 ab CHF 221/Monat
 SEAT
-Leon ST 2.0 TSI 300 4 Drive DSG
-CHF 26'900
-ab CHF 289/Monat
-07.2017
-Automat
-75'500 km
-Benzin
-Allradantrieb
-schwarz
-300 PS
-AG
-Merken
-SEAT
-Leon ST 2.0 TSI 300 4 Drive DSG
-07.2017
-300 PS
-75'500 km
-CHF 26'900
-Merken
-ab CHF 289/Monat
-SEAT
 Alhambra 2.0 TDI 177 Swiss FR DSG S/S
 CHF 34'900
 ab CHF 375/Monat
@@ -426,27 +429,6 @@ CHF 6'200
 Merken
 ab CHF 70/Monat
 SEAT
-Ibiza 1.4 TSI 140 ACT FR 30 S/S
-CHF 10'000
-ab CHF 113/Monat
-08.2014
-Handschaltung
-64'000 km
-Benzin
-Vorderradantrieb
-schwarz
-140 PS
-GE
-Merken
-SEAT
-Ibiza 1.4 TSI 140 ACT FR 30 S/S
-08.2014
-140 PS
-64'000 km
-CHF 10'000
-Merken
-ab CHF 113/Monat
-SEAT
 Ateca 1.5 TSI Swiss Xcellence DSG
 CHF 28'890
 ab CHF 311/Monat
@@ -467,6 +449,27 @@ Ateca 1.5 TSI Swiss Xcellence DSG
 CHF 28'890
 Merken
 ab CHF 311/Monat
+SEAT
+Leon 2.0 TSI FR DSG
+CHF 8'500
+ab CHF 96/Monat
+06.2011
+Automat
+136'000 km
+Benzin
+Vorderradantrieb
+anthrazit
+211 PS
+VD
+Merken
+SEAT
+Leon 2.0 TSI FR DSG
+06.2011
+211 PS
+136'000 km
+CHF 8'500
+Merken
+ab CHF 96/Monat
 1
 1
 2

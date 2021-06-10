@@ -196,8 +196,7 @@ Merken
 ab CHF 397/Monat
 VOLVO
 V70 2.3 T5
-CHF 4'500
-ab CHF 51/Monat
+CHF 3'500
 10.2001
 Automat
 222'985 km
@@ -212,9 +211,8 @@ V70 2.3 T5
 10.2001
 250 PS
 222'985 km
-CHF 4'500
+CHF 3'500
 Merken
-ab CHF 51/Monat
 VOLVO
 PV 544 B 18 Sport (Coupé)
 CHF 25'900
@@ -342,148 +340,131 @@ CHF 47'630
 Merken
 ab CHF 512/Monat
 VOLVO
-C70 Cabriolet 2.4 T
-CHF 11'000
-ab CHF 124/Monat
-05.2001
+XC40 2.0 D3 Momentum AWD
+CHF 49'900
+ab CHF 536/Monat
+01.2020
 Automat
-53'300 km
-Benzin
-Vorderradantrieb
-schwarz
-193 PS
-AG
-Merken
-VOLVO
-C70 Cabriolet 2.4 T
-05.2001
-193 PS
-53'300 km
-CHF 11'000
-Merken
-ab CHF 124/Monat
-NEU
-VOLVO
-V60 Cross Country D3 Executive Geartronic
-CHF 19'500
-ab CHF 210/Monat
-05.2017
-Automat
-85'500 km
+11'271 km
 Diesel
-Vorderradantrieb
-schwarz
-150 PS
-AG
-Merken
-VOLVO
-V60 Cross Country D3 Executive Ge...
-05.2017
-150 PS
-85'500 km
-CHF 19'500
-Merken
-ab CHF 210/Monat
-NEU
-VOLVO
-XC60 2.0 T5 Executive Plus AWD S/S
-CHF 33'950
-ab CHF 365/Monat
-03.2017
-Automat
-71'954 km
-Benzin
 Allradantrieb
 grau
-245 PS
-BE
+150 PS
+SO
 Merken
 VOLVO
-XC60 2.0 T5 Executive Plus AWD S/...
-03.2017
-245 PS
-71'954 km
-CHF 33'950
-Merken
-ab CHF 365/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-VOLVO
-V40 1.6 T4 Momentum S/S
-CHF 15'900
-ab CHF 171/Monat
-12.2012
-Automat
-59'000 km
-Benzin
-Vorderradantrieb
-grau
-180 PS
-ZH
-Merken
-VOLVO
-V40 1.6 T4 Momentum S/S
-12.2012
-180 PS
-59'000 km
-CHF 15'900
-Merken
-ab CHF 171/Monat
-NEU
-VOLVO
-XC40 2.0 T5 Inscription AWD
-CHF 51'750
-ab CHF 556/Monat
+XC40 2.0 D3 Momentum AWD
 01.2020
+150 PS
+11'271 km
+CHF 49'900
+Merken
+ab CHF 536/Monat
+VOLVO
+V60 2.0 D3 Momentum AWD
+CHF 49'900
+ab CHF 536/Monat
+10.2020
 Automat
-12'617 km
-Benzin
+6'323 km
+Diesel
 Allradantrieb
 schwarz
-247 PS
-BE
+150 PS
+SO
 Merken
 VOLVO
-XC40 2.0 T5 Inscription AWD
-01.2020
-247 PS
-12'617 km
-CHF 51'750
+V60 2.0 D3 Momentum AWD
+10.2020
+150 PS
+6'323 km
+CHF 49'900
 Merken
-ab CHF 556/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
+ab CHF 536/Monat
 VOLVO
-V40 Kombi 1.6 T2 Momentum S/S
-CHF 20'950
-ab CHF 225/Monat
-03.2015
-Handschaltung
-66'546 km
+V60 2.0 T6 TE Business eAWD
+CHF 69'724
+ab CHF 749/Monat
+-
+Automat
+0 km
+Plug-in-Hybrid Benzin/Elektro
+Allradantrieb
+schwarz
+253 PS
+SO
+Merken
+VOLVO
+V60 2.0 T6 TE Business eAWD
+-
+253 PS
+0 km
+CHF 69'724
+Merken
+ab CHF 749/Monat
+VOLVO
+V40 1.5 T2 Dynamic S/S
+CHF 32'900
+ab CHF 354/Monat
+08.2019
+Automat
+9'800 km
 Benzin
 Vorderradantrieb
-weiss
-200 PS
-BE
+schwarz
+122 PS
+SO
 Merken
 VOLVO
-V40 Kombi 1.6 T2 Momentum S/S
-03.2015
-200 PS
-66'546 km
-CHF 20'950
+V40 1.5 T2 Dynamic S/S
+08.2019
+122 PS
+9'800 km
+CHF 32'900
 Merken
-ab CHF 225/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
+ab CHF 354/Monat
+VOLVO
+V60 Cross Country 2.0 D4 AWD
+CHF 49'401
+ab CHF 531/Monat
+04.2019
+Automat
+24'812 km
+Diesel
+Allradantrieb
+grau
+191 PS
+SO
+Merken
+VOLVO
+V60 Cross Country 2.0 D4 AWD
+04.2019
+191 PS
+24'812 km
+CHF 49'401
+Merken
+ab CHF 531/Monat
+VOLVO
+V60 2.0 T6 Momentum AWD
+CHF 42'925
+ab CHF 461/Monat
+10.2018
+Automat
+22'869 km
+Benzin
+Allradantrieb
+sonstiges
+310 PS
+SO
+Merken
+VOLVO
+V60 2.0 T6 Momentum AWD
+10.2018
+310 PS
+22'869 km
+CHF 42'925
+Merken
+ab CHF 461/Monat
 1
 1
 2
@@ -547,6 +528,7 @@ Luzern
 Neuchâtel
 Obwalden
 St Gallen
+Schaffhausen
 Solothurn
 Schwyz
 Thurgau

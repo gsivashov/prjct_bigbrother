@@ -151,6 +151,62 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+Preis auf Anfrage
+Historisches Juwel für Liebhaber des Be…
+Adresse auf Anfrage, 9442 Berneck
+Array
+7.5 Zimmer
+320 m2
+Objekttyp
+Wohnung, Bauernhaus
+Zimmer
+7.5
+Wohnfläche
+320 m2
+Etage
+An bevorzugter Wohnlage, erhöht über der Weinbaugemeinde Berneck, bieten wir exklusiv die historisc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rüdenstrasse 22a
+Preis auf Anfrage
+Sonnig und ruhig wohnen mit einzigartig…
+Rüdenstrasse 22a, 9442 Berneck
+Array
+7.5 Zimmer
+183 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Wohnfläche
+183 m2
+Dieses einzigartige, behagliche Einfamilienhaus befindet sich etwas oberhalb Berneck im Gebiet Rüde…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Untere Haldenstrasse 3
+439'000
+CHF
+Top 5-Zimmer Eigentumswohnung in St. Ma…
+Untere Haldenstrasse 3, 9430 St. Margrethen SG
+Array
+5 Zimmer
+102 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5
+Wohnfläche
+102 m2
+Top 5-Zimmer Wohnung bestehend aus einer 3.5-Zimmer und einer 1.5-Zimmer WohnungSuchen Sie eine tol…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Rhodstrasse 14
 Preis auf Anfrage
 Attraktives Dreigenerationenhaus zu kau…
@@ -265,25 +321,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Hauptstrasse 172
-749'000
-CHF
-Ganzes Stockwerk mit Entfaltungsmöglich…
-Hauptstrasse 172, 9430 St. Margrethen SG
-Array
-7.5 Zimmer
-140 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-7.5
-Wohnfläche
-140 m2
-ObjektDas Objekt befindet sich in der obersten Etage in einem 6 Familienhaus. Für die fünf Eigentüm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Gemüsemarkt 15
 350'000
 CHF
@@ -300,26 +337,6 @@ Wohnfläche
 76 m2
 Etage
 Diese grosszügige 4-Zimmer-Maisonettewohnung liegt mitten im Zentrum von Altstätten.Die Wohnung ver…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 172
-749'000
-CHF
-Ganzes Stockwerk mit Entfaltungspotenzi…
-Hauptstrasse 172, 9430 St. Margrethen SG
-Array
-8 Zimmer
-140 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-8
-Wohnfläche
-140 m2
-Etage
-ObjektDas Objekt befindet sich in der obersten Etage in einem 6 Familienhaus. Für die fünf Eigentüm…
 Teilen
 E-Mail
 Facebook
@@ -451,25 +468,6 @@ Wohnung, Einzelhaus
 Zimmer
 6.5
 Dieses grosszügig konzipierte Einfamilienhaus an leicht erhöhter Lage mit fantastischer Aussicht wu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-330'000
-CHF
-REFH oder als Renditeobjekt?
-Adresse auf Anfrage, 9445 Rebstein
-Array
-5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5
-Wohnfläche
-95 m2
-Privatverkauf! Älteres Reiheneinfamilienhaus in Rebstein.5 Zimmer / ca. 95m2 / 284m3Neue Gasheizung…
 Teilen
 E-Mail
 Facebook

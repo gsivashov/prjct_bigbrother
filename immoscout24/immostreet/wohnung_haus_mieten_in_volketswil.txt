@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-volketswil/
 Title: Wohnung & Haus mieten in Volketswil - Immostreet.ch
-Description: Wohnung & Haus mieten in  Volketswil - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Volketswil - Immostreet.ch: ImmoStreet.ch hat 33 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-34 Resultate gefunden ·
+33 Resultate gefunden ·
 Wohnung & Haus mieten in Volketswil
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,57 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Ackerstr. 31
+90
+CHF
+/Monat
+Bastelräume ab sofort zu vermieten
+Ackerstr. 31, 8604 Volketswil
+Array
+Objekttyp
+Atelier
+Wir vermieten per sofort diverse Bastelräume an der Ackerstrasse 31 in Volketswil. Folgende Räume s…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stationsstrasse 29
+1'120
+CHF
+/Monat
+Wohnung ab ca. 19./20. Juli 2021 in 860…
+Stationsstrasse 29, 8604 Volketswil
+Array
+1.5 Zimmer
+35 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+35 m2
+Beschrieb Wohnung:1.5-Zimmer im Erdgeschoss (EG)Eingangsbereich mit KorridorSeparates Bad mit Dusch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Poststrasse 17
+700
+CHF
+/Monat
+Zimmer in veganer WG in Volketswil
+Poststrasse 17, 8604 Volketswil
+Array
+19 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+19 m2
+Wir sind: Robert, 50, Heilpädagoge; Alessandro, 39; Hans-Jörg, 65, Inhaber VGNFUN und Musiker. Wir …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Neuwiesenstrasse 5
 2'950
 CHF
@@ -212,27 +263,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Wangenstrasse 4b
-2'500
-CHF
-/Monat
-Sehr grosse und helle 4.5 Zimmerwohnung…
-Wangenstrasse 4b, 8604 Volketswil
-Array
-4.5 Zimmer
-136 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-136 m2
-Etage
-Sehr grosszügige sonnige 4.5 Zimmerwohnung im 1.OG 136m2, grosser Balkon-Terrasse 26m2 und eigene W…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Sunnebüelstrasse 4
 1'801
 CHF
@@ -270,26 +300,6 @@ Wohnfläche
 63 m2
 Etage
 Suchen Sie eine Wohnung mit viel Privatspähre? Lieben Sie es aufzuwachen, inmitten eines romantisch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'170
-CHF
-/Monat
-RENOVIERT & BEZUGSBEREIT MIT SONNIGEM B…
-Adresse auf Anfrage, 8604 Volketswil
-Array
-3.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-120 m2
-Diese 3.5 Zimmerwohnung wurde im Jahre 2018 frisch renoviert und überzeugt mit einer praktischen un…
 Teilen
 E-Mail
 Facebook
@@ -335,31 +345,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Sunnebüelstr. 23
-1'790
-CHF
-/Monat
-Familienwohnung
-Sunnebüelstr. 23, 8604 Volketswil
-Array
-4 Zimmer
-86 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-86 m2
-Durch das dichte Busnetz sind diverse Einkaufsmöglichkeiten wie das Volkiland oder das Zentrum von …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 In der Höh 24
 2'570
 CHF
 /Monat
-Attraktive Attikawohnung mit hohem Ausb…
+Attraktive Attikawohnung mit grosser Te…
 In der Höh 24, 8604 Volketswil
 Array
 3.5 Zimmer
@@ -420,7 +410,7 @@ Sunnebüelstr. 27
 1'790
 CHF
 /Monat
-Helle Wohnung mit verglastem Balkon
+Helle Familienwohnung mit Weitsicht
 Sunnebüelstr. 27, 8604 Volketswil
 Array
 4 Zimmer
@@ -440,7 +430,7 @@ Ackerstrasse 51
 1'760
 CHF
 /Monat
-Charmante, helle Dachwohnung in Volkets…
+Helle Dachwohnung in Volketswil
 Ackerstrasse 51, 8604 Volketswil
 Array
 3.5 Zimmer
@@ -472,26 +462,6 @@ Zimmer
 Wohnfläche
 96 m2
 Wir vermieten per 16.08.2021 in einem ruhigen, sonnigen und grünen Wohnquartier diese 4.5-Zimmerwoh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lindenhof 7
-1'845
-CHF
-/Monat
-Ihr neues Zuhause!
-Lindenhof 7, 8604 Volketswil
-Array
-4.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-88 m2
-An ruhiger und kinderfreundlicher Lage in Volketswil vermieten wir nach Vereinbarung folgende Wohnu…
 Teilen
 E-Mail
 Facebook
@@ -552,6 +522,26 @@ Zimmer
 Wohnfläche
 70 m2
 LageVolketswil ist dank der guten Infrastruktur und einem interessanten Vereinsleben der ideale Ort…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zentralstrasse 5b
+2'450
+CHF
+/Monat
+Voila - mein neues Zuhause in Volketswil
+Zentralstrasse 5b, 8604 Volketswil
+Array
+3.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+95 m2
+Mitten im Dorf, am Standort des alten Gemeindehauses, entstehen drei polygonale Baukörper in einer …
 Teilen
 E-Mail
 Facebook

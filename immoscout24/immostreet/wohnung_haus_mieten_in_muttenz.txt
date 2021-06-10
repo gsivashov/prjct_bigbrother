@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-muttenz/
 Title: Wohnung & Haus mieten in Muttenz - Immostreet.ch
-Description: Wohnung & Haus mieten in  Muttenz - Immostreet.ch: ImmoStreet.ch hat 72 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Muttenz - Immostreet.ch: ImmoStreet.ch hat 74 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-72 Resultate gefunden ·
+74 Resultate gefunden ·
 Wohnung & Haus mieten in Muttenz
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,108 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+In der Dorfmatt 3
+1'845
+CHF
+/Monat
+Grosszügige Maisonettewohnung in Mutten…
+In der Dorfmatt 3, 4132 Muttenz
+Array
+3 Zimmer
+92 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+92 m2
+Die Adimmo AG vermietet per 01.07.2021 oder nach Vereinbarung diese grosszügige 3-Zimmer-Maisonette…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lerchenstrasse 15
+1'720
+CHF
+/Monat
+Gemütliche Wohnung mit Balkon
+Lerchenstrasse 15, 4132 Muttenz
+Array
+4 Zimmer
+71 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+71 m2
+Die Gemeinde Muttenz ist ein attraktiver Vorort der Stadt Basel mit vielen Restaurants, tollen Eink…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gartenstrasse 45
+2'000
+CHF
+/Monat
+Vor den Toren Basels, in grüner und kin…
+Gartenstrasse 45, 4132 Muttenz
+Array
+4 Zimmer
+99 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+99 m2
+Vor den Toren Basels befindet sich unsere kinderfreundliche und grün gestaltete Wohnüberbauung nahe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Neue Bahnhofstr. 137
+1'540
+CHF
+/Monat
+Hübsche 3-Zimmer-Whg in kleinerem, sani…
+Neue Bahnhofstr. 137, 4132 Muttenz
+Array
+3 Zimmer
+76 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+76 m2
+Wir vermieten ab 1. Juli 2021 oder später:
+Sehr schöne Wohnung mit Riemen-Parkettböden, Wohnzimm…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+St. Jakob-Strasse 110
+2'230
+CHF
+/Monat
+Top moderne 3,5-ZWG an der St. Jakob-St…
+St. Jakob-Strasse 110, 4132 Muttenz
+Array
+3.5 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+78 m2
+Ab 1.9.2021 oder später zu vermieten.
+Diese 3,5-Zimmer-Wohnung (2 I) verfügt über eine top moder…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 St. Jakob-Strasse 10
 1'320
 CHF
@@ -187,7 +289,7 @@ Zimmer
 4
 Wohnfläche
 73 m2
-Schöne 4 Zimmerwohnung mit Terrasse und Garten an guter Lage in einer ruhigen Quartierstrasse. Inkl…
+Schöne 4 Zimmerwohnung mit Terrasse und Garten an guter Lage in einer ruhigen Quartierstrasse.Inklu…
 Teilen
 E-Mail
 Facebook
@@ -375,26 +477,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Kilchmattstrasse 98
-1'300
-CHF
-/Monat
-Ihr Zuhause für gemütliche Abendstunden!
-Kilchmattstrasse 98, 4132 Muttenz
-Array
-2 Zimmer
-62 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-62 m2
-In ruhigem Wohnquartier in Muttenz vermieten wir per 01. September 2021 diese gemütliche 2-Zimmerwo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Frohburgerstrasse 9
 1'250
 CHF
@@ -418,9 +500,7 @@ E-Mail
 Facebook
 Whatsapp
 Gründenstrasse 15
-1'630
-CHF
-/Monat
+Preis auf Anfrage
 HOCHWERTIGE WOHNUNG MIT AUSBLICK INS GR…
 Gründenstrasse 15, 4132 Muttenz
 Array
@@ -438,7 +518,7 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-2'550
+2'800
 CHF
 /Monat
 GARTEN EDEN UND LIFT DIREKT IN DIE WOHN…
@@ -473,88 +553,6 @@ Zimmer
 Wohnfläche
 90 m2
 Wir vermieten per 01.07.2021 eine helle 3 1/2-Zimmerwohnung im 4. OG mit Lift an sehr zentraler Lag…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 4
-1'490
-CHF
-/Monat
-Schöne 3 Zimmer Altbau Wohnung in Mutte…
-Bahnhofstrasse 4, 4132 Muttenz
-Array
-3 Zimmer
-73 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-73 m2
-Die Wohnung hat Parkett Böden, hohe Räume, einen Balkon, ein grosses Entrée, ein Badezimmer mit Bad…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 4
-1'490
-CHF
-/Monat
-Schöne grosse 3-Zimmer Altbau Wohnung, …
-Bahnhofstrasse 4, 4132 Muttenz
-Array
-3 Zimmer
-73 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-73 m2
-Etage
-Die Wohnung befindet sich im 1. Stock und hat Parkettböden, hohe Räume, einen Balkon, ein grosses E…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Pestalozzistrasse 1
-1'590
-CHF
-/Monat
-helle 3.5-Zimmerwohnung Nahe St. Jakob …
-Pestalozzistrasse 1, 4132 Muttenz
-Array
-3.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-70 m2
-Etage
-Nahe zum St. Jakob vermieten wir in einem gepflegten Mehrfamilienhaus per 1. Juli 2021 oder nach Ve…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hofackerstrasse 31
-1'460
-CHF
-/Monat
-modern Wohnen in Muttenz...
-Hofackerstrasse 31, 4132 Muttenz
-Array
-3 Zimmer
-62 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-62 m2
-Ihre Wohnung soll Charme haben und an einer pulsierenden Lage sein? Wie wäre es mit dieser modernen…
 Teilen
 E-Mail
 Facebook

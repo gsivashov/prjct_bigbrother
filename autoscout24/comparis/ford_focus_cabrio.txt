@@ -597,27 +597,27 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Ford
-(9'001)
+(8'986)
 Ford Focus Occasion
-(1'022)
+(1'026)
 Ford Focus Neuwagen
-(179)
+(177)
 Ford Focus Vorführwagen
-(102)
+(103)
 Aufbau
 Ford Focus Limousine
-(817)
+(815)
 Ford Focus Kombi
-(407)
+(411)
 Ford Focus Minivan/Van
-(45)
+(46)
 Ford Focus Cabrio
 (17)
 Ford Focus Geländewagen
 (16)
 Motor
 Ford Focus Benzin
-(931)
+(932)
 Ford Focus Diesel
 (305)
 Ford Focus Bioethanol
@@ -626,24 +626,24 @@ Ford Focus Elektroautos
 (8)
 Typ
 Ford Focus
-(1'303)
+(1'306)
 Modelle
-Ford Fiesta
-(1'137)
 Ford Kuga
-(1'128)
+(1'148)
+Ford Fiesta
+(1'134)
 Ford Transit
-(719)
+(711)
 Ford Puma
-(677)
+(671)
 Ford Mustang
-(581)
+(583)
 Ford Mondeo
-(521)
+(525)
 Ford Transit Custom
-(370)
+(380)
 Ford S-Max
-(352)
+(346)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -699,16 +699,18 @@ Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 4'000
+Preisreduktion
 Ford Focus CC 2.0i Carving Automatic
 15.04.2021
 Occasion
 03.2009, Automat, Benzin
-96'500 km, 146 PS, Braun
+96'500 km, 145 PS, Braun
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 9'900
-ab CHF 181 / Monat
+CHF 8'900
+ab CHF 163 / Monat
+Preisreduktion
 FORD Focus CC 2.0i Carving Automatic
 10.04.2021
 Occasion
@@ -717,8 +719,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 9'900
-ab CHF 181 / Monat
+CHF 8'900
+ab CHF 163 / Monat
 Preisreduktion
 Ford Focus CC 2.0i Titanium Automatic
 28.03.2021
@@ -730,7 +732,7 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 7'500
 ab CHF 137 / Monat
-Preisreduktion
+Preiserhöhung
 FORD Focus CC 2.0i Titanium Automatic
 27.03.2021
 Occasion
@@ -739,8 +741,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 7'500
-ab CHF 137 / Monat
+CHF 7'900
+ab CHF 144 / Monat
 Ford Focus CC 2.0TDCi Carving
 12.12.2020
 Occasion

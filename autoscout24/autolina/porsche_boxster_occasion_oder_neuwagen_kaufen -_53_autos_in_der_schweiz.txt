@@ -154,7 +154,6 @@ TI
 WIR-ANTEIL
 53 Treffer
 Suche zurücksetzen
-NEU
 PORSCHE
 Boxster 3.2 S
 CHF 23'600
@@ -219,6 +218,27 @@ CHF 14'400
 Merken
 ab CHF 155/Monat
 NEU
+PORSCHE
+Boxster 2.7
+CHF 13'900
+ab CHF 150/Monat
+01.2003
+Automat
+132'000 km
+Benzin
+Hinterradantrieb
+grün
+228 PS
+BE
+Merken
+PORSCHE
+Boxster 2.7
+01.2003
+228 PS
+132'000 km
+CHF 13'900
+Merken
+ab CHF 150/Monat
 PORSCHE
 BOXSTER 718 T
 CHF 92'900
@@ -450,27 +470,6 @@ PORSCHE
 CHF 51'900
 Merken
 ab CHF 558/Monat
-PORSCHE
-BOXSTER 718 GTS
-CHF 99'500
-ab CHF 1069/Monat
-07.2019
-Automat
-4'000 km
-Benzin
--
-grau
-365 PS
-ZG
-Merken
-PORSCHE
-BOXSTER 718 GTS
-07.2019
-365 PS
-4'000 km
-CHF 99'500
-Merken
-ab CHF 1069/Monat
 1
 1
 2

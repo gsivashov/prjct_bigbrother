@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-horgen/
 Title: Haus kaufen in Bezirk Horgen - Immostreet.ch
-Description: Haus kaufen in Bezirk Horgen - Immostreet.ch: ImmoStreet.ch hat 26 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Horgen - Immostreet.ch: ImmoStreet.ch hat 25 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-26 Resultate gefunden ·
+25 Resultate gefunden ·
 Haus kaufen in Bezirk Horgen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+150'000
+CHF
+energieautarkes Tiny Haus zu verkaufen
+Adresse auf Anfrage, 8804 Au ZH
+Array
+1 Zimmer
+33 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+1
+Wohnfläche
+33 m2
+Schweren Herzen verkaufen wir unsere Tilla! Wir ziehen in die Berge und bekommen an unserem neuen Z…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 2'790'000
 CHF
@@ -210,20 +229,6 @@ Zimmer
 6.5
 Etage
 Das zum Verkauf stehende Einfamilien-Eckhaus wurde ca. 1700 erstellt und ist Aussen und Innen erneu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zimmerbergstrasse
-2'500'000
-CHF
-Freistehendes EFH an attraktiver Lage f…
-Zimmerbergstrasse, 8803 Rüschlikon
-Array
-Objekttyp
-Wohnung, Einzelhaus
-*Eine Dokumentation ist diesem Inserat angehängt oder auf www.kpim.ch verfügbar*
-An attraktiver …
 Teilen
 E-Mail
 Facebook
@@ -399,26 +404,6 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'700'000
-CHF
-Freistehendes 7.5-Zimmer Einfamilienhau…
-Adresse auf Anfrage, 8810 Horgen
-Array
-7.5 Zimmer
-200 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7.5
-Wohnfläche
-200 m2
-Etage
-Die Liegenschaft befindet sich an erhöhter Lage ohne Durchgangsverkehr im Ortsteil Allmend. Sie gen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
 1'650'000
 CHF
 Ein Unikat mit Potenzial
@@ -508,6 +493,26 @@ Zimmer
 Wohnfläche
 245 m2
 Dieses charmante Einfamilienhaus mit 7,5 Zimmern, welches am Ende einer Sackgasse liegt, bietet gro…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse 9E
+1'565'000
+CHF
+RESERVIERT: AgentSelly - Ihr neues Zuha…
+Dorfstrasse 9E, 8816 Hirzel
+Array
+5.5 Zimmer
+176 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+176 m2
+Etage
+In Hirzel auf dem schönen Zimmerberg finden Sie dieses moderne Eckhaus mit einem attraktiven Platza…
 Teilen
 E-Mail
 Facebook

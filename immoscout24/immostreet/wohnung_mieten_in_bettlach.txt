@@ -1,4 +1,4 @@
-URL: https://www.immostreet.ch/de/mieten/apartment-and-house/unterkategorie-flat/in-bettlach/
+URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-wohnung/in-bettlach/
 Title: Wohnung mieten in Bettlach - Immostreet.ch
 Description: Wohnung mieten in  Bettlach - Immostreet.ch: ImmoStreet.ch hat 23 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
@@ -72,25 +72,12 @@ Möbliertes Wohnobjekt
 Dachwohnung
 Maisonette / Duplex
 Attikawohnung
-Einfamilienhaus
 Einzelzimmer
 Studio
-Doppeleinfamilienhaus
-Hobbyraum
-Reihenfamilienhaus
 Loft
-Villa
 Terrassenwohnung
-Chalet
-Bauernhaus
 Einliegerwohnung
 Mansarde
-Kellerabteil
-Terrassenhaus
-Rustico
-Stöckli
-Schloss
-Höhlen- / Erdhaus
 Preis von
 Preis bis
 Zimmer von
@@ -98,14 +85,6 @@ Zimmer bis
 Fläche von
 m2
 Fläche bis
-m2
-Grundstückfläche von
-m2
-Grundstückfläche bis
-m2
-Nutzfläche von
-m2
-Nutzfläche bis
 m2
 Etage
 Alle
@@ -553,9 +532,9 @@ Seite 1 von 2
 nächste Seite
 ImmoStreet.ch
 Mieten
-Wohnung & Haus zu mieten
+Wohnung zu mieten
 Wohnung mieten in der Stadt Bettlach
-Wohnung & Haus zu mieten PLZ 2544
+Wohnung zu mieten PLZ 2544
 Privatperson
 Inserieren
 Suchabo

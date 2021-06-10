@@ -816,10 +816,8 @@ Peugeot Speedfight 3 50
 (3)
 Peugeot Speedfight 4 50
 (11)
-Peugeot Speedfight-2 50 LC
-(3)
 Peugeot Tweet 125 RS
-(11)
+(12)
 Peugeot Vivacity 50
 (3)
 Peugeot Vivacity 50 (45km/h)

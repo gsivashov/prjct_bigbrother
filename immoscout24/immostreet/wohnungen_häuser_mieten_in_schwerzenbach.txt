@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-schwerzenbach/
 Title: Wohnungen & Häuser mieten in Schwerzenbach - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Schwerzenbach - Immostreet.ch: ImmoStreet.ch hat 42 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Schwerzenbach - Immostreet.ch: ImmoStreet.ch hat 41 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-42 Resultate gefunden ·
+41 Resultate gefunden ·
 Wohnungen & Häuser mieten in Schwerzenbach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -407,27 +407,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Sonnenbergstrasse 49
-2'840
-CHF
-/Monat
-Eigentumswohnung in ruhigem Quartier
-Sonnenbergstrasse 49, 8603 Schwerzenbach
-Array
-4.5 Zimmer
-108 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-108 m2
-Etage
-Zu vermieten per 1. August 2021 schöne und helle 4.5 Zimmer Eigentumswohnung in ruhigem Wohnquartie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Einhardweg 6
 1'950
 CHF
@@ -444,6 +423,20 @@ Zimmer
 Wohnfläche
 103 m2
 Per 16. Juli 2021 oder nach Vereinbarung sind wir auf der Suche nach neuen Mietern für diese schöne…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Einstellhalle 1 " Schoren"
+120
+CHF
+/Monat
+Einstellplätze zu vermieten!
+Einstellhalle 1 " Schoren", 8603 Schwerzenbach
+Array
+Objekttyp
+Tiefgarage
+In Schwerzenbach vermieten wir per sofort oder nach Vereinbarung Einstellplätze für CHF 120.00 / pr…
 Teilen
 E-Mail
 Facebook

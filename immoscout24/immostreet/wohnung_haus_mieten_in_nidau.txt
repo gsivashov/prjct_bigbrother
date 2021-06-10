@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-nidau/
 Title: Wohnung & Haus mieten in Nidau - Immostreet.ch
-Description: Wohnung & Haus mieten in  Nidau - Immostreet.ch: ImmoStreet.ch hat 17 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Nidau - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-17 Resultate gefunden ·
+18 Resultate gefunden ·
 Wohnung & Haus mieten in Nidau
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,12 +152,48 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Hauptstrasse 133
+Flachserenweg 6
+1'350
+CHF
+/Monat
+2560 Nidau: appartement de 3 pièces
+Flachserenweg 6, 2560 Nidau
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Etage
+Nidau: Flachserenweg 6à louer à convenirun appartement de 3 pièces. L'appartement comprend les inst…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Flachserenweg 6
+1'400
+CHF
+/Monat
+2560 Nidau: appartement de 4 pièces
+Flachserenweg 6, 2560 Nidau
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Etage
+Nidau: Flachserenweg 6à louer à convenirun appartement de 4 pièces. L'appartement comprend les inst…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 113
 2'300
 CHF
 /Monat
 4.5 Zimmer-Duplexwohnung / Appartement …
-Hauptstrasse 133, 2560 Nidau
+Hauptstrasse 113, 2560 Nidau
 Array
 4.5 Zimmer
 Objekttyp
@@ -165,23 +201,6 @@ Wohnung, Flach
 Zimmer
 4.5
 4.5 Zimmer-Duplexwohnung / Appartement duplex de 4.5 piècesAn schöner Lage zu vermieten, per 1. Jul…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Paganweg 1a
-695
-CHF
-/Monat
-Wohnung mit grosszügigen Nebenflächen
-Paganweg 1a, 2560 Nidau
-Array
-1.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-LAGEDie Liegenschaft Paganweg 1 befindet sich in nächster Nähe zum Nidauer Bahnhof. Der Stedtlikern…
 Teilen
 E-Mail
 Facebook
@@ -210,11 +229,11 @@ CHF
 Ihr neues Zuhause?!
 Hauptstrasse 54, 2560 Nidau
 Array
-2 Zimmer
+1.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-2
+1.5
 Per 01.08.2021 oder nach Vereinbarung vermieten wir diese 1.5-Zimmerwohnung Wohnung mit folgenden E…
 Teilen
 E-Mail

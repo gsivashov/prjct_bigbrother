@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-birsfelden/
 Title: Wohnung & Haus mieten in Birsfelden - Immostreet.ch
-Description: Wohnung & Haus mieten in  Birsfelden - Immostreet.ch: ImmoStreet.ch hat 66 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Birsfelden - Immostreet.ch: ImmoStreet.ch hat 61 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-66 Resultate gefunden ·
+61 Resultate gefunden ·
 Wohnung & Haus mieten in Birsfelden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,66 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+2'500
+CHF
+/Monat
+GERÄUMIG AN ZENTRALER LAGE
+Adresse auf Anfrage, 4127 Birsfelden
+Array
+5.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+125 m2
+Diese geräumige und helle Wohnung vermieten wir an zentraler Lage. Die Wohnung liegt in Birsfelden …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Birseckstr. 12
+970
+CHF
+/Monat
+Günstig und befristet Wohnen an der Bir…
+Birseckstr. 12, 4127 Birsfelden
+Array
+2 Zimmer
+46 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+46 m2
+Mit wunderschönem Blick auf die Birs vermieten wir diese tolle Wohnung, welche Ihnen folgenden Ausb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Stausee 27
+1'825
+CHF
+/Monat
+MIETEN OHNE KAUTION - Familienfreundlic…
+Am Stausee 27, 4127 Birsfelden
+Array
+4 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+85 m2
+An ruhiger Wohnlage in Birsfelden vermieten wir per 01. August 2021 oder nach Vereinbarung diese mo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Lavaterstrasse 65
 1'395
 CHF
@@ -330,27 +390,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Weidenweg 8
-1'750
-CHF
-/Monat
-Helle Wohnung mit Privatzugang zur Birs
-Weidenweg 8, 4127 Birsfelden
-Array
-3.5 Zimmer
-74 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-74 m2
-Etage
-Für unsere 3.5 Zimmerwohnung suchen wir per 1. Juli einen Nachmieter.Die Birs liegt fast vor der Ha…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Hofstrasse 1
 190
 CHF
@@ -504,47 +543,6 @@ Wohnfläche
 40 m2
 Erstbezug Neubauwohnung: 2- Zimmer-Wohnung
 Diese komplett renovierte Wohnung verfügt über ein m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weidenweg 10
-1'750
-CHF
-/Monat
-Sanierte Wohnung mit Privatzugang zur B…
-Weidenweg 10, 4127 Birsfelden
-Array
-3.5 Zimmer
-74 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-74 m2
-Die Birs liegt fast vor der Haustür und ist für einen Spaziergang mit Ihrem Vierbeiner oder eine Ab…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rheinstrasse 23
-1'990
-CHF
-/Monat
-In direkter Nähe zum Birsköpfli!
-Rheinstrasse 23, 4127 Birsfelden
-Array
-3.5 Zimmer
-92 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-92 m2
-Etage
-Birsfelden! Ein Ort zum Wohnen und Wohlfühlen. Aufgrund der Nähe zu Basel-Stadt und dem gut ausgeba…
 Teilen
 E-Mail
 Facebook

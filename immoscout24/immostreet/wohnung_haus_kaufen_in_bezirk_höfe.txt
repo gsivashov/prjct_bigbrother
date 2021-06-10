@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-hoefe/
 Title: Wohnung & Haus kaufen in Bezirk Höfe - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Höfe - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Höfe - Immostreet.ch: ImmoStreet.ch hat 30 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-32 Resultate gefunden ·
+30 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Höfe
 Preis (aufsteigend)
 Preis (absteigend)
@@ -323,22 +323,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-2'230'000
-CHF
-Haus sucht glückliche Familie - Ihre ne…
-Adresse auf Anfrage, 8832 Wollerau
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-4.5
-An einer der besten Lagen im steuergünstigen Wollerau befindet sich dieses einseitigangebaute Einfa…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Altenbachstrasse 15F
 2'490'000
 CHF
@@ -507,6 +491,25 @@ Zimmer
 Wohnfläche
 215 m2
 Das mehrgeschossige Penthouse thront an begehrter Lage in Wollerau mit Panoramasicht über den Züric…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bäch SZ
+2'650'000
+CHF
+Seesicht - Lichtdurchfluteter Wohnraum …
+Bäch SZ, 8806 Bäch SZ
+Array
+4.5 Zimmer
+165 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+4.5
+Wohnfläche
+165 m2
+Die raumhohen Panoramafenster durchfluten den Wohnraum mit Licht und schaffen mit der unverbaubaren…
 Teilen
 E-Mail
 Facebook

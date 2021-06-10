@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-frick/
 Title: Wohnungen & Häuser mieten in Frick - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Frick - Immostreet.ch: ImmoStreet.ch hat 53 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Frick - Immostreet.ch: ImmoStreet.ch hat 51 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-53 Resultate gefunden ·
+51 Resultate gefunden ·
 Wohnungen & Häuser mieten in Frick
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Stieracker 10
+1'250
+CHF
+/Monat
+Schöne und preiswerte 3.5-Z-Wohnung mit…
+Stieracker 10, 5070 Frick
+Array
+3.5 Zimmer
+73 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+73 m2
+Schöne und preiswerte 3.5-Zimmer-Wohnung mit zwei Balkonen. Wohnfläche ca. 73m2. Mietpreis inkl. NK…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Zwidellen 26A
 1'900
 CHF
@@ -423,27 +443,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Industriestrasse 3 / Haus I
-1'600
-CHF
-/Monat
-Schöne 2.5-ZWG am Dorfeingang von Frick
-Industriestrasse 3 / Haus I, 5070 Frick
-Array
-2.5 Zimmer
-68 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-68 m2
-Etage
-Die Wohnung wurde 2016 fertiggestellt und befindet sich in einer schönen Überbauung am Dorfeingang …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Hauptstrasse 69
 330
 CHF
@@ -472,27 +471,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Industriestrasse 1 / Haus H
-1'600
-CHF
-/Monat
-Wunderschöne 2.5-ZWG an ruhiger Lage
-Industriestrasse 1 / Haus H, 5070 Frick
-Array
-2.5 Zimmer
-68 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-68 m2
-Etage
-Die Wohnung wurde 2016 fertiggestellt und befindet sich in einer schönen Überbauung am Dorfeingang …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 1'250
 CHF
@@ -506,6 +484,23 @@ Verkauf, Praxis
 Zimmer
 3.5
 Sie suchen einen neuen Standort für Ihre Praxis oder Unternehmen? Dann haben wir genau das richtige…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dörrmattweg, 16
+1'450
+CHF
+/Monat
+Topwohnung zentral in Frick
+Dörrmattweg, 16, 5070 Frick
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wirklich eine Hammerwohnung - hell und grosse Zimmer, direkt beim Bahnhof 3 bis 5 Minuten bis Coop,…
 Teilen
 E-Mail
 Facebook

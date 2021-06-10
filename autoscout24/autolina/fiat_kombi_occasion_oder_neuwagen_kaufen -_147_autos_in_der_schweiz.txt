@@ -84,7 +84,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -157,6 +157,239 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 FIAT
+Croma 1.8 Dynamic
+CHF 3'300
+08.2007
+Handschaltung
+79'200 km
+Benzin
+Vorderradantrieb
+silber
+140 PS
+SG
+Merken
+FIAT
+Croma 1.8 Dynamic
+08.2007
+140 PS
+79'200 km
+CHF 3'300
+Merken
+FIAT
+Tipo 1.4TJet Station Wagon Lounge
+CHF 18'250
+ab CHF 196/Monat
+06.2020
+Handschaltung
+14'531 km
+Benzin
+Vorderradantrieb
+silber
+120 PS
+SH
+Merken
+FIAT
+Tipo 1.4TJet Station Wagon Lounge
+06.2020
+120 PS
+14'531 km
+CHF 18'250
+Merken
+ab CHF 196/Monat
+FIAT
+Tipo 1.6MJ Station Wagon Lounge
+CHF 11'900
+ab CHF 134/Monat
+11.2016
+Handschaltung
+93'200 km
+Diesel
+Vorderradantrieb
+blau
+120 PS
+ZH
+Merken
+FIAT
+Tipo 1.6MJ Station Wagon Lounge
+11.2016
+120 PS
+93'200 km
+CHF 11'900
+Merken
+ab CHF 134/Monat
+FIAT
+Tipo 1.6MJ Station Wagon Life
+CHF 28'900
+ab CHF 311/Monat
+-
+Handschaltung
+100 km
+Diesel
+Vorderradantrieb
+blau
+131 PS
+ZH
+Merken
+FIAT
+Tipo 1.6MJ Station Wagon Life
+-
+131 PS
+100 km
+CHF 28'900
+Merken
+ab CHF 311/Monat
+FIAT
+Tipo 1.4TJet Station Wagon Lounge
+CHF 14'800
+ab CHF 175/Monat
+04.2019
+Handschaltung
+45'700 km
+Benzin
+Vorderradantrieb
+silber
+120 PS
+LU
+Merken
+FIAT
+Tipo 1.4TJet Station Wagon Lounge
+04.2019
+120 PS
+45'700 km
+CHF 14'800
+Merken
+ab CHF 175/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+FIAT
+Tipo SW 1.0 T3 Life
+CHF 26'840
+ab CHF 289/Monat
+-
+Handschaltung
+30 km
+Benzin
+Vorderradantrieb
+weiss
+100 PS
+SG
+Merken
+FIAT
+Tipo SW 1.0 T3 Life
+-
+100 PS
+30 km
+CHF 26'840
+Merken
+ab CHF 289/Monat
+FIAT
+Tipo SW 1.0 T3 City Life
+CHF 24'670
+ab CHF 265/Monat
+-
+Handschaltung
+30 km
+Benzin
+Vorderradantrieb
+weiss
+100 PS
+SG
+Merken
+FIAT
+Tipo SW 1.0 T3 City Life
+-
+100 PS
+30 km
+CHF 24'670
+Merken
+ab CHF 265/Monat
+FIAT
+Tipo SW 1.0 T3 Life
+CHF 26'840
+ab CHF 289/Monat
+-
+Handschaltung
+30 km
+Benzin
+Vorderradantrieb
+schwarz
+100 PS
+SG
+Merken
+FIAT
+Tipo SW 1.0 T3 Life
+-
+100 PS
+30 km
+CHF 26'840
+Merken
+ab CHF 289/Monat
+FIAT
+Tipo SW 1.0 T3 City Life
+CHF 24'670
+ab CHF 265/Monat
+-
+Handschaltung
+30 km
+Benzin
+Vorderradantrieb
+schwarz
+100 PS
+SG
+Merken
+FIAT
+Tipo SW 1.0 T3 City Life
+-
+100 PS
+30 km
+CHF 24'670
+Merken
+ab CHF 265/Monat
+FIAT
+Talento f. 2.0 120cv H1 3498 Easy Pro Plus
+CHF 27'076
+ab CHF 291/Monat
+05.2021
+Handschaltung
+15 km
+Diesel
+Vorderradantrieb
+weiss
+120 PS
+VD
+Merken
+FIAT
+Talento f. 2.0 120cv H1 3498 Easy...
+05.2021
+120 PS
+15 km
+CHF 27'076
+Merken
+ab CHF 291/Monat
+FIAT
+Tipo 1.4TJet Station Wagon Lounge
+CHF 16'900
+ab CHF 182/Monat
+12.2019
+Handschaltung
+9'200 km
+Benzin
+Vorderradantrieb
+rot
+120 PS
+BL
+Merken
+FIAT
+Tipo 1.4TJet Station Wagon Lounge
+12.2019
+120 PS
+9'200 km
+CHF 16'900
+Merken
+ab CHF 182/Monat
+FIAT
 Tipo 1.6MJ Station Wagon Lounge DCT
 CHF 12'490
 ab CHF 135/Monat
@@ -177,7 +410,6 @@ Tipo 1.6MJ Station Wagon Lounge D...
 CHF 12'490
 Merken
 ab CHF 135/Monat
-NEU
 FIAT
 Tipo SW 1.4 T-Jet Lounge
 CHF 16'900
@@ -199,7 +431,6 @@ Tipo SW 1.4 T-Jet Lounge
 CHF 16'900
 Merken
 ab CHF 182/Monat
-NEU
 FIAT
 Doblò 1.6 MJ Kombi Swiss
 CHF 22'900
@@ -221,7 +452,6 @@ Doblò 1.6 MJ Kombi Swiss
 CHF 22'900
 Merken
 ab CHF 246/Monat
-NEU
 FIAT
 Talento 29 H1 Swiss 8/9Pl
 CHF 36'990
@@ -243,252 +473,6 @@ Talento 29 H1 Swiss 8/9Pl
 CHF 36'990
 Merken
 ab CHF 398/Monat
-NEU
-FIAT
-Talento 29 H1 Swiss 8/9Pl
-CHF 36'990
-ab CHF 398/Monat
-02.2021
-Handschaltung
-1'500 km
-Diesel
-Vorderradantrieb
-weiss
-145 PS
-ZH
-Merken
-FIAT
-Talento 29 H1 Swiss 8/9Pl
-02.2021
-145 PS
-1'500 km
-CHF 36'990
-Merken
-ab CHF 398/Monat
-NEU
-FIAT
-Talento 29 H1 Swiss 8/9Pl
-CHF 39'990
-ab CHF 430/Monat
--
-Handschaltung
-50 km
-Diesel
-Vorderradantrieb
-schwarz
-145 PS
-ZH
-Merken
-FIAT
-Talento 29 H1 Swiss 8/9Pl
--
-145 PS
-50 km
-CHF 39'990
-Merken
-ab CHF 430/Monat
-NEU
-FIAT
-Tipo 1.4T Street
-CHF 15'900
-ab CHF 171/Monat
-11.2019
-Handschaltung
-150 km
-Benzin
-Vorderradantrieb
-grau
-95 PS
-ZH
-Merken
-FIAT
-Tipo 1.4T Street
-11.2019
-95 PS
-150 km
-CHF 15'900
-Merken
-ab CHF 171/Monat
-NEU
-FIAT
-Talento 29 H1 Base 8/9 Pl
-CHF 34'990
-ab CHF 376/Monat
--
-Handschaltung
-50 km
-Diesel
-Vorderradantrieb
-weiss
-145 PS
-ZH
-Merken
-FIAT
-Talento 29 H1 Base 8/9 Pl
--
-145 PS
-50 km
-CHF 34'990
-Merken
-ab CHF 376/Monat
-NEU
-FIAT
-Talento 29 H1 Swiss 8/9Pl
-CHF 37'700
-ab CHF 405/Monat
--
-Handschaltung
-50 km
-Diesel
-Vorderradantrieb
-schwarz
-145 PS
-ZH
-Merken
-FIAT
-Talento 29 H1 Swiss 8/9Pl
--
-145 PS
-50 km
-CHF 37'700
-Merken
-ab CHF 405/Monat
-FIAT
-Tipo SW 1.4 T-Jet Lounge
-CHF 17'490
-ab CHF 188/Monat
-12.2019
-Handschaltung
-14'990 km
-Benzin
-Vorderradantrieb
-rot
-120 PS
-AG
-Merken
-FIAT
-Tipo SW 1.4 T-Jet Lounge
-12.2019
-120 PS
-14'990 km
-CHF 17'490
-Merken
-ab CHF 188/Monat
-FIAT
-Tipo 1.6MJ Station Wagon Lounge DCT
-CHF 18'900
-ab CHF 223/Monat
-12.2019
-Automat
-18'000 km
-Diesel
-Vorderradantrieb
-schwarz
-120 PS
-AG
-Merken
-FIAT
-Tipo 1.6MJ Station Wagon Lounge D...
-12.2019
-120 PS
-18'000 km
-CHF 18'900
-Merken
-ab CHF 223/Monat
-FIAT
-Tipo 1.6MJ Station Wagon Lounge DCT
-CHF 19'500
-ab CHF 230/Monat
-12.2019
-Automat
-11'400 km
-Diesel
-Vorderradantrieb
-schwarz
-120 PS
-AG
-Merken
-FIAT
-Tipo 1.6MJ Station Wagon Lounge D...
-12.2019
-120 PS
-11'400 km
-CHF 19'500
-Merken
-ab CHF 230/Monat
-FIAT
-Ulysse 2.0 JTD Swiss Ed
-CHF 4'600
-05.2007
-Handschaltung
-173'600 km
-Diesel
-Vorderradantrieb
-silber
-136 PS
-BE
-Merken
-FIAT
-Ulysse 2.0 JTD Swiss Ed
-05.2007
-136 PS
-173'600 km
-CHF 4'600
-Merken
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-FIAT
-500X 1.4T Opening Edition
-CHF 14'700
-ab CHF 174/Monat
-04.2015
-Handschaltung
-47'750 km
-Benzin
-Vorderradantrieb
-beige
-140 PS
-BE
-Merken
-FIAT
-500X 1.4T Opening Edition
-04.2015
-140 PS
-47'750 km
-CHF 14'700
-Merken
-ab CHF 174/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-FIAT
-500X 1.4T Mirror
-CHF 20'480
-ab CHF 242/Monat
-06.2019
-Handschaltung
-13'200 km
-Benzin
-Vorderradantrieb
-grau
-140 PS
-BE
-Merken
-FIAT
-500X 1.4T Mirror
-06.2019
-140 PS
-13'200 km
-CHF 20'480
-Merken
-ab CHF 242/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
 1
 1
 2

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-schliern-b-koeniz/
 Title: Wohnungen & Häuser mieten in Schliern b. Köniz - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Schliern b. Köniz - Immostreet.ch: ImmoStreet.ch hat 26 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Schliern b. Köniz - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-26 Resultate gefunden ·
+24 Resultate gefunden ·
 Wohnungen & Häuser mieten in Schliern b. Köniz
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,22 +122,16 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Spühlihalde 7
-1'700
+Fuhrenstrasse Abstellplätze
+50
 CHF
 /Monat
-Sonniger Gartensitzplatz!
-Spühlihalde 7, 3098 Schliern b. Köniz
+Abstellplatz gesucht?
+Fuhrenstrasse Abstellplätze, 3098 Schliern b. Köniz
 Array
-3.5 Zimmer
-88 m2
 Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-88 m2
-Suchen Sie eine gemütliche Wohnung in einer gepflegten Umgebung? Dann haben wir das richtige Objekt…
+Offener Parkplatz
+Wir vermieten ab sofort oder nach Vereinbarung diesen Parkplatz.- Mietzins/Monat Fr. 50.00 + 7.7% M…
 Teilen
 E-Mail
 Facebook
@@ -192,26 +186,6 @@ Zimmer
 Wohnfläche
 107 m2
 Wir können Ihnen eine ausgezeichnete Wohnqualität mit folgendem Ausbaustandard bieten:Die Wohnung w…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fuhrenstrasse 15
-1'685
-CHF
-/Monat
-Schöne 4.5 Zimmerwohnung im Grünen und …
-Fuhrenstrasse 15, 3098 Schliern b. Köniz
-Array
-4.5 Zimmer
-96 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-96 m2
-In einem freundlichen Quartier befindet sich diese schöne und im Jahr 2009 sanierte 4 1/2-Zimmerwoh…
 Teilen
 E-Mail
 Facebook
@@ -294,20 +268,6 @@ Array
 Objekttyp
 Tiefgarage
 Wir vermieten nach Vereinbarung Einstellhallenplätze an der Muhlenstr. 244 und 246 in Schlieren b. …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Muhlernstr. 244+246,Abstellpl.
-60
-CHF
-/Monat
-Abstellplatz in Schlieren bei Köniz!
-Muhlernstr. 244+246,Abstellpl., 3098 Schliern b. Köniz
-Array
-Objekttyp
-Offener Parkplatz
-Wir vermieten nach Vereinbarung einen Abstellplatz an der Muhlenstr. 244 und 246 in Schlieren b. Kö…
 Teilen
 E-Mail
 Facebook
@@ -452,6 +412,39 @@ Array
 Objekttyp
 Tiefgarage
 Suchen Sie einen Einstellplatz in Schliern b. Köniz? Dann haben wir genau das Richtige für Sie!Wir …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schwandenhubel EH 35-43
+100
+CHF
+/Monat
+Hallenplatz Nr. 6
+Schwandenhubel EH 35-43, 3098 Schliern b. Köniz
+Array
+Objekttyp
+Tiefgarage
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Froschweg 11
+2'090
+CHF
+/Monat
+Gutschein zum Umzug! Wohnen an familien…
+Froschweg 11, 3098 Schliern b. Köniz
+Array
+4.5 Zimmer
+107 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+107 m2
+Wir können Ihnen eine ausgezeichnete Wohnqualität mit folgendem Ausbaustandard bieten:Die Wohnung w…
 Teilen
 E-Mail
 Facebook

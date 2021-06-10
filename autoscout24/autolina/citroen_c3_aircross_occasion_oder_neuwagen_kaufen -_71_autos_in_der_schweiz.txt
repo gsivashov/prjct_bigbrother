@@ -175,6 +175,28 @@ C3 Aircross 1.2 PureTech 130 Rip ...
 CHF 27'777
 Merken
 ab CHF 327/Monat
+NEU
+CITROEN
+C3 Aircross 1.5 HDi Shine
+CHF 24'200
+ab CHF 260/Monat
+03.2020
+Automat
+8'657 km
+Diesel
+Vorderradantrieb
+sonstiges
+120 PS
+FR
+Merken
+CITROEN
+C3 Aircross 1.5 HDi Shine
+03.2020
+120 PS
+8'657 km
+CHF 24'200
+Merken
+ab CHF 260/Monat
 CITROEN
 C3 Aircross 1.2i PureTech Feel EAT
 CHF 16'500
@@ -452,27 +474,6 @@ C3 Aircross 1.2i PT Rip C
 CHF 29'900
 Merken
 ab CHF 322/Monat
-CITROEN
-C3 Aircross 1.5 BlueHDi Shine
-CHF 29'000
-ab CHF 312/Monat
--
-Automat
-0 km
-Diesel
-Vorderradantrieb
-rot
-120 PS
-BE
-Merken
-CITROEN
-C3 Aircross 1.5 BlueHDi Shine
--
-120 PS
-0 km
-CHF 29'000
-Merken
-ab CHF 312/Monat
 1
 1
 2

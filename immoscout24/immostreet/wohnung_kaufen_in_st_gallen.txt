@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/in-st-gallen/
 Title: Wohnung kaufen in St. Gallen - Immostreet.ch
-Description: Wohnung kaufen in  St. Gallen - Immostreet.ch: ImmoStreet.ch hat 25 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in  St. Gallen - Immostreet.ch: ImmoStreet.ch hat 26 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-25 Resultate gefunden ·
+26 Resultate gefunden ·
 Wohnung kaufen in St. Gallen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,44 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Winkelriedstrasse 35
+625'000
+CHF
+Die etwas andere Wohnung am Rosenberg
+Winkelriedstrasse 35, 9000 St. Gallen
+Array
+4.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+85 m2
+Die Winkelriedstrasse befindet sich am Rosenberg, einem sehr beliebten Quartier in der Stadt St. Ga…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wattweg 6
+690'000
+CHF
+Hochwertige Wohnungen an zentraler Lage
+Wattweg 6, 9012 St. Gallen
+Array
+3.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+95 m2
+Willkommen in St. Gallen, wattweg.chMit dem Projekt wattweg.ch erwartet Sie moderner Wohnraum an gu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Tannenstrasse 43
 1'750'000
 CHF
@@ -189,25 +227,6 @@ Wohnfläche
 106 m2
 Etage
 Sie möchten grosszügig wohnen? Und dies in der Stadt? Für stadtverbundene Menschen verkaufen wir an…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ullmannstrasse 18a
-875'000
-CHF
-Exklusiv wohnen im Grünen / 4 1/2 Zi. W…
-Ullmannstrasse 18a, 9014 St. Gallen
-Array
-4.5 Zimmer
-117 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-117 m2
-an ruhiger Wohnlage und doch in nächster Nähe vom Zentrum von St. Gallen bieten wir eine einzigarti…
 Teilen
 E-Mail
 Facebook
@@ -493,26 +512,6 @@ Zimmer
 Wohnfläche
 109 m2
 Die im Jahr 1985 erbaute, 109 m² grosse Attikawohnung wurde in den vergangenen Jahren komplett neu …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-410'000
-CHF
-Ruhe und Sonne im Garten geniessen
-Adresse auf Anfrage, 9000 St. Gallen
-Array
-2.5 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-60 m2
-Etage
-Bei diesem interessanten Objekt, handelt es sich um eine 2,5 Zimmer-Gartenwohnung an äusserst begeh…
 Teilen
 E-Mail
 Facebook

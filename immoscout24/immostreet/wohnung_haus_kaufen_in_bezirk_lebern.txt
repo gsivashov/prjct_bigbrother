@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-lebern/
 Title: Wohnung & Haus kaufen in Bezirk Lebern - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Lebern - Immostreet.ch: ImmoStreet.ch hat 52 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Lebern - Immostreet.ch: ImmoStreet.ch hat 51 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-52 Resultate gefunden ·
+51 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Lebern
 Preis (aufsteigend)
 Preis (absteigend)
@@ -294,25 +294,6 @@ Zimmer
 Wohnfläche
 127 m2
 Besuchen Sie Ihre Traumimmobilie schon heute. Auf unserer Homepage haben Sie die Möglichkeit Ihre I…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Römerstrasse 21
-395'000
-CHF
-Grossräumige 5-Zimmerwohnung inkl. Eins…
-Römerstrasse 21, 4512 Bellach
-Array
-5 Zimmer
-118 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-118 m2
-An zentraler Lage, im östlichen Teil von Bellach, verkaufen wir diese grossräumige 5-Zimmerwohnung …
 Teilen
 E-Mail
 Facebook
@@ -520,6 +501,26 @@ Zimmer
 Wohnfläche
 101 m2
 Diese gemütliche 4.5-Zimmerwohnung liegt im Hochparterre eines gepflegten Mehrfamilienhauses (Heizu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+585'000
+CHF
+moderne 4.5 Zi. Eigentumswohnung im Dor…
+Adresse auf Anfrage, 4524 Günsberg
+Array
+4.5 Zimmer
+122 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+122 m2
+Etage
+Im Obergeschoss eines zweigeschossigen Mehrfamilienhauses, erreicht man eine grosszügige 4.5 Zimmer…
 Teilen
 E-Mail
 Facebook

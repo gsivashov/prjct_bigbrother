@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-wohnung/in-heiden/
 Title: Wohnung mieten in Heiden - Immostreet.ch
-Description: Wohnung mieten in  Heiden - Immostreet.ch: ImmoStreet.ch hat 17 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Heiden - Immostreet.ch: ImmoStreet.ch hat 15 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-17 Resultate gefunden ·
+15 Resultate gefunden ·
 Wohnung mieten in Heiden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -403,48 +403,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Austrasse 1
-1'990
-CHF
-/Monat
-Einen Monat gratis wohnen in einer gros…
-Austrasse 1, 9410 Heiden
-Array
-4.5 Zimmer
-118 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-118 m2
-Etage
-Grosszügige WohnungDiese grosszügige 4.5-Zimmerwohnung ist vor kurzem komplett neu renoviert worden…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sägewiesstrasse 15
-1'530
-CHF
-/Monat
-Einen Monat gratis wohnen
-Sägewiesstrasse 15, 9410 Heiden
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-Etage
-Diese vor kurzem neu renovierte 3.5-Zimmerwohnung liegt an einer ruhigen gut erschlossenen Wohnzohn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Hasenbühlstrasse 4
 1'520
 CHF
@@ -461,7 +419,7 @@ Zimmer
 Wohnfläche
 72 m2
 Etage
-AllgemeinMakrolage9410 Heiden liegt im Bezirk Vorderland, im Kanton Appenzell Ausserrhoden. Die Bev…
+AllgemeinHeiden liegt 810 m über Meer auf einer Sonnenterrasse im Appenzeller Vorderland. Das Dorf …
 Teilen
 E-Mail
 Facebook

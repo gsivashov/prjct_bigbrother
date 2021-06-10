@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/kanton-aargau/
 Title: Wohnung kaufen in Kanton Aargau - Immostreet.ch
-Description: Wohnung kaufen in Kanton Aargau - Immostreet.ch: ImmoStreet.ch hat 634 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Kanton Aargau - Immostreet.ch: ImmoStreet.ch hat 618 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-634 Resultate gefunden ·
+618 Resultate gefunden ·
 Wohnung kaufen in Kanton Aargau
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,325 +134,117 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-490'000
+Schönaustrasse 47
+510'000
 CHF
-Wohnen im Kleefeld
-Adresse auf Anfrage, 5622 Waltenschwil
+Wohnen mitten in Wettingen
+Schönaustrasse 47, 5430 Wettingen
 Array
 3.5 Zimmer
-86 m2
+65 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-86 m2
-Entdecken Sie das Neubauprojekt im Kleefeld! Hier entstehen an bevorzugter und zentraler Lage 12 to…
+65 m2
+Etage
+Die 3.5-Zimmer-Eigentumswohnung befindet sich an sonniger und ruhiger Wohnlage im sehr beliebten Al…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-680'000
+Ammerswilerstrasse 45 B
+860'000
 CHF
-Wohnen im Kleefeld
-Adresse auf Anfrage, 5622 Waltenschwil
+ERSTKLASSIGES ZUHAUSE | GENUSSVOLL WOHN…
+Ammerswilerstrasse 45 B, 5600 Lenzburg
 Array
 4.5 Zimmer
-119 m2
+117 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+117 m2
+DIE LAGE- Widmi-Quartier - Kinderfreundliche und idyllische Wohnlage am Rande von Lenzburg- Die näc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rüslerstrasse 9
+1'780'000
+CHF
+Grandiose Attika-Wohnung !
+Rüslerstrasse 9, 5452 Oberrohrdorf
+Array
+6.5 Zimmer
+198 m2
 Objekttyp
 Wohnung, Attikawohnung
 Zimmer
-4.5
-Wohnfläche
-119 m2
-Entdecken Sie das Neubauprojekt im Kleefeld! Hier entstehen an bevorzugter und zentraler Lage 12 to…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unterriedstrasse 5
-1'740'000
-CHF
-AgentSelly - Stockwerkeinheit mit 2 Ter…
-Unterriedstrasse 5, 5452 Oberrohrdorf
-Array
-7.5 Zimmer
-241 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-7.5
-Wohnfläche
-241 m2
-Dieses Verkaufsobjekt, eine Stockwerkeinheit beinhaltend zwei schöne Terrassenwohnungen an bester L…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'490'000
-CHF
-Exklusiv und einmalig in der Innenstadt…
-Adresse auf Anfrage, 5400 Baden
-Array
-4.5 Zimmer
-140 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-140 m2
-Im Stadtzentrum verkaufen wir ein einmaliges Wohnobjekt mit exklusivem und hochwertigen Innenausbau…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'050'000
-CHF
-5½-Zimmer Terrassenwohnung mit gehobene…
-Adresse auf Anfrage, 5613 Hilfikon
-Array
-5.5 Zimmer
-157 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-157 m2
-Etage
-Suchen Sie ein neues Zuhause im Naherholungsgebiet und Nähe zum See? Dennoch sind Sie nahe zu den …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schlossgartenweg 2
-630'000
-CHF
-Ruhige, helle, grosszügige 5.5 - 6.5 Zr…
-Schlossgartenweg 2, 5736 Burg AG
-Array
-5.5 Zimmer
-116 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-116 m2
-Etage
-Sehr grosszügiges Wohnen in ruhiger UmgebungIm Herzen der Gemeinde Burg liegt diese ruhige und opti…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Langäckerstrasse 32
-580'000
-CHF
-Wohnen mit Fernsicht
-Langäckerstrasse 32, 8957 Spreitenbach
-Array
-4.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Duplex, Maisonette
-Zimmer
-4.5
-Wohnfläche
-95 m2
-Etage
-Gemeinde
-Spreitenbach ist eine Gemeinde mit 10'500 EinwohnerInnen im Kanton Aargau. Sie gehört z…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-690'000
-CHF
-Gemütliches Wohnen an sonniger Lage
-Adresse auf Anfrage, 8916 Jonen
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Die gepflegte 4.5-Zimmer-Eigentumswohnung ist Teil eines überschaubaren Wohnhauses und befindet sic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hofmattstrasse 7a
-985'000
-CHF
-6½ Zimmer Dachwohnung an sonniger ruhig…
-Hofmattstrasse 7a, 5622 Waltenschwil
-Array
-6.5 Zimmer
-181 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
 6.5
 Wohnfläche
-181 m2
-Sonnige ruhige Südwestlage in 3 FamilienhausBlick ins Grüne und auf die Bünz, Naherholungsgebiet vo…
+198 m2
+Selten kommt es vor, dass wir eine attraktive Attika-Wohnung zum Verkauf anbieten dürfen… und wenn …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-695'000
+Feldstr. 16
+750'000
 CHF
-Einmalige Gelegenheit in Würenlingen
-Adresse auf Anfrage, 5303 Würenlingen
+Sonnige, moderne 4.5-Zimmer-Eigentumswo…
+Feldstr. 16, 5605 Dottikon
 Array
 4.5 Zimmer
-120 m2
+110 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-120 m2
-Einmalige Gelegenheit in WürenlingenSie sind auf der Suche nach einer grosszügigen  Wohnung mit zwe…
+110 m2
+Besuchen Sie Ihre Traumimmobilie schon heute. Auf unserer Homepage haben Sie die Möglichkeit Ihre I…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-307'000
+Alte Landstrasse 6a
+310'000
 CHF
-Rustikale Gartenwohnung in Würenlingen …
-Adresse auf Anfrage, 5303 Würenlingen
+Altersgerechte Wohnung an zentraler Lag…
+Alte Landstrasse 6a, 5027 Herznach
+Array
+2.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+75 m2
+Wir verkaufen nach Sanierung per 1. September 2021 oder nach Vereinbarung diese altersgerechte, hel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fluhmattstrasse 31
+335'000
+CHF
+Schmucke 2. Zimmer Wohnung an ruhiger L…
+Fluhmattstrasse 31, 5400 Baden
 Array
 2 Zimmer
-45 m2
+50 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2
 Wohnfläche
-45 m2
-Rustikale Gartenwohnung in WürenlingenSie sind auf der Suche nach einer Wohnung mit hohen Räumen, s…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Badstrasse 52
-200'000
-CHF
-2-Zi-Sitzplatzwohnung inkl. Einstellpla…
-Badstrasse 52, 5330 Bad Zurzach
-Array
-2 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Die 2-Zimmerwohnung befindet sich in einem 6 Parteien Mehrfamilienhaus, welche zu der Überbauung Ku…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-415'000
-CHF
-Eigentumswohnung an ruhiger Lage!
-Adresse auf Anfrage, 5330 Bad Zurzach
-Array
-4.5 Zimmer
-93 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-93 m2
-Bad Zurzach liegt im Bezirk Zurzach, im Kanton Aargau. Die Steuerbelastung liegt bei 12.5% (Kanton:…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gränicherstrasse 2
-520'000
-CHF
-HENZ-Areal A1.1.2
-Gränicherstrasse 2, 5034 Suhr
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Etage
-HENZ richtig vielfältigBUCHEN SIE NOCH HEUTE IHRE VIRTUELLE BESICHTIGUNG DER MUSTERWOHNUNG UNTER WW…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Hell, grosszügig, modernisiert und zum …
-Adresse auf Anfrage, 5600 Lenzburg
-Array
-4.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-85 m2
-Diese attraktive und lichtdurchflutete Eigentumswohnung besticht durch ein offenes Wohn- Esszimmer …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-535'000
-CHF
-41/2 Zimmer Wohnung zu verkaufen
-Adresse auf Anfrage, 5417 Untersiggenthal
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Im 5 Stock, mit Lift. Traumhafte Aussicht Richtung Brugg und an den Siggenberg! Ink. Waschmaschine,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-parkstrasse 8
-690'000
-CHF
-Zu verkaufen, Eigentumswohnung, 5036 Ob…
-parkstrasse 8, 5036 Oberentfelden
-Array
-4.5 Zimmer
-109 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-109 m2
+50 m2
+Im Hochhaus (links) verkaufen wir eine gemütliche 2-Zimmerwohnung im 4. Obergeschoss mit Kellerabte…
 Teilen
 E-Mail
 Facebook
@@ -476,47 +268,256 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Klosterrebenstrasse 10
-1'195'000
+Ringstrasse Nord 36A
+750'000
 CHF
-Naturnahe und steuergünstige 5.5 Zi.-Ma…
-Klosterrebenstrasse 10, 8918 Unterlunkhofen
+Nähe Bahnhof: ruhig gelegene Gartenwohn…
+Ringstrasse Nord 36A, 5600 Lenzburg
 Array
-5.5 Zimmer
-173 m2
+3.5 Zimmer
+109 m2
 Objekttyp
-Wohnung, Duplex
+Wohnung, Flach
 Zimmer
-5.5
+3.5
 Wohnfläche
-173 m2
-Etage
-Im Auftrag der Eigentümerschaft bieten wir diese einzigartige Wohnung in Unterlunkhofen - AG an: Di…
+109 m2
+Die Gartenwohnung und LageDiese Gartenwohnung liegt ausserhalb des Zentrum; darum die ruhige Lage u…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-875'000
+695'000
 CHF
-SCHÖNER WOHNEN - HOCH OBEN - SONNIG ZUH…
-Adresse auf Anfrage, 5242 Birr
+2 ½-Zimmer-Attikawohnung - Ihr Rückzugs…
+Adresse auf Anfrage, 5073 Gipf-Oberfrick
 Array
-4.5 Zimmer
-120 m2
+2.5 Zimmer
+76 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Flach
 Zimmer
-4.5
+2.5
 Wohnfläche
-120 m2
+76 m2
 Etage
-Idealer kann eine Wohnung nicht liegen.Wenn Sie von kurzen Wegen zum Einkaufen, Kindergarten, Schul…
+In einem beliebten Wohnquartier, nur rund 500 Meter vom Bahnhof Frick entfernt, wird diese kleine,…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 32
+Wiesengrundweg 11
+754'000
+CHF
+4.5-Zimmer Dachgeschoss Eigentumswohnun…
+Wiesengrundweg 11, 5524 Nesselnbach
+Array
+4.5 Zimmer
+118 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+118 m2
+Etage
+Moderne Dachwohnungen in MINERGIE zertifizierten Häusern im Grünen.Sehr ruhige Lage in einem Einfam…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kasernenstrasse 6b
+595'000
+CHF
+LEBENSQUALITÄT IN MENZIKEN
+Kasernenstrasse 6b, 5737 Menziken
+Array
+3.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+97 m2
+Menziken liegt im oberen Wynental im Bezirk Kulm und grenzt an den Kanton Luzern. Die Gemeinde ist …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kasernstrasse 6
+795'000
+CHF
+LEBENSQUALITÄT IN MENZIKEN
+Kasernstrasse 6, 5737 Menziken
+Array
+4.5 Zimmer
+128 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+128 m2
+Menziken liegt im oberen Wynental im Bezirk Kulm und grenzt an den Kanton Luzern. Die Gemeinde ist …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+498'000
+CHF
+Etwas für Attika-Liebhaber!
+Adresse auf Anfrage, 4665 Oftringen
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Lassen Sie in dieser charmanten Attika-Wohnung Ihren Alltag hinter sich, entspannen und geniessen S…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Arberweg 1
+750'000
+CHF
+Erstbezug: Hochwertige Wohnung - riesig…
+Arberweg 1, 5103 Möriken AG
+Array
+4.5 Zimmer
+117 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+117 m2
+Demnächst bezugsbereit: Mögen Sie die Kombination alt und neu (ehemaliges Bauernhaus und komplett n…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+520'000
+CHF
+Fünf moderne Neubauwohnungen nahe Dorfz…
+Adresse auf Anfrage, 5074 Eiken
+Array
+2.5 Zimmer
+71 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+71 m2
+Etage
+Sie sind auf der Suche nach einer Eigentumswohnung? Zentral gelegen und überschaubar? Beim Innenaus…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterriedstrasse 5
+1'740'000
+CHF
+AgentSelly - Stockwerkeinheit mit 2 Ter…
+Unterriedstrasse 5, 5452 Oberrohrdorf
+Array
+7.5 Zimmer
+241 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+7.5
+Wohnfläche
+241 m2
+Dieses Verkaufsobjekt, eine Stockwerkeinheit beinhaltend zwei schöne Terrassenwohnungen an bester L…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Römerstrasse 3b
+550'000
+CHF
+Geräumige Wohnung an guter Lage in Haus…
+Römerstrasse 3b, 5212 Hausen AG
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Die gut besonnte Wohnung befindet sich an der Römerstrasse 3b. Sie bietet viel Platz und die Möglic…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+895'000
+CHF
+EXKLUSIVES WOHNERLEBNIS FÜR GENIESSER
+Adresse auf Anfrage, 5646 Abtwil AG
+Array
+5.5 Zimmer
+175 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+5.5
+Wohnfläche
+175 m2
+Etage
+Die Liegenschaft präsentiert sich äusserst durchdacht in der Raumgestaltung und elegant im Innenaus…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+580'000
+CHF
+Grosszügige 3.5 Zimmer Wohnung in steue…
+Adresse auf Anfrage, 5606 Dintikon
+Array
+3.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+112 m2
+Der grosse Wohnbereich dieser 3,5 Zimmer Wohnung in gehobenem Eigentumsstandard, mit offener Küche,…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Bifang 20
+1'190'000
+CHF
+Wohnen Sie noch oder leben Sie schon? S…
+Im Bifang 20, 5080 Laufenburg
+Array
+4 Zimmer
+129 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4
+Wohnfläche
+129 m2
+Etage
+Sie sind auf der Suche nach einer gediegenen Wohnung der Extraklasse? Sie legen grossen Wert auf vi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 31
 1
 2
 3

@@ -1,6 +1,6 @@
 URL: https://www.comparis.ch/carfinder/marktplatz/nissan/minivan
 Title: Nissan Minivan/Van – Preise vergleichen mit Comparis
-Description: Finden Sie unter 122 Nissan Minivan/Van Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
+Description: Finden Sie unter 119 Nissan Minivan/Van Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
 Suche
 Menü
@@ -608,52 +608,52 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Nissan
-(3'640)
+(3'642)
 Nissan Occasion
-(2'466)
+(2'463)
 Nissan Neuwagen
-(772)
+(778)
 Nissan Vorführwagen
-(401)
+(400)
 Aufbau
 Nissan Geländewagen
-(1'711)
+(1'714)
 Nissan Limousine
-(732)
+(736)
 Nissan Nutzfahrzeug
-(349)
+(348)
 Nissan Minivan/Van
-(122)
+(119)
 Nissan Pickup
-(110)
+(111)
 Nissan Coupé
 (84)
 Nissan Cabrio
-(70)
+(69)
 Nissan Kombi
-(46)
+(47)
 Nissan Wohnmobil / Wohnwagen
-(11)
+(10)
 Motor
 Nissan Benzin
-(1'955)
+(1'957)
 Nissan Diesel
-(1'241)
+(1'236)
 Nissan Elektroautos
-(438)
+(442)
 Modelle
 Nissan Qashqai
-(816)
+(806)
 Nissan Micra
-(517)
+(520)
 Nissan Juke
-(468)
+(477)
 Nissan Leaf
-(348)
+(352)
 Nissan X-Trail
-(302)
+(299)
 Nissan Note
-(123)
+(122)
 Nissan Nv300
 (92)
 Nissan e-NV200
@@ -663,26 +663,48 @@ auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
 Carweb wird durchsucht ...
 drive-in.ch wird durchsucht ...
-122 Treffer auf allen grossen Schweizer Auto-Portalen
-122 Treffer auf allen Portalen
+119 Treffer auf allen grossen Schweizer Auto-Portalen
+119 Treffer auf allen Portalen
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
 0 Inserate
 1 Inserat
-121 Inserate
+118 Inserate
 0 Inserate
 0 Inserate
-NISSAN Note 1.6 acenta Automatic
-5.0
-07.06.2021
+NISSAN Almera Tino 2.2 dCi business
+09.06.2021
 Occasion
-03.2011, Automat, Benzin
-147'000 km, 110 PS, Schwarz
+06.2005, Manuell, Diesel
+144'300 km, 136 PS, Silber
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 3'600
+CHF 3'950
+NISSAN Note 1.6 tekna Automatic
+2.0
+09.06.2021
+Occasion
+01.2009, Automat, Benzin
+44'335 km, 110 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 6'900
+ab CHF 126 / Monat
+Preisreduktion
+NISSAN Note 1.4 acenta
+1.5
+09.06.2021
+Occasion
+06.2008, Manuell, Benzin
+45'500 km, 88 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 5'800
+ab CHF 106 / Monat
 NISSAN Prairie 2.4 12V SLX-S
 06.06.2021
 Occasion
@@ -692,15 +714,6 @@ Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 999
-NISSAN Note 1.6 acenta Automatic
-05.06.2021
-Occasion
-12.2009, Automat, Benzin
-190'000 km, 110 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 4'900
 NISSAN Note 1.6 acenta
 3.5
 05.06.2021
@@ -711,6 +724,15 @@ Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 2'350
+NISSAN Note 1.6 acenta Automatic
+05.06.2021
+Occasion
+12.2009, Automat, Benzin
+190'000 km, 110 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 4'900
 NISSAN Note 1.2 acenta+
 1.5
 05.06.2021
@@ -753,27 +775,6 @@ Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 2'499
-NISSAN Note 1.4 acenta
-6.0
-03.06.2021
-Occasion
-02.2008, Manuell, Benzin
-230'600 km, 88 PS, Blau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 1'200
-Preisreduktion
-NISSAN Note 1.6 acenta
-6.0
-03.06.2021
-Occasion
-09.2009, Manuell, Benzin
-142'000 km, 110 PS, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 1'999
 vorherige Seite
 Sie befinden sich auf Seite1
 2
@@ -781,7 +782,7 @@ Sie befinden sich auf Seite1
 4
 5
 6
-13
+12
 nächste Seite
 ×
 ×

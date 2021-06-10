@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-wasseramt/
 Title: Wohnung & Haus kaufen in Bezirk Wasseramt - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Wasseramt - Immostreet.ch: ImmoStreet.ch hat 61 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Wasseramt - Immostreet.ch: ImmoStreet.ch hat 59 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-61 Resultate gefunden ·
+59 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Wasseramt
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Kastanienweg 1
+650'000
+CHF
+Farbenfrohe, flexible, grosszügige 6 1/…
+Kastanienweg 1, 4542 Luterbach
+Array
+6.5 Zimmer
+170 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+6.5
+Wohnfläche
+170 m2
+Die geräumige und helle Wohnung kann durchaus mit einem Einfamilienhaus verglichen werden. Die aktu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 660'000
 CHF
@@ -272,13 +291,13 @@ Wohnen an bevorzugter und sehr ruhigen …
 Rainackerstrasse 9, 4543 Deitingen
 Array
 4.5 Zimmer
-99 m2
+98 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-99 m2
+98 m2
 Garten-WohnungDer Neubau mit vier lichtdurchfluteten Eigentumswohnungen entsteht an leicht erhöhter…
 Teilen
 E-Mail
@@ -299,25 +318,6 @@ Zimmer
 Wohnfläche
 120 m2
 Dieses schöne und charmante Reiheneckhaus befindet sich an einer sehr guten Lage, nah von Einkaufsm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonnenfeldstrasse 21
-549'000
-CHF
-Charmantes sonniges zentrales 4,5 Zi Re…
-Sonnenfeldstrasse 21, 4563 Gerlafingen
-Array
-4.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-88 m2
-Sie suchen ein harmonisches und sonniges Zuhause für sich und ihre Liebsten? Sie schätzen die Nähe …
 Teilen
 E-Mail
 Facebook
@@ -375,44 +375,6 @@ Zimmer
 Wohnfläche
 185 m2
 An schöner und zentraler Lage entsteht eine Wohnanlage der besonderen Art: zwei elegante Mehrfamili…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonnenfeldstrasse 21
-549'000
-CHF
-Charmantes sonniges zentrales 4,5 Zi Re…
-Sonnenfeldstrasse 21, 4563 Gerlafingen
-Array
-4.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-4.5
-Wohnfläche
-88 m2
-Sie suchen ein harmonisches und sonniges Zuhause für sich und ihre Liebsten? Sie schätzen die Nähe …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-699'000
-CHF
-GROSSZÜGIG, RENOVIERT UND LICHTDURCHFLU…
-Adresse auf Anfrage, 4573 Lohn-Ammannsegg
-Array
-5.5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-160 m2
-Diese wunderschöne und äusserst attraktive Dachwohnung mit grosser Galerie überzeugt durch die mode…
 Teilen
 E-Mail
 Facebook
@@ -524,11 +486,48 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 4
+Adresse auf Anfrage
+1'199'900
+CHF
+Freistehendes Einfamilienhaus in ruhige…
+Adresse auf Anfrage, 4566 Oekingen
+Array
+6 Zimmer
+227 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6
+Wohnfläche
+227 m2
+An schöner Wohnlage, in einem Einfamilienhausquartier in Oekingen verkaufen wir ein grosszügiges E…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'069'000
+CHF
+Beginnen Sie ein neues Kapitel in Ihrem…
+Adresse auf Anfrage, 4563 Gerlafingen
+Array
+6.5 Zimmer
+170 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+170 m2
+Sind Sie auf der Suche nach einem neuen Zuhause für Sie und Ihre Liebsten? Dann sind Sie hier genau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 3
 1
 2
 3
-4
 nächste Seite
 ImmoStreet.ch
 Kaufen

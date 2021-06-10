@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-muenchenbuchsee/
 Title: Wohnung & Haus mieten in Münchenbuchsee - Immostreet.ch
-Description: Wohnung & Haus mieten in  Münchenbuchsee - Immostreet.ch: ImmoStreet.ch hat 30 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Münchenbuchsee - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-30 Resultate gefunden ·
+31 Resultate gefunden ·
 Wohnung & Haus mieten in Münchenbuchsee
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Neumattstr. 1 (Neumatt III)
+1'090
+CHF
+/Monat
+Schöne, renovierte Wohnung im ruhigen Q…
+Neumattstr. 1 (Neumatt III), 3053 Münchenbuchsee
+Array
+2 Zimmer
+52 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+52 m2
+Wir vermieten eine schöne und moderne Wohnung an sonniger Lage. Diese Liegenschaft wurde renoviert …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Weierweg 29
 1'500
 CHF
@@ -176,7 +196,7 @@ Ursprungstrasse 67
 1'810
 CHF
 /Monat
-Schöne 3.5-Zimmer Attikawohnung in Münc…
+Schöne 3.5-Zimmer-Attikawohnung in Münc…
 Ursprungstrasse 67, 3053 Münchenbuchsee
 Array
 3.5 Zimmer
@@ -504,26 +524,6 @@ Wohnung, Flach
 Zimmer
 4.5
 AB SOFIRT ODER NACH VEREINBARUNG, SCHÖNE HELLE 4,1/2 ZIMMER-WOHNUNG ZU VERMIETEN GROSSER SONNIGER …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schaalweg 12 (Neumatt I)
-1'360
-CHF
-/Monat
-Ruhige Wohnlage im Grünen
-Schaalweg 12 (Neumatt I), 3053 Münchenbuchsee
-Array
-2 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-60 m2
-Diese zentral gelegene Wohnsiedlung ist voller Leben. Ob Paar, Single oder junge Familie. Sie finde…
 Teilen
 E-Mail
 Facebook

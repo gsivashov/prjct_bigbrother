@@ -1,6 +1,6 @@
 URL: https://www.comparis.ch/carfinder/marktplatz/vw/up/neuwagen
 Title: VW Up Neuwagen – Preise vergleichen mit Comparis
-Description: Finden Sie unter 101 VW Up Neuwagen Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
+Description: Finden Sie unter 100 VW Up Neuwagen Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
 Suche
 Menü
@@ -611,13 +611,13 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 VW
-(18'530)
+(18'409)
 VW Up Occasion
-(207)
+(209)
 VW Up Neuwagen
-(101)
+(100)
 VW Up Vorführwagen
-(24)
+(23)
 Aufbau
 VW Up Limousine
 (40)
@@ -628,39 +628,39 @@ VW Up Elektroautos
 (109)
 Typ
 VW UP
-(230)
+(231)
 VW E-Up
-(101)
+(100)
 Modelle
 VW Golf
-(4'882)
+(4'835)
 VW Tiguan
-(1'968)
+(2'003)
 VW Polo
-(1'876)
+(1'798)
 VW Passat
-(1'415)
+(1'378)
 VW Touran
-(907)
+(914)
 VW T6
-(884)
-VW Caddy
-(811)
+(876)
 VW T-ROC
-(805)
+(815)
+VW Caddy
+(804)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
 Carweb wird durchsucht ...
 drive-in.ch wird durchsucht ...
-101 Treffer auf allen grossen Schweizer Auto-Portalen
-101 Treffer auf allen Portalen
+100 Treffer auf allen grossen Schweizer Auto-Portalen
+100 Treffer auf allen Portalen
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
-29 Inserate
+28 Inserate
 0 Inserate
-90 Inserate
+89 Inserate
 0 Inserate
 0 Inserate
 VW Up e-Up
@@ -736,6 +736,7 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 26'150
 ab CHF 478 / Monat
+Preiserhöhung
 VW Up 1.0 TSI GTI
 30.05.2021
 Neuwagen
@@ -744,8 +745,8 @@ Manuell, Benzin
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 23'600
-ab CHF 431 / Monat
+CHF 23'990
+ab CHF 438 / Monat
 VW Up e-Up
 3.5
 30.05.2021
@@ -774,7 +775,7 @@ Sie befinden sich auf Seite1
 4
 5
 6
-11
+10
 nächste Seite
 ×
 ×

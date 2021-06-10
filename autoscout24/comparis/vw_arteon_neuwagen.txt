@@ -610,43 +610,43 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 VW
-(18'473)
-VW Arteon Neuwagen
-(56)
+(18'424)
 VW Arteon Occasion
-(54)
+(58)
+VW Arteon Neuwagen
+(57)
 VW Arteon Vorführwagen
-(46)
+(45)
 Aufbau
 VW Arteon Kombi
-(101)
+(102)
 VW Arteon Limousine
-(55)
+(58)
 Motor
 VW Arteon Benzin
-(128)
+(130)
 VW Arteon Diesel
-(25)
+(27)
 Typ
 VW Arteon
-(156)
+(160)
 Modelle
 VW Golf
-(4'845)
+(4'839)
 VW Tiguan
-(1'965)
+(2'006)
 VW Polo
-(1'875)
+(1'801)
 VW Passat
-(1'414)
+(1'378)
 VW Touran
-(907)
+(916)
 VW T6
-(881)
-VW Caddy
-(811)
+(877)
 VW T-ROC
-(804)
+(816)
+VW Caddy
+(803)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -713,7 +713,7 @@ VW Arteon Shooting Brake 2.0 TSI R DSG 4m
 08.05.2021
 Neuwagen
 Automat, Benzin
-50 km, 320 PS, Blau
+50 km, 319 PS, Blau
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
@@ -760,7 +760,7 @@ VW Arteon SB 2.0 TSI R 4Motion DSG
 29.04.2021
 Neuwagen
 Automat, Benzin
-12 km, 320 PS, Schwarz
+12 km, 319 PS, Schwarz
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.

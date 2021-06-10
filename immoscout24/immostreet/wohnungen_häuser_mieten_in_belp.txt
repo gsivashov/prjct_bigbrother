@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-belp/
 Title: Wohnungen & Häuser mieten in Belp - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Belp - Immostreet.ch: ImmoStreet.ch hat 45 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Belp - Immostreet.ch: ImmoStreet.ch hat 42 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-45 Resultate gefunden ·
+42 Resultate gefunden ·
 Wohnungen & Häuser mieten in Belp
 Preis (aufsteigend)
 Preis (absteigend)
@@ -173,26 +173,6 @@ Wohnung, Flach
 Zimmer
 2.5
 Suche Nachmieter per 15.08.2021.Schöne und moderne 2.5 Zimmer Wohnung mit ruhigem Gartensitzplatz. …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kastanienweg 18
-2'055
-CHF
-/Monat
-Wohnen mit Gartensitzplatz!
-Kastanienweg 18, 3123 Belp
-Array
-4.5 Zimmer
-106 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-106 m2
-Die Überbauung, "Sägewest" liegt unmittelbar neben dem Bahnhof. Der Fussweg beträgt ca. 5 Minuten. …
 Teilen
 E-Mail
 Facebook
@@ -276,23 +256,6 @@ Wohnung, Flach
 Zimmer
 1
 Per 7.8.2021 wird meine gemütliche 1- Zimmer Wohnung in Belp frei. Die Wohnung ist praktisch aufget…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Burggässli 13
-1'700
-CHF
-/Monat
-Renovierte 4 1/2 Dachwohnung
-Burggässli 13, 3123 Belp
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Renovierte 4 1/2 Zimmer Dachwohnung in einem 6 Parteien Haus.BodenheizungEstrich KellerabteilParket…
 Teilen
 E-Mail
 Facebook
@@ -471,6 +434,40 @@ Wohnung, Flach
 Zimmer
 4.5
 Wir vermieten ab dem 1. Juli 2021 oder nach Vereinbarung folgende 4½-Zimmerwohnung am Engeweg 12 in…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schönmattweg 9
+1'360
+CHF
+/Monat
+3-Zimmerwohnung, Parterre links
+Schönmattweg 9, 3123 Belp
+Array
+3 Zimmer
+55 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+55 m2
+Die Liegenschaft, welche im 2017 energetisch saniert wurde, befindet sich an sonniger, zentraler La…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sägemattstrasse 14-24 Aussenparkierung
+60
+CHF
+/Monat
+Aussenabstellplatz in Belp gesucht?
+Sägemattstrasse 14-24 Aussenparkierung, 3123 Belp
+Array
+Objekttyp
+Offener Parkplatz
+Per sofort oder nach Vereinbarung vermieten wir mehrere Aussenabstellplätze an zentraler Lage:- Kur…
 Teilen
 E-Mail
 Facebook

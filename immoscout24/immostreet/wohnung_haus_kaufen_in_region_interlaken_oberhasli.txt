@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-interlakenoberhasli/
 Title: Wohnung & Haus kaufen in Region Interlaken Oberhasli - Immostreet.ch
-Description: Wohnung & Haus kaufen in Region Interlaken Oberhasli - Immostreet.ch: ImmoStreet.ch hat 69 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden
+Description: Wohnung & Haus kaufen in Region Interlaken Oberhasli - Immostreet.ch: ImmoStreet.ch hat 71 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-69 Resultate gefunden ·
+71 Resultate gefunden ·
 Wohnung & Haus kaufen in Region Interlaken Oberhasli
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,38 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+2'150
+CHF
+Gebäude, Garage
+Adresse auf Anfrage, 3822 Lauterbrunnen
+Array
+1 Zimmer
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+1
+Unterstand gebrauchtMasse 5.5*5,8*3mIdeal für Garage, Gartenhaus, Stall usw Gebäude ist zerlegt und…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wychelstrasse 11
+Preis auf Anfrage
+Schönes Einfamilienhaus Chalet Eleven m…
+Wychelstrasse 11, 3818 Grindelwald
+Array
+5.5 Zimmer
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Etage
+ObjektbeschreibungDas neue, moderne Einfamilien-Chalet Eleven befindet sich an der Wychelstrasse 11…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Brünigstrasse 50
 598'000
 CHF
@@ -491,45 +523,6 @@ Zimmer
 Wohnfläche
 72 m2
 Ich freue mich schon jetzt, Sie als meinen neuen Eigentümer willkommen zu heissen.Besuchen Sie Ihr …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchbühlstrasse 40
-750'000
-CHF
-Gemütliche Erdgeschosswohnung an traumh…
-Kirchbühlstrasse 40, 3818 Grindelwald
-Array
-1.5 Zimmer
-35 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-1.5
-Wohnfläche
-35 m2
-ObjektbeschreibungDie gemütliche 1.5-Zimmerwohnung befindet sich im Erdgeschoss des Chalets Vivaldi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schiltwaldweg, 3823 Wengen
-1'550'000
-CHF
-Ein zu errichtendes Penthouse mit drei …
-Schiltwaldweg, 3823 Wengen, 3823 Wengen
-Array
-4.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-130 m2
-Dieses Appartement
-Diese Penthouse-Wohnung verfügt über drei Schlafzimmer, zwei Badezimmer (eine…
 Teilen
 E-Mail
 Facebook

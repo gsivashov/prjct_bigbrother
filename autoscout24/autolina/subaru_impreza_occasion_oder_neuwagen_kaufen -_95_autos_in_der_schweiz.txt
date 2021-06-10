@@ -154,6 +154,28 @@ TI
 WIR-ANTEIL
 95 Treffer
 Suche zurücksetzen
+NEU
+SUBARU
+Impreza 2.0 Turbo WRX STi
+CHF 23'900
+ab CHF 257/Monat
+01.2006
+Handschaltung
+189'000 km
+Benzin
+Allradantrieb
+schwarz
+265 PS
+SH
+Merken
+SUBARU
+Impreza 2.0 Turbo WRX STi
+01.2006
+265 PS
+189'000 km
+CHF 23'900
+Merken
+ab CHF 257/Monat
 SUBARU
 Impreza 2.0 Turbo GT
 CHF 13'000
@@ -175,6 +197,94 @@ Impreza 2.0 Turbo GT
 CHF 13'000
 Merken
 ab CHF 140/Monat
+NEU
+SUBARU
+Impreza 2.0i e-Boxer Swiss Plus AWD CVT
+CHF 32'900
+ab CHF 354/Monat
+06.2020
+Automat
+500 km
+Mild-Hybrid Benzin/Elektro
+Allradantrieb
+silber
+150 PS
+LU
+Merken
+SUBARU
+Impreza 2.0i e-Boxer Swiss Plus A...
+06.2020
+150 PS
+500 km
+CHF 32'900
+Merken
+ab CHF 354/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+SUBARU
+Impreza 2.0D Comfort S
+CHF 1'900
+06.2009
+Handschaltung
+198'000 km
+Diesel
+Allradantrieb
+silber
+150 PS
+AG
+Merken
+SUBARU
+Impreza 2.0D Comfort S
+06.2009
+150 PS
+198'000 km
+CHF 1'900
+Merken
+NEU
+SUBARU
+Impreza 1.5R Swiss
+CHF 1'500
+06.2007
+Handschaltung
+240'000 km
+Benzin
+Allradantrieb
+silber
+105 PS
+ZH
+Merken
+SUBARU
+Impreza 1.5R Swiss
+06.2007
+105 PS
+240'000 km
+CHF 1'500
+Merken
+NEU
+SUBARU
+Impreza 2.0i e-Boxer Swiss Plus AWD CVT
+CHF 33'900
+ab CHF 365/Monat
+11.2020
+Automat
+6'500 km
+Mild-Hybrid Benzin/Elektro
+Allradantrieb
+silber
+150 PS
+ZH
+Merken
+SUBARU
+Impreza 2.0i e-Boxer Swiss Plus A...
+11.2020
+150 PS
+6'500 km
+CHF 33'900
+Merken
+ab CHF 365/Monat
 SUBARU
 Impreza 2.0R Swiss
 CHF 6'950
@@ -241,25 +351,6 @@ CHF 16'400
 Merken
 ab CHF 177/Monat
 SUBARU
-Impreza 1.5R Swiss Automatic
-CHF 6'500
-05.2009
-Automat
-55'000 km
-Benzin
-Allradantrieb
-silber
-107 PS
-AG
-Merken
-SUBARU
-Impreza 1.5R Swiss Automatic
-05.2009
-107 PS
-55'000 km
-CHF 6'500
-Merken
-SUBARU
 Impreza 2.0R Comfort
 CHF 6'900
 01.2010
@@ -277,25 +368,6 @@ Impreza 2.0R Comfort
 150 PS
 137'000 km
 CHF 6'900
-Merken
-SUBARU
-Impreza 2.0R
-CHF 5'900
-04.2006
-Handschaltung
-78'000 km
-Benzin
-Allradantrieb
-blau
-160 PS
-ZH
-Merken
-SUBARU
-Impreza 2.0R
-04.2006
-160 PS
-78'000 km
-CHF 5'900
 Merken
 SUBARU
 Impreza 2.0R Swiss
@@ -359,25 +431,6 @@ CHF 11'900
 Merken
 ab CHF 134/Monat
 SUBARU
-Impreza 1.5R Swiss
-CHF 1'500
-06.2007
-Handschaltung
-240'000 km
-Benzin
-Allradantrieb
-silber
-105 PS
-ZH
-Merken
-SUBARU
-Impreza 1.5R Swiss
-06.2007
-105 PS
-240'000 km
-CHF 1'500
-Merken
-SUBARU
 Impreza 2.0XV Style Automatic
 CHF 7'000
 09.2010
@@ -414,44 +467,6 @@ Impreza 2.0R Swiss
 160 PS
 156'000 km
 CHF 6'600
-Merken
-SUBARU
-Impreza 2.0R Swiss Automatic
-CHF 5'500
-12.2009
-Automat
-186'662 km
-Benzin
-Allradantrieb
-grau
-150 PS
-VD
-Merken
-SUBARU
-Impreza 2.0R Swiss Automatic
-12.2009
-150 PS
-186'662 km
-CHF 5'500
-Merken
-SUBARU
-Impreza 2.0D Swiss
-CHF 5'800
-03.2011
-Handschaltung
-163'000 km
-Diesel
-Allradantrieb
-blau
-150 PS
-ZH
-Merken
-SUBARU
-Impreza 2.0D Swiss
-03.2011
-150 PS
-163'000 km
-CHF 5'800
 Merken
 1
 1

@@ -153,7 +153,7 @@ Sicheres und direktes Bezahlen mit Kreditkarte oder Rechnung
 Jetzt Auto inserieren
 Alle Konditionen im Überblick
 Inserieren Sie Ihr Fahrzeug auf comparis.ch.
-Ohne Zusatzkosten erscheint Ihr Inserat auch bei unserem Partner autoscout24.ch.
+Ohne Zusatzkosten erscheint Ihr Inserat auch bei unserem Partner autoscout24.ch und anibis.ch.
 autoscout24.ch ist für die Abwicklung der Zahlung und die Überprüfung der Inserate zuständig. Die Zahlung erfolgt mittels Kreditkarte oder Rechnung (+ CHF 9 Bearbeitungsgebühr).
 Laufzeit
 Basic
@@ -161,7 +161,7 @@ Plus
 Premium
 Unlimited
 14 Tage
-CHF 59
+CHF 69
 CHF 99
 CHF 149
 -

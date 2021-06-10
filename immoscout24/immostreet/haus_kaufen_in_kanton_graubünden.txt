@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/kanton-graubuenden/?pagenum=4
 Title: Haus kaufen in Kanton Graubünden - Immostreet.ch
-Description: Haus kaufen in Kanton Graubünden - Immostreet.ch: ImmoStreet.ch hat 219 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Kanton Graubünden - Immostreet.ch: ImmoStreet.ch hat 217 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-219 Resultate gefunden ·
+217 Resultate gefunden ·
 Haus kaufen in Kanton Graubünden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,185 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Sum il Vitg
+275'000
+CHF
+Wohnhaushälfte im Herzen von Trun
+Sum il Vitg, 7166 Trun
+Array
+5.5 Zimmer
+158 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+158 m2
+Etage
+Raumaufteilung
+Der Eingang befindet sich seitlich (rechts) vom Haus. Durch den Zaun gelangen Sie r…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+620'000
+CHF
+SCHÖNES EIGENHEIM MIT GROSSER WERKSTATT
+Adresse auf Anfrage, 7013 Domat/Ems
+Array
+3.5 Zimmer
+94 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+3.5
+Wohnfläche
+94 m2
+An idealer Lage mitten im Dorfzentrum von Domat/Ems verkaufen wir dieses einmalige Einfamilienhaus …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Terlischastrasse 6
+1'200'000
+CHF
+Am Dorfrand mit Fernblick ins Prättigau
+Terlischastrasse 6, 7212 Seewis Dorf
+Array
+5.5 Zimmer
+135 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+135 m2
+Etage
+Diese Liegenschaft liegt an Hanglage an unverbaubarer Aus-und Weitsicht. 755m² Grundstückfläche bie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'500'000
+CHF
+Traumhafte 4.5-Zimmer Doppelhaushälfte
+Adresse auf Anfrage, 7304 Maienfeld
+Array
+4.5 Zimmer
+151 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+4.5
+Wohnfläche
+151 m2
+Etage
+Diese traumhafte Doppelhaushälfte in der Bündner Herrschaft, befindet sich an beliebter und ruhiger…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'750'000
+CHF
+Einzigartige 6.5- Zimmer Doppelhaushälf…
+Adresse auf Anfrage, 7304 Maienfeld
+Array
+6.5 Zimmer
+147 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+6.5
+Wohnfläche
+147 m2
+Etage
+Diese traumhafte Doppelhaushälfte in der Bündner Herrschaft befindet sich an beliebter und ruhiger …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'750'000
+CHF
+RESERVIERT - Heimeliges Chalet an unver…
+Adresse auf Anfrage, 7050 Arosa
+Array
+4.5 Zimmer
+162 m2
+Objekttyp
+Wohnung, Chalet
+Zimmer
+4.5
+Wohnfläche
+162 m2
+Etage
+Dieses wunderschöne und heimelige Ferien-Chalet befindet sich an Top-Lage von Arosa auf einem Grund…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+4'950'000
+CHF
+Einmaliges Maissen-Chalet
+Adresse auf Anfrage, 7050 Arosa
+Array
+13.5 Zimmer
+370 m2
+Objekttyp
+Wohnung, Chalet
+Zimmer
+13.5
+Wohnfläche
+370 m2
+Etage
+Dieses einmalige Chalet wurde im Jahre 1983 erbaut. Bereits bei der Einfahrt beginnen die Ferien - …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+169'900
+CHF
+Vendita abitazione unifamiliare Valle C…
+Adresse auf Anfrage, 6542 Buseno
+Array
+4.5 Zimmer
+500 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+500 m2
+La proprietà si trova in località Buseno, in frazione ?Premorett?, a ca. 650 msm di altitudine, a 1…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+160'000
+CHF
+CASA DI NUCLEO CON GIARDINO
+Adresse auf Anfrage, 6563 Mesocco
+Array
+4.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+90 m2
+Etage
+Nel simpatico nucleo di Mesocco, sempre più ricercato vi proponiamo un'interessante casa unifamilia…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 650'000
 CHF
@@ -193,42 +372,6 @@ Wohnfläche
 135 m2
 Etage
 Im wunderbar sonnigen und idyllisch gelegenen Bergdorf Fanas (910 m.ü.M.) im Prättigau steht dieses…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mattawaldstr. 15a
-345'000
-CHF
-Minenergie 1 1/2 Zi-Haus, Atelier, mit …
-Mattawaldstr. 15a, 7260 Davos Dorf
-Array
-33 m2
-Objekttyp
-Flach, Einliegerwohnung
-Wohnfläche
-33 m2
-Etage
-Ruhigste, reine Südhanglage mit freier Sicht zu verkaufen. Minenergie 1 1/2 Zimmerhaus, möbliert,34…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rossa
-800'000
-CHF
-Casa con appartamento aggiuntivo
-Rossa, 6548 Rossa
-Array
-7 Zimmer
-160 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7
-Wohnfläche
-160 m2
-Spaziosa casa con appartamento aggiuntivo immersa nel verde della stupenda val Calanca, all'inizio …
 Teilen
 E-Mail
 Facebook
@@ -373,148 +516,15 @@ CHF
 Paradies am Rhein
 Luamaweg 13, 7303 Mastrils
 Array
-5.5 Zimmer
+4.5 Zimmer
 110 m2
 Objekttyp
 Wohnung, Reihenfamilienhaus
 Zimmer
-5.5
+4.5
 Wohnfläche
 110 m2
 Mastrils ist Teil der Gemeinde Landquart und liegt am Eingangstor zu Graubünden im unteren Bündner …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-480'000
-CHF
-Holiday Hotspot - Ihre Wünsche sind gef…
-Adresse auf Anfrage, 7563 Samnaun Dorf
-Array
-5.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-120 m2
-Etage
-Schwarz – schwärzer......bis zu 70% steile Pisten (Ferienhotspot inkl. Ausländerbewilligung).11 sc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Via da Rens 6
-Preis auf Anfrage
-Exquisites, weiträumiges Landhaus an so…
-Via da Rens 6, 7018 Flims Waldhaus
-Array
-9.5 Zimmer
-558 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-9.5
-Wohnfläche
-558 m2
-Etage
-Exquisites Landhaus Weiträumiges und neuwertiges Landhaus im angelehnten Architekturstil von R. Olg…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Riva de Sóra 10
-1'380'000
-CHF
-Casa immersa nella natura - Haus mitten…
-Riva de Sóra 10, 6535 Roveredo GR
-Array
-5.5 Zimmer
-195 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-195 m2
-RESIDENZA PRIMARIA E SECONDARIA ERST- UND ZWEITWOHNSITZ FIRST AND SECOND RESIDENCE POSSIBLE Benvenu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberes Strässlein 44
-995'000
-CHF
-Wohnen im Domleschg
-Oberes Strässlein 44, 7411 Sils im Domleschg
-Array
-5.5 Zimmer
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-In Sils i.D., im sonnigen Domleschg, verkaufen wir diesen einmaligen Hausteil. Er besticht durch di…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ca di Piva 1
-635'000
-CHF
-Rustikale Doppelhaushälfte zentral gele…
-Ca di Piva 1, 6558 Lostallo
-Array
-4 Zimmer
-163 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4
-Wohnfläche
-163 m2
-(per italiano vedi sotto)Diese Doppelhaushälfte in Lostallo wurde 1990 total saniert und ausgebaut.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-4'950'000
-CHF
-Einmaliges Maissen-Chalet
-Adresse auf Anfrage, 7050 Arosa
-Array
-13.5 Zimmer
-370 m2
-Objekttyp
-Wohnung, Chalet
-Zimmer
-13.5
-Wohnfläche
-370 m2
-Etage
-Dieses einmalige Chalet wurde im Jahre 1983 erbaut. Bereits bei der Einfahrt beginnen die Ferien - …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'500'000
-CHF
-Traumhafte 4.5-Zimmer Doppelhaushälfte
-Adresse auf Anfrage, 7304 Maienfeld
-Array
-4.5 Zimmer
-151 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-4.5
-Wohnfläche
-151 m2
-Etage
-Diese traumhafte Doppelhaushälfte in der Bündner Herrschaft, befindet sich an beliebter und ruhiger…
 Teilen
 E-Mail
 Facebook

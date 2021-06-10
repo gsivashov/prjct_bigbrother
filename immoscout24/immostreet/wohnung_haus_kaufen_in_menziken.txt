@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/in-menziken/
 Title: Wohnung & Haus kaufen in Menziken - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Menziken - Immostreet.ch: ImmoStreet.ch hat 17 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Menziken - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-17 Resultate gefunden ·
+18 Resultate gefunden ·
 Wohnung & Haus kaufen in Menziken
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,44 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Kasernenstrasse 6b
+595'000
+CHF
+LEBENSQUALITÄT IN MENZIKEN
+Kasernenstrasse 6b, 5737 Menziken
+Array
+3.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+97 m2
+Menziken liegt im oberen Wynental im Bezirk Kulm und grenzt an den Kanton Luzern. Die Gemeinde ist …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kasernstrasse 6
+795'000
+CHF
+LEBENSQUALITÄT IN MENZIKEN
+Kasernstrasse 6, 5737 Menziken
+Array
+4.5 Zimmer
+128 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+128 m2
+Menziken liegt im oberen Wynental im Bezirk Kulm und grenzt an den Kanton Luzern. Die Gemeinde ist …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 640'000
 CHF
@@ -249,23 +287,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Falkenweg 1
-1'295'000
-CHF
-6 .5 Zimmer Einfamilienhaus auf 979 m² …
-Falkenweg 1, 5737 Menziken
-Array
-6.5 Zimmer
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Etage
-In Menziken AG zu verkaufen: 6 .5 Zimmer Einfamilienhaus auf 979 m² grossem Grundstück, mit zwei Ga…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Rasenstrasse 17
 840'000
 CHF
@@ -286,8 +307,7 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-750'000
-CHF
+Preis auf Anfrage
 Naturverbundenes Leben mit allen seinen…
 Adresse auf Anfrage, 5737 Menziken
 Array

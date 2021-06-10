@@ -605,41 +605,41 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Fiat
-(5'942)
-Fiat Tipo Neuwagen
-(236)
+(6'010)
 Fiat Tipo Occasion
-(229)
+(235)
+Fiat Tipo Neuwagen
+(235)
 Fiat Tipo Vorführwagen
 (66)
 Aufbau
 Fiat Tipo Limousine
-(317)
+(319)
 Fiat Tipo Kombi
-(214)
+(217)
 Motor
 Fiat Tipo Benzin
-(376)
+(377)
 Fiat Tipo Diesel
-(155)
+(159)
 Typ
 Fiat Tipo
-(531)
+(536)
 Modelle
 Fiat 500
-(2'350)
+(2'408)
 Fiat Panda
-(523)
+(534)
 Fiat 500X
 (414)
 Fiat 595
-(395)
+(392)
 Fiat Ducato
-(388)
+(377)
 Fiat Punto
-(346)
+(345)
 Fiat Doblo
-(145)
+(146)
 Fiat 500L
 (125)
 CAR FOR YOU wird durchsucht ...
@@ -657,6 +657,16 @@ weniger
 215 Inserate
 0 Inserate
 0 Inserate
+FIAT Tipo 1.0 T3 City SPORT 100
+10.06.2021
+Neuwagen
+Manuell, Benzin
+12 km, 100 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 24'900
+ab CHF 455 / Monat
 Fiat Tipo 1.0 T3 Life
 07.06.2021
 Neuwagen
@@ -677,6 +687,26 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 28'900
 ab CHF 528 / Monat
+Fiat Tipo 1.0 T3 City Sport
+05.06.2021
+Neuwagen
+Manuell, Benzin
+30 km, 100 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 25'190
+ab CHF 460 / Monat
+Fiat Tipo SW 1.0 T3 City Life
+05.06.2021
+Neuwagen
+Manuell, Benzin
+30 km, 100 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 24'670
+ab CHF 451 / Monat
 Fiat Tipo 1.6MJ Cross
 05.06.2021
 Neuwagen
@@ -687,16 +717,16 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 27'500
 ab CHF 502 / Monat
-Fiat Tipo 1.0 T3 City Sport
+Fiat Tipo SW 1.0 T3 Life
 05.06.2021
 Neuwagen
 Manuell, Benzin
-30 km, 101 PS, Grau
+30 km, 100 PS, Weiss
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 25'190
-ab CHF 460 / Monat
+CHF 26'840
+ab CHF 490 / Monat
 Fiat Tipo SW 1.0 T3 Life
 05.06.2021
 Neuwagen
@@ -707,16 +737,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 26'840
 ab CHF 490 / Monat
-Fiat Tipo SW 1.0 T3 City Life
-05.06.2021
-Neuwagen
-Manuell, Benzin
-30 km, 101 PS, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 24'670
-ab CHF 451 / Monat
 Fiat Tipo 1.0 T3 City Sport
 05.06.2021
 Neuwagen
@@ -727,16 +747,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 25'190
 ab CHF 460 / Monat
-Fiat Tipo SW 1.0 T3 Life
-05.06.2021
-Neuwagen
-Manuell, Benzin
-30 km, 101 PS, Weiss
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 26'840
-ab CHF 490 / Monat
 Fiat Tipo SW 1.0 T3 City Life
 05.06.2021
 Neuwagen
@@ -747,16 +757,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 24'670
 ab CHF 451 / Monat
-FIAT Tipo 1.6MJ Station Wagon Life
-05.06.2021
-Neuwagen
-Manuell, Diesel
-100 km, 131 PS, Blau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 28'900
-ab CHF 528 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2

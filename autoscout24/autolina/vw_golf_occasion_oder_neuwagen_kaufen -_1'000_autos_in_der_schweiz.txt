@@ -153,6 +153,50 @@ TI
 WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
+NEU
+VW
+Golf VI 2.0 TSI GTI Edition 35 DSG
+CHF 22'500
+ab CHF 242/Monat
+07.2011
+Automat
+67'300 km
+Benzin
+Vorderradantrieb
+rot
+235 PS
+VD
+Merken
+VW
+Golf VI 2.0 TSI GTI Edition 35 DS...
+07.2011
+235 PS
+67'300 km
+CHF 22'500
+Merken
+ab CHF 242/Monat
+NEU
+VW
+GOLF 8 1.5 eTSI Style NAV LED ACC RFK PDC SHZ
+CHF 29'400
+ab CHF 347/Monat
+01.2021
+Automat
+10 km
+Mild-Hybrid Benzin/Elektro
+Vorderradantrieb
+schwarz
+150 PS
+ZH
+Merken
+VW
+GOLF 8 1.5 eTSI Style NAV LED ACC...
+01.2021
+150 PS
+10 km
+CHF 29'400
+Merken
+ab CHF 347/Monat
 VW
 Golf IV 3.2 V6 R32 4motion
 CHF 28'880
@@ -193,27 +237,6 @@ Golf 1.4 Trendline
 171'000 km
 CHF 3'300
 Merken
-VW
-GOLF 1.5 eTSI R-Line PANO NAV 18Z DAB LED PDC ACC
-CHF 34'700
-ab CHF 409/Monat
--
-Automat
-10 km
-Mild-Hybrid Benzin/Elektro
-Vorderradantrieb
-grau
-150 PS
-ZH
-Merken
-VW
-GOLF 1.5 eTSI R-Line PANO NAV 18Z...
--
-150 PS
-10 km
-CHF 34'700
-Merken
-ab CHF 409/Monat
 VW
 Golf VII 2.0 TSI R 310 DSG 4motion
 CHF 33'780
@@ -403,71 +426,48 @@ Golf VI Variant 1.4 TSI Team
 CHF 13'500
 Merken
 ab CHF 145/Monat
-VW
-Golf VII Variant 2.0 TDI Lounge
-CHF 15'500
-ab CHF 167/Monat
-07.2015
-Handschaltung
-56'000 km
-Diesel
-Vorderradantrieb
-schwarz
-150 PS
-VS
-Merken
-VW
-Golf VII Variant 2.0 TDI Lounge
-07.2015
-150 PS
-56'000 km
-CHF 15'500
-Merken
-ab CHF 167/Monat
 NEU
 VW
-Golf 2.0 TSI GTI Perform.
-CHF 19'989
-ab CHF 215/Monat
-04.2014
-Automat
-91'100 km
+Golf 1.6 16V
+CHF 900
+11.2000
+Handschaltung
+221'279 km
 Benzin
 Vorderradantrieb
 grau
-230 PS
+105 PS
+BL
+Merken
+VW
+Golf 1.6 16V
+11.2000
+105 PS
+221'279 km
+CHF 900
+Merken
+NEU
+VW
+Golf 8 Variant Alltrack
+CHF 51'600
+ab CHF 555/Monat
+-
+Automat
+30 km
+Diesel
+Allradantrieb
+grau
+200 PS
 AG
 Merken
 VW
-Golf 2.0 TSI GTI Perform.
-04.2014
-230 PS
-91'100 km
-CHF 19'989
+Golf 8 Variant Alltrack
+-
+200 PS
+30 km
+CHF 51'600
 Merken
-ab CHF 215/Monat
-NEU
-VW
-new Golf Comfortline
-CHF 18'900
-ab CHF 203/Monat
-06.2017
-Automat
-59'000 km
-Benzin
-Vorderradantrieb
-schwarz
-125 PS
-TI
-Merken
-VW
-new Golf Comfortline
-06.2017
-125 PS
-59'000 km
-CHF 18'900
-Merken
-ab CHF 203/Monat
+ab CHF 555/Monat
 1
 1
 2

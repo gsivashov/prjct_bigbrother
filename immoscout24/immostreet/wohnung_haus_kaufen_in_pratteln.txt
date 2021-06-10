@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/in-pratteln/
 Title: Wohnung & Haus kaufen in Pratteln - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Pratteln - Immostreet.ch: ImmoStreet.ch hat 11 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Pratteln - Immostreet.ch: ImmoStreet.ch hat 12 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-11 Resultate gefunden ·
+12 Resultate gefunden ·
 Wohnung & Haus kaufen in Pratteln
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Pratteln
+670'000
+CHF
+Gemütliche 4.5-Zimmerwohnung mit 2 Balk…
+Pratteln, 4133 Pratteln
+Array
+4.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+95 m2
+Diese Wohnung überzeugt durch die praktische und funktionale Raumaufteilung. Zudem punktet sie mit …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 565'000
 CHF

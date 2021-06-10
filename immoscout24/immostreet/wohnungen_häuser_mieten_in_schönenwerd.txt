@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-schoenenwerd/
 Title: Wohnungen & Häuser mieten in Schönenwerd - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Schönenwerd - Immostreet.ch: ImmoStreet.ch hat 48 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Schönenwerd - Immostreet.ch: ImmoStreet.ch hat 46 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-48 Resultate gefunden ·
+46 Resultate gefunden ·
 Wohnungen & Häuser mieten in Schönenwerd
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,20 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Stauwehrstrasse 53-59
+100
+CHF
+/Monat
+Einstellplatz
+Stauwehrstrasse 53-59, 5012 Schönenwerd
+Array
+Objekttyp
+Offener Parkplatz
+Wir vermieten nach Vereinbarung einen Parkplatz an zentraler Lage in Schönenwerd.Zögern Sie nicht, …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Oltnerstrasse 19
 1'280
 CHF
@@ -259,20 +273,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Stauwehrstrasse 53-59
-100
-CHF
-/Monat
-Einstellplatz
-Stauwehrstrasse 53-59, 5012 Schönenwerd
-Array
-Objekttyp
-Offener Parkplatz
-Wir vermieten nach Vereinbarung an zentraler Lage in Schönenwerd Einstellhallenparkplätze.Für Auskü…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 schachenstrasse
 1'010
 CHF
@@ -326,46 +326,6 @@ Zimmer
 Wohnfläche
 92 m2
 An zentraler Lage - im Dorfzentrum von Schönenwerd - finden Sie diese moderne Liegenschaft. Die Woh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Höhefeldstrasse 29 (Aarepark)
-1'340
-CHF
-/Monat
-Familienwohnung an ruhiger Lage! 1. Mie…
-Höhefeldstrasse 29 (Aarepark), 5012 Schönenwerd
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Wir vermieten eine 3.5-Zimmerwohnungen im 1.OG per sofort oder nach Vereinbarung:helles Woh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lochmattstrasse
-1'050
-CHF
-/Monat
-2.5-Zimmer Wohnung mit verzückender Aus…
-Lochmattstrasse, 5012 Schönenwerd
-Array
-2.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-65 m2
-Für die Besichtigung melden Sie sich bitte auf mietwelt.ch an. Hierzu können Sie gerne auch den fol…
 Teilen
 E-Mail
 Facebook
@@ -499,6 +459,46 @@ Zimmer
 Wohnfläche
 64 m2
 Wir vermieten per sofort oder nach Vereinbarung diese tolle 3.5 Zimmer-Wohnung.Die Wohnung verfügt …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Höhefeldstrasse 27 (Aarepark)
+1'355
+CHF
+/Monat
+Helle Wohnung an ruhiger Lage
+Höhefeldstrasse 27 (Aarepark), 5012 Schönenwerd
+Array
+3 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+75 m2
+Wir vermieten per 01.Juni eine 3 Zimmerwohnung im EG: Helles und offenes Wohnzimmer mit Pla…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stauwehrstrasse 23
+1'410
+CHF
+/Monat
+4.5-Zimmerwohnung nähe Aarau
+Stauwehrstrasse 23, 5012 Schönenwerd
+Array
+4.5 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+81 m2
+An der Stauwehrstrasse 23-29 vermieten wir zwei 4.5-Zimmerwohnungen im 1. und 3. Stock (kein Lift v…
 Teilen
 E-Mail
 Facebook

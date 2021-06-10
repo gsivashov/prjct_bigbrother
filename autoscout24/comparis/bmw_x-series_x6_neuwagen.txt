@@ -580,51 +580,51 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 BMW
-(15'748)
+(15'715)
 BMW X6 Occasion
-(398)
+(394)
 BMW X6 Neuwagen
 (72)
 Aufbau
 BMW X6 Geländewagen
-(464)
+(461)
 BMW X6 Limousine
-(6)
+(5)
 Motor
 BMW X6 Diesel
-(284)
+(283)
 BMW X6 Benzin
-(142)
+(138)
 Typ
-BMW X5
-(1'452)
 BMW X1
-(1'415)
+(1'438)
+BMW X5
+(1'422)
 BMW X3
-(1'279)
+(1'271)
 BMW X4
-(365)
+(367)
 BMW X2
-(342)
+(345)
 BMW X7
-(105)
+(111)
 Modelle
 BMW 3 Series
-(2'576)
+(2'578)
 BMW 5 Series
-(1'776)
+(1'765)
 BMW 1 Series
-(1'338)
+(1'332)
 BMW 2 Series
-(1'237)
+(1'236)
 BMW M-Series
-(1'114)
+(1'105)
 BMW 4 Series
-(642)
+(636)
 BMW i3
-(404)
+(412)
 BMW 7 Series
-(358)
+(351)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -635,13 +635,13 @@ drive-in.ch wird durchsucht ...
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
-19 Inserate
+21 Inserate
 0 Inserate
 55 Inserate
 0 Inserate
 0 Inserate
 BMW X6 xDrive 48V 40d
-07.06.2021
+10.06.2021
 Neuwagen
 Automat, Elektro/Diesel
 10 km, 340 PS, Schwarz
@@ -650,6 +650,16 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 110'700
 ab CHF 2'022 / Monat
+BMW X6 xDrive 48V 30d M Sport
+08.06.2021
+Neuwagen
+Automat, Elektro/Diesel
+10 km, 286 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 94'900
+ab CHF 1'733 / Monat
 BMW X6 M50i Steptronic
 05.06.2021
 Neuwagen
@@ -732,17 +742,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 104'400
 ab CHF 1'907 / Monat
-BMW X6 xDrive30d
-2.0
-20.05.2021
-Neuwagen
-Automat, Benzin
-50 km, 286 PS, Weiss
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 100'950
-ab CHF 1'844 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2

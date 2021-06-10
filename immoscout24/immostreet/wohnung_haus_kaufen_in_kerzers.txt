@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/apartment-and-house/in-kerzers/distanz-10/zimmer-4.0-/?pagenum=1
 Title: Wohnung & Haus kaufen in Kerzers - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Kerzers - Immostreet.ch: ImmoStreet.ch hat 0 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Kerzers - Immostreet.ch: ImmoStreet.ch hat 1 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -140,7 +140,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-0 Resultat gefunden ·
+1 Resultat gefunden ·
 Wohnung & Haus kaufen in Kerzers
 Preis (aufsteigend)
 Preis (absteigend)
@@ -153,8 +153,27 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Leider sind keine Objekte mit Ihren Suchkriterien verfügbar. Bitte ändern Sie ihre Suchkriterien (indem Sie einen anderen Ort definieren oder die Suchkriterien weniger stark einschränken) oder melden Sie sich für das kostenlose Suchabo an. Wir werden Sie dann per E-Mail benachrichtigen, sobald wir neue passende Objekte für Sie gefunden haben (klicken Sie auf "Suche gratis speichern").
-Neue Suche starten
+Niederriedstrasse
+Preis auf Anfrage
+MODERNE WOHNOASE IM SEELAND
+Niederriedstrasse, 3210 Kerzers
+Array
+6.5 Zimmer
+165 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+165 m2
+Das 2001 modern erbaute Einfamilienhaus begrüsst Sie am Ende einer Quartierstrasse direkt angrenzen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+ImmoStreet.ch
+Kaufen
+Wohnung & Haus zu kaufen
 Wohnung & Haus kaufen in der Stadt Kerzers
 Wohnung & Haus zu kaufen PLZ 3210
 Privatperson

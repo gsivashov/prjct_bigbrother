@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -156,209 +156,76 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 FIAT
+Talento 29 H1 EasyProPlus
+CHF 26'750
+ab CHF 288/Monat
+01.2021
+Handschaltung
+50 km
+Diesel
+Vorderradantrieb
+weiss
+120 PS
+ZH
+Merken
+FIAT
+Talento 29 H1 EasyProPlus
+01.2021
+120 PS
+50 km
+CHF 26'750
+Merken
+ab CHF 288/Monat
+NEU
+FIAT
+Talento Ka.3098H1 2.0 DCT Easy P.Pl.
+CHF 25'990
+ab CHF 280/Monat
+01.2021
+Automat
+7'000 km
+Diesel
+Vorderradantrieb
+weiss
+145 PS
+SG
+Merken
+FIAT
+Talento Ka.3098H1 2.0 DCT Easy P....
+01.2021
+145 PS
+7'000 km
+CHF 25'990
+Merken
+ab CHF 280/Monat
+FIAT
+Talento f. 2.0 120cv H1 3498 Easy Pro Plus
+CHF 27'076
+ab CHF 291/Monat
+05.2021
+Handschaltung
+15 km
+Diesel
+Vorderradantrieb
+weiss
+120 PS
+VD
+Merken
+FIAT
+Talento f. 2.0 120cv H1 3498 Easy...
+05.2021
+120 PS
+15 km
+CHF 27'076
+Merken
+ab CHF 291/Monat
+FIAT
 Talento 29 2.0 MJ L1H1 Easy Pro Plus
-CHF 23'900
-ab CHF 257/Monat
-12.2020
-Handschaltung
-4'000 km
-Diesel
-Vorderradantrieb
-weiss
-120 PS
-LU
-Merken
-FIAT
-Talento 29 2.0 MJ L1H1 Easy Pro P...
-12.2020
-120 PS
-4'000 km
-CHF 23'900
-Merken
-ab CHF 257/Monat
-NEU
-FIAT
-Talento 29 H1 Swiss 8/9Pl
-CHF 36'990
-ab CHF 398/Monat
-02.2021
-Handschaltung
-1'500 km
-Diesel
-Vorderradantrieb
-weiss
-145 PS
-ZH
-Merken
-FIAT
-Talento 29 H1 Swiss 8/9Pl
-02.2021
-145 PS
-1'500 km
-CHF 36'990
-Merken
-ab CHF 398/Monat
-NEU
-FIAT
-Talento 29 H1 Swiss 8/9Pl
-CHF 36'990
-ab CHF 398/Monat
-02.2021
-Handschaltung
-1'500 km
-Diesel
-Vorderradantrieb
-weiss
-145 PS
-ZH
-Merken
-FIAT
-Talento 29 H1 Swiss 8/9Pl
-02.2021
-145 PS
-1'500 km
-CHF 36'990
-Merken
-ab CHF 398/Monat
-NEU
-FIAT
-Talento 29 H1 Swiss 8/9Pl
-CHF 39'990
-ab CHF 430/Monat
+CHF 25'675
+ab CHF 276/Monat
 -
 Handschaltung
-50 km
-Diesel
-Vorderradantrieb
-schwarz
-145 PS
-ZH
-Merken
-FIAT
-Talento 29 H1 Swiss 8/9Pl
--
-145 PS
-50 km
-CHF 39'990
-Merken
-ab CHF 430/Monat
-NEU
-FIAT
-Talento 29 H1 EasyProPlus
-CHF 26'750
-ab CHF 288/Monat
--
-Handschaltung
-50 km
-Diesel
-Vorderradantrieb
-weiss
-120 PS
-ZH
-Merken
-FIAT
-Talento 29 H1 EasyProPlus
--
-120 PS
-50 km
-CHF 26'750
-Merken
-ab CHF 288/Monat
-NEU
-FIAT
-Talento 29 H1 EasyProPlus
-CHF 27'500
-ab CHF 296/Monat
-04.2021
-Handschaltung
-1'000 km
-Diesel
-Vorderradantrieb
-weiss
-120 PS
-ZH
-Merken
-FIAT
-Talento 29 H1 EasyProPlus
-04.2021
-120 PS
-1'000 km
-CHF 27'500
-Merken
-ab CHF 296/Monat
-NEU
-FIAT
-Talento 29 H1 EasyProPlus
-CHF 26'750
-ab CHF 288/Monat
--
-Handschaltung
-50 km
-Diesel
-Vorderradantrieb
-weiss
-120 PS
-ZH
-Merken
-FIAT
-Talento 29 H1 EasyProPlus
--
-120 PS
-50 km
-CHF 26'750
-Merken
-ab CHF 288/Monat
-NEU
-FIAT
-Talento 29 H1 Base 8/9 Pl
-CHF 34'990
-ab CHF 376/Monat
--
-Handschaltung
-50 km
-Diesel
-Vorderradantrieb
-weiss
-145 PS
-ZH
-Merken
-FIAT
-Talento 29 H1 Base 8/9 Pl
--
-145 PS
-50 km
-CHF 34'990
-Merken
-ab CHF 376/Monat
-NEU
-FIAT
-Talento 29 H1 Swiss 8/9Pl
-CHF 37'700
-ab CHF 405/Monat
--
-Handschaltung
-50 km
-Diesel
-Vorderradantrieb
-schwarz
-145 PS
-ZH
-Merken
-FIAT
-Talento 29 H1 Swiss 8/9Pl
--
-145 PS
-50 km
-CHF 37'700
-Merken
-ab CHF 405/Monat
-FIAT
-Talento 29 H1 EasyProPlus
-CHF 25'587
-ab CHF 302/Monat
--
-Handschaltung
-200 km
+12 km
 Diesel
 Vorderradantrieb
 weiss
@@ -366,17 +233,181 @@ weiss
 BE
 Merken
 FIAT
+Talento 29 2.0 MJ L1H1 Easy Pro P...
+-
+120 PS
+12 km
+CHF 25'675
+Merken
+ab CHF 276/Monat
+FIAT
+Talento 29 2.0 MJ L1H1 Easy Pro Plus
+CHF 25'675
+ab CHF 276/Monat
+-
+Handschaltung
+20 km
+Diesel
+Vorderradantrieb
+weiss
+120 PS
+BE
+Merken
+FIAT
+Talento 29 2.0 MJ L1H1 Easy Pro P...
+-
+120 PS
+20 km
+CHF 25'675
+Merken
+ab CHF 276/Monat
+FIAT
+Talento 29 H1 Swiss 8/9Pl
+CHF 36'990
+ab CHF 398/Monat
+02.2021
+Handschaltung
+1'500 km
+Diesel
+Vorderradantrieb
+weiss
+145 PS
+ZH
+Merken
+FIAT
+Talento 29 H1 Swiss 8/9Pl
+02.2021
+145 PS
+1'500 km
+CHF 36'990
+Merken
+ab CHF 398/Monat
+FIAT
+Talento 29 H1 Swiss 8/9Pl
+CHF 36'990
+ab CHF 398/Monat
+02.2021
+Handschaltung
+1'500 km
+Diesel
+Vorderradantrieb
+weiss
+145 PS
+ZH
+Merken
+FIAT
+Talento 29 H1 Swiss 8/9Pl
+02.2021
+145 PS
+1'500 km
+CHF 36'990
+Merken
+ab CHF 398/Monat
+FIAT
+Talento 29 H1 Swiss 8/9Pl
+CHF 39'990
+ab CHF 430/Monat
+-
+Handschaltung
+50 km
+Diesel
+Vorderradantrieb
+schwarz
+145 PS
+ZH
+Merken
+FIAT
+Talento 29 H1 Swiss 8/9Pl
+-
+145 PS
+50 km
+CHF 39'990
+Merken
+ab CHF 430/Monat
+FIAT
+Talento 29 H1 EasyProPlus
+CHF 26'750
+ab CHF 288/Monat
+-
+Handschaltung
+50 km
+Diesel
+Vorderradantrieb
+weiss
+120 PS
+ZH
+Merken
+FIAT
 Talento 29 H1 EasyProPlus
 -
 120 PS
-200 km
-CHF 25'587
+50 km
+CHF 26'750
 Merken
-ab CHF 302/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
+ab CHF 288/Monat
+FIAT
+Talento 29 H1 EasyProPlus
+CHF 27'500
+ab CHF 296/Monat
+04.2021
+Handschaltung
+1'000 km
+Diesel
+Vorderradantrieb
+weiss
+120 PS
+ZH
+Merken
+FIAT
+Talento 29 H1 EasyProPlus
+04.2021
+120 PS
+1'000 km
+CHF 27'500
+Merken
+ab CHF 296/Monat
+FIAT
+Talento 29 H1 Base 8/9 Pl
+CHF 34'990
+ab CHF 376/Monat
+-
+Handschaltung
+50 km
+Diesel
+Vorderradantrieb
+weiss
+145 PS
+ZH
+Merken
+FIAT
+Talento 29 H1 Base 8/9 Pl
+-
+145 PS
+50 km
+CHF 34'990
+Merken
+ab CHF 376/Monat
+FIAT
+Talento 29 H1 Swiss 8/9Pl
+CHF 37'700
+ab CHF 405/Monat
+-
+Handschaltung
+50 km
+Diesel
+Vorderradantrieb
+schwarz
+145 PS
+ZH
+Merken
+FIAT
+Talento 29 H1 Swiss 8/9Pl
+-
+145 PS
+50 km
+CHF 37'700
+Merken
+ab CHF 405/Monat
 FIAT
 Talento 29 Kaw. 3498 H1 1.6 MJ 120 Swiss
 CHF 15'900
@@ -440,48 +471,6 @@ Talento 29 H1 Base
 CHF 23'900
 Merken
 ab CHF 257/Monat
-FIAT
-Talento 27 1.6 MJ L1H1 Starter
-CHF 15'500
-ab CHF 167/Monat
-03.2018
-Handschaltung
-79'036 km
-Diesel
-Vorderradantrieb
-weiss
-95 PS
-BE
-Merken
-FIAT
-Talento 27 1.6 MJ L1H1 Starter
-03.2018
-95 PS
-79'036 km
-CHF 15'500
-Merken
-ab CHF 167/Monat
-FIAT
-Talento 29 Kaw. 3098 H1 2.0 EJ 145 Swiss
-CHF 26'990
-ab CHF 290/Monat
-12.2019
-Handschaltung
-13'990 km
-Diesel
-Vorderradantrieb
-schwarz
-145 PS
-AG
-Merken
-FIAT
-Talento 29 Kaw. 3098 H1 2.0 EJ 14...
-12.2019
-145 PS
-13'990 km
-CHF 26'990
-Merken
-ab CHF 290/Monat
 1
 1
 2

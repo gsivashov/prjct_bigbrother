@@ -173,6 +173,48 @@ BMW
 175'000 km
 CHF 5'900
 Merken
+NEU
+BMW
+120d Steptronic
+CHF 7'800
+12.2008
+Automat
+174'000 km
+Diesel
+Hinterradantrieb
+schwarz
+177 PS
+SG
+Merken
+BMW
+120d Steptronic
+12.2008
+177 PS
+174'000 km
+CHF 7'800
+Merken
+NEU
+BMW
+120d xDrive
+CHF 55'500
+ab CHF 597/Monat
+01.2021
+Automat
+10 km
+Diesel
+Allradantrieb
+schwarz
+190 PS
+SG
+Merken
+BMW
+120d xDrive
+01.2021
+190 PS
+10 km
+CHF 55'500
+Merken
+ab CHF 597/Monat
 BMW
 120d xDrive M Sport
 CHF 42'900
@@ -319,27 +361,6 @@ CHF 9'500
 Merken
 ab CHF 107/Monat
 BMW
-120d xDrive SAG
-CHF 29'900
-ab CHF 322/Monat
-06.2019
-Automat
-50'500 km
-Diesel
-Allradantrieb
-grau
-190 PS
-ZH
-Merken
-BMW
-120d xDrive SAG
-06.2019
-190 PS
-50'500 km
-CHF 29'900
-Merken
-ab CHF 322/Monat
-BMW
 120d xDrive Edition M Sport Steptronic
 CHF 28'900
 ab CHF 311/Monat
@@ -444,27 +465,6 @@ BMW
 CHF 48'600
 Merken
 ab CHF 522/Monat
-BMW
-120d xDrive Steptronic Sport Line
-CHF 48'800
-ab CHF 525/Monat
--
-Automat
-15 km
-Diesel
-Allradantrieb
-schwarz
-190 PS
-VS
-Merken
-BMW
-120d xDrive Steptronic Sport Line
--
-190 PS
-15 km
-CHF 48'800
-Merken
-ab CHF 525/Monat
 1
 1
 2

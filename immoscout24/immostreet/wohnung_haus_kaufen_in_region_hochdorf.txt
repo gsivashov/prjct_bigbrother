@@ -151,6 +151,64 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+797'000
+CHF
+verkaufe Terrassenh.Raum Mosen 147m2/Te…
+Adresse auf Anfrage, 6280 Hochdorf
+Array
+4.5 Zimmer
+147 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+147 m2
+verkaufe Terrassenhaus /Neubau / Raum Mosen / 147m2 Nettowohnfläche/ Terrasse 70m2 / Verkaufspreis:…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sandblatte 3
+820'000
+CHF
+Reihenhaus in der «Sandblatte» - Rainer…
+Sandblatte 3, 6026 Rain
+Array
+4.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+4.5
+Wohnfläche
+112 m2
+Etage
+Die LageDie neuen Reihenhäuser„Sandblatte“ werden im gleichnamigen Gebiet, im westlichen Teil der G…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hochdorf
+1'118'000
+CHF
+4.5 Zimmer Wohnung mit grossem Balkon a…
+Hochdorf, 6280 Hochdorf
+Array
+4.5 Zimmer
+155 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+155 m2
+Diese attraktive 4.5 Zimmer Wohnung punktet durch ihre grosszügigen, funktionellen und hellen Räuml…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Sommerau 4
 1'390'000
 CHF
@@ -424,26 +482,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Erlenstrasse 54
-460'000
-CHF
-Gemütlich und hell mit Bergsicht
-Erlenstrasse 54, 6020 Emmenbrücke
-Array
-3.5 Zimmer
-66 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-66 m2
-Etage
-Ihr neues ZuhauseDie 3.5 Zimmer Wohnung präsentiert sich frisch gestrichen in einem einwandfreien Z…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Schaubhus 12
 650'000
 CHF
@@ -495,44 +533,6 @@ Zimmer
 Wohnfläche
 89 m2
 Diese im 2016 erneuerte 3.5-Zimmer-Gartenwohnung, welche sich in einem gepflegten Mehrfamilienhaus …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dubenmoos 2
-1'280'000
-CHF
-Hier will ich Rain...
-Dubenmoos 2, 6026 Rain
-Array
-5.5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-160 m2
-Hier entsteht Ihr eigener Wohntraum in Form von modernen 5½-Zimmer-Wohnungen mit einer Wohnfläche a…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dubenmoos 2
-980'000
-CHF
-Hier will ich Rain...
-Dubenmoos 2, 6026 Rain
-Array
-3.5 Zimmer
-140 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-140 m2
-Hier entsteht Ihr eigener Wohntraum in Form von einer modernen 3½-Zimmer-Wohnung mit einer Wohnfläc…
 Teilen
 E-Mail
 Facebook

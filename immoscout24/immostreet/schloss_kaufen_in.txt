@@ -137,6 +137,42 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Adresse auf Anfrage
+Preis auf Anfrage
+Majestueux château du 17ème siècle au c…
+Adresse auf Anfrage, 1173 Féchy
+Array
+34 Zimmer
+2000 m2
+Objekttyp
+Wohnung, Schloss
+Zimmer
+34
+Wohnfläche
+2000 m2
+Cet élégant château est idéalement situé au cur du vignoble de La Côte entre Genève et Lausanne, da…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Superbe château du XVIe siècle Cadre de…
+Adresse auf Anfrage, 1731 Ependes FR
+Array
+17 Zimmer
+685 m2
+Objekttyp
+Wohnung, Schloss
+Zimmer
+17
+Wohnfläche
+685 m2
+Cette propriété, d'une rare beauté, est inscrite à l'inventaire suisse des biens culturels d'import…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
 1'900'000
 EUR
 Dpt Haute Savoie (74), à vendre à Crach…
@@ -266,25 +302,6 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-5'500'000
-CHF
-Hotel restaurant le manoir de Collonge …
-Adresse auf Anfrage, 1245 Collonge-Bellerive
-Array
-15 Zimmer
-370 m2
-Objekttyp
-Wohnung, Schloss
-Zimmer
-15
-Wohnfläche
-370 m2
-RESERVEEtablissement de charme au calme et coeur du site remarquable de la savonnière à Collonge-Be…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
 945'000
 EUR
 Dpt Vendée (85), à vendre proche de LA …
@@ -394,25 +411,6 @@ Zimmer
 Wohnfläche
 500 m2
 CHÂTEAU LORRAIN RECHERCHE SON NOUVEAU CHATELAIN !!!Idéalement situé au coeur du Grand Est à 1 heure…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-3'710'000
-EUR
-Dpt Hérault (34), à vendre PEZENAS chat…
-Adresse auf Anfrage, 34120 PEZENAS
-Array
-34 Zimmer
-1075 m2
-Objekttyp
-Wohnung, Schloss
-Zimmer
-34
-Wohnfläche
-1075 m2
-PEZENAS, Après les comtes et rois qui ont parcourus les bois et forêts de ce parc de chasse au moye…
 Teilen
 E-Mail
 Facebook

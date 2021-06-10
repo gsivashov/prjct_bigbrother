@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-dielsdorf/
 Title: Wohnung kaufen in Bezirk Dielsdorf - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Dielsdorf - Immostreet.ch: ImmoStreet.ch hat 55 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Dielsdorf - Immostreet.ch: ImmoStreet.ch hat 53 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-55 Resultate gefunden ·
+53 Resultate gefunden ·
 Wohnung kaufen in Bezirk Dielsdorf
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Murzlenstrasse 64
+743'400
+CHF
+Malerisches Wohnen an der Surb
+Murzlenstrasse 64, 8166 Niederweningen
+Array
+4.5 Zimmer
+111 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+111 m2
+In Niederweningen, an idyllischer, ruhiger und ganztags besonnter Wohnlage entsteht ein modernes 7-…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adlikon b. Regensdorf
 695'000
 CHF
@@ -307,25 +326,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Krästelstrasse 56
-1'190'000
-CHF
-"LA TERRASSE" Ihr Traum wird Realität
-Krästelstrasse 56, 8106 Adlikon b. Regensdorf
-Array
-3.5 Zimmer
-103 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-103 m2
-An unverbaubarer Hanglage in Adlikon entstehen per 2022 acht traumhafte Eigentumswohnungen mit Unte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adlikerstrasse 77
 520'000
 CHF
@@ -424,25 +424,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Regensbergstrasse 12a
-590'000
-CHF
-Modernes Studio: Ideal zum Wohnen und f…
-Regensbergstrasse 12a, 8157 Dielsdorf
-Array
-1.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-77 m2
-Das Studio ist komplett restauriert und besticht durch seinen top modernen Ausbau. Die edle Steinwa…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bachserstrasse 17
 840'000
 CHF
@@ -458,25 +439,6 @@ Zimmer
 Wohnfläche
 118 m2
 Grosszügiges Wohnen in SteinmaurIn unmittelbarer Nähe zur Landwirtschaftszone werden ab Mai 2021 fü…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rümlangerstrasse 22b
-780'000
-CHF
-Ländlich, aber bestens vernetzt: Wohnko…
-Rümlangerstrasse 22b, 8156 Oberhasli
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Mitten im Ortskern von Oberhasli - ruhig und trotzdem bestens vernetzt - erwartet Sie in einem von …
 Teilen
 E-Mail
 Facebook
@@ -515,6 +477,45 @@ Zimmer
 Wohnfläche
 90 m2
 Die hochwertige 3 1/2 -Zimmer-Gartenwohnung bietet dem Geniesser eine schöne Wohnambiente, sowie 3 …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorfstrasse 37
+Preis auf Anfrage
+Terrassenwohnung mit Panoramasicht
+Oberdorfstrasse 37, 8107 Buchs ZH
+Array
+4.5 Zimmer
+175 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+175 m2
+Etage
+An einer erhöhten und sehr beliebten Lage in der Region, präsentiert sich die luxuriöse Terrassenwo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+698'000
+CHF
+Hier fühle ich mich wohl
+Adresse auf Anfrage, 8165 Oberweningen
+Array
+2.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+83 m2
+Etage
+Sie brauchen viel Platz, aber nicht viele Zimmer? Dann ist dieses charmante Bijou genau das Richtig…
 Teilen
 E-Mail
 Facebook

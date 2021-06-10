@@ -156,6 +156,49 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 FORD
+TRANSIT CUSTOM Van 300 L1 2.0 TDCi
+CHF 22'500
+ab CHF 242/Monat
+07.2018
+Automat
+61'000 km
+Diesel
+Vorderradantrieb
+weiss
+131 PS
+VD
+Merken
+FORD
+TRANSIT CUSTOM Van 300 L1 2.0 TDC...
+07.2018
+131 PS
+61'000 km
+CHF 22'500
+Merken
+ab CHF 242/Monat
+NEU
+FORD
+Transit Cust 250L1Level 2
+CHF 13'900
+ab CHF 150/Monat
+12.2014
+Handschaltung
+86'200 km
+Diesel
+Vorderradantrieb
+weiss
+100 PS
+ZH
+Merken
+FORD
+Transit Cust 250L1Level 2
+12.2014
+100 PS
+86'200 km
+CHF 13'900
+Merken
+ab CHF 150/Monat
+FORD
 Transit Custom Van 310 L1H1 Trend
 CHF 19'700
 ab CHF 212/Monat
@@ -432,52 +475,6 @@ TRANSIT CUSTOM Van 280 L1 2.0 TDC...
 CHF 25'500
 Merken
 ab CHF 274/Monat
-FORD
-Transit Custom 320 L1 2.0 TDCi 130 Trend
-CHF 36'600
-ab CHF 394/Monat
--
-Automat
-50 km
-Diesel
-Vorderradantrieb
-weiss
-130 PS
-BL
-Merken
-FORD
-Transit Custom 320 L1 2.0 TDCi 13...
--
-130 PS
-50 km
-CHF 36'600
-Merken
-ab CHF 394/Monat
-FORD
-Transit Custom Van 300 L2 2.0 TDCi 170 Trend
-CHF 31'900
-ab CHF 343/Monat
-10.2019
-Automat
-51'000 km
-Diesel
-Vorderradantrieb
-weiss
-170 PS
-LU
-Merken
-FORD
-Transit Custom Van 300 L2 2.0 TDC...
-10.2019
-170 PS
-51'000 km
-CHF 31'900
-Merken
-ab CHF 343/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
 1
 1
 2

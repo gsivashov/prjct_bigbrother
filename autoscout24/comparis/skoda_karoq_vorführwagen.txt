@@ -1,6 +1,6 @@
 URL: https://www.comparis.ch/carfinder/marktplatz/skoda/karoq/vorfuehrmodell
 Title: Skoda Karoq Vorführwagen – Preise vergleichen mit Comparis
-Description: Finden Sie unter 39 Skoda Karoq Vorführwagen Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
+Description: Finden Sie unter 41 Skoda Karoq Vorführwagen Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
 Suche
 Menü
@@ -577,58 +577,68 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Skoda
-(6'344)
+(6'380)
 Skoda Karoq Neuwagen
-(261)
+(256)
 Skoda Karoq Occasion
 (191)
 Skoda Karoq Vorführwagen
-(39)
+(41)
 Aufbau
 Skoda Karoq Geländewagen
-(482)
+(478)
 Skoda Karoq Kombi
-(9)
+(10)
 Motor
 Skoda Karoq Benzin
-(351)
+(348)
 Skoda Karoq Diesel
-(131)
+(130)
 Typ
 Skoda Karoq
-(491)
+(488)
 Modelle
 Skoda Octavia
-(2'511)
+(2'518)
 Skoda Fabia
-(1'025)
+(1'028)
 Skoda Superb
-(677)
+(685)
 Skoda Kamiq
-(402)
+(406)
 Skoda Kodiaq
-(325)
+(332)
 Skoda Scala
-(254)
+(265)
 Skoda Citigo
-(162)
+(158)
 Skoda Yeti
-(151)
+(155)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
 Carweb wird durchsucht ...
 drive-in.ch wird durchsucht ...
-39 Treffer auf allen grossen Schweizer Auto-Portalen
-39 Treffer auf allen Portalen
+41 Treffer auf allen grossen Schweizer Auto-Portalen
+41 Treffer auf allen Portalen
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
 1 Inserat
 2 Inserate
-38 Inserate
+39 Inserate
 0 Inserate
 0 Inserate
+SKODA Karoq 2.0 TDI CR Clever 4x4 DSG
+09.06.2021
+Vorführwagen
+06.2021, Automat, Diesel
+1'000 km, 150 PS, Silber
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 41'800
+ab CHF 763 / Monat
 SKODA Karoq 2.0 TDI Drive 4x4 DSG
 05.06.2021
 Vorführwagen
@@ -649,16 +659,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 41'490
 ab CHF 758 / Monat
-SKODA Karoq 2.0 TSI Sport Line 4x4
-03.06.2021
-Vorführwagen
-05.2021, Automat, Benzin
-8'490 km, 190 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 37'650
-ab CHF 688 / Monat
 SKODA Karoq 2.0 TSI SportLine 4x4 DSG
 29.05.2021
 Vorführwagen
@@ -672,7 +672,7 @@ ab CHF 784 / Monat
 SKODA Karoq 2.0 TDI CR Clever 4x4 DSG
 29.05.2021
 Vorführwagen
-03.2021, Automat, Diesel
+06.2021, Automat, Diesel
 5'000 km, 150 PS, Grau
 Anfrage senden
 Anfrage senden
@@ -735,6 +735,7 @@ Sie befinden sich auf Seite1
 2
 3
 4
+5
 nächste Seite
 ×
 ×

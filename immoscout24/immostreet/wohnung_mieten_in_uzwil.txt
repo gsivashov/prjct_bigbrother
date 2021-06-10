@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-uzwil/
 Title: Wohnung mieten in Uzwil - Immostreet.ch
-Description: Wohnung mieten in  Uzwil - Immostreet.ch: ImmoStreet.ch hat 33 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Uzwil - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-33 Resultate gefunden ·
+31 Resultate gefunden ·
 Wohnung mieten in Uzwil
 Preis (aufsteigend)
 Preis (absteigend)
@@ -475,24 +475,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bahnhofstrassse 97
-1'450
-CHF
-/Monat
-Herrliche und grosse 4- Zimmerwohnung m…
-Bahnhofstrassse 97, 9240 Uzwil
-Array
-4 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wir vermieten per sofort ein wunderschöne, moderne und grosszügige 4 Zimmerwohnung
-BESONDERHEITE…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bahnhofstrasse 74
 800
 CHF
@@ -525,6 +507,26 @@ Wohnfläche
 102 m2
 In Henau wartet Ihr neues Zuhause auf Sie.
 Die Liegenschaft Thurmatte verspricht zeitgemässer Wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Waldhofstr. 11 B
+1'395
+CHF
+/Monat
+Die Siedlung des Wohlbefindens.
+Waldhofstr. 11 B, 9240 Uzwil
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+An ruhiger, zentraler Lage in der Nähe des Bahnhofs vermieten wir eine helle 3.5 Zimmer-Wohnung mit…
 Teilen
 E-Mail
 Facebook

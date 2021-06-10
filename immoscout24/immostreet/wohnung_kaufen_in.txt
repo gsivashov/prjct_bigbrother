@@ -132,40 +132,176 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Chemin du Stand 5
-640'000
+Schönaustrasse 47
+510'000
 CHF
-Résidence Vue des Alpes - Nouvelle prom…
-Chemin du Stand 5, 1304 Cossonay-Ville
+Wohnen mitten in Wettingen
+Schönaustrasse 47, 5430 Wettingen
 Array
 3.5 Zimmer
-80 m2
+65 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-80 m2
-Situé à proximité du centre-ville de Cossonay ainsi que dans la limite avec la zone agricole, le bâ…
+65 m2
+Etage
+Die 3.5-Zimmer-Eigentumswohnung befindet sich an sonniger und ruhiger Wohnlage im sehr beliebten Al…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Via Sursilvana
+470'000
+CHF
+Die heimelige 5.5 Zimmerwohnung mitten …
+Via Sursilvana, 7175 Sumvitg
+Array
+5.5 Zimmer
+180 m2
+Objekttyp
+Wohnung, Duplex, Maisonette
+Zimmer
+5.5
+Wohnfläche
+180 m2
+Etage
+Objektbeschreibung
+Die zum Verkauf stehende Eigentumswohnung befindet sich im Zweifamilienhaus «Ca…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rue de l'Ancien-Comté 16
+345'000
+CHF
+Appartement de 3.5 pces avec 2 balcons …
+Rue de l'Ancien-Comté 16, 1635 La Tour-de-Trême
+Array
+3.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+65 m2
+Au 2ème étage d'immeuble avec ascenseur rénové en 2020, appartement 3.5 pces (65 m2) composé :- d'u…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-490'000
+1'345'000
 CHF
-Wohnen im Kleefeld
-Adresse auf Anfrage, 5622 Waltenschwil
+Superbe attique de 4.5 pièces ! Panoram…
+Adresse auf Anfrage, 1820 Veytaux
+Array
+4.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+140 m2
+Etage
+Situé au cur du village de Veytaux, à quelques pas du Château de Chillon, ce bel appartement de 4.5…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+535'000
+CHF
+BEL APPARTEMENT TRAVERSANT DE 3,5 PCES …
+Adresse auf Anfrage, 1880 Bex
 Array
 3.5 Zimmer
-86 m2
+83 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-86 m2
-Entdecken Sie das Neubauprojekt im Kleefeld! Hier entstehen an bevorzugter und zentraler Lage 12 to…
+83 m2
+Ce charmant appartement traversant de 3,5 pièces est le cocon idéal pour les amoureux de la nature,…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+560'000
+CHF
+CHARMANT APPARTEMENT DUPLEX 4 PIECES AV…
+Adresse auf Anfrage, 1873 Champoussin
+Array
+4 Zimmer
+79 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+79 m2
+Etage
+A SAISIR : LOGEMENT POUR VOS WEEK-END ET VACANCES !!!Idéalement situé en plein cur du village de Ch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+559'000
+CHF
+BEL APPARTEMENT NEUF EN ATTIQUE DE 4.5 …
+Adresse auf Anfrage, 1670 Ursy
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Pour de plus amples informations (plaquette de vente, plans, etc) les documents sont téléchargeable…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Route d'Hauteville 1
+920'000
+CHF
+NOUVEAU PROJET DE 10 APPARTEMENTS AU CU…
+Route d'Hauteville 1, 1806 St-Légier-La Chiésaz
+Array
+3.5 Zimmer
+94 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+94 m2
+Site internet de la promotion : www.1806.ch Cet immeuble d'un design contemporain sera constitué de…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+375'000
+CHF
+"RÉSIDENCE DU PICHOLIN" 8 appartements …
+Adresse auf Anfrage, 1896 Vouvry
+Array
+3.5 Zimmer
+63 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+63 m2
+Etage
+Au coeur du village de Vouvry, cet immeuble profitera d'un emplacement idéal, à proximité de toutes…
 Teilen
 E-Mail
 Facebook
@@ -173,339 +309,201 @@ Whatsapp
 Adresse auf Anfrage
 680'000
 CHF
-Wohnen im Kleefeld
-Adresse auf Anfrage, 5622 Waltenschwil
-Array
-4.5 Zimmer
-119 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-119 m2
-Entdecken Sie das Neubauprojekt im Kleefeld! Hier entstehen an bevorzugter und zentraler Lage 12 to…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-3'150'000
-CHF
-Splendide appartement rénové au coeur d…
-Adresse auf Anfrage, 1208 Genève
-Array
-7.5 Zimmer
-166 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-7.5
-Wohnfläche
-166 m2
-Situé dans le quartier résidentiel de Champel, à deux pas des commerces et des commodités, ce super…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-3'750'000
-CHF
-Magnifique appartement traversant en re…
-Adresse auf Anfrage, 1223 Cologny
-Array
-6 Zimmer
-220 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-6
-Wohnfläche
-220 m2
-Implanté sur la commune très prisée de Cologny, ce magnifique appartement "clé en main" a l'avantag…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-cadro
-980'000
-CHF
-APPARTAMENTO 4.5 LOCALI CON PISCINA
-cadro, 6965 Cadro
-Array
-4.5 Zimmer
-125 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-125 m2
-Il comfort caratterizza questo bellissimo appartamento in vendita a Cadro, quartiere di Lugano, sit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'600'000
-CHF
-Magnifique appartement lumineux
-Adresse auf Anfrage, 1227 Carouge GE
-Array
-5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Si vous avez un interêt, n'hésitez pas à me contacter, je pourrai vous présenter le dossier complet…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'430'000
-CHF
-Charmant triplex en attique de 155m2 à …
-Adresse auf Anfrage, 1258 Perly
-Array
-5 Zimmer
-155 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5
-Wohnfläche
-155 m2
-Etage
-Swiss Patrimoine Immobilier vous présente ce charmant appartement lumineux de 155m2 PPE idéalement …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wülflingerstrasse 233B
-1'150'000
-CHF
-Alles andere als 0815, als Rendite oder…
-Wülflingerstrasse 233B, 8408 Winterthur
-Array
-4.5 Zimmer
-137 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-137 m2
-Etage
-LagebeschriebDie Wohnung im Stadtteil Wülflingen in Winterthur ist zentral gelegen mit hervorragend…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Viale Monte Verità, 41
-1'250'000
-CHF
-3.5 - Zimmerwohnung
-Viale Monte Verità, 41, 6612 Ascona
+BEL ATTIQUE MODERNE TRAVERSANT DE 3,5 P…
+Adresse auf Anfrage, 1510 Moudon
 Array
 3.5 Zimmer
-106 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Wohnfläche
-106 m2
-ZWEITWOHNSITZ - 3 1/2 - Zimmerwohnung an zentraler, ruhiger und sonniger Lage. 5 Gehminuten von der…
+Etage
+A 20-25 minutes de Lausanne, situé au dernier étage d'un immeuble récent érigé en 2012, au cur d'un…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-San Vittore
-450'000
+Route de Siviez 53
+485'000
 CHF
-Nuovo elegante appartamento di 2.5 loca…
-San Vittore, 6534 S. Vittore
+A vendre : 2.5 p. rénové au cur du doma…
+Route de Siviez 53, 1997 Siviez (Nendaz)
 Array
 2.5 Zimmer
-65 m2
+73 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-65 m2
-A San Vittore, primo paese dei Grigioni in zona residenziale e centrale, vendiamo bellissimo appart…
+73 m2
+A vendre : 2.5 p. rénové au cur du domaine de ski des 4 Vallées !Pour tous les détails veuillez vis…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-460'000
+Ammerswilerstrasse 45 B
+860'000
 CHF
-Gemütliche 4,5-Zimmerwohnung!
-Adresse auf Anfrage, 2540 Grenchen
+ERSTKLASSIGES ZUHAUSE | GENUSSVOLL WOHN…
+Ammerswilerstrasse 45 B, 5600 Lenzburg
 Array
 4.5 Zimmer
-95 m2
+117 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-95 m2
-An bevorzugter Lage in der Stadt Grenchen verkaufen wir eine renovierte 4.5 Zi-Wohnung. Die Wohnung…
+117 m2
+DIE LAGE- Widmi-Quartier - Kinderfreundliche und idyllische Wohnlage am Rande von Lenzburg- Die näc…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-auf Anfrage
-290'000
-EUR
-Schöne Maisonette-ETW mit Weitblick in …
-auf Anfrage, 79588 Efringen-Kirchen
+Rue fauporte 2
+190'000
+CHF
+Charmant appartement 3.5 pièces au coeu…
+Rue fauporte 2, 3977 Granges VS
 Array
 3 Zimmer
-92 m2
 Objekttyp
-Wohnung, Duplex, Maisonette
+Wohnung, Flach
 Zimmer
 3
-Wohnfläche
-92 m2
-Etage
-Der exakte Kaufpreis beträgt 290.000,- Euro zzgl. einer Käuferprovision von 3,57 % (inkl. 19% geset…
+VIENS FIXER TON PRIX SUR OPLO.CHEN EXCLUSIVITÉ CHEZ OPLO Petit appartement situé au cur du village …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Via Falo
-1'150'000
+Adresse auf Anfrage
+930'000
 CHF
-Ferienwohnung an bevorzugter Lage mit t…
-Via Falo, 6646 Contra
+Appartement 4.5 pces en duplex - Vermala
+Adresse auf Anfrage, 3963 Crans-Montana
+Array
+4.5 Zimmer
+104 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+4.5
+Wohnfläche
+104 m2
+Viens fixer ton prix sur OPLO.CHTu as besoin de te ressourcer ? Prend de l'altitude et respires à p…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Asetstrasse 39
+965'000
+CHF
+Dachwohnung mit Blick zu den Mythen
+Asetstrasse 39, 6438 Ibach
+Array
+4.5 Zimmer
+116 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+116 m2
+Letzte 4.5-Zimmer-Dachwohnung verfügbarDas Neubauprojekt "Mythisch" liegt an sonniger, grüner Lage …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+350'000
+CHF
+Bel appartement lumineux et entièrement…
+Adresse auf Anfrage, 3960 Sierre
+Array
+4.5 Zimmer
+88 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+88 m2
+Vous êtes à la recherche d'un bien fraichement rénové proche de toutes les commodités ?Cet appartem…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+A Monthey
+570'856
+CHF
+Dernier lot disponible, place de parkin…
+A Monthey, 1870 Monthey
+Array
+4.5 Zimmer
+126 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+126 m2
+DERNIER LOT DISPONIBLE. livraison octobre 2021Vaste appartement de 4.5 pièces sis au 1er étage de …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hofmatt 76
+1'250'000
+CHF
+Charmantes Bijou mit herrlicher Sicht
+Hofmatt 76, 6332 Hagendorn
+Array
+95 m2
+Objekttyp
+Wohnung, Flach
+Wohnfläche
+95 m2
+An zentraler Lage in der Hofmatt 76 in 6332 Hagendorn verkaufen wir diese gemütliche 3.5-Zimmer-Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grand Champsec
+385'000
+CHF
+Lot G-103 - Appartement de 2.5 pièces a…
+Grand Champsec, 1950 Sion
+Array
+2.5 Zimmer
+71 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+71 m2
+Etage
+Fitness, sauna, salle de jeux et de réunion, potagers et plus encore ? découvrez maintenant votre f…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'090'000
+CHF
+Attique au cur de Montana
+Adresse auf Anfrage, 3963 Crans-Montana
 Array
 3.5 Zimmer
-115 m2
+105 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-115 m2
-Die Liegenschaft Residenza Pasturone mit Total 28 Einheiten verteilt auf 4 Häuser befindet sich in …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Via Varrone 5
-775'000
-CHF
-Appartamento moderno a Bellinzona con v…
-Via Varrone 5, 6500 Bellinzona
-Array
-4.5 Zimmer
-140 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-140 m2
-4.5 locali di mq 140 al 2° piano in una palazzina costruita nel 2013
-Ubicato a 300 m dalla ferma…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-590'000
-CHF
-Interessante appartamento di 4.5 locali
-Adresse auf Anfrage, 6982 Agno
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Interessante appartamento di 4.5 locali Nella strategica località di Agno, in zona residenziale, pr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-720'000
-CHF
-Moderno 4.5 locali per la vostra famigl…
-Adresse auf Anfrage, 6512 Giubiasco
-Array
-4.5 Zimmer
-137 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-137 m2
-Giubiasco, ora parte della Grande Bellinzona, è un quartiere che ha avuto un ottimo sviluppo in que…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-700'000
-CHF
-Moderno 4.5 locali per la vostra famigl…
-Adresse auf Anfrage, 6512 Giubiasco
-Array
-4.5 Zimmer
-137 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-137 m2
-Giubiasco, ora parte della grande Bellinzona, è un quartiere che ha avuto un ottimo sviluppo in que…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-850'000
-CHF
-Moderno 5.5 locali per la vostra famigl…
-Adresse auf Anfrage, 6512 Giubiasco
-Array
-5.5 Zimmer
-162 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-162 m2
-Giubiasco, ora parte della Grande Bellinzona, è un quartiere che ha avuto un ottimo sviluppo in que…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'090'000
-CHF
-Sublime attique ultra-lumineux avec vue…
-Adresse auf Anfrage, 1162 St-Prex
-Array
-4.5 Zimmer
-138 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-138 m2
-Exclusivement proposé par Rockwell Properties !Situé sur la très prisée commune de St-Prex, cet att…
+105 m2
+Trust immobilier vous propose : Réf : 3010 - TCM Magnifique attique, situé au cur de Montana. L'emp…
 Teilen
 E-Mail
 Facebook

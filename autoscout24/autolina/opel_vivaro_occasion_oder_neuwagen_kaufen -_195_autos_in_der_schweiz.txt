@@ -156,6 +156,25 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 OPEL
+Vivaro Kaw. 2.9 t L1 H1 2.0 CDTI 114
+CHF 3'000
+12.2010
+Handschaltung
+224'183 km
+Diesel
+Vorderradantrieb
+weiss
+114 PS
+FR
+Merken
+OPEL
+Vivaro Kaw. 2.9 t L1 H1 2.0 CDTI ...
+12.2010
+114 PS
+224'183 km
+CHF 3'000
+Merken
+OPEL
 Vivaro 2.0i
 CHF 6'500
 ab CHF 74/Monat
@@ -224,12 +243,55 @@ Garantieversprechen
 Faires Eintauschangebot
 NEU
 OPEL
+Vivaro 1.6 CDTI 2.7t L1H1
+CHF 15'900
+ab CHF 171/Monat
+12.2016
+Handschaltung
+99'000 km
+Diesel
+Vorderradantrieb
+weiss
+95 PS
+SG
+Merken
+OPEL
+Vivaro 1.6 CDTI 2.7t L1H1
+12.2016
+95 PS
+99'000 km
+CHF 15'900
+Merken
+ab CHF 171/Monat
+NEU
+OPEL
+VIVARO Cargo 2.7 t S 1.5 CDTI 102 Enjoy S/S
+CHF 24'990
+ab CHF 269/Monat
+01.2021
+Handschaltung
+10 km
+Diesel
+Vorderradantrieb
+weiss
+102 PS
+ZH
+Merken
+OPEL
+VIVARO Cargo 2.7 t S 1.5 CDTI 102...
+01.2021
+102 PS
+10 km
+CHF 24'990
+Merken
+ab CHF 269/Monat
+OPEL
 Vivaro Kombi 2.9 t L2 H1 1.6 CDTI 125 BiT S/S
 CHF 19'900
 ab CHF 214/Monat
 11.2016
 Handschaltung
-80'000 km
+81'000 km
 Diesel
 Vorderradantrieb
 silber
@@ -240,11 +302,10 @@ OPEL
 Vivaro Kombi 2.9 t L2 H1 1.6 CDTI...
 11.2016
 125 PS
-80'000 km
+81'000 km
 CHF 19'900
 Merken
 ab CHF 214/Monat
-NEU
 OPEL
 Vivaro Cargo 2.0 CDTI Enjoy s/s L EN
 CHF 43'800
@@ -413,69 +474,6 @@ Vivaro cargo 2.7t M 1.5 CDTI Esse...
 CHF 23'974
 Merken
 ab CHF 258/Monat
-OPEL
-Vivaro 1.6CDTI eco 2.9 L1
-CHF 17'900
-ab CHF 193/Monat
-05.2016
-Handschaltung
-76'400 km
-Diesel
-Vorderradantrieb
-weiss
-140 PS
-ZH
-Merken
-OPEL
-Vivaro 1.6CDTI eco 2.9 L1
-05.2016
-140 PS
-76'400 km
-CHF 17'900
-Merken
-ab CHF 193/Monat
-OPEL
-Vivaro cargo 3.1t L 2.0 CDTI Enjoy
-CHF 31'400
-ab CHF 338/Monat
--
-Handschaltung
-10 km
-Diesel
-Vorderradantrieb
-weiss
-150 PS
-VD
-Merken
-OPEL
-Vivaro cargo 3.1t L 2.0 CDTI Enjo...
--
-150 PS
-10 km
-CHF 31'400
-Merken
-ab CHF 338/Monat
-OPEL
-Vivaro cargo 3.1t L 2.0 CDTI Enjoy
-CHF 29'974
-ab CHF 322/Monat
--
-Handschaltung
-10 km
-Diesel
-Vorderradantrieb
-weiss
-122 PS
-VD
-Merken
-OPEL
-Vivaro cargo 3.1t L 2.0 CDTI Enjo...
--
-122 PS
-10 km
-CHF 29'974
-Merken
-ab CHF 322/Monat
 1
 1
 2

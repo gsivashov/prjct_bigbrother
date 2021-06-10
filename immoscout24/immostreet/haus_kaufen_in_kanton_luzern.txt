@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/kanton-luzern/
 Title: Haus kaufen in Kanton Luzern - Immostreet.ch
-Description: Haus kaufen in Kanton Luzern - Immostreet.ch: ImmoStreet.ch hat 64 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Kanton Luzern - Immostreet.ch: ImmoStreet.ch hat 62 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-64 Resultate gefunden ·
+62 Resultate gefunden ·
 Haus kaufen in Kanton Luzern
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,120 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+Preis auf Anfrage
+Einzigartiges Wohnerlebnis an unverglei…
+Adresse auf Anfrage, 6215 Beromünster
+Array
+5.5 Zimmer
+280 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+5.5
+Wohnfläche
+280 m2
+In der idyllischen Landschaft zwischen Sempachersee und Hallwilersee bietet das geschichtsträchtige…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Horw
+2'660'000
+CHF
+Erstklassiges Wohnen im Felmisquartier …
+Horw, 6048 Horw
+Array
+7.5 Zimmer
+236 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Wohnfläche
+236 m2
+An erhöhter, naturnaher Südlage steht dieses geräumige Einfamilienhaus. Hier geniessen Sie die Ruhe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hünenbergring 4
+1'950'000
+CHF
+LEBENSQUALITÄT IM HÖCHSTEN MASS
+Hünenbergring 4, 6006 Luzern
+Array
+5.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+123 m2
+Dieses schöne, freistehende 5.5 Zimmer Einfamilienhaus liegt am beliebten Hünenbergring im Wesemlin…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'550'000
+CHF
+Neubau mit integriertem Studio und Sees…
+Adresse auf Anfrage, 6404 Greppen
+Array
+5.5 Zimmer
+232 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+5.5
+Wohnfläche
+232 m2
+Hier erfüllen sich Wohnträume Freistehendes Einfamilienhaus in Greppen mit atemberaubender Panoram…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Pfundstrasse
+1'100'000
+CHF
+Neubau mit Weitsicht und Doppelgarage i…
+Pfundstrasse, 6133 Hergiswil b. Willisau
+Array
+5.5 Zimmer
+195 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+195 m2
+Endlich daheim Herzlich Willkommen in Hergiswil bei WillisauNeubauprojekt mit Doppelgarage…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sandblatte 3
+820'000
+CHF
+Reihenhaus in der «Sandblatte» - Rainer…
+Sandblatte 3, 6026 Rain
+Array
+4.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+4.5
+Wohnfläche
+112 m2
+Etage
+Die LageDie neuen Reihenhäuser„Sandblatte“ werden im gleichnamigen Gebiet, im westlichen Teil der G…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Sommerau 4
 1'390'000
 CHF
@@ -170,24 +284,6 @@ Wohnfläche
 240 m2
 Etage
 Das 1-Familienhaus befindet sich in ländlicher Idylle im Dorf Triengen mit 5000 Einwohnern (bekannt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Meggen
-Preis auf Anfrage
-Einmaliges Panorama über den Vierwaldst…
-Meggen, 6045 Meggen
-Array
-5.5 Zimmer
-170 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-170 m2
-Perfekt an leicht erhöhter Hanglage im steuergünstigen Meggen gelegen, geniessen Sie hier die Ruhe …
 Teilen
 E-Mail
 Facebook
@@ -281,25 +377,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bergstrasse 38
-1'350'000
-CHF
-Unverbaubare Aussicht und Garten
-Bergstrasse 38, 6030 Ebikon
-Array
-5.5 Zimmer
-173 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-173 m2
-Ein Haus zum sich Verwirklichen.Der Wohn-Essbereich ist grosszügig, die Küche kann zum Wohnzimmer h…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 Preis auf Anfrage
 Exklusive Liegenschaft fantastischer La…
@@ -358,25 +435,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-2'550'000
-CHF
-Neubau mit integriertem Studio und Sees…
-Adresse auf Anfrage, 6404 Greppen
-Array
-5.5 Zimmer
-232 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-5.5
-Wohnfläche
-232 m2
-Hier erfüllen sich Wohnträume - Freistehendes Einfamilienhaus in Greppen mit atemberaubender Panora…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Sandblatte 3
 690'000
 CHF
@@ -431,25 +489,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Pfundstrasse
-1'100'000
-CHF
-Neubau mit Weitsicht und Doppelgarage i…
-Pfundstrasse, 6133 Hergiswil b. Willisau
-Array
-5.5 Zimmer
-195 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-195 m2
-Endlich daheim - Herzlich Willkommen in Hergiswil bei WillisauNeubauprojekt mit Doppelgarag…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Baldismoosstrasse 30
 1'145'000
 CHF
@@ -463,43 +502,6 @@ Zimmer
 5.5
 Etage
 AdligenswilEin schmuckes Eck-Reihenhaus mit grossem Garten sucht seine neuen Besitzer!Adligenswil -…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Moderne Architektur - Lebensqualität in…
-Adresse auf Anfrage, 6037 Root
-Array
-6.5 Zimmer
-184 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-184 m2
-Root liegt eingebettet in das idyllische Gelände entlang der Reuss zwischen Hasliwald und dem grüne…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Burgallee
-1'280'000
-CHF
-Neubau: Lichtdurchflutete und grosszügi…
-Burgallee, 6247 Schötz
-Array
-5.5 Zimmer
-183 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-183 m2
-Die Häuser aus der 1. Etappe waren schneller weg als die frischen Gipfeli in der Znünipause. Zögern…
 Teilen
 E-Mail
 Facebook

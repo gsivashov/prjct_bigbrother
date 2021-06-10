@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-romanshorn/
 Title: Wohnung & Haus mieten in Romanshorn - Immostreet.ch
-Description: Wohnung & Haus mieten in  Romanshorn - Immostreet.ch: ImmoStreet.ch hat 36 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Romanshorn - Immostreet.ch: ImmoStreet.ch hat 40 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-36 Resultate gefunden ·
+40 Resultate gefunden ·
 Wohnung & Haus mieten in Romanshorn
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,88 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Arbonerstrasse 20
+1'320
+CHF
+/Monat
+*** helle, freundliche frisch renoviert…
+Arbonerstrasse 20, 8590 Romanshorn
+Array
+4.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+75 m2
+Wir vermieten per 1. Oktober 2021 oder nach Vereinbarung eine frisch renovierte 4.5 Zimmerwohnung i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 67
+695
+CHF
+/Monat
+moderne 1.5-Zimmer-Wohnung mit Balkon a…
+Bahnhofstrasse 67, 8590 Romanshorn
+Array
+1.5 Zimmer
+22 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+22 m2
+ROMANSHORN
+Romanshorn ist eine kleine Hafenstadt am Südufer des Bodensees. Dank der guten Zugverbi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sonnenring 24
+1'730
+CHF
+/Monat
+Komfortabel, ruhig, in Bodenseenähe- Wo…
+Sonnenring 24, 8590 Romanshorn
+Array
+3.5 Zimmer
+91 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+91 m2
+Zur Vermietung steht ab dem 01.09.2021 eine sonnige 3.5 Zimmer Wohnung am schönen Bodensee. Es erwa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Friedrichshafnerstrasse 54b
+1'690
+CHF
+/Monat
+Traumhafte neue Loftwohnung direkt am H…
+Friedrichshafnerstrasse 54b, 8590 Romanshorn
+Array
+3 Zimmer
+77 m2
+Objekttyp
+Wohnung, Loft
+Zimmer
+3
+Wohnfläche
+77 m2
+Etage
+Im obersten Stock direkt am Hafen in Romanshorn befindet sich diese spektakuläre Loftwohnung (Erstb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bankstrasse 2a
 1'150
 CHF
@@ -467,88 +549,6 @@ Zimmer
 Wohnfläche
 105 m2
 Die LageDie Wohnung befindet sich an zentraler, ruhiger und familienfreundlicher Lage in einer gepf…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gottfried-Keller-Strasse 3
-1'620
-CHF
-/Monat
-Hier fühlen Sie sich wohl - attraktives…
-Gottfried-Keller-Strasse 3, 8590 Romanshorn
-Array
-4.5 Zimmer
-109 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-109 m2
-Die LageDie Wohnung befindet sich an zentraler, ruhiger und familienfreundlicher Lage in einer gepf…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Pestalozzistrasse 10a
-1'355
-CHF
-/Monat
-grosszügige, moderne 4.5-Zimmer-Wohnung…
-Pestalozzistrasse 10a, 8590 Romanshorn
-Array
-4.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-80 m2
-ROMANSHORN
-Romanshorn ist eine kleine Hafenstadt am Südufer des Bodensees. Dank der guten Zugverbi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rütistrasse 3
-1'040
-CHF
-/Monat
-2 ½-Zimmer-Wohnung an guter Lage in Rom…
-Rütistrasse 3, 8590 Romanshorn
-Array
-2.5 Zimmer
-49 m2
-Objekttyp
-Wohnung, Studio
-Zimmer
-2.5
-Wohnfläche
-49 m2
-Etage
-3 Minuten zu Fuss zum Bahnhof und zum SeeDie Wohnung mit dem gewissen Etwas – Wir vermieten eine he…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Arbonerstrasse 69
-1'250
-CHF
-/Monat
-3.5 Zimmer Wohnung
-Arbonerstrasse 69, 8590 Romanshorn
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-3.5 Zimmer Wohnung mit neuer Küche, Waschmaschine und zwei separate Zimmer, neue Schallschutz Fenst…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/kanton-schaffhausen/
 Title: Wohnung & Haus mieten in Kanton Schaffhausen - Immostreet.ch
-Description: Wohnung & Haus mieten in Kanton Schaffhausen - Immostreet.ch: ImmoStreet.ch hat 653 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Kanton Schaffhausen - Immostreet.ch: ImmoStreet.ch hat 666 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-653 Resultate gefunden ·
+666 Resultate gefunden ·
 Wohnung & Haus mieten in Kanton Schaffhausen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,108 +152,273 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Klösterli 21
-1'390
+Egelseeweg 31
+1'940
 CHF
 /Monat
-Natur in unmittelbarer Nähe *MIETEN OHN…
-Klösterli 21, 8222 Beringen
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-Ihre Wohlfühl-Oase mit Blick ins Grüne:- Zentrale und doch ruhige Lage- Sehr gute Raumaufteilung- B…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zentralstrasse 14
-998
-CHF
-/Monat
-EINEN MONAT GRATIS: 1.5 Zi-Dach-Maisone…
-Zentralstrasse 14, 8212 Neuhausen am Rheinfall
-Array
-1.5 Zimmer
-51 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-51 m2
-ANGEBOT: Profitieren Sie jetzt von unserem Angebot und bezahlen Sie den ersten Monat keinen (Netto-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonnenstrasse 20
-1'750
-CHF
-/Monat
-Traumhafte Wohnung mit Garten im Breite…
-Sonnenstrasse 20, 8200 Schaffhausen
-Array
-3 Zimmer
-57 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-57 m2
-An ruhiger und sonniger Lage im Breitequartier vermieten wir diese charmante 3-Zimmerwohnung mit Te…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schöneckstrasse 11
-1'600
-CHF
-/Monat
-Wohnen mit Charme ab sofort
-Schöneckstrasse 11, 8215 Hallau
+Exklusive 4.5 Zimmer-Wohnung im Minergi…
+Egelseeweg 31, 8240 Thayngen
 Array
 4.5 Zimmer
-110 m2
+112 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-110 m2
-BeschreibungZu vermieten ist eine gemütliche 4,5 Zimmer Wohnung im Herzen von Hallau.Sie befindet s…
+112 m2
+Etage
+In der attraktiven, grenznahen Wohngemeinde Thayngen, vermieten wir diese moderne 4.5-Zimmer-Wohnun…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Mettlenstrasse
-1'590
+Postberg 6
+1'860
 CHF
 /Monat
-Erstvermietung: Schöne 3.5 Zimmer-Garte…
-Mettlenstrasse, 8217 Wilchingen
+Lauschiger Sitzplatz - Wohnung mit 2 Si…
+Postberg 6, 8222 Beringen
+Array
+5.5 Zimmer
+130 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+130 m2
+Das 3-Familienhaus befindet sich im Zentrum von Beringen. Einkaufsmöglichkeiten und Bus sind zu Fus…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Langrietstr. 24
+1'180
+CHF
+/Monat
+Der Traum von der ersten eigenen Wohnun…
+Langrietstr. 24, 8212 Neuhausen am Rheinfall
+Array
+2 Zimmer
+59 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+59 m2
+Eine Liegenschaft mit LIVING SERVICESwww.livingservices.ch- Offene Küche mit Kochinsel, Geschirrspü…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'400
+CHF
+/Monat
+Mietliegenschaft mit vielfältigen Nutzu…
+Adresse auf Anfrage, 8260 Stein am Rhein
+Array
+3 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+105 m2
+Etage
+Die Liegenschaft befindet sich an der Hauptflaniermeile mitten in der Altstadt Stein am Rheins. Die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Benze 29
+1'560
+CHF
+/Monat
+Wohne in neuen Dimensionen
+Im Benze 29, 8222 Beringen
+Array
+2.5 Zimmer
+71 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+2.5
+Wohnfläche
+71 m2
+Eine einzigartige Attikawohnung wartet auf dich!In einem ruhigem Wohnquartier in der Gemeinde Berin…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Korallenstieg 9
+1'560
+CHF
+/Monat
+Schöne helle Wohnung in Munotnähe
+Korallenstieg 9, 8200 Schaffhausen
 Array
 3.5 Zimmer
-94 m2
+73 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-94 m2
-Diese schöne, neue Wohnung verfügt über einen gehobenen Eigentumswohnungs-Ausbaustandard. Die Lage …
+73 m2
+In der im 2016 totalsanierten Überbauung am Korallenstieg vermieten wir eine schöne 3.5-Zimmer-Wohn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Herblingerstr. 60
+1'345
+CHF
+/Monat
+Attikawohnung mit praktischem Grundriss
+Herblingerstr. 60, 8207 Schaffhausen
+Array
+4.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+90 m2
+Wünschen Sie sich eine grosszügige Wohnung mit guter Anbindung an die Stadt, sowie an die Autobahn?…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schwärziweg 27
+1'600
+CHF
+/Monat
+TRAUMHAFTER GARTEN - 2000 m2 mit einfac…
+Schwärziweg 27, 8222 Beringen
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Chalet
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Etage
+Inmitten einem herrlich gelegenen grossen und sonnigen Garten vermieten wir diese einfach ausgestat…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blumenstrasse 39
+1'190
+CHF
+/Monat
+Helle 4-Zimmer-Wohnung ruhiger Wohnlage
+Blumenstrasse 39, 8240 Thayngen
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+In diesem Mehrfamilienhaus vermieten wir eine schöne 4-Zimmer-Wohnung im 2. Obergeschoss.Die Küche …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberbergweg 4
+1'215
+CHF
+/Monat
+Endlich in eigenen vier Wänden!
+Oberbergweg 4, 8212 Neuhausen am Rheinfall
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+BilderDie Bilder zeigen die Standardausstattung der Wohnungen.
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lochstrasse 32a
+1'590
+CHF
+/Monat
+Exklusive 2.5-Zimmer-Wohnung auf der Br…
+Lochstrasse 32a, 8200 Schaffhausen
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Am beliebten Felsenstieg vermieten wir diese exklusive 2.5-Zimmer-Wohnung im 2. OG.Die Wohnung über…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Frauengasse 5
+1'150
+CHF
+/Monat
+Tolle 3 Zimmerwohnung in der Stadt
+Frauengasse 5, 8200 Schaffhausen
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Die Wohnung verfügt folgende Eigenschaften:- Helle Küche mit normalem Komfort- Laminatböden in den …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ebnatstrasse 68
+1'190
+CHF
+/Monat
+Ihr neues Zuhause?
+Ebnatstrasse 68, 8200 Schaffhausen
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Im Ebnat vermieten wir diese 4 Zimmerwohnung mit folgenden Merkmalen:- Küche mit normalen Komfort- …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Neustadt 13
+1'290
+CHF
+/Monat
+wohnen in der beliebten Neustadt
+Neustadt 13, 8200 Schaffhausen
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+In der Neustadt 13 vermieten wir eine ca. 80 m2 grosse 4.5 Zimmerwohnung. Die Wohnung verfügt über …
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Stüdliackerstrasse 17
-1'450
+1'455
 CHF
 /Monat
 Familienwohnung im beliebten Quartier
@@ -272,274 +437,101 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Neutalstrasse 30
-1'465
+Im Riet 4
+1'560
 CHF
 /Monat
-Heimelige Familienwohnung in Herblingen
-Neutalstrasse 30, 8207 Schaffhausen
+Achtung, fertig - WOHNEN!
+Im Riet 4, 8200 Schaffhausen
+Array
+3 Zimmer
+66 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+66 m2
+Luchtdurchflutete Räume und ein sonniger Balkon zeichnen Ihr neues Zuhause aus...- Küche mit Geschi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauentalstrasse 158
+1'740
+CHF
+/Monat
+Wunderbarer Ausblick ins Grüne *MIETEN …
+Hauentalstrasse 158, 8200 Schaffhausen
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Ihre neue Wohlfühloase im Grünen!- Bodenbelag Platten- Küche mit Induktionsfeld und Geschirrspüler-…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schaffhauserstrasse 19
+1'340
+CHF
+/Monat
+4.5-Zimmer-Wohnung im schönen Neunkirch
+Schaffhauserstrasse 19, 8213 Neunkirch
 Array
 4.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-An der Neutalstrasse 30 vermieten wir folgende 88 m² grosse und 4 1/2 Zimmerwohnung.- Parkettbodenb…
+Am Rande des Städtchens Neunkirch vermieten wir diese schöne 4.5-Zimmer-Wohnung im Erdgeschoss.Die …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Haldenstrasse 12
-1'490
+Winkelriedstr. 10
+1'300
 CHF
 /Monat
-Moderne, grosszügige hochparterre Wohnu…
-Haldenstrasse 12, 8200 Schaffhausen
+Wohnung mit Balkon in grüner Umgebung
+Winkelriedstr. 10, 8200 Schaffhausen
+Array
+3.5 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+81 m2
+Die Liegenschaft ist wenige Gehminuten von Einkaufsmöglichkeiten und öffentlichem Verkehr entfernt.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lohnstrasse 2
+1'390
+CHF
+/Monat
+Schmucke 4-Zimmer-Wohnung im Erdgeschos…
+Lohnstrasse 2, 8200 Schaffhausen
 Array
 4 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
 4
-Im schönen Breite Quartier wird ab 01.10.21 eine moderne, grosszügige Altbau Wohnung frei.Im hochpa…
+An bevorzugter Lage mitten in Buchthalen, vermieten wir diese 4-Zimmer-Wohnung im 2. Obergeschoss.D…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Zelgstrasse 5
-995
-CHF
-/Monat
-2 1/2 Zimmerwohnung im Oberdorf / Galke…
-Zelgstrasse 5, 8212 Neuhausen am Rheinfall
-Array
-2.5 Zimmer
-52 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-52 m2
-Im ruhigen Galkenbuck-Quartier vermieten wir eine helle 2.5 Zimmerwohnung mit folgenden Eigenschaf…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Morgenstrasse 14
-1'415
-CHF
-/Monat
-Wohnen auf dem Emmersberg
-Morgenstrasse 14, 8200 Schaffhausen
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-An bester, ruhiger und sonniger Wohnlage in 6-Familienhaus. Individuelle aber kleine Wohnung, geeig…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Felsenaustrasse 19
-1'160
-CHF
-/Monat
-2 1/2 Zimmerwohnung im Felsenauquartier…
-Felsenaustrasse 19, 8200 Schaffhausen
-Array
-2.5 Zimmer
-61 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-61 m2
-Diese hübsche Wohnung liegt im beliebten Felsenauquartier auf der hinteren Breite.Sehr ruhig, gut b…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Neustadt 73
-1'380
-CHF
-/Monat
-Attraktive 2 1/2-Zimmerwohnung im 2.OG
-Neustadt 73, 8200 Schaffhausen
-Array
-2.5 Zimmer
-55 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-55 m2
-Zu vermieten nach Vereinbarung an der Neustadt 73 in Schaffhausen unweit vom Bahnhof entfernt
-- …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'100
-CHF
-/Monat
-EINZIGARTIG MIT WEITSICHT
-Adresse auf Anfrage, 8212 Neuhausen am Rheinfall
-Array
-4.5 Zimmer
-140 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-4.5
-Wohnfläche
-140 m2
-Erleben und leben Sie dieses Haus. Es wurde einzigartig, originell und individuell gebaut. Diese se…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-850
-CHF
-/Monat
-Schöne, helle Altstadt-Wohnung zur Unte…
-Adresse auf Anfrage, 8200 Schaffhausen
-Array
-1.5 Zimmer
-46 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-1.5
-Wohnfläche
-46 m2
-Etage
-Da ich momentan beruflich sehr viel unterwegs bin, vermiete ich dieses Bijoux zum genannten Mietpre…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weinsteig 188
-720
-CHF
-/Monat
-renovierte Wohnung an beliebter Wohnlag…
-Weinsteig 188, 8200 Schaffhausen
-Array
-1 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wir vermieten per 01.07.2021 oder nach Vereinbarung eine renovierte 1- Zimmer-Wohnung in einem klei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Neustadt 35
-1'625
-CHF
-/Monat
-Erstvermietung ? Altstadt
-Neustadt 35, 8200 Schaffhausen
-Array
-3.5 Zimmer
-74 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-74 m2
-Charmante 3.5-Zimmer-Maisonette Wohnung, Nähe BahnhofDie komplett renovierte Wohnung mit 75 m2 Wohn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Birchstr. 23
-1'180
-CHF
-/Monat
-Neu renovierte Wohnung in schöner Überb…
-Birchstr. 23, 8212 Neuhausen am Rheinfall
-Array
-2 Zimmer
-59 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-59 m2
-Ihre neue Wohnung lässt keine Wünsche offen:- Küche mit Glaskeramikkochfeld und Geschirrspüler- Bad…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauentalstrasse 159
-1'450
-CHF
-/Monat
-3.5 Zimmerwohnung zu vermieten
-Hauentalstrasse 159, 8200 Schaffhausen
-Array
-3.5 Zimmer
-71 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-71 m2
-Schöne helle 3.5 Zimmerwohnung am nödlichen Stadtrand von Schaffhausen, an ruhiger Lage mit Blick i…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'220
-CHF
-/Monat
-Doppeleinfamilien-Haus
-Adresse auf Anfrage, 8240 Thayngen
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Charmante Doppelhaus-Hälfte in 8240 Thayngen zu vermieten nach vereinbarung.4 1/2 Zimmer, Sauna, Ho…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stokarbergstrasse 125
-1'168
-CHF
-/Monat
-Wohnen im beliebten Breitequartier
-Stokarbergstrasse 125, 8200 Schaffhausen
-Array
-2 Zimmer
-62 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-62 m2
-Das schöne und gepflegte Mehrfamilienhaus liegt an einer gut erschlossenen Lage im begehrten Breite…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 33
+Seite 1 von 34
 1
 2
 3

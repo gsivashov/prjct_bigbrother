@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-unterentfelden/
 Title: Wohnungen & Häuser mieten in Unterentfelden - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Unterentfelden - Immostreet.ch: ImmoStreet.ch hat 33 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Unterentfelden - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-33 Resultate gefunden ·
+34 Resultate gefunden ·
 Wohnungen & Häuser mieten in Unterentfelden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,47 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Hauptstrasse 86
+1'380
+CHF
+/Monat
+Schöne 2 1/2-Zimmerwohnung
+Hauptstrasse 86, 5035 Unterentfelden
+Array
+2.5 Zimmer
+63 m2
+Objekttyp
+Wohnung, Mehrfamilienhaus
+Zimmer
+2.5
+Wohnfläche
+63 m2
+Etage
+wunderschöne, moderne 2 1/2-ZimmerwohnungDie Wohnung wurde 2020 neu erstellt:es hat eine mo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Quellmattstrasse 90
+1'890
+CHF
+/Monat
+Willkommen zu Hause!
+Quellmattstrasse 90, 5035 Unterentfelden
+Array
+4.5 Zimmer
+104 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+104 m2
+Wir vermieten ab Herbst eine 4.5 Zimmerwohnung im Erdgeschoss, mit eigenem Waschturm im Kellerabtei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Quellmattstr. 81
 1'285
 CHF
@@ -209,26 +250,6 @@ Zimmer
 Wohnfläche
 97 m2
 Schöne grosszügig geschnittene 3.5 Zimmer Wohnung in Unterentfelden per sofort zu vermieten. Man ge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Quellmattstr. 81
-725
-CHF
-/Monat
-1-Z'Wohnung mit grossem Balkon
-Quellmattstr. 81, 5035 Unterentfelden
-Array
-1 Zimmer
-30 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-30 m2
-Ab 1. Juli 2021 oder nach Vereinbarung, vermieten wir diese helle 1-Z'Wohnung mit folgendem Ausbaus…
 Teilen
 E-Mail
 Facebook
@@ -470,23 +491,6 @@ Array
 Objekttyp
 Tiefgarage
 In der Einstellhalle der obgenannten Liegenschaft vermieten wir ab sofort oder nach Vereinbarung ab…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 25
-222
-CHF
-Helle Ladenfläche in Unterentfelden!
-Hauptstrasse 25, 5035 Unterentfelden
-Array
-Objekttyp
-Büro
-Etage
-Attraktive Ladenfläche inkl. Lagerraum:
-• 381 m² Verkaufsfläche im EG
-• 28 m² Lagerraum im UG
-…
 Teilen
 E-Mail
 Facebook

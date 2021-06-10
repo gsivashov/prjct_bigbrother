@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-gebenstorf/
 Title: Wohnungen & Häuser mieten in Gebenstorf - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Gebenstorf - Immostreet.ch: ImmoStreet.ch hat 37 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Gebenstorf - Immostreet.ch: ImmoStreet.ch hat 39 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-37 Resultate gefunden ·
+39 Resultate gefunden ·
 Wohnungen & Häuser mieten in Gebenstorf
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,55 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Brühlstrasse 9
+1'870
+CHF
+/Monat
+4½-Zimmer-Wohnung
+Brühlstrasse 9, 5412 Gebenstorf
+Array
+4.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+105 m2
+Die 4½-Zimmer-Wohnung (105 m²) befindet sich in einem kleinen gepflegten Mehrfamilienhaus mit 6 Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brühlstrasse 13
+1'685
+CHF
+/Monat
+Gemütliche 4.5-Zimmer-Wohnung mit Chemi…
+Brühlstrasse 13, 5412 Gebenstorf
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Zu vermieten an der Brühlstrasse 13 eine gemütliche und familienfreundliche 4 ½-Zimmerwohnung mit C…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+AEH Am Hölibach 1 + 7
+Preis auf Anfrage
+Der 1. Monat ist gratis! Diverse Einste…
+AEH Am Hölibach 1 + 7, 5412 Gebenstorf
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten diverse Einstellplätze in der Tiefgarage der Liegenschaft am Hölibach 1 + 7 in 5412 G…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Oberriedenstrasse 30a
 1'430
 CHF
@@ -397,26 +446,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Zollstrasse 14
-2'150
-CHF
-/Monat
-möbliertes 90m2 Studio, Apartment, Bade…
-Zollstrasse 14, 5412 Gebenstorf
-Array
-1.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-90 m2
-Top Blue Loft ist ein mobliertes Apartment, Wohnraum für Langzeit Gäste.Zielgruppe sind u.a. Geschä…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Poststrasse 1a
 3'800
 CHF
@@ -441,43 +470,6 @@ Array
 Objekttyp
 Büro
 An zentraler Lage vermieten wir einen neuwertigen Gewerberaum mit Werkstatt und Lager.Der grosszügi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lauffohrstasse 11
-2'060
-CHF
-/Monat
-Schöne 4 1/2-Zimmerwohnung
-Lauffohrstasse 11, 5412 Gebenstorf
-Array
-4.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-112 m2
-Schöne, sehr grosszügige, 4½-Zimmerwohnung an sonniger, ruhiger, kinderfreundlichen Lage. Der spann…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-750
-CHF
-/Monat
-1.5 Zi-Wohnung in Gebenstorf ab sofort
-Adresse auf Anfrage, 5412 Gebenstorf
-Array
-1.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Helle, moderne 1.5 Zimmerwohnung in Gebenstorf ab sofort zu vermieten!!Moderne, helle Wohnung in ru…
 Teilen
 E-Mail
 Facebook

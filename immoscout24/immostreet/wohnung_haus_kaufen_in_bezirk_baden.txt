@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-baden/?pagenum=2
 Title: Wohnung & Haus kaufen in Bezirk Baden - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Baden - Immostreet.ch: ImmoStreet.ch hat 161 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Baden - Immostreet.ch: ImmoStreet.ch hat 159 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-161 Resultate gefunden ·
+159 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Baden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,22 +151,118 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Sommerhaldenstrasse 7
-890'000
+Schönaustrasse 47
+510'000
 CHF
-Wohlfühl-Zuhause zwischen Stadt und Nat…
-Sommerhaldenstrasse 7, 5405 Dättwil AG
+Wohnen mitten in Wettingen
+Schönaustrasse 47, 5430 Wettingen
+Array
+3.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+65 m2
+Etage
+Die 3.5-Zimmer-Eigentumswohnung befindet sich an sonniger und ruhiger Wohnlage im sehr beliebten Al…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rüslerstrasse 9
+1'780'000
+CHF
+Grandiose Attika-Wohnung !
+Rüslerstrasse 9, 5452 Oberrohrdorf
 Array
 6.5 Zimmer
-175 m2
+198 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+6.5
+Wohnfläche
+198 m2
+Selten kommt es vor, dass wir eine attraktive Attika-Wohnung zum Verkauf anbieten dürfen… und wenn …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fluhmattstrasse 31
+335'000
+CHF
+Schmucke 2. Zimmer Wohnung an ruhiger L…
+Fluhmattstrasse 31, 5400 Baden
+Array
+2 Zimmer
+50 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+50 m2
+Im Hochhaus (links) verkaufen wir eine gemütliche 2-Zimmerwohnung im 4. Obergeschoss mit Kellerabte…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'350'000
+CHF
+AN BESTER LAGE MIT FERNSICHT, EINMALIGE…
+Adresse auf Anfrage, 5417 Untersiggenthal
+Array
+6.5 Zimmer
+206 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
 6.5
 Wohnfläche
-175 m2
+206 m2
+Die Liegenschaft befindet sich an bevorzugter Wohnlage in einem äusserst attraktiven Einfamilienhau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Museumstrasse 16
+650'000
+CHF
+Freistehendes 5.5 Zimmer Einfamilienhau…
+Museumstrasse 16, 5512 Wohlenschwil
+Array
+5.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+120 m2
 Etage
-Mehr Infos inkl. Video unter: www.remaximmobilien.ch/badenWohnen, arbeiten, geniessen -charmantes …
+Dieses charmante, freistehende und sehr gemütliche Einfamilienhaus aus dem Baujahr 1981 hat eine Gr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hägelerstrasse 19
+1'290'000
+CHF
+Wohn(t)raum an bevorzugter Hanglage mit…
+Hägelerstrasse 19, 5453 Remetschwil
+Array
+5.5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+160 m2
+An herrlicher Wohnlage verkaufen wir ein Einfamilienhaus mit Einliegerwohnung und grosser Tiefgarag…
 Teilen
 E-Mail
 Facebook
@@ -186,6 +282,85 @@ Zimmer
 Wohnfläche
 241 m2
 Dieses Verkaufsobjekt, eine Stockwerkeinheit beinhaltend zwei schöne Terrassenwohnungen an bester L…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+4'800'000
+CHF
+Wohn- und Gewerbeliegenschaft mit Poten…
+Adresse auf Anfrage, 5400 Baden
+Array
+27 Zimmer
+701 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+27
+Wohnfläche
+701 m2
+Etage
+Sind Sie auf der Suche nach einem Investment in einer attraktiven und innovativen Stadt? Dann könnt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Killwangen
+1'490'000
+CHF
+Familienfreundliches 5.5 Zimmer Einfami…
+Killwangen, 8956 Killwangen
+Array
+5.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+100 m2
+Die Liegenschaft präsentiert sich an ruhiger und sonniger Lage in Killwangen und besticht mit der n…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Pilgerstrasse 81
+765'000
+CHF
+Gemütliche 5.5-Zimmer Maisonette-Wohnun…
+Pilgerstrasse 81, 5405 Dättwil AG
+Array
+5.5 Zimmer
+136 m2
+Objekttyp
+Wohnung, Duplex, Maisonette
+Zimmer
+5.5
+Wohnfläche
+136 m2
+Etage
+Zum Verkauf steht hier eine gemütliche und grosszügige Maisonette-Wohnung im Stockwerkeigentum. Die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sommerhaldenstrasse 7
+890'000
+CHF
+Wohlfühl-Zuhause zwischen Stadt und Nat…
+Sommerhaldenstrasse 7, 5405 Dättwil AG
+Array
+6.5 Zimmer
+175 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+175 m2
+Etage
+Mehr Infos inkl. Video unter: www.remaximmobilien.ch/badenWohnen, arbeiten, geniessen -charmantes …
 Teilen
 E-Mail
 Facebook
@@ -365,180 +540,7 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Rohrdorferstrasse 9
-520'000
-CHF
-Traumhaftes Wohnen im Kirschgarten
-Rohrdorferstrasse 9, 5453 Remetschwil
-Array
-2.5 Zimmer
-67 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-2.5
-Wohnfläche
-67 m2
-Exklusive EigentumswohnungenBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschga…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rohrdorferstrasse 9
-780'000
-CHF
-Traumhaftes Wohnen im Kirschgarten
-Rohrdorferstrasse 9, 5453 Remetschwil
-Array
-4.5 Zimmer
-111 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-111 m2
-Exklusive EigentumswohnungenBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschga…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rohrdorferstrasse 9
-680'000
-CHF
-Traumhaftes Wohnen im Kirschgarten
-Rohrdorferstrasse 9, 5453 Remetschwil
-Array
-3.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-95 m2
-Exklusive EigentumswohnungenBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschga…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Busslingerstrasse 13A
-498'000
-CHF
-Investorenobjekt an zentraler Lage
-Busslingerstrasse 13A, 5608 Stetten AG
-Array
-2.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-83 m2
-Investorenobjekt In der "Dorfmitte" in Stetten liegt diese charmante 2,5-Zimmer Wohnung mit hohem A…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rohrdorferstrasse 9
-1'200'000
-CHF
-Kirschgarten - Ihr neues Einfamilienhau…
-Rohrdorferstrasse 9, 5453 Remetschwil
-Array
-5.5 Zimmer
-153 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-153 m2
-LEBEN - WOHNEN - GENIESSENBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschgart…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rohrdorferstrasse 9
-780'000
-CHF
-Traumhaftes Wohnen im Kirschgarten
-Rohrdorferstrasse 9, 5453 Remetschwil
-Array
-4.5 Zimmer
-111 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-111 m2
-Exklusive EigentumswohnungenBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschga…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rohrdorferstrasse 9
-790'000
-CHF
-Traumhaftes Wohnen im Kirschgarten
-Rohrdorferstrasse 9, 5453 Remetschwil
-Array
-3.5 Zimmer
-103 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-103 m2
-Exklusive EigentumswohnungenBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschga…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rohrdorferstrasse 9
-670'000
-CHF
-Traumhaftes Wohnen im Kirschgarten
-Rohrdorferstrasse 9, 5453 Remetschwil
-Array
-3.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-95 m2
-Exklusive EigentumswohnungenBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschga…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Tannwiesenweg 10
-1'260'000
-CHF
-4.5-Zimmer-Doppeleinfamilienhaushälfte …
-Tannwiesenweg 10, 5436 Würenlos
-Array
-4.5 Zimmer
-142 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-4.5
-Wohnfläche
-142 m2
-Etage
-Erfüllen Sie sich jetzt Ihren Traum vom Eigenheim!
-Sind Sie auf der Suche nach einem Einfamilie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 9
+Seite 1 von 8
 1
 2
 3

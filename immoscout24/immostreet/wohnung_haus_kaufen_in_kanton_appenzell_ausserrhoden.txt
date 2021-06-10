@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/kanton-appenzellausserrhoden/
 Title: Wohnung & Haus kaufen in Kanton Appenzell Ausserrhoden - Immostreet.ch
-Description: Wohnung & Haus kaufen in Kanton Appenzell Ausserrhoden - Immostreet.ch: ImmoStreet.ch hat 76 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu find
+Description: Wohnung & Haus kaufen in Kanton Appenzell Ausserrhoden - Immostreet.ch: ImmoStreet.ch hat 78 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu find
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-76 Resultate gefunden ·
+78 Resultate gefunden ·
 Wohnung & Haus kaufen in Kanton Appenzell Ausserrhoden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,103 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+570'000
+CHF
+Komfortables Wohnen an verkehrsgünstige…
+Adresse auf Anfrage, 9100 Herisau
+Array
+5.5 Zimmer
+142 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+142 m2
+Die gepflegte 5.5-Zimmer-Eigentumswohnung ist Teil eines ansprechenden Wohnhauses an verkehrsgünsti…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bleichelistrasse 5
+640'000
+CHF
+In 9055 Bühler neue 3.5 Zi.-Whg. Ruhige…
+Bleichelistrasse 5, 9055 Bühler
+Array
+3.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+95 m2
+Etage
+Zu verkaufen in 9055 Bühler, an der Bleichelistrasse 5. Neubauwohnungen 3.5 Zimmer, grosszügige Ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bleichelistrasse 5
+700'000
+CHF
+In 9055 Bühler neue 4.5 Zi.-Whg. Ruhige…
+Bleichelistrasse 5, 9055 Bühler
+Array
+4.5 Zimmer
+130 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+130 m2
+Etage
+Zu verkaufen in 9055 Bühler, an der Bleichelistrasse 5. Neubauwohnung 4.5 Zimmer, grosszüzige Einte…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+575'000
+CHF
+wunderschöne Wohnung mit Weitsicht
+Adresse auf Anfrage, 9427 Wolfhalden
+Array
+4.5 Zimmer
+117 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+117 m2
+Wir verkaufen in der Gemeinde Wolfhalden eine neuwertige und moderne 4.5 Zimmer Wohnung im 2. Oberg…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rehetobel
+1'385'000
+CHF
+Hochstehendes 6-Zimmerhaus mit einmalig…
+Rehetobel, 9038 Rehetobel
+Array
+5.5 Zimmer
+142 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+142 m2
+Das neuwertige 6-Zimmerhaus besticht durch seine hochwertige Bauweise und die überall darin verbaut…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 355'000
 CHF
@@ -270,26 +367,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bleichelistrasse 5
-700'000
-CHF
-In 9055 Bühler neue 4.5 Zi.-Whg. Ruhige…
-Bleichelistrasse 5, 9055 Bühler
-Array
-4.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-130 m2
-Etage
-Zu verkaufen in 9055 Bühler, an der Bleichelistrasse 5. Neubauwohnung 4.5 Zimmer, grosszüzige Einte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Schlossstrasse 58
 350'000
 CHF
@@ -305,26 +382,6 @@ Zimmer
 Wohnfläche
 76 m2
 Sind Sie auf der Suche nach einem neuen Zuhause in einer ruhigen und gepflegten Liegenschaft? Dann …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bleichelistrasse 5
-640'000
-CHF
-In 9055 Bühler neue 3.5 Zi.-Whg. Ruhige…
-Bleichelistrasse 5, 9055 Bühler
-Array
-3.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-95 m2
-Etage
-Zu verkaufen in 9055 Bühler, an der Bleichelistrasse 5. Neubauwohnungen 3.5 Zimmer, grosszügige Ein…
 Teilen
 E-Mail
 Facebook
@@ -476,68 +533,6 @@ Zimmer
 Wohnfläche
 200 m2
 Die Wohnung besticht durch Ihre offene und einladende Erscheinung. Allein schon der Blick vom Einga…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brenden 563
-1'285'000
-CHF
-6-Zimmer-Einfamilienhaus an Toplage mit…
-Brenden 563, 9426 Lutzenberg
-Array
-6 Zimmer
-167 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6
-Wohnfläche
-167 m2
-Etage
-Objektbeschreibung & Haupt-Vorzüge auf einen BlickDas geräumige Einfamilienhaus bietet eine gel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kurvenstrasse 1401
-1'240'000
-CHF
-5.5 Zimmer-Neubauwohnung MULINO - Wohne…
-Kurvenstrasse 1401, 9052 Niederteufen
-Array
-5.5 Zimmer
-167 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-167 m2
-Verkaufspreise
-- 5.5 Zimmerwohnung Ost: CHF 1'240'000.--
-- 5.5 Zimmerwohnung West: CHF 1'345'…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kurvenstrasse 1401
-1'240'000
-CHF
-5.5 Zimmer-Neubauwohnung MULINO - Wohne…
-Kurvenstrasse 1401, 9053 Teufen AR
-Array
-5.5 Zimmer
-167 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-167 m2
-Verkaufspreise
-- 5.5 Zimmerwohnung Ost: CHF 1'240'000.--
-- 5.5 Zimmerwohnung West: CHF 1'345'…
 Teilen
 E-Mail
 Facebook

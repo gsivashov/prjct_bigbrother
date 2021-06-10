@@ -156,132 +156,7 @@ TI
 WIR-ANTEIL
 13 Treffer
 Suche zurücksetzen
-JAGUAR
-I-Pace EV400 HSE AWD
-CHF 85'600
-ab CHF 920/Monat
-05.2021
-Automat
-1'716 km
-Elektro
-Allradantrieb
-schwarz
-400 PS
-ZH
-Merken
-JAGUAR
-I-Pace EV400 HSE AWD
-05.2021
-400 PS
-1'716 km
-CHF 85'600
-Merken
-ab CHF 920/Monat
-JAGUAR
-I-Pace EV400 HSE AWD
-CHF 68'900
-ab CHF 740/Monat
-12.2019
-Automat
-3'120 km
-Elektro
-Allradantrieb
-silber
-400 PS
-ZH
-Merken
-JAGUAR
-I-Pace EV400 HSE AWD
-12.2019
-400 PS
-3'120 km
-CHF 68'900
-Merken
-ab CHF 740/Monat
-JAGUAR
-I-Pace EV400 HSE AWD
-CHF 88'900
-ab CHF 955/Monat
-05.2021
-Automat
-10 km
-Elektro
-Allradantrieb
-schwarz
-400 PS
-ZH
-Merken
-JAGUAR
-I-Pace EV400 HSE AWD
-05.2021
-400 PS
-10 km
-CHF 88'900
-Merken
-ab CHF 955/Monat
-JAGUAR
-I-Pace EV400 HSE AWD
-CHF 68'900
-ab CHF 740/Monat
-12.2019
-Automat
-3'490 km
-Elektro
-Allradantrieb
-schwarz
-400 PS
-ZH
-Merken
-JAGUAR
-I-Pace EV400 HSE AWD
-12.2019
-400 PS
-3'490 km
-CHF 68'900
-Merken
-ab CHF 740/Monat
-JAGUAR
-I-Pace EV400 HSE AWD
-CHF 84'500
-ab CHF 908/Monat
-05.2021
-Automat
-1'863 km
-Elektro
-Allradantrieb
-schwarz
-400 PS
-ZH
-Merken
-JAGUAR
-I-Pace EV400 HSE AWD
-05.2021
-400 PS
-1'863 km
-CHF 84'500
-Merken
-ab CHF 908/Monat
-JAGUAR
-I-Pace EV400 HSE AWD
-CHF 84'500
-ab CHF 908/Monat
-05.2021
-Automat
-3'218 km
-Elektro
-Allradantrieb
-schwarz
-400 PS
-ZH
-Merken
-JAGUAR
-I-Pace EV400 HSE AWD
-05.2021
-400 PS
-3'218 km
-CHF 84'500
-Merken
-ab CHF 908/Monat
+NEU
 JAGUAR
 I-Pace EV400 HSE AWD
 CHF 79'900
@@ -303,16 +178,17 @@ I-Pace EV400 HSE AWD
 CHF 79'900
 Merken
 ab CHF 859/Monat
+NEU
 JAGUAR
 I-Pace EV400 HSE AWD
-CHF 85'600
-ab CHF 920/Monat
+CHF 88'900
+ab CHF 955/Monat
 05.2021
 Automat
-2'500 km
+10 km
 Elektro
 Allradantrieb
-beige
+schwarz
 400 PS
 ZH
 Merken
@@ -320,10 +196,99 @@ JAGUAR
 I-Pace EV400 HSE AWD
 05.2021
 400 PS
-2'500 km
+10 km
+CHF 88'900
+Merken
+ab CHF 955/Monat
+NEU
+JAGUAR
+I-Pace EV400 HSE AWD
+CHF 68'900
+ab CHF 740/Monat
+12.2019
+Automat
+3'490 km
+Elektro
+Allradantrieb
+schwarz
+400 PS
+ZH
+Merken
+JAGUAR
+I-Pace EV400 HSE AWD
+12.2019
+400 PS
+3'490 km
+CHF 68'900
+Merken
+ab CHF 740/Monat
+NEU
+JAGUAR
+I-Pace EV400 HSE AWD
+CHF 84'500
+ab CHF 908/Monat
+05.2021
+Automat
+3'218 km
+Elektro
+Allradantrieb
+schwarz
+400 PS
+ZH
+Merken
+JAGUAR
+I-Pace EV400 HSE AWD
+05.2021
+400 PS
+3'218 km
+CHF 84'500
+Merken
+ab CHF 908/Monat
+NEU
+JAGUAR
+I-Pace EV400 HSE AWD
+CHF 84'500
+ab CHF 908/Monat
+05.2021
+Automat
+1'863 km
+Elektro
+Allradantrieb
+schwarz
+400 PS
+ZH
+Merken
+JAGUAR
+I-Pace EV400 HSE AWD
+05.2021
+400 PS
+1'863 km
+CHF 84'500
+Merken
+ab CHF 908/Monat
+NEU
+JAGUAR
+I-Pace EV400 HSE AWD
+CHF 85'600
+ab CHF 920/Monat
+05.2021
+Automat
+1'716 km
+Elektro
+Allradantrieb
+schwarz
+400 PS
+ZH
+Merken
+JAGUAR
+I-Pace EV400 HSE AWD
+05.2021
+400 PS
+1'716 km
 CHF 85'600
 Merken
 ab CHF 920/Monat
+NEU
 JAGUAR
 I-Pace EV400 HSE AWD
 CHF 86'900
@@ -345,6 +310,50 @@ I-Pace EV400 HSE AWD
 CHF 86'900
 Merken
 ab CHF 934/Monat
+NEU
+JAGUAR
+I-Pace EV400 HSE AWD
+CHF 85'600
+ab CHF 920/Monat
+05.2021
+Automat
+2'500 km
+Elektro
+Allradantrieb
+beige
+400 PS
+ZH
+Merken
+JAGUAR
+I-Pace EV400 HSE AWD
+05.2021
+400 PS
+2'500 km
+CHF 85'600
+Merken
+ab CHF 920/Monat
+NEU
+JAGUAR
+I-Pace EV400 HSE AWD
+CHF 68'900
+ab CHF 740/Monat
+12.2019
+Automat
+3'120 km
+Elektro
+Allradantrieb
+silber
+400 PS
+ZH
+Merken
+JAGUAR
+I-Pace EV400 HSE AWD
+12.2019
+400 PS
+3'120 km
+CHF 68'900
+Merken
+ab CHF 740/Monat
 JAGUAR
 I-Pace EV400 HSE AWD
 CHF 93'190
@@ -389,8 +398,8 @@ Merken
 ab CHF 1100/Monat
 JAGUAR
 I-Pace EV400 HSE AWD
-CHF 65'890
-ab CHF 708/Monat
+CHF 62'890
+ab CHF 676/Monat
 03.2019
 Automat
 26'800 km
@@ -405,9 +414,9 @@ I-Pace EV400 HSE AWD
 03.2019
 400 PS
 26'800 km
-CHF 65'890
+CHF 62'890
 Merken
-ab CHF 708/Monat
+ab CHF 676/Monat
 JAGUAR
 I-Pace EV400 HSE AWD
 CHF 69'900

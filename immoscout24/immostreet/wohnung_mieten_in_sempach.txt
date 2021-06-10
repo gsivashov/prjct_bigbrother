@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-sempach/
 Title: Wohnung mieten in Sempach - Immostreet.ch
-Description: Wohnung mieten in  Sempach - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Sempach - Immostreet.ch: ImmoStreet.ch hat 9 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-7 Resultate gefunden ·
+9 Resultate gefunden ·
 Wohnung mieten in Sempach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,46 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Seerose 4
+1'610
+CHF
+/Monat
+3.5-Zimmerwohnung, Nähe zu See und Natur
+Seerose 4, 6204 Sempach
+Array
+3.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+97 m2
+Grosszügige Grünflächen, Nähe zu See und Natur, Einkaufen und der ÖV direkt vor der Haustüre, all d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Feld 14
+1'970
+CHF
+/Monat
+Familienwohnung nähe Sempachersee
+Feld 14, 6204 Sempach
+Array
+5.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+112 m2
+Ihre Lage-VorteileIm Feld, Sempach, geniessen Sie alle Vorzüge einer idealen Wohnlage. Die grüne un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Schlachtstrasse 3
 2'760
 CHF

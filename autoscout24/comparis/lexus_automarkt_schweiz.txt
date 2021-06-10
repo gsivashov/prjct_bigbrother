@@ -146,14 +146,34 @@ Alle Automarken
 Lexus
 Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseite zu gewährleisten.
 Lexus Automarkt Schweiz
-438 Occasionen
+436 Occasionen
 93 Neuwagen
 44 Vorführwagen
-Lexus GS - 13 Inserate im Automarkt - Ab CHF 4'900
-Lexus IS - 55 Inserate im Automarkt - Ab CHF 2'000
-Lexus SC - 6 Inserate im Automarkt - Ab CHF 7'900
+Lexus GS - 14 Inserate im Automarkt - Ab CHF 4'900
+Lexus IS - 52 Inserate im Automarkt - Ab CHF 2'000
+Lexus SC - 7 Inserate im Automarkt - Ab CHF 7'900
 Lexus Modelle
-Lexus RX - 193 Inserate anzeigen
+Lexus RX - 194 Inserate anzeigen
+Lexus RX 400h Edition AWD Automatic
+Occasion
+11.2016
+81'150 km
+211 PS
+Mehr
+6.0
+CHF
+15'990
+09.06.2021
+LEXUS RX 450h Diamond AWD Automatic
+Occasion
+05.2015
+62'000 km
+250 PS
+Mehr
+5.0
+CHF
+26'900
+22.05.2021
 Lexus RX 450h F-Sport
 Occasion
 11.2017
@@ -164,27 +184,7 @@ Mehr
 CHF
 39'900
 27.04.2021
-LEXUS RX 450h F-Sport
-Occasion
-11.2017
-70'300 km
-313 PS
-Mehr
-5.0
-CHF
-39'900
-26.04.2021
-Lexus RX 450h Comfort
-Occasion
-11.2017
-72'520 km
-262 PS
-Mehr
-5.0
-CHF
-38'000
-26.03.2021
-Lexus CT - 75 Inserate anzeigen
+Lexus CT - 74 Inserate anzeigen
 Lexus CT 200h F-Sport
 Occasion
 12.2020
@@ -205,27 +205,27 @@ Mehr
 CHF
 34'900
 18.12.2020
-Lexus NX - 71 Inserate anzeigen
-LEXUS NX 300h Impression
+Lexus NX - 69 Inserate anzeigen
+Lexus NX 200t F-Sport AWD Automatic
 Occasion
-11.2017
-52'650 km
-197 PS
+06.2017
+80'550 km
+238 PS
 Mehr
 5.0
 CHF
 27'900
-19.05.2021
-LEXUS NX 300h Business
+06.06.2021
+LEXUS NX 200t F-Sport AWD Automatic
 Occasion
-03.2016
-33'600 km
-197 PS
+06.2017
+80'550 km
+238 PS
 Mehr
 5.0
 CHF
-28'900
-05.05.2021
+27'900
+05.06.2021
 LEXUS NX 200t comfort AWD Automatic
 Occasion
 01.2017
@@ -236,7 +236,7 @@ Mehr
 CHF
 29'400
 17.02.2021
-Lexus RC - 12 Inserate anzeigen
+Lexus RC - 13 Inserate anzeigen
 LEXUS RC F 5.0 V8 10th Anniversary
 Occasion
 03.2019

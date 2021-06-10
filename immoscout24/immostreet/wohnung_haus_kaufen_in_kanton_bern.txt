@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/kanton-bern/
 Title: Wohnung & Haus kaufen in Kanton Bern - Immostreet.ch
-Description: Wohnung & Haus kaufen in Kanton Bern - Immostreet.ch: ImmoStreet.ch hat 614 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Kanton Bern - Immostreet.ch: ImmoStreet.ch hat 624 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-614 Resultate gefunden ·
+624 Resultate gefunden ·
 Wohnung & Haus kaufen in Kanton Bern
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,151 +152,250 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Adresse auf Anfrage
-490
+Preis auf Anfrage
+MEDITERRANE VILLA - PROVENCE IM SEELAND
+Adresse auf Anfrage, 3232 Ins
+Array
+8.5 Zimmer
+450 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+8.5
+Wohnfläche
+450 m2
+Die Villa liegt an bevorzugter Hanglage in einem ruhigen Einfamilienhausquartier mit uneingeschränk…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'150
 CHF
-Esstisch Kernbuche 190 x 100
-Adresse auf Anfrage, 3324 Hindelbank
+Gebäude, Garage
+Adresse auf Anfrage, 3822 Lauterbrunnen
 Array
 1 Zimmer
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
 1
-Schöner Esstisch aus Kernbuche. Neupreis 2' 000 Franken. Masse 190 x 100 mit Verlängerung von 50 cm…
+Unterstand gebrauchtMasse 5.5*5,8*3mIdeal für Garage, Gartenhaus, Stall usw Gebäude ist zerlegt und…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-750'000
+Hauptstrasse 48/48a
+560'000
 CHF
-Eintausch Wohnung gegen Einfamilienhaus…
-Adresse auf Anfrage, 3053 Münchenbuchsee
+Architektur und Natur
+Hauptstrasse 48/48a, 2554 Meinisberg
+Array
+3.5 Zimmer
+99 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+99 m2
+Die neue Wohnsiedlung entsteht im Zentrum von Meinisberg, direkt gegenüber der Primarschule. So kön…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 48/48a
+620'000
+CHF
+Architektur und Natur
+Hauptstrasse 48/48a, 2554 Meinisberg
 Array
 4.5 Zimmer
-108 m2
+124 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-108 m2
-Wir sind auf der Suche nach einem Einfamilienhaus oder Reihenfamilienhaus in Münchenbuchsee, dafür …
+124 m2
+Die neue Wohnsiedlung entsteht im Zentrum von Meinisberg, direkt gegenüber der Primarschule. So kön…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 48/48a
+540'000
+CHF
+Architektur und Natur
+Hauptstrasse 48/48a, 2554 Meinisberg
+Array
+3.5 Zimmer
+99 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+99 m2
+Die neue Wohnsiedlung entsteht im Zentrum von Meinisberg, direkt gegenüber der Primarschule. So kön…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-930'000
+850'000
 CHF
-Très jolie et lumineuse maison mitoyenn…
-Adresse auf Anfrage, 2518 Nods
+Villa spacieuse de 7 pièces, 5 chambres…
+Adresse auf Anfrage, 2740 Moutier
+Array
+7 Zimmer
+220 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+7
+Wohnfläche
+220 m2
+Maison d'architecte spacieuse avec cachet de 7 pièces, 5 chambres, parcelle piscinable à l'abri des…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+613'000
+CHF
+Wohnen im Grünen am Südufer des Bielers…
+Adresse auf Anfrage, 2575 Täuffelen
+Array
+3.5 Zimmer
+91 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+91 m2
+Etage
+Bis im Frühling 2021 entsteht im Dorfzentrum von Täuffelen an ruhiger Lage das neue Projekt Breiten…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+767'000
+CHF
+Kinderfreundliche Wohnung an ruhiger La…
+Adresse auf Anfrage, 2575 Täuffelen
+Array
+4.5 Zimmer
+119 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+119 m2
+Etage
+Bis im Frühling 2021 entsteht im Dorfzentrum von Täuffelen an ruhiger Lage das neue Projekt Breiten…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+835'000
+CHF
+Wunderschöne Attikawohnung mit hohen Rä…
+Adresse auf Anfrage, 2575 Täuffelen
+Array
+3.5 Zimmer
+76 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+76 m2
+Etage
+Neue 3.5-Zimmer-Attika mit toller WeitsichtBis im Frühling 2021 entsteht im Dorfzentrum von Täuffel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'395'000
+CHF
+Wunderschöne Attikawohnung mit hohen Rä…
+Adresse auf Anfrage, 2575 Täuffelen
 Array
 5.5 Zimmer
-242 m2
+157 m2
 Objekttyp
-Wohnung, Doppeleinfamilienhaus
+Wohnung, Attikawohnung
 Zimmer
 5.5
 Wohnfläche
-242 m2
+157 m2
 Etage
-Qui n'a jamais rêvé d'une maison dans laquelle sa famille pourrait s'épanouir?Si c'est votre cas, v…
+5.5-Zimmer-Attika-Wohnung mit hervorragender WeitsichtBis im Frühling 2021 entsteht im Dorfzentrum …
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'530'000
+431'000
 CHF
-Nachhaltig und komfortabel leben direkt…
-Adresse auf Anfrage, 2505 Biel/Bienne
+Ihre neue Wohnung in der Nähe des Biele…
+Adresse auf Anfrage, 2575 Täuffelen
 Array
-6.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-6.5
-Wohnfläche
-150 m2
-Wollen Sie in einem idyllischen, ruhigen sowie kinderfreundlichen Quartier an der Aare leben? Wolle…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'300'000
-CHF
-LOHNENDE LANDHAUSVILLA
-Adresse auf Anfrage, 3065 Bolligen
-Array
-8.5 Zimmer
-233 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-8.5
-Wohnfläche
-233 m2
-Folgende Besichtigungen finden statt: Montag, 14. Juni 2021, von 14:30 bis 16:00 Uhr Mittwoch, 23…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-575'000
-CHF
-NICHT MEHR VERFÜGBAR
-Adresse auf Anfrage, 3054 Schüpfen
-Array
-3.5 Zimmer
-93 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-93 m2
-An guter Lage in Schüpfen, nähe Einkaufsmöglichkeiten veräussern wir diese originelle Maisonnette W…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brünigstrasse 50
-598'000
-CHF
-Heimatgefühl auf zwei Etagen verteilt
-Brünigstrasse 50, 3860 Meiringen
-Array
-4.5 Zimmer
-134 m2
+2.5 Zimmer
+56 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+2.5
 Wohnfläche
-134 m2
-Ein positives Gefühl von Wärme und Heimeligkeit kommt auf Sie zu, jedes Mal wenn Sie diese wunderba…
+56 m2
+Etage
+Bis im Frühling 2021 entsteht im Dorfzentrum von Täuffelen an ruhiger Lage das neue Projekt Breiten…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Postgasse 2
-330'000
+Aarbergstrasse 52A
+850'000
 CHF
-Fehr Immobilien - Charmante 3.5-Zimmer-…
-Postgasse 2, 2542 Pieterlen
+Lichtdurchflutete Maisonette-Wohnung mi…
+Aarbergstrasse 52A, 3294 Büren an der Aare
 Array
-3.5 Zimmer
-75 m2
+5.5 Zimmer
+148 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+5.5
 Wohnfläche
-75 m2
-Charmante Wohnung in ruhigem Wohnquartier Das 1988 erstellte Wohnhaus liegt eingebettet in ein ruhi…
+148 m2
+5.5-Zimmer-Maisonette-Wohnung in Büren an der AareIm charmanten Büren an der Aare verkaufen wir ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'140'000
+CHF
+TRAUM IN MITTEN DER STADT BIEL
+Adresse auf Anfrage, 2503 Biel/Bienne
+Array
+5.5 Zimmer
+179 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+179 m2
+Etage
+An der Rue du Cret steht der 5.5Zi.-Traum der zukünftigen Eigenheimbesitzer. Die Lage zeichnet sich…
 Teilen
 E-Mail
 Facebook
@@ -315,221 +414,118 @@ Zimmer
 4.5
 Wohnfläche
 136 m2
-Das 1988 erbaute, grosszügige Reihenfamilienhaus, befindet sich an zentraler Lage in der beliebten …
+Das solid erbaute, grosszügige Familienhaus, befindet sich an zentraler Lage in der beliebten und f…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Rue de Boujean 79b
-475'000
+Adresse auf Anfrage
+780'000
 CHF
-Heimelige, grosszügige 3.5-Zimmer-Wohnu…
-Rue de Boujean 79b, 2502 Biel/Bienne
+Verwirklichen Sie sich Ihren Traum vom …
+Adresse auf Anfrage, 3154 Rüschegg Heubach
+Array
+5 Zimmer
+165 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5
+Wohnfläche
+165 m2
+Etage
+Verwirklichen Sie sich den Traum von Ihrem Eigenheim im wunderschönen Gantrischgebiet. Lassen Sie I…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hohlenstrasse
+505'000
+CHF
+2.5-Zimmer Eigentumswohnung an sonniger…
+Hohlenstrasse, 4950 Huttwil
+Array
+2.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+85 m2
+Wir realisieren für Sie tolle Wohnhäuser am «Hohlen Südhang» in HuttwilDie Wohnüberbauung «Hohlen S…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hohlenstrasse
+485'000
+CHF
+3.5-Zimmer Eigentumswohnung an exklusiv…
+Hohlenstrasse, 4950 Huttwil
 Array
 3.5 Zimmer
-86 m2
+77 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-86 m2
-Ich freue mich schon jetzt, Sie als meinen neuen Eigentümer willkommen zu heissen.Besuchen Sie Ihr …
+77 m2
+Wir realisieren für Sie tolle Wohnhäuser am «Hohlen Südhang» in HuttwilDie Wohnüberbauung «Hohlen S…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Mauren 814
-700'000
+Matzwil 142
+1'198'000
 CHF
-Grosszügige 5.5 Zimmer Dachwohnung in B…
-Mauren 814, 3803 Beatenberg
-Array
-5.5 Zimmer
-145 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-5.5
-Wohnfläche
-145 m2
-Etage
-Diese grosszügige 5.5 Zimmer Dachwohnung verfügt über ein Badezimmer, ein Gäste-WC, ein Cheminée un…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brühlstrasse 22
-960'000
-CHF
-Neubau 5.5 Zimmer Einfamilienhaus
-Brühlstrasse 22, 4536 Attiswil
-Array
-5.5 Zimmer
-133 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-133 m2
-Etage
-Hier entsteht ein neues Einfamilienhaus von WeberHaus. Lassen Sie sich inspirieren! Selbstverständl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obere Wannenfluhstrasse 10
-1'380'000
-CHF
-Neubau Erst- oder Ferienwohnung Sie hab…
-Obere Wannenfluhstrasse 10, 3770 Zweisimmen
-Array
-4.5 Zimmer
-133 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-133 m2
-Etage
-Erst- oder Ferienwohnung Sie haben die Wahl! Das charmante Chalet ist im Moment im Rohbau und warte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obere Wannenfluhstrasse 10
-1'410'000
-CHF
-Neubau Erst- oder Ferienwohnung Sie hab…
-Obere Wannenfluhstrasse 10, 3770 Zweisimmen
-Array
-4.5 Zimmer
-133 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-133 m2
-Etage
-Erst- oder Ferienwohnung Sie haben die Wahl! Das charmante Chalet ist im Moment im Rohbau und warte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lerchenhubel 12
-522'000
-CHF
-Kaufen statt Mieten!
-Lerchenhubel 12, 3206 Ferenbalm
-Array
-3.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-120 m2
-Etage
-Die perfekt gelegene Dachwohnung ist ideal für Paare oder eine Familie mit einem Kind. Die grosszüg…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obere Wannenfluhstrasse 10
-1'430'000
-CHF
-Neubau Erst- oder Ferienwohnung Sie hab…
-Obere Wannenfluhstrasse 10, 3770 Zweisimmen
-Array
-4.5 Zimmer
-139 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Wohnfläche
-139 m2
-Etage
-Erst- oder Ferienwohnung Sie haben die Wahl! Das charmante Chalet ist im Moment im Rohbau und warte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kanalweg
-1'410'000
-CHF
-*7,5-Zimmer-Familienhaus - Liebhaberobj…
-Kanalweg, 2560 Nidau
-Array
-8 Zimmer
-225 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-8
-Wohnfläche
-225 m2
-Es handelt sich um ein 7.5-Zimmer-Familienhaus mit Autounterstand / Garage und Gartenhaus. Die Lieg…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gummenstrasse
-1'403'000
-CHF
-*Landwirtschaftliches Gewerbe mit 2 Woh…
-Gummenstrasse, 3174 Thörishaus
+WOHNUNGEN MIT GARAGE, RASENFLÄCHE IM LÄ…
+Matzwil 142, 3036 Detligen
 Array
 Objekttyp
 Wohnung, Einzelhaus
-Ein Wohnhaus wurde vermutlich 1926 erstellt und verfügt über eine Wohnung, die sich über EG und OG …
+Mehr erfahren: Für weitere Bilder, Informationen zu Raumangebot, Gemeinde und Lage besuchen sie uns…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Gaichtstrasse
-685'000
+Adresse auf Anfrage
+4'000'000
 CHF
-*Wohnung mit Einstellhallenplatz an seh…
-Gaichtstrasse, 2512 Tüscherz-Alfermée
+STADTVILLA IM KIRCHENFELD
+Adresse auf Anfrage, 3006 Bern
 Array
-6 Zimmer
-140 m2
+8.5 Zimmer
 Objekttyp
-Wohnung, Flach
+Wohnung, Einzelhaus
 Zimmer
-6
-Wohnfläche
-140 m2
-Es handelt sich um eine 5.5-Zimmer-Eigentumswohnung mit Einstellhallenplatz.Bei dieser Immobilie ha…
+8.5
+Folgende Besichtigungen finden statt: - Freitag, 11. Juni 2021, von 16.00 Uhr bis 18.15 Uhr - Mitt…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Asterweg
-450'000
+Adresse auf Anfrage
+950'000
 CHF
-*Etagenwohnung*
-Asterweg, 3661 Uetendorf
+Ein absoluter Hingucker!
+Adresse auf Anfrage, 4912 Aarwangen
 Array
-4 Zimmer
-88 m2
+4.5 Zimmer
+173 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
-4
+4.5
 Wohnfläche
-88 m2
-Es handelt sich um eine 4.5-Zimmerwohnung im 1. OG links, mit Nebenraum.Bei dieser Immobilie handel…
+173 m2
+Beim Betreten der raffinierten Attikawohnung, wird Ihnen die elegante Küche mit der präsenten Kochi…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 31
+Seite 1 von 32
 1
 2
 3

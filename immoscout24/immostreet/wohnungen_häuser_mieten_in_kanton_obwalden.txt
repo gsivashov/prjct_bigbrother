@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/kanton-obwalden/
 Title: Wohnungen & Häuser mieten in Kanton Obwalden - Immostreet.ch
-Description: Wohnungen & Häuser mieten in Kanton Obwalden - Immostreet.ch: ImmoStreet.ch hat 67 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in Kanton Obwalden - Immostreet.ch: ImmoStreet.ch hat 66 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-67 Resultate gefunden ·
+66 Resultate gefunden ·
 Wohnungen & Häuser mieten in Kanton Obwalden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,74 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Schildstrasse 2
+180
+CHF
+/Monat
+Lager- und Hobbyräume
+Schildstrasse 2, 6066 St. Niklausen OW
+Array
+Objekttyp
+Verkauf, Lager
+Diverse Räume von 18 bis 50 m2, geeignet für Lager-, Hobby- oder Werkräume. Garderobe mit Dusche/WC…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+980
+CHF
+/Monat
+2,5 Zimmerwohnung zum Vermieten ab sofo…
+Adresse auf Anfrage, 6055 Alpnach Dorf
+Array
+2 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+2,5 Zimmerwohnung zum Vermieten ab sofort
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberwilerstrasse 54
+2'990
+CHF
+/Monat
+Exklusives Wohnen in Seenähe
+Oberwilerstrasse 54, 6062 Wilen (Sarnen)
+Array
+4.5 Zimmer
+139 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+4.5
+Wohnfläche
+139 m2
+Raum für entspanntes Wohnen an traumhafter LageDiese Terrassenwohnung besticht nicht nur durch ihre…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alpenstrasse
+750
+CHF
+/Monat
+Helle 1.5 Zimmer-Wohnung
+Alpenstrasse, 6390 Engelberg
+Array
+1.5 Zimmer
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+1.5
+Home Office light oder ein Sommer in den Bergen?Alpenstrasse, zu vermieten an NR per sofort oder na…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Chilenmattli 12
 1'790
 CHF
@@ -164,7 +232,7 @@ E-Mail
 Facebook
 Whatsapp
 Brünigstrasse 100
-1'010
+1'030
 CHF
 /Monat
 3 1/2-Zimmer-Wohnung
@@ -282,43 +350,6 @@ Zimmer
 Wohnfläche
 100 m2
 Wir suchen für unsere schöne helle & grosszügige 4.5 Zimmer Wohnung auf 1.08.21 in Kerns einen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brünigstrasse 36
-2'500
-CHF
-/Monat
-helle sonnige 4.5-Zimmer-Wohnung
-Brünigstrasse 36, 6055 Alpnach Dorf
-Array
-4.5 Zimmer
-142 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-142 m2
-Mehrfamilienhaus, 2. OG.Grosses helles Wohn-/Esszimmer (ganztags besonnt, auch im Winter) mit gross…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-950
-CHF
-/Monat
-2-Zimmer Wohnung in Kerns
-Adresse auf Anfrage, 6064 Kerns
-Array
-2 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Nachmieter gesucht per Juli oder August 2021 für 2-Zimmerwohnung in Kerns.Mit Gartensitzplatz und P…
 Teilen
 E-Mail
 Facebook
@@ -465,43 +496,6 @@ Wohnung, Flach
 Zimmer
 2.5
 Schöne, ruhige Wohnung mit Sitzplatz mit Sonnenstore und Wiese davor. In Wohnquartier ohne jegliche…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonnmattweg 1
-1'470
-CHF
-/Monat
-4.5 Zimmerwohnung an zentraler Lage
-Sonnmattweg 1, 6055 Alpnach Dorf
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Familienfreundliche Wohnung in zentraler LageIn Alpnach vermieten wir an zentraler Lage eine 4 1/2 …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gartenstrasse 27 (Haus B1)
-1'920
-CHF
-/Monat
-Ihre Wohlfühloase!
-Gartenstrasse 27 (Haus B1), 6060 Sarnen
-Array
-3.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-88 m2
-Wir vermieten per 1. Juni 2021 diese helle 3.5-Zimmerwohnung mit modernem Grundriss und sonnigem Ba…
 Teilen
 E-Mail
 Facebook

@@ -11,7 +11,7 @@ Search Title
 Globale Suche
 LöschenSuchen
 Leasingrechner
-Leasingrate einfach online berechnenBerechnen Sie mit wenigen Angaben Ihre monatlichen Leasingzahlungen. 1. Leasingrechner:Leasingobjekt:Bitte auswählen...Baumaschine/StaplerBusDruckmaschineITKranLaden-/BüroeinrichtungLagereinrichtungLandwirtschafts-/ForstmaschineMedizinalgeräteNutzfahrzeugProduktionsmaschineSpritz- & DruckgussmaschineWerkzeugmaschineInvestitionskosten: CHF, exkl. MWSTAnzahlung (1. erhöhte Rate): CHF, exkl. MWST (optional)Laufzeit:Bitte auswählen...2436486072 Anzahl MonateWie schätzen Sie Ihre Bonität ein:Sehr gutGutGenügendBerechnen2. Unverbindliche Berechnungsübersicht:Anzahlung (1. erhöhte Rate): CHF, exkl. MWSTLeasingrate pro Monat: CHF, exkl. MWSTEinmalige Bearbeitungsgebühr: CHF, exkl. MWSTKalkulatorischer Restwert bei Vertragsende: CHF, exkl. MWSTDie Konditionen entsprechen aktuellen Marktsätzen und werden erst bei der Vertragsinkraftsetzung endgültig festgelegt.Zurücksetzen3. Haben wir Ihr Interesse geweckt? Nehmen Sie mit uns Kontakt auf!Gerne zeigen wir Ihnen, wie Sie mit Leasing mehr unternehmerische Freiheiten gewinnen. Kontaktieren Sie uns unter 044 234 15 55 oder senden Sie uns eine Nachricht.(Bitte füllen Sie alle mit * markierten Felder aus.)Leasing beantragen:Gerne können Sie Ihren Leasingantrag direkt online erstellenOnline LeasingantragMother tongue
+Leasingrate einfach online berechnenBerechnen Sie mit wenigen Angaben Ihre monatlichen Leasingzahlungen. 1. Leasingrechner:Leasingobjekt:Bitte auswählen...Baumaschine/StaplerBusDruckmaschineITKranLaden-/BüroeinrichtungLagereinrichtungLandwirtschafts-/ForstmaschineMedizinalgeräteNutzfahrzeugProduktionsmaschineSpritz- & DruckgussmaschineWerkzeugmaschineInvestitionskosten: CHF, exkl. MWSTAnzahlung (1. erhöhte Rate): CHF, exkl. MWST (optional)Laufzeit:Bitte auswählen...2436486072 Anzahl MonateWie schätzen Sie Ihre Bonität ein:Sehr gutGutGenügendBerechnen2. Unverbindliche Berechnungsübersicht:Anzahlung (1. erhöhte Rate): CHF, exkl. MWSTLeasingrate pro Monat: CHF, exkl. MWSTEinmalige Bearbeitungsgebühr: CHF, exkl. MWSTKalkulatorischer Restwert bei Vertragsende: CHF, exkl. MWSTDie Konditionen entsprechen aktuellen Marktsätzen und werden erst bei der Vertragsinkraftsetzung endgültig festgelegt.Zurücksetzen3. Haben wir Ihr Interesse geweckt? Nehmen Sie mit uns Kontakt auf!Gerne zeigen wir Ihnen, wie Sie mit Leasing mehr unternehmerische Freiheiten gewinnen. Kontaktieren Sie uns unter 044 234 15 55 oder senden Sie uns eine Nachricht.(Bitte füllen Sie alle mit * markierten Felder aus.)Leasing beantragen:Gerne können Sie Ihren Leasingantrag direkt online erstellenOnline LeasingantragFax number
 Firmenname*
 Anrede
 Please select 1 radio button
@@ -263,9 +263,7 @@ Sprache
 de
 EnglishenDeutschdeFrançaisfrItalianoit
 Schliessen
-CloseZum SeitenanfangFooter NavigationSie sind hier: SchweizUnternehmenFinanzierungLeasingLeasingrechner
-Auszeichnungen
-Produkte
+CloseZum SeitenanfangFooter NavigationSie sind hier: SchweizUnternehmenFinanzierungLeasingLeasingrechnerProdukte
 Zahlungslösungen
 Finanzierung
 Immobilien

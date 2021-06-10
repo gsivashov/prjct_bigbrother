@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/in-balsthal/
 Title: Haus kaufen in Balsthal - Immostreet.ch
-Description: Haus kaufen in  Balsthal - Immostreet.ch: ImmoStreet.ch hat 4 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in  Balsthal - Immostreet.ch: ImmoStreet.ch hat 6 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-4 Resultate gefunden ·
+6 Resultate gefunden ·
 Haus kaufen in Balsthal
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,44 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Postilliongässli 4
+765'000
+CHF
+Postilliongässli, Wohnen im Herzen von …
+Postilliongässli 4, 4710 Balsthal
+Array
+5.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+140 m2
+Balsthal liegt in der malerischen Region Thal-Gäu, mitten im Kanton Solothurn im Fadenkreuz von Bas…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Postilliongässli 15
+765'000
+CHF
+Postilliongässli Balsthal - wo Schönes…
+Postilliongässli 15, 4710 Balsthal
+Array
+5.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+140 m2
+Balsthal liegt in der malerischen Region Thal-Gäu, mitten im Kanton Solothurn im Fadenkreuz von Bas…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Schmiedengasse 13
 840'000
 CHF

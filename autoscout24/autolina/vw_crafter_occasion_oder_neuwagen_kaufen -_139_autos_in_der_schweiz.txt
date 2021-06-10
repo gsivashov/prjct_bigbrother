@@ -157,25 +157,95 @@ Suche zurücksetzen
 NEU
 VW
 Crafter 35 Kastenwagen Entry RS 3640 mm
-CHF 32'850
-ab CHF 353/Monat
+CHF 39'900
+ab CHF 429/Monat
+-
+Handschaltung
+10 km
+Diesel
+Vorderradantrieb
+weiss
+140 PS
+TG
+Merken
+VW
+Crafter 35 Kastenwagen Entry RS 3...
+-
+140 PS
+10 km
+CHF 39'900
+Merken
+ab CHF 429/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+VW
+Crafter 35 Chassis-Kabine Champion RS 3640 mm
+CHF 44'900
+ab CHF 483/Monat
+07.2019
+Handschaltung
+580 km
+Diesel
+Vorderradantrieb
+weiss
+140 PS
+TI
+Merken
+VW
+Crafter 35 Chassis-Kabine Champio...
+07.2019
+140 PS
+580 km
+CHF 44'900
+Merken
+ab CHF 483/Monat
+NEU
+VW
+Crafter 35 Kastenwagen Entry RS 3640 mm
+CHF 35'290
+ab CHF 379/Monat
 -
 Handschaltung
 50 km
 Diesel
 Vorderradantrieb
 weiss
-102 PS
-LU
+140 PS
+BL
 Merken
 VW
 Crafter 35 Kastenwagen Entry RS 3...
 -
-102 PS
+140 PS
 50 km
-CHF 32'850
+CHF 35'290
 Merken
-ab CHF 353/Monat
+ab CHF 379/Monat
+NEU
+VW
+Crafter 50 Chassis-Kabine Cargo RS 3640 mm Doppelbereifung
+CHF 20'000
+ab CHF 215/Monat
+07.2020
+Handschaltung
+1'087 km
+Diesel
+Hinterradantrieb
+weiss
+177 PS
+BE
+Merken
+VW
+Crafter 50 Chassis-Kabine Cargo R...
+07.2020
+177 PS
+1'087 km
+CHF 20'000
+Merken
+ab CHF 215/Monat
 35-Punkte-Check
 Kostenlose Probefahrt
 Garantieversprechen
@@ -201,27 +271,6 @@ Crafter 35 2.5 BlueTDI L3 H2
 CHF 17'500
 Merken
 ab CHF 188/Monat
-VW
-Crafter 35 Kastenwagen RS 3665 mm
-CHF 18'950
-ab CHF 204/Monat
-06.2016
-Handschaltung
-49'900 km
-Diesel
-Hinterradantrieb
-rot
-136 PS
-AG
-Merken
-VW
-Crafter 35 Kastenwagen RS 3665 mm
-06.2016
-136 PS
-49'900 km
-CHF 18'950
-Merken
-ab CHF 204/Monat
 VW
 Crafter 35 Chassis-Kabine RS 4325 mm
 CHF 22'900
@@ -444,48 +493,6 @@ Crafter 35 Kastenwagen RS 3665 mm
 CHF 21'360
 Merken
 ab CHF 230/Monat
-VW
-Crafter 35 2.0 TDI Entry L3
-CHF 24'800
-ab CHF 267/Monat
-06.2017
-Handschaltung
-54'500 km
-Diesel
-Vorderradantrieb
-weiss
-102 PS
-ZH
-Merken
-VW
-Crafter 35 2.0 TDI Entry L3
-06.2017
-102 PS
-54'500 km
-CHF 24'800
-Merken
-ab CHF 267/Monat
-VW
-Crafter 35 Kastenwagen Entry RS 3640 mm
-CHF 43'900
-ab CHF 472/Monat
--
-Handschaltung
-80 km
-Diesel
-Vorderradantrieb
-weiss
-140 PS
-TI
-Merken
-VW
-Crafter 35 Kastenwagen Entry RS 3...
--
-140 PS
-80 km
-CHF 43'900
-Merken
-ab CHF 472/Monat
 1
 1
 2

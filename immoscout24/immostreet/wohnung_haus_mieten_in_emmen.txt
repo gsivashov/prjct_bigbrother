@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-emmen/
 Title: Wohnung & Haus mieten in Emmen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Emmen - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Emmen - Immostreet.ch: ImmoStreet.ch hat 33 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-34 Resultate gefunden ·
+33 Resultate gefunden ·
 Wohnung & Haus mieten in Emmen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Grünmattstrasse 5
+1'450
+CHF
+/Monat
+IM GRÜNEN UND DOCH ZENTRAL
+Grünmattstrasse 5, 6032 Emmen
+Array
+4.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+80 m2
+In dieser hellen 4.5-Zimmer-Dachwohnung fühlen sie sich gleich willkommen und zu Hause. Der schöne …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Rottertswilstrasse, Emmen
 890
 CHF
@@ -173,7 +193,7 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'790
+1'720
 CHF
 /Monat
 NEUBAU, PRAKTISCH U. AN GUTER LAGE
@@ -509,26 +529,6 @@ Wohnung, Flach
 Zimmer
 4.5
 Wir vermieten per sofort oder nach Vereinbarung diese grosszügige 4.5 Zimmer-Wohnung im 2. OG mit w…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Meilipromenade 27
-2'240
-CHF
-/Monat
-Ihr neues Zuhause im Feldbreite-Quartier
-Meilipromenade 27, 6032 Emmen
-Array
-4.5 Zimmer
-108 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-108 m2
-Per 1. August 2021 oder nach Vereinbarung vermieten wir diese helle und grosszügige 4.5-Zimmerwohnu…
 Teilen
 E-Mail
 Facebook

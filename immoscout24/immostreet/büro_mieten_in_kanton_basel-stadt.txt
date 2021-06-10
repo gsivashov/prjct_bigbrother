@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/buero/kanton-baselstadt/
 Title: Büro mieten in Kanton Basel-Stadt - Immostreet.ch
-Description: Büro mieten in Kanton Basel-Stadt - Immostreet.ch: ImmoStreet.ch hat 300 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Büro mieten in Kanton Basel-Stadt - Immostreet.ch: ImmoStreet.ch hat 303 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -105,7 +105,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-300 Resultate gefunden ·
+303 Resultate gefunden ·
 Büro mieten in Kanton Basel-Stadt
 Preis (aufsteigend)
 Preis (absteigend)
@@ -118,6 +118,109 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Falknerstrasse 13
+2'290
+CHF
+/Monat
+Ihr neues Büro an bester Altstadtlage
+Falknerstrasse 13, 4001 Basel
+Array
+2 Zimmer
+Objekttyp
+Büro
+Zimmer
+2
+An perfektem Standort in der Basler Altstadt bieten Ihnen diese Räumlichkeiten die Chance, Ihr neue…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+St. Alban-Tal 34
+225
+CHF
+Arbeiten mit Stil! Attraktive Bürofläch…
+St. Alban-Tal 34, 4052 Basel
+Array
+Objekttyp
+Büro
+Etage
+Attraktive Büroräumlichkeiten in repräsentativer Wohnliegenschaft an bester Lage. Die Mietfläche üb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Route du fret
+185
+CHF
+Günstige, optimal ausgestattete Büros v…
+Route du fret, 4030 Basel
+Array
+Objekttyp
+Büro
+Am zentralen Kreisel des Euroairport Basel befindet sich der Bürokomplex der Swiss International Ai…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Route du fret
+185
+CHF
+Günstige, klimatisierte, unterteilte un…
+Route du fret, 4030 Basel
+Array
+Objekttyp
+Büro
+Am zentralen Kreisel des Euroairport Basel befindet sich der Bürokomplex der Swiss International Ai…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Route du fret
+195
+CHF
+Ihr Tor zur Welt und zur 3-Land Region:…
+Route du fret, 4030 Basel
+Array
+Objekttyp
+Büro
+Am zentralen Kreisel des Euroairport Basel befindet sich der Bürokomplex der Swiss International Ai…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Güterstrasse 98
+1'140
+CHF
+/Monat
+Neues Büro, Ladenlokal oder Studio
+Güterstrasse 98, 4053 Basel
+Array
+1.5 Zimmer
+42 m2
+Objekttyp
+Büro
+Zimmer
+1.5
+Wohnfläche
+42 m2
+Ideale Lage für ein Büro, eine Kanzlei oder ein kleines Geschäft.An bester Lage, direkt beim Meret …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aeschenvorstadt 55
+271
+CHF
+Am Puls der Stadt: 1A Geschäftslage am …
+Aeschenvorstadt 55, 4051 Basel
+Array
+Objekttyp
+Büro
+Wir vermieten im Zentrum von Basel, wenige Gehminuten vom Bahnhof und der Einkaufsstrasse, Büroräum…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Centralbahnplatz 8
 2'310
 CHF
@@ -157,7 +260,8 @@ E-Mail
 Facebook
 Whatsapp
 Rittergasse 20
-Preis auf Anfrage
+652
+CHF
 Ritterhof - Geschäftshaus an exklusiver…
 Rittergasse 20, 4051 Basel
 Array
@@ -267,23 +371,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Hegenheimerstrasse 37
-230
-CHF
-/Monat
-Atelier / Hobby-Raum / Bastelraum / Lag…
-Hegenheimerstrasse 37, 4055 Basel
-Array
-1 Zimmer
-Objekttyp
-Büro
-Zimmer
-1
-Per 1. Juni oder nach Vereinbarung vermieten wir ein Atelier / Hobby-Raum / Bastelraum / Lager im E…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Riehenring 175
 3'716
 CHF
@@ -339,91 +426,7 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Efringerstrasse 32
-3'893
-CHF
-/Monat
-Mitten im Leben - Arbeiten im Matthäusq…
-Efringerstrasse 32, 4058 Basel
-Array
-Objekttyp
-Büro
-Mitten im Leben. Im Wandel. Das Quartier wird den heutigen Bedürfnissen der Anwohner, Unternehmen u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Riehenring 175
-3'993
-CHF
-/Monat
-Mitten im Leben - Arbeiten im Matthäusq…
-Riehenring 175, 4058 Basel
-Array
-Objekttyp
-Büro
-Mitten im Leben. Im Wandel. Das Quartier wird den heutigen Bedürfnissen der Anwohner, Unternehmen u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Riehenring 175
-4'858
-CHF
-/Monat
-Mitten im Leben - Arbeiten im Matthäusq…
-Riehenring 175, 4058 Basel
-Array
-Objekttyp
-Büro
-Mitten im Leben. Im Wandel. Das Quartier wird den heutigen Bedürfnissen der Anwohner, Unternehmen u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Efringerstrasse 32
-4'126
-CHF
-/Monat
-Mitten im Leben - Arbeiten im Matthäusq…
-Efringerstrasse 32, 4058 Basel
-Array
-Objekttyp
-Büro
-Mitten im Leben. Im Wandel. Das Quartier wird den heutigen Bedürfnissen der Anwohner, Unternehmen u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Riehenring 175
-5'031
-CHF
-/Monat
-Mitten im Leben - Arbeiten im Matthäusq…
-Riehenring 175, 4058 Basel
-Array
-Objekttyp
-Büro
-Mitten im Leben. Im Wandel. Das Quartier wird den heutigen Bedürfnissen der Anwohner, Unternehmen u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Efringerstrasse 32
-4'932
-CHF
-/Monat
-Mitten im Leben - Arbeiten im Matthäusq…
-Efringerstrasse 32, 4058 Basel
-Array
-Objekttyp
-Büro
-Mitten im Leben. Im Wandel. Das Quartier wird den heutigen Bedürfnissen der Anwohner, Unternehmen u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 15
+Seite 1 von 16
 1
 2
 3

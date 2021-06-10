@@ -152,7 +152,6 @@ TI
 WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
-NEU
 PORSCHE
 Panamera 4.8 V8 4S PDK
 CHF 34'000
@@ -174,7 +173,6 @@ Panamera 4.8 V8 4S PDK
 CHF 34'000
 Merken
 ab CHF 366/Monat
-NEU
 PORSCHE
 Boxster 3.2 S
 CHF 23'600
@@ -365,27 +363,6 @@ CHF 21'500
 Merken
 ab CHF 231/Monat
 PORSCHE
-Cayenne Turbo S "FAB Design"
-CHF 79'900
-ab CHF 859/Monat
-06.2013
-Automat
-59'900 km
-Benzin
-Allradantrieb
-grau
-551 PS
-ZH
-Merken
-PORSCHE
-Cayenne Turbo S "FAB Design"
-06.2013
-551 PS
-59'900 km
-CHF 79'900
-Merken
-ab CHF 859/Monat
-PORSCHE
 Boxster 3.2 260 S
 CHF 14'400
 ab CHF 155/Monat
@@ -450,26 +427,48 @@ Merken
 ab CHF 505/Monat
 NEU
 PORSCHE
-CAYENNE E-Hybrid Modell 2021
-CHF 125'900
-ab CHF 1353/Monat
-03.2021
+Cayenne GTS
+CHF 46'900
+ab CHF 504/Monat
+10.2012
 Automat
-3'800 km
-Elektro
+64'300 km
+Benzin
 Allradantrieb
-sonstiges
-340 PS
-AG
+silber
+420 PS
+SZ
 Merken
 PORSCHE
-CAYENNE E-Hybrid Modell 2021
-03.2021
-340 PS
-3'800 km
-CHF 125'900
+Cayenne GTS
+10.2012
+420 PS
+64'300 km
+CHF 46'900
 Merken
-ab CHF 1353/Monat
+ab CHF 504/Monat
+NEU
+PORSCHE
+Cayenne Coupé 4.0 V8 Turbo TipT
+CHF 154'900
+ab CHF 1664/Monat
+04.2019
+Automat
+16'500 km
+Benzin
+Allradantrieb
+orange
+549 PS
+ZH
+Merken
+PORSCHE
+Cayenne Coupé 4.0 V8 Turbo TipT
+04.2019
+549 PS
+16'500 km
+CHF 154'900
+Merken
+ab CHF 1664/Monat
 1
 1
 2

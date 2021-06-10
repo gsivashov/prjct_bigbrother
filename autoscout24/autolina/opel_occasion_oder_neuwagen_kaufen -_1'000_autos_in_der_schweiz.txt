@@ -154,6 +154,47 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 OPEL
+Vivaro Kaw. 2.9 t L1 H1 2.0 CDTI 114
+CHF 3'000
+12.2010
+Handschaltung
+224'183 km
+Diesel
+Vorderradantrieb
+weiss
+114 PS
+FR
+Merken
+OPEL
+Vivaro Kaw. 2.9 t L1 H1 2.0 CDTI ...
+12.2010
+114 PS
+224'183 km
+CHF 3'000
+Merken
+NEU
+OPEL
+MOKKA X 1.4i Turbo Edition
+CHF 19'600
+ab CHF 231/Monat
+02.2019
+Handschaltung
+5'000 km
+Benzin
+Vorderradantrieb
+schwarz
+140 PS
+ZH
+Merken
+OPEL
+MOKKA X 1.4i Turbo Edition
+02.2019
+140 PS
+5'000 km
+CHF 19'600
+Merken
+ab CHF 231/Monat
+OPEL
 Vivaro 2.0i
 CHF 6'500
 ab CHF 74/Monat
@@ -242,27 +283,6 @@ CHF 26'000
 Merken
 ab CHF 280/Monat
 OPEL
-CORSA 1.2 Edition Black Style NAV DAB SHZ PDC 16Z
-CHF 18'700
-ab CHF 221/Monat
--
-Handschaltung
-10 km
-Benzin
-Vorderradantrieb
-weiss
-100 PS
-ZH
-Merken
-OPEL
-CORSA 1.2 Edition Black Style NAV...
--
-100 PS
-10 km
-CHF 18'700
-Merken
-ab CHF 221/Monat
-OPEL
 Insignia Sports Tourer 2.0 T Edition
 CHF 8'900
 ab CHF 101/Monat
@@ -325,6 +345,25 @@ Astra GTC 2.0 16V 240 Turbo OPC
 CHF 14'900
 Merken
 ab CHF 161/Monat
+OPEL
+Astra 1.8i 16V 140
+CHF 3'500
+12.2007
+Handschaltung
+156'000 km
+Benzin
+Vorderradantrieb
+grau
+140 PS
+FR
+Merken
+OPEL
+Astra 1.8i 16V 140
+12.2007
+140 PS
+156'000 km
+CHF 3'500
+Merken
 OPEL
 Grandland X 1.6 T Excellence
 CHF 26'000
@@ -434,56 +473,6 @@ Vivaro Cargo 4x4 Doppelkabine 2.9...
 CHF 44'870
 Merken
 ab CHF 482/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-OPEL
-Mokka 1.4T ecoTEC 4x4 Cosmo S/S
-CHF 13'900
-ab CHF 150/Monat
-03.2014
-Handschaltung
-99'500 km
-Benzin
-Allradantrieb
-silber
-140 PS
-GL
-Merken
-OPEL
-Mokka 1.4T ecoTEC 4x4 Cosmo S/S
-03.2014
-140 PS
-99'500 km
-CHF 13'900
-Merken
-ab CHF 150/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-OPEL
-Insignia Sports Tourer 2.0 T GSi 4x4 Aut
-CHF 58'900
-ab CHF 633/Monat
--
-Automat
-25 km
-Benzin
-Allradantrieb
-schwarz
-230 PS
-GL
-Merken
-OPEL
-Insignia Sports Tourer 2.0 T GSi ...
--
-230 PS
-25 km
-CHF 58'900
-Merken
-ab CHF 633/Monat
 35-Punkte-Check
 Kostenlose Probefahrt
 Garantieversprechen

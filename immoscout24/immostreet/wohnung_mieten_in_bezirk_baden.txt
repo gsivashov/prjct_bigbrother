@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/bezirk-baden/
 Title: Wohnung mieten in Bezirk Baden - Immostreet.ch
-Description: Wohnung mieten in Bezirk Baden - Immostreet.ch: ImmoStreet.ch hat 693 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in Bezirk Baden - Immostreet.ch: ImmoStreet.ch hat 691 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-693 Resultate gefunden ·
+691 Resultate gefunden ·
 Wohnung mieten in Bezirk Baden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,368 +131,86 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Rathausgasse 20
-1'900
+Pilgerstrasse 45
+1'755
 CHF
 /Monat
-Moderne Altstadtwohnung "Die perfekte W…
-Rathausgasse 20, 5400 Baden
+Ihr neues Zuhause über zwei Etagen
+Pilgerstrasse 45, 5405 Dättwil AG
 Array
-2.5 Zimmer
-67 m2
+3.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
-Wohnfläche
-67 m2
-Nachmieter gesucht ab 01.08.2021 oder nach Vereinbarung für eine zentrale 2½-Zimmer-Wohnung. Einige…
+3.5
+Per sofort oder nach Vereinbarung vermieten wir diese ansprechende 3.5-Zimmerwohnung in Baden-Dättw…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bahnhofstrasse 28
-2'320
+Mellingerstr. 56a + 60a
+1'480
 CHF
 /Monat
-Geniale Attikawohnung gesucht?
-Bahnhofstrasse 28, 5400 Baden
+Stadtnahe sonnige 3-Zimmerwohnung in äl…
+Mellingerstr. 56a + 60a, 5400 Baden
 Array
-2.5 Zimmer
-73 m2
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Zu vermieten per 1.Juli in Baden (Stadtzentrum / Schadenmühleplatz) an der Mellingerstrasse 60a in …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bollstrasse 2
+1'580
+CHF
+/Monat
+Tolle Maisonettewohnung
+Bollstrasse 2, 5442 Fislisbach
+Array
+4 Zimmer
+93 m2
 Objekttyp
 Wohnung, Attikawohnung
 Zimmer
-2.5
-Wohnfläche
-73 m2
-Wir vermieten diese äusserst exklusive 2.5-Zimmer-Attikawohnung an sehr zentraler Lage am Bahnhof, …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gartenweg 2/4
-1'805
-CHF
-/Monat
-Ruhige Lage im Grünen
-Gartenweg 2/4, 5436 Würenlos
-Array
-4.5 Zimmer
-93 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-93 m2
-In dieser gepflegten und kinderfreundlichen Überbauung vermieten wir per sofort oder nach Vereinbar…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grabäckerstrasse 6
-1'760
-CHF
-/Monat
-Modern, idyllisch und doch Zentral Wohn…
-Grabäckerstrasse 6, 8957 Spreitenbach
-Array
-2.5 Zimmer
-62 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-62 m2
-An idyllischer und dennoch sehr zentraler Wohnlage in Spreitenbach vermieten wir diese moderne Wohn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schulstrasse 20
-1'690
-CHF
-/Monat
-Moderne grosszügige Wohnung mit Balkon …
-Schulstrasse 20, 5417 Untersiggenthal
-Array
-4.5 Zimmer
-81 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-81 m2
-In ruhiger, grüner Umgebung und dennoch zentraler Lage, steht Ihnen eine total sanierte Wohnung zur…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 53
-1'460
-CHF
-/Monat
-3.5-Zimmerwohnung sucht Nachmieter
-Bahnhofstrasse 53, 8957 Spreitenbach
-Array
-3.5 Zimmer
-72 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-72 m2
-Per 1. September 2021 oder nach Vereinbarung vermieten wir diese 3.5-Zimmerwohnung mit ca. 75 m2 im…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grossfeld 1
-1'390
-CHF
-/Monat
-Top moderne, geräumige und günstige Woh…
-Grossfeld 1, 5512 Wohlenschwil
-Array
-4 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wir haben die perfekte Wohnung für Sie!An der Grossfeldstrasse 1, 5512 Wohlenschwil vermieten wir e…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchstrasse 9A
-1'560
-CHF
-/Monat
-Helle und gemütliche Wohnung
-Kirchstrasse 9A, 5413 Birmenstorf AG
-Array
-3 Zimmer
-69 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-69 m2
-Eine ruhige, sehr gemütliche, sonnige Wohnung.Die Wohnung ist sehr hell!Ist nach Vereinbarung zu ve…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stadtbachstr.12
-1'510
-CHF
-/Monat
-Heimelige Single Wohnung
-Stadtbachstr.12, 5400 Baden
-Array
-3 Zimmer
-58 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-58 m2
-Diese heimelige, helle und zentrale 3 Zimmerwohnung steht ab sofort zur Verfügung. Sie befindet sic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zentralstrasse 101
-1'430
-CHF
-/Monat
-Zuhause im Hochhaus
-Zentralstrasse 101, 5430 Wettingen
-Array
-3.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-77 m2
-Ab 1. August 2021 oder nach Vereinbarung vermieten wir an zentraler Lage eine helle 3.5-Zimmer-Wohn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lochmattstrasse 3b
-1'710
-CHF
-/Monat
-IHR NEUES ZUHAUSE IM GRÜNEN
-Lochmattstrasse 3b, 5417 Untersiggenthal
-Array
-4 Zimmer
-91 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
 4
 Wohnfläche
-91 m2
-Die Lochmattstrasse liegt am Ortseingang von Untersiggenthal in einem ruhigen, kinderfreundlichen W…
+93 m2
+Wir vermieten per sofort heimelige Dach-Maisonettewohnung an ruhiger Lage. Die Wohnung befindet sic…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Aspstrasse 20
-1'690
+Ländliweg 8
+2'290
 CHF
 /Monat
-Ihr neues Zuhause mit Aussicht!
-Aspstrasse 20, 5608 Stetten AG
-Array
-3.5 Zimmer
-89 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-89 m2
-Wir sind auf der Suche nach einem neuen Mieter für diese attraktive 3.5-Zimmerwohnung in Stetten AG…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hiltibergstrasse 36C
-2'870
-CHF
-/Monat
-LEBEN WIE IN EINEM EINFAMILIENHAUS MIT…
-Hiltibergstrasse 36C, 5442 Fislisbach
+Hier endet Ihre Wohnungssuche
+Ländliweg 8, 5400 Baden
 Array
 4.5 Zimmer
-145 m2
+95 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-145 m2
-Etage
-SONNIGES LIEBHABEROBJEKT AM HILTIBERG MIT TRAUMHAFTER AUSSICHTDie hanglagige, Süd-West ausgerichtet…
+95 m2
+Per 01.09.2021 vermieten wir diese schöne und moderne 4.5-Zimmerwohnung.Die Wohnung bietet Ihnen fo…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Tägerhardstrasse 23
-1'150
+Haselstrasse 9
+950
 CHF
 /Monat
-Gemütliche 2 Zimmer Wohnung in Wettingen
-Tägerhardstrasse 23, 5430 Wettingen
-Array
-2 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Ab sofort wird diese Schöne 2 Zimmer Wohnung in Wettigen vermietet. Die Waschmaschiene im Keller wi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schönbühlstrasse 23
-1'300
-CHF
-/Monat
-Wohntraum für Familie
-Schönbühlstrasse 23, 5442 Fislisbach
-Array
-3 Zimmer
-71 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-71 m2
-Wir vermieten per 01.10.2021 diese wunderschöne und moderne 3.0-Zimmerwohnung an ruhiger Lage.Diese…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Loonstrasse 7
-1'250
-CHF
-/Monat
-Hübsche Singlewohnung sucht einen Nachm…
-Loonstrasse 7, 5443 Niederrohrdorf
-Array
-2.5 Zimmer
-56 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-56 m2
-Die attraktive 2.5-Zimmerwohnung ist beziehbar per 01.07.2021 oder nach Vereinbarung und befindet s…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dynamostrasse 1
-2'280
-CHF
-/Monat
-Charmantes Studio im Herzen der Stadt B…
-Dynamostrasse 1, 5400 Baden
-Array
-3 Zimmer
-74 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-74 m2
-Wer keine "Null-acht-fünfzehn-Wohnung" sucht, sondern etwas Spezielleres, sollte einen Blick hinein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dynamostrasse 1
-1'550
-CHF
-/Monat
-Charmantes Studio im Herzen der Stadt B…
-Dynamostrasse 1, 5400 Baden
-Array
-2.5 Zimmer
-54 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-54 m2
-Klein, aber fein - einfache, aber charmante Wohnung an zentralster Lage in der City von Baden
-In…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dynamostrasse 1
-1'020
-CHF
-/Monat
-Charmantes Studio im Herzen der Stadt B…
-Dynamostrasse 1, 5400 Baden
+Wohnung sucht Single
+Haselstrasse 9, 5400 Baden
 Array
 1 Zimmer
 19 m2
@@ -502,29 +220,302 @@ Zimmer
 1
 Wohnfläche
 19 m2
-Klein, aber fein - ein "Bijou" an zentralster Lage - in der City von Baden
-In gepflegter Stadt-L…
+Per 01.06.2021 vermieten wir diese schöne 1.0-Zimmerwohnung. Die Wohnung bietet Ihnen folgende Anne…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Poststrasse 113
-1'890
+Mellingerstrasse 128 b
+1'450
 CHF
 /Monat
-Grosszügige Wohnung
-Poststrasse 113, 8957 Spreitenbach
+Erleben Sie die top moderne Singlewohnu…
+Mellingerstrasse 128 b, 5400 Baden
+Array
+2.5 Zimmer
+50 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+50 m2
+Per 01.08.2021 sucht diese helle 2.5-Zimmerwohnung einen Nachmieter. Die nachstehenden Vorzüge erwa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Winernstrasse 28
+1'088
+CHF
+/Monat
+Schöne 2.5 Zimmer- Wohnung in Wettingen
+Winernstrasse 28, 5430 Wettingen
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Die Wohnung wird von der Verwaltung «Lägern Wohnen» vermietet undbefindet sich in einer ruhigen und…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Moosäckerstrasse 10
+1'590
+CHF
+/Monat
+Wohnen im Grünen
+Moosäckerstrasse 10, 5442 Fislisbach
 Array
 3.5 Zimmer
-100 m2
+83 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-100 m2
+83 m2
+Die Wohnung verfügt über: - Grosszügige, helle Räume- Neue offene Küche (hellgraue Fronten) - Grani…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Glattlerweg 12
+1'660
+CHF
+/Monat
+Neu-Sanierte
+Glattlerweg 12, 8957 Spreitenbach
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Ruhige, sonnige 4-Zimmerwohnung in SpreitenbachDie Saubere und gepflegte Liegenschaft mit guten Mie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wiesentalstrasse 8b
+2'830
+CHF
+/Monat
+Idyllisch, ruhig & trotzdem stadtnah Wo…
+Wiesentalstrasse 8b, 8962 Bergdietikon
+Array
+4.5 Zimmer
+147 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+4.5
+Wohnfläche
+147 m2
 Etage
-[Bei den Fotos handelt es sich um Muster einer ähnlichen Wohnung.]Wir vermieten in Spreitenbach per…
+Wir vermieten per 1. Oktober 2021 diese traumhafte 4.5-Zimmer-Maisonette-Wohnung mit topmodernen In…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ahornweg 15
+2'010
+CHF
+/Monat
+grosszügig & hell an zentralster Lage
+Ahornweg 15, 8956 Killwangen
+Array
+4.5 Zimmer
+98 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+98 m2
+Die Wohnung bietet viele Annehmlichkeiten wie:- Küche mit Schiebetüre, Geschirrspüler und zusätzlic…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zileggstrasse 41
+1'850
+CHF
+/Monat
+RUHIG MIT WEITSICHT
+Zileggstrasse 41, 5608 Stetten AG
+Array
+4.5 Zimmer
+135 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+135 m2
+Diese schöne 4.5-Zimmer Attikawohnung mit grosszügigem Innenausbau, eignet sich ideal für ein Paar …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Brisgi 20
+1'890
+CHF
+/Monat
+Wohnen an ruhiger Lage mit schöner Auss…
+Im Brisgi 20, 5400 Baden
+Array
+4.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+105 m2
+Nebst dem praktischen Standort sowie der tollen Aussicht, bietet Ihnen dieses bezaubernde Zuhause e…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Shopping-Center 9
+856
+CHF
+/Monat
+Klein aber fein!
+Shopping-Center 9, 8957 Spreitenbach
+Array
+1.5 Zimmer
+42 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+42 m2
+Geniessen Sie die Vorteile des Hochhauses mit direktem Zugang zum Shopping Center. Die Wohnung ist …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hofacherstrasse 3
+1'570
+CHF
+/Monat
+Helle Wohnung wartet auf Sie
+Hofacherstrasse 3, 5417 Untersiggenthal
+Array
+4.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+80 m2
+IHR GESCHENK: MIELE Saugroboter Scout RX2
+Beim Abschluss eines Mietvertrages erhalten Sie einen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ringstrasse 21
+1'440
+CHF
+/Monat
+moderne 2.5 Zimmer Dachwohnung mitten i…
+Ringstrasse 21, 5452 Oberrohrdorf
+Array
+2.5 Zimmer
+50 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+2.5
+Wohnfläche
+50 m2
+Attraktive Maisonettewohnung
+Die Wohnung befindet sich im Dachgeschoss des Gasthof zum Roten Lö…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ringstrasse 21
+1'440
+CHF
+/Monat
+moderne 2.5 Zimmer Dachwohnung mitten i…
+Ringstrasse 21, 5452 Oberrohrdorf
+Array
+2.5 Zimmer
+50 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+50 m2
+Attraktive Maisonettewohnung
+Die Wohnung befindet sich im Dachgeschoss des Gasthof zum Roten Lö…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rotzenbühlstr. 24
+1'350
+CHF
+/Monat
+Ideal für Singles!
+Rotzenbühlstr. 24, 8957 Spreitenbach
+Array
+2.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+65 m2
+Wir vermieten per 01. September 2021 oder nach Vereinbarung eine attraktive Wohnung. Hier einige Hi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'680
+CHF
+/Monat
+3.5 Zimmer Wohnung
+Adresse auf Anfrage, 5417 Untersiggenthal
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Erstvermietung nach Renovation.Modern, grosszügig und idyllisch! Machen Sie sich selbst ein Bild vo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wettingerstrasse 19
+1'140
+CHF
+/Monat
+2.0 Wohnung in Baden; Zentrale Lage
+Wettingerstrasse 19, 5400 Baden
+Array
+2 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Miete 1140.- Fr. inkl. NebenkostenDepot 3420.- Fr.2.EtageRenovierte Wohnung!Grosszügige, helle Wohn…
 Teilen
 E-Mail
 Facebook

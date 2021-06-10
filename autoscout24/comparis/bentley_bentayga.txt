@@ -568,11 +568,11 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Bentley
-(303)
+(311)
 Bentley Bentayga Occasion
-(26)
+(25)
 Bentley Bentayga Vorführwagen
-(3)
+(4)
 Aufbau
 Bentley Bentayga Geländewagen
 (28)
@@ -586,11 +586,11 @@ Bentley Bentayga
 (29)
 Modelle
 Bentley Continental
-(180)
+(187)
 Bentley Arnage
 (23)
 Bentley Mulsanne
-(18)
+(19)
 Bentley Flying Spur
 (16)
 Bentley Turbo
@@ -614,6 +614,28 @@ weniger
 29 Inserate
 0 Inserate
 0 Inserate
+BENTLEY Bentayga V8
+4.5
+08.06.2021
+Vorführwagen
+08.2019, Automat, Benzin
+80 km, 549 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 189'900
+ab CHF 3'468 / Monat
+BENTLEY Bentayga V8
+4.0
+07.06.2021
+Occasion
+03.2021, Automat, Benzin
+1'605 km, 549 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 249'720
+ab CHF 4'561 / Monat
 BENTLEY Bentayga W12
 4.0
 07.06.2021
@@ -625,17 +647,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 149'900
 ab CHF 2'738 / Monat
-BENTLEY Bentayga V8
-4.0
-07.06.2021
-Occasion
-03.2021, Automat, Benzin
-500 km, 549 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 249'720
-ab CHF 4'561 / Monat
 BENTLEY Bentayga V8 Diesel
 4.5
 31.05.2021
@@ -669,16 +680,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 149'500
 ab CHF 2'730 / Monat
-BENTLEY Bentayga W12 First Edition
-19.05.2021
-Occasion
-04.2016, Automat, Benzin
-72'600 km, 608 PS, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 136'800
-ab CHF 2'498 / Monat
 BENTLEY Bentayga V8
 4.0
 12.05.2021

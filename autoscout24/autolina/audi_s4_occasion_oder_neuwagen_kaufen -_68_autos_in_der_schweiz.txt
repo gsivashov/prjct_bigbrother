@@ -217,6 +217,28 @@ S4 Avant 3.0 V6 TFSI quattro S-Tr...
 CHF 16'000
 Merken
 ab CHF 172/Monat
+NEU
+AUDI
+S4 Avant
+CHF 38'800
+ab CHF 417/Monat
+06.2017
+Automat
+94'000 km
+Benzin
+Allradantrieb
+schwarz
+354 PS
+SG
+Merken
+AUDI
+S4 Avant
+06.2017
+354 PS
+94'000 km
+CHF 38'800
+Merken
+ab CHF 417/Monat
 AUDI
 S4 Avant 3.0 TFSI quattro tiptronic
 CHF 57'900
@@ -385,27 +407,6 @@ Merken
 ab CHF 429/Monat
 AUDI
 S4 Avant
-CHF 49'900
-ab CHF 536/Monat
-03.2017
-Automat
-37'200 km
-Benzin
-Allradantrieb
-schwarz
-354 PS
-ZH
-Merken
-AUDI
-S4 Avant
-03.2017
-354 PS
-37'200 km
-CHF 49'900
-Merken
-ab CHF 536/Monat
-AUDI
-S4 Avant
 CHF 47'790
 ab CHF 514/Monat
 11.2017
@@ -431,7 +432,7 @@ CHF 57'900
 ab CHF 622/Monat
 10.2018
 Automat
-23'900 km
+24'900 km
 Benzin
 Allradantrieb
 blau
@@ -442,7 +443,7 @@ AUDI
 S4 Avant
 10.2018
 354 PS
-23'900 km
+24'900 km
 CHF 57'900
 Merken
 ab CHF 622/Monat

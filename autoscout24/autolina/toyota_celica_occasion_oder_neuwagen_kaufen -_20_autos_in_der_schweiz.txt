@@ -175,7 +175,7 @@ CHF 7'990
 Merken
 TOYOTA
 Celica 1.8
-CHF 2'990
+CHF 2'499
 10.1995
 Handschaltung
 162'000 km
@@ -190,7 +190,7 @@ Celica 1.8
 10.1995
 116 PS
 162'000 km
-CHF 2'990
+CHF 2'499
 Merken
 35-Punkte-Check
 Kostenlose Probefahrt
@@ -198,10 +198,10 @@ Garantieversprechen
 Faires Eintauschangebot
 TOYOTA
 Celica 1.8 VVT-i
-CHF 5'799
+CHF 5'800
 06.2000
 Handschaltung
-138'020 km
+134'000 km
 Benzin
 Vorderradantrieb
 blau
@@ -212,8 +212,8 @@ TOYOTA
 Celica 1.8 VVT-i
 06.2000
 143 PS
-138'020 km
-CHF 5'799
+134'000 km
+CHF 5'800
 Merken
 TOYOTA
 Celica 1.8 VVT-i

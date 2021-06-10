@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-diepoldsau/
 Title: Wohnungen & Häuser mieten in Diepoldsau - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Diepoldsau - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Diepoldsau - Immostreet.ch: ImmoStreet.ch hat 17 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-18 Resultate gefunden ·
+17 Resultate gefunden ·
 Wohnungen & Häuser mieten in Diepoldsau
 Preis (aufsteigend)
 Preis (absteigend)
@@ -435,26 +435,6 @@ Array
 Objekttyp
 Büro
 Facts:helle und grosszügige Räumlichkeiten [beheizt / klimatisiert]hochwertiger Au…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchweg 11
-1'850
-CHF
-/Monat
-Neu Renovierte 4.5 Zimmerwohnung
-Kirchweg 11, 9444 Diepoldsau
-Array
-4.5 Zimmer
-125 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-125 m2
-Diese Wohnung ist neu Renoviert und hat einen grossen und kleinen Balkon.Es hat 6 Wohnungen in dies…
 Teilen
 E-Mail
 Facebook

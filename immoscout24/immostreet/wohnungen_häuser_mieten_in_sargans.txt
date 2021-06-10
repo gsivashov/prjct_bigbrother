@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-sargans/
 Title: Wohnungen & Häuser mieten in Sargans - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Sargans - Immostreet.ch: ImmoStreet.ch hat 46 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Sargans - Immostreet.ch: ImmoStreet.ch hat 42 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-46 Resultate gefunden ·
+42 Resultate gefunden ·
 Wohnungen & Häuser mieten in Sargans
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,79 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+St. Gallerstrasse 18
+1'850
+CHF
+/Monat
+moderne 4.5-Zimmerwohnung mit grossem B…
+St. Gallerstrasse 18, 7320 Sargans
+Array
+4.5 Zimmer
+107 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+107 m2
+Etage
+Die neuwertige Wohnung befindet sich in der Überbauung St. Gallerstrasse 18 und 20 mit gemeinschaft…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Salamanderweg 7
+1'780
+CHF
+/Monat
+Moderne, komfortable 3.5 Zimmer, sehr r…
+Salamanderweg 7, 7320 Sargans
+Array
+3.5 Zimmer
+96 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+96 m2
+Zwei Tiefgaragenplätze können für je CHF 120.- dazu gemietet werden. Mit dem Bahnhofpark Sargans en…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+St. Gallerstrasse 83A
+300
+CHF
+/Monat
+Bastelraum in Sargans zu vermieten
+St. Gallerstrasse 83A, 7320 Sargans
+Array
+Objekttyp
+Verkauf, Lager
+Benötigen Sie einen Bastel-/Hobbyraum in Sargans?Ab sofort oder nach Vereinbarung vermieten wir ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grossfeldstrasse 44a
+1'480
+CHF
+/Monat
+Zentral mit wunderbarer Aussicht auf de…
+Grossfeldstrasse 44a, 7320 Sargans
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Etage
+Gemütliche 3 .5-Zimmer-Wohnung mit ca. 77 m2 WohnflächeBalkon mit toller Bergsicht…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bahnhofstrasse 8
 700
 CHF
@@ -243,26 +316,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bahnhofstrasse 8
-700
-CHF
-/Monat
-Studio in Sargans Nähe des Bahnhofs Zu …
-Bahnhofstrasse 8, 7320 Sargans
-Array
-1 Zimmer
-20 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-20 m2
-Studio mit eigenem Bad Inklusive Parkplatz und Internet günstig zu vermieten im Zentrum Sargans 2 M…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Zürcherstrasse 70A
 2'260
 CHF
@@ -280,24 +333,6 @@ Wohnfläche
 141 m2
 Etage
 Exklusive Dachwohnung an zentraler Lage in SargansAb sofort oder nach Vereinbarung vermieten wir di…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ragazerstrasse 31
-1'865
-CHF
-/Monat
-Modernes Wohnen am Bahnhof Ost
-Ragazerstrasse 31, 7320 Sargans
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Etage
-Neuwertige 3 1/2-Zimmerwohnung mit 95m² WohnflächeDie Überbauung Bahnhof Ost kombiniert hohen Wohnk…
 Teilen
 E-Mail
 Facebook
@@ -352,27 +387,6 @@ E-Mail
 Facebook
 Whatsapp
 Städtchenstrasse 95
-2'080
-CHF
-/Monat
-Familienfreundliche Neubauwohnung im Er…
-Städtchenstrasse 95, 7320 Sargans
-Array
-4.5 Zimmer
-101 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-101 m2
-Etage
-Ab sofort oder nach Vereinbarung vermieten wir diese attraktive und zentral gelegene Neubauwohnung …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Städtchenstrasse 95
 2'040
 CHF
 /Monat
@@ -389,48 +403,6 @@ Wohnfläche
 101 m2
 Etage
 Ab sofort oder nach Vereinbarung vermieten wir diese attraktive und zentral gelegene Neubauwohnung …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zürcherstrasse
-1'750
-CHF
-/Monat
-3 Zimmer Serviced Business Apartment
-Zürcherstrasse, 7320 Sargans
-Array
-3 Zimmer
-60 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-3
-Wohnfläche
-60 m2
-English below:
-Wunderschön gelegen liegt das Apartmenthaus in Sargans. Hochwertig renovierte (20…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zürcherstrasse 34A
-1'350
-CHF
-/Monat
-Serviced Apartment 1.5 Zimmer mit Reini…
-Zürcherstrasse 34A, 7320 Sargans
-Array
-1.5 Zimmer
-35 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-35 m2
-English below:
-Wunderschön gelegen liegt das Apartmenthaus in Sargans. Hochwertig renovierte (20…
 Teilen
 E-Mail
 Facebook
@@ -508,6 +480,27 @@ Zimmer
 Wohnfläche
 113 m2
 Die Wohnungen in der Überbauung Malerva verströmen eine wunderbare, positive Atmosphäre. Am Rande v…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofpark 4b
+1'730
+CHF
+/Monat
+Schöne Wohnlage beim Bahnhof
+Bahnhofpark 4b, 7320 Sargans
+Array
+3.5 Zimmer
+92 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+92 m2
+Etage
+Die Grundrisse der Wohnungen sind interessant gestaltet und können auf vielseitige Weise eingericht…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-urdorf/
 Title: Wohnungen & Häuser mieten in Urdorf - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Urdorf - Immostreet.ch: ImmoStreet.ch hat 69 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Urdorf - Immostreet.ch: ImmoStreet.ch hat 70 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-69 Resultate gefunden ·
+70 Resultate gefunden ·
 Wohnungen & Häuser mieten in Urdorf
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,62 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+In der Fadmatt 41
+1'720
+CHF
+/Monat
+Wohnen mit Aussicht ins Grüne an zentra…
+In der Fadmatt 41, 8902 Urdorf
+Array
+3.5 Zimmer
+74 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+74 m2
+Diese sanierte Wohnung befindet sich in einer grünen Umgebung. Einkaufsmöglichkeiten und die öffent…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Stüdacker 16
+2'390
+CHF
+/Monat
+moderne Wohnung in ruhigem Quartier
+Im Stüdacker 16, 8902 Urdorf
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Bodenbeläge:
+- Wohnzimmer, Korridor, Nasszellen und Küche mit keramischen Platten
+- Schlaf- und K…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schlierenstrasse 9
+1'990
+CHF
+/Monat
+2.5-Zimmerwohnung im Herzen von Urdorf
+Schlierenstrasse 9, 8902 Urdorf
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wir vermieten per 1. Juli 2021 oder nach Vereinbarung diese helle und charmante 2.5-Zimmerwohnung, …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bachstrasse 13
 1'920
 CHF
@@ -254,26 +310,6 @@ Zimmer
 Wohnfläche
 93 m2
 Wir vermieten per 1. Juli 2021 eine schöne helle und grosszügige 4.5 Zimmer Wohnung. Die Liegenscha…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Birmensdorferstr. 81
-1'890
-CHF
-/Monat
-Moderne Wohnung an zentraler Lage
-Birmensdorferstr. 81, 8902 Urdorf
-Array
-2.5 Zimmer
-71 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-71 m2
-Wir vermieten per 16.08.2021 diese helle Wohnung mit folgendem Ausbaustandard:Parkett im Wo…
 Teilen
 E-Mail
 Facebook
@@ -458,46 +494,6 @@ Zimmer
 Wohnfläche
 180 m2
 Dieses wunderschöne Haus liegt an einer zentralen Lage mitten in Urdorf. Bereits bei der Einfahrt f…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schlierenstr. 43
-1'550
-CHF
-/Monat
-Wohnen an ruhiger Lage, Nähe Limmattals…
-Schlierenstr. 43, 8902 Urdorf
-Array
-2 Zimmer
-54 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-54 m2
-Per 01.07.2021 vermieten wir eine schöne 2-Zimmerwohnung im Erdg. an ruhiger Lage. Die Wohnung ist …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Steinackerstrasse 36
-530
-CHF
-/Monat
-Kleines, ruhiges Büro zu vermieten
-Steinackerstrasse 36, 8902 Urdorf
-Array
-1 Zimmer
-21 m2
-Objekttyp
-Büro
-Zimmer
-1
-Wohnfläche
-21 m2
-Wir vermieten ab sofort oder nach Vereinbarung ein ruhiges Büro in der Steinackerstrasse 36 in 8902…
 Teilen
 E-Mail
 Facebook

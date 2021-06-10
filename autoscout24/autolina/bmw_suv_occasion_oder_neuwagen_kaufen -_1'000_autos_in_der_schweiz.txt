@@ -154,7 +154,6 @@ TI
 WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
-NEU
 BMW
 X5 F15 30d xDrive
 CHF 58'000
@@ -239,27 +238,6 @@ X5 xDrive M Steptronic
 CHF 31'900
 Merken
 ab CHF 343/Monat
-BMW
-X6 xDrive 40d M Sport Edition
-CHF 36'900
-ab CHF 397/Monat
-03.2013
-Automat
-38'700 km
-Diesel
-Allradantrieb
-schwarz
-306 PS
-ZH
-Merken
-BMW
-X6 xDrive 40d M Sport Edition
-03.2013
-306 PS
-38'700 km
-CHF 36'900
-Merken
-ab CHF 397/Monat
 BMW
 X6 E71 40d xDrive
 CHF 17'800
@@ -365,114 +343,136 @@ CHF 6'900
 Merken
 NEU
 BMW
-X2 xDrive 20d M Sport Steptronic
-CHF 35'900
-ab CHF 386/Monat
-10.2018
+X5 xDrive 30d Steptronic I Euro 6 I 7 Plätze I Panoramadach
+CHF 43'800
+ab CHF 471/Monat
+04.2017
 Automat
-23'900 km
+56'000 km
 Diesel
 Allradantrieb
 weiss
-190 PS
-ZH
+258 PS
+LU
 Merken
 BMW
-X2 xDrive 20d M Sport Steptronic
-10.2018
-190 PS
-23'900 km
-CHF 35'900
+X5 xDrive 30d Steptronic I Euro 6...
+04.2017
+258 PS
+56'000 km
+CHF 43'800
 Merken
-ab CHF 386/Monat
+ab CHF 471/Monat
 NEU
 BMW
-X1 xDrive 18d M Sport
-CHF 49'500
-ab CHF 532/Monat
+X7 xDrive M50i Steptronic
+CHF 148'900
+ab CHF 1600/Monat
 01.2021
 Automat
 10 km
-Diesel
-Allradantrieb
-schwarz
-150 PS
-GR
-Merken
-BMW
-X1 xDrive 18d M Sport
-01.2021
-150 PS
-10 km
-CHF 49'500
-Merken
-ab CHF 532/Monat
-NEU
-BMW
-X2 xDrive 25e M Sport
-CHF 58'700
-ab CHF 631/Monat
-01.2021
-Automat
-10 km
-Plug-in-Hybrid Benzin/Elektro
-Allradantrieb
-schwarz
-125 PS
-GR
-Merken
-BMW
-X2 xDrive 25e M Sport
-01.2021
-125 PS
-10 km
-CHF 58'700
-Merken
-ab CHF 631/Monat
-NEU
-BMW
-X4 xDrive 20i
-CHF 61'900
-ab CHF 665/Monat
-06.2020
-Automat
-9'400 km
 Benzin
 Allradantrieb
 schwarz
-184 PS
-GR
+530 PS
+ZH
 Merken
 BMW
-X4 xDrive 20i
-06.2020
-184 PS
-9'400 km
-CHF 61'900
+X7 xDrive M50i Steptronic
+01.2021
+530 PS
+10 km
+CHF 148'900
 Merken
-ab CHF 665/Monat
+ab CHF 1600/Monat
 NEU
 BMW
-X1 xDrive 18d
-CHF 33'900
-ab CHF 365/Monat
-05.2019
+X7 xDrive 30d Steptronic
+CHF 98'600
+ab CHF 1059/Monat
+06.2020
 Automat
-29'700 km
+11'000 km
 Diesel
 Allradantrieb
-weiss
-150 PS
-GR
+anthrazit
+265 PS
+ZH
 Merken
 BMW
-X1 xDrive 18d
-05.2019
-150 PS
-29'700 km
-CHF 33'900
+X7 xDrive 30d Steptronic
+06.2020
+265 PS
+11'000 km
+CHF 98'600
 Merken
-ab CHF 365/Monat
+ab CHF 1059/Monat
+NEU
+BMW
+X5 xDrive 40d Steptronic
+CHF 49'800
+ab CHF 535/Monat
+06.2015
+Automat
+76'000 km
+Diesel
+Allradantrieb
+schwarz
+313 PS
+ZH
+Merken
+BMW
+X5 xDrive 40d Steptronic
+06.2015
+313 PS
+76'000 km
+CHF 49'800
+Merken
+ab CHF 535/Monat
+NEU
+BMW
+X6M Steptronic
+CHF 79'500
+ab CHF 854/Monat
+06.2016
+Automat
+32'000 km
+Benzin
+Allradantrieb
+schwarz
+575 PS
+ZH
+Merken
+BMW
+X6M Steptronic
+06.2016
+575 PS
+32'000 km
+CHF 79'500
+Merken
+ab CHF 854/Monat
+NEU
+BMW
+X5 xDrive 40d
+CHF 48'900
+ab CHF 526/Monat
+06.2017
+Automat
+57'000 km
+Diesel
+Allradantrieb
+schwarz
+313 PS
+BE
+Merken
+BMW
+X5 xDrive 40d
+06.2017
+313 PS
+57'000 km
+CHF 48'900
+Merken
+ab CHF 526/Monat
 1
 1
 2

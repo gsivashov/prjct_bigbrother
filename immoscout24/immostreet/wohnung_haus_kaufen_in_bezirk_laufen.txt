@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-laufen/
 Title: Wohnung & Haus kaufen in Bezirk Laufen - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Laufen - Immostreet.ch: ImmoStreet.ch hat 38 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Laufen - Immostreet.ch: ImmoStreet.ch hat 40 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-38 Resultate gefunden ·
+40 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Laufen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,60 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Delsbergerstrasse 40-44
+490'000
+CHF
+Beim Tor zum Stedli Laufen
+Delsbergerstrasse 40-44, 4242 Laufen
+Array
+2.5 Zimmer
+62 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+62 m2
+Willkommen im «Huus Gabele» in LaufenIm Ersatzneubau an der Delsbergerstrasse 40-44 in Laufen entst…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Delsbergerstrasse 40-44
+720'000
+CHF
+Beim Tor zum Stedtli Laufen
+Delsbergerstrasse 40-44, 4242 Laufen
+Array
+3.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+3.5
+Wohnfläche
+95 m2
+Willkommen im «Huus Gabele» in LaufenIm Ersatzneubau an der Delsbergerstrasse 40-44 in Laufen entst…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'470'000
+CHF
+Laufen: Moderne trifft auf Mittelalter …
+Adresse auf Anfrage, 4242 Laufen
+Array
+188 m2
+Objekttyp
+Wohnung, Duplex, Maisonette
+Wohnfläche
+188 m2
+Diese neuwertige 5.5 Zimmer Maisonettewohnung befindet sich in der ehemaligen geschichtsträchtigen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Sägmatt
 779'000
 CHF
@@ -469,65 +523,7 @@ Zimmer
 4.5
 Wohnfläche
 112 m2
-Die attraktive 4.5-Zimmerwohnung wurde im Jahre 2013 erstellt und liegt 1. Obergeschoss. Das Haus N…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wiedenweg 2
-576'000
-CHF
-Schicke Gartenwohnung mit 5 Parkplätzen
-Wiedenweg 2, 4203 Grellingen
-Array
-4.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-80 m2
-Die gepflegte Liegenschaft liegt an einer ruhigen Lage ohne Durchgangsverkehr und besteht aus nur z…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Lettenhölzli 2
-1'350'000
-CHF
-5 Einfamilienhäuser mit Carport, Geräte…
-Im Lettenhölzli 2, 4202 Duggingen
-Array
-6 Zimmer
-213 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6
-Wohnfläche
-213 m2
-Etage
-In Duggingen entstehen fünf modern 5.5 bis 7 Zimmer Einfamilienhäuser mit Carport, Geräteraum und e…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnweg 1a
-1'390'000
-CHF
-Freistehendes 6.5-Zimmer-Einfamilienhau…
-Bahnweg 1a, 4202 Duggingen
-Array
-6.5 Zimmer
-145 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-145 m2
-Dieses grosszügige Einfamilienhaus wurde im Jahr 2017 komplett renoviert und überzeugt mit einer ho…
+Die attraktive 4.5-Zimmerwohnung wurde im Jahre 2013 erstellt und liegt im 1. Obergeschoss. Das Hau…
 Teilen
 E-Mail
 Facebook

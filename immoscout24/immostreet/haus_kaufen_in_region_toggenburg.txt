@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-toggenburg/
 Title: Haus kaufen in Region Toggenburg - Immostreet.ch
-Description: Haus kaufen in Region Toggenburg - Immostreet.ch: ImmoStreet.ch hat 38 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Region Toggenburg - Immostreet.ch: ImmoStreet.ch hat 37 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-38 Resultate gefunden ·
+37 Resultate gefunden ·
 Haus kaufen in Region Toggenburg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -233,11 +233,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Ibergstrasse 49
-720'000
-CHF
+Adresse auf Anfrage
+Preis auf Anfrage
 Attraktives 6.5 Zi-Eckhaus mit Einliege…
-Ibergstrasse 49, 9630 Wattwil
+Adresse auf Anfrage, 9630 Wattwil
 Array
 6.5 Zimmer
 143 m2
@@ -456,20 +455,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Beieregg 1322
-550'000
-CHF
-Ein-/Zweifamilienhaus direkt beim Säntis
-Beieregg 1322, 9650 Nesslau
-Array
-Objekttyp
-Wohnung, Einzelhaus
-Etage
-Die LiegenschaftIn der Dokumentation im Anhang finden Sie alle weiteren Informationen sowie Bilder.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 610'000
 CHF
@@ -504,6 +489,26 @@ Zimmer
 Wohnfläche
 338 m2
 Ursprünglich 1576 erbaut und in den nachfolgenden Jahren immer wieder erweitert, wurde das Haus auf…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+699'000
+CHF
+Berggenuss mit Liebe zum Detail
+Adresse auf Anfrage, 9620 Lichtensteig
+Array
+5.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+110 m2
+Etage
+Ferienparadies im Urchigen Toggenburg Für Erholungssuchende, Naturliebhaber ein Ferien-Bijou der ga…
 Teilen
 E-Mail
 Facebook

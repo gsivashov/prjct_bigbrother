@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-wohnung/in-aarwangen/
 Title: Wohnung mieten in Aarwangen - Immostreet.ch
-Description: Wohnung mieten in  Aarwangen - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Aarwangen - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-31 Resultate gefunden ·
+32 Resultate gefunden ·
 Wohnung mieten in Aarwangen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,24 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Schmidtenweg 2
+Preis auf Anfrage
+MODERNE ATTIKAWOHNUNG MITTEN IM ZENTRUM…
+Schmidtenweg 2, 4912 Aarwangen
+Array
+2.5 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+78 m2
+Wir vermieten per 01. September 2021 oder nach Vereinbarung eine 2.5-Zimmerwohnung im Dachgeschoss.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Hardmattweg 3
 2'550
 CHF
@@ -490,26 +508,6 @@ Zimmer
 Wohnfläche
 45 m2
 Das Mietobjekt im 9-Familienhaus ist befindet sich an ruhiger Lage, die öffentlichen Verkehrsmittel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schmidtenweg 9
-1'250
-CHF
-/Monat
-Gemütliche 3.5-Zimmerwohnung an ruhiger…
-Schmidtenweg 9, 4912 Aarwangen
-Array
-3.5 Zimmer
-68 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-68 m2
-Die im 2011 teil-sanierte, schöne 3.5-Zimmerwohnung im 1. OG ist frühestens ab 1. August 2021 oder …
 Teilen
 E-Mail
 Facebook

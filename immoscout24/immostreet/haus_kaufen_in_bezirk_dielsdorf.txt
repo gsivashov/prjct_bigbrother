@@ -138,22 +138,22 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Im Sytenacher 10
-1'000'000
+Adresse auf Anfrage
+1'390'000
 CHF
-Sonnentanken auf grosszügiger Terrasse
-Im Sytenacher 10, 8108 Dällikon
+High-Class Wohnen mit Weitblick
+Adresse auf Anfrage, 8174 Stadel
 Array
-5.5 Zimmer
-120 m2
+4.5 Zimmer
+155 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-5.5
+4.5
 Wohnfläche
-120 m2
+155 m2
 Etage
-Im Auftrag unseres Kunden verkaufen wir ein freistehendes 5½-Zimmer-Einfamilienhaus mit zwei Garage…
+Hier finden Sie ein High-Class Wohnambiente, das Sie auf Anhieb überzeugen wird. Egal ob ein Sonnen…
 Teilen
 E-Mail
 Facebook

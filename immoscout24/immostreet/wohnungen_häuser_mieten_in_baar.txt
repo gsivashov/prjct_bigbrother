@@ -1,6 +1,6 @@
-URL: https://www.immostreet.ch/de/mieten/in-baar/?pagenum=2
+URL: https://www.immostreet.ch/de/mieten/in-baar/
 Title: Wohnungen & Häuser mieten in Baar - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Baar - Immostreet.ch: ImmoStreet.ch hat 124 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Baar - Immostreet.ch: ImmoStreet.ch hat 118 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-124 Resultate gefunden ·
+118 Resultate gefunden ·
 Wohnungen & Häuser mieten in Baar
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,48 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Blegistrasse 11A
+1'100
+CHF
+/Monat
+Helles Büro mit Küche & Klimaanlagen
+Blegistrasse 11A, 6340 Baar
+Array
+1 Zimmer
+66 m2
+Objekttyp
+Büro
+Zimmer
+1
+Wohnfläche
+66 m2
+Etage
+Wir suchen einen Nachmieter für unsere Büro, da wir in ein grösseres Umziehen. Das Büro ist hell un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lättichstrasse 1
+1'950
+CHF
+/Monat
+Büroräume zu vermieten an attraktiver L…
+Lättichstrasse 1, 6340 Baar
+Array
+4 Zimmer
+128 m2
+Objekttyp
+Büro
+Zimmer
+4
+Wohnfläche
+128 m2
+Etage
+Zu vermieten ab 1. Dezember 2021 oder nach Vereinbarung Büroräume im steuergünstigen Zug:he…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Falkenweg
 1'190
 CHF
@@ -184,26 +226,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Arbachstrasse 67
-2'370
-CHF
-/Monat
-Dachwohnung mit Blick auf die Zuger und…
-Arbachstrasse 67, 6340 Baar
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Diese schöne Liegenschaft befindet sich an ruhiger und sonniger Lage im südöstlichen Teil der Gemei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Zugerstrasse 76B
 3'450
 CHF
@@ -242,27 +264,6 @@ Wohnfläche
 70 m2
 Etage
 neu renovierte 3 Zimmer Wohnung mit Lift. Parkettboden frisch versiegelt.
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lorzenmattstrasse 10
-3'890
-CHF
-/Monat
-Traumhafte Neubau-Attikawohnung mit tol…
-Lorzenmattstrasse 10, 6340 Baar
-Array
-3.5 Zimmer
-93 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-93 m2
-Etage
-Hier lässt es sich wohnenBaar ist eine der attraktivsten Wohngemeinden der Schweiz. Sie liegt zentr…
 Teilen
 E-Mail
 Facebook
@@ -383,26 +384,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Rigistrasse 165
-1'815
-CHF
-/Monat
-3.5-Zimmer-Wohnung mit grosszügigem Bal…
-Rigistrasse 165, 6340 Baar
-Array
-3.5 Zimmer
-86 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-86 m2
-Freie 3.5 Zimmer-Wohnung an der Rigistrasse 165, 6340 Baar b>Wir vermieten per sofort oder nach …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Blegistrasse 13
 220
 CHF
@@ -469,7 +450,20 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 7
+Blegistrasse 7/9
+210
+CHF
+Blegistrasse 7/9, Baar - Grosszügige kl…
+Blegistrasse 7/9, 6340 Baar
+Array
+Objekttyp
+Büro
+Die Büroräumlichkeiten an der Blegistrasse in Baar sind verkehrstechnisch perfekt erschlossen und f…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 6
 1
 2
 3

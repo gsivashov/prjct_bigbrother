@@ -131,6 +131,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Birsigstrasse 1
+2'095
+CHF
+/Monat
+Helle 4- Zimmerwohnung an zentraler Lag…
+Birsigstrasse 1, 4103 Bottmingen
+Array
+4 Zimmer
+99 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+99 m2
+Wir vermieten im Zentrum von Bottmingen in einem gepflegten 7 Familienhaus eine helle renovierte 4-…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 2'700
 CHF
@@ -167,26 +187,6 @@ Zimmer
 Wohnfläche
 70 m2
 Diese 1-Zimmer-Wohnung mit viel Charme befindet sich in einem kleineren Mehrfamilienhaus ohne Lift …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kreuzackerweg 15
-1'390
-CHF
-/Monat
-2.5-Zimmer-Dach-Wohnung mit Cheminée un…
-Kreuzackerweg 15, 4103 Bottmingen
-Array
-2.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-70 m2
-Wir vermieten ab sofort oder nach Vereinbarung eine 2.5-Zimmer-Dach-Wohnung mit Cheminée und gedeck…
 Teilen
 E-Mail
 Facebook
@@ -247,7 +247,7 @@ Zimmer
 2.5
 Wohnfläche
 64 m2
-BottIm AG vermietet per 01.07.2021 oder nach Vereinbarung eine grosszügige 2.5-Zimmerwohnung  mit f…
+Wir vermietet per 01.07.2021 oder nach Vereinbarung eine grosszügige 2.5-Zimmerwohnung  mit folgend…
 Teilen
 E-Mail
 Facebook

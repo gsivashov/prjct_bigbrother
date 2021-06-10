@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/bezirk-frutigenniedersimmental/
 Title: Wohnung & Haus mieten in Region Frutigen Niedersimmental - Immostreet.ch
-Description: Wohnung & Haus mieten in Region Frutigen Niedersimmental - Immostreet.ch: ImmoStreet.ch hat 54 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu fi
+Description: Wohnung & Haus mieten in Region Frutigen Niedersimmental - Immostreet.ch: ImmoStreet.ch hat 56 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu fi
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-54 Resultate gefunden ·
+56 Resultate gefunden ·
 Wohnung & Haus mieten in Region Frutigen Niedersimmental
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,60 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+600
+CHF
+/Monat
+2 Zimmer für WG oder Ferien
+Adresse auf Anfrage, 3714 Frutigen
+Array
+Objekttyp
+Wohnung, Einzelzimmer
+vermiete zwei Zimmer im oberen Stock eines 50ig jährigen Bauernhausesandere Räumlichkeiten wie Küch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Thunstrasse 132
+995
+CHF
+/Monat
+Sehr schöne 2 Zi Wohnung in Spiez zu ve…
+Thunstrasse 132, 3700 Spiez
+Array
+2 Zimmer
+35 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+35 m2
+Die Aussicht auf den Thuner See ist mit nichts zu bezahlen. Sehr schöne 2 Zimmer Wohnung in Spiez z…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Simmentalstrasse 8
+1'350
+CHF
+/Monat
+MITTEN IM SCHÖNEN SPIEZ
+Simmentalstrasse 8, 3700 Spiez
+Array
+4.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+80 m2
+Diese gemütliche und lichtdurchflutete 4.5-Zimmer-Wohnung liegt an idealer Lage in Spiez. Die Wohnu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 1'188
 CHF
@@ -474,66 +528,6 @@ Wohnung, Flach
 Zimmer
 3.5
 Ich vermeite eine grosszügige 3.5-Zimmer Wohnung mit Blick auf das Schloss Wimmis, mit Wintergarten…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'460
-CHF
-/Monat
-GROSSZÜGIG UND GEPFLEGT
-Adresse auf Anfrage, 3752 Wimmis
-Array
-3.5 Zimmer
-108 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-108 m2
-Diese schöne Wohnung befindet sich an sehr zentraler Lage. Einkäufsmöglichkeiten, ÖV, Schule, Resta…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'550
-CHF
-/Monat
-NEU RENOVIERT UND GEMÜTLICH
-Adresse auf Anfrage, 3700 Spiez
-Array
-4.5 Zimmer
-84 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-84 m2
-Diese neu renovierte Wohnung überzeugt durch die ideale Raumaufteilung. Der lichtdurchflutete Wohnb…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'430
-CHF
-/Monat
-"RESERVIERT" LICHTDURCHFLUTET MIT SEE S…
-Adresse auf Anfrage, 3704 Krattigen
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Geniessen Sie die Sonne mit einer traumhaften Aussicht auf den Thunersee. Die gut durchdachte Rauma…
 Teilen
 E-Mail
 Facebook

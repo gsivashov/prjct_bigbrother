@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/apartment/in-8820/
 Title: Wohnung kaufen in PLZ 8820 - Immostreet.ch
-Description: Wohnung kaufen in PLZ 8820 - Immostreet.ch: ImmoStreet.ch hat 9 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in PLZ 8820 - Immostreet.ch: ImmoStreet.ch hat 12 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-9 Resultate gefunden ·
+12 Resultate gefunden ·
 Wohnung kaufen in PLZ 8820
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,64 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Schönenbergstrasse 27
+2'440'000
+CHF
+4.5 Zimmer Attikawohnung an zentraler u…
+Schönenbergstrasse 27, 8820 Wädenswil
+Array
+4.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+145 m2
+Eine individuelle Wohnung, die vielen Ansprüchen gerecht wird.
+Die Wohnüberbauung "Wyburg" liegt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse 15
+980'000
+CHF
+Neubauprojekt ROC - Wohnen beim Wasserf…
+Seestrasse 15, 8820 Wädenswil
+Array
+3.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+86 m2
+Sie suchen nach einer Gartenwohnung mit grosszügigem Umschwung? Dann wird Sie diese 3.5-Zimmerwohnu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse 15
+1'030'000
+CHF
+Neubauprojekt ROC - Wohnen beim Wasserf…
+Seestrasse 15, 8820 Wädenswil
+Array
+3.5 Zimmer
+88 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+88 m2
+Sie suchen nach einer Gartenwohnung mit grosszügigem Umschwung? Dann wird Sie diese 3.5-Zimmerwohnu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Schönenbergstrasse 78b
 2'170'000
 CHF

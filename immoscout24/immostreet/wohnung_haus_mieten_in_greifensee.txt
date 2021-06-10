@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-greifensee/
 Title: Wohnung & Haus mieten in Greifensee - Immostreet.ch
-Description: Wohnung & Haus mieten in  Greifensee - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Greifensee - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-19 Resultate gefunden ·
+20 Resultate gefunden ·
 Wohnung & Haus mieten in Greifensee
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,34 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Burstwiesenstr. 18
+120
+CHF
+/Monat
+Bastelraum in Wohnliegenschaft zu vermi…
+Burstwiesenstr. 18, 8606 Greifensee
+Array
+Objekttyp
+Atelier
+Wir vermieten, nach Vereinbarung einen ca. 14m2 grossen Bastelraum (offener Holzverschlag). Einstel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Müllerwis 22
+120
+CHF
+/Monat
+Bastelraum in Wohnliegenschaft zu vermi…
+Müllerwis 22, 8606 Greifensee
+Array
+Objekttyp
+Atelier
+Wir vermieten, nach Vereinbarung einen ca. 14m2 grossen Bastelraum. Einstellplätze à CHF 125.--/Mon…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Am Pfisterhölzli 54
 1'260
 CHF
@@ -504,26 +532,6 @@ Zimmer
 3.5
 Wohnfläche
 90 m2
-Wir vermieten nach Vereinbarung eine zentral gelegene 3½-Zimmer-Wohnung mit folgenden Eckdaten:- Al…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Müllerwis 8
-1'828
-CHF
-/Monat
-Schönes Wohnen am Greifensee
-Müllerwis 8, 8606 Greifensee
-Array
-3.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-77 m2
 Wir vermieten nach Vereinbarung eine zentral gelegene 3½-Zimmer-Wohnung mit folgenden Eckdaten:- Al…
 Teilen
 E-Mail

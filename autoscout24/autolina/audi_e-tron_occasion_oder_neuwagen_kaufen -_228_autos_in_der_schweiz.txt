@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -154,28 +154,247 @@ TI
 WIR-ANTEIL
 228 Treffer
 Suche zurücksetzen
+NEU
 AUDI
-e-tron 55 Advanced qu
-CHF 77'750
-ab CHF 835/Monat
-01.2020
+e-tron 55 S line Black Edition
+CHF 114'900
+ab CHF 1234/Monat
+-
 Automat
-12'990 km
+35 km
 Elektro
 Allradantrieb
-beige
+schwarz
+408 PS
+ZH
+Merken
+AUDI
+e-tron 55 S line Black Edition
+-
+408 PS
+35 km
+CHF 114'900
+Merken
+ab CHF 1234/Monat
+NEU
+AUDI
+e-tron advanced
+CHF 66'990
+ab CHF 720/Monat
+05.2019
+Automat
+30'550 km
+Elektro
+Allradantrieb
+schwarz
+361 PS
+GR
+Merken
+AUDI
+e-tron advanced
+05.2019
+361 PS
+30'550 km
+CHF 66'990
+Merken
+ab CHF 720/Monat
+NEU
+AUDI
+e-tron Sportback S quattro
+CHF 124'000
+ab CHF 1332/Monat
+-
+Automat
+10 km
+Elektro
+Allradantrieb
+grau
+503 PS
+AI
+Merken
+AUDI
+e-tron Sportback S quattro
+-
+503 PS
+10 km
+CHF 124'000
+Merken
+ab CHF 1332/Monat
+NEU
+AUDI
+e-tron 55 quattro 95kwh EV Elektro Automat
+CHF 70'889
+ab CHF 835/Monat
+12.2019
+Automat
+14'563 km
+Elektro
+Allradantrieb
+anthrazit
+408 PS
+AG
+Merken
+AUDI
+e-tron 55 quattro 95kwh EV Elektr...
+12.2019
+408 PS
+14'563 km
+CHF 70'889
+Merken
+ab CHF 835/Monat
+NEU
+AUDI
+e-tron 55 S-Line Advanced quattro EV Elektro Aut.
+CHF 73'989
+ab CHF 871/Monat
+02.2020
+Automat
+15'194 km
+Elektro
+Allradantrieb
+silber
+408 PS
+AG
+Merken
+AUDI
+e-tron 55 S-Line Advanced quattro...
+02.2020
+408 PS
+15'194 km
+CHF 73'989
+Merken
+ab CHF 871/Monat
+NEU
+AUDI
+e-tron 55 S-Line Advanced Spezial EV Elektro Aut.
+CHF 76'689
+ab CHF 903/Monat
+02.2020
+Automat
+29'352 km
+Elektro
+Allradantrieb
+silber
+408 PS
+AG
+Merken
+AUDI
+e-tron 55 S-Line Advanced Spezial...
+02.2020
+408 PS
+29'352 km
+CHF 76'689
+Merken
+ab CHF 903/Monat
+AUDI
+e-tron Sportback 50 S line Attraction
+CHF 77'900
+ab CHF 837/Monat
+10.2020
+Automat
+6'900 km
+Elektro
+Allradantrieb
+weiss
+313 PS
+SG
+Merken
+AUDI
+e-tron Sportback 50 S line Attrac...
+10.2020
+313 PS
+6'900 km
+CHF 77'900
+Merken
+ab CHF 837/Monat
+AUDI
+e-tron 50 Sportback S Line quattro
+CHF 94'540
+ab CHF 1016/Monat
+-
+Automat
+50 km
+Elektro
+Allradantrieb
+weiss
+313 PS
+SG
+Merken
+AUDI
+e-tron 50 Sportback S Line quattr...
+-
+313 PS
+50 km
+CHF 94'540
+Merken
+ab CHF 1016/Monat
+AUDI
+e-tron 55 408PS Advanced quattro
+CHF 68'500
+ab CHF 736/Monat
+02.2020
+-
+8'900 km
+Elektro
+Allradantrieb
+weiss
+408 PS
+AG
+Merken
+AUDI
+e-tron 55 408PS Advanced quattro
+02.2020
+408 PS
+8'900 km
+CHF 68'500
+Merken
+ab CHF 736/Monat
+AUDI
+e-tron 55 Sportback S Line quattro
+CHF 83'900
+ab CHF 901/Monat
+01.2021
+-
+11'400 km
+Elektro
+Allradantrieb
+blau
 408 PS
 TG
 Merken
 AUDI
-e-tron 55 Advanced qu
-01.2020
+e-tron 55 Sportback S Line quattr...
+01.2021
 408 PS
-12'990 km
-CHF 77'750
+11'400 km
+CHF 83'900
 Merken
-ab CHF 835/Monat
-NEU
+ab CHF 901/Monat
+AUDI
+e-tron 55 Advanced quattro
+CHF 73'950
+ab CHF 795/Monat
+12.2019
+Automat
+18'000 km
+Elektro
+Allradantrieb
+sonstiges
+360 PS
+BE
+Merken
+AUDI
+e-tron 55 Advanced quattro
+12.2019
+360 PS
+18'000 km
+CHF 73'950
+Merken
+ab CHF 795/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
 AUDI
 e-tron 55 Advanced quttro AHK
 CHF 82'800
@@ -201,7 +420,6 @@ ab CHF 890/Monat
 Kostenlose Probefahrt
 Garantieversprechen
 Faires Eintauschangebot
-NEU
 AUDI
 e-tron Sportback 50 Attraction
 CHF 88'900
@@ -223,7 +441,6 @@ e-tron Sportback 50 Attraction
 CHF 88'900
 Merken
 ab CHF 955/Monat
-NEU
 AUDI
 e-tron 50 advanced Attraction
 CHF 85'990
@@ -245,7 +462,6 @@ e-tron 50 advanced Attraction
 CHF 85'990
 Merken
 ab CHF 924/Monat
-NEU
 AUDI
 e-tron advanced
 CHF 73'990
@@ -267,222 +483,6 @@ e-tron advanced
 CHF 73'990
 Merken
 ab CHF 795/Monat
-NEU
-AUDI
-e-tron 55 Advanced quattro PS 408 (CH)
-CHF 69'900
-ab CHF 751/Monat
-01.2020
--
-11'964 km
-Elektro
-Allradantrieb
-schwarz
-408 PS
-AG
-Merken
-AUDI
-e-tron 55 Advanced quattro PS 408...
-01.2020
-408 PS
-11'964 km
-CHF 69'900
-Merken
-ab CHF 751/Monat
-NEU
-AUDI
-e-tron Sportback 55
-CHF 96'900
-ab CHF 1041/Monat
--
-Automat
-35 km
-Elektro
-Allradantrieb
-schwarz
-408 PS
-ZH
-Merken
-AUDI
-e-tron Sportback 55
--
-408 PS
-35 km
-CHF 96'900
-Merken
-ab CHF 1041/Monat
-AUDI
-e-tron 55 S line Black Edition
-CHF 113'988
-ab CHF 1225/Monat
-05.2021
-Automat
-3'000 km
-Elektro
-Allradantrieb
-grau
-408 PS
-VD
-Merken
-AUDI
-e-tron 55 S line Black Edition
-05.2021
-408 PS
-3'000 km
-CHF 113'988
-Merken
-ab CHF 1225/Monat
-AUDI
-e-tron Sportback 55 S line Black Edition
-CHF 126'480
-ab CHF 1359/Monat
--
-Automat
-50 km
-Elektro
-Allradantrieb
-schwarz
-408 PS
-BS
-Merken
-AUDI
-e-tron Sportback 55 S line Black ...
--
-408 PS
-50 km
-CHF 126'480
-Merken
-ab CHF 1359/Monat
-AUDI
-e-tron Sportback 50 S line Attraction
-CHF 95'490
-ab CHF 1026/Monat
--
-Automat
-20 km
-Elektro
-Allradantrieb
-weiss
-313 PS
-ZH
-Merken
-AUDI
-e-tron Sportback 50 S line Attrac...
--
-313 PS
-20 km
-CHF 95'490
-Merken
-ab CHF 1026/Monat
-AUDI
-e-tron 50 advanced Attraction
-CHF 69'600
-ab CHF 748/Monat
-12.2019
-Automat
-17'000 km
-Elektro
-Allradantrieb
-schwarz
-313 PS
-SO
-Merken
-AUDI
-e-tron 50 advanced Attraction
-12.2019
-313 PS
-17'000 km
-CHF 69'600
-Merken
-ab CHF 748/Monat
-AUDI
-e-tron 55 S line Black Edition
-CHF 114'900
-ab CHF 1234/Monat
--
-Automat
-30 km
-Elektro
-Allradantrieb
-schwarz
-408 PS
-SO
-Merken
-AUDI
-e-tron 55 S line Black Edition
--
-408 PS
-30 km
-CHF 114'900
-Merken
-ab CHF 1234/Monat
-AUDI
-e-tron advanced
-CHF 67'830
-ab CHF 729/Monat
-07.2019
-Automat
-38'370 km
-Elektro
-Allradantrieb
-schwarz
-361 PS
-LU
-Merken
-AUDI
-e-tron advanced
-07.2019
-361 PS
-38'370 km
-CHF 67'830
-Merken
-ab CHF 729/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-AUDI
-e-tron S quattro
-CHF 89'900
-ab CHF 966/Monat
-11.2020
-Automat
-14'000 km
-Elektro
-Allradantrieb
-blau
-503 PS
-GR
-Merken
-AUDI
-e-tron S quattro
-11.2020
-503 PS
-14'000 km
-CHF 89'900
-Merken
-ab CHF 966/Monat
-AUDI
-e-tron 55 Sportback S Line quattro
-CHF 110'888
-ab CHF 1191/Monat
-03.2021
-Automat
-3'000 km
-Elektro
-Allradantrieb
-grau
-408 PS
-AG
-Merken
-AUDI
-e-tron 55 Sportback S Line quattr...
-03.2021
-408 PS
-3'000 km
-CHF 110'888
-Merken
-ab CHF 1191/Monat
 1
 1
 2

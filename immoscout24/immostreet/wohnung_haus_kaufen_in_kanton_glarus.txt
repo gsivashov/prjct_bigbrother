@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/kanton-glarus/
 Title: Wohnung & Haus kaufen in Kanton Glarus - Immostreet.ch
-Description: Wohnung & Haus kaufen in Kanton Glarus - Immostreet.ch: ImmoStreet.ch hat 60 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Kanton Glarus - Immostreet.ch: ImmoStreet.ch hat 61 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-60 Resultate gefunden ·
+61 Resultate gefunden ·
 Wohnung & Haus kaufen in Kanton Glarus
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,45 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Hirzlistrasse 18
+740'000
+CHF
+REIHENHAUS
+Hirzlistrasse 18, 8865 Bilten
+Array
+4.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+4.5
+Wohnfläche
+123 m2
+Etage
+Reihenendhaus in einem bevorzugten Wohnquartier, gepflegt und stilvoll modernisiert. Die Linthebene…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse, 14
+417'000
+CHF
+5 Zimmer Reiheneinfamilienhaus mit Gart…
+Hauptstrasse, 14, 8775 Luchsingen
+Array
+5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5
+Wohnfläche
+110 m2
+Dieses wunderschöne Glarnerhaus im Herrenhausstil hat es in sich: direkt in der Natur mit wundersch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Vorderdorfstrasse 18
 495'000
 CHF
@@ -344,25 +383,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Sonnenweg 4
-725'000
-CHF
-6.5-Zi-Einfamilienhaus mit Garten
-Sonnenweg 4, 8867 Niederurnen
-Array
-6.5 Zimmer
-166 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-166 m2
-Die Liegenschaft befindet sich an familiärer und ruhiger Wohnlage unweit des Dorfkerns von Niederur…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Fenzgasse 6
 495'000
 CHF
@@ -519,31 +539,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Giessenbrücke 17 - 23
-650'000
-CHF
-Mehr Raum auf zwei Etagen geniessen - d…
-Giessenbrücke 17 - 23, 8752 Näfels
-Array
-3.5 Zimmer
-101 m2
-Objekttyp
-Wohnung, Duplex, Maisonette
-Zimmer
-3.5
-Wohnfläche
-101 m2
-Etage
-WWW.DOUBLESSE.CH
-Schöner Wohnen auf zwei Etagen an zentraler und sonniger Lage. Bergsicht und Bl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 3
+Seite 1 von 4
 1
 2
 3
+4
 nächste Seite
 ImmoStreet.ch
 Kaufen

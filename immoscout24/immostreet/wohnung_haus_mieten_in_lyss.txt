@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-lyss/
 Title: Wohnung & Haus mieten in Lyss - Immostreet.ch
-Description: Wohnung & Haus mieten in  Lyss - Immostreet.ch: ImmoStreet.ch hat 46 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Lyss - Immostreet.ch: ImmoStreet.ch hat 48 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-46 Resultate gefunden ·
+48 Resultate gefunden ·
 Wohnung & Haus mieten in Lyss
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,43 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Birkenweg 16
+1'290
+CHF
+/Monat
+Endlich meine eigenen 4-Wände!
+Birkenweg 16, 3250 Lyss
+Array
+2.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+77 m2
+Per 1. September 2021 vermieten wir diese schöne und helle Wohnung in gepflegter Umgebung mit folge…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Steinweg 5
+700
+CHF
+/Monat
+WG Untermieter geseucht
+Steinweg 5, 3250 Lyss
+Array
+14 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+14 m2
+Mitte July zieht ein WG-Mitglied aus und wir suchen einen Untermieter. Zusammen wären wir dan 3 Bew…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Kreuzackerweg 14
 1'590
 CHF
@@ -492,46 +529,6 @@ Wohnfläche
 107 m2
 Etage
 Die helle, sonnige Wohnung ist im 2. Stock und verfügt über:Wohnzimmer mit Cheminée
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Steinweg 3
-1'955
-CHF
-/Monat
-Familienwohnung am Lyssbach!
-Steinweg 3, 3250 Lyss
-Array
-4.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-105 m2
-Das lebhafte Lyss verfügt über eine leistungsfähige Infrastruktur und hervorragende Verkehrsanbindu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Feldegg 12
-1'365
-CHF
-/Monat
-Attraktive und kinderfreundliche Wohnla…
-Feldegg 12, 3250 Lyss
-Array
-4.5 Zimmer
-74 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-74 m2
-Wir vermieten eine helle 4.5-Zimmerwohnung in einem kinderfreundlichen Quartier, die Ihnen unter an…
 Teilen
 E-Mail
 Facebook

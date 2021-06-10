@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-birsfelden/
 Title: Wohnung mieten in Birsfelden - Immostreet.ch
-Description: Wohnung mieten in  Birsfelden - Immostreet.ch: ImmoStreet.ch hat 64 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Birsfelden - Immostreet.ch: ImmoStreet.ch hat 62 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-64 Resultate gefunden ·
+62 Resultate gefunden ·
 Wohnung mieten in Birsfelden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,6 +131,86 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+2'500
+CHF
+/Monat
+GERÄUMIG AN ZENTRALER LAGE
+Adresse auf Anfrage, 4127 Birsfelden
+Array
+5.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+125 m2
+Diese geräumige und helle Wohnung vermieten wir an zentraler Lage. Die Wohnung liegt in Birsfelden …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Birseckstr. 12
+970
+CHF
+/Monat
+Günstig und befristet Wohnen an der Bir…
+Birseckstr. 12, 4127 Birsfelden
+Array
+2 Zimmer
+46 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+46 m2
+Mit wunderschönem Blick auf die Birs vermieten wir diese tolle Wohnung, welche Ihnen folgenden Ausb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Stausee 27
+1'825
+CHF
+/Monat
+MIETEN OHNE KAUTION - Familienfreundlic…
+Am Stausee 27, 4127 Birsfelden
+Array
+4 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+85 m2
+An ruhiger Wohnlage in Birsfelden vermieten wir per 01. August 2021 oder nach Vereinbarung diese mo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lavaterstrasse 65
+1'395
+CHF
+/Monat
+Ruhig gelegene 3-Zimmerwohnung an der L…
+Lavaterstrasse 65, 4127 Birsfelden
+Array
+3 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+65 m2
+An der Lavaterstrasse 65 in Birsfelden vermieten wir nach Vereinbarung eine ruhig gelegene 3-Zimmer…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Wartenbergstrasse 24
 960
 CHF
@@ -264,27 +344,6 @@ Zimmer
 Wohnfläche
 71 m2
 Wir vermieten diese moderne 3-Zimmerwohnung mit Aussicht per 16. Juli 2021. Die Wohnung punktet mit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weidenweg 8
-1'750
-CHF
-/Monat
-Helle Wohnung mit Privatzugang zur Birs
-Weidenweg 8, 4127 Birsfelden
-Array
-3.5 Zimmer
-74 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-74 m2
-Etage
-Für unsere 3.5 Zimmerwohnung suchen wir per 1. Juli einen Nachmieter.Die Birs liegt fast vor der Ha…
 Teilen
 E-Mail
 Facebook
@@ -470,64 +529,6 @@ Wohnfläche
 92 m2
 Etage
 Birsfelden! Ein Ort zum Wohnen und Wohlfühlen. Aufgrund der Nähe zu Basel-Stadt und dem gut ausgeba…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Birseckstrasse 11
-2'620
-CHF
-/Monat
-Hochwertige Mietwohnung in Birsfelden
-Birseckstrasse 11, 4127 Birsfelden
-Array
-4.5 Zimmer
-119 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-119 m2
-Wir vermieten diese 4.5 Zimmer Wohnung im 2. Obergeschoss mit unverbaubaren Aussicht auf die Birs.
-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hardstrasse 15
-1'040
-CHF
-/Monat
-1 Zimmer Wohnung Zentral in Birsfelden …
-Hardstrasse 15, 4127 Birsfelden
-Array
-1 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Ab 1. August Suche ich einen Nachmieter für meine Wohnung in Birsfelden. Eigene Spülmaschine, Wasch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchstrasse 17
-2'900
-CHF
-/Monat
-Wohnen im Kirchpark
-Kirchstrasse 17, 4127 Birsfelden
-Array
-5 Zimmer
-146 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-146 m2
-Diese grosszügige Wohnung befindet sich in schöner Grünanlage in Birsfelden. Zentrum sowie Birsköpf…
 Teilen
 E-Mail
 Facebook

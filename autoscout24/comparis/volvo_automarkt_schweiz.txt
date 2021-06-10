@@ -146,32 +146,32 @@ Alle Automarken
 Volvo
 Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseite zu gewährleisten.
 Volvo Automarkt Schweiz
-3'462 Occasionen
-1'447 Neuwagen
-496 Vorführwagen
+3'474 Occasionen
+1'446 Neuwagen
+499 Vorführwagen
 Volvo 440 - 2 Inserate im Automarkt - Ab CHF 2'990
 Volvo 460 - 0 Inserate im Automarkt - Ab CHF 0
 Volvo 480 - 5 Inserate im Automarkt - Ab CHF 6'500
 Volvo 960 - 5 Inserate im Automarkt - Ab CHF 3'900
-Volvo C30 - 62 Inserate im Automarkt - Ab CHF 2'200
-Volvo C70 - 55 Inserate im Automarkt - Ab CHF 900
-Volvo S40 - 40 Inserate im Automarkt - Ab CHF 900
+Volvo C30 - 64 Inserate im Automarkt - Ab CHF 2'200
+Volvo C70 - 56 Inserate im Automarkt - Ab CHF 900
+Volvo S40 - 39 Inserate im Automarkt - Ab CHF 900
 Volvo S60 CC - 1 Inserat im Automarkt - Ab CHF 39'700
 Volvo S70 - 7 Inserate im Automarkt - Ab CHF 1'200
-Volvo S80 - 42 Inserate im Automarkt - Ab CHF 700
-Volvo V50 - 157 Inserate im Automarkt - Ab CHF 900
-Volvo V70 - 153 Inserate im Automarkt - Ab CHF 650
+Volvo S80 - 44 Inserate im Automarkt - Ab CHF 700
+Volvo V50 - 155 Inserate im Automarkt - Ab CHF 900
+Volvo V70 - 150 Inserate im Automarkt - Ab CHF 650
 Volvo XC70 - 52 Inserate im Automarkt - Ab CHF 900
-Volvo 240 - 11 Inserate im Automarkt - Ab CHF 999
+Volvo 240 - 12 Inserate im Automarkt - Ab CHF 999
 Volvo 340 - 1 Inserat im Automarkt - Ab CHF 7'343
 Volvo 740 - 5 Inserate im Automarkt - Ab CHF 1'200
 Volvo 760 - 3 Inserate im Automarkt - Ab CHF 11'900
-Volvo 850 - 17 Inserate im Automarkt - Ab CHF 950
+Volvo 850 - 16 Inserate im Automarkt - Ab CHF 950
 Volvo 940 - 12 Inserate im Automarkt - Ab CHF 1'990
 Volvo 360 - 0 Inserate im Automarkt - Ab CHF 0
-Volvo V60 CC - 43 Inserate im Automarkt - Ab CHF 15'500
+Volvo V60 CC - 42 Inserate im Automarkt - Ab CHF 15'500
 Volvo Modelle
-Volvo C30 - 62 Inserate anzeigen
+Volvo C30 - 64 Inserate anzeigen
 Volvo C30 1.8 16V Kinetic flexifuel
 Occasion
 05.2008
@@ -202,7 +202,7 @@ Mehr
 CHF
 2'900
 06.10.2020
-Volvo C70 - 55 Inserate anzeigen
+Volvo C70 - 56 Inserate anzeigen
 VOLVO C70 2.4i Summum Geartronic
 Occasion
 04.2010
@@ -223,17 +223,17 @@ Mehr
 CHF
 1'500
 19.05.2021
-VOLVO C70 Cabriolet 2.0T
+VOLVO C70 Cabriolet 2.4T
 Occasion
-12.2000
-70'000 km
-163 PS
+03.2001
+144'000 km
+193 PS
 Mehr
 5.0
 CHF
-3'499
-25.03.2021
-Volvo S40 - 40 Inserate anzeigen
+2'700
+11.05.2021
+Volvo S40 - 39 Inserate anzeigen
 VOLVO S40 1.8
 Occasion
 07.2003
@@ -286,17 +286,7 @@ Mehr
 CHF
 52'900
 21.02.2020
-Volvo V40 CC - 36 Inserate anzeigen
-VOLVO V40 CC 2.0 T5 Summum AWD S/S
-Occasion
-01.2016
-38'500 km
-245 PS
-Mehr
-5.5
-CHF
-19'900
-07.06.2021
+Volvo V40 CC - 37 Inserate anzeigen
 VOLVO V40 Cross Country T5 AWD Kinetic Geartronic
 Occasion
 08.2014
@@ -317,7 +307,7 @@ Mehr
 CHF
 12'900
 08.03.2021
-Volvo V50 - 157 Inserate anzeigen
+Volvo V50 - 155 Inserate anzeigen
 VOLVO V50 2.0D
 Occasion
 06.2007
@@ -328,38 +318,48 @@ Mehr
 CHF
 1'200
 05.06.2021
-VOLVO V50 T5 Momentum
-Occasion
-02.2005
-215'100 km
-220 PS
-Mehr
-6.0
-CHF
-1'700
-04.06.2021
 VOLVO V50 1.6D DRIVe Start/Stop Kinetic
 Occasion
 10.2009
 177'300 km
 109 PS
 Mehr
-5.0
+5.5
 CHF
-3'200
+2'900
 03.06.2021
-Volvo V70 - 153 Inserate anzeigen
-Volvo V70 2.4
+VOLVO V50 D5 Geartronic
 Occasion
-05.2002
-277'552 km
-170 PS
+08.2007
+210'000 km
+180 PS
 Mehr
-5.0
+6.0
 CHF
-990
+1'900
 03.06.2021
-VOLVO V70 2.4
+Volvo V70 - 150 Inserate anzeigen
+VOLVO V70 2.5T AWD Momentum
+Occasion
+04.2006
+216'000 km
+210 PS
+Mehr
+6.0
+CHF
+1'700
+09.06.2021
+VOLVO V70 D5 AWD Geartronic
+Occasion
+11.2003
+264'200 km
+163 PS
+Mehr
+5.5
+CHF
+1'600
+05.06.2021
+Volvo V70 2.4
 Occasion
 05.2002
 277'552 km
@@ -368,18 +368,8 @@ Mehr
 5.5
 CHF
 890
-02.06.2021
-VOLVO V70 2.5T
-Occasion
-06.2003
-267'000 km
-210 PS
-Mehr
-6.0
-CHF
-900
-30.05.2021
-Volvo V90 - 328 Inserate anzeigen
+03.06.2021
+Volvo V90 - 329 Inserate anzeigen
 Volvo V90 Cross Country 2.0 T5 AWD
 Occasion
 06.2020
@@ -410,8 +400,28 @@ Mehr
 CHF
 48'740
 28.05.2021
-Volvo XC60 - 1'500 Inserate anzeigen
-VOLVO XC60 2.0 D5 R-Design AWD
+Volvo XC60 - 1'503 Inserate anzeigen
+VOLVO XC60 2.0 D4 Kinetic S/S
+Occasion
+12.2014
+45'985 km
+181 PS
+Mehr
+6.0
+CHF
+18'500
+10.06.2021
+Volvo XC60 2.4 D4 R-Design AWD
+Occasion
+03.2015
+149'900 km
+181 PS
+Mehr
+5.0
+CHF
+16'990
+09.06.2021
+Volvo XC60 2.0 D5 R-Design AWD XC60
 Occasion
 09.2018
 74'803 km
@@ -421,59 +431,48 @@ Mehr
 CHF
 40'689
 08.06.2021
-VOLVO XC60 2.4 D4 R-Design
-AWD
-Occasion
-03.2015
-149'900 km
-181 PS
-Mehr
-5.0
-CHF
-16'990
-08.06.2021
-VOLVO XC60 D5 AWD Summum Geartronic
-Occasion
-12.2011
-149'000 km
-215 PS
-Mehr
-5.0
-CHF
-11'999
-07.06.2021
 Volvo XC70 - 52 Inserate anzeigen
 VOLVO XC70 D5 AWD Momentum Geartronic
 Occasion
-06.2012
-185'000 km
-215 PS
-Mehr
-5.5
-CHF
-9'950
-08.05.2021
-Volvo XC70 2.5 T AWD
-Occasion
-09.2003
-211'000 km
-210 PS
-Mehr
-5.0
-CHF
-2'500
-09.04.2021
-VOLVO XC70 D5 AWD Geartronic
-Occasion
-07.2004
-308'000 km
-163 PS
+02.2010
+248'000 km
+185 PS
 Mehr
 6.0
 CHF
-1'600
-07.04.2021
-Volvo XC90 - 524 Inserate anzeigen
+4'800
+10.06.2021
+Volvo XC70 D5 AWD Momentum Geartronic
+Occasion
+07.2013
+205'300 km
+215 PS
+Mehr
+5.0
+CHF
+11'900
+09.06.2021
+VOLVO XC70 D5 AWD Momentum Geartronic
+Occasion
+07.2013
+205'300 km
+215 PS
+Mehr
+5.0
+CHF
+11'500
+09.06.2021
+Volvo XC90 - 518 Inserate anzeigen
+VOLVO XC90 2.0 D5 R-Design 7P. AWD
+Occasion
+03.2016
+73'000 km
+225 PS
+Mehr
+5.0
+CHF
+38'500
+10.06.2021
 VOLVO XC90 2.4D(D5) AWD Summum
 Occasion
 12.2005
@@ -484,16 +483,6 @@ Mehr
 CHF
 2'850
 06.06.2021
-VOLVO XC90 D5 AWD R-Design Geartronic
-Occasion
-10.2017
-46'000 km
-235 PS
-Mehr
-5.0
-CHF
-47'000
-05.06.2021
 VOLVO XC90 D5 AWD Momentum Geartronic
 Occasion
 01.2016
@@ -504,7 +493,7 @@ Mehr
 CHF
 39'800
 29.05.2021
-Volvo V60 CC - 43 Inserate anzeigen
+Volvo V60 CC - 42 Inserate anzeigen
 VOLVO V60 Cross Country D4 AWD Momentum Geartronic
 Occasion
 03.2016
@@ -526,16 +515,6 @@ CHF
 28'800
 11.02.2021
 Volvo V60 - 768 Inserate anzeigen
-VOLVO V60 D3 Family Edition Geartronic
-Occasion
-02.2014
-120'699 km
-136 PS
-Mehr
-5.5
-CHF
-10'900
-08.06.2021
 VOLVO V60 D4 AWD Family Edition Geartronic
 Occasion
 06.2014
@@ -556,16 +535,26 @@ Mehr
 CHF
 7'999
 30.05.2021
-Volvo V40 - 226 Inserate anzeigen
+VOLVO V60 D4 AWD Momentum Geartronic
+Occasion
+03.2013
+201'000 km
+163 PS
+Mehr
+5.0
+CHF
+8'500
+23.05.2021
+Volvo V40 - 229 Inserate anzeigen
 VOLVO V40 T4 Sport Edition
 Occasion
 02.2002
 225'000 km
 200 PS
 Mehr
-5.5
+6.0
 CHF
-1'000
+700
 07.06.2021
 VOLVO V40 1.9D
 Occasion
@@ -587,7 +576,7 @@ Mehr
 CHF
 7'900
 02.06.2021
-Volvo S60 - 134 Inserate anzeigen
+Volvo S60 - 131 Inserate anzeigen
 VOLVO S60 D4 Summum Geartronic
 Occasion
 02.2015
@@ -618,7 +607,7 @@ Mehr
 CHF
 900
 26.05.2021
-Volvo V90 CC - 48 Inserate anzeigen
+Volvo V90 CC - 49 Inserate anzeigen
 VOLVO V90 Cross Country D5 Pro AWD Geartronic Powerpulse
 Occasion
 05.2017
@@ -649,7 +638,17 @@ Mehr
 CHF
 55'500
 07.01.2021
-Volvo XC40 - 1'029 Inserate anzeigen
+Volvo XC40 - 1'044 Inserate anzeigen
+Volvo XC40 B4 B AWD R-Design
+Occasion
+05.2021
+3'000 km
+197 PS
+Mehr
+5.0
+CHF
+51'290
+19.05.2021
 VOLVO XC40 B4 B AWD R-Design
 Vorführwagen
 05.2021
@@ -670,16 +669,6 @@ Mehr
 CHF
 50'900
 26.02.2021
-VOLVO XC40 D4 AWD R-Design Geartronic
-Neuwagen
-Neuwagen
-100 km
-190 PS
-Mehr
-5.0
-CHF
-47'900
-10.02.2021
 comparis.ch
 Über Comparis
 Medien

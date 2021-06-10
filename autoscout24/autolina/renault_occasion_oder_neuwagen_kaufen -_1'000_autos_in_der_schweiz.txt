@@ -152,7 +152,6 @@ TI
 WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
-NEU
 RENAULT
 Grand Espace 2.0 dCi 175 DPF Dynamique
 CHF 9'000
@@ -195,27 +194,6 @@ Scénic 1.5 dCi Swiss Edition EDC
 CHF 7'299
 Merken
 ab CHF 83/Monat
-RENAULT
-Trafic 2.0 dCi Eco Passenger Authentique A
-CHF 24'900
-ab CHF 268/Monat
-07.2014
-Automat
-44'900 km
-Diesel
-Vorderradantrieb
-blau
-114 PS
-ZH
-Merken
-RENAULT
-Trafic 2.0 dCi Eco Passenger Auth...
-07.2014
-114 PS
-44'900 km
-CHF 24'900
-Merken
-ab CHF 268/Monat
 RENAULT
 KANGOO M. Z.E 33 BUS 5P (Bus)
 CHF 28'000
@@ -365,114 +343,136 @@ Merken
 ab CHF 618/Monat
 NEU
 RENAULT
-Trafic 1.6 dCi 95 2.9t Access L1H1
-CHF 14'900
+Alaskan Doppel Cabin TwinTurbo dCi190 4WD Intens A
+CHF 35'800
+ab CHF 385/Monat
+02.2019
+Automat
+32'200 km
+Diesel
+Allradantrieb
+braun
+190 PS
+JU
+Merken
+RENAULT
+Alaskan Doppel Cabin TwinTurbo dC...
+02.2019
+190 PS
+32'200 km
+CHF 35'800
+Merken
+ab CHF 385/Monat
+NEU
+RENAULT
+Mégane Coupé 2.0 16V Turbo RS
+CHF 14'990
 ab CHF 161/Monat
-05.2018
+09.2011
 Handschaltung
-40'827 km
-Diesel
-Vorderradantrieb
-weiss
-95 PS
-GE
-Merken
-RENAULT
-Trafic 1.6 dCi 95 2.9t Access L1H...
-05.2018
-95 PS
-40'827 km
-CHF 14'900
-Merken
-ab CHF 161/Monat
-NEU
-RENAULT
-Captur 1.3 TCe Edition One EDC
-CHF 24'450
-ab CHF 263/Monat
-07.2020
-Automat
-19'950 km
-Benzin
-Vorderradantrieb
-blau
-131 PS
-SO
-Merken
-RENAULT
-Captur 1.3 TCe Edition One EDC
-07.2020
-131 PS
-19'950 km
-CHF 24'450
-Merken
-ab CHF 263/Monat
-NEU
-RENAULT
-Trafic Grand Spacenomad 2.0 dCi Blue 170
-CHF 67'751
-ab CHF 728/Monat
-12.2020
-Automat
-100 km
-Diesel
-Vorderradantrieb
-grau
-170 PS
-SG
-Merken
-RENAULT
-Trafic Grand Spacenomad 2.0 dCi B...
-12.2020
-170 PS
-100 km
-CHF 67'751
-Merken
-ab CHF 728/Monat
-NEU
-RENAULT
-Mégane 1.2 16V T Zen
-CHF 16'950
-ab CHF 183/Monat
-07.2018
-Automat
-44'500 km
-Benzin
-Vorderradantrieb
-blau
-131 PS
-AG
-Merken
-RENAULT
-Mégane 1.2 16V T Zen
-07.2018
-131 PS
-44'500 km
-CHF 16'950
-Merken
-ab CHF 183/Monat
-NEU
-RENAULT
-Grand Scénic 1.3 TCe 160 Black Edition EDC
-CHF 40'100
-ab CHF 431/Monat
--
-Automat
-0 km
+50'000 km
 Benzin
 Vorderradantrieb
 schwarz
-158 PS
-BL
+250 PS
+ZH
 Merken
 RENAULT
-Grand Scénic 1.3 TCe 160 Black Ed...
--
-158 PS
-0 km
-CHF 40'100
+Mégane Coupé 2.0 16V Turbo RS
+09.2011
+250 PS
+50'000 km
+CHF 14'990
 Merken
-ab CHF 431/Monat
+ab CHF 161/Monat
+NEU
+RENAULT
+Trafic 1.6 ENERGY TwinT. dCi125 2.9t Business L2H1
+CHF 20'899
+ab CHF 225/Monat
+04.2018
+Handschaltung
+33'300 km
+Diesel
+Vorderradantrieb
+weiss
+125 PS
+ZH
+Merken
+RENAULT
+Trafic 1.6 ENERGY TwinT. dCi125 2...
+04.2018
+125 PS
+33'300 km
+CHF 20'899
+Merken
+ab CHF 225/Monat
+NEU
+RENAULT
+Mégane 1.2 16V Turbo 90th Anniversary EDC
+CHF 16'990
+ab CHF 183/Monat
+04.2018
+Automat
+46'400 km
+Benzin
+Vorderradantrieb
+silber
+131 PS
+ZH
+Merken
+RENAULT
+Mégane 1.2 16V Turbo 90th Anniver...
+04.2018
+131 PS
+46'400 km
+CHF 16'990
+Merken
+ab CHF 183/Monat
+NEU
+RENAULT
+Mégane 1.3 16V Turbo Zen
+CHF 17'900
+ab CHF 193/Monat
+05.2019
+Handschaltung
+24'200 km
+Benzin
+Vorderradantrieb
+silber
+140 PS
+ZH
+Merken
+RENAULT
+Mégane 1.3 16V Turbo Zen
+05.2019
+140 PS
+24'200 km
+CHF 17'900
+Merken
+ab CHF 193/Monat
+NEU
+RENAULT
+Clio Grandtour 0.9 12V Dynamique
+CHF 8'900
+ab CHF 101/Monat
+05.2014
+Handschaltung
+73'500 km
+Benzin
+Vorderradantrieb
+schwarz
+90 PS
+ZH
+Merken
+RENAULT
+Clio Grandtour 0.9 12V Dynamique
+05.2014
+90 PS
+73'500 km
+CHF 8'900
+Merken
+ab CHF 101/Monat
 1
 1
 2

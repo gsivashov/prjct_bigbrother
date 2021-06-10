@@ -154,6 +154,27 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 AUDI
+Q2 30 TFSI S-Tronic S-Line NAV LED PDC RFK
+CHF 28'700
+ab CHF 338/Monat
+01.2021
+Automat
+10 km
+Benzin
+Vorderradantrieb
+weiss
+115 PS
+ZH
+Merken
+AUDI
+Q2 30 TFSI S-Tronic S-Line NAV LE...
+01.2021
+115 PS
+10 km
+CHF 28'700
+Merken
+ab CHF 338/Monat
+AUDI
 RS6 Avant 5.0 V10 TFSI quattro T-Tronic
 CHF 30'000
 ab CHF 323/Monat
@@ -174,7 +195,6 @@ RS6 Avant 5.0 V10 TFSI quattro T-...
 CHF 30'000
 Merken
 ab CHF 323/Monat
-NEU
 AUDI
 A1 Sportback 2.0 40 TFSI S Line S-Tronic
 CHF 33'000
@@ -448,27 +468,6 @@ A5 Sportback 2.0 TFSI quattro S-T...
 CHF 15'000
 Merken
 ab CHF 162/Monat
-AUDI
-A4 Avant 2.0 TDI 150 Sport S-Tronic
-CHF 25'900
-ab CHF 279/Monat
-06.2016
-Automat
-32'300 km
-Diesel
-Vorderradantrieb
-grau
-150 PS
-GE
-Merken
-AUDI
-A4 Avant 2.0 TDI 150 Sport S-Tron...
-06.2016
-150 PS
-32'300 km
-CHF 25'900
-Merken
-ab CHF 279/Monat
 1
 1
 2

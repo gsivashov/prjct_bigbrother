@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-gerlafingen/
 Title: Wohnungen & Häuser mieten in Gerlafingen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Gerlafingen - Immostreet.ch: ImmoStreet.ch hat 38 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Gerlafingen - Immostreet.ch: ImmoStreet.ch hat 36 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-38 Resultate gefunden ·
+36 Resultate gefunden ·
 Wohnungen & Häuser mieten in Gerlafingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -220,7 +220,7 @@ E-Mail
 Facebook
 Whatsapp
 Mittelfeldstrasse 8
-1'290
+1'210
 CHF
 /Monat
 Wunderschöne 3.5-Zimmer Wohnung in Gerl…
@@ -272,7 +272,7 @@ Längmattstrasse 36
 1'235
 CHF
 /Monat
-Wohnen im Grünen!
+Wohnen im Grünen! EG mit Terrasse & Gar…
 Längmattstrasse 36, 4563 Gerlafingen
 Array
 3 Zimmer
@@ -283,7 +283,7 @@ Zimmer
 3
 Wohnfläche
 59 m2
-per sofort oder nach Vereinbarung vermieten wir an familienfreundlicher Lage im Grünen eine 3-Zimme…
+Per sofort oder nach Vereinbarung vermieten wir an familienfreundlicher Lage im Grünen eine 3-Zimme…
 Teilen
 E-Mail
 Facebook
@@ -471,19 +471,22 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'050
+Waldstrasse 2
+1'580
 CHF
 /Monat
-Helle 3 Zimmer Wohnung
-Adresse auf Anfrage, 4563 Gerlafingen
+Verenapark - wo Stil, Comfort und Natur…
+Waldstrasse 2, 4563 Gerlafingen
 Array
-3 Zimmer
+3.5 Zimmer
+89 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
-Ich suche einen Nachmieter ab Mitte Mai oder nach Vereinarung für diese hübsche 3 Zimmerwohnung in …
+3.5
+Wohnfläche
+89 m2
+Der Standort in der Nähe zu Schulen, Bus- und Zughaltestellen sowie Einkaufsmöglichkeiten, ermöglic…
 Teilen
 E-Mail
 Facebook

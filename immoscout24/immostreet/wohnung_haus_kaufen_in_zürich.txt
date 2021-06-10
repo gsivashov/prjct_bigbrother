@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/in-zuerich/
 Title: Wohnung & Haus kaufen in Zürich - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Zürich - Immostreet.ch: ImmoStreet.ch hat 62 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Zürich - Immostreet.ch: ImmoStreet.ch hat 63 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-62 Resultate gefunden ·
+63 Resultate gefunden ·
 Wohnung & Haus kaufen in Zürich
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,100 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+Preis auf Anfrage
+Exklusive Aussicht über die Dächer von …
+Adresse auf Anfrage, 8005 Zürich
+Array
+3.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+140 m2
+Über den Dächern von Zürich, im 16. Geschoss des Mobimo-Towers erwartet Sie dieses exklusive Wohner…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Historische Villa mit atemberaubender A…
+Adresse auf Anfrage, 8044 Zürich
+Array
+11.5 Zimmer
+385 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+11.5
+Wohnfläche
+385 m2
+Die Liegenschaft befindet sich an absoluter Top-Aussichtslage im besten Villenviertel der Stadt Zür…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bachmattstrasse 40
+1'300'000
+CHF
+Urban und minimalistisch: Neubauwohnung…
+Bachmattstrasse 40, 8048 Zürich
+Array
+3.5 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+81 m2
+Etage
+Mittendrin in Zürichs aufstrebendem Trendquartier Altstetten: Hier das lebendige Treiben der Badene…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Sträler
+1'170'000
+CHF
+Schöne Stadt-Wohnung mit schöner Sicht …
+Im Sträler, 8047 Zürich
+Array
+5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5
+Wohnfläche
+100 m2
+Die ideal aufgeteilte 5-Zimmer-Wohnung mit ca. 100 m2 Wohnfläche, liegt in Zürich Albisrieden in ei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Förrlibuckstrasse 227
+1'590'000
+CHF
+Wohntraum im urbanen Trendquartier Züri…
+Förrlibuckstrasse 227, 8005 Zürich
+Array
+2.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+90 m2
+Die top moderne 2.5 Zimmer-Wohnung mit 90.4 m2 Wohnfläche befindet sich im 4. Obergeschoss. Sie ver…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 1'150'000
 CHF
@@ -438,102 +532,6 @@ Zimmer
 Wohnfläche
 325 m2
 Dieses einmalige Penthouse bietet einer anspruchsvollen Klientel ein Höchstmass an Privatsphäre und…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Leutschenbachstrasse 40
-1'350'000
-CHF
-Aussichtsreiche Wohnung im WolkenWerk i…
-Leutschenbachstrasse 40, 8050 Zürich
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Etage
-Im 16ten Stock, zentral und dennoch ruhig gelegen, ist diese helle nach Süden und Osten ausgerichte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wehntalerstrasse 571
-990'000
-CHF
-3.5 Zi. Gartenwohnung im Wehntalerpark
-Wehntalerstrasse 571, 8046 Zürich
-Array
-3.5 Zimmer
-89 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-89 m2
-An zentrumsnaher Lage in Zürich Affoltern entstehen einmalige Stadtwohnungen.Die gute Verkehrsanbin…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'200'000
-CHF
-Greencity Topmoderne 2.5 Zimmer-Wohnung…
-Adresse auf Anfrage, 8041 Zürich
-Array
-2.5 Zimmer
-61 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-61 m2
-Eine Wohnung im bekannten Quartier ''Greencity'' ist immer eine sinnvolle Investition. Entlang der …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Auf Anfrage
-Preis auf Anfrage
-Wohnen am Zürichberg mit Blick ins Dold…
-Auf Anfrage, 8044 Zürich
-Array
-5.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-150 m2
-Grosszügige 5.5-Zimmer Wohnung an repräsentativer Lage unweit von Zürich City.Herrliche Sicht in di…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Badenerstrasse 414
-750'000
-CHF
-Die perfekte Investition im Nova-Park
-Badenerstrasse 414, 8004 Zürich
-Array
-2.5 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-60 m2
-Etage
-Bü-Wo Komplex mit fantastischer AusgangslageHier entscheidet jeder Eigentümer über die Nutzung sein…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
-URL: https://www.immostreet.ch/de/mieten/wohnung/in-balsthal/
+URL: https://www.immostreet.ch/de/mieten/wohnung/in-balsthal/?pagenum=2
 Title: Wohnung mieten in Balsthal - Immostreet.ch
-Description: Wohnung mieten in  Balsthal - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Balsthal - Immostreet.ch: ImmoStreet.ch hat 30 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-32 Resultate gefunden ·
+30 Resultate gefunden ·
 Wohnung mieten in Balsthal
 Preis (aufsteigend)
 Preis (absteigend)

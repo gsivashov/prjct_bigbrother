@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-elgg/
 Title: Wohnungen & Häuser mieten in Elgg - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Elgg - Immostreet.ch: ImmoStreet.ch hat 26 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Elgg - Immostreet.ch: ImmoStreet.ch hat 25 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-26 Resultate gefunden ·
+25 Resultate gefunden ·
 Wohnungen & Häuser mieten in Elgg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,27 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Friedhofweg 8
+2'030
+CHF
+/Monat
+exklusiv ausgebaute Maisonettewohnung
+Friedhofweg 8, 8353 Elgg
+Array
+3.5 Zimmer
+148 m2
+Objekttyp
+Wohnung, Duplex, Maisonette
+Zimmer
+3.5
+Wohnfläche
+148 m2
+Etage
+Ruhe - Erholung - Wohnqualität – zentrale Lage - alles Eigenschaften die für diese Wohnung zutreffe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Florahof 10
 2'190
 CHF
@@ -192,46 +213,6 @@ Zimmer
 Wohnfläche
 100 m2
 Der Hausteil ist baubiologisch renoviert und passt gut zu naturverbundenen, umweltbewussten Mensche…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Stutz 3
-1'860
-CHF
-/Monat
-ERSTBEZUG NACH TOTAL-ERNEUERUNG!
-Im Stutz 3, 8353 Elgg
-Array
-4 Zimmer
-89 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-89 m2
-Dieses MFH mit total 7 Wohnungen ist ganz neu saniert.Besichtigung der Wohnungen nach vorheriger Ve…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Stutz 1
-2'070
-CHF
-/Monat
-Schnellstens verbunden - sei es mit Int…
-Im Stutz 1, 8353 Elgg
-Array
-4.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-98 m2
-Das MFH im Stutz 1 wird momentan total saniert, und sieht nachher so aus wie das Haus auf dem Titel…
 Teilen
 E-Mail
 Facebook
@@ -439,7 +420,9 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-Preis auf Anfrage
+1'550
+CHF
+/Monat
 ERSTBEZUG NACH SANIERUNG
 Adresse auf Anfrage, 8353 Elgg
 Array
@@ -509,6 +492,26 @@ Zimmer
 Wohnfläche
 104 m2
 Lebhaft und gleichzeitig verträumt - das historische Städtchen Elgg befindet sich zwölf Kilometer ö…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Strehlgasse 8
+1'720
+CHF
+/Monat
+4.5-Zimmerwohnung im alten Dorfkern von…
+Strehlgasse 8, 8353 Elgg
+Array
+4.5 Zimmer
+152 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+4.5
+Wohnfläche
+152 m2
+Wohnerlebnis, Maisonette, auf insgesamt 152 m2 !Die Wohnung verfügt über einen speziellen Grundriss…
 Teilen
 E-Mail
 Facebook

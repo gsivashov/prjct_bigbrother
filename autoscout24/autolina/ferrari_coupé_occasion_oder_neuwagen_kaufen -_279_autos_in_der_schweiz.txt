@@ -451,11 +451,11 @@ Merken
 ab CHF 3683/Monat
 FERRARI
 F12 Berlinetta
-CHF 219'988
-ab CHF 2590/Monat
+CHF 216'988
+ab CHF 2555/Monat
 10.2013
 Automat
-33'900 km
+34'900 km
 Benzin
 Hinterradantrieb
 rot
@@ -466,10 +466,10 @@ FERRARI
 F12 Berlinetta
 10.2013
 736 PS
-33'900 km
-CHF 219'988
+34'900 km
+CHF 216'988
 Merken
-ab CHF 2590/Monat
+ab CHF 2555/Monat
 1
 1
 2

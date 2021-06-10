@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-rorschacherberg/
 Title: Wohnungen & Häuser mieten in Rorschacherberg - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Rorschacherberg - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Rorschacherberg - Immostreet.ch: ImmoStreet.ch hat 33 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-34 Resultate gefunden ·
+33 Resultate gefunden ·
 Wohnungen & Häuser mieten in Rorschacherberg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,26 +122,6 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Promenadestr 81
-1'260
-CHF
-/Monat
-Zu vermieten in Rorschach
-Promenadestr 81, 9404 Rorschacherberg
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-zu vermieten 3.5 Zimmerwohung mit grosse balkon sehr Hell ab 1.7.21Parkettboden und so weiter 076 7…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Resedastrasse 7
 1'860
 CHF
@@ -496,6 +476,26 @@ Array
 Objekttyp
 Offener Parkplatz
 Wir vermieten per 1. Mai 2021 oder nach Vereinbarung Parkplätze an der genannten Liegenschaft. Der …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Resedastrasse 4
+1'190
+CHF
+/Monat
+2.5 Zimmer Wohnung zu vermieten
+Resedastrasse 4, 9404 Rorschacherberg
+Array
+2.5 Zimmer
+50 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+50 m2
+2.5 Zimmer Wohnung zu vermietenAn ruhiger, zentraler Lage vermieten wir auf den 1. Juli 2021 oder n…
 Teilen
 E-Mail
 Facebook

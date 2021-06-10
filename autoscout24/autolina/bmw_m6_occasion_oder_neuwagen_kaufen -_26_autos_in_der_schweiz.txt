@@ -154,7 +154,6 @@ TI
 WIR-ANTEIL
 26 Treffer
 Suche zurücksetzen
-NEU
 BMW
 M6 SMG
 CHF 29'900
@@ -178,11 +177,11 @@ Merken
 ab CHF 322/Monat
 BMW
 M6 Coupé Drivelogic
-CHF 66'884
+CHF 66'890
 ab CHF 719/Monat
 03.2016
 Automat
-69'620 km
+59'000 km
 Benzin
 Hinterradantrieb
 weiss
@@ -193,8 +192,8 @@ BMW
 M6 Coupé Drivelogic
 03.2016
 560 PS
-69'620 km
-CHF 66'884
+59'000 km
+CHF 66'890
 Merken
 ab CHF 719/Monat
 BMW

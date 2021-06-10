@@ -107,7 +107,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-90 Resultate gefunden ·
+81 Resultate gefunden ·
 Angebote der Agentur Regimo Zürich AG
 Preis (aufsteigend)
 Preis (absteigend)
@@ -120,6 +120,140 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Gumpenwiesenstr. 33
+1'450
+CHF
+/Monat
+Wohnkomfort für Geniesser
+Gumpenwiesenstr. 33, 8157 Dielsdorf
+Array
+3.5 Zimmer
+72 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+72 m2
+Suchen Sie familienfreundlichen Wohn- und Lebensraum mit Atmosphäre zu fairen Mietpreisen? Dann sin…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Riedstrasse 6
+90
+CHF
+Willkommen im Riedhof 6: 104 m2 Lager i…
+Riedstrasse 6, 8953 Dietikon
+Array
+Objekttyp
+Verkauf, Lager
+Der Riedhof 6 befindet sich mitten im lebendigen Gebiet Silbern, umgeben von zahlreichen Fachmärkte…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bergstrasse 22
+2'360
+CHF
+/Monat
+Familienwohnung am Südhang von Geroldsw…
+Bergstrasse 22, 8954 Geroldswil
+Array
+4.5 Zimmer
+107 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+107 m2
+Die grosszügige, helle Wohnung befindet sich in einem ruhigen Quartier mit viel grüner Umgebung. Da…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rychenbergstr. 55b
+2'730
+CHF
+/Monat
+Attraktives Stadtquartier voller Leben
+Rychenbergstr. 55b, 8400 Winterthur
+Array
+4.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+123 m2
+Das Haldengut ist ein attraktives Stadtquartier voller Leben. Den Geist der damaligen historischen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Säntisstrasse 28
+1'570
+CHF
+/Monat
+Attraktive Wohnung an der Stadtgrenze m…
+Säntisstrasse 28, 8640 Rapperswil SG
+Array
+3 Zimmer
+58 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+58 m2
+Dieses ruhig gelegene Mehrfamilienhaus befindet sich an der Stadtgrenze. Die malerische Altstadt vo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Farman-Strasse 14
+3'000
+CHF
+/Monat
+Lebensraum zum Spielen und Verweilen
+Farman-Strasse 14, 8152 Glattpark (Opfikon)
+Array
+4.5 Zimmer
+114 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+114 m2
+Mit dem Glattpark wächst eine neue Stadt mit einem eigenständigen, urbanen Gesicht. Mitten in diese…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rütlistr. 17
+1'660
+CHF
+/Monat
+Stadtnah und modern!
+Rütlistr. 17, 8400 Winterthur
+Array
+3 Zimmer
+67 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+67 m2
+Etage
+Es erwartet Sie eine moderne Wohnung in einem gepflegten Mehrfamilienhaus. Einkaufszentren, die Alt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Hohrainlistr. 18
 600
 CHF
@@ -140,28 +274,8 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Brühlgartenstrasse 2
-2'025
-CHF
-/Monat
-Zentrale Wohnung mit parkähnlicher Umge…
-Brühlgartenstrasse 2, 8400 Winterthur
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Möchten Sie sich in Ihrem Zuhause wie in den Ferien fühlen? Dann ist diese grosszügige, moderne Gar…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Lindenstr. 16
-925
+940
 CHF
 /Monat
 Modern ausgestattete Wohnung an sonnige…
@@ -196,26 +310,6 @@ Zimmer
 Wohnfläche
 105 m2
 Die Dachwohnung befindet sich in einem gepflegten Mehrfamilienhaus mit viel grüner Umgebung. In die…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blumenweg 18
-1'960
-CHF
-/Monat
-Gepflegte 2-Zimmerwohnung im Seefeld
-Blumenweg 18, 8008 Zürich
-Array
-2 Zimmer
-50 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-50 m2
-Dieses authentische Wohnung befindet sich an zentraler und doch ruhiger Lage im Seefeld. In einem h…
 Teilen
 E-Mail
 Facebook
@@ -402,26 +496,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Badstrasse 6
-2'410
-CHF
-/Monat
-Wohnen im Herzen des Bäderquartiers
-Badstrasse 6, 5408 Ennetbaden
-Array
-4.5 Zimmer
-94 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-94 m2
-Die Wohnung befindet sich im kulturhistorisch bedeutsamen Bäderquartier von Ennetbaden, direkt am…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Farman-Strasse 10
 2'765
 CHF
@@ -438,86 +512,6 @@ Zimmer
 Wohnfläche
 105 m2
 Mit dem Glattpark wächst eine neue Stadt mit einem eigenständigen, urbanen Gesicht. Mitten in diese…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Breitestr. 23
-1'710
-CHF
-/Monat
-Charmante Wohnung mit Gartensitzplatz
-Breitestr. 23, 8903 Birmensdorf ZH
-Array
-3.5 Zimmer
-73 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-73 m2
-Diese Gartenwohnung befindet sich in einer gepflegten Siedlung im Herzen von Birmensdorf. Die gute …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dörflistrasse 47
-2'930
-CHF
-/Monat
-Wohnen in einem lebendigen Stadtteil Zü…
-Dörflistrasse 47, 8050 Zürich
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Die vom Taglicht durchflutete moderne Wohnung befindet sich im aufstrebenden Quartier von Oerlikon.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Birchstr. 159
-1'530
-CHF
-/Monat
-Neu, modern und doch warm - Ihr neues z…
-Birchstr. 159, 8156 Oberhasli
-Array
-2.5 Zimmer
-50 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-50 m2
-Diese helle und im Jahr 2016 neu erstellte Wohnung zeichnet sich durch Ihren lichtdurchflutenden Gr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ankengasse 9
-1'470
-CHF
-/Monat
-Allein oder zu zweit: Hier könnte es Ih…
-Ankengasse 9, 8623 Wetzikon ZH
-Array
-3 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-60 m2
-Diese zeitgemässe Wohnung befindet sich in einem gepflegten Mehrfamilienhaus in ruhiger Umgebung. D…
 Teilen
 E-Mail
 Facebook

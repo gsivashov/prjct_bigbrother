@@ -573,9 +573,9 @@ Pontiac Oldtimer
 (34)
 Aufbau
 Pontiac Coupé
-(49)
+(48)
 Pontiac Limousine
-(26)
+(27)
 Pontiac Cabrio
 (16)
 Motor
@@ -583,7 +583,7 @@ Pontiac Benzin
 (69)
 Modelle
 Pontiac Firebird
-(50)
+(49)
 Pontiac Bonneville
 (5)
 Pontiac Grand-AM
@@ -607,6 +607,16 @@ weniger
 43 Inserate
 0 Inserate
 1 Inserat
+PONTIAC Parisienne
+10.06.2021
+Occasion
+05.1966, Automat, Benzin
+64'000 km, 300 PS, Blau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 12'000
+ab CHF 219 / Monat
 Pontiac Firebird 5.0 V8 Trans Am
 03.06.2021
 Occasion
@@ -637,8 +647,9 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 10'250
 ab CHF 187 / Monat
+Preisreduktion
 Pontiac Firebird Convertible 3.4 V6
-1.5
+2.5
 02.06.2021
 Occasion
 10.1995, Automat, Benzin
@@ -646,8 +657,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 7'900
-ab CHF 144 / Monat
+CHF 6'900
+ab CHF 126 / Monat
 PONTIAC Firebird 5.0 V8 Trans Am
 02.06.2021
 Occasion
@@ -697,16 +708,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 25'000
 ab CHF 457 / Monat
-PONTIAC FIREBIRD Bandit
-18.05.2021
-Occasion
-12.1977, Automat, Benzin
-124'000 km, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 39'990
-ab CHF 730 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2

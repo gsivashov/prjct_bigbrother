@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-zofingen/
 Title: Wohnung & Haus mieten in Zofingen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Zofingen - Immostreet.ch: ImmoStreet.ch hat 89 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Zofingen - Immostreet.ch: ImmoStreet.ch hat 88 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-89 Resultate gefunden ·
+88 Resultate gefunden ·
 Wohnung & Haus mieten in Zofingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Henzmannstrasse 13
+1'235
+CHF
+/Monat
+Helle Wohnung mit toller Aussicht - seh…
+Henzmannstrasse 13, 4800 Zofingen
+Array
+3.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+65 m2
+- Zentral gelegen, nur ca. 4 Min. vom Zentrum- Wohnzimmer Eichenparkett- Wohnküche mit Geschirrspül…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Mühlemattstrasse 8
 1'320
 CHF
@@ -525,27 +545,6 @@ Wohnung, Flach
 Zimmer
 2.5
 Ich suche per sofort einen Nachmieter für meine 2.5-Zimmerwohnung in der Zofinger Altstadt.Folgende…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kilchbergstrasse 4
-1'370
-CHF
-/Monat
-Ruhige 4.5-Zimmerwohnung im Grünen
-Kilchbergstrasse 4, 4800 Zofingen
-Array
-4.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-105 m2
-Etage
-Verkehrsgünstig gelegen, 5 Gehminuten zur Bushaltestelle, 15 Gehminuten bis zum Bahnhof und zur Alt…
 Teilen
 E-Mail
 Facebook

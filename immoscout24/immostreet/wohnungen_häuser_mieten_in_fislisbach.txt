@@ -122,23 +122,42 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Hiltibergstrasse 36C
-2'870
+Bollstrasse 2
+1'580
 CHF
 /Monat
-LEBEN WIE IN EINEM EINFAMILIENHAUS MIT…
-Hiltibergstrasse 36C, 5442 Fislisbach
+Tolle Maisonettewohnung
+Bollstrasse 2, 5442 Fislisbach
 Array
-4.5 Zimmer
-145 m2
+4 Zimmer
+93 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4
+Wohnfläche
+93 m2
+Wir vermieten per sofort heimelige Dach-Maisonettewohnung an ruhiger Lage. Die Wohnung befindet sic…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Moosäckerstrasse 10
+1'590
+CHF
+/Monat
+Wohnen im Grünen
+Moosäckerstrasse 10, 5442 Fislisbach
+Array
+3.5 Zimmer
+83 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+3.5
 Wohnfläche
-145 m2
-Etage
-SONNIGES LIEBHABEROBJEKT AM HILTIBERG MIT TRAUMHAFTER AUSSICHTDie hanglagige, Süd-West ausgerichtet…
+83 m2
+Die Wohnung verfügt über: - Grosszügige, helle Räume- Neue offene Küche (hellgraue Fronten) - Grani…
 Teilen
 E-Mail
 Facebook
@@ -239,26 +258,6 @@ Array
 Objekttyp
 Verkauf, Geschäft
 An zentralster Lage vermieten wir einen Gewerberaum mit Fensterfront zur Hauptstrasse und Nebenräum…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Steinäckerstr. 16a
-1'040
-CHF
-/Monat
-Ruhige Lage mit Sicht ins Grüne
-Steinäckerstr. 16a, 5442 Fislisbach
-Array
-2 Zimmer
-51 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-51 m2
-Es erwartet Sie eine helle Wohnung in einem gepflegten Mehrfamilienhaus in dörflicher Umgebung. In …
 Teilen
 E-Mail
 Facebook

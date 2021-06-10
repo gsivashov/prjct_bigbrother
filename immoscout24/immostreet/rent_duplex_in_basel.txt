@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/en/rent/apartment/subcategory-maisonette/at-basel/
 Title: Rent Duplex in Basel - Immostreet.ch
-Description: Rent Duplex in  Basel - Immostreet.ch: ImmoStreet.com has 28 offers and will help you to find the best deal in  and the surrounding area.
+Description: Rent Duplex in  Basel - Immostreet.ch: ImmoStreet.com has 29 offers and will help you to find the best deal in  and the surrounding area.
 
 Your browser is out of date!
 Update your browser to view this website correctly. Update my browser now
@@ -116,7 +116,7 @@ Filter
 Search
 Adapt Search
 The search subscription has been added to your Immobox.
-28 results found ·
+29 results found ·
 Rent Duplex in Basel
 Price (ascending)
 Price (descending)
@@ -129,6 +129,43 @@ Postal code (ascending)
 Postal code (descending)
 Sorting
 Submit
+Dornacherstr. 82
+2'125
+CHF
+/Month
+3.5-Z'Wohnung mit zwei Dachterrassen un…
+Dornacherstr. 82, 4053 Basel
+Array
+3.5 Rooms
+101 m2
+Object type
+Apartment, Duplex
+Rooms
+3.5
+Living space
+101 m2
+Ab 1. Juli 2021 oder nach Vereinbarung vermieten wir diese geräumige 3.5-Zimmer-Maisonette-Dachwohn…
+Share
+E-mail
+Facebook
+Whatsapp
+Clarastrasse 57
+2'625
+CHF
+/Month
+Luxuriös: Wohnen auf zwei Ebenen
+Clarastrasse 57, 4058 Basel
+Array
+4.5 Rooms
+Object type
+Apartment, Duplex
+Rooms
+4.5
+Ab Dezember 2021 bietet die Clarastrasse 57 frisch sanierte, individuelle Wohnungen. Lassen Sie sic…
+Share
+E-mail
+Facebook
+Whatsapp
 Holbeinstrasse 31
 3'170
 CHF
@@ -492,46 +529,6 @@ Rooms
 Living space
 147 m2
 Auf zwei Ebenen bietet Ihnen diese aussergewöhnliche und charmante Wohnung ausserdem folgende Vorte…
-Share
-E-mail
-Facebook
-Whatsapp
-Arnold Böcklin-Strasse 41
-3'670
-CHF
-/Month
-Nähe Schützenmattpark
-Arnold Böcklin-Strasse 41, 4051 Basel
-Array
-5.5 Rooms
-216 m2
-Object type
-Apartment, Duplex
-Rooms
-5.5
-Living space
-216 m2
-Paulusquartier In der nähe Schützenmattpark befindet sich dieses aussergewöhnliche grosszügige Wohn…
-Share
-E-mail
-Facebook
-Whatsapp
-Herrengrabenweg 64
-1'740
-CHF
-/Month
-IDEAL FÜR PENDLER
-Herrengrabenweg 64, 4054 Basel
-Array
-2 Rooms
-62 m2
-Object type
-Apartment, Duplex
-Rooms
-2
-Living space
-62 m2
-IDEAL FÜR PENDLERDie Liegenschaft befindet sich im schönen grünen Gotthelf Quartier. Das Mehrfamili…
 Share
 E-mail
 Facebook

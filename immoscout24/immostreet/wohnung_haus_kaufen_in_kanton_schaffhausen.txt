@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/kanton-schaffhausen/
 Title: Wohnung & Haus kaufen in Kanton Schaffhausen - Immostreet.ch
-Description: Wohnung & Haus kaufen in Kanton Schaffhausen - Immostreet.ch: ImmoStreet.ch hat 152 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Kanton Schaffhausen - Immostreet.ch: ImmoStreet.ch hat 155 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-152 Resultate gefunden ·
+155 Resultate gefunden ·
 Wohnung & Haus kaufen in Kanton Schaffhausen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,160 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Bahnhofstrasse 3
+845'000
+CHF
+Behagliche Dachwohnung mit herrlicher W…
+Bahnhofstrasse 3, 8260 Stein am Rhein
+Array
+5.5 Zimmer
+172 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+172 m2
+Diese geräumige 5.5 - 6.5 Zimmer Wohnperle an begehrter Lage bietet viel mehr als nur die klassisch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Herblingerstrasse 19
+485'000
+CHF
+Hochwertige Minergie-Wohnung
+Herblingerstrasse 19, 8207 Schaffhausen
+Array
+2.5 Zimmer
+68 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+68 m2
+In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Herblingerstrasse 19
+720'000
+CHF
+Modern, lichtdurchflutet und zentral
+Herblingerstrasse 19, 8207 Schaffhausen
+Array
+4.5 Zimmer
+114 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+114 m2
+In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorf
+450'000
+CHF
+RUHIG WOHNEN AN ZENTRALER LAGE
+Oberdorf, 8222 Beringen
+Array
+4.5 Zimmer
+103 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+103 m2
+Im Jahr 1972 wurde die 4½-Zimmer-Wohnung in dem ruhigen, familienfreundlichen Quartier Oberdorf erb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorf
+665'000
+CHF
+RUHIG WOHNEN AN ZENTRALER LAGE
+Oberdorf, 8222 Beringen
+Array
+7 Zimmer
+160 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+7
+Wohnfläche
+160 m2
+Im Jahr 1972 wurde die 4½-Zimmer-Wohnung mit der zusammengeschlossenen 2.5 Zimmer-Wohnung in dem ru…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 95
+700'000
+CHF
+Altstadthaus im historischen Dorfkern
+Hauptstrasse 95, 8215 Hallau
+Array
+6.5 Zimmer
+161 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+161 m2
+Etage
+Sie haben keine Lust auf ein gewöhnliches Neubauhaus ab Stange? Sie wollen lieber ein Zuhause, das …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Villenwohnung mit traumhafter Aussicht,…
+Adresse auf Anfrage, 8200 Schaffhausen
+Array
+6 Zimmer
+195 m2
+Objekttyp
+Wohnung, Duplex, Maisonette
+Zimmer
+6
+Wohnfläche
+195 m2
+Etage
+»Nid d’aigle« – Zwischen historischer Innenstadt und einer märchenhaften Naturlandschaft
+Am Son…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'690'000
+CHF
+Erstbezug! Sonnenverwöhntes Atelierhaus
+Adresse auf Anfrage, 8200 Schaffhausen
+Array
+6.5 Zimmer
+234 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+234 m2
+www.wohnen-am-hohberg.chIm ruhigen und beliebten Quartier Hohberg in Schaffhausen entsteht Ihr zukü…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Badische Bahnhofstrasse 16
 920'000
 CHF
@@ -306,25 +460,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Im Santenbüel 3
-950'000
-CHF
-Für Sonnenhungrige - Einfamilienhaus in…
-Im Santenbüel 3, 8234 Stetten SH
-Array
-6.5 Zimmer
-134 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-134 m2
-Dieses von Jörg Aellig erbaute, freistehende Einfamilienhaus aus den 60er-Jahren besticht durch sei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Herblingerstrasse 15
 785'000
 CHF
@@ -396,139 +531,6 @@ Zimmer
 3.5
 Wohnfläche
 94 m2
-In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Bergli 3
-620'000
-CHF
-Naturnah wohnen in Schaffhausen-Herblin…
-Im Bergli 3, 8207 Schaffhausen
-Array
-3.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-88 m2
-In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Herblingerstrasse 15
-780'000
-CHF
-Neu, hochwertig, lichterfüllt - 4.5 Zim…
-Herblingerstrasse 15, 8207 Schaffhausen
-Array
-4.5 Zimmer
-111 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-111 m2
-In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Herblingerstrasse 15
-610'000
-CHF
-Topmoderne Neubauwohnung im "Gloggeguet"
-Herblingerstrasse 15, 8207 Schaffhausen
-Array
-3.5 Zimmer
-82 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-82 m2
-In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Herblingerstrasse 17
-660'000
-CHF
-Ihr neues Zuhause an attraktiver Lage
-Herblingerstrasse 17, 8207 Schaffhausen
-Array
-3.5 Zimmer
-94 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-94 m2
-In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Herblingerstrasse 17
-850'000
-CHF
-Lichtdurchflutet, hochwertig. Ihr Wohnt…
-Herblingerstrasse 17, 8207 Schaffhausen
-Array
-5.5 Zimmer
-123 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-123 m2
-In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Herblingerstrasse 19
-725'000
-CHF
-Hochwertige Eigentumswohnung am Naherho…
-Herblingerstrasse 19, 8207 Schaffhausen
-Array
-4.5 Zimmer
-114 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-114 m2
-In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Herblingerstrasse 21
-475'000
-CHF
-2.5 Zimmer-Gartenwohnung an zentraler L…
-Herblingerstrasse 21, 8207 Schaffhausen
-Array
-2.5 Zimmer
-74 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-74 m2
 In Schaffhausen-Herblingen entsteht die neue Siedlung Gloggeguet mit vielen Qualitäten. Aufgeteilt …
 Teilen
 E-Mail

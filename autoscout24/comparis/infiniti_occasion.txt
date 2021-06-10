@@ -569,26 +569,26 @@ Infiniti
 Infiniti Occasion
 (178)
 Infiniti Vorführwagen
-(10)
+(11)
 Aufbau
 Infiniti Geländewagen
-(91)
+(92)
 Infiniti Limousine
-(84)
-Infiniti Coupé
-(10)
-Motor
-Infiniti Benzin
-(87)
-Infiniti Diesel
 (86)
+Infiniti Coupé
+(8)
+Motor
+Infiniti Diesel
+(88)
+Infiniti Benzin
+(85)
 Modelle
 Infiniti Q
-(89)
+(88)
 Infiniti QX
-(53)
+(55)
 Infiniti FX
-(31)
+(30)
 Infiniti EX
 (10)
 Infiniti G
@@ -610,6 +610,48 @@ weniger
 135 Inserate
 0 Inserate
 0 Inserate
+INFINITI QX70 3.0d S Premium AWD Automatic
+3.5
+09.06.2021
+Occasion
+03.2016, Automat, Diesel
+68'500 km, 238 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 28'000
+ab CHF 511 / Monat
+INFINITI QX70 3.7 S AWD Automatic
+09.06.2021
+Occasion
+01.2017, Automat, Benzin
+81'500 km, 320 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 27'900
+ab CHF 510 / Monat
+INFINITI Q50 2.2d Sport Automatic
+2.5
+08.06.2021
+Occasion
+12.2014, Automat, Diesel
+44'890 km, 170 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 17'990
+ab CHF 329 / Monat
+INFINITI Q70 2.2d Premium Executive
+08.06.2021
+Occasion
+09.2017, Automat, Diesel
+68'000 km, 170 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 22'900
+ab CHF 418 / Monat
 INFINITI Q30 2.0t Sport AWD DCT
 3.5
 07.06.2021
@@ -674,50 +716,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 12'499
 ab CHF 228 / Monat
-INFINITI QX70 3.0d S Premium AWD Automatic
-4.5
-01.06.2021
-Occasion
-05.2016, Automat, Diesel
-24'000 km, 238 PS, Anthrazit
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 29'900
-ab CHF 546 / Monat
-INFINITI QX70 3.0d S Premium AWD Automatic
-3.0
-31.05.2021
-Occasion
-11.2014, Automat, Diesel
-87'000 km, 238 PS, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 23'900
-ab CHF 437 / Monat
-Infiniti Q30 2.2d Sport City Black AWD DCT
-3.0
-30.05.2021
-Occasion
-03.2016, Automat, Diesel
-68'000 km, 170 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 19'900
-ab CHF 363 / Monat
-Infiniti Q50 2.2d Sport
-3.0
-27.05.2021
-Occasion
-09.2014, Automat, Diesel
-99'000 km, 170 PS, Braun
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 13'900
-ab CHF 254 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2

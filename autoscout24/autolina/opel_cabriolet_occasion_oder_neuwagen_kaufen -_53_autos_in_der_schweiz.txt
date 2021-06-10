@@ -157,6 +157,27 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 OPEL
+Cascada 1.4i 16V Turbo Cosmo
+CHF 8'700
+ab CHF 98/Monat
+06.2013
+Handschaltung
+162'004 km
+Benzin
+Vorderradantrieb
+braun
+140 PS
+BE
+Merken
+OPEL
+Cascada 1.4i 16V Turbo Cosmo
+06.2013
+140 PS
+162'004 km
+CHF 8'700
+Merken
+ab CHF 98/Monat
+OPEL
 Astra TwinTop 1.8i 16V 140 Cosmo
 CHF 5'500
 07.2007
@@ -215,7 +236,7 @@ CHF 6'900
 Merken
 OPEL
 Astra 2.0i 16V Turbo
-CHF 2'500
+CHF 1'999
 03.2003
 Handschaltung
 219'150 km
@@ -230,7 +251,7 @@ Astra 2.0i 16V Turbo
 03.2003
 200 PS
 219'150 km
-CHF 2'500
+CHF 1'999
 Merken
 35-Punkte-Check
 Kostenlose Probefahrt
@@ -456,27 +477,6 @@ ab CHF 159/Monat
 Kostenlose Probefahrt
 Garantieversprechen
 Faires Eintauschangebot
-OPEL
-Astra Cabriolet 2.0i 16V Turbo
-CHF 15'800
-ab CHF 170/Monat
-02.2003
-Handschaltung
-22'000 km
-Benzin
-Vorderradantrieb
-schwarz
-192 PS
-GR
-Merken
-OPEL
-Astra Cabriolet 2.0i 16V Turbo
-02.2003
-192 PS
-22'000 km
-CHF 15'800
-Merken
-ab CHF 170/Monat
 1
 1
 2

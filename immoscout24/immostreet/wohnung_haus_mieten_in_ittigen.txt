@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-ittigen/
 Title: Wohnung & Haus mieten in Ittigen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Ittigen - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Ittigen - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-31 Resultate gefunden ·
+32 Resultate gefunden ·
 Wohnung & Haus mieten in Ittigen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,40 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Obereyfeldweg 25
+1'990
+CHF
+/Monat
+Attika-Wohnung zu vermieten!
+Obereyfeldweg 25, 3063 Ittigen
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3
+Das gepflegte Mehrfamilienhaus liegt an ruhiger Lage im Eyfeldquartier in Ittigen. Die öffentlichen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnstrasse 19
+1'180
+CHF
+/Monat
+3 Zimmerwohnung im 3. Stock
+Bahnstrasse 19, 3063 Ittigen
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Per 1.August 2021 wird meine gemütliche 3. Zimmerwohnung in Ittigen zur Nachmiete frei. Die Wohnung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Talweg 21
 2'390
 CHF
@@ -326,26 +360,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Mittelweg 4
-1'550
-CHF
-/Monat
-schöne 3-Zimmerwohnung im 1. Stock links
-Mittelweg 4, 3063 Ittigen
-Array
-3 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-70 m2
-Nähe öV - zentrale und ruhige Lageim 2018 komplett saniert - moderne Küche mit Glaskeramikherd, Ges…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Chasseralstrasse 13
 2'260
 CHF
@@ -427,7 +441,9 @@ E-Mail
 Facebook
 Whatsapp
 Grauholzstrasse 1
-Preis auf Anfrage
+1'220
+CHF
+/Monat
 Erstvermietung - www.grauholzstrasse1.ch
 Grauholzstrasse 1, 3063 Ittigen
 Array
@@ -508,23 +524,6 @@ Wohnung, Flach
 Zimmer
 4
 Wohnung mit Aussicht, sonniger Balkon, ruhig, Miete inkl. Nebenkosten, 10 Min. bis Bahnhof Bern, ab…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Längfeldstrasse 4
-1'269
-CHF
-/Monat
-Grosszügige Wohnung in Ittigen
-Längfeldstrasse 4, 3063 Ittigen
-Array
-4 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Die Liegenschaft befindet in der Nähe der Busendstation "Kappelisacker" der Linien 40/41/43 in Itt…
 Teilen
 E-Mail
 Facebook

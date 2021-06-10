@@ -605,13 +605,13 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Fiat
-(5'942)
+(6'010)
 Fiat Talento Neuwagen
 (60)
 Fiat Talento Occasion
 (43)
 Fiat Talento Vorführwagen
-(16)
+(17)
 Aufbau
 Fiat Talento Nutzfahrzeug
 (89)
@@ -619,31 +619,33 @@ Fiat Talento Limousine
 (12)
 Fiat Talento Minivan/Van
 (11)
+Fiat Talento Geländewagen
+(3)
 Fiat Talento Wohnmobil / Wohnwagen
 (3)
 Motor
 Fiat Talento Diesel
-(119)
+(120)
 Typ
 Fiat Talento
-(119)
+(120)
 Modelle
 Fiat 500
-(2'350)
+(2'408)
 Fiat Tipo
-(531)
+(536)
 Fiat Panda
-(523)
+(534)
 Fiat 500X
 (414)
 Fiat 595
-(395)
+(392)
 Fiat Ducato
-(388)
+(377)
 Fiat Punto
-(346)
+(345)
 Fiat Doblo
-(145)
+(146)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -656,9 +658,29 @@ alle anzeigen
 weniger
 7 Inserate
 0 Inserate
-59 Inserate
+58 Inserate
 0 Inserate
 0 Inserate
+FIAT Talento 29 fourg. 3098 H1 2.0 EJ 120 Easy Pro Plus S/S
+08.06.2021
+Neuwagen
+Manuell, Diesel
+20 km, 120 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 25'900
+ab CHF 473 / Monat
+FIAT Talento 29 Kombi 3498 H1 v. 2.0 EJ 145 Swiss S/S
+08.06.2021
+Neuwagen
+Manuell, Diesel
+20 km, 145 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 39'900
+ab CHF 729 / Monat
 Fiat Talento 29 2.0 MJ L1H1 Easy Pro Plus
 04.06.2021
 Neuwagen
@@ -739,26 +761,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 28'900
 ab CHF 528 / Monat
-Fiat Talento 29 Kaw. 3098 H1 2.0 DC
-26.05.2021
-Neuwagen
-Automat, Diesel
-100 km, 146 PS, andere
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 26'900
-ab CHF 491 / Monat
-FIAT Talento 29 Kaw. 3098 H1 2.0 DC
-26.05.2021
-Neuwagen
-Automat, Diesel
-100 km, 145 PS, Weiss
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 26'900
-ab CHF 491 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2

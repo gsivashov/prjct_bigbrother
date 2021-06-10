@@ -1,6 +1,6 @@
 URL: https://www.comparis.ch/carfinder/marktplatz/honda/kombi
 Title: Honda Kombi – Preise vergleichen mit Comparis
-Description: Finden Sie unter 54 Honda Kombi Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
+Description: Finden Sie unter 51 Honda Kombi Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
 Suche
 Menü
@@ -581,46 +581,46 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Honda
-(2'068)
+(2'063)
 Honda Occasion
-(1'511)
+(1'503)
 Honda Neuwagen
-(379)
+(383)
 Honda Vorführwagen
-(175)
+(174)
 Honda Oldtimer
 (3)
 Aufbau
 Honda Limousine
-(695)
+(691)
 Honda Geländewagen
-(605)
+(604)
 Honda Minivan/Van
-(85)
+(86)
 Honda Coupé
-(65)
+(64)
 Honda Kombi
-(55)
+(52)
 Honda Cabrio
-(24)
+(22)
 Motor
 Honda Benzin
-(1'183)
+(1'174)
 Honda Diesel
-(232)
+(231)
 Honda Elektroautos
-(97)
+(96)
 Modelle
 Honda Jazz
-(680)
+(685)
 Honda CR-V
-(451)
+(455)
 Honda Civic
-(407)
+(412)
 Honda HR-V
-(163)
+(158)
 Honda Accord
-(89)
+(83)
 Honda Insight
 (32)
 Honda FR-V
@@ -632,16 +632,26 @@ auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
 Carweb wird durchsucht ...
 drive-in.ch wird durchsucht ...
-54 Treffer auf allen grossen Schweizer Auto-Portalen
-54 Treffer auf allen Portalen
+51 Treffer auf allen grossen Schweizer Auto-Portalen
+51 Treffer auf allen Portalen
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
 0 Inserate
 10 Inserate
-46 Inserate
+43 Inserate
 0 Inserate
 0 Inserate
+Preiserhöhung
+HONDA Accord Tourer 2.4i Executive Automatic
+09.06.2021
+Occasion
+07.2005, Automat, Benzin
+162'850 km, 190 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 4'900
 HONDA Accord Tourer 2.2 i-CTDi Executive
 1.5
 04.06.2021
@@ -684,8 +694,9 @@ Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 1'699
+Preisreduktion
 HONDA Civic Aerodeck 1.6i LS Swiss 2000
-1.5
+4.5
 02.06.2021
 Occasion
 05.1999, Automat, Benzin
@@ -693,18 +704,7 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 1'900
-Preisreduktion
-HONDA Accord Tourer 2.2 i-CTDi Elegance Automatic
-2.0
-02.06.2021
-Occasion
-06.2010, Automat, Diesel
-301'000 km, 150 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 4'950
+CHF 1'300
 HONDA Accord Tourer 2.2 i-CTDi Elegance
 01.06.2021
 Occasion

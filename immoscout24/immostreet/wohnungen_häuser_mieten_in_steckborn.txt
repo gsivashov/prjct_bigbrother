@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-steckborn/
 Title: Wohnungen & Häuser mieten in Steckborn - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Steckborn - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Steckborn - Immostreet.ch: ImmoStreet.ch hat 23 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-24 Resultate gefunden ·
+23 Resultate gefunden ·
 Wohnungen & Häuser mieten in Steckborn
 Preis (aufsteigend)
 Preis (absteigend)
@@ -464,23 +464,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Oberer Höhenweg 11
-800
-CHF
-/Monat
-WG «wie in den Ferien» - frische klare …
-Oberer Höhenweg 11, 8266 Steckborn
-Array
-17 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-17 m2
-3 Zimmer in WG in 5 Zimmer Doppelhaus mit Garten und prachtvoller Aussicht über den See.Das grosszü…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bahnhofstrasse 4
 50
 CHF
@@ -491,6 +474,26 @@ Array
 Objekttyp
 Offener Parkplatz
 Wir vermieten einen Parkplatz bei der ehemaligen Post Steckborn. Nur eine Gehminute vom Bahnhof ent…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kirchgasse 3
+1'370
+CHF
+/Monat
+***charmante Wohnung mit Kachelofen***
+Kirchgasse 3, 8266 Steckborn
+Array
+2.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+77 m2
+In das stattliche Gebäude aus dem 17. Jahrhundert wurden 12 Wohnungen, sowie ein Büro und Ladenloka…
 Teilen
 E-Mail
 Facebook

@@ -318,7 +318,7 @@ Automat
 1'500 km
 Diesel
 Vorderradantrieb
-sonstiges
+blau
 136 PS
 ZH
 Merken
@@ -457,7 +457,7 @@ ab CHF 354/Monat
 SSANG YONG
 Korando 2.0 e-XDI Plus Edition 4WD
 CHF 13'500
-ab CHF 145/Monat
+ab CHF 159/Monat
 11.2015
 Handschaltung
 52'000 km
@@ -474,7 +474,7 @@ Korando 2.0 e-XDI Plus Edition 4W...
 52'000 km
 CHF 13'500
 Merken
-ab CHF 145/Monat
+ab CHF 159/Monat
 1
 1
 2

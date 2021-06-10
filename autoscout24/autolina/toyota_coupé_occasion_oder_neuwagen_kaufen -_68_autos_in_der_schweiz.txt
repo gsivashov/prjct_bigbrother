@@ -156,27 +156,6 @@ WIR-ANTEIL
 68 Treffer
 Suche zurücksetzen
 TOYOTA
-GT 86 2.0 D-4S Race
-CHF 21'900
-ab CHF 258/Monat
-02.2014
-Handschaltung
-114'000 km
-Benzin
-Hinterradantrieb
-schwarz
-268 PS
-ZH
-Merken
-TOYOTA
-GT 86 2.0 D-4S Race
-02.2014
-268 PS
-114'000 km
-CHF 21'900
-Merken
-ab CHF 258/Monat
-TOYOTA
 Celica 1.8 VVTL-i TS
 CHF 7'990
 05.2001
@@ -197,7 +176,7 @@ CHF 7'990
 Merken
 TOYOTA
 Celica 1.8
-CHF 2'990
+CHF 2'499
 10.1995
 Handschaltung
 162'000 km
@@ -212,7 +191,7 @@ Celica 1.8
 10.1995
 116 PS
 162'000 km
-CHF 2'990
+CHF 2'499
 Merken
 35-Punkte-Check
 Kostenlose Probefahrt
@@ -220,10 +199,10 @@ Garantieversprechen
 Faires Eintauschangebot
 TOYOTA
 Celica 1.8 VVT-i
-CHF 5'799
+CHF 5'800
 06.2000
 Handschaltung
-138'020 km
+134'000 km
 Benzin
 Vorderradantrieb
 blau
@@ -234,8 +213,8 @@ TOYOTA
 Celica 1.8 VVT-i
 06.2000
 143 PS
-138'020 km
-CHF 5'799
+134'000 km
+CHF 5'800
 Merken
 TOYOTA
 Celica 1.8 VVT-i
@@ -428,6 +407,27 @@ Corona 1900 MK II
 CHF 17'800
 Merken
 ab CHF 192/Monat
+TOYOTA
+GT 86 2.0 D-4S Race
+CHF 21'900
+ab CHF 258/Monat
+02.2014
+Handschaltung
+114'000 km
+Benzin
+Hinterradantrieb
+schwarz
+268 PS
+ZH
+Merken
+TOYOTA
+GT 86 2.0 D-4S Race
+02.2014
+268 PS
+114'000 km
+CHF 21'900
+Merken
+ab CHF 258/Monat
 TOYOTA
 Supra GR 3.0i Turbo Premium Automat 8
 CHF 66'900

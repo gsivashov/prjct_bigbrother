@@ -154,6 +154,71 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 BMW
+Z4 Z89 Roadster 35is sDrive DK
+CHF 31'000
+ab CHF 333/Monat
+07.2011
+Automat
+55'000 km
+Benzin
+Hinterradantrieb
+blau
+340 PS
+NE
+Merken
+BMW
+Z4 Z89 Roadster 35is sDrive DK
+07.2011
+340 PS
+55'000 km
+CHF 31'000
+Merken
+ab CHF 333/Monat
+NEU
+BMW
+1er Reihe F20 M140i xDrive
+CHF 43'000
+ab CHF 462/Monat
+01.2019
+Automat
+21'780 km
+Benzin
+Allradantrieb
+blau
+340 PS
+VD
+Merken
+BMW
+1er Reihe F20 M140i xDrive
+01.2019
+340 PS
+21'780 km
+CHF 43'000
+Merken
+ab CHF 462/Monat
+NEU
+BMW
+420i Coupé xDrive M Sport Steptronic
+CHF 35'700
+ab CHF 421/Monat
+05.2019
+Automat
+18'000 km
+Benzin
+Allradantrieb
+schwarz
+184 PS
+ZH
+Merken
+BMW
+420i Coupé xDrive M Sport Steptro...
+05.2019
+184 PS
+18'000 km
+CHF 35'700
+Merken
+ab CHF 421/Monat
+BMW
 635 CSI
 CHF 27'500
 ab CHF 296/Monat
@@ -174,7 +239,6 @@ BMW
 CHF 27'500
 Merken
 ab CHF 296/Monat
-NEU
 BMW
 X5 F15 30d xDrive
 CHF 58'000
@@ -302,27 +366,6 @@ CHF 33'500
 Merken
 ab CHF 360/Monat
 BMW
-8er Reihe E31 Coupé 850i ABS
-CHF 23'000
-ab CHF 247/Monat
-03.1991
-Automat
-166'000 km
-Benzin
-Hinterradantrieb
-weiss
-300 PS
-GR
-Merken
-BMW
-8er Reihe E31 Coupé 850i ABS
-03.1991
-300 PS
-166'000 km
-CHF 23'000
-Merken
-ab CHF 247/Monat
-BMW
 X5 E70 3.0d
 CHF 9'999
 ab CHF 113/Monat
@@ -427,48 +470,6 @@ BMW
 CHF 33'900
 Merken
 ab CHF 365/Monat
-BMW
-7er Reihe E32 730i ABS
-CHF 6'000
-ab CHF 68/Monat
-07.1991
-Handschaltung
-287'000 km
-Benzin
-Hinterradantrieb
-grau
-188 PS
-VS
-Merken
-BMW
-7er Reihe E32 730i ABS
-07.1991
-188 PS
-287'000 km
-CHF 6'000
-Merken
-ab CHF 68/Monat
-BMW
-1er Reihe E82 Coupé 120d
-CHF 7'200
-ab CHF 82/Monat
-06.2007
-Handschaltung
-145'332 km
-Diesel
-Hinterradantrieb
-silber
-177 PS
-GE
-Merken
-BMW
-1er Reihe E82 Coupé 120d
-06.2007
-177 PS
-145'332 km
-CHF 7'200
-Merken
-ab CHF 82/Monat
 1
 1
 2
@@ -495,10 +496,10 @@ Optische, äussere Besonderheiten sind bei allen für BMW Schweiz gefertigten Mo
 Aktuell erfolgreichste BMW Modelle
 2012 fuhr sich das erste X-Modell der Marke in die Herzen internationaler und von Schweizer Autofreunden. Der X1 brauchte nur zweieinhalb Jahre für weltweite Verkaufszahlen von über 300.000 Stück. Der kompakte Premiumwagen hat grandiose Fahreigenschaften bei optimaler Sicherheitsausstattung. Auf diesem in Zeitschriften und Magazinen viel gekrönten Erfolg bauen auch die weiteren Modelle wie der X3, X4, X5 und X6 (SUV und Kompakt-SUV) auf. Als geländetaugliche Allrounder mit viel Ladevermögen sind sie auch bei BMW Schweiz erfolgreichste Modellreihe. Erst in diesem Jahr hat der X3 diese Verkaufszahlen mit weltweit mehr als einer Million ausgelieferten Fahrzeugen übertroffen.
 BMW Modellübersicht
-BMW 114
 BMW 116
 BMW 118
 BMW 120
+BMW 123
 BMW 125
 BMW 128ti
 BMW 135

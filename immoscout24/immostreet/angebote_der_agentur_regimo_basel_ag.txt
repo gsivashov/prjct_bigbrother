@@ -107,7 +107,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-100 Resultate gefunden ·
+97 Resultate gefunden ·
 Angebote der Agentur Regimo Basel AG
 Preis (aufsteigend)
 Preis (absteigend)
@@ -120,6 +120,48 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Tangentenweg 30
+1'800
+CHF
+/Monat
+wohnen im schönen Erlenmattquartier
+Tangentenweg 30, 4058 Basel
+Array
+2.5 Zimmer
+62 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+62 m2
+Etage
+Schätzen Sie modernes Wohnen? Wir bieten anspruchsvollen Mietern diese attraktive 2.5 Zimmer-Wohnun…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tangentenweg 30
+1'800
+CHF
+/Monat
+wohnen im schönen Erlenmattquartier
+Tangentenweg 30, 4058 Basel
+Array
+3.5 Zimmer
+79 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+79 m2
+Etage
+Schätzen Sie modernes Wohnen? Wir bieten anspruchsvollen Mietern diese attraktive 3.5 Zimmer-Wohnun…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Grabenring 30
 1'547
 CHF
@@ -273,7 +315,9 @@ E-Mail
 Facebook
 Whatsapp
 Grenzacherstrasse 30a
-Preis auf Anfrage
+1'825
+CHF
+/Monat
 Genau das Richtige für naturverbundene …
 Grenzacherstrasse 30a, 4058 Basel
 Array
@@ -459,47 +503,6 @@ Wohnfläche
 65 m2
 Etage
 Möchten Sie zentrumsnah und trotzdem in einer Umgebung mit viel Grün leben? In dieser komfortablen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Riehenstrasse 90
-1'679
-CHF
-/Monat
-Moderne Maisonette-Wohnung im 1. OG
-Riehenstrasse 90, 4058 Basel
-Array
-3.5 Zimmer
-86 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-86 m2
-Etage
-Diese ansprechende und helle Maisonette-Wohnung befindet sich an zentraler Lage und ist den öffentl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gstaltenrainweg 67
-2'250
-CHF
-/Monat
-Lebensraum zum Spielen und Verweilen
-Gstaltenrainweg 67, 4125 Riehen
-Array
-4.5 Zimmer
-104 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-104 m2
-In dieser familienfreundlichen Wohnsiedlung mit parkähnlichem Innenhof erwartet Sie eine gemütliche…
 Teilen
 E-Mail
 Facebook

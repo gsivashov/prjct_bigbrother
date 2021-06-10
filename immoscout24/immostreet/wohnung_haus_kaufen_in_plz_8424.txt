@@ -151,6 +151,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Hintergass 17
+1'390'000
+CHF
+Exklusive, luxuriöse 4 ½-Zi.-Dachwohnung
+Hintergass 17, 8424 Embrach
+Array
+4.5 Zimmer
+204 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+204 m2
+Exklusive und luxuriöse 4 ½-Zi.-Dachwohnung mit gut besonntem Westbalkon und herrlicher Aussicht in…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Alte Rheinstrasse 87
 710'000
 CHF
@@ -166,25 +185,6 @@ Zimmer
 Wohnfläche
 88 m2
 Neuwertige 3 ½-Zi.-Wohnung im 2. OG mit gut besonntem Balkon an geschichtsträchtigem Ort in der ehe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Langackerstrasse 9
-1'420'000
-CHF
-Letzte Chance - Modernes und stilvolles…
-Langackerstrasse 9, 8424 Embrach
-Array
-6.5 Zimmer
-157 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-6.5
-Wohnfläche
-157 m2
-Das ist Ihre Chance - letztes Haus Nr. 3 im Angebot."Sicuro" - das Synonym für Sicher, Sicherheit u…
 Teilen
 E-Mail
 Facebook
@@ -348,7 +348,7 @@ E-Mail
 Facebook
 Whatsapp
 Stationsstrasse 67
-905'000
+940'000
 CHF
 4.5-Zimmer Eigentumswohnung "ÜB Roggenf…
 Stationsstrasse 67, 8424 Embrach

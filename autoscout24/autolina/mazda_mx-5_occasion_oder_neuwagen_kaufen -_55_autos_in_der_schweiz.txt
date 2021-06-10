@@ -177,6 +177,49 @@ Merken
 ab CHF 156/Monat
 NEU
 MAZDA
+MX-5 SKYACTIV-G 184 100TH Anniversary
+CHF 40'900
+ab CHF 440/Monat
+01.2021
+Handschaltung
+10 km
+Benzin
+Hinterradantrieb
+weiss
+184 PS
+SH
+Merken
+MAZDA
+MX-5 SKYACTIV-G 184 100TH Anniver...
+01.2021
+184 PS
+10 km
+CHF 40'900
+Merken
+ab CHF 440/Monat
+NEU
+MAZDA
+MX-5 SKYACTIV-G 184 Revolution Sport-Pack 6
+CHF 42'090
+ab CHF 452/Monat
+01.2021
+Handschaltung
+5 km
+Benzin
+Hinterradantrieb
+grau
+184 PS
+AG
+Merken
+MAZDA
+MX-5 SKYACTIV-G 184 Revolution Sp...
+01.2021
+184 PS
+5 km
+CHF 42'090
+Merken
+ab CHF 452/Monat
+MAZDA
 MX-5 1.8i-16 GT-R Youngst
 CHF 5'900
 02.1999
@@ -428,48 +471,6 @@ MX-5 1.8i-16 10th Anniv.
 135'088 km
 CHF 7'350
 Merken
-MAZDA
-MX-5 SKYACTIV-G 131 Revolution
-CHF 22'900
-ab CHF 246/Monat
-05.2018
-Handschaltung
-16'500 km
-Benzin
-Hinterradantrieb
-grau
-131 PS
-FR
-Merken
-MAZDA
-MX-5 SKYACTIV-G 131 Revolution
-05.2018
-131 PS
-16'500 km
-CHF 22'900
-Merken
-ab CHF 246/Monat
-MAZDA
-MX-5 SKYACTIV-G 184 100TH Anniversary
-CHF 40'900
-ab CHF 440/Monat
--
-Handschaltung
-10 km
-Benzin
-Hinterradantrieb
-weiss
-184 PS
-SH
-Merken
-MAZDA
-MX-5 SKYACTIV-G 184 100TH Anniver...
--
-184 PS
-10 km
-CHF 40'900
-Merken
-ab CHF 440/Monat
 1
 1
 2

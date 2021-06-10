@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-hinterland/
 Title: Wohnung & Haus kaufen in Bezirk Hinterland - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Hinterland - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Hinterland - Immostreet.ch: ImmoStreet.ch hat 25 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-24 Resultate gefunden ·
+25 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Hinterland
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+570'000
+CHF
+Komfortables Wohnen an verkehrsgünstige…
+Adresse auf Anfrage, 9100 Herisau
+Array
+5.5 Zimmer
+142 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+142 m2
+Die gepflegte 5.5-Zimmer-Eigentumswohnung ist Teil eines ansprechenden Wohnhauses an verkehrsgünsti…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 355'000
 CHF
@@ -504,26 +523,6 @@ Zimmer
 3.5
 Wohnfläche
 82 m2
-Mittendrin und trotzdem im Grünen befinden sich die fünf topmodernen Mehrfamilienhäuser am Herisaue…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kasernenstrasse 103
-810'000
-CHF
-Neubau 2021: 4.5 Zimmer Terrassenwohnun…
-Kasernenstrasse 103, 9100 Herisau
-Array
-4.5 Zimmer
-114 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-4.5
-Wohnfläche
-114 m2
-Etage
 Mittendrin und trotzdem im Grünen befinden sich die fünf topmodernen Mehrfamilienhäuser am Herisaue…
 Teilen
 E-Mail

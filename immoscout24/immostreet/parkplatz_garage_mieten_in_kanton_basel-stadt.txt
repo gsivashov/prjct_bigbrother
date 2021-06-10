@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/parkplatz/kanton-baselstadt/
 Title: Parkplatz, Garage mieten in Kanton Basel-Stadt - Immostreet.ch
-Description: Parkplatz, Garage mieten in Kanton Basel-Stadt - Immostreet.ch: ImmoStreet.ch hat 143 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Parkplatz, Garage mieten in Kanton Basel-Stadt - Immostreet.ch: ImmoStreet.ch hat 142 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -108,7 +108,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-143 Resultate gefunden ·
+142 Resultate gefunden ·
 Parkplatz, Garage mieten in Kanton Basel-Stadt
 Preis (aufsteigend)
 Preis (absteigend)
@@ -121,6 +121,48 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Burgunderstrasse 42
+200
+CHF
+/Monat
+Grosszügiger Einstellhallenplatz
+Burgunderstrasse 42, 4051 Basel
+Array
+Objekttyp
+Offener Parkplatz
+Wir vermieten per 1. Juli 2021 den Einstellhallenplatz Nr. 11.Parkplatzgrösse: ca. 15 m2Lan…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brüglingerstrasse 119
+112
+CHF
+/Monat
+Autoabstellplätze Nähe St. Jakob-Park -…
+Brüglingerstrasse 119, 4052 Basel
+Array
+Objekttyp
+Offener Parkplatz
+Wir vermieten einen Autoabstellplatz in der Nähe des Einkaufszentrums St. Jakob-Park Basel.Miete Au…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+AEH Gundeldingerstr./Jurastr.
+175
+CHF
+/Monat
+Im Gundeldingerquartier
+AEH Gundeldingerstr./Jurastr., 4053 Basel
+Array
+Objekttyp
+Tiefgarage
+An der Ecke Gundeldingerstr. / Jurastr. vermieten wir einen Einstellhallenplatz.
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bleichestr.23-27,Mattenstr.31
 170
 CHF
@@ -246,19 +288,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Gundeldingerrain 147
-195
-CHF
-/Monat
-ebenerdige Garage auf dem Bruderholz
-Gundeldingerrain 147, 4059 Basel
-Array
-Objekttyp
-Einzelgarage
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Im Esterli 5/9 EH
 140
 CHF
@@ -269,20 +298,6 @@ Array
 Objekttyp
 Tiefgarage
 Wir vermieten einen Autoeinstellhallenplatz in einer gepflegten und abgeschlossenen Einstellhalle a…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lehenmattstrasse 144
-50
-CHF
-/Monat
-Auto-Abstellplatz im Lehenmattquartier
-Lehenmattstrasse 144, 4052 Basel
-Array
-Objekttyp
-Offener Parkplatz
-An der Lehenmattstrasse 144 in Basel vermieten wir diesen Auto-Abstellplatz für CHF 50.00 im Monat.…
 Teilen
 E-Mail
 Facebook
@@ -380,20 +395,6 @@ Array
 Objekttyp
 Tiefgarage
 Wenige Gehminuten vom Burgfelderplatz entfernt vermieten wir per sofort oder nach Vereinbarung prei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dornacherstrasse 95 EH
-150
-CHF
-/Monat
-Schützen Sie Ihr Fahrzeug von Blütensta…
-Dornacherstrasse 95 EH, 4053 Basel
-Array
-Objekttyp
-Tiefgarage
-Nach Vereinbarung vermieten wir Einstellplätze.Interessiert? Zögern Sie nicht ,uns zu kontaktieren,
 Teilen
 E-Mail
 Facebook

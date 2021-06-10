@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/en/rent/apartment-and-house/at-untersiggenthal/
 Title: Rent Apartment & house in Untersiggenthal - Immostreet.ch
-Description: Rent Apartment & house in  Untersiggenthal - Immostreet.ch: ImmoStreet.com has 39 offers and will help you to find the best deal in  and the surrounding area.
+Description: Rent Apartment & house in  Untersiggenthal - Immostreet.ch: ImmoStreet.com has 37 offers and will help you to find the best deal in  and the surrounding area.
 
 Your browser is out of date!
 Update your browser to view this website correctly. Update my browser now
@@ -137,7 +137,7 @@ Filter
 Search
 Adapt Search
 The search subscription has been added to your Immobox.
-39 results found ·
+37 results found ·
 Rent Apartment & house in Untersiggenthal
 Price (ascending)
 Price (descending)
@@ -150,6 +150,47 @@ Postal code (ascending)
 Postal code (descending)
 Sorting
 Submit
+Hofacherstrasse 3
+1'570
+CHF
+/Month
+Helle Wohnung wartet auf Sie
+Hofacherstrasse 3, 5417 Untersiggenthal
+Array
+4.5 Rooms
+80 m2
+Object type
+Apartment, Flat
+Rooms
+4.5
+Living space
+80 m2
+IHR GESCHENK: MIELE Saugroboter Scout RX2
+Beim Abschluss eines Mietvertrages erhalten Sie einen …
+Share
+E-mail
+Facebook
+Whatsapp
+Address on request
+1'680
+CHF
+/Month
+3.5 Zimmer Wohnung
+Address on request, 5417 Untersiggenthal
+Array
+3.5 Rooms
+90 m2
+Object type
+Apartment, Flat
+Rooms
+3.5
+Living space
+90 m2
+Erstvermietung nach Renovation.Modern, grosszügig und idyllisch! Machen Sie sich selbst ein Bild vo…
+Share
+E-mail
+Facebook
+Whatsapp
 Schulstrasse 20
 1'690
 CHF
@@ -266,26 +307,6 @@ Rooms
 Living space
 76 m2
 Per 1. Oktober 2021 oder nach Vereinbarung vermieten wir dieses gemütliche Zuhause. Folgend einige …
-Share
-E-mail
-Facebook
-Whatsapp
-Rosengartenweg 10 A
-1'570
-CHF
-/Month
-Ihr neues Zuhause?
-Rosengartenweg 10 A, 5417 Untersiggenthal
-Array
-3 Rooms
-79 m2
-Object type
-Apartment, Flat
-Rooms
-3
-Living space
-79 m2
-Per 01.08.2021 vermieten wir diese attraktive 3.5-Zimmerwohnung an ruhiger Wohnlage im Grünen, welc…
 Share
 E-mail
 Facebook
@@ -509,43 +530,23 @@ Share
 E-mail
 Facebook
 Whatsapp
-Müselstrasse 2
-2'450
-CHF
-/Month
-Maisonettewohnung
-Müselstrasse 2, 5417 Untersiggenthal
-Array
-5.5 Rooms
-150 m2
-Object type
-Apartment, Flat
-Rooms
-5.5
-Living space
-150 m2
-Floor
-Wir vermieten nach Vereinbarung eine 5 1/2 Zimmer - Maisonettewohnung in einem Dreifamilienhaus.Die…
-Share
-E-mail
-Facebook
-Whatsapp
 Irisweg 7
-1'940
+1'350
 CHF
 /Month
-Grossräumige und helle 3.5-Zimmerwohnun…
+Grossräumige und helle Wohnung für Pärc…
 Irisweg 7, 5417 Untersiggenthal
 Array
-3.5 Rooms
-99 m2
+2 Rooms
+64 m2
 Object type
 Apartment, Flat
 Rooms
-3.5
+2
 Living space
-99 m2
-Wir vermieten per sofort oder nach Vereinbarung diese ca. 99 m2 grosse 3.5-Zimmerwohnung mit Balkon…
+64 m2
+Floor
+Besichtigungstermin nach VereinbarungWir vermieten per sofort oder nach Vereinbarung diese ca. 64 m…
 Share
 E-mail
 Facebook

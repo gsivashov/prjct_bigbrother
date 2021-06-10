@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-st-gallen/
 Title: Wohnung & Haus mieten in St. Gallen - Immostreet.ch
-Description: Wohnung & Haus mieten in  St. Gallen - Immostreet.ch: ImmoStreet.ch hat 783 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  St. Gallen - Immostreet.ch: ImmoStreet.ch hat 793 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-783 Resultate gefunden ·
+793 Resultate gefunden ·
 Wohnung & Haus mieten in St. Gallen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,83 +152,61 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Haselstrasse 7
-1'630
+Rickenstrasse 20
+1'290
 CHF
 /Monat
-Heimkommen und wohlfühlen...
-Haselstrasse 7, 9014 St. Gallen
+Perfekte Studenten oder Single Wohnung!
+Rickenstrasse 20, 9014 St. Gallen
 Array
-3.5 Zimmer
-91 m2
+3 Zimmer
+48 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+3
 Wohnfläche
-91 m2
-Ruhige Wohnung mit modernem Innenausbau sucht neuen Mieter. Die Wohnung im beliebten Schlössli-Quar…
+48 m2
+Etage
+Die renovierte Liegenschaft an der Rickenstrasse bietet alle Annehmlichkeiten die von einer moderne…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Dreilindenhang 22
-1'435
+Burgstrasse 21
+975
 CHF
 /Monat
-Moderne Single-Wohnung mit Blick über d…
-Dreilindenhang 22, 9000 St. Gallen
+hübsche, gemütliche 2-Zimmerwohnung mit…
+Burgstrasse 21, 9000 St. Gallen
 Array
-2.5 Zimmer
-68 m2
+2 Zimmer
+42 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+2
 Wohnfläche
-68 m2
-Ein grosszügiger Grundriss, offene lichtdurchflutete Räume und ein guter Ausbaustandard versprechen…
+42 m2
+Etage
+Sonnige und ruhige WohnungDiese Wohnung befindet sich bei der Kreuzbleiche. Ein kleiner, sonniger B…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Pelikanstrasse 21
-690
+Tellstrasse 26
+1'120
 CHF
 /Monat
-grosszügige 1-Zimmer-Wohnung mit Balkon…
-Pelikanstrasse 21, 9008 St. Gallen
+Studenten und Singles gesucht! Möbliert…
+Tellstrasse 26, 9000 St. Gallen
 Array
-1 Zimmer
-30 m2
+1.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-1
-Wohnfläche
-30 m2
-ST. GALLEN
-St. Gallen liegt im wirtschaftsdynamischen Dreieck Stuttgart – München – Mailand. Inter…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Langgasse 11
-1'325
-CHF
-/Monat
-Wohnen Nähe Universität, KSSG, Olma
-Langgasse 11, 9008 St. Gallen
-Array
-2.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-77 m2
-Offene, hellen, grosszügigen 2.5 Zimmer-Wohnung mit folgender Ausstattung:- neue Küche mit Geschirr…
+1.5
+Heute besichtigen und morgen einziehen - das ist unser aussergewöhnlicher Service für Sie!Wohnen Si…
 Teilen
 E-Mail
 Facebook
@@ -250,297 +228,318 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Tellstrasse 26
-1'120
+Gartenstrasse 8
+1'395
 CHF
 /Monat
-Studenten und Singles gesucht! Möbliert…
-Tellstrasse 26, 9000 St. Gallen
-Array
-1.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Heute besichtigen und morgen einziehen - das ist unser aussergewöhnlicher Service für Sie!Wohnen Si…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-zürcherstrasse 216a
-1'540
-CHF
-/Monat
-4,5 Zi Maisonette Whg mit zwei Badezimm…
-zürcherstrasse 216a, 9014 St. Gallen
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wir suchen einen Nachmieter per 1. September 2021 oder nach Vereinbarung.Die 4,5 Zi Whg befindet si…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zürcherstr. 51
-855
-CHF
-/Monat
-Zentral! Hübsche 2-Zimmer-Wohnung in St…
-Zürcherstr. 51, 9000 St. Gallen
-Array
-2 Zimmer
-35 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-35 m2
-Zu vermieten hübsche neuwertige 2-Zimmer-Wohnung im 2. OG mit Lift: Wohnzimmer, Schlafzimmer mit Ei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Felsenstrasse 78
-960
-CHF
-/Monat
-Zentrumsnahe Wohnung sucht Sie! - Dacht…
-Felsenstrasse 78, 9000 St. Gallen
+Moderne und exklusive Stadtwohnung!
+Gartenstrasse 8, 9000 St. Gallen
 Array
 2.5 Zimmer
-44 m2
+64 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-44 m2
-Etage
-Ihre praktisch geschnittene 2.5-Zimmer-Wohnung mit Aussicht über die Dächer der Stadt St. Gallen, b…
+64 m2
+Moderne Stadtwohnung!An einmaliger Lage im Stadtkern von St. Gallen vermieten wir eine einzigartige…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Wolfganghof 6a
-1'660
+Wolfgangstrasse 65
+1'097
 CHF
 /Monat
-Familienwohnung in toller Umgebung
-Wolfganghof 6a, 9014 St. Gallen
+Nachmieter gesucht für ruhig gelegene 4…
+Wolfgangstrasse 65, 9014 St. Gallen
 Array
 4 Zimmer
-93 m2
+75 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4
 Wohnfläche
-93 m2
-Hier wird sich die ganze Familie wohlfühlen! Sie profitieren von der kinderfreundlichen Lage ohne D…
+75 m2
+Ich suche per 1. oder 15. August 2021 eine(n) Nachmieter(in) für eine ruhig gelegene 4-Zi-Wohnung i…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Furglerstr. 3
-2'270
+Kamorstrasse 2
+1'200
 CHF
 /Monat
-Am westlichen Rosenberg, mit Aussicht a…
-Furglerstr. 3, 9000 St. Gallen
+schöne Altbauwohnung
+Kamorstrasse 2, 9000 St. Gallen
 Array
-4.5 Zimmer
-114 m2
+4 Zimmer
+80 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+4
 Wohnfläche
-114 m2
-Die Wohnüberbauung Furglerstrasse steht am westlichen Ende des Rosenbergs, an einer attraktiven und…
+80 m2
+Schöne, heimelige Altbauwohnung im Lachenquartier. 50 Meter zum öffentlichen Verkehr, 200 m Anschl…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Wiesentalstrasse 4 C
-1'140
+Rotmonten
+500
 CHF
 /Monat
-Ruhige Wohnlage nähe Grossackerzentrum
-Wiesentalstrasse 4 C, 9000 St. Gallen
+Mehrere Lösungen zur Miete ab 500.00 CH…
+Rotmonten, 9015 St. Gallen
 Array
-3 Zimmer
-62 m2
+1.5 Zimmer
+20 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
+1.5
 Wohnfläche
-62 m2
-An ruhiger Wohnlage im Grünen vermieten wir diese charmante Wohnung, welche Ihnen folgenden Ausbaus…
+20 m2
+Mehrere Lösungen zur Miete ab 500.00 chf/M.Molteplici soluzioni in affitto a partire da 500.00 chf/…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Konkordiastr. 12
-1'060
-CHF
-/Monat
-Renovierte Dachwohnung in Zentrumsnähe …
-Konkordiastr. 12, 9000 St. Gallen
-Array
-2 Zimmer
-38 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-38 m2
-Die Liegenschaft wurde im 2016 einer Totalsanierung unterzogen.- Komfortable Küche mit Geschirrspül…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Feldbachstrasse 10
-1'740
-CHF
-/Monat
-Mieten ohne Kaution! Ruhige Lage nahe Z…
-Feldbachstrasse 10, 9000 St. Gallen
-Array
-5.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-Wohnfläche
-120 m2
-Mieten ohne Kaution!- Geschlossene Küche mit Geschirrspüler und Glaskeramik- Im Wohnbereich Parkett…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Linsebühlstrasse 35
-1'230
-CHF
-/Monat
-Klein aber fein - Wohnen im Stadtzentrum
-Linsebühlstrasse 35, 9000 St. Gallen
-Array
-3.5 Zimmer
-51 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-51 m2
-Wir vermieten im Linsebühlquartier eine schöne Wohnung mit folgendem Standard:- Zeitgemässe Küche m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Feldbachstrasse 10
+Reherstr.22 c
 1'390
 CHF
 /Monat
-Mieten ohne Kaution! Ruhige Lage nahe Z…
-Feldbachstrasse 10, 9000 St. Gallen
-Array
-4 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-80 m2
-Mieten ohne Kaution!- Geschlossene Küche mit Geschirrspüler und Glaskeramik- Duche/WC- Laminat in a…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Quimbystrasse 7
-1'620
-CHF
-/Monat
-helle Wohnung in ruhigem Quartier
-Quimbystrasse 7, 9015 St. Gallen
+3.5 Zimmer-Wohnung in ruhiger Lage
+Reherstr.22 c, 9016 St. Gallen
 Array
 3.5 Zimmer
-80 m2
+79 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-80 m2
-Per 1. Juli 2021 oder nach Vereinbarung vermieten wir diese schöne 3.5-Zimmer-Wohnung mit folgender…
+79 m2
+im 2.Stock Rollstuhlgängig, im grünen,mit Balkon,Geschirrspüler.Wohnbereich Parkett und Laminatböde…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Sonnrainweg 4
-1'660
+Böcklinstrasse 3
+1'990
 CHF
 /Monat
-Wohnen bedeutet wohlfühlen - neue Küche…
-Sonnrainweg 4, 9008 St. Gallen
+Stilvolles und hochwertiges Business Ap…
+Böcklinstrasse 3, 9000 St. Gallen
+Array
+2.5 Zimmer
+50 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+50 m2
+An zentraler Lage in St. Gallen bieten wir ein stilvolles und hochwertiges 2.5-Zimmer-Apartment an.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Böcklinstrasse 3
+1'990
+CHF
+/Monat
+Stilvolles und hochwertiges Business Ap…
+Böcklinstrasse 3, 9000 St. Gallen
+Array
+2.5 Zimmer
+50 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+2.5
+Wohnfläche
+50 m2
+An zentraler Lage in St. Gallen bieten wir ein stilvolles und hochwertiges 2.5-Zimmer-Apartment an.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterstrasse 65
+Preis auf Anfrage
+Ruhiges Wohnen mitten in der Stadt
+Unterstrasse 65, 9000 St. Gallen
 Array
 4.5 Zimmer
-90 m2
+98 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-90 m2
-Per xx.xx.xxxx oder nach Vereinbarung vermieten wir diese attraktive 4.5 Zimmer-Wohnung, welche Ihn…
+98 m2
+Etage
+WohnungTraumhafte 4 1/2 Zimmerwohnung nähe Zentrum ......einfach einziehen und sich wohl fühlen!Die…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Burenbüchelstr. 9
-1'340
+Haggenstr. 56
+1'270
 CHF
 /Monat
-Renovierte Wohnung in Neudorf
-Burenbüchelstr. 9, 9016 St. Gallen
+Komfortables und hindernisfreies Wohnen…
+Haggenstr. 56, 9014 St. Gallen
 Array
-4 Zimmer
-79 m2
+2.5 Zimmer
+58 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4
+2.5
 Wohnfläche
-79 m2
-Suchen Sie eine tolle 4- Zimmer-Wohnung im Osten der Stadt St. Gallen? Dann sind Sie hier genau ric…
+58 m2
+Sind Sie auf der Suche nach einer geräumigen, hellen Wohnung an exklusiver Lage und hindernisfreiem…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Tablatstr. 12
-1'490
+Ulmenstrasse 11
+1'880
 CHF
 /Monat
-Neues Wohngefühl in renovierter Liegens…
-Tablatstr. 12, 9016 St. Gallen
+Wohnen und Einkaufen in einem
+Ulmenstrasse 11, 9000 St. Gallen
 Array
 3.5 Zimmer
-84 m2
+87 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-84 m2
-In dieser Wohnung mit neuem Bad und hochwertiger Küche können Sie entspannen. - Bodenbelag Parkett-…
+87 m2
+Sind Sie auf der Suche nach einer modernen und neuwertigen Wohnung an exklusiver Lage? Dann ist die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Haggenstr. 58
+1'280
+CHF
+/Monat
+Geniessen Sie die Vorzüge dieser schöne…
+Haggenstr. 58, 9014 St. Gallen
+Array
+2.5 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+60 m2
+Diese helle Wohnung bietet Ihnen nebst dem Genuss von Abendsonne einen modernen Ausbau: - Parkettbö…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Speicherstrasse 18
+1'380
+CHF
+/Monat
+LICHTDURCHFLUTET UND GEMÜTLICH
+Speicherstrasse 18, 9000 St. Gallen
+Array
+3.5 Zimmer
+76 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+76 m2
+Diese charmante 3.5-Zimmer-Wohnung liegt an top Lage in St. Gallen. Die Wohnung überzeugt durch ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Vogelherdstr. 17b
+1'652
+CHF
+/Monat
+Hier erhält das Wort Wohnen eine ganz n…
+Vogelherdstr. 17b, 9016 St. Gallen
+Array
+3.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+97 m2
+Ob alleine oder zu zweit - Tauchen Sie ein, denn hier erwartet Sie eine spritzige und inspirierende…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Vogelherdstr. 17a
+1'642
+CHF
+/Monat
+Atemberaubende Gartensitzplatzwohnung, …
+Vogelherdstr. 17a, 9016 St. Gallen
+Array
+3.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+97 m2
+Ob alleine oder zu zweit - Tauchen Sie ein, denn hier erwartet Sie eine spritzige, inspirierende un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Magniberg 6
+1'540
+CHF
+/Monat
+4.5 Zimmer-Wohnung nahe Stadtzentrum
+Magniberg 6, 9000 St. Gallen
+Array
+4.5 Zimmer
+82 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+82 m2
+Per 1. Oktober 2021 oder nach Vereinbarung vermieten wir diese schöne 4.5- Zimmerwohnung. Die gepfl…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rorschacher Strasse 56
+2'531
+CHF
+/Monat
+Schöne, moderne Altbauwohnung am Rande …
+Rorschacher Strasse 56, 9000 St. Gallen
+Array
+5.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Schöne, moderne Altbauwohnung im SingenbergPer 1. August 2021 oder nach Vereinbarung vermieten wir …
 Teilen
 E-Mail
 Facebook

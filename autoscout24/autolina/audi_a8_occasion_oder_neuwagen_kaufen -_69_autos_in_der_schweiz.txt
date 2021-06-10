@@ -156,6 +156,27 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 AUDI
+A8 L 6.3 FSI W12 quattro tiptronic
+CHF 44'900
+ab CHF 529/Monat
+12.2014
+Automat
+23'700 km
+Benzin
+Allradantrieb
+blau
+500 PS
+GL
+Merken
+AUDI
+A8 L 6.3 FSI W12 quattro tiptroni...
+12.2014
+500 PS
+23'700 km
+CHF 44'900
+Merken
+ab CHF 529/Monat
+AUDI
 A8 50 TDI quattro tiptronic
 CHF 66'900
 ab CHF 719/Monat
@@ -218,25 +239,6 @@ A8 4.2 TDI quattro tiptronic
 CHF 24'500
 Merken
 ab CHF 264/Monat
-AUDI
-A8 4.2 TDI quattro Advanced Bose DVD Navi
-CHF 5'889
-02.2007
-Automat
-302'595 km
-Diesel
-Allradantrieb
-blau
-326 PS
-AG
-Merken
-AUDI
-A8 4.2 TDI quattro Advanced Bose ...
-02.2007
-326 PS
-302'595 km
-CHF 5'889
-Merken
 AUDI
 A8 50 TDI quattro tiptronic
 CHF 62'800

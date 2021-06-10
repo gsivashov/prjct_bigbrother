@@ -156,8 +156,8 @@ WIR-ANTEIL
 Suche zurücksetzen
 JAGUAR
 XE 2.0 D 180 Pure
-CHF 19'500
-ab CHF 210/Monat
+CHF 18'000
+ab CHF 194/Monat
 04.2016
 Automat
 27'610 km
@@ -172,9 +172,75 @@ XE 2.0 D 180 Pure
 04.2016
 180 PS
 27'610 km
-CHF 19'500
+CHF 18'000
 Merken
-ab CHF 210/Monat
+ab CHF 194/Monat
+NEU
+JAGUAR
+XE 20d Prestige Automat
+CHF 28'900
+ab CHF 311/Monat
+04.2017
+Automat
+25'900 km
+Diesel
+Hinterradantrieb
+schwarz
+180 PS
+ZH
+Merken
+JAGUAR
+XE 20d Prestige Automat
+04.2017
+180 PS
+25'900 km
+CHF 28'900
+Merken
+ab CHF 311/Monat
+NEU
+JAGUAR
+XE 20d Prestige Automat
+CHF 39'800
+ab CHF 428/Monat
+12.2018
+Automat
+100 km
+Diesel
+Hinterradantrieb
+schwarz
+180 PS
+ZH
+Merken
+JAGUAR
+XE 20d Prestige Automat
+12.2018
+180 PS
+100 km
+CHF 39'800
+Merken
+ab CHF 428/Monat
+NEU
+JAGUAR
+XE 20d R-Sport Automat
+CHF 33'700
+ab CHF 397/Monat
+03.2019
+Automat
+18'000 km
+Diesel
+Hinterradantrieb
+grau
+180 PS
+ZH
+Merken
+JAGUAR
+XE 20d R-Sport Automat
+03.2019
+180 PS
+18'000 km
+CHF 33'700
+Merken
+ab CHF 397/Monat
 JAGUAR
 XE 20d Portfolio Automat
 CHF 23'990
@@ -217,48 +283,6 @@ XE 20d R-Sport AWD Automat
 CHF 29'899
 Merken
 ab CHF 322/Monat
-JAGUAR
-XE 20d Prestige
-CHF 39'800
-ab CHF 428/Monat
-12.2018
-Automat
-100 km
-Diesel
-Hinterradantrieb
-schwarz
-180 PS
-ZH
-Merken
-JAGUAR
-XE 20d Prestige
-12.2018
-180 PS
-100 km
-CHF 39'800
-Merken
-ab CHF 428/Monat
-JAGUAR
-XE 20d Prestige
-CHF 28'900
-ab CHF 311/Monat
-04.2017
-Automat
-25'900 km
-Diesel
-Hinterradantrieb
-schwarz
-180 PS
-ZH
-Merken
-JAGUAR
-XE 20d Prestige
-04.2017
-180 PS
-25'900 km
-CHF 28'900
-Merken
-ab CHF 311/Monat
 JAGUAR
 XE 20d Portfolio AWD Automat
 CHF 22'000
@@ -389,27 +413,6 @@ XE 2.0 -Dynamic SE P300 AWD Autom...
 CHF 59'500
 Merken
 ab CHF 639/Monat
-JAGUAR
-XE 20d R-Sport Automat
-CHF 33'700
-ab CHF 397/Monat
-03.2019
-Automat
-18'000 km
-Diesel
-Hinterradantrieb
-grau
-180 PS
-ZH
-Merken
-JAGUAR
-XE 20d R-Sport Automat
-03.2019
-180 PS
-18'000 km
-CHF 33'700
-Merken
-ab CHF 397/Monat
 JAGUAR
 XE 25d R-Sport AWD Automat
 CHF 39'900

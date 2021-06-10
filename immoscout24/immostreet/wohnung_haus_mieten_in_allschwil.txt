@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-allschwil/
 Title: Wohnung & Haus mieten in Allschwil - Immostreet.ch
-Description: Wohnung & Haus mieten in  Allschwil - Immostreet.ch: ImmoStreet.ch hat 120 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Allschwil - Immostreet.ch: ImmoStreet.ch hat 114 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-120 Resultate gefunden ·
+114 Resultate gefunden ·
 Wohnung & Haus mieten in Allschwil
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,106 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Belchenring 33
+2'390
+CHF
+/Monat
+Exklusive Wohnung an beliebter Lage
+Belchenring 33, 4123 Allschwil
+Array
+4.5 Zimmer
+114 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+114 m2
+Per 01. September vermieten wir in freundlicher Liegenschaft eine moderne und lichtdurchflutete 4.5…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Steinbühlweg 70
+1'880
+CHF
+/Monat
+Wohnung in topmodernem und hochwertigem…
+Steinbühlweg 70, 4123 Allschwil
+Array
+2.5 Zimmer
+56 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+56 m2
+Wir vermieten per 1. September 2021 eine moderne und nachhaltige 2½-Zimmer-Wohnung an zentraler Lag…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Baslerstrasse 341
+1'310
+CHF
+/Monat
+Schöne 2 1/2 Zimmer-Wohnung mit Gartens…
+Baslerstrasse 341, 4123 Allschwil
+Array
+2 Zimmer
+66 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+66 m2
+Nach Vereinbarung vermieten wir eine gemütliche 2.5-Zimmerwohnung im Erdgeschoss in Allschwil.Die W…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Baselmattweg
+820
+CHF
+/Monat
+1 Zimmer Wohnung in Allschwil
+Baselmattweg, 4123 Allschwil
+Array
+1 Zimmer
+29 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+29 m2
+1 Zimmer Wohnung im EG am Baselmattweg in Allschwil Wohnfläche 29 m2,(4m x 3.9m reiner Wohnraum)Bal…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Birkenstrasse 7
+1'850
+CHF
+/Monat
+Helle 4-Zimmer-Wohnung
+Birkenstrasse 7, 4123 Allschwil
+Array
+4 Zimmer
+84 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+84 m2
+Familienfreundliche Wohnung im 2. OG ohne Lift. Einbauküche mit Geschirrspüler, Laminat- und Kerami…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Grabenring 30
 1'547
 CHF
@@ -233,26 +333,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Lettenweg 85
-1'710
-CHF
-/Monat
-Attraktive Neubauwohnung mit Gartensitz…
-Lettenweg 85, 4123 Allschwil
-Array
-2.5 Zimmer
-54 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-54 m2
-Wir vermieten diverse 1.5 bis 3.5 Neubauwohnungen im Lettenweg 85, Allschwil. Die Wohnungen befinde…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bettenstrasse 94
 1'650
 CHF
@@ -309,26 +389,6 @@ Zimmer
 Wohnfläche
 60 m2
 Nachmieter für 3-Zi-Wohnung in Allschwil gesucht! Per 01.07.2021 oder nach Vereinbarung suche ich e…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Binningerstrasse 79
-1'394
-CHF
-/Monat
-3-Zimmerwohnung im stadtnahen Allschwil…
-Binningerstrasse 79, 4123 Allschwil
-Array
-3 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-60 m2
-Die 3-Zimmer-Wohnung befindet sich an der Binningerstrasse in Allschwil direkt an der Grenze zu Bas…
 Teilen
 E-Mail
 Facebook
@@ -415,26 +475,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Binningerstrasse
-1'394
-CHF
-/Monat
-Nachmieter per 01.07.21 für 3-Ziwhg in …
-Binningerstrasse, 4123 Allschwil
-Array
-3 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-60 m2
-Die schöne 3 Zimmer-Wohnung befindet sich an der Binningerstrasse in Allschwil. Insgesamt verfügt d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Saturnstrasse 44
 2'200
 CHF
@@ -511,46 +551,6 @@ Zimmer
 Wohnfläche
 70 m2
 An ruhiger Lage in Allschwil vermieten per 1. September 2021 eine moderne 3 1/2-Zimmerwohnung mit f…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Spitzwaldstrasse 18
-1'120
-CHF
-/Monat
-Tolle Zweizimmerwohnung
-Spitzwaldstrasse 18, 4123 Allschwil
-Array
-2 Zimmer
-50 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-50 m2
-Besonders praktischer GrundrissHohe DeckenGrosses schönes Bad mit Badewan…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Binningerstrasse 8
-990
-CHF
-/Monat
-Schlichte 2.0 Zimmerwohnung in Allschwil
-Binningerstrasse 8, 4123 Allschwil
-Array
-2 Zimmer
-50 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-50 m2
-In gepflegtem Mehrfamilienhaus, nahe Dorfkern von Allschwil, vermieten wir Ihnen eine einfache 2.0 …
 Teilen
 E-Mail
 Facebook

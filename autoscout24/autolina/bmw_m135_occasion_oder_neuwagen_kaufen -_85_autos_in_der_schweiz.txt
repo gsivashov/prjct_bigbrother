@@ -157,6 +157,71 @@ Suche zurücksetzen
 NEU
 BMW
 M135i xDrive
+CHF 50'900
+ab CHF 547/Monat
+03.2020
+Automat
+10'000 km
+Benzin
+Allradantrieb
+schwarz
+306 PS
+JU
+Merken
+BMW
+M135i xDrive
+03.2020
+306 PS
+10'000 km
+CHF 50'900
+Merken
+ab CHF 547/Monat
+NEU
+BMW
+M135i xDrive
+CHF 64'100
+ab CHF 689/Monat
+01.2021
+Automat
+10 km
+Benzin
+Allradantrieb
+grau
+306 PS
+SG
+Merken
+BMW
+M135i xDrive
+01.2021
+306 PS
+10 km
+CHF 64'100
+Merken
+ab CHF 689/Monat
+NEU
+BMW
+M135i xDrive
+CHF 64'000
+ab CHF 688/Monat
+01.2021
+Automat
+10 km
+Benzin
+Allradantrieb
+schwarz
+306 PS
+SG
+Merken
+BMW
+M135i xDrive
+01.2021
+306 PS
+10 km
+CHF 64'000
+Merken
+ab CHF 688/Monat
+BMW
+M135i xDrive
 CHF 18'900
 ab CHF 203/Monat
 02.2013
@@ -407,69 +472,6 @@ M135i xDrive
 CHF 51'900
 Merken
 ab CHF 558/Monat
-BMW
-M135i xDrive
-CHF 49'900
-ab CHF 536/Monat
-05.2020
-Automat
-6'500 km
-Benzin
-Allradantrieb
-weiss
-306 PS
-AG
-Merken
-BMW
-M135i xDrive
-05.2020
-306 PS
-6'500 km
-CHF 49'900
-Merken
-ab CHF 536/Monat
-BMW
-M135i xDrive
-CHF 49'900
-ab CHF 536/Monat
-11.2020
-Automat
-8'500 km
-Benzin
-Allradantrieb
-schwarz
-306 PS
-AG
-Merken
-BMW
-M135i xDrive
-11.2020
-306 PS
-8'500 km
-CHF 49'900
-Merken
-ab CHF 536/Monat
-BMW
-M135i xDrive
-CHF 43'900
-ab CHF 472/Monat
-10.2019
-Automat
-40'500 km
-Benzin
-Allradantrieb
-schwarz
-306 PS
-AG
-Merken
-BMW
-M135i xDrive
-10.2019
-306 PS
-40'500 km
-CHF 43'900
-Merken
-ab CHF 472/Monat
 1
 1
 2

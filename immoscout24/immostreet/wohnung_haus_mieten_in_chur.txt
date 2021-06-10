@@ -152,11 +152,29 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Pulvermühlestrasse 42
-1'580
+Salvatorenstrasse 70B
+1'400
 CHF
-ZU VERMIETEN HELLE WOHNUNG 3.5 ZIMMER W…
-Pulvermühlestrasse 42, 7000 Chur
+/Monat
+tolle 2,5 Zimmerwohnung
+Salvatorenstrasse 70B, 7000 Chur
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+tolle 2,5 Zimmerwohnung in ChurDiese tolle 2,5 Zimmerwohnung bietet alles, um sich zu Haus so richt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Pulvermühlestr. 42
+1'790
+CHF
+/Monat
+Mieten ohne Kaution - Traumwohnung such…
+Pulvermühlestr. 42, 7000 Chur
 Array
 3.5 Zimmer
 97 m2
@@ -166,7 +184,47 @@ Zimmer
 3.5
 Wohnfläche
 97 m2
-Zu vermieten ist eine helle 3.5-Zimmer Wohnung an der Pulvermühlestrasse 42. Die Wohnung besteht au…
+- Schlafzimmer (ca.14 + 16 m²)- Balkon (12 m²)- Wohn- und Schlafbereich Eichenparkett- Naszellen m…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Belmontstrasse 8
+720
+CHF
+/Monat
+1-Zimmerwohnung mit Balkon an sonniger …
+Belmontstrasse 8, 7000 Chur
+Array
+1 Zimmer
+25 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+25 m2
+Zwei Helle 1-Zimmerwohnungen an sonniger und ruhiger Lage zu vermieten , mit schönem Balkon, Kochni…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Julierweg 14
+1'600
+CHF
+/Monat
+Wohnung sucht Sie!
+Julierweg 14, 7000 Chur
+Array
+4 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+75 m2
+Die Fotos dienen als Muster und können von der effektiven Wohnung abwechen.- Helles Wohnzimmer mit …
 Teilen
 E-Mail
 Facebook
@@ -303,26 +361,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Pulvermühlestr. 32
-1'510
-CHF
-/Monat
-Mieten ohne Kaution - Traumwohnung such…
-Pulvermühlestr. 32, 7000 Chur
-Array
-2.5 Zimmer
-69 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-69 m2
-Die Überbauung "Pulvermühle" setzt einen urbanen, grünen Akzent in Chur. Ihre grosszügige Architekt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Pulvermühlestr. 15
 1'940
 CHF
@@ -441,26 +479,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Myrthenweg 23
-1'325
-CHF
-/Monat
-Wohnen in sonnigem Quartier
-Myrthenweg 23, 7000 Chur
-Array
-3 Zimmer
-62 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-62 m2
-Wir vermieten per 1. September 2021 oder nach Vereinbarung eine sonnige 3 Zimmer-Wohnung im 1. Ober…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Masanserstrasse 124
 1'790
 CHF
@@ -513,23 +531,6 @@ Zimmer
 Wohnfläche
 22 m2
 Wir vermieten in der Altstadt von Chur mehrere, neu renovierte 1-Zimmerwohnungen. Die ersten Wohnun…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Amselweg 3
-630
-CHF
-/Monat
-Sonniges WG Zimmer im Zentrum von Chur
-Amselweg 3, 7000 Chur
-Array
-12 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-12 m2
-Das möblierte Zimmer ist in einer dreier WG im Zentrum von Chur und befindet sich nur wenige 100 Me…
 Teilen
 E-Mail
 Facebook

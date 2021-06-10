@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-pratteln/
 Title: Wohnungen & Häuser mieten in Pratteln - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Pratteln - Immostreet.ch: ImmoStreet.ch hat 198 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Pratteln - Immostreet.ch: ImmoStreet.ch hat 200 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-198 Resultate gefunden ·
+200 Resultate gefunden ·
 Wohnungen & Häuser mieten in Pratteln
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,81 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Gottesackerstrasse 19
+1'350
+CHF
+/Monat
+Wohlfühlen inklusive - Helle, moderne 3…
+Gottesackerstrasse 19, 4133 Pratteln
+Array
+3 Zimmer
+64 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+64 m2
+Etage
+Lassen Sie Sich begeistern von diesem einmaligen Angebot:Grosszügiges helles Wohnzimmer mit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gempenstr. 51
+57
+CHF
+/Monat
+Kellerraum zu vermieten
+Gempenstr. 51, 4133 Pratteln
+Array
+Objekttyp
+Verkauf, Lager
+Wir vermieten nach Vereinbarung einen Kellerraum im 1. UG an der Gempenstr. 51 mit ca. 7 m2 Fläche.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Netzibodenstrasse 33
+2'535
+CHF
+/Monat
+Sensationelle Dachwohnung!
+Netzibodenstrasse 33, 4133 Pratteln
+Array
+4.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+145 m2
+Diese grosszügige, helle 4.5-Z'Dachwohnung liegt in einem gepflegten Bürogebäude im 4. OG. Der Lift…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mühleweg 17
+1'700
+CHF
+/Monat
+Schöne 4.5-Zimmerwohung in Pratteln
+Mühleweg 17, 4133 Pratteln
+Array
+4.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+86 m2
+Diese 4.5-Zimmerwohnung im 5. OG ist ab 16.027.2021 verfügbar und überzeugt durch Folgendes:
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Muttenzerstrasse 40
 1'405
 CHF
@@ -370,69 +445,6 @@ Zimmer
 Wohnfläche
 69 m2
 Per 16.09.2021 oder nach Vereinbarung vermieten wir eine schöne 3.5-Zimmer in unserer beliebten Übe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Güterstr. 74 / 80
-11'160
-CHF
-/Monat
-Lager im 1. Untergeschoss auf dem "Magn…
-Güterstr. 74 / 80, 4133 Pratteln
-Array
-Objekttyp
-Verkauf, Lager
-Das aufstrebende Magnet-Areal bietet enorm viel Potential für alle erdenklichen Unternehmen und Bra…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Güterstr. 107
-6'033
-CHF
-/Monat
-Moderne Büroflächen auf dem Magnet-Areal
-Güterstr. 107, 4133 Pratteln
-Array
-Objekttyp
-Büro
-Etage
-Die Büroetage wurde im Jahr 2016 saniert.Aktuell ist die Etage in Büros, Sitzungszimmer, sowie Teek…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Burggartenstrasse 6
-120
-CHF
-/Monat
-Tiefgaragenplatz in der Nähe des Bahnho…
-Burggartenstrasse 6, 4133 Pratteln
-Array
-Objekttyp
-Tiefgarage
-Tiefgaragen-Platz ab sofort zu vermieten.
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Münchackerstrasse 35
-2'375
-CHF
-/Monat
-Schönes Zuhause für die kleine Familie
-Münchackerstrasse 35, 4133 Pratteln
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Wir vermieten ab sofort oder nach Vereinbarung diese moderne, grosszügige 4.5-Zimmerwohnung mit fol…
 Teilen
 E-Mail
 Facebook

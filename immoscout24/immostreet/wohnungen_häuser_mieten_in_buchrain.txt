@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-buchrain/
 Title: Wohnungen & Häuser mieten in Buchrain - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Buchrain - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Buchrain - Immostreet.ch: ImmoStreet.ch hat 30 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-34 Resultate gefunden ·
+30 Resultate gefunden ·
 Wohnungen & Häuser mieten in Buchrain
 Preis (aufsteigend)
 Preis (absteigend)
@@ -328,23 +328,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Hauptstrasse 62
-1'700
-CHF
-/Monat
-Moderne 3.0-Zimmer-Wohnung in Buchrain …
-Hauptstrasse 62, 6033 Buchrain
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Die 3.0-Zimmer-Wohnung wurde im 2018 komplett saniert und ist mit Geräten der neusten Generation au…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Kirchbreitestrasse 12
 1'500
 CHF
@@ -378,26 +361,6 @@ Zimmer
 Wohnfläche
 106 m2
 Suchen Sie eine moderne Wohnung? Dann ist diese 4 ½-Zimmerwohnung genau das Richtige für Sie: - gro…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 62
-1'700
-CHF
-/Monat
-Helle und moderne 3.5 Zimmer-Wohnung in…
-Hauptstrasse 62, 6033 Buchrain
-Array
-3.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-65 m2
-Per 1. Juli 2021 vermieten wir diese hochwertige 3.5 Zimmer-Wohnung im 1. OG an zentraler Lage in B…
 Teilen
 E-Mail
 Facebook
@@ -494,6 +457,37 @@ Wohnfläche
 108 m2
 Etage
 www.haslirainpark.ch/mietenMöchten Sie Ihre Seele baumeln lassen und den hektischen Alltag in Ihrem…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schiltwaldstrasse
+50
+CHF
+/Monat
+Aussenparkplätze zu vermieten
+Schiltwaldstrasse, 6033 Buchrain
+Array
+Objekttyp
+Offener Parkplatz
+An gut zugänglicher Lage in Buchrain vermieten wir mehrere Aussenparkplätze. Bei Interesse geben wi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'457
+CHF
+/Monat
+Nachmieter gesucht
+Adresse auf Anfrage, 6033 Buchrain
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Zu vermieten 3.5 Zimmerwohnung in Buchrain (Nachmieter gesucht)Fr. 1597.- inkl.Garage und Aussenpla…
 Teilen
 E-Mail
 Facebook

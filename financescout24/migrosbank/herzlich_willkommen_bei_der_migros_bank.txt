@@ -227,17 +227,17 @@ Währung
 Ankauf
 Verkauf
 Euro
-1,0755
-1,1075
+1,0745
+1,1065
 Dollar
 0,8805
 0,9115
 Pfund
-1,2440
-1,2910
+1,2400
+1,2870
 Yen
-0,8050
-0,8330
+0,8040
+0,8320
 Weitere Devisenkurse
 Aktuelle Zinsen
 Hypothek
@@ -249,7 +249,7 @@ Festhypothek
 0,770%
 Festhypothek
 10 Jahre ab
-0,980%
+0,930%
 Libor-Hypothek
 6 Monate
 0,800%

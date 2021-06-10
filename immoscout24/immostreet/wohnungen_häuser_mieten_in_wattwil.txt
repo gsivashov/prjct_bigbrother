@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-wattwil/
 Title: Wohnungen & Häuser mieten in Wattwil - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Wattwil - Immostreet.ch: ImmoStreet.ch hat 53 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Wattwil - Immostreet.ch: ImmoStreet.ch hat 49 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-53 Resultate gefunden ·
+49 Resultate gefunden ·
 Wohnungen & Häuser mieten in Wattwil
 Preis (aufsteigend)
 Preis (absteigend)
@@ -224,27 +224,6 @@ Wohnung, Flach
 Zimmer
 3.5
 Sonnige 3.5-Zi. mit traumhafter AussichtDie gemütliche Wohnung befindet sich in einem gepflegtem Me…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zwinglistrasse 5
-1'190
-CHF
-/Monat
-schöne 3 1/2 Zimmer-Wohnung
-Zwinglistrasse 5, 9630 Wattwil
-Array
-3.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-65 m2
-Etage
-Die Genossenschaft der Genossenschaften vermietet per 01.10.2021 oder Vereinbarung eine 3 1/2-Zimme…
 Teilen
 E-Mail
 Facebook
@@ -380,27 +359,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Ebnaterstrasse 189
-1'190
-CHF
-/Monat
-Charmante, sonnige 3.5 Zimmer-Dachwohnu…
-Ebnaterstrasse 189, 9630 Wattwil
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Etage
-Wir vermieten nach Vereinbarung eine schöne 3.5 Zimmer-Dachwohnung in Wattwil Ulisbach.Küch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Kronenwiese 1
 1'890
 CHF
@@ -476,19 +434,61 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Grüenaustrasse 40
-1'080
+Schomattenstrasse 13
+1'250
 CHF
 /Monat
-Zentrale 4-Zimmerwohnung mit Lift
-Grüenaustrasse 40, 9630 Wattwil
+3.5 Zimmer Wohnung
+Schomattenstrasse 13, 9630 Wattwil
 Array
-4 Zimmer
+3.5 Zimmer
+70 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4
-Die helle 4-Zimmerwohnung befindet sich in einem zentrumsnahen Wohnquartier an ruhiger Lage in Watt…
+3.5
+Wohnfläche
+70 m2
+Wohnung wurde vor ca. 2 Jahre komplett saniert. Neue Küche mit Geschirrspüler.Neues Bad/WC, Keramik…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Auf Anfrage
+1'380
+CHF
+Elegantes, modernes Zuhause
+Auf Anfrage, 9630 Wattwil
+Array
+3.5 Zimmer
+118 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+118 m2
++ Zentrale Lage (Einkaufsmöglichkeiten und ÖV direkt vor der Türe)+ Privater Balkon (~ 11 m²)+ Offe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ebnaterstrasse 226a
+2'040
+CHF
+/Monat
+Sonne tanken auf Dachterrasse! Moderne …
+Ebnaterstrasse 226a, 9630 Wattwil
+Array
+3.5 Zimmer
+103 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+103 m2
+3.5-Zi.Attikawohnung mit modernen ExtrasWir vermieten eine 3.5-Zimmer-Attikawohnung in der Überbauu…
 Teilen
 E-Mail
 Facebook

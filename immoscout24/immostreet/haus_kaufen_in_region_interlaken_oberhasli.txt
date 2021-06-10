@@ -138,6 +138,22 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Wychelstrasse 11
+Preis auf Anfrage
+Schönes Einfamilienhaus Chalet Eleven m…
+Wychelstrasse 11, 3818 Grindelwald
+Array
+5.5 Zimmer
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Etage
+ObjektbeschreibungDas neue, moderne Einfamilien-Chalet Eleven befindet sich an der Wychelstrasse 11…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Horlauenenstrasse 4
 870'000
 CHF
@@ -420,25 +436,6 @@ Etage
 Agentur Wyss AG:
 Traumhaftes Einfamilienhaus im Bungalow-Stil in Meiringen
 Ihre Vorteile auf …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sandweidli 13
-535'000
-CHF
-Einfamilienhaus mit Garage und grosser…
-Sandweidli 13, 3822 Lauterbrunnen
-Array
-6 Zimmer
-121 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6
-Wohnfläche
-121 m2
-Das Chalet wurde im Jahr 1953 erstellt und die Parzelle hat einen Halt von 3'205 m2. Sie liegt in d…
 Teilen
 E-Mail
 Facebook

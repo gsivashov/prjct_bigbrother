@@ -198,6 +198,224 @@ Merken
 ab CHF 167/Monat
 NEU
 RENAULT
+Captur 1.3 TCe Intens
+CHF 24'900
+ab CHF 268/Monat
+09.2020
+Automat
+16'200 km
+Benzin
+Vorderradantrieb
+silber
+131 PS
+SG
+Merken
+RENAULT
+Captur 1.3 TCe Intens
+09.2020
+131 PS
+16'200 km
+CHF 24'900
+Merken
+ab CHF 268/Monat
+NEU
+RENAULT
+Captur 1.6 E-Tech Plug-in Intens
+CHF 34'600
+ab CHF 372/Monat
+04.2021
+Automat
+80 km
+Plug-in-Hybrid Benzin/Elektro
+Vorderradantrieb
+blau
+92 PS
+TG
+Merken
+RENAULT
+Captur 1.6 E-Tech Plug-in Intens
+04.2021
+92 PS
+80 km
+CHF 34'600
+Merken
+ab CHF 372/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+RENAULT
+Captur 1.6 E-Tech Plug-in Edition One
+CHF 37'280
+ab CHF 401/Monat
+-
+Automat
+0 km
+Plug-in-Hybrid Benzin/Elektro
+Vorderradantrieb
+schwarz
+92 PS
+BL
+Merken
+RENAULT
+Captur 1.6 E-Tech Plug-in Edition...
+-
+92 PS
+0 km
+CHF 37'280
+Merken
+ab CHF 401/Monat
+NEU
+RENAULT
+Captur 1.2T Intens
+CHF 16'700
+ab CHF 180/Monat
+03.2018
+Automat
+51'000 km
+Benzin
+Vorderradantrieb
+silber
+120 PS
+SO
+Merken
+RENAULT
+Captur 1.2T Intens
+03.2018
+120 PS
+51'000 km
+CHF 16'700
+Merken
+ab CHF 180/Monat
+NEU
+RENAULT
+Captur 1.6 E-Tech Edition1 DHT
+CHF 36'900
+ab CHF 397/Monat
+01.2021
+Automat
+50 km
+Plug-in-Hybrid Benzin/Elektro
+Vorderradantrieb
+silber
+160 PS
+LU
+Merken
+RENAULT
+Captur 1.6 E-Tech Edition1 DHT
+01.2021
+160 PS
+50 km
+CHF 36'900
+Merken
+ab CHF 397/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+RENAULT
+Captur 1.6 E-Tech Edition1 DHT
+CHF 37'350
+ab CHF 402/Monat
+01.2021
+Automat
+50 km
+Plug-in-Hybrid Benzin/Elektro
+Vorderradantrieb
+silber
+160 PS
+LU
+Merken
+RENAULT
+Captur 1.6 E-Tech Edition1 DHT
+01.2021
+160 PS
+50 km
+CHF 37'350
+Merken
+ab CHF 402/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+RENAULT
+Captur 1.6 E-Tech Initiale DHT
+CHF 36'490
+ab CHF 392/Monat
+10.2020
+Automat
+6'500 km
+Plug-in-Hybrid Benzin/Elektro
+Vorderradantrieb
+weiss
+160 PS
+LU
+Merken
+RENAULT
+Captur 1.6 E-Tech Initiale DHT
+10.2020
+160 PS
+6'500 km
+CHF 36'490
+Merken
+ab CHF 392/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+RENAULT
+Captur 1.3 TCe EDC Intens EDC
+CHF 28'990
+ab CHF 312/Monat
+03.2021
+Automat
+1'500 km
+Benzin
+Vorderradantrieb
+grau
+141 PS
+LU
+Merken
+RENAULT
+Captur 1.3 TCe EDC Intens EDC
+03.2021
+141 PS
+1'500 km
+CHF 28'990
+Merken
+ab CHF 312/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+RENAULT
+Neuer Captur INTENS E-Tech Plug-in 160
+CHF 35'100
+ab CHF 377/Monat
+-
+Automat
+100 km
+Plug-in-Hybrid Benzin/Elektro
+Vorderradantrieb
+blau
+160 PS
+ZH
+Merken
+RENAULT
+Neuer Captur INTENS E-Tech Plug-i...
+-
+160 PS
+100 km
+CHF 35'100
+Merken
+ab CHF 377/Monat
+NEU
+RENAULT
 Captur 1.3 TCe Edition One EDC
 CHF 24'450
 ab CHF 263/Monat
@@ -218,7 +436,6 @@ Captur 1.3 TCe Edition One EDC
 CHF 24'450
 Merken
 ab CHF 263/Monat
-NEU
 RENAULT
 Captur 1.2 TCe Helly Hansen EDC
 CHF 11'900
@@ -240,7 +457,6 @@ Captur 1.2 TCe Helly Hansen EDC
 CHF 11'900
 Merken
 ab CHF 134/Monat
-NEU
 RENAULT
 Captur 1.3 T 16V Intens EDC
 CHF 19'590
@@ -262,7 +478,6 @@ Captur 1.3 T 16V Intens EDC
 CHF 19'590
 Merken
 ab CHF 211/Monat
-NEU
 RENAULT
 Captur ZEN TCe 100
 CHF 21'600
@@ -284,199 +499,6 @@ Captur ZEN TCe 100
 CHF 21'600
 Merken
 ab CHF 232/Monat
-RENAULT
-Captur INTENS TCe 140 EDC PF
-CHF 29'200
-ab CHF 314/Monat
--
-Automat
-1 km
-Benzin
-Vorderradantrieb
-blau
-140 PS
-ZH
-Merken
-RENAULT
-Captur INTENS TCe 140 EDC PF
--
-140 PS
-1 km
-CHF 29'200
-Merken
-ab CHF 314/Monat
-RENAULT
-Captur 1.2 T 16V 90th Anniversary EDC
-CHF 15'700
-ab CHF 169/Monat
-12.2017
-Automat
-44'700 km
-Benzin
-Vorderradantrieb
-blau
-120 PS
-BE
-Merken
-RENAULT
-Captur 1.2 T 16V 90th Anniversary...
-12.2017
-120 PS
-44'700 km
-CHF 15'700
-Merken
-ab CHF 169/Monat
-RENAULT
-Captur 1.2T Privilège
-CHF 9'900
-ab CHF 112/Monat
-05.2013
-Automat
-121'000 km
-Benzin
-Vorderradantrieb
-schwarz
-120 PS
-TG
-Merken
-RENAULT
-Captur 1.2T Privilège
-05.2013
-120 PS
-121'000 km
-CHF 9'900
-Merken
-ab CHF 112/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-RENAULT
-Captur 1.6 E-Tech 160 Int
-CHF 33'900
-ab CHF 365/Monat
-05.2021
-Automat
-1'500 km
-Benzin
-Vorderradantrieb
-weiss
-90 PS
-SG
-Merken
-RENAULT
-Captur 1.6 E-Tech 160 Int
-05.2021
-90 PS
-1'500 km
-CHF 33'900
-Merken
-ab CHF 365/Monat
-RENAULT
-Captur 1.3 TCe Edition One EDC
-CHF 24'450
-ab CHF 263/Monat
-07.2020
-Automat
-19'950 km
-Benzin
-Vorderradantrieb
-blau
-131 PS
-AG
-Merken
-RENAULT
-Captur 1.3 TCe Edition One EDC
-07.2020
-131 PS
-19'950 km
-CHF 24'450
-Merken
-ab CHF 263/Monat
-RENAULT
-Captur 1.3 T 16V Intens EDC
-CHF 19'900
-ab CHF 214/Monat
-11.2019
-Automat
-7'100 km
-Benzin
-Vorderradantrieb
-anthrazit
-150 PS
-BL
-Merken
-RENAULT
-Captur 1.3 T 16V Intens EDC
-11.2019
-150 PS
-7'100 km
-CHF 19'900
-Merken
-ab CHF 214/Monat
-RENAULT
-Captur 0.9 12V Privilège
-CHF 10'900
-ab CHF 123/Monat
-03.2015
-Handschaltung
-65'900 km
-Benzin
-Vorderradantrieb
-schwarz
-90 PS
-BL
-Merken
-RENAULT
-Captur 0.9 12V Privilège
-03.2015
-90 PS
-65'900 km
-CHF 10'900
-Merken
-ab CHF 123/Monat
-RENAULT
-Captur 1.3 TCe EDC Intens EDC
-CHF 28'350
-ab CHF 305/Monat
-07.2020
-Automat
-3'950 km
-Benzin
-Vorderradantrieb
-weiss
-154 PS
-BL
-Merken
-RENAULT
-Captur 1.3 TCe EDC Intens EDC
-07.2020
-154 PS
-3'950 km
-CHF 28'350
-Merken
-ab CHF 305/Monat
-RENAULT
-Captur 1.0 TCe Intens
-CHF 21'850
-ab CHF 235/Monat
-07.2020
-Handschaltung
-22'450 km
-Benzin
-Vorderradantrieb
-grau
-101 PS
-BL
-Merken
-RENAULT
-Captur 1.0 TCe Intens
-07.2020
-101 PS
-22'450 km
-CHF 21'850
-Merken
-ab CHF 235/Monat
 1
 1
 2

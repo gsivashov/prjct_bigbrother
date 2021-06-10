@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-koelliken/
 Title: Wohnungen & Häuser mieten in Kölliken - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Kölliken - Immostreet.ch: ImmoStreet.ch hat 13 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Kölliken - Immostreet.ch: ImmoStreet.ch hat 14 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-13 Resultate gefunden ·
+14 Resultate gefunden ·
 Wohnungen & Häuser mieten in Kölliken
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,43 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Wallenmattstrasse 26
+1'950
+CHF
+/Monat
+4½-Zimmer-Wohnung (120 m²) mit Weitsich…
+Wallenmattstrasse 26, 5742 Kölliken
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Zu vermieten per sofort: 4½-Zimmer-Wohnung (120 m²) mit Weitsicht.Mietzins: Fr. 1'700.-- exkl. NK. …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eichenweg 13
+1'450
+CHF
+/Monat
+Nachmieter
+Eichenweg 13, 5742 Kölliken
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Ich suche Nachmieter 4.5 zimmer wohnung zu vermieten absofort
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Hauptstrasse 24
 1'430
 CHF
@@ -330,26 +367,6 @@ Array
 Objekttyp
 Verkauf, Gewerbe
 Wir bieten die Mitbenutzung unserer leistungsstarken und modernen Infrastruktur zwischen 02.00 Uhr …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wallenmattstrasse 26
-1'950
-CHF
-/Monat
-4½-Zimmer-Wohnung (120 m²) mit Weitsich…
-Wallenmattstrasse 26, 5742 Kölliken
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-120 m2
-Zu vermieten per sofort: 4½-Zimmer-Wohnung (120 m²) mit Weitsicht.Mietzins: Fr. 1'700.-- exkl. NK. …
 Teilen
 E-Mail
 Facebook

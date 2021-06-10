@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-horw/
 Title: Wohnung & Haus mieten in Horw - Immostreet.ch
-Description: Wohnung & Haus mieten in  Horw - Immostreet.ch: ImmoStreet.ch hat 51 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Horw - Immostreet.ch: ImmoStreet.ch hat 52 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-51 Resultate gefunden ·
+52 Resultate gefunden ·
 Wohnung & Haus mieten in Horw
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,63 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Brunnmattstrasse 12
+1'300
+CHF
+/Monat
+Schön Wohnen in Seenähe
+Brunnmattstrasse 12, 6048 Horw
+Array
+2.5 Zimmer
+50 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+50 m2
+Wir vermieten per 16.09.2021 eine schöne 2.5 Zimmer-Wohnung.Die Liegenschaft überzeugt durch die ze…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kantonsstrasse 75
+570
+CHF
+/Monat
+1-Zimmer im Zentrum von Horw
+Kantonsstrasse 75, 6048 Horw
+Array
+1 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Hier lässt es sich wohnenDie Liegenschaft Hotel Pilatus liegt im Zentrum von Horw. Einkaufsmöglichk…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rosenfeldweg 8
+1'460
+CHF
+/Monat
+gemütliche 2.5-Zimmerwohnung in Horw
+Rosenfeldweg 8, 6048 Horw
+Array
+2.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+70 m2
+Die schöne und helle 2.5-Zimmerwohnung am Rosenfeldweg 8 in Horw kann per 1. Juli 2021 oder nach Ve…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bifangstr. 16
 1'710
 CHF
@@ -486,66 +543,6 @@ Zimmer
 Wohnfläche
 65 m2
 Hier lässt es sich wohnenDie Liegenschaft Ebenauweg 4 liegt ca. 250 m vom Bahnhof in Horw Mitte - w…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kantonsstrasse 43
-2'090
-CHF
-/Monat
-«moderner Grundriss, grosszügig, zentra…
-Kantonsstrasse 43, 6048 Horw
-Array
-3.5 Zimmer
-97 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-97 m2
-Zentral und dennoch ruhig, inmitten der vielseitigen und steuergünstigen Gemeinde Horw wohnen? Eing…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kantonsstrasse 154a
-921
-CHF
-/Monat
-Vollausgerüstete, möblierte Apartments …
-Kantonsstrasse 154a, 6048 Horw
-Array
-1 Zimmer
-21 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-21 m2
-Wir vermieten kostengünstige, möblierte 1-Zimmer Apartments. An einer verkehrstechnisch hervorragen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kantonsstrasse 154a
-931
-CHF
-/Monat
-Vollausgerüstete, möblierte Business Ap…
-Kantonsstrasse 154a, 6048 Horw
-Array
-1 Zimmer
-21 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-21 m2
-Wir vermieten kostengünstige, möblierte 1-Zimmer Business Apartments. Die Liegenschaft befindet sic…
 Teilen
 E-Mail
 Facebook

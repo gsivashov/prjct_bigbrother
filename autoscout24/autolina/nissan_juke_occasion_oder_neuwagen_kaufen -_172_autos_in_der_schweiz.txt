@@ -175,6 +175,28 @@ Juke 1.6 16V Tekna
 CHF 8'500
 Merken
 ab CHF 96/Monat
+NEU
+NISSAN
+Juke 1.6 DIG-T tekna 4x4 Xtronic M-CVT
+CHF 16'500
+ab CHF 178/Monat
+04.2017
+Automat
+68'341 km
+Benzin
+Allradantrieb
+weiss
+190 PS
+VD
+Merken
+NISSAN
+Juke 1.6 DIG-T tekna 4x4 Xtronic ...
+04.2017
+190 PS
+68'341 km
+CHF 16'500
+Merken
+ab CHF 178/Monat
 NISSAN
 Juke 1.6 DIG-T tekna 4x4 Xtronic M-CVT
 CHF 7'900
@@ -280,8 +302,8 @@ Merken
 ab CHF 268/Monat
 NISSAN
 Juke 1.6 tekna Xtronic CVT
-CHF 10'900
-ab CHF 123/Monat
+CHF 10'963
+ab CHF 124/Monat
 11.2014
 Automat
 66'444 km
@@ -296,9 +318,9 @@ Juke 1.6 tekna Xtronic CVT
 11.2014
 117 PS
 66'444 km
-CHF 10'900
+CHF 10'963
 Merken
-ab CHF 123/Monat
+ab CHF 124/Monat
 NISSAN
 Juke 1.2 DIG-T acenta
 CHF 10'300
@@ -406,8 +428,8 @@ Merken
 ab CHF 111/Monat
 NISSAN
 Juke 1.6 tekna Xtronic CVT
-CHF 10'700
-ab CHF 121/Monat
+CHF 11'500
+ab CHF 130/Monat
 05.2015
 Automat
 84'000 km
@@ -422,9 +444,9 @@ Juke 1.6 tekna Xtronic CVT
 05.2015
 117 PS
 84'000 km
-CHF 10'700
+CHF 11'500
 Merken
-ab CHF 121/Monat
+ab CHF 130/Monat
 NISSAN
 Juke 1.2 DIG-T tekna
 CHF 10'600
@@ -446,27 +468,6 @@ Juke 1.2 DIG-T tekna
 CHF 10'600
 Merken
 ab CHF 120/Monat
-NISSAN
-Juke 1.0 DIG-T N-Connecta
-CHF 19'800
-ab CHF 213/Monat
-12.2019
-Handschaltung
-21'000 km
-Benzin
-Vorderradantrieb
-blau
-117 PS
-BL
-Merken
-NISSAN
-Juke 1.0 DIG-T N-Connecta
-12.2019
-117 PS
-21'000 km
-CHF 19'800
-Merken
-ab CHF 213/Monat
 1
 1
 2

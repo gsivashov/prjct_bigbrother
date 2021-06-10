@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-baden/
 Title: Haus kaufen in Bezirk Baden - Immostreet.ch
-Description: Haus kaufen in Bezirk Baden - Immostreet.ch: ImmoStreet.ch hat 49 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Baden - Immostreet.ch: ImmoStreet.ch hat 51 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-49 Resultate gefunden ·
+51 Resultate gefunden ·
 Haus kaufen in Bezirk Baden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,6 +138,103 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+1'350'000
+CHF
+AN BESTER LAGE MIT FERNSICHT, EINMALIGE…
+Adresse auf Anfrage, 5417 Untersiggenthal
+Array
+6.5 Zimmer
+206 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+206 m2
+Die Liegenschaft befindet sich an bevorzugter Wohnlage in einem äusserst attraktiven Einfamilienhau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Museumstrasse 16
+650'000
+CHF
+Freistehendes 5.5 Zimmer Einfamilienhau…
+Museumstrasse 16, 5512 Wohlenschwil
+Array
+5.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+120 m2
+Etage
+Dieses charmante, freistehende und sehr gemütliche Einfamilienhaus aus dem Baujahr 1981 hat eine Gr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hägelerstrasse 19
+1'290'000
+CHF
+Wohn(t)raum an bevorzugter Hanglage mit…
+Hägelerstrasse 19, 5453 Remetschwil
+Array
+5.5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+160 m2
+An herrlicher Wohnlage verkaufen wir ein Einfamilienhaus mit Einliegerwohnung und grosser Tiefgarag…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+4'800'000
+CHF
+Wohn- und Gewerbeliegenschaft mit Poten…
+Adresse auf Anfrage, 5400 Baden
+Array
+27 Zimmer
+701 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+27
+Wohnfläche
+701 m2
+Etage
+Sind Sie auf der Suche nach einem Investment in einer attraktiven und innovativen Stadt? Dann könnt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Killwangen
+1'490'000
+CHF
+Familienfreundliches 5.5 Zimmer Einfami…
+Killwangen, 8956 Killwangen
+Array
+5.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+100 m2
+Die Liegenschaft präsentiert sich an ruhiger und sonniger Lage in Killwangen und besticht mit der n…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Sommerhaldenstrasse 7
 890'000
 CHF
@@ -278,7 +375,7 @@ Whatsapp
 Panoramaweg 2
 2'480'000
 CHF
-"Panoramaweg_hoch_2" - Wenn sich exklus…
+"Panoramaweg_hoch_2" - Letzte verfügbar…
 Panoramaweg 2, 5453 Remetschwil
 Array
 5.5 Zimmer
@@ -290,7 +387,7 @@ Zimmer
 Wohnfläche
 183 m2
 Etage
-Am Panoramaweg der Aargauer Gemeinde Remetschwil, zwischen Zürich und Baden, entstehen an schönster…
+In Remetschwil entstehen an schönster und unverbaubarer Panorama- Aussichtslage zwei terrassierte Z…
 Teilen
 E-Mail
 Facebook
@@ -428,104 +525,6 @@ Wohnfläche
 142 m2
 Etage
 Ich freue mich schon jetzt, Sie als meinen neuen Eigentümer willkommen zu heissen.Besuchen Sie Ihr …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Tobelackerweg 7
-1'250'000
-CHF
-Einfamilienhaus an bester Lage!
-Tobelackerweg 7, 5416 Kirchdorf AG
-Array
-5.5 Zimmer
-185 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-185 m2
-Etage
-Sind Sie auf der Suche nach einem zentralen und doch ruhigen Zuhause für Ihre Familie? Wir haben da…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberer Schüracherweg 7
-1'750'000
-CHF
-Exklusives Doppelhaus in Oberrohrdorf –…
-Oberer Schüracherweg 7, 5452 Oberrohrdorf
-Array
-6.5 Zimmer
-201 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-6.5
-Wohnfläche
-201 m2
-Etage
-An sonniger Hanglage mit südwestlicher Ausrichtung entsteht am Oberer Schüracherweg 7 in Oberrohrdo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dünnistrasse 2
-1'885'000
-CHF
-AgentSelly - Hochwertiger Ausbau an tol…
-Dünnistrasse 2, 8962 Bergdietikon
-Array
-6.5 Zimmer
-179 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-6.5
-Wohnfläche
-179 m2
-Etage
-Diese hochwertige Doppeleinfamilienhaushälfte an zentraler Lage mit grossem Garten und tollem Platz…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kornstrasse
-Preis auf Anfrage
-WOHNEN AN RUHIGER LAGE
-Kornstrasse, 5430 Wettingen
-Array
-7 Zimmer
-182 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7
-Wohnfläche
-182 m2
-Suchen Sie ein harmonisches Zuhause für sich und Ihre Liebsten? Sie erfreuen sich an Ruhe und genie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schellenackerstrasse 33A
-840'000
-CHF
-Familienfreundliches Wohnen in Stadtnähe
-Schellenackerstrasse 33A, 5400 Baden
-Array
-4.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-4.5
-Wohnfläche
-112 m2
-Etage
-Suchen Sie nach einem familienfreundlichen Zuhause an ruhiger Lade und doch in Stadtnähe? Dann könn…
 Teilen
 E-Mail
 Facebook

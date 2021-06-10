@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-berikon/
 Title: Wohnung & Haus mieten in Berikon - Immostreet.ch
-Description: Wohnung & Haus mieten in  Berikon - Immostreet.ch: ImmoStreet.ch hat 27 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Berikon - Immostreet.ch: ImmoStreet.ch hat 28 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-27 Resultate gefunden ·
+28 Resultate gefunden ·
 Wohnung & Haus mieten in Berikon
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,63 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Chörenmattstrasse 73
+995
+CHF
+/Monat
+Schönes 1.5-Zimmer-Studio sucht einen M…
+Chörenmattstrasse 73, 8965 Berikon
+Array
+1.5 Zimmer
+28 m2
+Objekttyp
+Wohnung, Studio
+Zimmer
+1.5
+Wohnfläche
+28 m2
+Per sofort oder nach Vereinbarung vermieten wir ein 1.5-Zimmer-Studio im schönen Berikon.Nebst der …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'735
+CHF
+/Monat
+WEITSICHT AUFS LAND MIT DIREKTANSCHLUSS…
+Adresse auf Anfrage, 8965 Berikon
+Array
+4.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+105 m2
+Eine grosse helle Wohnung wartet auf Sie mit oder ohne Kinder um gemütlich am Cheminée den Abend zu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 8
+1'540
+CHF
+/Monat
+"Wohnen im Zentrum Mutschellen"
+Bahnhofstrasse 8, 8965 Berikon
+Array
+2 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wir vermieten diese 2 Zimmer-Wohnungen an zentraler Lage. Verschiedenen Einkaufsmöglichkeiten befin…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Chörenmattstrasse 2
 1'450
 CHF
@@ -431,27 +488,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Oberdorfstrasse 15
-2'650
-CHF
-/Monat
-Modern und mit fantastischer Fernsicht
-Oberdorfstrasse 15, 8965 Berikon
-Array
-4.5 Zimmer
-116 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-116 m2
-Etage
-Modern, hochwertig und mit Blick in die AlpenIm 2018 fertiggestellten kleinen Mehrfamilienhaus verm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Oberwilerstrasse
 1'493
 CHF
@@ -508,46 +544,6 @@ Zimmer
 Wohnfläche
 89 m2
 Erstvermietung nach Teilsanierung. Per sofort oder nach Vereinbarung vermieten wir moderne 3.5-Zimm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-alte Bremgartenstrasse 2
-1'700
-CHF
-/Monat
-grosszügige, ruhige 3.5 Zimmerwohnung
-alte Bremgartenstrasse 2, 8965 Berikon
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Die zentral und trotzdem ruhig gelegene Wohnung direkt beim Bahnhof, verfügt nebst den grossen Zimm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unterdorfstrasse 48
-1'520
-CHF
-/Monat
-1 Monat gratis! 3.0 Zimmer-Wohnung zu v…
-Unterdorfstrasse 48, 8965 Berikon
-Array
-3 Zimmer
-69 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-69 m2
-Diese schöne Wohnung im obersten Geschoss des Gebäudes bietet Ihnen einen offenen Wohn- und Essbere…
 Teilen
 E-Mail
 Facebook

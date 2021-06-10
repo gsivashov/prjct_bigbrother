@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/kanton-zug/
 Title: Wohnung kaufen in Kanton Zug - Immostreet.ch
-Description: Wohnung kaufen in Kanton Zug - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Kanton Zug - Immostreet.ch: ImmoStreet.ch hat 37 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-34 Resultate gefunden ·
+37 Resultate gefunden ·
 Wohnung kaufen in Kanton Zug
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,83 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Adresse auf Anfrage
+1'290'000
+CHF
+4.5 Zimmer - Eigentumswohnung im Zentru…
+Adresse auf Anfrage, 6343 Rotkreuz
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Etage
+Suchen Sie eine zentralgelegene Wohnung in einer familiären Gemeinde? Dann könnte das Ihr neues Zuh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Heimatstrasse 13
+Preis auf Anfrage
+Neubau: Studio mit Aussensitzplatz an z…
+Heimatstrasse 13, 6340 Baar
+Array
+1 Zimmer
+10 m2
+Objekttyp
+Wohnung, Loft
+Zimmer
+1
+Wohnfläche
+10 m2
+Etage
+Der Neubau 2019 mit sechs Kleinwohnungen und Studios ist optimal gelegen für urbane Einzelpersonen.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Heimatstrasse 13
+Preis auf Anfrage
+Neubau: Studio mit Gartensitzplatz an z…
+Heimatstrasse 13, 6340 Baar
+Array
+1 Zimmer
+12 m2
+Objekttyp
+Wohnung, Loft
+Zimmer
+1
+Wohnfläche
+12 m2
+Etage
+Der Neubau 2019 mit sechs Kleinwohnungen und Studios ist optimal gelegen für urbane Einzelpersonen.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfmatt
+1'490'000
+CHF
+RUHIG UND ZENTRAL
+Dorfmatt, 6319 Allenwinden
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
+An ruhiger und doch zentraler Lage lockt diese gepflegte 4.5-Zimmer-Wohnung mit grossem Garten und …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Blasenbergstrasse 18
 Preis auf Anfrage
 Letze 4.5 Zimmer Wohnung im Projekt Röt…
@@ -173,17 +250,21 @@ E-Mail
 Facebook
 Whatsapp
 Dorfring
-Preis auf Anfrage
-3.5-/4.5-Zimmer-Wohnungen - beste Lage …
+860'000
+CHF
+3.5-Zimmer-Eigentumswohnung - beste Lag…
 Dorfring, 6319 Allenwinden
 Array
-4.5 Zimmer
+3.5 Zimmer
+92 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+3.5
+Wohnfläche
+92 m2
 Etage
-Gemütlich und gut eingeteilte Wohnungen, eingebettet in einem beliebten, ruhigen (parkähnliche Umge…
+Gemütlich und gut eingeteilte Eigentumswohnung, eingebettet in einem beliebten, ruhigen (parkähnlic…
 Teilen
 E-Mail
 Facebook
@@ -265,8 +346,7 @@ E-Mail
 Facebook
 Whatsapp
 Hof Himmelrich
-1'300'000
-CHF
+Preis auf Anfrage
 4.5-Zimmer Familienwohnung
 Hof Himmelrich, 6340 Baar
 Array
@@ -436,86 +516,6 @@ Wohnfläche
 152 m2
 Etage
 An einzigartiger Lage oberhalb der Stadt Zug befindet sich diese 3.5 Zimmer Wohnung mit atemberaube…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Artherstrasse 45D
-1'780'000
-CHF
-Schöne Dachwohnung mit fantastischer Se…
-Artherstrasse 45D, 6318 Walchwil
-Array
-3.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-120 m2
-Etage
-Die 3.5-Zimmer-Dachwohnung befindet sich in einem 4-Familienhaus und liegt in unmittelbarer Seenähe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Altgasshof
-Preis auf Anfrage
-IM BIETERVERFAHREN: 4-Zimmer Garten-Mai…
-Altgasshof, 6340 Baar
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Duplex, Maisonette
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Etage
-Die Maisonette-Gartenwohnung
-Angrenzend an die Landwirtschaftszone und trotzdem verkehrstechn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'490'000
-CHF
-NEUBAUWOHNUNGEN - MAIHOF RESIDENZEN: Mo…
-Adresse auf Anfrage, 6331 Hünenberg
-Array
-5.5 Zimmer
-177 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-177 m2
-Etage
-Neubau MAIHOF RESIDENZEN: Moderne, helle und grossausFinden Sie Ihr neues Zuhause an besonnter Hang…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schwerzelweg 22
-2'250'000
-CHF
-attraktive Attika-Terrassenwohnung mit …
-Schwerzelweg 22, 6315 Oberägeri
-Array
-3.5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-160 m2
-Etage
-Im schönen Oberägeri (Kanton Zug) verkaufen wir diese 3½-Zimmer-Attika-Terrassenwohnung an ruhiger …
 Teilen
 E-Mail
 Facebook

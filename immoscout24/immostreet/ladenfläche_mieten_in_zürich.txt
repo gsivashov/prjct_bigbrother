@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/gewerbe-industrie/unterkategorie-ladenflaeche/in-z%C3%BCrich/
 Title: Ladenfläche mieten in Zürich - Immostreet.ch
-Description: Ladenfläche mieten in  Zürich - Immostreet.ch: ImmoStreet.ch hat 70 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Ladenfläche mieten in  Zürich - Immostreet.ch: ImmoStreet.ch hat 67 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -136,7 +136,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-70 Resultate gefunden ·
+67 Resultate gefunden ·
 Ladenfläche mieten in Zürich
 Preis (aufsteigend)
 Preis (absteigend)
@@ -149,6 +149,20 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Schaffhauserstrasse 437
+4'530
+CHF
+/Monat
+Ladenfläche an bester Lage!
+Schaffhauserstrasse 437, 8050 Zürich
+Array
+Objekttyp
+Verkauf, Geschäft
+Der perfekte Laden! Eigene Einrichtungswünsche können berücksichtigt werden. Diese Liegenschaft wur…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bahnhofstrasse 70
 67'000
 CHF
@@ -235,20 +249,6 @@ Verkauf, Geschäft
 Zimmer
 3
 Mitten im Zentrum steht das sehr elegant eingerichtete Juweliergeschäft an stark frequentierter Lag…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brunaustrasse 63
-2'567
-CHF
-/Monat
-Atelier? Showroom? Verkauf? Einmalige G…
-Brunaustrasse 63, 8002 Zürich
-Array
-Objekttyp
-Verkauf, Geschäft
-Per sofort oder nach Vereinbarung bietet sich Ihnen die einmalige Gelegenheit zu einem attraktiven …
 Teilen
 E-Mail
 Facebook
@@ -373,26 +373,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Forchstrasse 210
-1'850
-CHF
-/Monat
-Neu renovierte Büroräume/Atelier/Ladenl…
-Forchstrasse 210, 8032 Zürich
-Array
-2.5 Zimmer
-62 m2
-Objekttyp
-Verkauf, Geschäft
-Zimmer
-2.5
-Wohnfläche
-62 m2
-Zu vermieten per sofort oder nach Vereinbarung mit eigenem Zugang sowie kleiner Aussensitzplatz.- R…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 Preis auf Anfrage
 HOCHWERTIG AUSGEBAUT UND ATTRAKTIV GELE…
@@ -435,6 +415,20 @@ Wohnfläche
 120 m2
 Etage
 Helles schönes Ladenlokal mit riesigen Schaufensterfront direkt an der Langstrasse ist ideal einseh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Weinbergstrasse 164
+2'290
+CHF
+/Monat
+Ladenlokal mit vielen Schaufenstern am …
+Weinbergstrasse 164, 8006 Zürich
+Array
+Objekttyp
+Verkauf, Geschäft
+An attraktiver Lage, direkt am Schaffhauserplatz im Zürcher Kreis 6 vermieten wir dieses Ladenlokal…
 Teilen
 E-Mail
 Facebook

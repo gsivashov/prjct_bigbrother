@@ -155,27 +155,6 @@ WIR-ANTEIL
 11 Treffer
 Suche zurücksetzen
 JAGUAR
-MK 2 240
-CHF 28'500
-ab CHF 307/Monat
-08.1968
-Handschaltung
-133'000 km
-Benzin
-Hinterradantrieb
-weiss
-133 PS
-ZH
-Merken
-JAGUAR
-MK 2 240
-08.1968
-133 PS
-133'000 km
-CHF 28'500
-Merken
-ab CHF 307/Monat
-JAGUAR
 MK 2 3.8
 CHF 48'500
 ab CHF 521/Monat
@@ -196,6 +175,27 @@ MK 2 3.8
 CHF 48'500
 Merken
 ab CHF 521/Monat
+JAGUAR
+MK 2 240
+CHF 28'500
+ab CHF 307/Monat
+08.1968
+Handschaltung
+133'000 km
+Benzin
+Hinterradantrieb
+weiss
+133 PS
+ZH
+Merken
+JAGUAR
+MK 2 240
+08.1968
+133 PS
+133'000 km
+CHF 28'500
+Merken
+ab CHF 307/Monat
 JAGUAR
 MK 2 3.4
 CHF 39'900

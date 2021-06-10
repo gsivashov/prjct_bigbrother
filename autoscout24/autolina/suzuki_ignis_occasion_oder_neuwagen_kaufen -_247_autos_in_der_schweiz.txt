@@ -206,6 +206,71 @@ Garantieversprechen
 Faires Eintauschangebot
 NEU
 SUZUKI
+Ignis 1.2i Compact+ Hybrid 4x4
+CHF 18'390
+ab CHF 198/Monat
+06.2021
+Handschaltung
+10 km
+Mild-Hybrid Benzin/Elektro
+Allradantrieb
+grau
+83 PS
+BE
+Merken
+SUZUKI
+Ignis 1.2i Compact+ Hybrid 4x4
+06.2021
+83 PS
+10 km
+CHF 18'390
+Merken
+ab CHF 198/Monat
+NEU
+SUZUKI
+Ignis 1.2i Compact+ Hybrid 4x4
+CHF 18'390
+ab CHF 198/Monat
+06.2021
+Handschaltung
+10 km
+Mild-Hybrid Benzin/Elektro
+Allradantrieb
+grau
+83 PS
+BE
+Merken
+SUZUKI
+Ignis 1.2i Compact+ Hybrid 4x4
+06.2021
+83 PS
+10 km
+CHF 18'390
+Merken
+ab CHF 198/Monat
+NEU
+SUZUKI
+Ignis 1.2i Compact+ Hybrid 4x4
+CHF 18'390
+ab CHF 198/Monat
+06.2021
+Handschaltung
+10 km
+Mild-Hybrid Benzin/Elektro
+Allradantrieb
+grau
+83 PS
+BE
+Merken
+SUZUKI
+Ignis 1.2i Compact+ Hybrid 4x4
+06.2021
+83 PS
+10 km
+CHF 18'390
+Merken
+ab CHF 198/Monat
+SUZUKI
 Ignis 1.2i Compact+ 4x4
 CHF 13'900
 ab CHF 150/Monat
@@ -226,7 +291,6 @@ Ignis 1.2i Compact+ 4x4
 CHF 13'900
 Merken
 ab CHF 150/Monat
-NEU
 SUZUKI
 Ignis 1.2 Compact Top Hybrid
 CHF 22'490
@@ -271,8 +335,8 @@ Merken
 ab CHF 211/Monat
 SUZUKI
 Ignis 1.2i Compact+ Hybrid 4x4
-CHF 17'990
-ab CHF 194/Monat
+CHF 18'390
+ab CHF 198/Monat
 -
 Handschaltung
 10 km
@@ -287,9 +351,9 @@ Ignis 1.2i Compact+ Hybrid 4x4
 -
 83 PS
 10 km
-CHF 17'990
+CHF 18'390
 Merken
-ab CHF 194/Monat
+ab CHF 198/Monat
 SUZUKI
 Ignis 1.2i Unico
 CHF 9'700
@@ -317,8 +381,8 @@ Garantieversprechen
 Faires Eintauschangebot
 SUZUKI
 Ignis 1.2i Compact+ Hybrid 4x4
-CHF 17'890
-ab CHF 193/Monat
+CHF 18'390
+ab CHF 198/Monat
 -
 Handschaltung
 10 km
@@ -333,13 +397,13 @@ Ignis 1.2i Compact+ Hybrid 4x4
 -
 83 PS
 10 km
-CHF 17'890
+CHF 18'390
 Merken
-ab CHF 193/Monat
+ab CHF 198/Monat
 SUZUKI
 Ignis 1.2i Compact+ Hybrid 4x4
-CHF 17'890
-ab CHF 193/Monat
+CHF 17'990
+ab CHF 194/Monat
 -
 Handschaltung
 10 km
@@ -354,9 +418,9 @@ Ignis 1.2i Compact+ Hybrid 4x4
 -
 83 PS
 10 km
-CHF 17'890
+CHF 17'990
 Merken
-ab CHF 193/Monat
+ab CHF 194/Monat
 SUZUKI
 Ignis 1.2i Compact+ Hybrid
 CHF 19'900
@@ -418,69 +482,6 @@ Ignis 1.2i Compact+ 4x4
 CHF 14'800
 Merken
 ab CHF 159/Monat
-SUZUKI
-Ignis 1.2i Generation Hybrid
-CHF 18'800
-ab CHF 202/Monat
-06.2020
-Automat
-8'900 km
-Mild-Hybrid Benzin/Elektro
-Vorderradantrieb
-anthrazit
-83 PS
-ZG
-Merken
-SUZUKI
-Ignis 1.2i Generation Hybrid
-06.2020
-83 PS
-8'900 km
-CHF 18'800
-Merken
-ab CHF 202/Monat
-SUZUKI
-Ignis 1.2i Compact Top Hybrid 4x4
-CHF 19'800
-ab CHF 213/Monat
--
-Handschaltung
-10 km
-Mild-Hybrid Benzin/Elektro
-Allradantrieb
-grün
-83 PS
-SG
-Merken
-SUZUKI
-Ignis 1.2i Compact Top Hybrid 4x4
--
-83 PS
-10 km
-CHF 19'800
-Merken
-ab CHF 213/Monat
-SUZUKI
-Ignis 1.2 Compact Top Hybrid
-CHF 23'080
-ab CHF 248/Monat
--
-Automat
-1 km
-Mild-Hybrid Benzin/Elektro
-Vorderradantrieb
-weiss
-83 PS
-ZH
-Merken
-SUZUKI
-Ignis 1.2 Compact Top Hybrid
--
-83 PS
-1 km
-CHF 23'080
-Merken
-ab CHF 248/Monat
 1
 1
 2

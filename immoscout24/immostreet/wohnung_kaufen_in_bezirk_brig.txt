@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-brig/
 Title: Wohnung kaufen in Bezirk Brig - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Brig - Immostreet.ch: ImmoStreet.ch hat 57 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Brig - Immostreet.ch: ImmoStreet.ch hat 59 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-57 Resultate gefunden ·
+59 Resultate gefunden ·
 Wohnung kaufen in Bezirk Brig
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,46 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Weingartenstrasse, 46
+790'000
+CHF
+5.5. Zimmerwohnung
+Weingartenstrasse, 46, 3904 Naters
+Array
+5.5 Zimmer
+134 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+134 m2
+Etage
+Diese 5.5 Zimmerwohnung wurde an unverbaubarer Lage 2020 in der zweiten Etage eines Mehrfamilienhau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+369'000
+CHF
+Moderner Neubau an ruhiger Lage - Parte…
+Adresse auf Anfrage, 3900 Brig
+Array
+2.5 Zimmer
+68 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+68 m2
+Etage
+Exklusives Wohnen an zentraler Lage zu fairen Preisen – greifen Sie jetzt zu!Ihr Zuhause ist uns e…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 620'000
 CHF
@@ -471,44 +511,6 @@ Wohnfläche
 110 m2
 Etage
 WOHNEN ZUM FAIREN PREISEXCLUSIVES WOHNEN IN ZETRALER LAGE... RESIDENZ MARTIN - IHR ZUHAUSE IST UNS …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hofjistrasse 29
-440'000
-CHF
-Hochklassig sanierte Wohnung
-Hofjistrasse 29, 3900 Brig
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Loft
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Hochklassig sanierte Wohnung im Loft StilDie Wohnung befindet sich im ruhigen Quartier der Hofjistr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-610'000
-CHF
-3?½ Zimmer Wohnung
-Adresse auf Anfrage, 3900 Brig
-Array
-3.5 Zimmer
-119 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-119 m2
-Wählen Sie Ihre Wohnung aufgrund der «Himmelsrichtung»! Aufgrund der Anordnung der Wohnungen ist di…
 Teilen
 E-Mail
 Facebook

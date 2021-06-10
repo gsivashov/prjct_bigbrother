@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-bolligen/
 Title: Wohnung & Haus mieten in Bolligen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Bolligen - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Bolligen - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-18 Resultate gefunden ·
+19 Resultate gefunden ·
 Wohnung & Haus mieten in Bolligen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +152,27 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Flugbrunnenstrasse 19
+2'850
+CHF
+/Monat
+Sonnige Loftwohnung an bevorzugter Lage
+Flugbrunnenstrasse 19, 3065 Bolligen
+Array
+3.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Loft
+Zimmer
+3.5
+Wohnfläche
+140 m2
+Etage
+Gönnen Sie sich das BesondereDie überzeugende Architektur der modernen Überbauung Domaine Bolligen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Krauchthalstrasse 16
 500
 CHF

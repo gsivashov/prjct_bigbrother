@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/kanton-nidwalden/
 Title: Wohnung & Haus kaufen in Kanton Nidwalden - Immostreet.ch
-Description: Wohnung & Haus kaufen in Kanton Nidwalden - Immostreet.ch: ImmoStreet.ch hat 43 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Kanton Nidwalden - Immostreet.ch: ImmoStreet.ch hat 44 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-43 Resultate gefunden ·
+44 Resultate gefunden ·
 Wohnung & Haus kaufen in Kanton Nidwalden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,25 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Seelisbergstrasse
+1'234'000
+CHF
+Neubauprojekt mit wundervoller Bergsicht
+Seelisbergstrasse, 6376 Emmetten
+Array
+6.5 Zimmer
+162 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+162 m2
+Endlich daheim Herzlich Willkommen in EmmettenHier an paradiesischer Hanglage sind insgesamt 3 neu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 495'000
 CHF
@@ -170,11 +189,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Am Steinibach
+Allmendlistrasse
 1'590'000
 CHF
 Exklusive Neubau-Wohnung
-Am Steinibach, 6052 Hergiswil NW
+Allmendlistrasse, 6052 Hergiswil NW
 Array
 4.5 Zimmer
 132 m2
@@ -189,11 +208,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Am Steinibach
+Allmendlistrasse
 810'000
 CHF
 Gartenparadies für Singles
-Am Steinibach, 6052 Hergiswil NW
+Allmendlistrasse, 6052 Hergiswil NW
 Array
 2.5 Zimmer
 75 m2
@@ -208,11 +227,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Am Steinibach
+Allmendlistrasse
 795'000
 CHF
 Neubau 2.5-Zimmer-Wohnung
-Am Steinibach, 6052 Hergiswil NW
+Allmendlistrasse, 6052 Hergiswil NW
 Array
 2.5 Zimmer
 77 m2
@@ -227,11 +246,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Am Steinibach
+Adresse auf Anfrage
 1'170'000
 CHF
 Viel Sonnenschein in Ihrem Gartenparadi…
-Am Steinibach, 6052 Hergiswil NW
+Adresse auf Anfrage, 6052 Hergiswil NW
 Array
 3.5 Zimmer
 101 m2
@@ -518,26 +537,6 @@ Zimmer
 Wohnfläche
 66 m2
 Wir verkaufen Maisonettewohnung mit 2,5 Zimmern und herrlichem Blick auf den Vierwaldstättersee.Das…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Acheregg 1
-1'595'000
-CHF
-Wohnen am See mit traumhafter Aussicht …
-Acheregg 1, 6362 Stansstad
-Array
-3.5 Zimmer
-107 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-107 m2
-Etage
-Auf der Suche nach dem ganz Besonderen? Das haben wir nämlich gefunden, und zwar direkt am Vierwald…
 Teilen
 E-Mail
 Facebook

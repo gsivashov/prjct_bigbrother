@@ -106,7 +106,7 @@ Filtro
 Cercare
 Modificare la ricerca
 La ricerca è stata aggiunta nella sua Immobox.
-208 risultati trovati ·
+207 risultati trovati ·
 Offerte dell'agenzia Studio Immobiliare Ticino Sagl
 Prezzo (crescente)
 Prezzo (decrescente)
@@ -119,6 +119,64 @@ NPA (crescente)
 NPA (decrescente)
 Ordinamento
 Inviare
+Indirizzo su richiesta
+3'250
+CHF
+/Mese
+Lugano: Ufficio 3 locali
+Indirizzo su richiesta, 6900 Lugano
+Array
+3 Locali
+150 m2
+Tipo di oggetto
+Ufficio
+Locali
+3
+Sup. abitabile
+150 m2
+Nel cuore di Lugano, negozio di 26 mq con due vetrine su strada piu' ufficio di 150 mq. Piano terr…
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+2'150
+CHF
+/Mese
+Lugano: Appartamento 3,5 locali
+Indirizzo su richiesta, 6900 Lugano
+Array
+3.5 Locali
+129 m2
+Tipo di oggetto
+Appartamento, Appartamento
+Locali
+3.5
+Sup. abitabile
+129 m2
+Lugano, in zona tranquilla e servita proponiamo ampio 3.5 locali.L'appartamento è così composto: in…
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+1'300
+CHF
+/Mese
+Minusio: Appartamento 3,5 locali
+Indirizzo su richiesta, 6648 Minusio
+Array
+3.5 Locali
+Tipo di oggetto
+Appartamento, Appartamento
+Locali
+3.5
+Piano
+Appartamento 3.5 locali in zona soleggiata e nelle immediate vicinanze a scuole e trasporti pubblic…
+Condividere
+E-mail
+Facebook
+Whatsapp
 Indirizzo su richiesta
 1'500
 CHF
@@ -210,26 +268,6 @@ Locali
 3.5
 Piano
 Ad Ascona, in zona tranquilla e soleggiata, nelle immediate vicinanze di tutti i servizi, proponiam…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-6'000
-CHF
-/Mese
-Lugano: Appartamento 5,5 locali
-Indirizzo su richiesta, 6900 Lugano
-Array
-5.5 Locali
-230 m2
-Tipo di oggetto
-Appartamento, Appartamento
-Locali
-5.5
-Sup. abitabile
-230 m2
-Loreto, a pochi passi dal lungo lago, in zona residenziale proponiamo attico con finiture di alto s…
 Condividere
 E-mail
 Facebook
@@ -461,46 +499,6 @@ Locali
 Sup. abitabile
 105 m2
 In zona tranquilla e panoramica, in contesto immerso nel verde a pochi minuti dal lago, dal centro …
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-1'200
-CHF
-/Mese
-Lugano: Appartamento arredato 1,5 loca…
-Indirizzo su richiesta, 6900 Lugano
-Array
-1.5 Locali
-44 m2
-Tipo di oggetto
-Appartamento, Abitazione ammobiliata
-Locali
-1.5
-Sup. abitabile
-44 m2
-Appartamento arredato 1.5 loc in edificio moderno e minimale, caratterizzato da ambienti luminosi e…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-1'000
-CHF
-/Mese
-Lugano: Appartamento 2,5 locali
-Indirizzo su richiesta, 6900 Lugano
-Array
-2.5 Locali
-55 m2
-Tipo di oggetto
-Appartamento, Appartamento
-Locali
-2.5
-Sup. abitabile
-55 m2
-Lugano a pochi minuti dalla stazione e dall'ingresso autostradale, proponiamo in locazione 2.5 loc…
 Condividere
 E-mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-flums/
 Title: Wohnungen & Häuser mieten in Flums - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Flums - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Flums - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-20 Resultate gefunden ·
+19 Resultate gefunden ·
 Wohnungen & Häuser mieten in Flums
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,27 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Bergstrasse 15
+1'300
+CHF
+/Monat
+Neuwertige Wohnung an zentraler Lage in…
+Bergstrasse 15, 8890 Flums
+Array
+3.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+77 m2
+Etage
+Dieses Mehrfamilienhaus an zentraler Lage in Flums wurde im Jahr 2017 kernsaniert. Es entstanden dr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bahnhofstrasse 30
 1'290
 CHF
@@ -179,26 +200,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Banaustrasse 3A
-1'390
-CHF
-/Monat
-Ein zu Hause für jede Jahreszeit
-Banaustrasse 3A, 8890 Flums
-Array
-4.5 Zimmer
-106 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-106 m2
-Ab 15. Juli 2021 vermieten wir diese grosszügige 4.5-Zimmerwohnung nahe dem idyllischen Walensee.Ve…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bahnhofstrasse 4c
 1'340
 CHF
@@ -237,26 +238,6 @@ Wohnfläche
 9 m2
 Etage
 Per 01.06.2021 vermieten wir in diesem Appartement-Haus diese möblierte 1.5-Zimmerwohnung.Das Studi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ganischastrass 29
-1'250
-CHF
-/Monat
-3.5 Zimmer, 3.Etage
-Ganischastrass 29, 8890 Flums
-Array
-3.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-100 m2
-Wir vermieten in Flums eine schöne, helle und grosszügige Eigentumswohnung. Die Wohnung wurde laufe…
 Teilen
 E-Mail
 Facebook

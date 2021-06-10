@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-frenkendorf/
 Title: Wohnungen & Häuser mieten in Frenkendorf - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Frenkendorf - Immostreet.ch: ImmoStreet.ch hat 58 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Frenkendorf - Immostreet.ch: ImmoStreet.ch hat 53 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-58 Resultate gefunden ·
+53 Resultate gefunden ·
 Wohnungen & Häuser mieten in Frenkendorf
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,22 +122,22 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Mühlackerstr. 27
-1'900
+Adresse auf Anfrage
+2'150
 CHF
 /Monat
-Frisch sanierte Wohnung!
-Mühlackerstr. 27, 4402 Frenkendorf
+Hochwertige Attikawohnung am Bahnhof
+Adresse auf Anfrage, 4402 Frenkendorf
 Array
-4.5 Zimmer
-93 m2
+3.5 Zimmer
+75 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Dachwohnung
 Zimmer
-4.5
+3.5
 Wohnfläche
-93 m2
-In unmittelbarer Nähe zum Bahnhof Frenkendorf vermieten wir nach Vereinbarung eine frisch sanierte …
+75 m2
+In unmittelbarer Nähe zum Bahnhof Frenkendorf-Füllinsdorf befindet sich diese topmoderne Mietwohnun…
 Teilen
 E-Mail
 Facebook
@@ -178,26 +178,6 @@ Zimmer
 Wohnfläche
 78 m2
 Wir vermieten per 1. August 2021 oder nach Vereinbarung in Frenkendorf eine sonnige 4-Zimmerwohnung…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eggrainweg 12
-1'250
-CHF
-/Monat
-Helle 3-Zimmer Wohnung in Frenkendorf
-Eggrainweg 12, 4402 Frenkendorf
-Array
-3 Zimmer
-62 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-62 m2
-Wir vermieten per 1. August 2021 oder nach Vereinbarung eine sonnige 3-Zimmerwohnung mit Balkon im …
 Teilen
 E-Mail
 Facebook
@@ -401,20 +381,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Rheinstrasse 91/91a
-50
-CHF
-/Monat
-Abstellplatz zu vermieten
-Rheinstrasse 91/91a, 4402 Frenkendorf
-Array
-Objekttyp
-Offener Parkplatz
-Wir vermieten Abstellplätze nach Vereibarung an der Rheinstrasse 91/91a in Frenkendorf für CHF 50.0…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adlerfeldstrasse
 2'590
 CHF
@@ -513,6 +479,46 @@ Zimmer
 Wohnfläche
 56 m2
 Wir vermieten in gepflegter und ruhig gelegener Liegenschaft diese 2-Zimmerwohnung im Erdgeschoss.D…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rheinstrasse 91 A
+1'360
+CHF
+/Monat
+Moderne Wohnung in kinderfreundlicher U…
+Rheinstrasse 91 A, 4402 Frenkendorf
+Array
+3 Zimmer
+58 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+58 m2
+Wir vermieten nach Vereinbarung eine sonnige 3-Zimmerwohnung im 4.OG.Die Wohnung ist wie folgt aus…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 9
+1'420
+CHF
+/Monat
+Dachwohnung
+Hauptstrasse 9, 4402 Frenkendorf
+Array
+3.5 Zimmer
+101 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+101 m2
+Gemütliche Dachwohnung im Dorfkern
 Teilen
 E-Mail
 Facebook
