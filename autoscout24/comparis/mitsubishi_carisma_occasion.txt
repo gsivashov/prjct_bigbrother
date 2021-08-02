@@ -1,8 +1,7 @@
 URL: https://www.comparis.ch/carfinder/marktplatz/mitsubishi/carisma/occasion
 Title: Mitsubishi Carisma Occasion – Preise vergleichen mit Comparis
-Description: Finden Sie unter 8 Mitsubishi Carisma Occasion Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
+Description: Finden Sie unter 9 Mitsubishi Carisma Occasion Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -589,52 +587,82 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Mitsubishi
-(1'842)
+(1'778)
 Mitsubishi Carisma Occasion
-(8)
+(9)
 Aufbau
 Mitsubishi Carisma Limousine
-(8)
+(9)
 Motor
 Mitsubishi Carisma Benzin
 (7)
 Typ
 Mitsubishi Carisma
-(8)
+(9)
 Modelle
-Mitsubishi Outlander
-(386)
 Mitsubishi Space
 Star
-(351)
+(400)
+Mitsubishi Outlander
+(310)
 Mitsubishi ASX
-(278)
+(287)
 Mitsubishi Eclipse
-(221)
+(207)
 Mitsubishi Colt
-(159)
+(169)
 Mitsubishi Lancer
-(134)
+(120)
 Mitsubishi Pajero
-(101)
+(97)
 Mitsubishi L 200
-(74)
+(56)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
 Carweb wird durchsucht ...
 drive-in.ch wird durchsucht ...
-8 Treffer auf allen grossen Schweizer Auto-Portalen
-8 Treffer auf allen Portalen
+9 Treffer auf allen grossen Schweizer Auto-Portalen
+9 Treffer auf allen Portalen
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
 2 Inserate
 0 Inserate
-6 Inserate
+7 Inserate
 0 Inserate
 0 Inserate
+MITSUBISHI Carisma 1.8 GDI Comfort
+14.07.2021
+Occasion
+12.2000, Manuell, Benzin
+133'000 km, 122 PS, Blau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 3'499
+MITSUBISHI Carisma 1.9 DI-D Premium
+12.06.2021
+Occasion
+01.2004, Manuell, Diesel
+221'000 km, 115 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 700
+MITSUBISHI Carisma 1.8 GDI Comfort
+5.5
+09.06.2021
+Occasion
+09.2001, Automat, Benzin
+185'579 km, 122 PS, Grau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 1'500
+Preiserhöhung
 MITSUBISHI Carisma 1.8 GDI Elegance
+6.0
 02.06.2021
 Occasion
 10.2001, Manuell, Benzin
@@ -642,20 +670,9 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 3'900
-Preisreduktion
-MITSUBISHI Carisma 1.8 GLS A
-22.05.2021
-Occasion
-05.1996, Automat, Benzin
-126'000 km, 116 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 2'900
+CHF 4'500
 Preisreduktion
 Mitsubishi Carisma Hatchback 1.8 16V GDI Elegance
-6.0
 01.04.2021
 Occasion
 06.2003, Manuell, Benzin
@@ -665,17 +682,8 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 1'100
 Preisreduktion
-MITSUBISHI Carisma 1.8 GDI Edition
-31.01.2021
-Occasion
-11.2002, Automat, Benzin
-155'100 km, 122 PS, Grün
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 1'500
-Preisreduktion
 MITSUBISHI Carisma 1.8 GDI Elegance
+5.5
 11.11.2020
 Occasion
 08.2001, Automat, Benzin
@@ -685,6 +693,7 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 3'499
 MITSUBISHI Carisma 1.8 GDI Premium
+5.5
 22.10.2020
 Occasion
 11.2003, Automat, Benzin
@@ -705,7 +714,6 @@ Ihre Anfrage wurde versendet.
 CHF 2'800
 Preisreduktion
 MITSUBISHI Carisma 1.9 DI-D Spirit
-6.0
 20.09.2019
 Occasion
 07.2002, Manuell, Diesel

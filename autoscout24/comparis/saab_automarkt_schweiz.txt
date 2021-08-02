@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marke/saab
 Title: Saab Modelle - Preise vergleichen mit comparis.ch
 Description: Alle Saab Modelle der grössten Schweizer Auto-Portale in der Übersicht. Vergleichen Sie mit Comparis die Preise und finden Sie Ihr Traumauto.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -146,111 +144,79 @@ Alle Automarken
 Saab
 Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseite zu gewährleisten.
 Saab Automarkt Schweiz
-250 Occasionen
+234 Occasionen
 0 Neuwagen
 0 Vorführwagen
-Saab 9-3 - 139 Inserate im Automarkt - Ab CHF 490
+Saab 9-3 - 130 Inserate im Automarkt - Ab CHF 695
 Saab 90 - 1 Inserat im Automarkt - Ab CHF 39'500
-Saab 900 - 31 Inserate im Automarkt - Ab CHF 699
+Saab 900 - 30 Inserate im Automarkt - Ab CHF 800
 Saab 99 - 1 Inserat im Automarkt - Ab CHF 13'700
-Saab 9-5 - 63 Inserate im Automarkt - Ab CHF 499
-Saab 9000 - 13 Inserate im Automarkt - Ab CHF 1'000
-Saab 9-4X - 2 Inserate im Automarkt - Ab CHF 23'900
+Saab 9-5 - 57 Inserate im Automarkt - Ab CHF 499
+Saab 9000 - 12 Inserate im Automarkt - Ab CHF 1'000
+Saab 9-4X - 2 Inserate im Automarkt - Ab CHF 29'900
 Saab Modelle
-Saab 9-3 - 139 Inserate anzeigen
-SAAB 9-3 2.0 (1.8t) Vector
+Saab 9-3 - 130 Inserate anzeigen
+Saab 9-3
 Occasion
-05.2006
-163'000 km
-150 PS
+10.2009
+100'000 km
+180 PS
+Mehr
+5.5
+CHF
+9'975
+02.08.2021
+Saab 9-3 Sport Combi 2.8 T 280 V6 Aero XWD
+Occasion
+08.2009
+190'000 km
+280 PS
 Mehr
 5.0
 CHF
-2'800
-09.06.2021
-SAAB 9-3 2.0 (1.8t) Linear
+7'500
+02.08.2021
+Saab 9-3 2.0t Vector
 Occasion
-12.2004
-195'000 km
-150 PS
+05.2006
+57'000 km
+175 PS
 Mehr
-5.5
+5.0
 CHF
-1'600
-06.06.2021
-Saab 9-3 1.9 TiD Vector
-Occasion
-12.2005
-112'000 km
-120 PS
-Mehr
-6.0
-CHF
-2'300
-01.06.2021
-Saab 900 - 31 Inserate anzeigen
-SAAB 900 S 2.0i-16
-Occasion
-07.1997
-205'000 km
-130 PS
-Mehr
-5.5
-CHF
-699
-15.05.2021
-SAAB 900 SE 2.3i-16
-Occasion
-04.1995
-193'880 km
-150 PS
-Mehr
-5.5
-CHF
-800
-07.07.2020
-Saab 9-5 - 63 Inserate anzeigen
-SAAB 9-5 2.3t Arc
-Occasion
-12.2005
-297'000 km
-185 PS
-Mehr
-6.0
-CHF
-590
-09.05.2021
-SAAB 9-5 2.3t Linear
-Occasion
-12.2004
-316'000 km
-185 PS
-Mehr
-6.0
-CHF
-500
-23.02.2021
+14'900
+31.07.2021
+Saab 9-5 - 57 Inserate anzeigen
 SAAB 9-5 2.3T Aero
 Occasion
-04.2003
-380'000 km
+12.2001
+173'700 km
 250 PS
 Mehr
 5.0
 CHF
-599
-15.02.2021
-Saab 9000 - 13 Inserate anzeigen
-SAAB 9000 Griffin 2.3 turbo 16
+4'800
+27.07.2021
+SAAB 9-5 2.3T Aero
 Occasion
-01.1994
-247'000 km
-200 PS
+06.2002
+320'000 km
+250 PS
 Mehr
 5.5
 CHF
-1'999
-27.07.2020
+1'600
+06.07.2021
+SAAB 9-5 2.3t BioPower Vector
+Occasion
+06.2007
+123'000 km
+185 PS
+Mehr
+5.0
+CHF
+7'800
+04.07.2021
 comparis.ch
 Über Comparis
 Medien

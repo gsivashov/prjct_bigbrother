@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/in-muttenz/
 Title: Wohnung kaufen in Muttenz - Immostreet.ch
-Description: Wohnung kaufen in  Muttenz - Immostreet.ch: ImmoStreet.ch hat 10 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in  Muttenz - Immostreet.ch: ImmoStreet.ch hat 6 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-10 Resultate gefunden ·
+6 Resultate gefunden ·
 Wohnung kaufen in Muttenz
 Preis (aufsteigend)
 Preis (absteigend)
@@ -148,64 +148,7 @@ Zimmer
 4
 Wohnfläche
 94 m2
-3,5-Zimmer-Wohnung*mit einer Wohnfläche von ca. 94 m2, Miteigentumsanteil, Autoeinstellplatz Nr. 10…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Herrenmattstrasse 11
-760'000
-CHF
-Eine versteckte Oase inmitten von Mutte…
-Herrenmattstrasse 11, 4132 Muttenz
-Array
-3.5 Zimmer
-92 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-92 m2
-Was Sie erwartetRuhig und zentral gelegene, moderne 3.5 Zimmer Garteneigentumswohnung mit zusätzlic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obrechtstrasse 15
-980'000
-CHF
-3.5 Zimmer Maisonette Wohnung
-Obrechtstrasse 15, 4132 Muttenz
-Array
-3.5 Zimmer
-133 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-133 m2
-Was Sie erwartetDiese 3.5 Zimmer Maisonette-Wohnung mit einer Nettowohnfläche von 133 m2 zuzüglich …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Johann Brüderlin-Strasse 18
-1'120'000
-CHF
-Schöne 3.5-Zimmerwohnung an toller Lage
-Johann Brüderlin-Strasse 18, 4132 Muttenz
-Array
-3.5 Zimmer
-87 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-87 m2
-Etage
+3,5-Zimmer-Wohnung mit einer Wohnfläche von ca. 94 m2, Miteigentumsanteil, Autoeinstellplatz Nr. 10…
 Teilen
 E-Mail
 Facebook
@@ -226,6 +169,44 @@ Wohnfläche
 126 m2
 Etage
 Am Puls des Lebens - Grosszügige, einmalige 4.5 Zimmer-Maisonette-Wohnung, W2Im Dorfkern von Mutten…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eptingerstr. 52
+710'000
+CHF
+Sonnige, moderne 3.5- Zimmerwohnung
+Eptingerstr. 52, 4132 Muttenz
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Die Wohnung befindet sich im 1. Obergeschoss und besticht über einen durchdachten und gut möbelierb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Johann Brüderlin-Strasse 18
+1'120'000
+CHF
+Schöne 3.5-Zimmerwohnung an toller Lage
+Johann Brüderlin-Strasse 18, 4132 Muttenz
+Array
+3.5 Zimmer
+87 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+87 m2
+Etage
 Teilen
 E-Mail
 Facebook
@@ -264,65 +245,6 @@ Zimmer
 Wohnfläche
 133 m2
 Die exquisite Eigentumswohnung befindet sich an bester Lage im Dorfzentrum von Muttenz. Die im Früh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Germanenweg 3
-825'000
-CHF
-4.5 Zimmer Wohnung (renoviert)
-Germanenweg 3, 4132 Muttenz
-Array
-4.5 Zimmer
-103 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-103 m2
-Etage
-Die 4.5 Zimmer Wohnung im 1. Obergeschoss befindet sich in einem Mehrfamilienhaus mit 12 Wohneinhei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eptingerstr. 52
-710'000
-CHF
-Sonnige, moderne 3.5- Zimmerwohnung
-Eptingerstr. 52, 4132 Muttenz
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Die Wohnung befindet sich im 1. Obergeschoss und besticht über einen durchdachten und gut möbelierb…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-905'000
-CHF
-EIN PARADIES FÜR JUNG UND ALT
-Adresse auf Anfrage, 4132 Muttenz
-Array
-3.5 Zimmer
-99 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-99 m2
-Etage
-Willkommen in Ihrem eigenen Paradies! Schon beim Betreten dieser Wohnoase werden Sie begeistert sei…
 Teilen
 E-Mail
 Facebook

@@ -93,7 +93,7 @@ Facebook
 SMS
 Aufbau
 Kombi
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Innenfarbe
 schwarz
@@ -112,12 +112,12 @@ Ja
 Preis
 CHF 13'800
 Hinweis: Die effektive Ausstattung kann von der inserierten Ausstattung abweichen.
-Dieses Inserat 3255392 wurde am 07.06.2021 aufgegeben oder aktualisiert und wurde 140 mal besucht.
+Dieses Inserat 3255392 wurde am 27.07.2021 aufgegeben oder aktualisiert und wurde 292 mal besucht.
 Für die Richtigkeit der über die autolina.ch verbreiteten Informationen wird keine Gewähr geleistet.
 Inserate-Check: Melden Sie uns irreführende oder unseriöse Inserate mit diesem
 Formular
 KONTAKTADRESSE
-Garage Fries AG
+Garage Fries GmbH
 Kantonsstrasse 73
 6234 Triengen / LU
 041 510 35 34
@@ -134,7 +134,7 @@ Versicherung
 Leasing
 Jetzt leasen ab CHF 149/Monat
 IHRE NACHRICHT AN
-: Garage Fries AG
+: Garage Fries GmbH
 GMC Typhoon
 | 193'400 Km
 |
@@ -147,7 +147,7 @@ Ich möchte einen Termin für eine
 Probefahrt vereinbaren.
 SENDEN
 IHRE NACHRICHT AN
-: Garage Fries AG
+: Garage Fries GmbH
 GMC Typhoon
 | 193'400 Km
 |
@@ -159,7 +159,7 @@ NACHRICHT *
 Ich wünsche mehr Informationen zu:
 SENDEN
 IHRE NACHRICHT AN
-: Garage Fries AG
+: Garage Fries GmbH
 GMC Typhoon
 | 193'400 Km
 |

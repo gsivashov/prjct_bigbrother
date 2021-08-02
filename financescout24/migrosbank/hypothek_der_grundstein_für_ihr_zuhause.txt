@@ -48,6 +48,7 @@ Physische Edelmetalle
 Highlights
 Börsenspiel
 Börse: Marktübersicht
+Vorsorgefonds
 Unser Vorsorgebuch
 Nachhaltig –
 wie «grün» ist Ihr Fonds?
@@ -58,9 +59,8 @@ Jetzt ermitteln
 Hypothek
 Hypothek in der Übersicht
 Festhypothek
-Libor-Hypothek
-Variable Hypothek
 SARON-Hypothek
+Variable Hypothek
 Hypolimite
 Baukredit
 Eigenheim kaufen
@@ -83,6 +83,7 @@ Kredit in der Übersicht
 Konsumkredit
 Privatkredit
 Autokredit
+Autoleasing
 Weiterbildungskredit
 Limite
 Lombardkredit
@@ -214,12 +215,16 @@ Bitte kontaktieren Sie mich
 Kontakt
 Beratung
 +41 848 845 451
+Für eine nachhaltige Zukunft.
+Möchten Sie ihr Eigenheim aufwerten und eine Solaranlage oder Wärmepumpe einsetzen? Oder fehlt Ihnen die Ladestation für Ihr Elektro-Auto?
+Einfach über unser Partner Helion kaufen und durch uns finanzieren lassen.
+helion.ch
 Unsere Hypotheken im Überblick
 Festhypothek
 Zins bis 10 Jahre fix
 Mehr erfahren
-Libor-Hypothek
-Für 3 Jahre
+SARON-Hypothek
+Marktorientiert und flexibel
 Mehr erfahren
 Variable Hypothek
 Flexibel finanzieren
@@ -235,7 +240,7 @@ Eine Ortschaft
 die zu Ihnen passt
 Mehr erfahren
 Downloads
-Produkt-Broschüre (PDF, 2463k)
+Produkt-Broschüre (PDF, 1746k)
 Hypothek beantragen (PDF, 118k)
 Preis-Broschüre (PDF, 2461k)
 Private Banking
@@ -252,17 +257,14 @@ Festhypothek
 0,770%
 Festhypothek
 10 Jahre ab
-0,930%
-Libor-Hypothek
-6 Monate
+0,890%
+SARON-Hyp.
 0,800%
 Variable Hyp.
 2,250%
 Weitere Festhypotheken
 Weitere Hypotheken
-Libor-Hypothek, 3 Monate
-0,800%
-Libor-Hypothek, 6 Monate
+SARON-Hypothek
 0,800%
 Variable Hypothek
 2,250%

@@ -152,399 +152,396 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Weltpoststrasse 3B
-1'320
+Bostudenstrasse 10
+1'730
 CHF
 /Monat
-sonnige 1.5-Zimmer-Wohnung im Weltpostp…
-Weltpoststrasse 3B, 3015 Bern
+Dachterrasse mit Panoramaaussicht auf d…
+Bostudenstrasse 10, 3604 Thun
 Array
-1.5 Zimmer
-43 m2
+4.5 Zimmer
+89 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-1.5
+4.5
 Wohnfläche
-43 m2
-Wünschen Sie sich eine moderne Wohnung, die genau Ihren Vorstellungen entspricht? Im neu erstellten…
+89 m2
+An ruhiger Lage im wunderschönen Thun vermieten wir per 01.11.2021 diese moderne Maisonettewohnung …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Weltpoststrasse 1B
-3'880
+Schürlistrasse 10
+1'290
 CHF
 /Monat
-5.5-Zimmer-Wohnung im Weltpostpark in B…
-Weltpoststrasse 1B, 3015 Bern
+Wohnen an ruhiger und kinderfreundliche…
+Schürlistrasse 10, 2563 Ipsach
+Array
+4 Zimmer
+84 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+84 m2
+Wir vermieten per 1. Dezember 2021 an schöner und kinderfreundlicher Lage diese helle Wohnung mit g…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schaufelweg 89
+1'990
+CHF
+/Monat
+Suchen. Finden. WOHNEN!
+Schaufelweg 89, 3098 Schliern b. Köniz
+Array
+4.5 Zimmer
+98 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+98 m2
+Die Wohnung liegt in einer kinderfreundlichen Überbauung an ruhiger Lage, welche mit folgenden Arrg…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kranichweg 17
+1'755
+CHF
+/Monat
+Bereit für ein neues Zuhause in grüner,…
+Kranichweg 17, 3074 Muri b. Bern
+Array
+3.5 Zimmer
+82 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+82 m2
+Wir vermieten eine schöne gemütliche 3.5-Zimmer-Wohnung an ruhiger Lage. Diese Wohnung bietet Ihnen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kranichweg 15
+1'935
+CHF
+/Monat
+Dürfen wir Vorstellen, Ihr neues Zuhaus…
+Kranichweg 15, 3074 Muri b. Bern
+Array
+4.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+97 m2
+An naturnaher und ruhiger Lage vermieten wir diese schöne Wohnung, welche Ihnen folgende Annehmlich…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blumenrain 2
+1'140
+CHF
+/Monat
+Wohnen im Zentrum von Biel!
+Blumenrain 2, 2503 Biel/Bienne
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wir vermieten per sofort oder nach Vereinbarung diese gemütliche 2,5-Zimmer-Wohnung mit folgenden V…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Junkerngasse 58
+3'950
+CHF
+/Monat
+4 1/2-Zimmerwohnung Maisonette Ost, mit…
+Junkerngasse 58, 3011 Bern
+Array
+4.5 Zimmer
+188 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+4.5
+Wohnfläche
+188 m2
+Eine exklusive Wohlfühloase im Herzen der Berner Altstadt - zahlreiche Einkaufsmöglichkeiten, öffen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Scheibenstrasse 29a
+1'708
+CHF
+/Monat
+3 1/2-Zimmerwohnung, 1. Stock rechts
+Scheibenstrasse 29a, 3600 Thun
+Array
+3.5 Zimmer
+88 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+88 m2
+Einkaufsmöglichkeiten und öffentliche Verkehrsmittel befinden sich in der Nähe - LiftGrosszügiger G…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Junkerngasse 58
+3'050
+CHF
+/Monat
+2 1/2-Zimmerwohnung West, mitten in der…
+Junkerngasse 58, 3011 Bern
+Array
+2.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+85 m2
+Eine exklusive Wohlfühloase im Herzen der Berner Altstadt - zahlreiche Einkaufsmöglichkeiten, öffen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterer Kanalweg 1
+1'380
+CHF
+/Monat
+4 1/2-Zimmerwohnung, 2. Stock links
+Unterer Kanalweg 1, 3252 Worben
+Array
+4.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+90 m2
+Sonnige, ruhige Lage - Einkaufsmöglichkeiten und öV in der NäheHelle und geräumige Wohnung - Küche …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sonnhaldeweg 19
+1'250
+CHF
+/Monat
+3-Zimmerwohnung, Hochparterre links
+Sonnhaldeweg 19, 3174 Thörishaus
+Array
+3 Zimmer
+66 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+66 m2
+Zentrale Lage - Einkaufsmöglichkeiten und öV in der NäheHelle Wohnung mit attraktivem Grundriss - m…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Büetigenstrasse 26a
+2'100
+CHF
+/Monat
+5 1/2-Zimmer-Reiheneinfamilienhaus auf …
+Büetigenstrasse 26a, 2557 Studen BE
 Array
 5.5 Zimmer
 146 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Einzelhaus
 Zimmer
 5.5
 Wohnfläche
 146 m2
-Wünschen Sie sich eine moderne Wohnung, die genau Ihren Vorstellungen entspricht? Im neu erstellten…
+Reiheneinfamilienhaus an ruhiger und zentraler LageDas moderne und helle Reiheneinfamilienhaus verf…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Spinsstrasse 2E
-1'681
+Laubeggstrasse 6
+1'460
 CHF
 /Monat
-Hier fühlen Sie sich zuhause
-Spinsstrasse 2E, 3270 Aarberg
-Array
-3.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-77 m2
-Etage
-Willkommen in Ihrem neuen Zuhause.In Aarberg an zentraler Lage vermieten wir eine grosszügige und l…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stägmatt 32
-2'324
-CHF
-/Monat
-Wohnkomfort, der kaum Wünsche offen läs…
-Stägmatt 32, 3302 Moosseedorf
-Array
-3.5 Zimmer
-104 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-104 m2
-Sie werden es möglicherweise bereuen, wenn Sie zu spät kommen. Denn diese Wohnung befindet sich an …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stägmatt 30
-1'987
-CHF
-/Monat
-Allein oder zu zweit: Hier könnte es Ih…
-Stägmatt 30, 3302 Moosseedorf
-Array
-3.5 Zimmer
-94 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-94 m2
-Sie werden es möglicherweise bereuen, wenn Sie zu spät kommen. Denn diese Wohnung befindet sich an …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Haldenstrasse 60
-1'748
-CHF
-/Monat
-4.5-Zimmerwohnung 1. OG
-Haldenstrasse 60, 4900 Langenthal
-Array
-4.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-105 m2
-Etage
-Helle, grosse Wohnung (in 5-Familienhaus) zum Wohlfühlen an zentraler und dennoch ruhiger Lage zu v…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'735
-CHF
-/Monat
-KERNSANIERT UND RENOVIERT IM ZENTRUM
-Adresse auf Anfrage, 3006 Bern
-Array
-2.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-75 m2
-Es stehen mehrere 2.5 Zimmer Wohnungen in verschiedenen Stockwerken, zur Erstvermietung nach dem Um…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-965
-CHF
-/Monat
-ZENTRAL, KERNSANIERT UND RENOVIERT
-Adresse auf Anfrage, 3006 Bern
-Array
-1.5 Zimmer
-45 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-1.5
-Wohnfläche
-45 m2
-Erstvermietung nach dem Umbau. Das absolut zentrale Gebäude wurde kernsaniert und renoviert. Die Wo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'690
-CHF
-/Monat
-KERNSANIERT UND RENOVIERT IM STADTZENTR…
-Adresse auf Anfrage, 3006 Bern
+2-Zimmerwohnung, 2. Stock mitte
+Laubeggstrasse 6, 3013 Bern
 Array
 2 Zimmer
-80 m2
+48 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2
 Wohnfläche
-80 m2
-Es stehen mehrere Zwei-Zimmer-Wohnungen in verschiedenen Stockwerken, zur Erstvermietung nach dem U…
+48 m2
+Die Liegenschaft wurde erst kürzlich energetisch saniert. Sie befindet sind an ruhiger, zentraler L…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Funkstrasse 112
-1'126
-CHF
-/Monat
-Schöne gemütliche 2-Zimmer-Wohnung in W…
-Funkstrasse 112, 3084 Wabern
-Array
-2 Zimmer
-49 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-49 m2
-Die Liegenschaft liegt an ruhiger Lage zwischen dem Gurten und der Aare. Die S-Bahn-Station Wabern …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Murgenthalstrasse 4c
-1'830
-CHF
-/Monat
-Grosszügige 4.5-Zimmer-Wohnung mit Gart…
-Murgenthalstrasse 4c, 4900 Langenthal
-Array
-4.5 Zimmer
-108 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-108 m2
-Wir vermieten per 16. September 2021 oder nach Vereinbarung eine schöne, moderne 4.5-Zimmer-Wohnung…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Graffenriedstrasse 7a
-1'910
-CHF
-/Monat
-Diese frisch sanierte Wohnung wartet nu…
-Graffenriedstrasse 7a, 3074 Muri b. Bern
-Array
-3.5 Zimmer
-68 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-68 m2
-Wir vermieten per sofort oder nach Vereinbarung eine frisch sanierte 3.5-Zimmer-Wohnung an der Graf…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Graffenriedstrasse 7a
-1'980
-CHF
-/Monat
-Wohnung mit gemütlichen Gartensitzplatz!
-Graffenriedstrasse 7a, 3074 Muri b. Bern
-Array
-3 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-70 m2
-Wir vermieten per sofort oder nach Vereinbarung eine frisch sanierte 3.5-Zimmer-Wohnung im Erdgesch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schwarzenburgstrasse 348
-1'065
-CHF
-/Monat
-Gemütliche 3.5-Zimmer-Wohnung in Köniz
-Schwarzenburgstrasse 348, 3098 Köniz
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wir vermieten per 1. September 2021 oder nach Vereinbarung eine 3.5-Zimmer-Wohnung in Köniz. Das Ob…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Melchiorstrasse 11
-1'000
-CHF
-/Monat
-3.5-Zimmer-Wohnung zu vermieten!
-Melchiorstrasse 11, 3027 Bern
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wir vermieten per sofort oder nach Vereinbarung eine 3.5-Zimmer-Wohnung an der Melchiorstrasse 11 i…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wangenstrasse 86d
-1'380
-CHF
-/Monat
-Urban und zentral wohnen!
-Wangenstrasse 86d, 3018 Bern
-Array
-3 Zimmer
-62 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-62 m2
-Per 1. September 2021 oder nach Vereinbarung vermieten wir diese helle Wohnung im 3. Stock urban in…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Birkenweg 16
-1'290
-CHF
-/Monat
-Endlich meine eigenen 4-Wände!
-Birkenweg 16, 3250 Lyss
-Array
-2.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-77 m2
-Per 1. September 2021 vermieten wir diese schöne und helle Wohnung in gepflegter Umgebung mit folge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Holligenstrasse 121
-1'270
-CHF
-/Monat
-Wohnen mit Sicht auf den Berner Hausber…
-Holligenstrasse 121, 3008 Bern
-Array
-2.5 Zimmer
-57 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-57 m2
-Per 1. August 2021 oder nach Vereinbarung vermieten wir diese helle Wohnung mit herrlicher Aussicht…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seftigenstrasse 68
-1'210
-CHF
-/Monat
-2.5 ZWG mit Aussicht aufs Bundeshaus un…
-Seftigenstrasse 68, 3007 Bern
-Array
-2.5 Zimmer
-50 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-50 m2
-Etage
-Wunderschöne, helle 2.5-ZWG mit toller Aussicht auf das Bundeshaus und Stadt Bern,ganz neue und gro…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Murtenstrasse 143 G
+Gesellschaftsstrasse 77
 2'600
 CHF
 /Monat
-Geräumige Wohnung im urbanen Quartier
-Murtenstrasse 143 G, 3008 Bern
+2-Zimmer-Loftwohnung, 4. Stock mit absc…
+Gesellschaftsstrasse 77, 3012 Bern
+Array
+2 Zimmer
+131 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+131 m2
+Sonnige, ruhige und zentrale Lage - 5 Gehminuten vom Bahnhof Bern - Einkaufsmöglichkeiten in der Nä…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alpenstrasse 6 d
+1'190
+CHF
+/Monat
+2 1/2-Zimmerwohnung, 1. Stock rechts
+Alpenstrasse 6 d, 3072 Ostermundigen
+Array
+2.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+65 m2
+Sonnige und zentrale Lage - Einkaufsmöglichkeiten und öV in der Nähe - LiftHelle Wohnung mit attrak…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hübeliweg 4
+984
+CHF
+/Monat
+2-Zimmerwohnung, 4. Stock mitte
+Hübeliweg 4, 3053 Münchenbuchsee
+Array
+2 Zimmer
+58 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+58 m2
+sonnige Lage - schöne Fernsicht auf Alpenkette - Nähe öVHelle Wohnung mit attraktivem Grundriss - i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Chemin des Bourdons 14
+1'990
+CHF
+/Monat
+4.5 Zimmer Attikawohnung
+Chemin des Bourdons 14, 2533 Evilard
+Array
+86 m2
+Objekttyp
+Wohnung, Attikawohnung
+Wohnfläche
+86 m2
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schlossstrasse 92
+1'670
+CHF
+/Monat
+3-ZW à 81 m2 im 1. OG mit grossem Balkon
+Schlossstrasse 92, 3008 Bern
+Array
+3 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+81 m2
+Wir vermieten per 16. November 2021 an der Schlossstrasse 92 eine moderne und helle 3- Zimmerwohnun…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zihlmatte 6
+1'970
+CHF
+/Monat
+4.5-Zimmerwohnung mit Sitzplatz
+Zihlmatte 6, 3127 Mühlethurnen
 Array
 4.5 Zimmer
-123 m2
+91 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-123 m2
-Die Wohnung mit zeitgemässen Ausbau überzeugt nicht nur durch ihre geniale Lage, sondern auch durch…
+91 m2
+Etage
+schöne offene RäumePrivater SitzplatzKeller mit eigenem Waschturm
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Frutigenstrasse 24 F
+1'460
+CHF
+/Monat
+Zentral leben und erleben!
+Frutigenstrasse 24 F, 3600 Thun
+Array
+3 Zimmer
+68 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+68 m2
+Entdecken Sie dieses helle und geräumige Objekt an attraktiver Lage: - Parkettboden im Kinderzimmer…
 Teilen
 E-Mail
 Facebook

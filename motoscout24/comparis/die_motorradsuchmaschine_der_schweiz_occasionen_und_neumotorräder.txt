@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/motorrad/default
 Title: Motorradmarkt Schweiz - Töff Occasionen und neue Motorräder
 Description: Motorrad Schweiz – Mit dem Motorradmarkt von comparis.ch gewinnen Sie einen Überblick über den Schweizer Motorradhandel.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-rheintal/
 Title: Wohnung kaufen in Region Rheintal - Immostreet.ch
-Description: Wohnung kaufen in Region Rheintal - Immostreet.ch: ImmoStreet.ch hat 43 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Region Rheintal - Immostreet.ch: ImmoStreet.ch hat 50 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-43 Resultate gefunden ·
+50 Resultate gefunden ·
 Wohnung kaufen in Region Rheintal
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,60 +134,252 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Untere Haldenstrasse 3
-439'000
+Augiessenstrasse 14C
+430'000
 CHF
-Top 5-Zimmer Eigentumswohnung in St. Ma…
-Untere Haldenstrasse 3, 9430 St. Margrethen SG
+stilvolle Eigentumswohnung an bester Wo…
+Augiessenstrasse 14C, 9443 Widnau
 Array
-5 Zimmer
-102 m2
+3.5 Zimmer
+86 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-5
+3.5
 Wohnfläche
-102 m2
-Top 5-Zimmer Wohnung bestehend aus einer 3.5-Zimmer und einer 1.5-Zimmer WohnungSuchen Sie eine tol…
+86 m2
+LAGE- zentrale Lage- gute Besonnung- familienfreundliches Mehrfamilienhausquartier- Nähe zu diverse…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hintermadstrasse 1
-575'000
+Kloterenstrasse 3b
+660'000
 CHF
-schöne 4.5 Zimmer Wohnung mit Weitsicht
-Hintermadstrasse 1, 9451 Kriessern
+stilvolles Wohnen für Gartenliebhaber
+Kloterenstrasse 3b, 9435 Heerbrugg
+Array
+3.5 Zimmer
+89 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+89 m2
+Schön und praktisch zugleich muss es sein.Ein glückliches Zuhause fängt mit seinen Bewohnern an. Mi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Industriestrasse 32
+670'000
+CHF
+Eigentumswohnung mit Werkstattbereich
+Industriestrasse 32, 9434 Au SG
+Array
+3.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+110 m2
+LAGE- absolut zentrale, dennoch ruhige Wohnlage- gute Besonnung- familienfreundliche Lage- kurze bi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Giessenstrasse 8
+370'000
+CHF
+4 Zimmer - Wohnung für Handwerker und K…
+Giessenstrasse 8, 9434 Au SG
+Array
+4 Zimmer
+72 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+72 m2
+Diese Wohnung ist für Handwerker geeignet, die eine Renovierung selbst vornehmen möchten.Aber auch …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Neufeldstrasse 8
+340'000
+CHF
+4-Zimmer-Wohnung mit teilgedecktem Sitz…
+Neufeldstrasse 8, 9450 Altstätten SG
+Array
+4 Zimmer
+102 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+102 m2
+LAGE- ruhige, dennoch zentrale Wohnlage- familienfreundliches Wohnquartier- gute Besonnung- Nähe zu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+EINE MODERNE UND RENOVIERTE WOHLFÜHLOASE
+Adresse auf Anfrage, 9430 St. Margrethen SG
 Array
 4.5 Zimmer
-111 m2
+115 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-111 m2
-Wir verkaufen in Kriessern eine wunderschöne 4.5 Zimmer Wohnung an ruhiger und sonniger Lage. Die W…
+115 m2
+Diese total sanierte und lichtdurchflutete Wohnung liegt an sonniger Lage unweit vom Dorfkern entfe…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Gemüsemarkt 15
-350'000
+Dornachstrasse 1
+1'150'000
 CHF
-Wohnen im Zentrum von Altstätten
-Gemüsemarkt 15, 9450 Altstätten SG
+historisch und modern kombiniert
+Dornachstrasse 1, 9443 Widnau
 Array
-3.5 Zimmer
-76 m2
+4.5 Zimmer
+132 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+132 m2
+Etage
+LAGE- familienfreundliche und sonnige Wohnlage- gepflegtes Einfamilienhausquartier- gute Besonnung …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dornachstrasse 1
+840'000
+CHF
+historisch und modern kombiniert
+Dornachstrasse 1, 9443 Widnau
+Array
+4.5 Zimmer
+129 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+129 m2
+Etage
+LAGE- familienfreundliche und sonnige Wohnlage- gepflegtes Einfamilienhausquartier- gute Besonnung …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Augiessenstrasse 14a
+555'000
+CHF
+Grosszügige 4.5-Zimmerwohnung
+Augiessenstrasse 14a, 9443 Widnau
+Array
+4.5 Zimmer
+115 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+115 m2
+Etage
+Diese grosszügige, helle Wohnung liegt in einem beliebten Wohnquartier im südlichen Teil von Widnau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptsrasse 172
+749'000
+CHF
+Renditeobiekt /Duplex Wohnung nähe Bode…
+Hauptsrasse 172, 9430 St. Margrethen SG
+Array
+7.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+7.5
+Wohnfläche
+140 m2
+Verlangen sie unser Exposee5 1/2 Zimmerwohnung selber nutzen2 1/2 Zimmerwohnung vermietenBei den he…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lilienweg 9
+550'000
+CHF
+geräumige 5.5-Zimmer-Wohnung an begehrt…
+Lilienweg 9, 9435 Heerbrugg
+Array
+5.5 Zimmer
+109 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+109 m2
+LAGE- begehrte, zentrale Lage- familienfreundliches, ruhiges Wohnquartier- ganztägige Besonnung- ör…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 172
+749'000
+CHF
+Ganzes Stockwerk Duplex Wohnung mit Ent…
+Hauptstrasse 172, 9430 St. Margrethen SG
+Array
+8 Zimmer
+140 m2
 Objekttyp
 Wohnung, Duplex
 Zimmer
+8
+Wohnfläche
+140 m2
+Etage
+ObjektDas Objekt befindet sich in der obersten Etage in einem 6 Familienhaus. Für die fünf Eigentüm…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Karl-Völker-Strasse 7B
+560'000
+CHF
+ZENTRAL AN RUHIGER LAGE
+Karl-Völker-Strasse 7B, 9435 Heerbrugg
+Array
+3.5 Zimmer
+84 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
 3.5
 Wohnfläche
-76 m2
-Etage
-Diese grosszügige 4-Zimmer-Maisonettewohnung liegt mitten im Zentrum von Altstätten.Die Wohnung ver…
+84 m2
+Sie legen Wert auf zentrales, ruhiges Wohnen und lichtdurchflutete Zimmer? Dann ist diese grosszügi…
 Teilen
 E-Mail
 Facebook
@@ -196,7 +388,7 @@ Engelgasse
 1'320'000
 CHF
 Luxus-Attikawohnung mitten im Herzen de…
-Engelgasse, 9434 Au SG
+Engelgasse, 9435 Heerbrugg
 Array
 4.5 Zimmer
 144 m2
@@ -211,99 +403,40 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-525'000
+Plattenstrasse
+1'625'000
 CHF
-4.5 Zimmer Wohnung in Diepoldsau
-Adresse auf Anfrage, 9444 Diepoldsau
+Luxus-Penthouse-Wohnung mit einmaliger …
+Plattenstrasse, 9444 Diepoldsau
 Array
-4.5 Zimmer
-120 m2
+5.5 Zimmer
+253 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
-4.5
+5.5
 Wohnfläche
-120 m2
-77/1000 Miteigentum an GrundstückNr. 505, bestehend aus:- 4.5 Zimmer-Wohnung 120 m2 im 1. OG- gross…
+253 m2
+ANKEREXKLUSIVES WOHNEN IN DIEPOLDSAU.Sie suchen Privatsphäre, das Gefühl von exklusivem Wohnen, Aus…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Unterdorfstrasse 35
-590'000
+Plattenstrasse
+880'000
 CHF
-Frisch renovierte 3.5 Zimmer-Wohnung mi…
-Unterdorfstrasse 35, 9443 Widnau
+LETZTE 3.5-Zimmer Attikawohnung mit ate…
+Plattenstrasse, 9444 Diepoldsau
 Array
 3.5 Zimmer
-93 m2
+115 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
 3.5
 Wohnfläche
-93 m2
-Grosszügige 3.5 Zimmer Wohnung an sonniger LageWir verkaufen eine frisch renovierte 3.5 Zimmer-Wohn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-St. Margrethen SG
-350'000
-CHF
-Heimelige 4 1/2 Eigentumswohnung an ruh…
-St. Margrethen SG, 9430 St. Margrethen SG
-Array
-4.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-75 m2
-Die Wohnung befindet sich im obersten Stockwerk und hat zusätzlich einen kleinen Balkon. Sie best…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Birkenstrasse 31
-635'000
-CHF
-schöne, moderne Wohnung in Widnau mit g…
-Birkenstrasse 31, 9443 Widnau
-Array
-3.5 Zimmer
-84 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-84 m2
-Etage
-Das Haus "Birke" verfügt über drei Vollgeschosse und ein Attikageschoss mit grosszügigen 3.5- bis 5…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Parkstrasse 22/24
-585'000
-CHF
-Neubauprojekt Ahornpark St. Margrethen …
-Parkstrasse 22/24, 9430 St. Margrethen SG
-Array
-3.5 Zimmer
-92 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-92 m2
-Im Park in St. Margrethen zuhause
-An der Parkstrasse in St. Margrethen entstehen zwei moderne Me…
+115 m2
+EXKLUSIVES WOHNEN IN DIEPOLDSAU.Sie suchen Privatsphäre, das Gefühl von exklusivem Wohnen, Aus- und…
 Teilen
 E-Mail
 Facebook
@@ -322,6 +455,26 @@ Zimmer
 2.5
 Wohnfläche
 61 m2
+Im Park in St. Margrethen zuhause
+An der Parkstrasse in St. Margrethen entstehen zwei moderne Me…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Parkstrasse 22/24
+585'000
+CHF
+Neubauprojekt Ahornpark St. Margrethen …
+Parkstrasse 22/24, 9430 St. Margrethen SG
+Array
+3.5 Zimmer
+92 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+92 m2
 Im Park in St. Margrethen zuhause
 An der Parkstrasse in St. Margrethen entstehen zwei moderne Me…
 Teilen
@@ -348,176 +501,21 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Rosenstrasse 12
-320'000
+Brändlihangstrasse 10
+710'000
 CHF
-frisch sanierte 3.5 Zimmer Wohnung inkl…
-Rosenstrasse 12, 9430 St. Margrethen SG
+Neubau 3.5 Zimmer-Eigentumswohnungen
+Brändlihangstrasse 10, 9442 Berneck
 Array
 3.5 Zimmer
-80 m2
+89 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-80 m2
-In St. Margrethen verkaufen wir eine frisch sanierte 3.5 Zimmer Wohnung inkl. separater Garagenbox,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Breite 35
-550'000
-CHF
-zentrale Lage mit fantastischer Aussicht
-Breite 35, 9450 Altstätten SG
-Array
-3.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-105 m2
-LAGE* begehrte, sehr zentrale Lage* gute Besonnung* Nähe zu diversen örtlichen Infrastrukturen und …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 74a
-695'000
-CHF
-Neuwertige 4.5 Zi.-Wohnung mit grosszüg…
-Hauptstrasse 74a, 9424 Rheineck
-Array
-4.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-105 m2
-Etage
-Helle 4.5 Zi.-WohnungNach Vereinbarung bieten wir diese schöne und neuwertige 4.5 Zi.-Wohnung mit g…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Poststrasse 9a
-455'000
-CHF
-Sorgenloses Einziehen oder garantierte …
-Poststrasse 9a, 9443 Widnau
-Array
-4.5 Zimmer
-87 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-87 m2
-Etage
-An attraktiver Zentrums-Lage mitten in Widnau finden Sie diese top-unterhaltene 4.5-Zimmer-Wohnung …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 78
-590'000
-CHF
-moderne Wohnung mit offenem Grundrissko…
-Bahnhofstrasse 78, 9445 Rebstein
-Array
-4.5 Zimmer
-115 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-115 m2
-LAGE- zentrale Wohnlage- ruhiges familienfreundliches Quartier- schöne Aussicht mit bester Besonnun…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Plattenstrasse
-845'000
-CHF
-Stilvolle Attikawohnung mit einmaliger …
-Plattenstrasse, 9444 Diepoldsau
-Array
-3.5 Zimmer
-115 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-115 m2
-EXKLUSIVES WOHNEN IN DIEPOLDSAU.Sie suchen Privatsphäre, das Gefühl von exklusivem Wohnen, Aus- und…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Plattenstrasse
-880'000
-CHF
-Luxuriöse 3.5-Zimmer Attikawohnung in D…
-Plattenstrasse, 9444 Diepoldsau
-Array
-3.5 Zimmer
-115 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-115 m2
-EXKLUSIVES WOHNEN IN DIEPOLDSAU.Sie suchen Privatsphäre, das Gefühl von exklusivem Wohnen, Aus- und…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 3
-720'000
-CHF
-grossflächige Wohnung mit schöner Weits…
-Hauptstrasse 3, 9436 Balgach
-Array
-5.5 Zimmer
-126 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-126 m2
-LAGEruhige sowie familienfreundliche Wohnlagegute Besonnungörtliche Infra…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-940'000
-CHF
-Alles perfekt und einiges noch besser
-Adresse auf Anfrage, 9434 Au SG
-Array
-5.5 Zimmer
-193 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-193 m2
-Etage
-Diese einzigartige 5.5-Zimmer Maisonette-Dachwohnung ist ein wahrer Diamant. Ein Rückzugsort mit ge…
+89 m2
+Neubau EigentumswohnungenNeubauprojekt Brändlihangstrasse 10 - BerneckWir kümmern uns um Ihre Wohnt…
 Teilen
 E-Mail
 Facebook

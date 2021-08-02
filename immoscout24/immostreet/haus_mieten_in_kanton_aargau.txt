@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/haus/kanton-aargau/
 Title: Haus mieten in Kanton Aargau - Immostreet.ch
-Description: Haus mieten in Kanton Aargau - Immostreet.ch: ImmoStreet.ch hat 67 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus mieten in Kanton Aargau - Immostreet.ch: ImmoStreet.ch hat 76 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -126,7 +126,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-67 Resultate gefunden ·
+76 Resultate gefunden ·
 Haus mieten in Kanton Aargau
 Preis (aufsteigend)
 Preis (absteigend)
@@ -139,146 +139,83 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Lettenstrasse 4
-3'500
+Fischerweg 21
+10'000
 CHF
 /Monat
-Einfamilienhaus komplett saniert
-Lettenstrasse 4, 5210 Windisch
+Wohnen direkt am Rhein - einzigartige N…
+Fischerweg 21, 4310 Rheinfelden
 Array
 6.5 Zimmer
-135 m2
+252 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Doppeleinfamilienhaus
 Zimmer
 6.5
 Wohnfläche
-135 m2
+252 m2
 Etage
-Einfamilienhaus in ruhigem, familienfreundlichen Quartier. Gemütlicher Sitzplatz. 2 Parkplätze.2020…
+Wir vermieten an exklusiver Wohnlage direkt am Rheinufer eine repräsentative Neubauliegenschaft mit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterm Aspalter 13
+2'700
+CHF
+/Monat
+«Doppeleinfamilienhaus mit viel Grünflä…
+Unterm Aspalter 13, 5106 Veltheim AG
+Array
+6.5 Zimmer
+172 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+6.5
+Wohnfläche
+172 m2
+In der familienfreundlichen Gesamtüberbauung «Ufem Hübel» an erhöhter Lage über dem Dorf Veltheim, …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stockrainstrasse 4
+3'400
+CHF
+/Monat
+SCHÖNES HÄUSCHEN AN NATURNAHER LAGE
+Stockrainstrasse 4, 5432 Neuenhof
+Array
+6 Zimmer
+150 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6
+Wohnfläche
+150 m2
+Sind Sie auf der Suche nach einem schönen Häuschen für sich und Ihre Familie? Dann sind Sie hier ge…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-4'600
+2'300
 CHF
 /Monat
-Wohnen mit Charme im umgebauten Bauernh…
-Adresse auf Anfrage, 4312 Magden
+Wohnen im Zelgli
+Adresse auf Anfrage, 5000 Aarau
 Array
-5 Zimmer
-182 m2
+4 Zimmer
+100 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-5
+4
 Wohnfläche
-182 m2
-Etage
-Inmitten wunderschöner Natur am Dorfrand von Magden befindet sich dieses im 2012 stilvoll renoviert…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-3'300
-CHF
-/Monat
-Stilvolles Wohnen im Grünen
-Adresse auf Anfrage, 4312 Magden
-Array
-4.5 Zimmer
-126 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-126 m2
-Etage
-Inmitten wunderschöner Natur am Dorfrand von Magden befindet sich dieses im 2012 stilvoll renoviert…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weidstrasse 13
-Preis auf Anfrage
-6.5-Zimmer-Einfamilienhaus mit Umschwung
-Weidstrasse 13, 4317 Wegenstetten
-Array
-6.5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-160 m2
-Etage
-An ruhiger Wohnlage im schönen Fricktal vermieten wir per 1. November oder nach Vereinbarung dieses…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schafrain 51
-3'200
-CHF
-/Monat
-Grosses Haus mit viel Potential
-Schafrain 51, 5037 Muhen
-Array
-5.5 Zimmer
-220 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-220 m2
-Wir vermieten per 01.09.2021 oder nach Vereinbarung dieses grosszügige und geräumige Wohnhaus mit 3…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfstrasse 42a
-3'950
-CHF
-/Monat
-Einfamilienhaus im beliebten Dorfkern v…
-Dorfstrasse 42a, 5430 Wettingen
-Array
-6.5 Zimmer
-216 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-216 m2
-Etage
-Ihr neues Zuhause bietet Ihnen viel Platz und Rückzug.
-Per 1. Oktober 2021 suchen wir für dieses E…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Barbaraweg
-2'500
-CHF
-/Monat
-Haus möbliert während 11-12 Monaten zu …
-Barbaraweg, 5033 Buchs AG
-Array
-7 Zimmer
-180 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7
-Wohnfläche
-180 m2
-Ab Anfang August, genaue Daten sind zu diskutieren. Auf Flatfox ist die genaue Beschreibung mit dem…
+100 m2
+Wir suchen per November 2021 einen Nachmieter für unseren schönen Hausteil im ruhigen Zelgliquartie…
 Teilen
 E-Mail
 Facebook
@@ -303,106 +240,185 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Mühlegasse 6
-2'880
+Brühlstrasse 14
+2'900
 CHF
 /Monat
-zentral gelegenes grosszügiges Doppel E…
-Mühlegasse 6, 4663 Aarburg
-Array
-5.5 Zimmer
-187 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-187 m2
-Etage
-Suchen Sie ein neues Zuhause mit grosszügigen Raumangebot und dennoch zentral gelegen? Dann müssen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Feld 5a
-2'500
-CHF
-/Monat
-Doppelhaushälfte sucht Nachmieter
-Im Feld 5a, 5626 Hermetschwil-Staffeln
-Array
-5.5 Zimmer
-180 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-180 m2
-Diese schnuckelige Doppelhaushälfte mit südländischem Charme in familienfreundlicher Umgebung such…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'500
-CHF
-/Monat
-EIN STADTHAUS ZUM TRÄUMEN
-Adresse auf Anfrage, 5000 Aarau
+Wohnen im eigenen Haus
+Brühlstrasse 14, 5018 Erlinsbach
 Array
 4.5 Zimmer
-120 m2
+130 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
 4.5
 Wohnfläche
-120 m2
-Dieses wunderschön renovierte Stadthaus mit einer grossen Terrasse (40 m2) befindet sich nur wenige…
+130 m2
+Gepflegtes und optimal gelegenes 4,5 Zimmer Einfamilienhaus sucht Sie!Hier haben Sie die Möglichkei…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seehaldenstrasse 23
-2'750
+Stöcklimattweg 10
+2'500
 CHF
 /Monat
-SEE- UND ALPENBLICK | WOHNEN WIE IN DEN…
-Seehaldenstrasse 23, 5712 Beinwil am See
+Ein Platz an der Sonne
+Stöcklimattweg 10, 5037 Muhen
 Array
-7 Zimmer
-178 m2
+5.5 Zimmer
+118 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-7
+5.5
 Wohnfläche
-178 m2
-Etage
-DAS FINANZIELLE- Nettomietzins CHF 2'750.00- Heiz- und Nebenkosten vollumfänglich zu Lasten MieterG…
+118 m2
+5.5 Zimmer Einfamilienhaus in 5037 Muhen zu vermieten. Haus wird innen neu gestrichen und die Böden…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Neumattstrasse 6
+Staufen
+1'600
+CHF
+/Monat
+Zu vermieten ab 1. November älteres EFH
+Staufen, 5603 Staufen
+Array
+4 Zimmer
+80 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4
+Wohnfläche
+80 m2
+4 Zimmer mit grossem UmschwungRuhige, steuergünstige Lage im Dorfzentrum von Staufen200 m bis Busha…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
 2'800
 CHF
 /Monat
-Charmantes freistehendes Einfamilienhau…
-Neumattstrasse 6, 5400 Baden
+MODERN, KINDERFREUNDLICH MIT VIEL PLATZ…
+Adresse auf Anfrage, 5604 Hendschiken
+Array
+7.5 Zimmer
+182 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+7.5
+Wohnfläche
+182 m2
+Die Moderne Doppelhaushälfte lädt ein, viele schöne Stunden im offenen Wohnbereich mit moderner Küc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Köllikerstrasse 26
+2'950
+CHF
+/Monat
+Grosszügiges Haus in ruhiger Lage nähe …
+Köllikerstrasse 26, 5036 Oberentfelden
 Array
 6 Zimmer
-125 m2
+171 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
 6
 Wohnfläche
-125 m2
+171 m2
 Etage
-Einfamilienhaus 6 Zimmer an der Neumattstrasse 6, in 5400 Baden
-Baden ist die beliebteste Stadt …
+Dieses geräumige und charmante Haus bietet viel Platz über drei Stockwerke. Zudem umschmückt ein gr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brühlstrasse 14
+2'900
+CHF
+/Monat
+Wohnen im eigenen Haus
+Brühlstrasse 14, 5018 Erlinsbach
+Array
+4.5 Zimmer
+130 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+130 m2
+Wunderschönes freistehendes Einfamilienhaus mit Garten, 3 Parkplätze, frisch saniert innen (frisch …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rüttistr. 27
+2'000
+CHF
+/Monat
+Bahnwärterhaus in Full-Reuenthal 4.5Zim…
+Rüttistr. 27, 5324 Full-Reuenthal
+Array
+4.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+150 m2
+Etage
+Ein Objekt für Menschen die das Urtümliche lieben und schätzen können.... geeignet mit Tieren da vi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Nelkenweg 9
+2'600
+CHF
+/Monat
+Einfamilienhaus in Würenlingen
+Nelkenweg 9, 5303 Würenlingen
+Array
+5.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+140 m2
+Etage
+In Würenlingen vermieten wir in kinderfreundlicher Umgebung an ruhiger Lage ein 5.5-Zimmer Einfamil…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'150
+CHF
+/Monat
+RENOVIERTER WOHNTRAUM AN ZENTRALER LAGE
+Adresse auf Anfrage, 5624 Bünzen
+Array
+5.5 Zimmer
+235 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+235 m2
+Das Haus an zentraler Lage wurde komplett saniert und den heutigen Bedürfnissen angepasst. Es verfü…
 Teilen
 E-Mail
 Facebook
@@ -427,121 +443,95 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Talgasse 12
-1'650
+Weidstrasse 13
+2'500
 CHF
 /Monat
-Zentral Wohnen im Einfamilienhaus
-Talgasse 12, 5503 Schafisheim
+6.5-Zimmer-Einfamilienhaus mit viel Ums…
+Weidstrasse 13, 4317 Wegenstetten
 Array
-3.5 Zimmer
-95 m2
+6.5 Zimmer
+160 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-3.5
+6.5
 Wohnfläche
-95 m2
-Ein wunderschönes 3.5 Zimmer-Einfamilienhaus mit Gartensitzplatz und einem Kamin steht ab dem 01.10…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alte Landstrasse 7
-3'000
-CHF
-/Monat
-Wunderschönes 4,5 Zimmer Einfamilienhau…
-Alte Landstrasse 7, 5723 Teufenthal AG
-Array
-5.5 Zimmer
-180 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-180 m2
-Diese Liegenschaft verfügt über ein riesiges Grundstück, 865 m2 welches viele Möglichkeiten bietet.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Käfergrund 22
-3'500
-CHF
-/Monat
-5.5 Zimmer Atriumhaus mit Garten
-Käfergrund 22, 5000 Aarau
-Array
-5.5 Zimmer
-141 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-141 m2
+160 m2
 Etage
-Wir vermieten in der Stadt Aarau im ruhigen Quartier Goldern, 15 Gehminuten vom Bahnhof als Teil de…
+An ruhiger Wohnlage im schönen Fricktal vermieten wir per 1. November oder nach Vereinbarung dieses…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Fischerweg 63
-2'150
+Hauptstrasse 32
+1'800
 CHF
 /Monat
-Modernes 4.5-Zimmer Reihenhaus an ruhig…
-Fischerweg 63, 4665 Oftringen
+DOPPELHAUSHÄLFTE IN UEKEN
+Hauptstrasse 32, 5028 Ueken
 Array
 4.5 Zimmer
-126 m2
+160 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+160 m2
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Huttenacherstrasse 21
+2'280
+CHF
+/Monat
+Grosszügiges 5 1/2-Zimmer-Reiheneinfami…
+Huttenacherstrasse 21, 5452 Oberrohrdorf
+Array
+5.5 Zimmer
 Objekttyp
 Wohnung, Reihenfamilienhaus
 Zimmer
-4.5
-Wohnfläche
-126 m2
-Wohnen im modernen und kubischen ReihenhausModernes 4.5-Zimmer Reihenhaus (Gesamtfläche über 189 m2…
+5.5
+Wir vermieten an der Huttenacherstrasse 21 ein helles, geräumiges 5 ½-Zimmer-Reiheneinfamilienhaus …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Rankmattweg 8
-2'690
-CHF
-/Monat
-Zu Vermieten
-Rankmattweg 8, 4802 Strengelbach
+Delphinweg
+Preis auf Anfrage
+Ihr Familienwohn(t)raum mit Pool am Hal…
+Delphinweg, 5616 Meisterschwanden
 Array
-6 Zimmer
+337 m2
 Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6
-Zu Vermieten ein neurenovierte 6,5 Zimmer Dopelleinfamilienhaus. Zentral und ruhig, habenSie Intere…
+Wohnung, Villa
+Wohnfläche
+337 m2
+hr neues Zuhause am schönen Hallwilersee - mit Weitsicht das Leben geniessen.
+Lebensqualität, Er…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Orchideenweg 11
-2'420
+Hauptstraße, 35
+1'640
 CHF
 /Monat
-Alleinstehendes familienfreundliches Ei…
-Orchideenweg 11, 5303 Würenlingen
+In Mitten von Bad Zurzach
+Hauptstraße, 35, 5330 Bad Zurzach
 Array
-4.5 Zimmer
-240 m2
+5.5 Zimmer
+150 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-4.5
+5.5
 Wohnfläche
-240 m2
-Etage
-Zu vermieten in Würenlingen am Orchideenweg 11 an ruhiger, sonniger Lage mit guten Verbindungen nac…
+150 m2
+Wunderschöne helle 5,5 Zimmer Wohnung im Zentrum von Bad Zurzach sucht einen neuen Mieter ab 01.08.…
 Teilen
 E-Mail
 Facebook

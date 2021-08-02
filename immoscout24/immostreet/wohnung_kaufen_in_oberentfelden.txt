@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/in-oberentfelden/
 Title: Wohnung kaufen in Oberentfelden - Immostreet.ch
-Description: Wohnung kaufen in  Oberentfelden - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in  Oberentfelden - Immostreet.ch: ImmoStreet.ch hat 6 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-7 Resultate gefunden ·
+6 Resultate gefunden ·
 Wohnung kaufen in Oberentfelden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,20 +134,21 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-parkstrasse 8
-690'000
-CHF
-Zu verkaufen, Eigentumswohnung, 5036 Ob…
-parkstrasse 8, 5036 Oberentfelden
+Parkstrasse 10
+Preis auf Anfrage
+MODERNE WHG IM PARK! 2.5-Zimmer-Wohnung…
+Parkstrasse 10, 5036 Oberentfelden
 Array
-4.5 Zimmer
-109 m2
+2.5 Zimmer
+79 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+2.5
 Wohnfläche
-109 m2
+79 m2
+Etage
+Eine neuwertige Wohnung im RömerparkSehr moderne Wohnsiedlung am Dorfrand Ruhiges und gepflegtes Qu…
 Teilen
 E-Mail
 Facebook
@@ -170,6 +171,44 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+parkstrasse 8
+660'000
+CHF
+"VOLL AUF DEN PUNKT"
+parkstrasse 8, 5036 Oberentfelden
+Array
+4.5 Zimmer
+109 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+109 m2
+Diese durchdachte 4.5 Zimmer Wohnung, besticht durch moderne Architektur und grosszügige Räume. Die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Holzstrasse 61
+575'000
+CHF
+Grosszüge Wohnung mit sonniger Terrasse
+Holzstrasse 61, 5036 Oberentfelden
+Array
+4.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+105 m2
+Willkommen in Oberentfelden! Eine Gemeinde im Suhrental mit tollen Freizeitaktivitäten, verschieden…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 570'000
 CHF
@@ -184,45 +223,7 @@ Zimmer
 3.5
 Wohnfläche
 101 m2
-Diese grosszügige neuwertige Eigentumswohnung punktet mit seinem freundlichen Quartier an guter Lag…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-568'000
-CHF
-Neuwertige und helle 3.5 Zimmer Wohnung…
-Adresse auf Anfrage, 5036 Oberentfelden
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-BITTE KEINE MARKLER ANFRAGEN!Lage der LiegenschaftDie Liegenschaft befindet sich an ruhiger Lage na…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Parkstrasse 10
-Preis auf Anfrage
-MODERNE WHG IM PARK! 2.5-Zimmer-Wohnung…
-Parkstrasse 10, 5036 Oberentfelden
-Array
-2.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-79 m2
-Etage
-Eine neuwertige Wohnung im RömerparkSehr moderne Wohnsiedlung am Dorfrand Ruhiges und gepflegtes Qu…
+Diese vermietete neuwertige Eigentumswohnung punktet mit seinem freundlichen Quartier an guter Lage…
 Teilen
 E-Mail
 Facebook
@@ -242,25 +243,6 @@ Zimmer
 Wohnfläche
 131 m2
 Wir verkaufen diese grosse, lichtdurchflutete Wohnung mit praktikablem Grundriss. Die Wohnung wird …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Innere Mattenstrasse 21
-1'150'000
-CHF
-4,5-Zimmer Dachwohnung... Ihr einzigart…
-Innere Mattenstrasse 21, 5036 Oberentfelden
-Array
-4.5 Zimmer
-170 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Wohnfläche
-170 m2
-4,5-Zimmer Dachwohnung für ein einzigartig schönes Zuhause, wo sich Stil und gehobener Komfort vere…
 Teilen
 E-Mail
 Facebook

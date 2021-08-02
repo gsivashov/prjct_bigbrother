@@ -1,4 +1,4 @@
-URL: https://www.immostreet.ch/de/mieten/bauland/
+URL: https://www.immostreet.ch/de/mieten/wohn-und-geschaeftshaus/
 Title: Wohnungen & Häuser mieten in - Immostreet.ch
 Description: Wohnungen & Häuser mieten in   - Immostreet.ch: ImmoStreet.ch hat 1000 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
@@ -68,6 +68,14 @@ Preis von
 Preis bis
 Zimmer von
 Zimmer bis
+Fläche von
+m2
+Fläche bis
+m2
+Grundstückfläche von
+m2
+Grundstückfläche bis
+m2
 Etage
 Alle
 im EG
@@ -94,7 +102,6 @@ Swimmingpool
 Immocode
 Letzte Suche
 Mieten
-Bauland
 Suche zurücksetzen
 Filter
 Suchen
@@ -114,262 +121,360 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Adresse auf Anfrage
-130'000
+1'360
 CHF
-A SAISIR ! SALON D'ESTHETIQUE TOUT EQUI…
-Adresse auf Anfrage, 1010 Lausanne
+/Monat
+EXKLUSIVE TERRASSENWOHNUNG MIT VIELEN E…
+Adresse auf Anfrage, 8890 Flums
 Array
-2 Zimmer
+3.5 Zimmer
+104 m2
 Objekttyp
-Plot, Gewerbeflächen
+Wohnung, Flach
 Zimmer
-2
-Cet institut de beauté se compose de trois tables de manucures, un espace de soin du visage (Epilat…
+3.5
+Wohnfläche
+104 m2
+Ruhig und zentral, in unmittelbarer Nähe zu den öffentlichen Verkehrsmittel, befindet sich diese he…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-330'000
+Mittlere Bahnhofstrasse 8
+490
 CHF
-Belle parcelle à bâtir à deux pas du ce…
-Adresse auf Anfrage, 1925 Finhaut
+/Monat
+Hobbyraum / Lagerraum
+Mittlere Bahnhofstrasse 8, 8853 Lachen SZ
 Array
+1 Zimmer
 Objekttyp
-Plot, Bauland
-UNE EXCLUSIVITÉ BERRA IMMOBILIERSuperbe parcelle à bâtir, à deux pas du centre de Finhaut.CARACTÉRI…
+Atelier
+Zimmer
+1
+Ihr neuer Hobbyraum im Zentrum von Lachen wartet auf Sie. Sei es als Bastelraum, Werkstatt oder al…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'440'000
+Hauptstrasse 46a
+2'470
 CHF
-IDEAL POUR UN CONSTRUCTEUR TERRAIN AV…
-Adresse auf Anfrage, 1674 Montet (Glâne)
+/Monat
+Wunderschöne 3½-Zimmerwohnung mit See -…
+Hauptstrasse 46a, 8832 Wollerau
 Array
+3.5 Zimmer
+93 m2
 Objekttyp
-Plot, Bauland
-SUPERBE TERRAIN A VENDRE LIBRE DE MANDAT DE TOUTE BEAUTÉMCBIMMO VOUS PRÉSENTE : A SAISIR POUR CONST…
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+93 m2
+Per 01.08.2021 vermieten wir diese im Eigentumsstandard ausgebaute 3½-Zimmerwohnung mit wunderschön…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-SUBIME TERRAIN AVEC UNE VUE PANORAMIQUE…
-Adresse auf Anfrage, 1674 Montet (Glâne)
-Array
-Objekttyp
-Plot, Bauland
-MCBIMMO : Vous présenteLibre de mandat ce terrain Le terrain vous offre 13021 m² constructible en …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-St-Maurice
-Preis auf Anfrage
-Route des Emonets - Villas jumelles
-St-Maurice, 1890 St-Maurice
-Array
-Objekttyp
-Plot, Bauland
-Sur cette parcelle non-équipée, en zone villa R1 proche du centre de St-Maurice, route des Emonets,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'000'000
+Albisstrasse 55
+150
 CHF
-Idéal pour promoteurs : terrain constru…
-Adresse auf Anfrage, 1337 Vallorbe
+/Monat
+Parkplatz in Tiefgarage
+Albisstrasse 55, 8134 Adliswil
 Array
 Objekttyp
-Plot, Bauland
-Idéal pour promoteurs ! Ce magnifique terrain d'une superficie de plus de 2'680 m2 en zone urbaine …
+Tiefgarage
+Per Sofort vermieten wir einen Garagenplatz an der Albisstrasse 55 in Adliswil.Gerne zeigen wir Ihn…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Forhölzliweg
-850'000
+Eulenbachstrasse 10
+2'350
 CHF
-Bauland
-Forhölzliweg, 8340 Hinwil
+/Monat
+helle Wohnung in familienfreundlichem Q…
+Eulenbachstrasse 10, 8832 Wilen b. Wollerau
 Array
+4.5 Zimmer
+90 m2
 Objekttyp
-Plot, Bauland
-1'070 m2 Bauland, Kat.Nr. 7446, Kernzone1'718 m2 Landwirtschaftsland angrenzend, K…
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+90 m2
+Diese nach Süd-Westen ausgerichtete Wohnung sucht per sofort neue Mieter. Die Wohnung mit Blick in…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'550'000
+Alte Landstrasse 5
+3'730
 CHF
-Un gioiello in centro città!
-Adresse auf Anfrage, 6963 Pregassona
+/Monat
+Luxuriöse 4½ Zimmer Neubauwohnung im Ze…
+Alte Landstrasse 5, 8808 Pfäffikon SZ
 Array
+4.5 Zimmer
+136 m2
 Objekttyp
-Plot, Bauland
-Vi proponiamo un bellissimo terreno edificabile in zona R3 estensiva. Questo magnifico terreno sorg…
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+136 m2
+An diesem Wohlfühlort im Zentrum von Pfäffikon SZ, am schönen Zürichsee, vermieten wir per 1. Dezem…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Aeschistrasse 12
-245'295
+Seestrasse
+4'980
 CHF
-Realisieren Sie Ihr Paradies in Holz - …
-Aeschistrasse 12, 4558 Winistorf
+/Monat
+Sanierte Dachmaisonettwohnung mit Seebl…
+Seestrasse, 8806 Bäch SZ
 Array
+4.5 Zimmer
+150 m2
 Objekttyp
-Plot, Bauland
-Sie lieben das Besondere? Sehr gut, wir auch! Dieses Bauland mit leichter Hangneigung eignet sich h…
+Wohnung, Duplex
+Zimmer
+4.5
+Wohnfläche
+150 m2
+Nach Totalsanierung vermieten wir per 1. Juni 2021 oder nach Vereinbarung diese einmalige, hochwert…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-128'050
+Neuheimstrasse 20
+2'470
 CHF
-Mögen Sie es ländlich aber trotzdem zen…
-Adresse auf Anfrage, 5083 Ittenthal
+/Monat
+4.5-Zimmerwohnung in kinderfreundlichem…
+Neuheimstrasse 20, 8853 Lachen SZ
 Array
+4.5 Zimmer
+94 m2
 Objekttyp
-Plot, Bauland
-Mit diesem Grundstück haben Sie die Möglichkeit, in Ittenthal Ortsteil von Kaisten Ihr Haus ganz na…
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+94 m2
+Diese helle 4.5-Zimmerwohnung befindet sich in einem ruhigen und doch zentrumsnahen Quartier in de…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Buchlistrasse 56
-202
+Kantonsstrasse 45
+130
 CHF
-Von der Grünfläche hin zu den eigenen 4…
-Buchlistrasse 56, 4704 Niederbipp
+/Monat
+Tiefgaragenplätze zu vermieten
+Kantonsstrasse 45, 8854 Galgenen
 Array
 Objekttyp
-Plot, Bauland
-Mit diesem Grundstück haben Sie die Möglichkeit, im aufstrebenden Niederbipp Ihr Haus ganz nach Ihr…
+Tiefgarage
+Ab sofort vermieten wir diverse Tiefgaragenplätze für CHF 120.00 pro Monat an der Hauptstrasse in G…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-396'000
+Seeguetstrasse 1
+1'955
 CHF
-Träumen in Brienz!
-Adresse auf Anfrage, 3855 Brienz BE
+/Monat
+Grosszügige Familienwohnung in Seenähe
+Seeguetstrasse 1, 8804 Au ZH
 Array
+4 Zimmer
+76 m2
 Objekttyp
-Plot, Bauland
-Freue Sie sich auf eine seltene Kombination: nahes Wohnen im zentral gelegenen EFH-Quartier, direkt…
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+76 m2
+Die geräumige Familienwohnung an bester Seenähe bietet Ihnen folgende Vorzüge:
+Moderne Küc…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'850'000
+Buckstrasse 30
+3'050
 CHF
-Träumen am Thunersee !
-Adresse auf Anfrage, 3652 Hilterfingen
+/Monat
+Schöner Wohnen in der Mehrfamilienvilla…
+Buckstrasse 30, 8820 Wädenswil
 Array
+4.5 Zimmer
+120 m2
 Objekttyp
-Plot, Bauland
-Hier haben Sie die Möglichkeit, Ihr Wunsch-Heim ganz nach Ihren eigenen Vorstellungen zu realisiere…
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Per 01.11.2021 sucht diese grosszüge 4½-Zimmerwohnung im 2. Obergeschoss eine neuen Mieter. Das im …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-390
+Kantonsstrasse 11
+1'050
 CHF
-Aussicht auf das Bergpanorama beim Morg…
-Adresse auf Anfrage, 3754 Diemtigen
+/Monat
+Preiswerter Gewerberaum an guter Lage!
+Kantonsstrasse 11, 8864 Reichenburg
 Array
+2.5 Zimmer
 Objekttyp
-Plot, Bauland
-Bauland ist immer sehr spannend, da Sie die Möglichkeit haben, Ihr Wunsch-Heim ganz nach Ihren eige…
+Büro
+Zimmer
+2.5
+Per sofort oder nach Vereinbarung vermieten wir diesen 49m² grossen Gewerberaum. Folgende Annehmli…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-240
+Kantonsstrasse 9
+1'380
 CHF
-Ihr Wohntraum an sonniger und zentraler…
-Adresse auf Anfrage, 4712 Laupersdorf
+/Monat
+Neu eingerichtete Apartments für 1-3 Mo…
+Kantonsstrasse 9, 8864 Reichenburg
 Array
+1.5 Zimmer
+33 m2
 Objekttyp
-Plot, Bauland
-Diese wunderbare Grundstück bietet Ihnen den Preis sowie die Fläche, um Ihre zukünftigen Wohnträume…
+Wohnung, Möblierte Wohnung
+Zimmer
+1.5
+Wohnfläche
+33 m2
+Unsere neu eingerichteten Apartments lassen sich von 3 Monate bis max. 6 Monate mieten (mind. 1 Mon…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-470'320
+Binzenstrasse 1
+1'675
 CHF
-Opportunité - Terrain à bâtir
-Adresse auf Anfrage, 1918 La Tzoumaz
+/Monat
+Moderne 3.5-Zimmerwohnung an zentraler …
+Binzenstrasse 1, 8733 Eschenbach SG
 Array
+3.5 Zimmer
+99 m2
 Objekttyp
-Plot, Bauland
-Grande parcelle à bâtir dans un environnement calme et proche de la nature. A 15 minutes à pied des…
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+99 m2
+Diese 3.5-Zimmerwohnung befindet sich in einem gepflegten Mehrfamilienhaus an sonniger Wohnquartier…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-175'000
+Säntisstrasse 7
+2'270
 CHF
-Magnifique parcelle à bâtir, au coeur d…
-Adresse auf Anfrage, 3972 Miège
+/Monat
+Grosse, helle Attikawohnung mit zwei Te…
+Säntisstrasse 7, 8716 Schmerikon
 Array
+6.5 Zimmer
+148 m2
 Objekttyp
-Plot, Bauland
-Dans un cadre bucolique, jolie parcelle à bâtir située au cur du vignoble dans le paisible village …
+Wohnung, Flach
+Zimmer
+6.5
+Wohnfläche
+148 m2
+An kinderfreundlicher Lage vermieten wir per 01.07.2021 eine 6.5-Zimmer-Dachwohnung. Die ideale Fam…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-343'000
+Sonnenhof Garagen 19/21/23
+120
 CHF
-Magnifique parcelle à bâtir, au coeur d…
-Adresse auf Anfrage, 3972 Miège
+/Monat
+Tiefgaragenplatz
+Sonnenhof Garagen 19/21/23, 8808 Pfäffikon SZ
 Array
 Objekttyp
-Plot, Bauland
-Dans un cadre bucolique, jolie parcelle à bâtir de 980 m2 située au cur du vignoble dans le paisibl…
+Offener Parkplatz
+Tiefgaragenplatz ab sofort zu vermieten.
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-412'000
+Birchweidstrasse TG/PP
+30
 CHF
-Terrain à bâtir de plus de 1150 m2 en p…
-Adresse auf Anfrage, 3974 Mollens VS
+/Monat
+Motorradparkplatz
+Birchweidstrasse TG/PP, 8808 Pfäffikon SZ
 Array
 Objekttyp
-Plot, Bauland
-Avec une vue panoramique sur la vallée du Rhône, le Haut-Valais et le Val d'Anniviers, terrain à bâ…
+Offener Parkplatz
+Motorradparkplatz in Tiefgarage ab sofort zu vermieten.
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-290'000
+Roosstrasse 53
+2'150
 CHF
-Terrain à bâtir de plus de 1110 m2 en p…
-Adresse auf Anfrage, 3974 Mollens VS
+/Monat
+Lagerraum im Roosquartier
+Roosstrasse 53, 8832 Wollerau
 Array
 Objekttyp
-Plot, Bauland
-Avec une vue panoramique sur la vallée du Rhône, le Haut-Valais et le Val d'Anniviers, terrain à bâ…
+Verkauf, Lager
+Dieser praktisch erschlossene Lagerraum befindet sich im 2. Untergeschoss eines belebten Büro- und …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schützenstrasse 2
+1'650
+CHF
+/Monat
+Loft / Atelier mit Küche und Badezimmer…
+Schützenstrasse 2, 4127 Birsfelden
+Array
+Objekttyp
+Wohnung, Loft
+In einer ruhigen Seitenstrasse in Mitten von Birsfelden vermieten wir ein schönes und helles Loft/A…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eisenbahnstrasse 3
+1'580
+CHF
+/Monat
+5.5 Zimmerwohnung mit toller Aussicht
+Eisenbahnstrasse 3, 9400 Rorschach
+Array
+5.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+120 m2
+Wir vermieten per sofort oder nach Vereinbarung diese tollt 5.5 Zimmerwohnung mit hohen Decken in R…
 Teilen
 E-Mail
 Facebook
@@ -383,7 +488,6 @@ Seite 1 von 50
 nächste Seite
 ImmoStreet.ch
 Mieten
-Bauland zu mieten
 Immobilien mieten in
 Basel
 Bern

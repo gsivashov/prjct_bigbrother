@@ -42,9 +42,8 @@ Festes Darlehen
 Variables Darlehen
 Immobilienfinanzierung
 Festhypothek
-Libor-Hypothek
-Variable Hypothek
 SARON-Hypothek
+Variable Hypothek
 Baukredit
 Highlights
 Kredit online beantragen
@@ -117,7 +116,7 @@ Weiterlesen
 E-Banking
 E-Banking in der Übersicht
 Funktionsübersicht
-Computer und Tablets
+PC und Tablets
 Smartphones
 Zugriff & Sicherheit
 Zugriffsmöglichkeiten

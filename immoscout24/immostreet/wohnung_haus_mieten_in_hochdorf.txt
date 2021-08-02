@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-hochdorf/
 Title: Wohnung & Haus mieten in Hochdorf - Immostreet.ch
-Description: Wohnung & Haus mieten in  Hochdorf - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Hochdorf - Immostreet.ch: ImmoStreet.ch hat 12 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-20 Resultate gefunden ·
+12 Resultate gefunden ·
 Wohnung & Haus mieten in Hochdorf
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,48 +152,28 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Brunnenmöslistrasse 16
-1'320
+Alpenstrasse 19
+1'380
 CHF
 /Monat
-Attraktiv gelegen - traumhafte Wohnung …
-Brunnenmöslistrasse 16, 6280 Hochdorf
+ZENTRAL UND RENOVIERT
+Alpenstrasse 19, 6280 Hochdorf
 Array
-2.5 Zimmer
-60 m2
+3.5 Zimmer
+73 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Dachwohnung
 Zimmer
-2.5
+3.5
 Wohnfläche
-60 m2
-Hier lässt es sich wohnenAn der Brunnenmöslistrasse geniessen Sie die Vorteile einer idealen Wohnla…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bankstrasse 13
-2'190
-CHF
-/Monat
-Sanierte 5.5-Zimmerwohnung im Dachgesch…
-Bankstrasse 13, 6280 Hochdorf
-Array
-5.5 Zimmer
-141 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-141 m2
-Hier lässt es sich wohnenDie Liegenschaft Bankstrasse 13 steht am Zentrumsrand von Hochdorf in eine…
+73 m2
+Diese gemütliche und grossräumige 3.5-Zimmer-Wohnung befindet sich an einer zentralen und ruhigen L…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Hauptstrasse 35
-650
+750
 CHF
 /Monat
 Zu vermieten möblierte 1 Z - Mittel im …
@@ -209,22 +189,99 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bellevuerain 6
-1'490
+Bahnhofplatz
+1'686
 CHF
 /Monat
-Gemütliche 4.5 Zimmer-Wohnung mit schön…
-Bellevuerain 6, 6280 Hochdorf
+5.5 Zimmer Wohnung
+Bahnhofplatz, 6280 Hochdorf
+Array
+5.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+112 m2
+Attraktive 5.5-Zimmer Wohnung am Bahnhof HochdorfWir vermieten eine geräumige 5.5-Zimmerwohnung mit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bellevuestrasse 28A
+1'030
+CHF
+/Monat
+Schöne Single-Wohnung mit Gartensitzpla…
+Bellevuestrasse 28A, 6280 Hochdorf
+Array
+2.5 Zimmer
+43 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+43 m2
+Hier lässt es sich wohnenDie Liegenschaft befindet sich im ruhigen Bellevue-Quartier in Hochdorf. D…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Merkurstrasse 3
+1'410
+CHF
+/Monat
+Wohnung im Herzen von Hochdorf
+Merkurstrasse 3, 6280 Hochdorf
 Array
 4.5 Zimmer
-80 m2
+88 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-80 m2
-Ruhige und gemütliche 4 1/2 Zimmer-Wohnung mit schönem Ausblick auf die Berge und über die Dächer H…
+88 m2
+Suchen Sie eine tolle 4.5-Zimmerwohnung im Zentrum von Hochdorf? Wir haben per 15. September 2021 d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 35
+850
+CHF
+/Monat
+Zu vermieten 1 Z ? (34qm) im Zentrum vo…
+Hauptstrasse 35, 6280 Hochdorf
+Array
+34 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+34 m2
+850.- PRO MONAT inkl. InternetanschlussAb 1 Juli In einer grossen Jugendstil Wohnung mit grossem E…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lindenbergstrasse 6
+1'490
+CHF
+/Monat
+Familienfreundlich wohnen an ruhiger La…
+Lindenbergstrasse 6, 6280 Hochdorf
+Array
+4.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+85 m2
+Diese Wohnung befindet sich in einer gepflegten, ruhigen Überbauung an zentraler, familienfreundlic…
 Teilen
 E-Mail
 Facebook
@@ -233,38 +290,18 @@ Hauptstrasse 21A
 1'150
 CHF
 /Monat
-Wohnung in Hochdorf
+Apt mit Holzdach in Hochdorf
 Hauptstrasse 21A, 6280 Hochdorf
 Array
 2 Zimmer
-60 m2
+55 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2
 Wohnfläche
-60 m2
-Haus im Dorf Hochdorf an der Hauptstraße, nur wenige Sekunden vom Bahnhof und Busbahnhof entfernt, …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kleinwangenstrasse
-1'000
-CHF
-/Monat
-Charmante 2,5 Zi-Wohnung in Hochdorf
-Kleinwangenstrasse, 6280 Hochdorf
-Array
-2.5 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-60 m2
-Per 16.07.2021 wird eine tolle und grosszügige 2,5-Zimmer-Wohnung im 2.OG vermietet (3-Familien-Hau…
+55 m2
+2-Zimmer Apt mit Holzdach im Zentrum von Hochdorf mit eigener Küche und Bad. 50-55m2Waschküche im s…
 Teilen
 E-Mail
 Facebook
@@ -281,95 +318,7 @@ Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Naher der Schule sowie des Dorfzentrums in Hochdorf, Vermieten wir eine preiswerte 4.5-Zimmerwohnun…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brauipl. 6
-966
-CHF
-/Monat
-Vollausgerüstete, möblierte Apartments …
-Brauipl. 6, 6280 Hochdorf
-Array
-23 m2
-Objekttyp
-Wohnung, Flach
-Wohnfläche
-23 m2
-Mitten im Stadtzentrum von Hochdorf vermieten wir kostengünstige, möblierte 1-Zimmer Apartments. De…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brauipl. 6
-966
-CHF
-/Monat
-Vollausgerüstete, möblierte Apartments …
-Brauipl. 6, 6280 Hochdorf
-Array
-23 m2
-Objekttyp
-Wohnung, Flach
-Wohnfläche
-23 m2
-Mitten im Stadtzentrum von Hochdorf vermieten wir kostengünstige, möblierte 1-Zimmer Apartments. De…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 35
-700
-CHF
-/Monat
-Zu vermieten 1 Z ? (34qm) im Zentrum vo…
-Hauptstrasse 35, 6280 Hochdorf
-Array
-34 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-34 m2
-700.- PRO MONAT inkl. InternetanschlussAb 1 Juli In einer grossen Jugendstil Wohnung mit grossem E…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'350
-CHF
-/Monat
-4Zimmer Wohnung
-Adresse auf Anfrage, 6280 Hochdorf
-Array
-4 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-4Zimmer Wohnung per sofort oder nach Vereinbahrung zu vermieten.3Stock ohne Lift jedoch Zentral zum…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stegacker 2
-1'360
-CHF
-/Monat
-Top 2.5 Zimmer Wohnungen mit sonnigem B…
-Stegacker 2, 6280 Hochdorf
-Array
-2.5 Zimmer
-55 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-55 m2
-Schöne 2.5 Zi. Whg / zentral / ruhig / grosser Gartenplatz / wie Eigentumswohnung / mit eig. WM/TU!…
+Nahe der Schule sowie des Dorfzentrums in Hochdorf, vermieten wir eine preiswerte 4.5-Zimmerwohnung…
 Teilen
 E-Mail
 Facebook
@@ -394,47 +343,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bellevuestrasse 2
-1'750
-CHF
-/Monat
-neu sanierte Wohnung mit Charme
-Bellevuestrasse 2, 6280 Hochdorf
-Array
-5.5 Zimmer
-118 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-118 m2
-Etage
-Das schmucke Haus steht im Zentrum von Hochdorf. Zahlreiche Einkaufsmöglichkeiten, Bahnhof und Schu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sagenbachstrasse 14
-2'020
-CHF
-/Monat
-Modern, Grosszügig, Zentral
-Sagenbachstrasse 14, 6280 Hochdorf
-Array
-5.5 Zimmer
-122 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-122 m2
-Hier lässt es sich wohnenDie Liegenschaft steht am Zentrumsrand von Hochdorf in einem ruhigen Quart…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Rigiring 3
 1'600
 CHF
@@ -451,66 +359,6 @@ Zimmer
 Wohnfläche
 95 m2
 Per sofort oder nach Vereinbarung vermieten wir diese gemütliche 4.5 Zimmer-Wohnung in Hochdorf. Di…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bellevuestrasse 42
-1'050
-CHF
-/Monat
-Günstige 2 Zimmerwohnung im gemütlichen…
-Bellevuestrasse 42, 6280 Hochdorf
-Array
-2 Zimmer
-42 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-42 m2
-An gepflegter Liegenschaft vermieten wir eine schöne, geräumige 2 Zimmerwohnung mit grünem Umschwun…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schützenfeld 6
-1'590
-CHF
-/Monat
-GEMÜTLICHES FAMILIENHEIM
-Schützenfeld 6, 6280 Hochdorf
-Array
-4.5 Zimmer
-97 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-97 m2
-Sind Sie auf der Suchen nach einer heimeligen Familienwohnung, zentral und trotzdem ruhig gelegen? …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alpenstrasse 19
-1'450
-CHF
-/Monat
-ZENTRAL UND RENOVIERT
-Alpenstrasse 19, 6280 Hochdorf
-Array
-3.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-70 m2
-Diese gemütliche und grossräumige Dachwohnung befindet sich an einer zentraler und ruhiger Lage. Da…
 Teilen
 E-Mail
 Facebook

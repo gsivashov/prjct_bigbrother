@@ -116,58 +116,202 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-580
+Schlyffistrasse
+400
 CHF
-Rue du Rhône , à deux pas de Rive - Bur…
-Adresse auf Anfrage, 1207 Genève
+/Monat
+Büro, Studio, Praxis oder Geschäftssitz…
+Schlyffistrasse, 8806 Bäch SZ
 Array
-394 m2
 Objekttyp
 Büro
-Wohnfläche
-394 m2
-Situé sur la rive gauche, dans l'hyper centre de Genève, cet emplacement à proximité immédiate de t…
+Wir haben noch Platz in unserem Büro für Selbstständige und Alleinschaffende. Vielleicht möchten Si…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Zürcherstrasse 18
-920
+Moosstrasse 21-23
+226
 CHF
-/Monat
-Ladenlokal/Büro an prominenter Lage am …
-Zürcherstrasse 18, 5210 Windisch
+Businesflächen im Amselhof - die Amseln…
+Moosstrasse 21-23, 8134 Adliswil
 Array
-2 Zimmer
-50 m2
 Objekttyp
 Büro
-Zimmer
-2
-Wohnfläche
-50 m2
-Attraktives Ladenlokal/Büro an prominenter Lage zu vermieten.Verkehrstechnisch sind diese Räumlichk…
+Viel Platz für ambitionierte Geschäftsideen!Dank flexibler Layouts, möglicher Teilungen oder Zusamm…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-490
+Zürichstrasse 52
+208
 CHF
-/Monat
-Einzelbüro, 20m2
-Adresse auf Anfrage, 8702 Zollikon
+Höfe Adliswil - Setzen Sie Ihr Business…
+Zürichstrasse 52, 8134 Adliswil
 Array
-1 Zimmer
-20 m2
 Objekttyp
 Büro
-Zimmer
+Stadt trifft auf Natur - Finden Sie Ihr neues Arbeitsambiente mit urbanem Charakter!An der Zürichst…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aumattstrasse 136
+180
+CHF
+Büroräumlichkeiten an zentraler Lage fü…
+Aumattstrasse 136, 4153 Reinach BL
+Array
+Objekttyp
+Büro
+Büroräumlichkeiten an zentraler Lage in ReinachSind Sie auf der Suche nach einem Gewerbeobjekt im S…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Regina-Kägi-Strasse 11
+864
+CHF
+/Monat
+Heller Büroraum, inkl. NK und Reinigung…
+Regina-Kägi-Strasse 11, 8050 Zürich
+Array
+40 m2
+Objekttyp
+Büro
+Wohnfläche
+40 m2
+Weil unser Unternehmen gewachsen ist, müssen wir diesen tollen Standort in Oerlikon leider aufgeben…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rütistrasse 30
+650
+CHF
+/Monat
+Grosszügiger Büroraum mit viel Potential
+Rütistrasse 30, 8032 Zürich
+Array
+Objekttyp
+Büro
+Per 1. Oktober 2021 oder nach Vereinbarung vermieten wir diesen grosszügigen Büroraum im Erdgeschos…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+De Castella-Platz 4
+830
+CHF
+/Monat
+Büro in Steueroase
+De Castella-Platz 4, 3280 Greng
+Array
+16 m2
+Objekttyp
+Büro
+Wohnfläche
+16 m2
+GrengZuden Büroräumen gehört die Mitbenutzung von:praktische Teeküche2 separate WC…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+De Castella-Platz 4
+375
+CHF
+/Monat
+Büro in Steueroase
+De Castella-Platz 4, 3280 Greng
+Array
+16 m2
+Objekttyp
+Büro
+Wohnfläche
+16 m2
+GrengZuden Büroräumen gehört die Mitbenutzung von:praktische Teeküche2 separate WC…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Pré-de-la-Bichette 1
+Preis auf Anfrage
+Bureaux de 430m2 au coeur des Nations
+Pré-de-la-Bichette 1, 1202 Genève
+Array
+430 m2
+Objekttyp
+Büro
+Wohnfläche
+430 m2
+Magnifique surface de bureaux au coeur du quartier des Nations, dans un immeuble moderne, sécurisé …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mines 2 - Spaces Secheron
 1
-Wohnfläche
-20 m2
-Wir vermieten nach Vereinbarung ein Einzelbüro mit Fenster und abschliessbarer Türe, ohne Möbilieru…
+CHF
+/Monat
+Spaces - Sécheron
+Mines 2 - Spaces Secheron, 1202 Genève
+Array
+Objekttyp
+Büro
+Chez Spaces Sécheron, vous ne pouvez qu'être inspiré par votre environnement professionnel, avec so…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bouchet 2
+Preis auf Anfrage
+Bureaux 2'200m2 au 1er étage
+Bouchet 2, 1209 Genève
+Array
+Objekttyp
+Büro
+Etage
+Bâtiment neuf labélisé Minergie, à 10 minutes de l'aéroport, de la gare Cornavin et à 5 minutes à p…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+rue Bovy-Lysberg 8
+7'013
+CHF
+/Monat
+Bureaux 152 m2 quartier des Banques
+rue Bovy-Lysberg 8, 1204 Genève
+Array
+Objekttyp
+Büro
+Situés au coeur du quartier des Banques, dans un bel immeuble ancien, surface de bureaux de 152m2 a…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rue de Langallerie 9
+5'324
+CHF
+/Monat
+Bureaux de 177m2
+Rue de Langallerie 9, 1003 Lausanne
+Array
+Objekttyp
+Büro
+Bureaux en très bon état d'une surface de 177m² au 4ème étage idéalement situés au centre-ville de …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Cours de Rive 13-15
+Preis auf Anfrage
+CBD - 550m2 de bureaux au 7ème étage
+Cours de Rive 13-15, 1204 Genève
+Array
+Objekttyp
+Büro
+En plein centre ville, magnifiques surfaces situées Cours de Rive 13-15, au 7ème étage avec vue imp…
 Teilen
 E-Mail
 Facebook
@@ -201,16 +345,17 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Denges 28G
-1'229
+Vernay 14
+14'667
 CHF
 /Monat
-Bureaux de 55m² à louer
-Denges 28G, 1027 Lonay
+Nouvelles surfaces administratives à pr…
+Vernay 14, 1196 Gland
 Array
 Objekttyp
 Büro
-Cette surface de 55 m2 se trouve au premier étage. D'autres surfaces de bureaux sont disponibles da…
+Etage
+L'Ellipse est une nouvelle construction qui offre un cadre de travail idéal et qui répond aux derni…
 Teilen
 E-Mail
 Facebook
@@ -244,183 +389,16 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Vernay 14
-44'000
+Denges 28G
+1'229
 CHF
 /Monat
-Nouveau Bâtiment ? à proximité immédiat…
-Vernay 14, 1196 Gland
+Bureaux de 55m² à louer
+Denges 28G, 1027 Lonay
 Array
 Objekttyp
 Büro
-Etage
-L'Ellipse est une nouvelle construction qui offre un cadre de travail idéal et qui répond aux derni…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chemin de la Vallée 7-11
-6'639
-CHF
-/Monat
-Bureau lumineux de 310 m2 à deux pas de…
-Chemin de la Vallée 7-11, 1180 Rolle
-Array
-Objekttyp
-Büro
-Situé au 1er étage d'un immeuble se trouvant à deux pas de la gare de Rolle dans un quartier commer…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chemin de la Vallée 7-11
-3'004
-CHF
-/Monat
-A deux pas de la gare
-Chemin de la Vallée 7-11, 1180 Rolle
-Array
-Objekttyp
-Büro
-Surface brute de 136 m2 au 1er étage d'un immeuble à proximité immédiate de la gare de Rolle. Cette…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Vernay 14
-14'667
-CHF
-/Monat
-Nouvelles surfaces administratives à pr…
-Vernay 14, 1196 Gland
-Array
-Objekttyp
-Büro
-Etage
-L'Ellipse est une nouvelle construction qui offre un cadre de travail idéal et qui répond aux derni…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Longeraie 9
-33'120
-CHF
-/Monat
-Surface aménagée - Vue et visibilité
-Longeraie 9, 1110 Morges
-Array
-Objekttyp
-Büro
-Etage
-Disposant d'une très bonne visibilité depuis l'axe autoroutier A1, cet immeuble moderne offre un ca…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Place de Pury 11
-14'840
-CHF
-/Monat
-Hyper-centre de Neuchâtel
-Place de Pury 11, 2000 Neuchâtel
-Array
-Objekttyp
-Büro
-Etage
-Immeuble de caractère situé sur la fameuse place Pury, cet objet vous offre une visibilité et acces…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Route de la Corniche 3
-58'077
-CHF
-/Monat
-Surfaces administratives de 1787m2 divi…
-Route de la Corniche 3, 1066 Epalinges
-Array
-Objekttyp
-Büro
-Etage
-Vous êtes une société dans le domaine des sciences de la vie ? Vous aimeriez développer vos activit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Route de la Corniche 3AB
-4'125
-CHF
-/Monat
-Surfaces administratives de 100m2 au se…
-Route de la Corniche 3AB, 1066 Epalinges
-Array
-100 m2
-Objekttyp
-Büro
-Wohnfläche
-100 m2
-Etage
-Vous êtes une société dans le domaine des sciences de la vie ? Vous aimeriez développer vos activit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chemin du Vernay 14
-3'625
-CHF
-/Monat
-Nouvelles surfaces administratives divi…
-Chemin du Vernay 14, 1196 Gland
-Array
-Objekttyp
-Büro
-Etage
-L'Ellipse est une nouvelle construction qui offre un cadre de travail idéal et qui répond aux derni…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Longeraie 9
-14'584
-CHF
-/Monat
-Surface entièrement équipée dans un imm…
-Longeraie 9, 1110 Morges
-Array
-Objekttyp
-Büro
-Etage
-Idéalement situé à 150m des accès autoroutiers, à proximité du centre commercial "La Gottaz" et off…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Route de la Corniche 3
-31'265
-CHF
-/Monat
-Surfaces administratives de 962m2 au se…
-Route de la Corniche 3, 1066 Epalinges
-Array
-Objekttyp
-Büro
-Etage
-Vous êtes une société dans le domaine des sciences de la vie ? Vous aimeriez développer vos activit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Morgines 12
-11'520
-CHF
-/Monat
-Bureaux 433m2 - Geneva Business Center
-Morgines 12, 1213 Petit-Lancy
-Array
-Objekttyp
-Büro
-Etage
-Exclusivité Le bâtiment Geneva Business Center est composé de 2 bâtiments construits durant les ann…
+Cette surface de 55 m2 se trouve au premier étage. D'autres surfaces de bureaux sont disponibles da…
 Teilen
 E-Mail
 Facebook

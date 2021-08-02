@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-embrach/
 Title: Wohnungen & Häuser mieten in Embrach - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Embrach - Immostreet.ch: ImmoStreet.ch hat 63 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Embrach - Immostreet.ch: ImmoStreet.ch hat 66 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-63 Resultate gefunden ·
+66 Resultate gefunden ·
 Wohnungen & Häuser mieten in Embrach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,58 +122,139 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Eichenweg 5
-1'720
+Dorfstrasse 141
+940
 CHF
 /Monat
-Familienfreundliche, helle 3.5-Zimmerwo…
-Eichenweg 5, 8424 Embrach
+Befristete 3.5-Zimmer-Genossenschaftswo…
+Dorfstrasse 141, 8424 Embrach
 Array
 3.5 Zimmer
+61 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Per 1. August 2021 vermieten wir an zentraler Lage diese tolle Wohnung mit folgenden Vorzügen:
--…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hardstrasse 54
-3'450
-CHF
-/Monat
-FAMILIENFREUNDLICH MIT GROSSZÜGIGEM GAR…
-Hardstrasse 54, 8424 Embrach
-Array
-4.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-4.5
 Wohnfläche
-150 m2
-An sonniger und leicht erhöhter Lage lockt dieses gepflegte 4.5-Zimmer-Reiheneckhaus mit rustikalem…
+61 m2
+Für diese 3.5-Zimmer Genossenschaftswohnung suchen wir eine aufgestellte Mieterschaft. Sie dürfen s…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Stationsstrasse 117
-1'650
+Im Gässli
+1'700
 CHF
 /Monat
-"3-Zimmerwohnung in der nähe vom Bahnho…
-Stationsstrasse 117, 8424 Embrach
+Dachwohnung im alten Dorfkern
+Im Gässli, 8424 Embrach
 Array
-3 Zimmer
+2.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+2.5
+Wohnfläche
+75 m2
+Das Bauernhaus aus dem 17jh. steht in der Embracher Kernzone und wurde 2004 komplett renoviert. Die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Roggenfeldstrasse 19
+1'705
+CHF
+/Monat
+Ruhige und doch zentrale 3 1/2-Zimmer-W…
+Roggenfeldstrasse 19, 8424 Embrach
+Array
+3.5 Zimmer
+92 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
-Beschreibung:
-Günstige 3-Zimmerwohnung in der nähe vom Bahnhof Embrach-Rorbas per sofort oder na…
+3.5
+Wohnfläche
+92 m2
+Per 1. Oktober 2021 vermieten wir diese helle 3 1/2-Zimmer-Wohnung im Eigentumsstandard, welche in …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hardstrasse 37
+2'160
+CHF
+/Monat
+Maisonette mit grossem Gartensitzplatz
+Hardstrasse 37, 8424 Embrach
+Array
+4.5 Zimmer
+130 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+130 m2
+Moderne 4.5 Zimmer-Atelierwohnung über die Treppe gelangen Sie in das Atelier und den Abstellraum i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'300
+CHF
+/Monat
+EINZELZIMMER IN TRAUMHAFTER LIEGENSCHAFT
+Adresse auf Anfrage, 8424 Embrach
+Array
+1 Zimmer
+130 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+1
+Wohnfläche
+130 m2
+Diese charmante 5.5 Zimmer Wohnung im Eigentumsstandard befindet sich im Herzen von Embrach. Es wir…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schützenhausstrasse 111
+2'105
+CHF
+/Monat
+Miete 4,5 Zimmer
+Schützenhausstrasse 111, 8424 Embrach
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Familienfreundliche 4,5 Zimmerwohnung frei ab 1.10.2021 Embrach-Center, Nähe Coop, Migros und Denne…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zürcherstrasse 24
+1'650
+CHF
+/Monat
+Wochnung
+Zürcherstrasse 24, 8424 Embrach
+Array
+2.5 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+60 m2
+Ganz schöne Wochnung
 Teilen
 E-Mail
 Facebook
@@ -196,145 +277,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Stationstrasse 59
-1'881
-CHF
-/Monat
-.
-Stationstrasse 59, 8424 Embrach
-Array
-3.5 Zimmer
-108 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-108 m2
-Verpassen Sie Ihre Chance nicht auf diese charmante 3.5-Zimmer-Dachwohnung. Die Liegenschaft wurde …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schützenhausstrasse 60
-1'780
-CHF
-/Monat
-Grosszügige Gartenwohnung per sofort in…
-Schützenhausstrasse 60, 8424 Embrach
-Array
-4.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-70 m2
-Embrach gehört zum Bezirk Bülach. Es ist Sitz eines Notariatskreises sowie des Betreibungskreises E…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Feld 22B
-1'480
-CHF
-/Monat
-Helle und grosszügige Wohnung
-Im Feld 22B, 8424 Embrach
-Array
-2.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-70 m2
-Geräumige Wohnung im EG für Single und Paare sucht neuen Mieter per 1. Juli 2021. Einkaufsmöglichke…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Tannenstrasse 73 d
-2'240
-CHF
-/Monat
-Traumhafte 2.5 Zimmerwohnung inkl. Gara…
-Tannenstrasse 73 d, 8424 Embrach
-Array
-2.5 Zimmer
-64 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-64 m2
-In der 2020 neu erstellten Siedlung Rägeboge in Embrach vermieten wir per 01.08.2021 diese traumhaf…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schützenhausstrasse 75
-1'770
-CHF
-/Monat
-Schützenhausstrasse 75, Embrach
-Schützenhausstrasse 75, 8424 Embrach
-Array
-4.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-75 m2
-Wir bieten Ihnen, ab sofort oder nach Vereinbarung, eine schöne, ruhig und im Grünen gelegene 4.5 Z…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Irchelstrasse 18
-60
-CHF
-/Monat
-Suchen Sie einen Autoabstellplatz im Fr…
-Irchelstrasse 18, 8424 Embrach
-Array
-Objekttyp
-Offener Parkplatz
-Dann haben wir genau das Richtige für Sie! Per sofort oder nach Vereinbarung vermieten wir einen Au…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Feld 20c
-1'674
-CHF
-/Monat
-Grosszügige Wohnung mit eigenem Waschtu…
-Im Feld 20c, 8424 Embrach
-Array
-3.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-88 m2
-Helles grosszügiges Wohn-Esszimmer mit ca. 40 m²offene Küche durch Bar abgetrennt mit allem Komfort…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Stationsstrasse 117
 1'650
 CHF
 /Monat
-Günstige 3-Zimmerwohnung nahe Bahnhof E…
+"3-Zimmerwohnung in der nähe vom Bahnho…
 Stationsstrasse 117, 8424 Embrach
 Array
 3 Zimmer
@@ -342,154 +289,213 @@ Objekttyp
 Wohnung, Flach
 Zimmer
 3
-Wir vermieten eine charmante 3 Zimmer-Wohnung an ruhiger Lage, einige Minuten vom Bahnhof Embrach-R…
+Beschreibung:
+Günstige 3-Zimmerwohnung in der nähe vom Bahnhof Embrach-Rorbas per sofort oder na…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Im Feld 22a
-1'737
+Haldenstrasse 17
+2'350
 CHF
 /Monat
-Schöne Wohnung mit eigenem Waschturm
-Im Feld 22a, 8424 Embrach
+Helle und moderne 4 ½ Zi-Wohnung (Parte…
+Haldenstrasse 17, 8424 Embrach
+Array
+4.5 Zimmer
+98 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+98 m2
+Wir vermieten eine grosszügig und top modern ausgestattete 4.5 Zimmer Wohnung in einem gepflegten 7…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wildbachstrasse 23
+1'510
+CHF
+/Monat
+An ruhiger Wohnlage im Grünen
+Wildbachstrasse 23, 8424 Embrach
+Array
+2.5 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+60 m2
+An ruhiger Lage im Grünen vermieten wir diese im Jahr 2010 renovierte Wohnung, welche Ihnen folgend…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Querstrasse 4
+1'145
+CHF
+/Monat
+Befristete 4.5 Zimmer-Maisonette-Genoss…
+Querstrasse 4, 8424 Embrach
+Array
+4.5 Zimmer
+89 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+89 m2
+Für diese 4.5-Zimmer Genossenschaftswohnung auf zwei Etagen suchen wir eine aufgestellte Mieterscha…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse 155
+1'750
+CHF
+/Monat
+grosszügige, praktisch geschnittene 3.5…
+Dorfstrasse 155, 8424 Embrach
 Array
 3.5 Zimmer
-86 m2
+75 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-86 m2
-Moderner Grundriss mit offener Küche mit allem Komfort wie Geschirrspüler, Glaskeramikherd, grosser…
+75 m2
+Per 01.10.2021 oder nach Vereinbarung ist an der Dorfstrasse 155 in Embrach diese schöne 3.5-Zimmer…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Dorfstrasse 78
-50
+Einstellplätze, Wildbachstr.
+120
 CHF
 /Monat
-Aussenparkplatz in Embrach bei der Post
-Dorfstrasse 78, 8424 Embrach
+Einstellplätze zu vermieten
+Einstellplätze, Wildbachstr., 8424 Embrach
 Array
 Objekttyp
-Offener Parkplatz
-Aussenparkplatz in Embrach bei der PostPer 1. September 2021 vermieten wir einen Aussenparkplatz.Mi…
+Tiefgarage
+Per sofort oder nach Vereinbarung vermieten wir an der Wildbachstrasse 7-25 in Embrach Einstellplät…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Dorfstrasse 153
-110
+Rosenweg 10
+1'188
 CHF
 /Monat
-Garagenabstellplätze
-Dorfstrasse 153, 8424 Embrach
-Array
-Objekttyp
-Offener Parkplatz
-Garageneinstellplätze zu vermieten:
-Garageneinstellplätze à Fr. 110.- pro Monat
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Querstrasse 1
-1'493
-CHF
-/Monat
-tolle 2-Zimmerwohnung mit Balkon
-Querstrasse 1, 8424 Embrach
-Array
-2 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wir vermieten diese 2-Zimmerwohnung im 2. OG mit Balkon.
-Die Wohnung verfügt über:
-- Wohn-/Sc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kellersackerstrasse 6
-2'050
-CHF
-/Monat
-Neu renovierte 5.5-Zimmerwohnung in ruh…
-Kellersackerstrasse 6, 8424 Embrach
-Array
-5.5 Zimmer
-106 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-106 m2
-Per sofort oder nach Vereinbarung vermieten wir diese
-renovierte 5.5-Zimmerwohnung im Eigentumss…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Gässli
-1'700
-CHF
-/Monat
-Dachwohnung im alten Dorfkern
-Im Gässli, 8424 Embrach
+Gemütliche 2.5-Zimmerwohnung in der Näh…
+Rosenweg 10, 8424 Embrach
 Array
 2.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-70 m2
-Die Wohnung wurde 2015 zusammen mit zwei anderen Wonungen in einem Bauernhaus aus dem 17 Jh. neu ge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Langackerstrasse 2
-1'216
-CHF
-/Monat
-Urgemütliche 2.5 Zimmer Wohnung im DG
-Langackerstrasse 2, 8424 Embrach
-Array
-2.5 Zimmer
-80 m2
+43 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-80 m2
-Nachmieter per 01.07.2021 für helle und gemütliche 2,5-Zi-Wohnung in Embrach gesucht. Eignet sich g…
+43 m2
+Etage
+Per 1. Oktober 2021 vermieten wir die 2.5-Zimmerwohnung mit einem grossen und sonnigen Balkon.Ausse…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Im Feld 35
-1'571
+Schützenhausstrasse 109
+1'970
 CHF
 /Monat
-4.5-Zimmerwohnung mit Balkon in familie…
-Im Feld 35, 8424 Embrach
+Erstbezug nach Totalsanierung: Familien…
+Schützenhausstrasse 109, 8424 Embrach
 Array
 4.5 Zimmer
+105 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Wir vermieten diese tolle 4.5-Zimmerwohnung mit Balkon.
-Die Wohnung ist wie folgt ausgestattet:…
+Wohnfläche
+105 m2
+Etage
+ruhig und sonnig, in grüner Umgebung mit viel PlatzSpielplatz vor dem Haus, Schule…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bülacherstrasse 19a-19c (EH)
+130
+CHF
+/Monat
+Einstellplatz in Embrach
+Bülacherstrasse 19a-19c (EH), 8424 Embrach
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten per sofort oder nach Vereinbarung in Embrach einen Einstellplatz für CHF 130.00/Monat…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schützenhausstrasse 105
+1'903
+CHF
+/Monat
+4.5-Zimmerwohnung an kinderfreundlicher…
+Schützenhausstrasse 105, 8424 Embrach
+Array
+4.5 Zimmer
+109 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+109 m2
+Diese sonnige Gartenwohnung  ist per 1. Oktober 2021 zu vermieten.  Die Wohnung verfügt über folgen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Taleggstrasse 23
+2'082
+CHF
+/Monat
+Suchen Sie eine Wohnung in einer Kinder…
+Taleggstrasse 23, 8424 Embrach
+Array
+3.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+97 m2
+Etage
+Per 1. Oktober 2021 vermieten wir diese helle sowie grosszügig geschnittene 3.5-Zimmer-Wohnungen mi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Feld 33
+60
+CHF
+/Monat
+Parkplatz im Freien
+Im Feld 33, 8424 Embrach
+Array
+Objekttyp
+Offener Parkplatz
+Wir vermieten per 1. Oktober 2021 unbefristet den Parkplatz Nr. 5.Im Feld 33, 8424 Embrach, CHF 60.…
 Teilen
 E-Mail
 Facebook

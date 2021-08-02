@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -101,7 +101,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -155,97 +155,177 @@ WIR-ANTEIL
 22 Treffer
 Suche zurücksetzen
 VW
-T5 Multivan Family Match
-CHF 23'900
-ab CHF 257/Monat
-06.2012
+T5 Multivan 2.5 TDI (Bus)
+CHF 15'000
+ab CHF 162/Monat
+08.2003
 Handschaltung
-95'000 km
+380'000 km
+Diesel
+Vorderradantrieb
+grau
+174 PS
+VD
+Merken
+VW
+T5 Multivan 2.5 TDI (Bus)
+08.2003
+174 PS
+380'000 km
+CHF 15'000
+Merken
+ab CHF 162/Monat
+VW
+T5 Multivan Highline
+CHF 13'000
+ab CHF 140/Monat
+10.2008
+Handschaltung
+262'000 km
+Diesel
+Vorderradantrieb
+blau
+174 PS
+TG
+Merken
+VW
+T5 Multivan Highline
+10.2008
+174 PS
+262'000 km
+CHF 13'000
+Merken
+ab CHF 140/Monat
+VW
+T5 Multivan Highline 2.5 TDI
+CHF 22'490
+ab CHF 242/Monat
+06.2008
+Handschaltung
+161'200 km
 Diesel
 Vorderradantrieb
 schwarz
-140 PS
-NW
+131 PS
+BE
 Merken
 VW
-T5 Multivan Family Match
-06.2012
-140 PS
-95'000 km
-CHF 23'900
+T5 Multivan Highline 2.5 TDI
+06.2008
+131 PS
+161'200 km
+CHF 22'490
 Merken
-ab CHF 257/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
+ab CHF 242/Monat
 VW
-T5 Multivan 2.0 Bi-TDI CR CL Life 4Motion DSG
-CHF 23'900
-ab CHF 257/Monat
-03.2013
-Automat
-175'000 km
+T5 Multivan 2.0 Bi-TDI CR Highline 4Motion
+CHF 25'999
+ab CHF 280/Monat
+10.2010
+Handschaltung
+135'500 km
 Diesel
 Allradantrieb
 grau
 180 PS
-LU
+SZ
 Merken
 VW
-T5 Multivan 2.0 Bi-TDI CR CL Life...
-03.2013
+T5 Multivan 2.0 Bi-TDI CR Highlin...
+10.2010
 180 PS
-175'000 km
-CHF 23'900
+135'500 km
+CHF 25'999
 Merken
-ab CHF 257/Monat
+ab CHF 280/Monat
+VW
+T5 Multivan Family 2.5 TDI
+CHF 16'500
+ab CHF 178/Monat
+01.2009
+Automat
+228'000 km
+Diesel
+Vorderradantrieb
+grau
+131 PS
+ZH
+Merken
+VW
+T5 Multivan Family 2.5 TDI
+01.2009
+131 PS
+228'000 km
+CHF 16'500
+Merken
+ab CHF 178/Monat
+VW
+T5 Multivan 2.0 TDI CR Comfortline Cup 4Motion
+CHF 29'500
+ab CHF 317/Monat
+05.2014
+Handschaltung
+118'000 km
+Diesel
+Allradantrieb
+schwarz
+140 PS
+GR
+Merken
+VW
+T5 Multivan 2.0 TDI CR Comfortlin...
+05.2014
+140 PS
+118'000 km
+CHF 29'500
+Merken
+ab CHF 317/Monat
+VW
+T5 Multivan 2.0 Bi-TDI CR Family Edition 25 DSG
+CHF 31'000
+ab CHF 333/Monat
+12.2014
+Automat
+136'000 km
+Diesel
+Vorderradantrieb
+weiss
+180 PS
+VD
+Merken
+VW
+T5 Multivan 2.0 Bi-TDI CR Family ...
+12.2014
+180 PS
+136'000 km
+CHF 31'000
+Merken
+ab CHF 333/Monat
+VW
+T5 Multivan 2.0 TDI CR Comfortline Edition 25 4Mot
+CHF 37'800
+ab CHF 406/Monat
+07.2013
+Handschaltung
+84'200 km
+Diesel
+Allradantrieb
+weiss
+140 PS
+BE
+Merken
+VW
+T5 Multivan 2.0 TDI CR Comfortlin...
+07.2013
+140 PS
+84'200 km
+CHF 37'800
+Merken
+ab CHF 406/Monat
 35-Punkte-Check
 Kostenlose Probefahrt
 Garantieversprechen
 Faires Eintauschangebot
-VW
-T5 Multivan 2.0 Bi-TDI CR Family Cup DSG
-CHF 31'900
-ab CHF 343/Monat
-03.2015
-Automat
-133'000 km
-Diesel
-Vorderradantrieb
-violett
-180 PS
-BE
-Merken
-VW
-T5 Multivan 2.0 Bi-TDI CR Family ...
-03.2015
-180 PS
-133'000 km
-CHF 31'900
-Merken
-ab CHF 343/Monat
-VW
-T5 Multivan 2.0 Wohnmobil
-CHF 30'500
-ab CHF 328/Monat
-09.2006
-Handschaltung
-167'900 km
-Diesel
-Vorderradantrieb
-sonstiges
-131 PS
-SO
-Merken
-VW
-T5 Multivan 2.0 Wohnmobil
-09.2006
-131 PS
-167'900 km
-CHF 30'500
-Merken
-ab CHF 328/Monat
 VW
 T5 Multivan 2.0 Bi-TDI CR Fam. Ed. 25 4Motion DSG
 CHF 27'900
@@ -268,215 +348,135 @@ CHF 27'900
 Merken
 ab CHF 300/Monat
 VW
-T5 Multivan
-CHF 28'500
-ab CHF 307/Monat
-10.2013
+T5 Multivan Family Cup
+CHF 42'900
+ab CHF 461/Monat
+11.2014
 Handschaltung
-101'000 km
+24'000 km
+Diesel
+Allradantrieb
+rot
+180 PS
+SG
+Merken
+VW
+T5 Multivan Family Cup
+11.2014
+180 PS
+24'000 km
+CHF 42'900
+Merken
+ab CHF 461/Monat
+VW
+T5 Multivan 2.0 Bi-TDI CR Panamericana 4Motion DSG
+CHF 32'900
+ab CHF 354/Monat
+12.2012
+Automat
+133'000 km
+Diesel
+Allradantrieb
+anthrazit
+180 PS
+VD
+Merken
+VW
+T5 Multivan 2.0 Bi-TDI CR Panamer...
+12.2012
+180 PS
+133'000 km
+CHF 32'900
+Merken
+ab CHF 354/Monat
+VW
+T5 Multivan 2.0 TDI CR Family 4Motion
+CHF 28'900
+ab CHF 311/Monat
+03.2011
+Handschaltung
+65'700 km
 Diesel
 Allradantrieb
 silber
 140 PS
+BE
+Merken
+VW
+T5 Multivan 2.0 TDI CR Family 4Mo...
+03.2011
+140 PS
+65'700 km
+CHF 28'900
+Merken
+ab CHF 311/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+VW
+T5 Multivan Highline 2.5 TDI 4M
+CHF 21'500
+ab CHF 231/Monat
+03.2007
+Handschaltung
+149'800 km
+Diesel
+Allradantrieb
+silber
+174 PS
 GR
 Merken
 VW
-T5 Multivan
-10.2013
-140 PS
-101'000 km
-CHF 28'500
+T5 Multivan Highline 2.5 TDI 4M
+03.2007
+174 PS
+149'800 km
+CHF 21'500
 Merken
-ab CHF 307/Monat
+ab CHF 231/Monat
 VW
-T5 Multivan 2.0 TSI Family
-CHF 22'400
-ab CHF 241/Monat
-02.2012
+T5 Multivan 2.0 TDI CR Comfortline 4Motion
+CHF 27'800
+ab CHF 299/Monat
+09.2012
 Handschaltung
-108'000 km
-Benzin
-Vorderradantrieb
-braun
-204 PS
-JU
-Merken
-VW
-T5 Multivan 2.0 TSI Family
-02.2012
-204 PS
-108'000 km
-CHF 22'400
-Merken
-ab CHF 241/Monat
-VW
-T5 Multivan 2.0 Bi-TDI CR Family Cup DSG
-CHF 29'900
-ab CHF 322/Monat
-09.2014
-Automat
-153'000 km
+103'000 km
 Diesel
-Vorderradantrieb
-weiss
-180 PS
-TG
-Merken
-VW
-T5 Multivan 2.0 Bi-TDI CR Family ...
-09.2014
-180 PS
-153'000 km
-CHF 29'900
-Merken
-ab CHF 322/Monat
-VW
-T5 Multivan 2.0 TDI CR Family Last Edition DSG
-CHF 29'800
-ab CHF 321/Monat
-04.2015
-Automat
-153'200 km
-Diesel
-Vorderradantrieb
+Allradantrieb
 blau
 140 PS
 GR
 Merken
 VW
-T5 Multivan 2.0 TDI CR Family Las...
-04.2015
+T5 Multivan 2.0 TDI CR Comfortlin...
+09.2012
 140 PS
-153'200 km
-CHF 29'800
-Merken
-ab CHF 321/Monat
-VW
-T5 Multivan 2.0 TDI CR Startline DSG
-CHF 23'500
-ab CHF 253/Monat
-04.2013
-Automat
-192'000 km
-Diesel
-Vorderradantrieb
-braun
-140 PS
-FR
-Merken
-VW
-T5 Multivan 2.0 TDI CR Startline ...
-04.2013
-140 PS
-192'000 km
-CHF 23'500
-Merken
-ab CHF 253/Monat
-VW
-T5 Multivan 2.0 Bi-TDI CR Highline 4Motion DSG
-CHF 32'900
-ab CHF 354/Monat
-04.2011
-Automat
-108'900 km
-Diesel
-Allradantrieb
-weiss
-180 PS
-VD
-Merken
-VW
-T5 Multivan 2.0 Bi-TDI CR Highlin...
-04.2011
-180 PS
-108'900 km
-CHF 32'900
-Merken
-ab CHF 354/Monat
-VW
-T5 Multivan TDI Automat ** CH-Fahrzeug **
-CHF 25'900
-ab CHF 279/Monat
-10.2013
-Automat
-125'000 km
-Diesel
-Vorderradantrieb
-weiss
-180 PS
-ZG
-Merken
-VW
-T5 Multivan TDI Automat ** CH-Fah...
-10.2013
-180 PS
-125'000 km
-CHF 25'900
-Merken
-ab CHF 279/Monat
-VW
-T5 Multivan 2.0 Bi-TDI Comfortline Edition 25 4M DSG
-CHF 27'800
-ab CHF 299/Monat
-02.2011
-Automat
-173'000 km
-Diesel
-Allradantrieb
-weiss
-180 PS
-TG
-Merken
-VW
-T5 Multivan 2.0 Bi-TDI Comfortlin...
-02.2011
-180 PS
-173'000 km
+103'000 km
 CHF 27'800
 Merken
 ab CHF 299/Monat
 VW
-T5 Multivan 2.0 TDI 180 Panamerican DSG
-CHF 32'900
-ab CHF 354/Monat
-12.2012
+T5 Multivan 2.0 TDI 180 Highline DSG 4m
+CHF 19'990
+ab CHF 215/Monat
+03.2011
 Automat
-133'000 km
-Diesel
-Allradantrieb
-grau
-180 PS
-VD
-Merken
-VW
-T5 Multivan 2.0 TDI 180 Panameric...
-12.2012
-180 PS
-133'000 km
-CHF 32'900
-Merken
-ab CHF 354/Monat
-VW
-T5 Multivan 2.0 Bi-TDI CR HL Prem. 4Motion DSG
-CHF 27'500
-ab CHF 296/Monat
-07.2013
-Automat
-189'500 km
+207'600 km
 Diesel
 Allradantrieb
 schwarz
 180 PS
-AG
+NW
 Merken
 VW
-T5 Multivan 2.0 Bi-TDI CR HL Prem...
-07.2013
+T5 Multivan 2.0 TDI 180 Highline ...
+03.2011
 180 PS
-189'500 km
-CHF 27'500
+207'600 km
+CHF 19'990
 Merken
-ab CHF 296/Monat
+ab CHF 215/Monat
 1
 1
 2

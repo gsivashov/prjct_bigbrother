@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/en/rent/apartment/subcategory-maisonette/at-zurich/
 Title: Rent Duplex in Zurich - Immostreet.ch
-Description: Rent Duplex in  Zurich - Immostreet.ch: ImmoStreet.com has 24 offers and will help you to find the best deal in  and the surrounding area.
+Description: Rent Duplex in  Zurich - Immostreet.ch: ImmoStreet.com has 27 offers and will help you to find the best deal in  and the surrounding area.
 
 Your browser is out of date!
 Update your browser to view this website correctly. Update my browser now
@@ -116,7 +116,7 @@ Filter
 Search
 Adapt Search
 The search subscription has been added to your Immobox.
-24 results found ·
+27 results found ·
 Rent Duplex in Zurich
 Price (ascending)
 Price (descending)
@@ -129,206 +129,341 @@ Postal code (ascending)
 Postal code (descending)
 Sorting
 Submit
-Im Waidegg 5
-1'990
+Regensdorferstrasse 27a
+2'480
 CHF
 /Month
-3.5-Zimmerwohnung am Bucheggplatz zu ve…
-Im Waidegg 5, 8037 Zürich
+Attikawohnung nähe Dorfzentrum mit Terr…
+Regensdorferstrasse 27a, 8049 Zürich
 Array
 3.5 Rooms
-75 m2
+90 m2
 Object type
 Apartment, Duplex, Maisonette
 Rooms
 3.5
 Living space
-75 m2
-Per sofort vermieten wir diese 3.5-Zimmerwohnung am Bucheggplatz inkl. Aussenparkplatz von zusätzli…
+90 m2
+Moderne, grosszügige Wohnung im 1. Ober- und Attika-geschoss gelegen. Platten- und Parkettböden. Kü…
 Share
 E-mail
 Facebook
 Whatsapp
-Anemonenstrasse 40 C
-3'540
+Bodmerstrasse 2
+5'950
 CHF
 /Month
-Geniessen Sie modernste Wohn-Ausstattung
-Anemonenstrasse 40 C, 8047 Zürich
+5 Zimmer- Maisonette- Wohnung mit 3 Bal…
+Bodmerstrasse 2, 8002 Zürich
 Array
-5.5 Rooms
-157 m2
+5 Rooms
+180 m2
 Object type
 Apartment, Duplex
 Rooms
-5.5
+5
 Living space
-157 m2
-Nach Vereinbarung suchen wir einen Nachmieter für diese schöne 5.5-Zimmer-Maisonette-Attikawohnung,…
-Share
-E-mail
-Facebook
-Whatsapp
-Sonnenbergstrasse
-Price on request
-Die Kunst des schöner Wohnens
-Sonnenbergstrasse, 8032 Zürich
-Array
-5.5 Rooms
-350 m2
-Object type
-Apartment, Duplex
-Rooms
-5.5
-Living space
-350 m2
+180 m2
 Floor
-Sehr modern. Sehr privat. Sehr grosszügig. Bei dieser 51/2 Zimmer Duplex-Wohnung sind die Steigerun…
+ECKE GENFER-/ BODMERSTRASSE CITY MAISONETTE IN DER ENGEAn Toplage in Zürich -Enge, in Gehdistanz zu…
 Share
 E-mail
 Facebook
 Whatsapp
-Im Trichtisal 9
-4'630
+Grossmannstrasse 30
+2'735
 CHF
 /Month
-Natur- und Zentrumsnah zugleich
-Im Trichtisal 9, 8053 Zürich
+Tolle Familienwohnung an bester Lage!
+Grossmannstrasse 30, 8049 Zürich
 Array
-4.5 Rooms
-154 m2
+4 Rooms
+98 m2
 Object type
 Apartment, Duplex
 Rooms
-4.5
+4
 Living space
-154 m2
-Floor
-Die Überbauung Trichtisal liegt am Siedlungsrand von Witikon, in unmittelbarer Waldnähe. Hier wohne…
-Share
-E-mail
-Facebook
-Whatsapp
-Kanzleistrasse 18
-3'615
-CHF
-/Month
-Urban und voller Tradition
-Kanzleistrasse 18, 8004 Zürich
-Array
-3.5 Rooms
-107 m2
-Object type
-Apartment, Duplex
-Rooms
-3.5
-Living space
-107 m2
-Hervorragend erschlossen und umgeben vom pulsierenden Leben im Zürcher Kreis 4 vermieten wir per 01…
-Share
-E-mail
-Facebook
-Whatsapp
-Ackerstrasse 54
-1'920
-CHF
-/Month
-Charmante Zürcher Altbauwohnung im Herz…
-Ackerstrasse 54, 8005 Zürich
-Array
-2 Rooms
-76 m2
-Object type
-Apartment, Duplex, Maisonette
-Rooms
-2
-Living space
-76 m2
-Floor
-Wir vermieten per 1. Oktober 2021 eine
-2-Zimmer-Maisonette-Wohnung im EG / 1.OG
-Die Wohnung bi…
-Share
-E-mail
-Facebook
-Whatsapp
-Seestrasse 318A
-2'340
-CHF
-/Month
-2.5 Zimmer Maisonette Wohnung mit Dacht…
-Seestrasse 318A, 8038 Zürich
-Array
-2.5 Rooms
-78 m2
-Object type
-Apartment, Duplex
-Rooms
-2.5
-Living space
-78 m2
-Floor
-Sehr geehrte Interessentinnen und InteressentenWir bieten Ihnen eine ruhige, heimelige Wohnung im 2…
-Share
-E-mail
-Facebook
-Whatsapp
-Schaffhauserstrasse 230 C
-2'592
-CHF
-/Month
-Geniale Wohnung an zentraler Lage
-Schaffhauserstrasse 230 C, 8057 Zürich
-Array
-3.5 Rooms
-108 m2
-Object type
-Apartment, Duplex
-Rooms
-3.5
-Living space
-108 m2
-Wir sind auf der Suche nach neuen Mietern für diese schöne Maisonette-Wohnung in einer heimeligen S…
-Share
-E-mail
-Facebook
-Whatsapp
-Seefeldstrasse 102
-3'000
-CHF
-/Month
-Schöne Maisonette-Wohnung im trendigen …
-Seefeldstrasse 102, 8008 Zürich
-Array
-4.5 Rooms
-123 m2
-Object type
-Apartment, Duplex
-Rooms
-4.5
-Living space
-123 m2
-Wir vermieten per sofort oder nach Vereinbarung diese wunderschöne 4.5 Zimmer-Wohnung im Seefeld.Di…
+98 m2
+Per 01.09.2021 oder nach Vereinbarung sind wir auf der Suche nach neuen Mietern für diese tolle Woh…
 Share
 E-mail
 Facebook
 Whatsapp
 Address on request
-2'980
+5'000
 CHF
 /Month
-RENOVIERTES SCHMUCKSTÜCK
-Address on request, 8057 Zürich
+5 Zimmer Jugendstil-Maisonette Wohnung
+Address on request, 8032 Zürich
+Array
+5 Rooms
+145 m2
+Object type
+Apartment, Duplex
+Rooms
+5
+Living space
+145 m2
+Floor
+***Aufgrund hohem Interesse ist eine Besichtigung nur mit vollständigen Bewerbungsunterlagen (Betre…
+Share
+E-mail
+Facebook
+Whatsapp
+Address on request
+6'990
+CHF
+/Month
+SICHT ÜBER ALLE DÄCHER AN BEVORZUGTER L…
+Address on request, 8032 Zürich
+Array
+5.5 Rooms
+180 m2
+Object type
+Apartment, Duplex
+Rooms
+5.5
+Living space
+180 m2
+Hier mieten Sie eine Seltenheit. Die Lage ist sehr bevorzugt nähe dem Römerhof und Dolderbahn. Die …
+Share
+E-mail
+Facebook
+Whatsapp
+Ettenfeldstrasse 7
+2'750
+CHF
+/Month
+Schöne Maisonettwohnung
+Ettenfeldstrasse 7, 8052 Zürich
+Array
+4.5 Rooms
+Object type
+Apartment, Duplex
+Rooms
+4.5
+Floor
+Ich suche einen Nachmieter für meine schöne Wohnung. Im Preis ist eine Doppelgarage mit Anschluss (…
+Share
+E-mail
+Facebook
+Whatsapp
+Zollikerstrasse 149
+4'700
+CHF
+/Month
+Rustikaler Chaletflair im Zürcher Seefe…
+Zollikerstrasse 149, 8008 Zürich
+Array
+5.5 Rooms
+Object type
+Apartment, Duplex, Maisonette
+Rooms
+5.5
+Im ehemaligen Schulhaus Riesbach im Kreis 8 haben Sie nun die Möglichkeit diese aussergewöhnliche W…
+Share
+E-mail
+Facebook
+Whatsapp
+Binzmühlestr. 78a
+3'390
+CHF
+/Month
+Die ideale Wohnung für Sie!
+Binzmühlestr. 78a, 8050 Zürich
+Array
+4.5 Rooms
+141 m2
+Object type
+Apartment, Duplex
+Rooms
+4.5
+Living space
+141 m2
+Diese Wohnung hat das gewisse etwas, das Wohnen so attraktiv macht und ist sozusagen ihr eigenes Ei…
+Share
+E-mail
+Facebook
+Whatsapp
+Habsburgstrasse 38
+4'220
+CHF
+/Month
+schöne Maisonettewohnung in Wipkingen z…
+Habsburgstrasse 38, 8037 Zürich
+Array
+4.5 Rooms
+135 m2
+Object type
+Apartment, Duplex
+Rooms
+4.5
+Living space
+135 m2
+Besichtigungstermin:Freitag, 30. Juli 2021 um 17.00 Uhrklingeln bei Zedigh/MusiDer Besichtigungster…
+Share
+E-mail
+Facebook
+Whatsapp
+Address on request
+4'950
+CHF
+/Month
+Städtische Eleganz der Jahrhundertwende…
+Address on request, 8006 Zürich
+Array
+4.5 Rooms
+135 m2
+Object type
+Apartment, Duplex, Maisonette
+Rooms
+4.5
+Living space
+135 m2
+Floor
+2008 wurde die Liegenschaft von unseren Architekten mit viel Liebe zum Detail renoviert. Sie besitz…
+Share
+E-mail
+Facebook
+Whatsapp
+Stampfenbachplatz 4
+3'940
+CHF
+/Month
+*Maisonette-Wohnung direkt beim Zürcher…
+Stampfenbachplatz 4, 8006 Zürich
 Array
 3.5 Rooms
-110 m2
+116 m2
 Object type
 Apartment, Duplex
 Rooms
 3.5
 Living space
-110 m2
-Sie wohnen hier an einer exklusiven Lage. Schon beim Eintreten fällt auf, dass die Wohnung mit eine…
+116 m2
+Wir vermieten diese moderne 3.5 Zimmer-Maisonette - Wohnung. Das Haus wurde im Jahr 2012 total sani…
+Share
+E-mail
+Facebook
+Whatsapp
+Niederdorfstrasse 61
+3'185
+CHF
+/Month
+Erstklassige Maisonette-Wohnung in der …
+Niederdorfstrasse 61, 8001 Zürich
+Array
+2.5 Rooms
+68 m2
+Object type
+Apartment, Duplex
+Rooms
+2.5
+Living space
+68 m2
+An top Lage, im Haus "Zum verlorenen Sohn", vermieten wir diese exklusive 2.5-Zimmer-Maisonette-Woh…
+Share
+E-mail
+Facebook
+Whatsapp
+Höschgasse 68
+4'700
+CHF
+/Month
+einfach nur Top!!! Top Lage, Top Wohnung
+Höschgasse 68, 8008 Zürich
+Array
+4.5 Rooms
+149 m2
+Object type
+Apartment, Duplex
+Rooms
+4.5
+Living space
+149 m2
+Raumverteilung:1.DG: Schlafräume so wie 2 Badezimmer2.DG: Wohn- und Essbereich, Küche und BalkonDAS…
+Share
+E-mail
+Facebook
+Whatsapp
+Berghaldenstr. 54
+1'921
+CHF
+/Month
+Wohnen in einem Riegelhaus im alten Dor…
+Berghaldenstr. 54, 8053 Zürich
+Array
+3.5 Rooms
+76 m2
+Object type
+Apartment, Duplex
+Rooms
+3.5
+Living space
+76 m2
+Die schöne und spezielle Wohnung ist auf drei Etagen aufgeteilt und befindet sich in einem ruhigen …
+Share
+E-mail
+Facebook
+Whatsapp
+Grosswiesenstrasse 165
+3'390
+CHF
+/Month
+Stadtnah Wohnen im Eigentumsstandard
+Grosswiesenstrasse 165, 8051 Zürich
+Array
+4.5 Rooms
+128 m2
+Object type
+Apartment, Duplex, Maisonette
+Rooms
+4.5
+Living space
+128 m2
+Floor
+Per 1. September 2021 vermieten wir diese zweigeschossige 4.5-Zimmerwohnung mit trendigen Schieferb…
+Share
+E-mail
+Facebook
+Whatsapp
+Gotthardstrasse 53
+6'600
+CHF
+/Month
+Moderne Maisonettewohnung an bester Lage
+Gotthardstrasse 53, 8002 Zürich
+Array
+4.5 Rooms
+144 m2
+Object type
+Apartment, Duplex
+Rooms
+4.5
+Living space
+144 m2
+Die Gotthardstrasse 53 ist Teil eines typischen Ensembles der Gründerzeit in Blockrandbebauung. Die…
+Share
+E-mail
+Facebook
+Whatsapp
+Lindenstrasse 21
+5'340
+CHF
+/Month
+Wohnen im Ballet Mécanique
+Lindenstrasse 21, 8008 Zürich
+Array
+4.5 Rooms
+132 m2
+Object type
+Apartment, Duplex
+Rooms
+4.5
+Living space
+132 m2
+In einem der Wohnquartiere im Herzen von Zürich, nahe am See und nur wenige Meter vom Heidi-Weber M…
 Share
 E-mail
 Facebook
@@ -391,147 +526,6 @@ Rooms
 Living space
 150 m2
 In einem kinderfreundlichen Quartier, an einer ruhigen Seitenstrasse gelegen und mitten im Zürcher …
-Share
-E-mail
-Facebook
-Whatsapp
-Address on request
-Price on request
-Exklusive Maisonette-Penthouse-Wohnung …
-Address on request, 8008 Zürich
-Array
-5.5 Rooms
-236 m2
-Object type
-Apartment, Duplex
-Rooms
-5.5
-Living space
-236 m2
-An begehrtester Lage im Stadtteil Seefeld, direkt am Seeufer, umgeben von der Zürcher Oper und dem …
-Share
-E-mail
-Facebook
-Whatsapp
-Leutschenbachstrasse 48
-3'700
-CHF
-/Month
-Erster Mietzins offeriert. Neue moderne…
-Leutschenbachstrasse 48, 8050 Zürich
-Array
-3.5 Rooms
-124 m2
-Object type
-Apartment, Duplex
-Rooms
-3.5
-Living space
-124 m2
-Floor
-Erster Mietzins offeriert!Per sofort oder nach Vereinbarung, vermieten wir eine moderne und grossrä…
-Share
-E-mail
-Facebook
-Whatsapp
-Gotthardstrasse 53
-6'600
-CHF
-/Month
-Moderne Maisonettewohnung an bester Lage
-Gotthardstrasse 53, 8002 Zürich
-Array
-4.5 Rooms
-144 m2
-Object type
-Apartment, Duplex
-Rooms
-4.5
-Living space
-144 m2
-Die Gotthardstrasse 53 ist Teil eines typischen Ensembles der Gründerzeit in Blockrandbebauung. Die…
-Share
-E-mail
-Facebook
-Whatsapp
-Leutschenbachstrasse 42 - WFC306
-3'180
-CHF
-/Month
-Viel Raum und Platz in der doppelstöcki…
-Leutschenbachstrasse 42 - WFC306, 8050 Zürich
-Array
-3.5 Rooms
-102 m2
-Object type
-Apartment, Duplex
-Rooms
-3.5
-Living space
-102 m2
-Floor
-Diese Werkflügel-Maisonette-Wohnung im Eigentumsstandard hat ein einzigartiges Raumgefühl mit offen…
-Share
-E-mail
-Facebook
-Whatsapp
-Blütenstrasse 2
-2'980
-CHF
-/Month
-Schöne, komplett sanierte Maisonettewoh…
-Blütenstrasse 2, 8057 Zürich
-Array
-3.5 Rooms
-110 m2
-Object type
-Apartment, Duplex
-Rooms
-3.5
-Living space
-110 m2
-Floor
-Neue, helle Küche mit PlattenbodenNeues Bad mit PlattenbodenSchöner neuer Eichenparkett matt in der…
-Share
-E-mail
-Facebook
-Whatsapp
-Utoquai 37
-13'040
-CHF
-/Month
-Schöne Wohnung mit einzigartigem Seebli…
-Utoquai 37, 8008 Zürich
-Array
-4 Rooms
-215 m2
-Object type
-Apartment, Duplex
-Rooms
-4
-Living space
-215 m2
-Wir sind auf der Suche nach neuen Mietern für diese exklusive Luxuswohnung mit viel Charme in einer…
-Share
-E-mail
-Facebook
-Whatsapp
-Waldmannstrasse 12a
-6'490
-CHF
-/Month
-Etwas ganz besonderes im Herzen der Sta…
-Waldmannstrasse 12a, 8001 Zürich
-Array
-3.5 Rooms
-114 m2
-Object type
-Apartment, Duplex
-Rooms
-3.5
-Living space
-114 m2
-Per sofort vermieten wir die idyllische 3.5-Zimmerwohnung mit hochwertigem Ausbau, direkt an einer …
 Share
 E-mail
 Facebook

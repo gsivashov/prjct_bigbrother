@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-rothrist/
 Title: Wohnungen & Häuser mieten in Rothrist - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Rothrist - Immostreet.ch: ImmoStreet.ch hat 58 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Rothrist - Immostreet.ch: ImmoStreet.ch hat 52 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-58 Resultate gefunden ·
+52 Resultate gefunden ·
 Wohnungen & Häuser mieten in Rothrist
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,23 +122,82 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Grienweg 8
-980
+Grüthgässli 3
+1'940
 CHF
 /Monat
-Freistehendes Gebäude mit Büro - Hier s…
-Grienweg 8, 4852 Rothrist
+Moderne EG-Wohnung im Breitenpark!
+Grüthgässli 3, 4852 Rothrist
+Array
+4.5 Zimmer
+117 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+117 m2
+Per 01.11.2021 oder nach Vereinbarung vermieten wir diese grosszügige Wohnung mit folgender Ausstat…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberwilerweg 43b
+1'290
+CHF
+/Monat
+3 1/2 Zimmerwohnung an ruhige Sackgasse
+Oberwilerweg 43b, 4852 Rothrist
+Array
+3.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+77 m2
+Preis exkl. Nebenkosten (200 CHF) + Garagenbox (100 CHF) + Parkplatz vor Garagenbox (50 CHF) Preis …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 10 b
+1'100
+CHF
+/Monat
+Zentrale, helle Wohnung zu vermieten
+Bahnhofstrasse 10 b, 4852 Rothrist
+Array
+2.5 Zimmer
+48 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+48 m2
+Per 1. Oktober oder nach Vereinbarung vermieten wir diese helle, optimal gelegene 2.5 Zimmer-Wohnun…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Chaletweg, 34
+962
+CHF
+/Monat
+Nachmieter für 3-ZW gesucht
+Chaletweg, 34, 4852 Rothrist
 Array
 3 Zimmer
-140 m2
+65 m2
 Objekttyp
-Verkauf, Lager
+Wohnung, Flach
 Zimmer
 3
 Wohnfläche
-140 m2
-Etage
-Freistehendes Gebäude in Wohnquartier für mit hellem Lagerraum resp. Werkstatt (für leises Gewerbe …
+65 m2
+Nachmieter für 3 Zimmerwohnung gesucht Adresse: Chaletweg 34 4852 Rothrist Stockwerk: 1 OG ca. 65 m…
 Teilen
 E-Mail
 Facebook
@@ -163,42 +222,77 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-tulpenweg 9
-1'675
+Rubernstrasse 47
+2'300
 CHF
 /Monat
-Nach Mitter gesucht ab sofort ihn Roth…
-tulpenweg 9, 4852 Rothrist
+Luxus Wohnung in Rothrist
+Rubernstrasse 47, 4852 Rothrist
 Array
 3.5 Zimmer
-80 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Wohnfläche
-80 m2
-Schöne 3,5 Zimmer Wohnung schöne zentral man hat alles um sich rum Grosen Balkon 2 Parkplatz mit ne…
+Nachmieter gesucht ab August möglich komplet renoviert.2 Terrasse 1 Garten Whirlpool + DuscheSteame…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Oberwilerweg 53
-1'330
+Bernstrasse 122
+1'522
 CHF
 /Monat
-Attraktive Wohnung im Hochparterre - ze…
-Oberwilerweg 53, 4852 Rothrist
+Schön wohnen mitten in Rothrist
+Bernstrasse 122, 4852 Rothrist
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnen mitten in Rothrist
+Im Gebäude der AKB wird eine 4.5-Zimmerwohnung frei. Einkaufsmöglichke…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bernstrasse 69
+1'410
+CHF
+/Monat
+RUHIG UND TROTZDEM ZENTRAL
+Bernstrasse 69, 4852 Rothrist
 Array
 3.5 Zimmer
-80 m2
+70 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-80 m2
-Attraktive Wohnung im Hochparterre Schöne und preiswerte 3.5 Zimmer-Wohnung zu vermietenDie 3.5-Zim…
+70 m2
+Die Liegenschaft befindet sich in einem Drei-Familienhaus gleich an der Hauptstrasse. Die 3.5-Zimme…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bernstrasse 118
+1'680
+CHF
+/Monat
+Grosse, kinderfreundliche Wohnung in Ro…
+Bernstrasse 118, 4852 Rothrist
+Array
+5.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+105 m2
+Sind Sie auf der Suche nach einer grossen, kinderfreundlichen Wohnung im Zentrum von Rothrist? Da s…
 Teilen
 E-Mail
 Facebook
@@ -223,300 +317,180 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Oberwilerweg 53
-1'350
+Grundweg 9
+50
 CHF
 /Monat
-Preiswerte Wohnung an zentraler Lage - …
-Oberwilerweg 53, 4852 Rothrist
+Parkplatz am Grundweg in Rothrist zu ve…
+Grundweg 9, 4852 Rothrist
+Array
+Objekttyp
+Offener Parkplatz
+Die Liegenschaft liegt in Rothrist, verkehrsmässig ausgezeichnet erschlossen und befindet sich an d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Neuweg 44
+1'780
+CHF
+/Monat
+Auf der Suche nach etwas Speziellem?
+Neuweg 44, 4852 Rothrist
 Array
 4 Zimmer
-90 m2
+120 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4
 Wohnfläche
-90 m2
-Schöne und preiswerte 4 Zimmer-Wohnung zu vermietenDie 4-Zimmer-Wohnung ist grosszügig geschnitten …
+120 m2
+Wir dürfen hier glücklicherweise einige Schlagwörter nennen, die diese Mietwohnung beschreiben: Cha…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Rubernstrasse 8
-1'330
+Sennhofweg 7
+1'290
 CHF
 /Monat
-Tolle und moderne 2.5 ZWG im Erdgeschoss
-Rubernstrasse 8, 4852 Rothrist
-Array
-2.5 Zimmer
-67 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-67 m2
-Eine wunderschöne 2.5 - Zimmerwohnung im Erdgeschoss die Ihren Erwartungen gerecht wird. Die Wohnun…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchweg 14
-1'295
-CHF
-/Monat
-Grosszügige Wohnung an ruhiger Lage
-Kirchweg 14, 4852 Rothrist
-Array
-4.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-75 m2
-Diese 4½ - Zimmerwohnung befindet sich in einem ruhigen und doch zentralem Quartier. Diverse Einkau…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Feldweg 3
-1'660
-CHF
-/Monat
-Wohn(T)raum - 3.5-Zimmer-Wohnung an bes…
-Feldweg 3, 4852 Rothrist
+Willkommen in Ihrem neuen Zuhause
+Sennhofweg 7, 4852 Rothrist
 Array
 3.5 Zimmer
-97 m2
+70 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-97 m2
-Diese wunderschöne Wohnung liegt an bester Lage im Zentrum von Rothrist und lässt den künftigen Mie…
+70 m2
+Sommer-Aktion: wir offerieren Ihnen die Wohnung im ersten Monat gratis. Sie unterschreiben für 12 M…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Parkweg 4
-1'870
+Rosenweg 23c
+1'300
 CHF
 /Monat
-Grosszügig und Modern
-Parkweg 4, 4852 Rothrist
-Array
-3.5 Zimmer
-106 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-106 m2
-An einer ruhigen Lage präsentiert sich diese modern ausgestattete Liegenschaft in bevorzugter Wohng…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Natternweg 5
-1'950
-CHF
-/Monat
-Wunderschöne und grosse Dachwohnung mit…
-Natternweg 5, 4852 Rothrist
-Array
-4.5 Zimmer
-176 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Wohnfläche
-176 m2
-Per 01.09.2021 oder auf Vereinbarung wir diese helle und moderne 4.5 Zimmerwohnung im 3. OG in eine…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'690
-CHF
-/Monat
-4,5 Zimmer Wohnung in 4852 Rothrist zu …
-Adresse auf Anfrage, 4852 Rothrist
-Array
-4.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-95 m2
-Diese wunderschöne 4,5 Zimmer Wohnung, befindet sich im 1.OG des Hauses, welches durch einen Lift z…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Parkweg 14
-2'340
-CHF
-/Monat
-LICHTDURCHFLUTETE WOHNUNG IM GRÜNEN
-Parkweg 14, 4852 Rothrist
-Array
-4.5 Zimmer
-145 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-145 m2
-Lassen Sie sich vom Charme dieser Wohnung verzaubern!Dieses moderne Mietobjekt bietet Ihnen:
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Natternweg 5
-1'570
-CHF
-/Monat
-Schöne 3,5 Zimmer Wohnung in ruhigem un…
-Natternweg 5, 4852 Rothrist
-Array
-3.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-95 m2
-Per 01.September 2021 vermieten wir diese helle und moderne 3,5 Wohnung im 2. OG. Die Wohnung befin…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-E. Zimmermannweg 4
-670
-CHF
-/Monat
-Helle 1 1/2-Zimmer-Dachwohnung
-E. Zimmermannweg 4, 4852 Rothrist
+1/12 Zimmer Wohnung
+Rosenweg 23c, 4852 Rothrist
 Array
 1.5 Zimmer
+65 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 1.5
-nähe Dorfzentrum und Bahnhof, an ruhiger LageParkett und Plattenböden, neue Küche mit Glaskeramik u…
+Wohnfläche
+65 m2
+Schöne geräumige Dachwohnung mit eigenem Estrich und Keller Abteil. Eigene WM Tumbler. Ruhige Lage …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bernstrasse 16
-2'130
+ROTHRIST
+2'500
 CHF
 /Monat
-Grossflächige 4.5-ZW mit modernen Ausba…
-Bernstrasse 16, 4852 Rothrist
+Schöne Wohnung im ruhige Lage
+ROTHRIST, 4852 Rothrist
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Schöne moderne Wohnung total renoviert mit Garten und Sitzplatz in ruhige Lage Küche mit Mini Bar K…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bernstrasse 170
+2'775
+CHF
+/Monat
+Haben wir den Raum um Ihren Traum zu ve…
+Bernstrasse 170, 4852 Rothrist
+Array
+Objekttyp
+Verkauf, Gewerbe
+Nach Vereinbarung vermieten wir eine grosszügige Gewerbefläche, welche optimal als Atelier, Ausstel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 14 c
+1'540
+CHF
+/Monat
+Die Wohnung für Ihre Familie
+Bahnhofstrasse 14 c, 4852 Rothrist
 Array
 4.5 Zimmer
-129 m2
+81 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-129 m2
-Elegantes Design - Lichtdurchflutete Räume - Hochwertige Materialien - Viel WohnkomfortWir können I…
+81 m2
+Wir vermieten nach Vereinbarung diese gemütliche 4.5-Zimmerwohnung in einer kinderfreundlichen Über…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-2'340
+Bernstrasse 168
+224
+CHF
+Vielseitig nutzbare Fläche für Ihre Sel…
+Bernstrasse 168, 4852 Rothrist
+Array
+Objekttyp
+Verkauf, Geschäft
+Suchen Sie eine tolle Fläche um Ihren Traum des eigenen Ladens zu verwirklichen? Dann haben wir gen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 10 a
+1'350
 CHF
 /Monat
-Suche Nachmieter für 4.5 Zimmerwohnung
-Adresse auf Anfrage, 4852 Rothrist
+Geräumige, helle Wohnung mit Balkon
+Bahnhofstrasse 10 a, 4852 Rothrist
 Array
-4.5 Zimmer
-145 m2
+3.5 Zimmer
+67 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+3.5
 Wohnfläche
-145 m2
-Nachmieter auf den 1.7.21 gesucht, für eine 145qm² grosse und sehr helle 4.5 Zimmer Wohnung in Roth…
+67 m2
+Diese helle Wohnung bietet nebst eines geräumigen Wohnbereichs eine offene und helle Küche. Alle Zi…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bernstrasse 158
-1'590
+Bahnhofstrasse 14 a
+1'530
 CHF
 /Monat
-FRISCH RENOVIERT - STILLVOLLE WOHNUNG I…
-Bernstrasse 158, 4852 Rothrist
+Ihr Ausblick über Rothrist
+Bahnhofstrasse 14 a, 4852 Rothrist
 Array
-4 Zimmer
-98 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-98 m2
-Die Wohnung befindet sich in einem charmanten Dreifamilienhaus, welches sich an zentraler Lage befi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bernstrasse 158
-1'330
-CHF
-/Monat
-CHARMANTE DACHWOHNUNG AN ZENTRALER LAGE
-Bernstrasse 158, 4852 Rothrist
-Array
-2.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-77 m2
-Die Wohnung befindet sich in einem charmanten Dreifamilienhaus, welches sich an zentraler Lage befi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grundweg 11
-1'260
-CHF
-/Monat
-Schöne und preiswerte 4-Zimmer Wohnung …
-Grundweg 11, 4852 Rothrist
-Array
-4 Zimmer
+3.5 Zimmer
 88 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
-4
+3.5
 Wohnfläche
 88 m2
-Etage
-Sehr schöne Wohnung an sonniger Lage mit grossem, modernemBalkon in 6-FamilienHaus.Geräumige Küche …
+Wir vermieten diese tolle Wohnung an einer familienfreundlichen Überbauung.Die Attikawohnung lädt m…
 Teilen
 E-Mail
 Facebook

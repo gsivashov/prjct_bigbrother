@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -101,7 +101,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -154,338 +154,325 @@ TI
 WIR-ANTEIL
 224 Treffer
 Suche zurücksetzen
-NEU
 VW
-T6 2.0 Bi-TDI
-CHF 23'900
-ab CHF 257/Monat
-04.2016
+T6.1 Multivan 2.0 TDI Trendline Liberty
+CHF 46'000
+ab CHF 494/Monat
+11.2020
 Handschaltung
-115'000 km
+11'000 km
 Diesel
 Vorderradantrieb
-weiss
-180 PS
-FR
-Merken
-VW
-T6 2.0 Bi-TDI
-04.2016
-180 PS
-115'000 km
-CHF 23'900
-Merken
-ab CHF 257/Monat
-VW
-T6.1 2.0 TDI 4Motion 3,2T
-CHF 43'400
-ab CHF 467/Monat
--
-Handschaltung
-1 km
-Diesel
-Allradantrieb
 schwarz
-150 PS
-FR
-Merken
-VW
-T6.1 2.0 TDI 4Motion 3,2T
--
-150 PS
-1 km
-CHF 43'400
-Merken
-ab CHF 467/Monat
-VW
-T6 2.0 TDI
-CHF 19'900
-ab CHF 214/Monat
-11.2015
-Handschaltung
-164'000 km
-Diesel
-Vorderradantrieb
-grau
-150 PS
-FR
-Merken
-VW
-T6 2.0 TDI
-11.2015
-150 PS
-164'000 km
-CHF 19'900
-Merken
-ab CHF 214/Monat
-VW
-T6 California 2.0 Bi-TDI Ocean 4Motion
-CHF 78'500
-ab CHF 844/Monat
-04.2019
--
-19'500 km
-Diesel
--
-weiss
-199 PS
-TG
-Merken
-VW
-T6 California 2.0 Bi-TDI Ocean 4M...
-04.2019
-199 PS
-19'500 km
-CHF 78'500
-Merken
-ab CHF 844/Monat
-VW
-T6 2.0 TDI 4Motion DSG
-CHF 24'900
-ab CHF 268/Monat
-01.2017
-Automat
-160'300 km
-Diesel
-Allradantrieb
-weiss
-150 PS
+110 PS
 BE
 Merken
 VW
-T6 2.0 TDI 4Motion DSG
-01.2017
-150 PS
-160'300 km
-CHF 24'900
+T6.1 Multivan 2.0 TDI Trendline L...
+11.2020
+110 PS
+11'000 km
+CHF 46'000
 Merken
-ab CHF 268/Monat
+ab CHF 494/Monat
 35-Punkte-Check
 Kostenlose Probefahrt
 Garantieversprechen
 Faires Eintauschangebot
 VW
-T6.1 Multivan 2.0 Bi-TDI Highline 4Motion DSG
-CHF 79'890
-ab CHF 858/Monat
--
+T6 California Coast Liberty
+CHF 48'900
+ab CHF 526/Monat
+04.2018
 Automat
-10 km
+64'200 km
+Diesel
+Vorderradantrieb
+weiss
+150 PS
+ZG
+Merken
+VW
+T6 California Coast Liberty
+04.2018
+150 PS
+64'200 km
+CHF 48'900
+Merken
+ab CHF 526/Monat
+VW
+T6 California TDI*Mercus*
+CHF 62'800
+ab CHF 675/Monat
+01.2021
+-
+1'200 km
+Diesel
+-
+weiss
+150 PS
+TG
+Merken
+VW
+T6 California TDI*Mercus*
+01.2021
+150 PS
+1'200 km
+CHF 62'800
+Merken
+ab CHF 675/Monat
+VW
+T6 2.0 TDI Entry
+CHF 24'900
+ab CHF 268/Monat
+04.2018
+Handschaltung
+16'200 km
+Diesel
+Vorderradantrieb
+weiss
+102 PS
+ZH
+Merken
+VW
+T6 2.0 TDI Entry
+04.2018
+102 PS
+16'200 km
+CHF 24'900
+Merken
+ab CHF 268/Monat
+VW
+T6 2.0 TDI Entry
+CHF 14'500
+ab CHF 156/Monat
+11.2015
+Handschaltung
+181'000 km
+Diesel
+Vorderradantrieb
+rot
+102 PS
+ZH
+Merken
+VW
+T6 2.0 TDI Entry
+11.2015
+102 PS
+181'000 km
+CHF 14'500
+Merken
+ab CHF 156/Monat
+VW
+T6.1 2.0 Bi-TDI 4Motion DSG
+CHF 49'900
+ab CHF 536/Monat
+04.2021
+Automat
+20 km
 Diesel
 Allradantrieb
 weiss
 204 PS
-SG
+GR
+Merken
+VW
+T6.1 2.0 Bi-TDI 4Motion DSG
+04.2021
+204 PS
+20 km
+CHF 49'900
+Merken
+ab CHF 536/Monat
+VW
+T6.1 Multivan 2.0 TDI Trendline Liberty 4Motion DSG
+CHF 54'850
+ab CHF 590/Monat
+10.2020
+Automat
+11'000 km
+Diesel
+Allradantrieb
+sonstiges
+150 PS
+SO
+Merken
+VW
+T6.1 Multivan 2.0 TDI Trendline L...
+10.2020
+150 PS
+11'000 km
+CHF 54'850
+Merken
+ab CHF 590/Monat
+VW
+T6.1 Multivan 2.0 TDI Trendline Liberty DSG
+CHF 44'900
+ab CHF 483/Monat
+07.2019
+Automat
+25'000 km
+Diesel
+Vorderradantrieb
+weiss
+150 PS
+VS
+Merken
+VW
+T6.1 Multivan 2.0 TDI Trendline L...
+07.2019
+150 PS
+25'000 km
+CHF 44'900
+Merken
+ab CHF 483/Monat
+VW
+T6.1 Multivan 2.0 Bi-TDI Highline 4Motion DSG
+CHF 78'800
+ab CHF 847/Monat
+-
+Automat
+100 km
+Diesel
+Allradantrieb
+schwarz
+204 PS
+ZH
 Merken
 VW
 T6.1 Multivan 2.0 Bi-TDI Highline...
 -
 204 PS
+100 km
+CHF 78'800
+Merken
+ab CHF 847/Monat
+VW
+T6 2.0 TDI 4Motion
+CHF 28'222
+ab CHF 304/Monat
+05.2016
+Handschaltung
+84'000 km
+Diesel
+Allradantrieb
+weiss
+150 PS
+TI
+Merken
+VW
+T6 2.0 TDI 4Motion
+05.2016
+150 PS
+84'000 km
+CHF 28'222
+Merken
+ab CHF 304/Monat
+VW
+T6.1 2.0 TDI Entry
+CHF 33'358
+ab CHF 359/Monat
+-
+Handschaltung
 10 km
+Diesel
+Vorderradantrieb
+weiss
+110 PS
+TI
+Merken
+VW
+T6.1 2.0 TDI Entry
+-
+110 PS
+10 km
+CHF 33'358
+Merken
+ab CHF 359/Monat
+VW
+T6.1 2.0 TDI Entry
+CHF 29'662
+ab CHF 319/Monat
+-
+Handschaltung
+10 km
+Diesel
+Vorderradantrieb
+weiss
+90 PS
+TI
+Merken
+VW
+T6.1 2.0 TDI Entry
+-
+90 PS
+10 km
+CHF 29'662
+Merken
+ab CHF 319/Monat
+VW
+T6.1 Multivan 2.0 TDI Trendline Liberty DSG
+CHF 48'900
+ab CHF 526/Monat
+09.2019
+Automat
+40'900 km
+Diesel
+Vorderradantrieb
+weiss
+150 PS
+LU
+Merken
+VW
+T6.1 Multivan 2.0 TDI Trendline L...
+09.2019
+150 PS
+40'900 km
+CHF 48'900
+Merken
+ab CHF 526/Monat
+VW
+T6 California 2.0 TDI Ocean GREY 4Motion
+CHF 79'890
+ab CHF 858/Monat
+05.2019
+-
+3'500 km
+Diesel
+-
+weiss
+150 PS
+SZ
+Merken
+VW
+T6 California 2.0 TDI Ocean GREY ...
+05.2019
+150 PS
+3'500 km
 CHF 79'890
 Merken
 ab CHF 858/Monat
 VW
-T6 California 2.0 TDI Beach
-CHF 47'900
-ab CHF 515/Monat
-05.2016
+T6 California 2.0 TDI Beach Liberty
+CHF 52'900
+ab CHF 569/Monat
+03.2017
 -
-47'950 km
+14'500 km
 Diesel
 -
 beige
 150 PS
-TG
+NW
 Merken
 VW
-T6 California 2.0 TDI Beach
-05.2016
+T6 California 2.0 TDI Beach Liber...
+03.2017
 150 PS
-47'950 km
-CHF 47'900
+14'500 km
+CHF 52'900
 Merken
-ab CHF 515/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-VW
-T6.1 Multivan 2.0 Bi-TDI Highline 4Motion DSG
-CHF 78'900
-ab CHF 848/Monat
--
-Automat
-20 km
-Diesel
-Allradantrieb
-schwarz
-204 PS
-TG
-Merken
-VW
-T6.1 Multivan 2.0 Bi-TDI Highline...
--
-204 PS
-20 km
-CHF 78'900
-Merken
-ab CHF 848/Monat
-VW
-T6.1 Multivan 2.0 Bi-TDI Highline 4Motion DSG
-CHF 78'900
-ab CHF 848/Monat
--
-Automat
-20 km
-Diesel
-Allradantrieb
-rot
-204 PS
-TG
-Merken
-VW
-T6.1 Multivan 2.0 Bi-TDI Highline...
--
-204 PS
-20 km
-CHF 78'900
-Merken
-ab CHF 848/Monat
-VW
-T6 2.0 TDI
-CHF 24'900
-ab CHF 268/Monat
-11.2016
-Handschaltung
-63'400 km
-Diesel
-Vorderradantrieb
-weiss
-150 PS
-ZH
-Merken
-VW
-T6 2.0 TDI
-11.2016
-150 PS
-63'400 km
-CHF 24'900
-Merken
-ab CHF 268/Monat
-VW
-T6 2.0 TDI
-CHF 22'900
-ab CHF 246/Monat
-11.2016
-Handschaltung
-108'900 km
-Diesel
-Vorderradantrieb
-weiss
-150 PS
-ZH
-Merken
-VW
-T6 2.0 TDI
-11.2016
-150 PS
-108'900 km
-CHF 22'900
-Merken
-ab CHF 246/Monat
-VW
-T6 2.0 Bi-TDI 4Motion
-CHF 30'900
-ab CHF 332/Monat
-11.2015
-Handschaltung
-91'000 km
-Diesel
-Allradantrieb
-grau
-204 PS
-AR
-Merken
-VW
-T6 2.0 Bi-TDI 4Motion
-11.2015
-204 PS
-91'000 km
-CHF 30'900
-Merken
-ab CHF 332/Monat
-VW
-T6 2.0 Bi-TDI *Standheizung*
-CHF 34'900
-ab CHF 375/Monat
-04.2018
-Handschaltung
-42'700 km
-Diesel
-Vorderradantrieb
-grau
-204 PS
-LU
-Merken
-VW
-T6 2.0 Bi-TDI *Standheizung*
-04.2018
-204 PS
-42'700 km
-CHF 34'900
-Merken
-ab CHF 375/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-VW
-T6 2.0 TDI 4Motion DSG
-CHF 25'800
-ab CHF 278/Monat
-01.2017
-Automat
-156'800 km
-Diesel
-Allradantrieb
-weiss
-150 PS
-BE
-Merken
-VW
-T6 2.0 TDI 4Motion DSG
-01.2017
-150 PS
-156'800 km
-CHF 25'800
-Merken
-ab CHF 278/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-VW
-T6 California 3000 2.0 TDI 150 Ocean Liberty 4m
-CHF 67'990
-ab CHF 731/Monat
-03.2019
--
-4'900 km
-Diesel
--
-weiss
-150 PS
-GR
-Merken
-VW
-T6 California 3000 2.0 TDI 150 Oc...
-03.2019
-150 PS
-4'900 km
-CHF 67'990
-Merken
-ab CHF 731/Monat
+ab CHF 569/Monat
 1
 1
 2

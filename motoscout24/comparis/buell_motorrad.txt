@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/motorrad/marktplatz/buell
 Title: Buell Motorrad occasion oder neu kaufen - comparis.ch
 Description: Buell Motorrad Occasion oder neu zum besten Preis kaufen. Im grössten Motorradmarkt der Schweiz alle Inserate der grössten Online Portale auf einen Blick
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -149,7 +147,7 @@ Favoriten (0)
 Ihre Auswahl
 Buell Motorrad
 Motorradmarkt: Occasionen und neue Motorräder
-80
+88
 Treffer für Sie gefunden auf allen grossen Schweizer Motorrad-Portalen
 Treffer für Sie gefunden auf allen grossen Schweizer Motorrad-Portalen
 Erstzulassung
@@ -656,88 +654,135 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Buell
-(80)
+(88)
 Buell Occasion
-(80)
+(88)
 Aufbau
 Buell Strasse
-(64)
+(69)
 Buell
 Modelle
 Buell 1125 CR
 (7)
 Buell 1125 R
-(7)
+(6)
 Buell XB12R Firebolt
 (4)
 Buell XB12S Lightning
-(12)
+(14)
 Buell XB12Scg Lightning Low
-(8)
+(10)
 Buell XB12Ss Lightning Long
 (8)
 Buell XB12X Ulysses
-(3)
+(4)
 Buell XB9R Firebolt
 (4)
 Buell XB9SX City Cross
-(3)
-Buell XB12Ss Lightning Long
+(5)
+Buell XB12Scg Lightning Low
 Alle Details
-Inserat vom 10.06.2021
+Inserat vom 02.08.2021
 Occasion
-04.2006
-24'700 km
+04.2009
+3'500 km
 1202 ccm
 Preis
-CHF 7'999.-
+CHF 7'490.-
 Alle Details
-CHF 7'999.-
+CHF 7'490.-
 Alle Details
-Buell XB12SX
-Lightning City X
+Buell XB9SX City Cross
 Alle Details
-Inserat vom 09.06.2021
+Inserat vom 31.07.2021
 Occasion
-06.2010
-23'971 km
-1201 ccm
+09.2020
+16'000 km
+985 ccm
 Preis
-CHF 8'500.-
+CHF 6'500.-
 Alle Details
-CHF 8'500.-
+CHF 6'500.-
 Alle Details
 Buell XB12Scg Lightning Low
 Alle Details
-Inserat vom 07.06.2021
+Inserat vom 31.07.2021
 Occasion
 07.2008
-45'000 km
+44'322 km
+1202 ccm
+Preis
+CHF 4'990.-
+Alle Details
+CHF 4'990.-
+Alle Details
+Buell XB12X Ulysses
+Alle Details
+Inserat vom 26.07.2021
+Occasion
+02.2008
+50'900 km
+1203 ccm
+Preis
+CHF 7'000.-
+Alle Details
+CHF 7'000.-
+Alle Details
+Buell XB12Ss Lightning Long
+Alle Details
+Inserat vom 24.07.2021
+Occasion
+04.2010
+14'900 km
 1201 ccm
 Preis
-CHF 7'500.-
+CHF 4'500.-
 Alle Details
-CHF 7'500.-
+CHF 4'500.-
+Alle Details
+Buell XB12Scg Lightning Low
+Alle Details
+Inserat vom 23.07.2021
+Occasion
+05.2007
+6'629 km
+1202 ccm
+Preis
+CHF 7'998.-
+Alle Details
+CHF 7'998.-
 Alle Details
 Buell XB12S Lightning
 Alle Details
-Inserat vom 03.06.2021
+Inserat vom 19.07.2021
 Occasion
-02.2008
-14'000 km
+02.2005
+57'000 km
 1201 ccm
 Preis
-CHF 8'700.-
+CHF 5'555.-
 Alle Details
-CHF 8'700.-
+CHF 5'555.-
+Alle Details
+Buell XB12Ss Lightning Long
+Alle Details
+Inserat vom 18.07.2021
+Occasion
+04.2010
+15'900 km
+1201 ccm
+Preis
+CHF 5'999.-
+Alle Details
+CHF 5'999.-
 Alle Details
 Buell 1125 R
 Alle Details
-Inserat vom 03.06.2021
+Inserat vom 16.07.2021
 Occasion
-03.2008
-35'000 km
-1125 ccm
+08.2010
+23'000 km
+1124 ccm
 Preis
 CHF 4'900.-
 Alle Details
@@ -745,63 +790,15 @@ CHF 4'900.-
 Alle Details
 Buell XB12S Lightning
 Alle Details
-Inserat vom 02.06.2021
+Inserat vom 16.07.2021
 Occasion
-06.2007
-9'800 km
-1202 ccm
-Preis
-CHF 9'000.-
-Alle Details
-CHF 9'000.-
-Alle Details
-Buell XB12S Lightning
-Alle Details
-Inserat vom 28.05.2021
-Occasion
-08.2005
-18'651 km
-1202 ccm
-Preis
-CHF 4'500.-
-Alle Details
-CHF 4'500.-
-Alle Details
-Buell XB12Scg Lightning Low
-Alle Details
-Inserat vom 25.05.2021
-Occasion
-03.2010
-18'459 km
-1202 ccm
-Preis
-CHF 8'300.-
-Alle Details
-CHF 8'300.-
-Alle Details
-Buell XB12S Lightning
-Alle Details
-Inserat vom 25.05.2021
-Occasion
-07.2007
-36'000 km
+12.2006
+22'300 km
 1201 ccm
 Preis
-CHF 7'500.-
+CHF 6'250.-
 Alle Details
-CHF 7'500.-
-Alle Details
-Buell XB12Ss Lightning Long
-Alle Details
-Inserat vom 14.05.2021
-Occasion
-04.2006
-24'500 km
-1201 ccm
-Preis
-CHF 7'999.-
-Alle Details
-CHF 7'999.-
+CHF 6'250.-
 Alle Details
 vorherige Seite
 Sie befinden sich auf Seite1
@@ -810,7 +807,7 @@ Sie befinden sich auf Seite1
 4
 5
 6
-8
+9
 nächste Seite
 ×
 comparis.ch

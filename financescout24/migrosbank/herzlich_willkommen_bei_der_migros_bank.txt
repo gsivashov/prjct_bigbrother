@@ -49,6 +49,7 @@ Physische Edelmetalle
 Highlights
 Börsenspiel
 Börse: Marktübersicht
+Vorsorgefonds
 Unser Vorsorgebuch
 Nachhaltig –
 wie «grün» ist Ihr Fonds?
@@ -59,9 +60,8 @@ Jetzt ermitteln
 Hypothek
 Hypothek in der Übersicht
 Festhypothek
-Libor-Hypothek
-Variable Hypothek
 SARON-Hypothek
+Variable Hypothek
 Hypolimite
 Baukredit
 Eigenheim kaufen
@@ -84,6 +84,7 @@ Kredit in der Übersicht
 Konsumkredit
 Privatkredit
 Autokredit
+Autoleasing
 Weiterbildungskredit
 Limite
 Lombardkredit
@@ -208,13 +209,13 @@ Stop Auto-Play
 Migros Bank TWINT –
 jetzt loslegen!
 Mehr erfahren
+Online-Vorsorge
+MiFuturo
+Mehr erfahren
 Perspektiven 2021 –
 Potenzial erkennen und
 nachhaltig investieren
 Broschüre jetzt kostenlos bestellen
-Vermögensverwaltung Focus –
-online ab CHF 5000
-Mehr erfahren
 Herzlich willkommen bei der Migros Bank
 Rechnen Sie mit uns – rund 800'000 Kundinnen und Kunden haben sich entschieden: für die unkomplizierte partnerschaftliche Schweizer Bank mit attraktiven Konditionen.
 Börsen- und Devisenkurse
@@ -227,17 +228,17 @@ Währung
 Ankauf
 Verkauf
 Euro
-1,0745
-1,1065
+1,0605
+1,0925
 Dollar
-0,8805
-0,9115
+0,8900
+0,9210
 Pfund
-1,2400
-1,2870
+1,2350
+1,2820
 Yen
-0,8040
-0,8320
+0,8125
+0,8405
 Weitere Devisenkurse
 Aktuelle Zinsen
 Hypothek
@@ -249,9 +250,8 @@ Festhypothek
 0,770%
 Festhypothek
 10 Jahre ab
-0,930%
-Libor-Hypothek
-6 Monate
+0,890%
+SARON-Hyp.
 0,800%
 Variable Hyp.
 2,250%
@@ -270,7 +270,7 @@ Kontokorrent USD
 Weitere Konten
 Sparen
 Anlagesparkonto
-0,03%
+0,02%
 Sparkonto Free25
 0,60%
 Geschenksparkonto
@@ -289,7 +289,7 @@ Mehr erfahren
 Zinssatzänderung
 Mitteilung
 Informieren Sie sich über unsere aktuellen Zinssätze
-Per 1. April 2021 senkt die Migros Bank die Zinssätze des Vorsorgekontos 3a und des Freizügigkeitskontos. Der Schritt erfolgt aufgrund des anhaltend tiefen Zinsniveaus an den Geld- und Kapitalmärkten.
+Per 1. August 2021 senkt die Migros Bank die Zinssätze von diversen Konten. Der Schritt erfolgt aufgrund des anhaltend tiefen Zinsniveaus an den Geld- und Kapitalmärkten.
 Weiterlesen
 Kontakt
 Wir helfen Ihnen

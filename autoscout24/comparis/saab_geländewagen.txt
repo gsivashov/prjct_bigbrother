@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marktplatz/saab/suv
 Title: Saab Geländewagen – Preise vergleichen mit Comparis
 Description: Finden Sie unter 4 Saab Geländewagen Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -566,36 +564,34 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Saab
-(252)
+(235)
 Saab Occasion
-(249)
-Saab Oldtimer
-(3)
+(234)
 Aufbau
 Saab Limousine
-(117)
-Saab Kombi
-(68)
+(108)
 Saab Cabrio
-(61)
+(67)
+Saab Kombi
+(54)
 Saab Geländewagen
 (4)
 Motor
 Saab Benzin
-(212)
+(201)
 Saab Diesel
-(27)
+(22)
 Saab Bioethanol
-(13)
+(12)
 Modelle
 Saab 9-3
-(139)
+(130)
 Saab 9-5
-(63)
+(57)
 Saab 900
 (30)
 Saab 9000
-(13)
+(12)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -606,22 +602,43 @@ drive-in.ch wird durchsucht ...
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
+2 Inserate
+0 Inserate
+2 Inserate
 0 Inserate
 0 Inserate
-4 Inserate
-0 Inserate
-0 Inserate
-SAAB 9-4X Stationswagen
-16.05.2021
+Saab 9-4X 3.0i V6 BP Automatic
+06.07.2021
 Occasion
-05.2016, Automat, Benzin
-52'500 km, Braun
+07.2011, Automat, Benzin
+117'800 km, 269 PS, Weiss
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 23'900
-ab CHF 437 / Monat
+CHF 29'900
+ab CHF 546 / Monat
+SAAB 9-4X 3.0i V6 BP Automatic
+05.07.2021
+Occasion
+07.2011, Automat, Bioethanol
+117'800 km, 265 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 29'900
+ab CHF 546 / Monat
+Saab other 9-7X
+24.06.2021
+Occasion
+05.2007, Automat, Benzin
+140'000 km, 300 PS, Braun
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 12'900
+ab CHF 236 / Monat
 SAAB 9-7X AWD
+3.5
 25.03.2021
 Occasion
 10.2007, Automat, Benzin
@@ -631,27 +648,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 9'900
 ab CHF 181 / Monat
-SAAB 9-7X AWD
-1.5
-21.03.2021
-Occasion
-12.2007, Automat, Benzin
-149'000 km, 300 PS, Silber
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 8'500
-ab CHF 155 / Monat
-SAAB 9-4X
-19.11.2019
-Occasion
-07.2011, Automat, Benzin
-118'000 km, 265 PS, Weiss
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 32'500
-ab CHF 594 / Monat
 ×
 ×
 comparis.ch

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-seegaster/
 Title: Wohnung & Haus kaufen in Region See-Gaster - Immostreet.ch
-Description: Wohnung & Haus kaufen in Region See-Gaster - Immostreet.ch: ImmoStreet.ch hat 104 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Region See-Gaster - Immostreet.ch: ImmoStreet.ch hat 96 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-104 Resultate gefunden ·
+96 Resultate gefunden ·
 Wohnung & Haus kaufen in Region See-Gaster
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,393 +151,396 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Zürcherstrasse 112A
-1'790'000
+Schänis
+1'680'000
 CHF
-Charmantes, freistehendes Einfamilienha…
-Zürcherstrasse 112A, 8640 Rapperswil SG
+Eine Attikawohnung welche keine Wünsche…
+Schänis, 8718 Schänis
 Array
-7 Zimmer
-186 m2
+4.5 Zimmer
+194 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+194 m2
+Panoramafenster, lichtdurchflutete Räume und eine grosse Terrasse mit Wintergarten laden zum Verwei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Ihr neues Zuhause mit atemberaubender A…
+Adresse auf Anfrage, 8718 Schänis
+Array
+4.5 Zimmer
+145 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-7
+4.5
 Wohnfläche
-186 m2
+145 m2
 Etage
-Für die Eigentümer beginnt eine neuer Lebensabschnitt. Die Kinder sind erwachsen und ausgezogen. Se…
+Suchen Sie ein neues zu Hause mit fantastischer Aussicht und an abgeschiedener, ruhiger Lage? Dann …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Solenberg 25
+685'000
+CHF
+4.5 Zimmer Einfamilienhaus an wundersch…
+Solenberg 25, 8723 Maseltrangen
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+110 m2
+Etage
+Das Einfamilienhaus am Solenberg 25Das tolle 4 1/2 Zimmer-Einfamilienhaus befindet sich auf ungefäh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'400'000
+CHF
+PURO - Privilegiertes Wohnen am Wasser …
+Adresse auf Anfrage, 8733 Eschenbach SG
+Array
+5.5 Zimmer
+147 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+147 m2
+PURO - Privilegiertes Wohnen am Wasser Nahe am Wasser gebautPURO, das ist reines Wohnvergnügen. Lei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'340'000
+CHF
+PURO - Privilegiertes Wohnen am Wasser …
+Adresse auf Anfrage, 8733 Eschenbach SG
+Array
+5.5 Zimmer
+154 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+154 m2
+Nahe am Wasser gebautPURO, das ist reines Wohnvergnügen. Leicht erhöht, als stünden sie auf einer k…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Haldenstrasse 24
+2'450'000
+CHF
+Einzigartiges Liebhaberobjekt an einmal…
+Haldenstrasse 24, 8717 Benken SG
+Array
+7.5 Zimmer
+208 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Wohnfläche
+208 m2
+Etage
+Einzigartiges Liebhaberobjekt an einmaliger LageIn Benken verkaufen wir dieses einzigartige, im Jah…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'140'000
+CHF
+520m2 NUR FÜR SIE
+Adresse auf Anfrage, 8722 Kaltbrunn
+Array
+5.5 Zimmer
+138 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+138 m2
+Etage
+Sie mögen es grosszügig und luxuriös? Dann sind Sie hier genau richtig und sollten unbedingt weiter…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zelgstrasse 2
+1'190'000
+CHF
+6,5 Zimmer-Einfamilienhaus mit grosszüg…
+Zelgstrasse 2, 8725 Gebertingen
+Array
+6.5 Zimmer
+189 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+189 m2
+Etage
+Freistehendes 6,5-Zimmer-EinfamilienhausFamilienfreundlich und idyllisch gelegen!Dieses freistehend…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alpenblick
+1'250'000
+CHF
+Einfamilienhaus "Alpenblick" Rufi
+Alpenblick, 8723 Rufi
+Array
+5.5 Zimmer
+155 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+155 m2
+Etage
+5½ Zimmer EinfamilienhausDas freistehende Einfamilienhaus mit traumhafter Rundumsicht ist in einem …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberrainstrasse 16
+1'400'000
+CHF
+PURO - Privilegiertes Wohnen am Wasser
+Oberrainstrasse 16, 8735 St. Gallenkappel
+Array
+5.5 Zimmer
+147 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+147 m2
+Nahe am Wasser gebautPURO, das ist reines Wohnvergnügen. Leicht erhöht, als stünden sie auf einer k…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberrainstrasse 14
+1'340'000
+CHF
+PURO - Privilegiertes Wohnen am Wasser
+Oberrainstrasse 14, 8735 St. Gallenkappel
+Array
+5.5 Zimmer
+154 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+154 m2
+Nahe am Wasser gebautPURO, das ist reines Wohnvergnügen. Leicht erhöht, als stünden sie auf einer k…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+940'000
+CHF
+Historisches Stadthaus mit modernem Int…
+Adresse auf Anfrage, 8737 Gommiswald
+Array
+5.5 Zimmer
+161 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+161 m2
+Das geschichtsträchtige Zuhause präsentiert sich an optimaler Lage mitten im Ortszentrum. Alles, wa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Wohnen und Wohlfühlen auf Top-Niveau!
+Adresse auf Anfrage, 8733 Eschenbach SG
+Array
+6.5 Zimmer
+330 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+330 m2
+Etage
+Hell - modern - grosszügig. Das sind die Schlagworte, welche dieses exklusive Architektenhaus mit W…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Hell, freundlich und zentrumsnah
+Adresse auf Anfrage, 8733 Eschenbach SG
+Array
+2.5 Zimmer
+69 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+69 m2
+Hell - freundlich - zentrumsnah. Das sind die Schlagworte, welche diese moderne Eigentumswohnung be…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aeschenstrasse 3
+Preis auf Anfrage
+Wohnen mit Weitsicht 3.5 Eigentumswohnu…
+Aeschenstrasse 3, 8873 Amden
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Etage
+Sehr schöne und gepflegte 3.5 Zimmer-Eigentumswohnung mit unverbaubarer Berg- und Talsicht.Kann als…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Lignoformstrasse 4
-Preis auf Anfrage
-VERKAUFT
+755'000
+CHF
+4.5-Zimmer-Eigentumswohnung in ruhigem …
 Lignoformstrasse 4, 8717 Benken SG
 Array
+4.5 Zimmer
+116 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+116 m2
+Die Wohnung befindet sich im 2. Obergeschoss eines sehr idyllisch und ruhig gelegenen Mehrfamilienh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rietstrasse 3
+795'000
+CHF
+Stilvolle 3.5 Zimmer-Wohnung im Naturpa…
+Rietstrasse 3, 8873 Amden
+Array
 3.5 Zimmer
-102 m2
+140 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-102 m2
-*DIESE WOHNUNG IST VERKAUFT*Diese schöne Wohnung an ruhiger Lage mit Aussicht ins Grüne konnte erfo…
+140 m2
+Wohnen, wo andere Ferien machen.......im ehemaligen Restaurant Ammlerhof im Quartier Arvenbüel sind…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Stock 213
-575'000
+Rietstrasse 3
+1'190'000
 CHF
-Ferienhaus mit zwei Wohnungen im Grünen
-Stock 213, 8873 Amden
+Stilvolle 5.5 Zimmer-Wohnung im Naturpa…
+Rietstrasse 3, 8873 Amden
+Array
+5.5 Zimmer
+230 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+230 m2
+Wohnen, wo andere Ferien machen.......im ehemaligen Restaurant Ammlerhof im Quartier Arvenbüel sind…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mühlaustrasse 13
+570'000
+CHF
+4.5-Zimmer-Dachwohnung in ruhigem und b…
+Mühlaustrasse 13, 8730 Uznach
+Array
+4.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+90 m2
+Die überschaubare Liegenschaft mit Total vier Wohnungen befindet sich in einem beliebten und ruhige…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Letzistrasse 4
+850'000
+CHF
+6-Zimmer-Eckhaus und und Schopf mit 871…
+Letzistrasse 4, 8732 Neuhaus SG
 Array
 6 Zimmer
-115 m2
+130 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Doppeleinfamilienhaus
 Zimmer
 6
 Wohnfläche
-115 m2
+130 m2
 Etage
-Suchen Sie ein Ferienhaus ohne direkte Nachbarn welches aber trotzdem gut zugänglich ist? Dann wird…
+ObjektbeschriebDie zum Verkauf stehende Liegenschaft liegt an sehr sonniger und ruhiger Lage in der…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Ringstrasse 4c
-660'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-4.5 Zimmer
-111 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-111 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-550'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-735'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-5.5 Zimmer
-128 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-128 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-645'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-4.5 Zimmer
-111 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-111 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-655'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-4.5 Zimmer
-111 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-111 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-725'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-5.5 Zimmer
-128 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-128 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-735'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-5.5 Zimmer
-128 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-128 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-550'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-890'000
-CHF
-Attikawohnung Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-5.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-130 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4e
-665'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
-Array
-4.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-112 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-880'000
-CHF
-Attikawohnung Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-5.5 Zimmer
-129 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-129 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4e
-650'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
-Array
-4.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-112 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4e
-740'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
-Array
-5.5 Zimmer
-128 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-128 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4e
-550'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4e
-540'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4e
-740'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
-Array
-5.5 Zimmer
-128 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-128 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4e
-650'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
-Array
-4.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-112 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 6
+Seite 1 von 5
 1
 2
 3
 4
-5
 nächste Seite
 ImmoStreet.ch
 Kaufen

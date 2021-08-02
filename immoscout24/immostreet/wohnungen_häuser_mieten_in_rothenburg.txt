@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-rothenburg/
 Title: Wohnungen & Häuser mieten in Rothenburg - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Rothenburg - Immostreet.ch: ImmoStreet.ch hat 40 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Rothenburg - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-40 Resultate gefunden ·
+31 Resultate gefunden ·
 Wohnungen & Häuser mieten in Rothenburg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,26 +122,85 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Bertiswilstrasse 50
-130
+Alpenstr. 17, Zimmer TIVI
+750
 CHF
 /Monat
-Zentrale Garagenparkplätze zum vermieten
-Bertiswilstrasse 50, 6023 Rothenburg
+möbliertes Zimmer TIVI in EFH mit Swimm…
+Alpenstr. 17, Zimmer TIVI, 6023 Rothenburg
 Array
+11 m2
 Objekttyp
-Tiefgarage
-Zentrale Garagenparkplatze zum vermietenBei Interesse melden Sie sich bitte bei:Angela Mosquito 041…
+Wohnung, Einzelzimmer
+Wohnfläche
+11 m2
+In unserem Einfamilienhaus in Rothenburg ist das möblierte Zimmer TIVI mit 10,7 qm ab 01.09.2021 zu…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bertiswilstrasse 5
-2'165
+Usserhus 3/4
+40
 CHF
 /Monat
-Schöne, aussergewöhnliche 5½ Zi-Whg in …
-Bertiswilstrasse 5, 6023 Rothenburg
+Aussenparkplatz sucht Auto
+Usserhus 3/4, 6023 Rothenburg
+Array
+Objekttyp
+Offener Parkplatz
+Sind Sie auf der Suche nach einem Aussenabstellplatz für Ihr Auto?Im Quartier Usserhus in Rothenbur…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Usserhus 1/2
+40
+CHF
+/Monat
+Aussenabstellplatz im Quartier Usserhus…
+Usserhus 1/2, 6023 Rothenburg
+Array
+Objekttyp
+Offener Parkplatz
+Sind Sie auf der Suche nach einem Aussenabstellplatz für Ihr Auto?Im Quartier Usserhus in Rothenbur…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Usserhus 5
+40
+CHF
+/Monat
+Aussenabstellplatz im Quartier Usserhus…
+Usserhus 5, 6023 Rothenburg
+Array
+Objekttyp
+Offener Parkplatz
+Sind Sie auf der Suche nach einem Aussenabstellplatz für Ihr Auto?Im Quartier Usserhus in Rothenbur…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fläckehof
+130
+CHF
+/Monat
+Suchen Sie eine grosszügige Garagenbox …
+Fläckehof, 6023 Rothenburg
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten im Quartier Fläckehof in der 1. Etappe eine Gragenbox in der Einstellhalle für CHF 13…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tannbergstrasse 31
+2'000
+CHF
+/Monat
+Schöne 5 1/2 - Zimmer Wohnung in Rothen…
+Tannbergstrasse 31, 6023 Rothenburg
 Array
 5.5 Zimmer
 120 m2
@@ -152,31 +211,132 @@ Zimmer
 Wohnfläche
 120 m2
 Etage
-Die moderne und komfortabel eingerichtete 5½ Zimmer-Wohnung mit grosszügigem Grundriss ist Teil des…
+Sehr schöne Wohnung mit grosszügigem Grundriss. Salon, Korridor, Küche, Bad und Dusche mit Plattenb…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Buzibachstrasse 31
-290
+Adresse auf Anfrage
+1'500
 CHF
 /Monat
-* Coworking in Rothenburg *
-Buzibachstrasse 31, 6023 Rothenburg
+Wohnung im EG eines Bauernhauses
+Adresse auf Anfrage, 6023 Rothenburg
 Array
+2 Zimmer
+100 m2
 Objekttyp
-Büro
-Arbeiten Sie Seite an Seite mit gleichgesinnten Unternehmen.
-Wir vermieten neu renovierte und a…
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+100 m2
+Ab September oder nach Vereinbarung würden wir unsere ältere, renovationsbedürftige, nicht rollstuh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lehnstrasse 30
+1'250
+CHF
+/Monat
+3-Zimmerwohnung in Rothenburg zu vermie…
+Lehnstrasse 30, 6023 Rothenburg
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wir vermieten an der Lehnstrasse 30 in Rothenburg eine schöne 3-Zimmerwohnung. Einkaufsmöglichkeite…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lehnstrasse 22
+1'250
+CHF
+/Monat
+3-Zimmerwohnung
+Lehnstrasse 22, 6023 Rothenburg
+Array
+3 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+60 m2
+Etage
+Lage: Ruhige Lage in Wohnquartier. Wohnung: Alle Zimmer mit Parkett. Bad renoviert. Einfache Küche.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberchärns 5 b
+3'500
+CHF
+/Monat
+Neu renoviertes, grosszügiges Doppelein…
+Oberchärns 5 b, 6023 Rothenburg
+Array
+6.5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+6.5
+Wohnfläche
+160 m2
+Etage
+Das Doppeleinfamilienhaus wurde im Jahr 1981 gebaut und wird aktuell renoviert. Es befindet sich an…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bertisiwilstrasse 52
+1'560
+CHF
+/Monat
+2.5-Zimmer Wohnung Eigentumsstandard - …
+Bertisiwilstrasse 52, 6023 Rothenburg
+Array
+2.5 Zimmer
+63 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+63 m2
+Wir vermieten per 1. Oktober 2021 oder nach Vereinbarung in Rothenburg eine neue, top moderne 2 ½-Z…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lehnstrasse 30
+1'450
+CHF
+/Monat
+4-Zimmerwohnung in Rothenburg zu vermie…
+Lehnstrasse 30, 6023 Rothenburg
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wir vermieten an der Lehnstrasse 30 in Rothenburg eine schöne 4-Zimmerwohnung im 3.OG (ohne Lift). …
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Lindauring 12
-1'520
+1'421
 CHF
 /Monat
-Nachmieter gesucht!
+helle Wohnung mit Aussicht in Rothenburg
 Lindauring 12, 6023 Rothenburg
 Array
 4.5 Zimmer
@@ -187,44 +347,51 @@ Zimmer
 4.5
 Wohnfläche
 82 m2
-Hier lässt es sich wohnenDer Lindauring 12 liegt gut besonnt in einem schönen Wohnquartier, angrenz…
+Nachmieter*in per 01.08. gesucht!Der Lindauring 12 liegt gut besonnt in einem schönen Wohnquartier,…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Alpenstr. 17, Zi. DOMI
-1'070
+Station Ost 9
+85
 CHF
-/Monat
-möbliertes Zimmer DOMI, mit Swimming- +…
-Alpenstr. 17, Zi. DOMI, 6023 Rothenburg
+Attraktive Lager-/Gewerbeflächen direkt…
+Station Ost 9, 6023 Rothenburg
 Array
-17 m2
 Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-17 m2
-In unserem Einfamilienhaus in Rothenburg ist ein möbliertes Zimmer zu vermieten nach Vereinbarung.E…
+Verkauf, Lager
+Etage
+Attraktive Lager-/Gewerbeflächen direkt an der Autobahn A2An zentralster Lage (Autobahnanschluss A2…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Franz-Zelgerstrasse 13
-1'710
+Buzibachstrasse 31b
+160
 CHF
-/Monat
-3.5-Zimmerwohnung, 1. OG links
-Franz-Zelgerstrasse 13, 6023 Rothenburg
+Büro 22.m2 und/oder 28m2 in Rothenburg …
+Buzibachstrasse 31b, 6023 Rothenburg
 Array
-3.5 Zimmer
-85 m2
+2 Zimmer
 Objekttyp
-Wohnung, Flach
+Büro
 Zimmer
-3.5
-Wohnfläche
-85 m2
-Hier lässt es sich wohnenDie Liegenschaft Franz-Zelgerstrasse 13 liegt gut besonnt in einem bevorzu…
+2
+Zu vermieten Büroräumlichkeit Industrie Buzibach in RothenburgBüro 22.0m², 2.OG; F…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bertiswilstrasse 50
+130
+CHF
+/Monat
+Zentrale Garagenparkplätze zum vermieten
+Bertiswilstrasse 50, 6023 Rothenburg
+Array
+Objekttyp
+Tiefgarage
+Zentrale Garagenparkplatze zum vermietenBei Interesse melden Sie sich bitte bei:Angela Mosquito 041…
 Teilen
 E-Mail
 Facebook
@@ -249,60 +416,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Alpenstr. 17, Zimmer TIVI
-670
-CHF
-/Monat
-möbliertes Zimmer TIVI mit Nützung Swim…
-Alpenstr. 17, Zimmer TIVI, 6023 Rothenburg
-Array
-11 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-11 m2
-In unserem Einfamilienhaus in Rothenburg ist ein möbliertes Zimmer ab 01.07.2021 zu vermieten.EG Ge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rudolfstrasse 1
-1'350
-CHF
-/Monat
-3 Zimmer Wohnung
-Rudolfstrasse 1, 6023 Rothenburg
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Zu Vermieten Heimelige 3 Zimmer Wohnung in einem ruhigen Quartier.Ideal für Singles und PaareDie Wo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Usserhus 3
-1'595
-CHF
-/Monat
-Grosszügige 3.5 Zi-Whg in Rothenburg
-Usserhus 3, 6023 Rothenburg
-Array
-3.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-75 m2
-Für meine helle, grossräumige 3.5 Zimmer-Wohnung im Familien- und Haustierfreundlichen Quartier in …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Flecken 4
 1'950
 CHF
@@ -323,26 +436,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'810
-CHF
-/Monat
-ÜBER DEN DÄCHERN AN RUHIGER LAGE
-Adresse auf Anfrage, 6023 Rothenburg
-Array
-2.5 Zimmer
-55 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-2.5
-Wohnfläche
-55 m2
-Die Attika-Wohnung liegt beim Dörfern an der Bertiswilstrasse 52, in nächster Nähe von Einkaufsmögl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Buzibachstrasse 14
 Preis auf Anfrage
 Verschiedene Lager-, Büro- und Gewerbef…
@@ -352,86 +445,6 @@ Objekttyp
 Verkauf, Lager
 Etage
 Vielseitige Gewerbeflächen nahe AutobahnanschlussWir vermieten an der Buzibachstrasse 14, Rothenbur…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'760
-CHF
-/Monat
-NICHT MEHR VERFÜGBAR
-Adresse auf Anfrage, 6023 Rothenburg
-Array
-4.5 Zimmer
-89 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Wohnfläche
-89 m2
-Diese Wohnung ist an einer ruhigen Lage, in einem gepflegten Zweifamilienhaus, zwei Gehminuten vom …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Feldheim 36
-1'610
-CHF
-/Monat
-ruhig und zentral wohnen!
-Feldheim 36, 6023 Rothenburg
-Array
-2.5 Zimmer
-67 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-67 m2
-Ihre Lage-VorteileGeniessen Sie, an ruhiger und zentraler Lage zu wohnen. Die gute Erschliessung, d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lehnstrasse 32
-1'300
-CHF
-/Monat
-WOHNUNG MIT SONNIGEM BALKON IM GRÜNEN
-Lehnstrasse 32, 6023 Rothenburg
-Array
-3.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-65 m2
-Die traumhafte 3.5-Zimmer-Wohnung überzeugt mit hellen sonnigen Räumlichkeiten und einem hochwertig…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bertiswilerstrasse 52, Rothenburg
-1'810
-CHF
-/Monat
-Top 2.5 ZiWhg
-Bertiswilerstrasse 52, Rothenburg, 6023 Rothenburg
-Array
-2.5 Zimmer
-55 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-55 m2
-Herrliche Bergsicht, grosse Terrasse und helle 2.5 ZiWhgDiese im September 2018 fertiggestellte Woh…
 Teilen
 E-Mail
 Facebook
@@ -453,37 +466,6 @@ Etage
 - 68m2 Fläche (Edelrohbau)
 - neues Gebäude = Erstbezug
 - Bodenheizung und elektris…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alpenstr. 17, Zi. VIVI
-770
-CHF
-/Monat
-möbliertes Zimmer VIVI, mit Swimming- +…
-Alpenstr. 17, Zi. VIVI, 6023 Rothenburg
-Array
-11 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-11 m2
-In unserem Einfamilienhaus in Rothenburg ist ein möbliertes Zimmer ab 01.07.2021 zu vermieten.EG Ge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonnmatthof
-170
-CHF
-Erstvermietung IM DOCK
-Sonnmatthof, 6023 Rothenburg
-Array
-Objekttyp
-Büro
-Etage
-Der Luzerner Business Hub für Macher, Kreative und Start-Up'sDer kreative Business Hub "IM DOCK" vo…
 Teilen
 E-Mail
 Facebook

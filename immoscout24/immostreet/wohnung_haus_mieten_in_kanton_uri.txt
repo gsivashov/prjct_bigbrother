@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/kanton-uri/
 Title: Wohnung & Haus mieten in Kanton Uri - Immostreet.ch
-Description: Wohnung & Haus mieten in Kanton Uri - Immostreet.ch: ImmoStreet.ch hat 70 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Kanton Uri - Immostreet.ch: ImmoStreet.ch hat 72 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-70 Resultate gefunden ·
+72 Resultate gefunden ·
 Wohnung & Haus mieten in Kanton Uri
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,140 +152,117 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Axenstrasse 2
-1'850
+Bötzlingerstrasse 26
+2'400
 CHF
 /Monat
-Besser Wohnen im Alter 3.5-Zimmer-Alter…
-Axenstrasse 2, 6454 Flüelen
+Mein charmantes Zuhause im Urnerland
+Bötzlingerstrasse 26, 6467 Schattdorf
 Array
-3.5 Zimmer
-83 m2
+5.5 Zimmer
+145 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+5.5
 Wohnfläche
-83 m2
-ZENTRAL IN FLÜELEN AM URNERSEE3½-Zimmer-Alterswohnungen im 5. Stock Das stattliche Wohngebäude lieg…
+145 m2
+Im MFH Nr. 26 ist im 1. OG eine grosszügig ausgebaute 5½ Zimmerwohnung ca. 145 m2 im Eigentums- und…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Kirchenrüttiweg 9
-1'300
+Flüelerstrasse 46
+1'650
 CHF
 /Monat
-Familienfreundliche 3.5 Zi. Whg. in Bür…
-Kirchenrüttiweg 9, 6463 Bürglen UR
-Array
-3.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-75 m2
-Charmante, sehr gemütliche 3.5 Zimmer Wohnung mit Cheminée und Balkon in gutem Zustand (Glaskeramik…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lindenstr. 22
-1'290
-CHF
-/Monat
-Sonnig, ruhig gelegene 4 1/2 Zimmer-Woh…
-Lindenstr. 22, 6472 Erstfeld
+Moderne 4.5 Zimmer Wohnung mit grosszüg…
+Flüelerstrasse 46, 6460 Altdorf UR
 Array
 4.5 Zimmer
-99 m2
+100 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-99 m2
-Die Wohnung ist sonnendurchflutet, Wohnzimmer ist zum Garten hin und hat einen 1o m2 grossen, gedec…
+100 m2
+Zur Vermietung steht per sofort eine helle 4.5 Zimmer Wohnung in der Flüelerstrasse 46.- Moderne 4.…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Lindenstrasse 22
-1'030
+Gotthardstrasse 199
+750
 CHF
 /Monat
-2 1/2 Loft-Wohnung
-Lindenstrasse 22, 6472 Erstfeld
+Diverse Studios in Göschenen zu vermiet…
+Gotthardstrasse 199, 6487 Göschenen
 Array
-2.5 Zimmer
+1.5 Zimmer
+18 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Studio
 Zimmer
-2.5
-Die Wohnung liet an ruhiger,sonniger Lage,ohne DurchgangsverkehrWohn- und Essszimmer (38 m2) ist s…
+1.5
+Wohnfläche
+18 m2
+Etage
+Per sofort sind in Göschenen diverse Studios zu vermieten. Die Studios sind voll eingerichtet mit D…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Brämenhofstatt 2
-1'370
+Kellergasse 2
+1'200
 CHF
 /Monat
-Wohlfühlen leicht gemacht!
-Brämenhofstatt 2, 6472 Erstfeld
+4.5 Zimmer Wohnung, 1. OG
+Kellergasse 2, 6472 Erstfeld
 Array
-4 Zimmer
+4.5 Zimmer
 81 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4
+4.5
 Wohnfläche
 81 m2
-An der sonnigen Brämenhofstatt 2 in Erstfeld vermieten wir nach Vereinbarung diese gemütliche 4 Zim…
+Zu vermieten per 1. Oktober 2021 oder nach Vereinbarung eine schöne 4.5 Zimmerwohnung in Erstfeld.-…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Tschudiweg 5
-1'065
+Gotthardstrasse
+1'090
 CHF
 /Monat
-Ist das Ihr neues Zuhause?
-Tschudiweg 5, 6460 Altdorf UR
+3 Zimmer Wohnung
+Gotthardstrasse, 6472 Erstfeld
 Array
 3 Zimmer
-63 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3
-Wohnfläche
-63 m2
-Sind Sie auf der Suche nach einer ruhig gelegene Wohnung in Altdorf? Dann sind Sie bei uns genau ri…
+3 Zimmer Wohnung inkl. NK. 1090.-Ab 1. Oktober 2021 oder nach Vereinbarung.Für Fragen oder Besichti…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Reussacherstrasse 32
-1'100
+Gotthardstrasse
+1'090
 CHF
 /Monat
-CUBO - Smarte 2.5-Zimmerwohnung beim ne…
-Reussacherstrasse 32, 6460 Altdorf UR
+3.5 Zimmer Wohnung
+Gotthardstrasse, 6472 Erstfeld
 Array
-2.5 Zimmer
-43 m2
+3.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
-Wohnfläche
-43 m2
-Etage
-Hier lässt es sich wohnenDas Wohn- und Geschäftshaus Cubo liegt an ruhiger Lage, neben dem neu ents…
+3.5
+3.5 Zimmer Wohnung inkl. NK. 1090.-Ab 1. Oktober 2021 oder nach Vereinbarung.Für Fragen oder Besich…
 Teilen
 E-Mail
 Facebook
@@ -330,96 +307,93 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Gotthardstrasse 17
-700
+eyrütti 41
+1'340
 CHF
 /Monat
-3 Zimmer Wohnung ,Silenen
-Gotthardstrasse 17, 6473 Silenen
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Zu vermieten renovierte 3 Zimmer Wohnung in Silenen.Mit Parkplatz, Sitzplatz, Bushaltestelle in de…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gotthardstrasse 17
-1'150
-CHF
-/Monat
-Helle und Grosse 3 1/2 Wohnung,Silenen
-Gotthardstrasse 17, 6473 Silenen
+nachmieter suche
+eyrütti 41, 6467 Schattdorf
 Array
 3.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Zu vermieten in Silenen, renovierte sehr helle 3 halb Zimmer Wohnung mit Balkon, grosse Sitzplatz u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schattdorf Gandrütti
-650
-CHF
-/Monat
-Wohnung zu vermieten
-Schattdorf Gandrütti, 6460 Altdorf UR
-Array
-1.5 Zimmer
-32 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-32 m2
-Schöne helle 1.5 Zimmer Wohnung in einem Einfamilienhaus.Mit Sitzplatz zum mitbenutzen und Parkpla…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grossmattweg 20
-1'400
-CHF
-/Monat
-An ruhiger Lage
-Grossmattweg 20, 6460 Altdorf UR
-Array
-4.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-77 m2
-Sie Suchen eine Wohnung in der Gemeinde Altdorf? Dann haben wir hier das passende Mietangebot für S…
+in der eyrütti 41 4. stock preis inkl nebenkosten und garagenparklpatz
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-3'080
+1'300
 CHF
 /Monat
-TRAUMLAGE MIT BESTER AUSSICHT
-Adresse auf Anfrage, 6454 Flüelen
+CHARMANT UND HEIMELIG ZENTRAL GELEGEN
+Adresse auf Anfrage, 6472 Erstfeld
 Array
-6.5 Zimmer
-232 m2
+4.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+80 m2
+Dieses Objekt befindet sich mitten im Dorfkern von Erstfeld, mit sehr guter Anbindung an ÖV und Inf…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Spätach 1
+1'198
+CHF
+/Monat
+Helle, geräumige 2.5-Zimmerwohnung
+Spätach 1, 6472 Erstfeld
+Array
+2.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-6.5
+2.5
+Wir vermieten per 1. Oktober 2021 oder nach Vereinbarung im Neubau Wohnhaus Spätach 1 in Erstfeld e…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'500
+CHF
+/Monat
+GROSSZÜGIG MIT FLAIR IM ERSTBEZUG
+Adresse auf Anfrage, 6473 Silenen
+Array
+1 Zimmer
+100 m2
+Objekttyp
+Wohnung, Loft
+Zimmer
+1
 Wohnfläche
-232 m2
-Dieses fantastische Objekt befindet sich in einem gepflegten, sehr ruhigen Wohnquartier und bietet …
+100 m2
+Dieses Objekt befindet sich an einer leichten Hanglage mit freiem Blick auf den Bristen sowie die u…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grossriedstr. 2
+1'570
+CHF
+/Monat
+Geräumig, hell, modern mit wundervoller…
+Grossriedstr. 2, 6462 Seedorf UR
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+In Seedorf, am Vierwaldstättersee gelegen, vermieten wir per 1. Oktober 2021 oder nach Vereinbarung…
 Teilen
 E-Mail
 Facebook
@@ -444,59 +418,62 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-700
-CHF
-/Monat
-SONNIGE UND RUHIGE LAGE
-Adresse auf Anfrage, 6454 Flüelen
-Array
-1 Zimmer
-60 m2
-Objekttyp
-Wohnung, Loft
-Zimmer
-1
-Wohnfläche
-60 m2
-Dieses Objekt befindet sich in einem sehr ruhigen Wohnquartier, mit einem separaten Eingang und gut…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Tellsgasse 2 - 2 A
-1'330
-CHF
-/Monat
-Gemütliche Maisonettewohnung im Zentrum…
-Tellsgasse 2 - 2 A, 6460 Altdorf UR
-Array
-2.5 Zimmer
-115 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-2.5
-Wohnfläche
-115 m2
-Diese heimelige Wohnung befindet sich direkt am Rathausplatz in Altdorf. Die charmante Maisonettewo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gotthardstrasse 68
+Bärenbodenweg 15
 990
 CHF
 /Monat
-Amazing apartment
-Gotthardstrasse 68, 6484 Wassen UR
+3-Zimmer-Wohnung mit Aussicht
+Bärenbodenweg 15, 6472 Erstfeld
 Array
-2.5 Zimmer
+3 Zimmer
+71 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
-From June free a beautiful apartment in Wassen, peaceful and comfortable. Compleatly renew some yea…
+3
+Wohnfläche
+71 m2
+Wohnzimmer mit Parkettboden. Zimmer mit Kunststoffbelägen; Küche mit Keramikkochfeld; Einbauschränk…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'650
+CHF
+/Monat
+HELL UND FREUNDLICH, SEHR ZENTRAL
+Adresse auf Anfrage, 6460 Altdorf UR
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Dieses Objekt ist sehr zentral gelegen, mit guter Anbindung an ÖV und Infrastruktur. Der Grundriss …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tschudiweg 15
+980
+CHF
+/Monat
+Klein aber fein
+Tschudiweg 15, 6460 Altdorf UR
+Array
+2 Zimmer
+53 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+53 m2
+Suchen Sie eine neue Wohnung in Altdorf? Wir vermieten nach Vereinbarung diese sonnige Wohnung:Die …
 Teilen
 E-Mail
 Facebook
@@ -521,22 +498,39 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'450
+Bodenwaldstrasse
+1'480
 CHF
 /Monat
-CHARMANT UND HEIMELIG ZENTRAL GELEGEN
-Adresse auf Anfrage, 6467 Schattdorf
+schöne helle, grosszügige 4,5 Zimmerwoh…
+Bodenwaldstrasse, 6462 Seedorf UR
 Array
-3.5 Zimmer
-75 m2
+4.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+4.5
+zu vermieten per 1. September 2021 oder nach Vereinbarung
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gotthardstrasse 96
+950
+CHF
+/Monat
+Kleine 2-Zimmerwohnung zu vermieten
+Gotthardstrasse 96, 6472 Erstfeld
+Array
+2 Zimmer
+40 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
 Wohnfläche
-75 m2
-Dieses Objekt befindet sich in einem ruhigen Wohnquartier mit guter Anbindung an ÖV und Infrastrukt…
+40 m2
+Sanierung/teilw. Neubau im 20142. Stock südzentrale Lage vis-à-vis Bahnhof ErstfeldPreis inkl. Nebe…
 Teilen
 E-Mail
 Facebook

@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -101,7 +101,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -155,312 +155,320 @@ WIR-ANTEIL
 49 Treffer
 Suche zurücksetzen
 FORD
-C-Max 1.6i EB SCTi 150 Carving S/S
-CHF 10'000
-ab CHF 113/Monat
-07.2012
+C-Max 2.0 177 Energi
+CHF 20'800
+ab CHF 224/Monat
+09.2017
+Automat
+25'444 km
+Voll-Hybrid Benzin/Elektro
+Vorderradantrieb
+schwarz
+137 PS
+AG
+Merken
+FORD
+C-Max 2.0 177 Energi
+09.2017
+137 PS
+25'444 km
+CHF 20'800
+Merken
+ab CHF 224/Monat
+FORD
+C-Max 1.0i EcoB 125 Trend S/S Compact
+CHF 13'900
+ab CHF 150/Monat
+07.2016
 Handschaltung
-120'000 km
+67'200 km
 Benzin
 Vorderradantrieb
-weiss
-150 PS
-FR
+silber
+125 PS
+TG
 Merken
 FORD
-C-Max 1.6i EB SCTi 150 Carving S/...
-07.2012
-150 PS
-120'000 km
-CHF 10'000
+C-Max 1.0i EcoB 125 Trend S/S Com...
+07.2016
+125 PS
+67'200 km
+CHF 13'900
 Merken
-ab CHF 113/Monat
-FORD
-C-Max 1.6i EB SCTi 150 Titan. S/S
-CHF 8'900
-ab CHF 101/Monat
-03.2013
-Handschaltung
-57'649 km
-Benzin
-Vorderradantrieb
-grau
-150 PS
-LU
-Merken
-FORD
-C-Max 1.6i EB SCTi 150 Titan. S/S
-03.2013
-150 PS
-57'649 km
-CHF 8'900
-Merken
-ab CHF 101/Monat
+ab CHF 150/Monat
 35-Punkte-Check
 Kostenlose Probefahrt
 Garantieversprechen
 Faires Eintauschangebot
 FORD
-C-Max 1.6 TDCi Carving
-CHF 2'900
-07.2009
+C-Max 2.0i 16V Carving
+CHF 3'500
+09.2004
 Handschaltung
-183'500 km
-Diesel
-Vorderradantrieb
-rot
-109 PS
-LU
-Merken
-FORD
-C-Max 1.6 TDCi Carving
-07.2009
-109 PS
-183'500 km
-CHF 2'900
-Merken
-FORD
-C-Max 1.5i EcoB 150 Trend S/S
-CHF 13'900
-ab CHF 150/Monat
-03.2016
-Handschaltung
-73'000 km
+115'000 km
 Benzin
 Vorderradantrieb
-silber
-150 PS
-ZH
+sonstiges
+145 PS
+FR
 Merken
 FORD
-C-Max 1.5i EcoB 150 Trend S/S
-03.2016
+C-Max 2.0i 16V Carving
+09.2004
+145 PS
+115'000 km
+CHF 3'500
+Merken
+FORD
+C-Max 1.6 TDCi Carving
+CHF 6'900
+02.2011
+Handschaltung
+157'000 km
+Diesel
+Vorderradantrieb
+grau
+115 PS
+BE
+Merken
+FORD
+C-Max 1.6 TDCi Carving
+02.2011
+115 PS
+157'000 km
+CHF 6'900
+Merken
+FORD
+Focus C-Max 1.8 Ghia
+CHF 1'700
+02.2007
+Automat
+88'600 km
+Benzin
+Vorderradantrieb
+rot
+125 PS
+GR
+Merken
+FORD
+Focus C-Max 1.8 Ghia
+02.2007
+125 PS
+88'600 km
+CHF 1'700
+Merken
+FORD
+C-Max 1.5 SCTi Titanium
+CHF 14'900
+ab CHF 161/Monat
+04.2016
+Handschaltung
+66'000 km
+Benzin
+Vorderradantrieb
+anthrazit
 150 PS
-73'000 km
+BE
+Merken
+FORD
+C-Max 1.5 SCTi Titanium
+04.2016
+150 PS
+66'000 km
+CHF 14'900
+Merken
+ab CHF 161/Monat
+FORD
+C-Max 1.5 TDCi Trend
+CHF 13'900
+ab CHF 150/Monat
+06.2016
+Handschaltung
+54'000 km
+Diesel
+Vorderradantrieb
+weiss
+120 PS
+AR
+Merken
+FORD
+C-Max 1.5 TDCi Trend
+06.2016
+120 PS
+54'000 km
 CHF 13'900
 Merken
 ab CHF 150/Monat
 FORD
-C-Max 1.6 16V Carving
-CHF 4'500
-06.2009
-Handschaltung
-149'000 km
+C-Max 1.5i EcoB 150 Titanium S/S
+CHF 15'500
+ab CHF 167/Monat
+08.2016
+Automat
+59'000 km
 Benzin
 Vorderradantrieb
 schwarz
-100 PS
-OW
+150 PS
+BL
 Merken
 FORD
-C-Max 1.6 16V Carving
-06.2009
-100 PS
-149'000 km
-CHF 4'500
+C-Max 1.5i EcoB 150 Titanium S/S
+08.2016
+150 PS
+59'000 km
+CHF 15'500
 Merken
+ab CHF 167/Monat
 FORD
-C-Max 1.6 SCTi Carving
-CHF 10'900
-ab CHF 134/Monat
-01.2013
+C-Max 2.0 TDCi 150 Titanium S/S
+CHF 15'900
+ab CHF 171/Monat
+06.2017
 Handschaltung
-98'900 km
+68'000 km
+Diesel
+Vorderradantrieb
+sonstiges
+150 PS
+FR
+Merken
+FORD
+C-Max 2.0 TDCi 150 Titanium S/S
+06.2017
+150 PS
+68'000 km
+CHF 15'900
+Merken
+ab CHF 171/Monat
+FORD
+C-Max 1.5i EcoB Titanium
+CHF 13'900
+ab CHF 150/Monat
+10.2015
+Automat
+95'800 km
 Benzin
 Vorderradantrieb
-grau
+rot
 150 PS
 SG
 Merken
 FORD
-C-Max 1.6 SCTi Carving
-01.2013
+C-Max 1.5i EcoB Titanium
+10.2015
 150 PS
-98'900 km
-CHF 10'900
+95'800 km
+CHF 13'900
 Merken
-ab CHF 134/Monat
+ab CHF 150/Monat
 FORD
-C-Max 1.8 16V Carving
-CHF 4'000
-02.2009
+C-Max 1.0i EcoB 125 Titanium S/S
+CHF 10'900
+ab CHF 123/Monat
+09.2015
 Handschaltung
-170'470 km
+53'000 km
 Benzin
 Vorderradantrieb
-blau
+grau
+125 PS
+BL
+Merken
+FORD
+C-Max 1.0i EcoB 125 Titanium S/S
+09.2015
+125 PS
+53'000 km
+CHF 10'900
+Merken
+ab CHF 123/Monat
+FORD
+C-Max 1.5i EcoB 150 Titanium X
+CHF 23'900
+ab CHF 257/Monat
+12.2018
+Handschaltung
+13'000 km
+Benzin
+Vorderradantrieb
+sonstiges
+150 PS
+NE
+Merken
+FORD
+C-Max 1.5i EcoB 150 Titanium X
+12.2018
+150 PS
+13'000 km
+CHF 23'900
+Merken
+ab CHF 257/Monat
+FORD
+C-Max 1.0i EcoB 125 Titanium S/S
+CHF 9'500
+ab CHF 107/Monat
+06.2014
+Handschaltung
+98'000 km
+Benzin
+Vorderradantrieb
+sonstiges
 125 PS
 FR
 Merken
 FORD
-C-Max 1.8 16V Carving
-02.2009
+C-Max 1.0i EcoB 125 Titanium S/S
+06.2014
 125 PS
-170'470 km
-CHF 4'000
+98'000 km
+CHF 9'500
 Merken
+ab CHF 107/Monat
 FORD
-Focus C-Max 2.0 TDCi Ghia
-CHF 1'200
-03.2005
-Handschaltung
-183'800 km
-Diesel
-Vorderradantrieb
-grau
-136 PS
-LU
-Merken
-FORD
-Focus C-Max 2.0 TDCi Ghia
-03.2005
-136 PS
-183'800 km
-CHF 1'200
-Merken
-FORD
-C-Max 1.6 TDCi 115 Titanium S/S
-CHF 9'900
-ab CHF 112/Monat
-02.2012
-Handschaltung
-105'000 km
-Diesel
-Vorderradantrieb
-silber
-115 PS
-NE
-Merken
-FORD
-C-Max 1.6 TDCi 115 Titanium S/S
-02.2012
-115 PS
-105'000 km
-CHF 9'900
-Merken
-ab CHF 112/Monat
-FORD
-C-Max 1.0i EcoB 125 Titanium X
-CHF 22'900
-ab CHF 246/Monat
-12.2018
-Handschaltung
-17'000 km
-Benzin
-Vorderradantrieb
-schwarz
-125 PS
-NE
-Merken
-FORD
-C-Max 1.0i EcoB 125 Titanium X
-12.2018
-125 PS
-17'000 km
-CHF 22'900
-Merken
-ab CHF 246/Monat
-FORD
-C-Max 1.0 SCTi Sport
-CHF 14'990
-ab CHF 161/Monat
-07.2018
-Handschaltung
-62'700 km
-Benzin
-Vorderradantrieb
-schwarz
-125 PS
-ZH
-Merken
-FORD
-C-Max 1.0 SCTi Sport
-07.2018
-125 PS
-62'700 km
-CHF 14'990
-Merken
-ab CHF 161/Monat
-FORD
-C-Max 2.0 PHEV Energi CVT
-CHF 18'900
-ab CHF 223/Monat
-12.2016
+C-Max 2.0i 16V Carving
+CHF 3'200
+12.2008
 Automat
-61'400 km
+209'300 km
+Benzin
+Vorderradantrieb
+sonstiges
+145 PS
+FL
+Merken
+FORD
+C-Max 2.0i 16V Carving
+12.2008
+145 PS
+209'300 km
+CHF 3'200
+Merken
+FORD
+C-Max 2.0 177 Energi Plug in Hybrid
+CHF 19'390
+ab CHF 209/Monat
+06.2016
+Automat
+65'000 km
 Plug-in-Hybrid Benzin/Elektro
 Vorderradantrieb
 grau
 137 PS
-SG
-Merken
-FORD
-C-Max 2.0 PHEV Energi CVT
-12.2016
-137 PS
-61'400 km
-CHF 18'900
-Merken
-ab CHF 223/Monat
-FORD
-C-Max 2.0 16V Carving Automatic
-CHF 5'999
-07.2010
-Automat
-102'000 km
-Benzin
-Vorderradantrieb
-anthrazit
-145 PS
 BE
 Merken
 FORD
-C-Max 2.0 16V Carving Automatic
-07.2010
-145 PS
-102'000 km
-CHF 5'999
+C-Max 2.0 177 Energi Plug in Hybr...
+06.2016
+137 PS
+65'000 km
+CHF 19'390
 Merken
-FORD
-C-Max 1.8 16V Carving
-CHF 7'500
-03.2010
-Handschaltung
-55'000 km
-Benzin
-Vorderradantrieb
-anthrazit
-125 PS
-SO
-Merken
-FORD
-C-Max 1.8 16V Carving
-03.2010
-125 PS
-55'000 km
-CHF 7'500
-Merken
-FORD
-C-Max 1.5 SCTi Titanium Automat
-CHF 13'500
-ab CHF 145/Monat
-12.2015
-Automat
-91'300 km
-Benzin
-Vorderradantrieb
-silber
-150 PS
-SO
-Merken
-FORD
-C-Max 1.5 SCTi Titanium Automat
-12.2015
-150 PS
-91'300 km
-CHF 13'500
-Merken
-ab CHF 145/Monat
+ab CHF 209/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
 1
 1
 2

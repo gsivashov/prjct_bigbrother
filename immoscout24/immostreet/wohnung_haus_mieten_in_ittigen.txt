@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-ittigen/
 Title: Wohnung & Haus mieten in Ittigen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Ittigen - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Ittigen - Immostreet.ch: ImmoStreet.ch hat 29 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-32 Resultate gefunden ·
+29 Resultate gefunden ·
 Wohnung & Haus mieten in Ittigen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,56 +152,356 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Obereyfeldweg 25
-1'990
+Papiermühlestrasse 138
+960
 CHF
 /Monat
-Attika-Wohnung zu vermieten!
-Obereyfeldweg 25, 3063 Ittigen
+1 1/2-Zimmerwohnung, 4. Stock
+Papiermühlestrasse 138, 3063 Ittigen
 Array
-3 Zimmer
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3
-Das gepflegte Mehrfamilienhaus liegt an ruhiger Lage im Eyfeldquartier in Ittigen. Die öffentlichen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnstrasse 19
-1'180
-CHF
-/Monat
-3 Zimmerwohnung im 3. Stock
-Bahnstrasse 19, 3063 Ittigen
-Array
-3 Zimmer
+1.5 Zimmer
+35 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
-Per 1.August 2021 wird meine gemütliche 3. Zimmerwohnung in Ittigen zur Nachmiete frei. Die Wohnung…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Talweg 21
-2'390
-CHF
-/Monat
-5 1/2-Zimmerwohnung, Dachstock
-Talweg 21, 3063 Ittigen
-Array
-5.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
+1.5
 Wohnfläche
-110 m2
-sonnige, zentrale Lage - Nähe Einkaufsmöglichkeiten und öVBestaunen Sie dieses Schmuckstück! Heimel…
+35 m2
+Sonnige, ruhige und zentrale Lage - Einkaufsmöglichkeiten und öV in der NäheHelle und geärumige Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'375
+CHF
+/Monat
+5 ZI-WOHNUNG IN ITTIGEN (BE), MÖBLIERT,…
+Adresse auf Anfrage, 3063 Ittigen
+Array
+5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+5
+Wohnfläche
+100 m2
+MIETDAUER ab sofort bis 8. Oktober 2021AllgemeinSonnige 5-Zimmerwohnung in Ittigen/Eyfeld zur Zwisc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grauholzstrasse 69
+1'650
+CHF
+/Monat
+4,5-Zimmerwohnung an ruhiger und zentra…
+Grauholzstrasse 69, 3063 Ittigen
+Array
+4.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+90 m2
+Hallenbad in der Nähe mit reduzierten EintrittspreisenEs stehen gemeinsame Dachterrassen mit einer …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Papiermühlestrasse 136
+1'160
+CHF
+/Monat
+2 1/2-Zimmerwohnung, 3. Stock mitte
+Papiermühlestrasse 136, 3063 Ittigen
+Array
+2.5 Zimmer
+43 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+43 m2
+Sonnige, ruhige und zentrale Lage - Einkaufsmöglichkeiten und öV in der NäheHelle und geärumige Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Talgutzentrum 26
+1'670
+CHF
+/Monat
+Zeitgemäss wohnen in belebtem Stadtquar…
+Talgutzentrum 26, 3063 Ittigen
+Array
+3.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+83 m2
+Diese zentral gelegene Wohnsiedlung ist voller Leben. Ob Paar, Single oder Familie: Sie finden hier…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mittelweg 4
+2'120
+CHF
+/Monat
+schöne 3 1/2-Zimmer-Attikawohnung im 2.…
+Mittelweg 4, 3063 Ittigen
+Array
+3.5 Zimmer
+96 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+96 m2
+Nähe öV - zentrale und ruhige Lagehelle Räume mit Parkett- und Plattenböden - Küche mit Glaskeramik…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Längfeldstrasse 42
+1'550
+CHF
+/Monat
+3-Zimmerwohnung mit Weitblick ins Grüne
+Längfeldstrasse 42, 3063 Ittigen
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Diese 3-Zimmer-Wohnung liegt im 3.OG (mit Lift) eines Mehrfamilienhauses mit total 8 Wohnparteien. …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blumenweg 3
+1'150
+CHF
+/Monat
+Heimelige 2.5 Zimmer Wohnunng in ruhige…
+Blumenweg 3, 3063 Ittigen
+Array
+2.5 Zimmer
+62 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+62 m2
+Dringend Nachmieter gesucht für eine wunderschöne Wohnung in guter Lage.Ich trenne mich nur sehr un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Worblentalstrasse 53
+1'160
+CHF
+/Monat
+2.5 Zimmerwohnung im 2. OG
+Worblentalstrasse 53, 3063 Ittigen
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+BESICHTIGUNGSMÖGLICHKEIT:Für eine Besichtigung dieser Wohnung nehmen Sie bitte direkt mit d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ittigenstrasse 10
+1'900
+CHF
+/Monat
+Wunderschöne, grosse und helle 3.5 Zimm…
+Ittigenstrasse 10, 3063 Ittigen
+Array
+3.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+123 m2
+- Neu sanierte Wohnung in einem originalen Berner Riegelhaus- Sicht auf die Berner Alpen und den Gu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnstrasse5
+1'310
+CHF
+/Monat
+Nachmieter gesucht
+Bahnstrasse5, 3063 Ittigen
+Array
+3 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+70 m2
+Wir suchen per 1.August 21 einen Nachmieter für unsere Zentrale 3- Zimmerwohnung in Ittigen. Die Wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Jurastrasse 43
+1'830
+CHF
+/Monat
+Wohnen im Park
+Jurastrasse 43, 3063 Ittigen
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Per 01. Oktober 2021 oder nach Vereinbarung vermieten wir eine helle, freundliche und grosszügige 4…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Chasseralstrasse 3
+2'200
+CHF
+/Monat
+Helle, grosse Familienwohnung in Ittigen
+Chasseralstrasse 3, 3063 Ittigen
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Per 01.10.2021 der nach Vereinbarung vermieten wir diese schöne 4.5-Zimmerwohnung mit Balkon im 1. …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Längfeldstrasse 20
+1'400
+CHF
+/Monat
+Wohnen in Ittigen
+Längfeldstrasse 20, 3063 Ittigen
+Array
+3 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+70 m2
+In Ittigen vermieten wir eine Wohnung in oberster Etage eines Mehrfamilienhaus. Die Stadt Bern ist …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Asylstrasse 44
+2'205
+CHF
+/Monat
+Familie geplant? Gründung einer neuen W…
+Asylstrasse 44, 3063 Ittigen
+Array
+5 Zimmer
+139 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5
+Wohnfläche
+139 m2
+Sagenhafte 139.30 m2 für Sie in Ittigen.In der stadtnahen Gemeinde, rund 10 Minuten von Bern entfer…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Aespliz 9
+1'747
+CHF
+/Monat
+Ruhige Wohnlage!
+Im Aespliz 9, 3063 Ittigen
+Array
+4 Zimmer
+101 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+101 m2
+Diese attraktive Wohnung in gepflegter Umgebung bietet Ihnen folgende Annehmlichkeiten:. Wohn- und …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Aespliz 13
+1'390
+CHF
+/Monat
+Ruhige Wohnlage!
+Im Aespliz 13, 3063 Ittigen
+Array
+3 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+80 m2
+Suchen Sie eine grosszügige Wohnung in gepflegter Umgebung? Dann haben wir für Sie genau das Richti…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Untereyfeldweg 1
+1'555
+CHF
+/Monat
+Ihr neues Zuhause in Ittigen?
+Untereyfeldweg 1, 3063 Ittigen
+Array
+3.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+77 m2
+Das schöne, ruhige Mehrfamilienhaus befindet sich an zentraler Lage. Der Öffentliche Verkehr befind…
 Teilen
 E-Mail
 Facebook
@@ -242,288 +542,6 @@ Zimmer
 Wohnfläche
 100 m2
 Per 01. August 2021 oder nach Vereinbarung vermieten wir eine helle, freundliche und grosszügige 4.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Jurastrasse 17
-1'830
-CHF
-/Monat
-Wohnen im Park
-Jurastrasse 17, 3063 Ittigen
-Array
-4.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-98 m2
-Per 01. Oktober 2021 oder nach Vereinbarung vermieten wir eine helle, freundliche und grosszügige 4…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kappelisackerstrasse 95
-1'680
-CHF
-/Monat
-Wohnen mit Gratiseintritt ins Quartierh…
-Kappelisackerstrasse 95, 3063 Ittigen
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wir vermieten per 1. September 2021 an der Kappelisackerstrasse 95 in Ittigen eine moderne und gerä…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Längfeldstrasse 16
-1'406
-CHF
-/Monat
-3-Zimmerwohnung, 2. Stock links
-Längfeldstrasse 16, 3063 Ittigen
-Array
-3 Zimmer
-63 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-63 m2
-Sonnige, ruhige, zentrale Lage - Einkaufsmöglichkeiten und öV in der NäheZu vermieten steht eine st…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Scheunerweg 11
-1'400
-CHF
-/Monat
-ZENTRAL UND RUHIG
-Scheunerweg 11, 3063 Ittigen
-Array
-2 Zimmer
-54 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-54 m2
-Dieses Prachtstück wurde für Sie neu renoviert! Die 2-Zimmer-Wohnung im zentralen, aber ruhigen Itt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chasseralstrasse 35
-1'965
-CHF
-/Monat
-Helle 4.5-Zimmerwohnung in Ittigen zu v…
-Chasseralstrasse 35, 3063 Ittigen
-Array
-4.5 Zimmer
-99 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-99 m2
-Per 1. September 2021 oder nach Vereinbarung vermieten wir diese helle 4.5-Zimmerwohnung im 1. OG m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gartenstrasse 8
-1'300
-CHF
-/Monat
-3 Zimmer Wohnung in Ittigen Papiermühle
-Gartenstrasse 8, 3063 Ittigen
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Zu vermieten nach Vereinbarung 3-Ziimmer Wohnung mit Balkon (Veranda) im HochparterreMiete: 1060.- …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chasseralstrasse 13
-2'260
-CHF
-/Monat
-Wohnträume werden wahr - Idyllische Fam…
-Chasseralstrasse 13, 3063 Ittigen
-Array
-4.5 Zimmer
-113 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-113 m2
-An freundlicher und ruhiger Lage in Ittigen vermieten wir per 01. August 2021 oder nach Vereinbarun…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Jurastrasse 57
-1'690
-CHF
-/Monat
-Wohnen im Park
-Jurastrasse 57, 3063 Ittigen
-Array
-3.5 Zimmer
-84 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-84 m2
-Wir vermieten per 01. September 2021 in ruhiger Überbauung eine helle und grosszügige 3.5-Zimmerwoh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Talgut-Zentrum 16
-1'900
-CHF
-/Monat
-Wohnen im Zentrum
-Talgut-Zentrum 16, 3063 Ittigen
-Array
-4.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-112 m2
-Per 01.08.2021 oder nach Vereinbarung, vermieten wir eine helle und sonnige 4.5-Zimmerwohnung im 3.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Jurastrasse 23
-1'700
-CHF
-/Monat
-Maisonettewohnung mit Galerie auf 2 Eta…
-Jurastrasse 23, 3063 Ittigen
-Array
-3.5 Zimmer
-84 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-84 m2
-Per 01. August 2021 vermieten wir eine grosszügige 3.5 Zimmer-Maisonette in Ittigen.Entrée, Woh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grauholzstrasse 1
-1'220
-CHF
-/Monat
-Erstvermietung - www.grauholzstrasse1.ch
-Grauholzstrasse 1, 3063 Ittigen
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Im Herzen von Ittigen vermieten wir per 1. November 2021 in einem modernen, fünfgeschossigen Gebäud…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kappelisackerstrasse 103
-1'660
-CHF
-/Monat
-Wohnen im Kappelisackerquartier!
-Kappelisackerstrasse 103, 3063 Ittigen
-Array
-4.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-79 m2
-Wir vermieten per 01. August 2021 oder nach Vereinbarung eine 4.5-Zimmerwohnung im 3. OG linksDie W…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Untereyfeldweg 1
-1'550
-CHF
-/Monat
-Nachmieter für schöne grosse 3-Zimmer-W…
-Untereyfeldweg 1, 3063 Ittigen
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Da ein Nachmieter gesucht wird beträgt die Miete für Juni/Juli 2021 je 1000.- und erst ab 01.08.202…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Untereyfeldweg 21
-1'475
-CHF
-/Monat
-Ihre Wohlfühloase in Ittigen!
-Untereyfeldweg 21, 3063 Ittigen
-Array
-4 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Per 1. Juni 2021 vermieten wir diese schöne 4-Zimmer-Wohnung im 1.OG. Die Liegenschaft befindet sic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Untereyfeldweg 21, Ittigen
-1'475
-CHF
-/Monat
-Wohnung mit Aussicht, ab 1. Juni
-Untereyfeldweg 21, Ittigen, 3063 Ittigen
-Array
-4 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnung mit Aussicht, sonniger Balkon, ruhig, Miete inkl. Nebenkosten, 10 Min. bis Bahnhof Bern, ab…
 Teilen
 E-Mail
 Facebook

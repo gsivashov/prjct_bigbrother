@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/immobilien/default
 Title: Alle Immobilien und Wohnungen - Wohnungssuche mit Comparis 
 Description: Wohnungssuche auf comparis.ch. Haus kaufen oder Wohnung mieten? Immobilien suchen und Miete oder Kaufpreis schnell vergleichen.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -311,21 +309,21 @@ Winterthur
 Zug
 Zürich
 Spannende Artikel aus unserem Magazin
-AKTUELLES
-Der Referenzzinssatz bleibt bei 1,25 Prozent
-Der Referenzzinssatz liegt bei 1,25 Prozent. Wer noch keine Mietzinssenkung erhalten hat, kann eine einfordern. Auf comparis.ch können Sie die Mietzinsreduktion berechnen.
+INFO
+Erbengemeinschaft: Wenn viele eine Immobilie erben
+Im Gegensatz zu anderen Besitztümern kann eine Liegenschaft nicht einfach unter mehreren Erben aufgeteilt werden. Comparis erklärt Ihnen, was Sie rund um das Thema Erbengemeinschaft wissen müssen.
 Mehr
-08.06.2021
-STUDIE
-Schweizerinnen und Schweizer machen den Umzug meist selbst
-Beim Zügeln verzichten die meisten Schweizerinnen und Schweizer auf professionelle Hilfe.
+02.08.2021
+INFO
+Nachmieter finden – so gehen Sie bei der Suche vor
+Wer vor dem vertraglich festgehaltenen Kündigungstermin ausziehen will, muss dem Vermieter einen Nachmieter vorschlagen. Comparis zeigt, wie Sie am besten vorgehen.
 Mehr
-09.03.2021
-ANALYSE
-Immobilie mieten oder kaufen? Was lohnt sich für Sie?
-Diverse Faktoren beeinflussen den Entscheid für einen Hauskauf. Comparis hilft Ihnen bei der Entscheidung zwischen mieten und kaufen und beziffert anhand konkreter Beispiele die Kosten für Wohneigentum.
+26.07.2021
+INFO
+Fertighäuser: Günstiger Wohntraum aus dem Katalog?
+Ein Haus im Katalog bestellen – das ist praktisch und beliebt. Doch nicht jedes Fertighaus ist bei Übergabe wirklich fertig. Wer nicht genau hinsieht, zahlt drauf.
 Mehr
-28.04.2021
+10.06.2021
 Alle Artikel anzeigen
 Newsletter
 Immer aktuell informiert über Sparmöglichkeiten sowie Experten-Tipps rund um die Themen Gesundheit, Finanzen und Steuern.

@@ -152,17 +152,17 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Bussigny
-1'275'000
+1'175'000
 CHF
-Bel appartement attique de 5.5 pièces à…
+Bel appartement attique de 4.5 pièces à…
 Bussigny, 1030 Bussigny
 Array
-5.5 Zimmer
+4.5 Zimmer
 130 m2
 Objekttyp
 Wohnung, Duplex
 Zimmer
-5.5
+4.5
 Wohnfläche
 130 m2
 Très bel appartement lumineux et aux grands espaces offre de nombreux arguments : la vue depuis la …

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-elgg/
 Title: Wohnung mieten in Elgg - Immostreet.ch
-Description: Wohnung mieten in  Elgg - Immostreet.ch: ImmoStreet.ch hat 22 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Elgg - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-22 Resultate gefunden ·
+20 Resultate gefunden ·
 Wohnung mieten in Elgg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,60 +131,19 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Friedhofweg 8
-2'030
+Adresse auf Anfrage
+1'900
 CHF
 /Monat
-exklusiv ausgebaute Maisonettewohnung
-Friedhofweg 8, 8353 Elgg
-Array
-3.5 Zimmer
-148 m2
-Objekttyp
-Wohnung, Duplex, Maisonette
-Zimmer
-3.5
-Wohnfläche
-148 m2
-Etage
-Ruhe - Erholung - Wohnqualität – zentrale Lage - alles Eigenschaften die für diese Wohnung zutreffe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Florahof 10
-2'190
-CHF
-/Monat
-3.5 GARTENWHG + 29m2 HOBBYRAUM MIT TAGE…
-Florahof 10, 8353 Elgg
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Ihre Mietwohnung im Eigentumsstandard. Das erwartet Sie:allgemein:- grosszügige Fensterflächen- ele…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Äussere Obergasse 3A
-2'850
-CHF
-/Monat
-Grosszügige 4.5-Zimmer Wohnung in klein…
-Äussere Obergasse 3A, 8353 Elgg
+4.5 Zi Maisonette Wohnung in Elgg mit G…
+Adresse auf Anfrage, 8353 Elgg
 Array
 4.5 Zimmer
-134 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Wohnfläche
-134 m2
-Die Wohnung ist modern und gepflegt in kleinem Mehrfamilienhaus mit Privatspähre und langfristigen …
+nach Vereinbarung (ab September oder Oktober) :4.5 Zi Maisonette Wohnung am Dorfrand in Elgg mit Ga…
 Teilen
 E-Mail
 Facebook
@@ -206,64 +165,245 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Elgg
-1'950
+Im Stutz 1
+2'070
 CHF
 /Monat
-zu vermieten 4 1/2 Zimmer Wohnung / Hau…
-Elgg, 8353 Elgg
+Eigene Waschmaschine und Trockner in Ih…
+Im Stutz 1, 8353 Elgg
 Array
 4.5 Zimmer
-100 m2
+98 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-100 m2
-Der Hausteil ist baubiologisch renoviert und passt gut zu naturverbundenen, umweltbewussten Mensche…
+98 m2
+Das MFH im Stutz 1 wird momentan total saniert, und sieht nachher so aus wie das Haus auf dem Titel…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Florahof 14
-2'550
+Im Stutz 1
+2'595
 CHF
 /Monat
-Sonnige Attikawohnung befristet in Elgg…
-Florahof 14, 8353 Elgg
+Zuoberst ist?s am Schönsten!
+Im Stutz 1, 8353 Elgg
 Array
-3.5 Zimmer
-108 m2
+4.5 Zimmer
+132 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Dachwohnung
 Zimmer
-3.5
+4.5
 Wohnfläche
-108 m2
-Etage
-3 ½-Zimmer Attikawohnung mit 108 m2 Wohnfläche und 2 Terrassen à 35 m2 und 10 m2
-befristet zu verm…
+132 m2
+Dieses MFH mit total 7 Wohnungen befindet sich momentan in einer Total-Sanierung. Sie wohnen nur we…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Haldenstrasse 4
-720
+St. Gallerstrasse 16
+1'370
 CHF
 /Monat
-Herzige 1.0-Zimmerwohnung 2.OG in Elgg …
-Haldenstrasse 4, 8353 Elgg
+Lichtdurchflutete, moderne Wohnung in n…
+St. Gallerstrasse 16, 8353 Elgg
 Array
-1 Zimmer
-37 m2
+2.5 Zimmer
+52 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-1
+2.5
 Wohnfläche
-37 m2
-Wir vermieten per sofort oder nach Vereinbarung diese schöne 1.0-Zimmerwohnung (ca. 37m2) im ländli…
+52 m2
+Lebhaft und gleichzeitig verträumt - das historische Städtchen Elgg befindet sich zwölf Kilometer ö…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mühlegasse 12
+940
+CHF
+/Monat
+1,5 Zimmer Wohnung, zentral gelegen
+Mühlegasse 12, 8353 Elgg
+Array
+1.5 Zimmer
+38 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+38 m2
+Ab 1. Oktober vermieten wir eine 1,5 Zimmer-Wohnung in einem 4-Familienhaus.Die Wohnung verfügt übe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'990
+CHF
+/Monat
+LICHTDURCHFLUTET MIT GROSSEN TERRASSEN!
+Adresse auf Anfrage, 8353 Elgg
+Array
+3.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+105 m2
+In dieser grosszügigen 3.5 Zimmerwohnung fühlen Sie sich sofort zuhause. Sie haben eine wunderschön…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 15
+1'290
+CHF
+/Monat
+Gemütliche 2.5 Zimmer-Wohnung
+Bahnhofstrasse 15, 8353 Elgg
+Array
+2.5 Zimmer
+67 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+67 m2
+Schöne und helle 2.5 Zimmer-Wohnung im Zentrum von Elgg!Verfügbar ab 1. Oktober 2021.Merkmale:- Ged…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 15
+1'270
+CHF
+/Monat
+Dachwohnung mit Balkon
+Bahnhofstrasse 15, 8353 Elgg
+Array
+2.5 Zimmer
+68 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+2.5
+Wohnfläche
+68 m2
+Dach-Wohnung mit Balkon im Zentrum von Elgg!Verfügbar ab 1. Oktober 2021.Merkmale:- Balkon- Praktis…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kirchgasse 4
+2'000
+CHF
+/Monat
+Herrliche, sehr geräumige 5.5 Zimmerwoh…
+Kirchgasse 4, 8353 Elgg
+Array
+5.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+120 m2
+Per Oktober vermieten eine herrliche 5.5 Zimmerwohhnung in Elgg.
+Die Wohnung breitet sich auf …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hertenstrasse 17d
+1'450
+CHF
+/Monat
+Helle 4-Zimmerwohnung an einer ruhigen …
+Hertenstrasse 17d, 8353 Elgg
+Array
+4 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+83 m2
+Besichtigungen finden jeweils jeden Mittwoch um 11:30 Uhr statt.
+Weitere Besichtigungstermine sin…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hertenstrasse 17b
+1'350
+CHF
+/Monat
+Helle 4-Zimmerwohnung an einer ruhigen …
+Hertenstrasse 17b, 8353 Elgg
+Array
+4 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+75 m2
+Besichtigungen finden jeweils jeden Mittwoch um 11:30 Uhr statt.
+Helle 4-Zimmerwohnung (2. OG r…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Äussere Obergasse 3A
+2'550
+CHF
+/Monat
+GROSSZÜGIG MIT EIGENTUMSSTANDARD
+Äussere Obergasse 3A, 8353 Elgg
+Array
+4.5 Zimmer
+134 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+134 m2
+In dieser hellen und grosszügigen Dachwohnung werden Sie sich von Anfang an zu Hause fühlen. Der Ei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 26
+1'640
+CHF
+/Monat
+Wohntraum im Grünen
+Bahnhofstrasse 26, 8353 Elgg
+Array
+4.5 Zimmer
+89 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+89 m2
+Per 16.09.2021 vermieten wir diese 4.5-Zimmerwohnung mit folgenden Vorzügen:Wohn- und Schla…
 Teilen
 E-Mail
 Facebook
@@ -289,26 +429,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Oberhofstrasse 9
-1'230
+Kirchgasse 2
+1'080
 CHF
 /Monat
-Ruhige Lage
-Oberhofstrasse 9, 8353 Elgg
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Ab sofort oder nach Vereinbarung vermieten wir eine schöne 3-Zimmerwohnung an ruhiger Lage.
-Folg…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchgasse 2
-Preis auf Anfrage
 komplett neu renovierte 3 Zimmerwohnung…
 Kirchgasse 2, 8353 Elgg
 Array
@@ -327,7 +451,9 @@ E-Mail
 Facebook
 Whatsapp
 Kirchgasse 4
-Preis auf Anfrage
+1'370
+CHF
+/Monat
 Geräumimge 2.5 Zimmerwohnung zu vermiet…
 Kirchgasse 4, 8353 Elgg
 Array
@@ -345,151 +471,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Sankt Gallerstrasse 32
-1'750
-CHF
-/Monat
-Preiswerte Familienwohnung
-Sankt Gallerstrasse 32, 8353 Elgg
-Array
-7 Zimmer
-114 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-7
-Wohnfläche
-114 m2
-Etage
-Familienfreundliche 7-Zimmer-Wohnung Per 01.07.2021 oder nach Vereinbarung vermieten wir diese fami…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hertenstrasse 17b
-1'510
-CHF
-/Monat
-Helle 4-Zimmerwohnung an einer ruhigen …
-Hertenstrasse 17b, 8353 Elgg
-Array
-4 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-75 m2
-Besichtigungen finden jeweils jeden Mittwoch um 11:30 Uhr statt.
-Helle 4-Zimmerwohnung (2. OG r…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Vordergasse 16
-925
-CHF
-/Monat
-Wohnen in einem Baudenkmal
-Vordergasse 16, 8353 Elgg
-Array
-1.5 Zimmer
-50 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-1.5
-Wohnfläche
-50 m2
-Die 50 m2 grosse 1.5 Zimmerwohnung im 3. Obergeschoss befindet sich in einem der schönsten Gebäude …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'350
-CHF
-/Monat
-Attikawohnung an bevorzugter Wohnlage
-Adresse auf Anfrage, 8353 Elgg
-Array
-3.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-3.5
-Wohnfläche
-105 m2
-Etage
-- 3 Terrassen               - Aussicht (Elgg u. Wald)     - Drehspeicherofen (Brennholz steht unent…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'550
-CHF
-/Monat
-ERSTBEZUG NACH SANIERUNG
-Adresse auf Anfrage, 8353 Elgg
-Array
-3.5 Zimmer
-72 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-72 m2
-Diese frisch sanierte Wohnung liegt direkt am Südhang von Elgg in einem sehr ruhigen und gepflegten…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Boden 1
-2'150
-CHF
-/Monat
-Helle Wohnung mit Weitsicht
-Im Boden 1, 8353 Elgg
-Array
-4.5 Zimmer
-94 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-94 m2
-An bester Lage in Elgg befindet sich angrenzend an eine Landwirtschaftszone diese gut geschnittene …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 10
-740
-CHF
-/Monat
-Sonnige Einzimmerwohnung mit traumhafte…
-Bahnhofstrasse 10, 8353 Elgg
-Array
-1 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Bodenbelag LinoleumFunktionale EinbaukücheBadezimmer mit Badewanne und FensterHochparterre mit sonn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 St. Gallerstrasse 16
 2'245
 CHF
 /Monat
-Lichtdurchflutete Neubauwohnung in natu…
+1. Monat gratis wohnen! Lichtdurchflute…
 St. Gallerstrasse 16, 8353 Elgg
 Array
 4.5 Zimmer
@@ -525,10 +511,26 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 2
-1
-2
-nächste Seite
+Aadorferstrasse 3
+1'500
+CHF
+/Monat
+Moderne 2.5 Zimmerwohnung
+Aadorferstrasse 3, 8353 Elgg
+Array
+2.5 Zimmer
+72 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+72 m2
+Wir vermieten per sofort oder nach Vereinbarung diese moderne und grosszügige 2.5 Zimmerwohnung in …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 ImmoStreet.ch
 Mieten
 Wohnung zu mieten

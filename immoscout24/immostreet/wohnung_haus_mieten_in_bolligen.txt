@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-bolligen/
 Title: Wohnung & Haus mieten in Bolligen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Bolligen - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Bolligen - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-19 Resultate gefunden ·
+18 Resultate gefunden ·
 Wohnung & Haus mieten in Bolligen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,120 +152,179 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Flugbrunnenstrasse 19
-2'850
+Adresse auf Anfrage
+1'375
 CHF
 /Monat
-Sonnige Loftwohnung an bevorzugter Lage
-Flugbrunnenstrasse 19, 3065 Bolligen
+STUDIO IN BOLLIGEN (BE), MÖBLIERT
+Adresse auf Anfrage, 3065 Bolligen
+Array
+1 Zimmer
+25 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+1
+Wohnfläche
+25 m2
+MIETDAUER (mind. 1 Monat, nach Absprache)AllgemeinDas Studio liegt in einem ruhigen Wohnquartier, …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eggweg 15
+1'840
+CHF
+/Monat
+Tolle Familienwohnung!
+Eggweg 15, 3065 Bolligen
+Array
+4.5 Zimmer
+103 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+103 m2
+Am Eggweg in Bolligen vermieten wir per 01.11.2021 oder nach Vereinbarung diese schöne 4.5 Zimmer-W…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bodenacker 24
+2'060
+CHF
+/Monat
+GROSSZÜGIGE WOHNUNG IM HERZEN VON BOLLI…
+Bodenacker 24, 3065 Bolligen
+Array
+4.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+97 m2
+An zentraler aber ruhiger Lage mitten in Bolligen wird diese lichtdurchflutete 4.5-Zimmer-Wohnung v…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hühnerbühlstrasse 21
+1'455
+CHF
+/Monat
+Befristete Vermietung bis Oktober 2023 …
+Hühnerbühlstrasse 21, 3065 Bolligen
+Array
+4.5 Zimmer
+99 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+99 m2
+!Befristete Vermietung bis Oktober 2023!Per sofort oder nach Vereinbarung vermieten wir diese schön…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lutertalstr. 60
+1'770
+CHF
+/Monat
+Idyllische Wohnungüberbauung Lutertal
+Lutertalstr. 60, 3065 Bolligen
 Array
 3.5 Zimmer
-140 m2
+105 m2
 Objekttyp
-Wohnung, Loft
+Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-140 m2
-Etage
-Gönnen Sie sich das BesondereDie überzeugende Architektur der modernen Überbauung Domaine Bolligen …
+105 m2
+Die Gemeinde Bolligen bietet mit zahlreichen Aktivitätsmöglichkeiten viel Freizeitprogramm für Jung…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Krauchthalstrasse 16
-500
+Adresse auf Anfrage
+2'063
 CHF
 /Monat
-Möbiliertes Zimmer (20 qm) an Wochenauf…
-Krauchthalstrasse 16, 3065 Bolligen
+3½ ZI-WOHNUNG IN BOLLIGEN (BE), MÖBLIER…
+Adresse auf Anfrage, 3065 Bolligen
 Array
-20 m2
+3.5 Zimmer
+100 m2
 Objekttyp
-Wohnung, Einzelzimmer
+Wohnung, Möblierte Wohnung
+Zimmer
+3.5
 Wohnfläche
-20 m2
-Möbliertes Zimmer (20 qm) per sofort an WochenaufenthalterIn zu vermieten. Das Zimmer befindet sich…
+100 m2
+MIETDAUER ab 1. Januar 2022 bis 30. April 2022 (mind. 4 Monate)AllgemeinDie Wohnung befindet sich i…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bodenacker
-1'960
+Lutertalstr. 106
+2'720
 CHF
 /Monat
-4.5 Zimmer in Bolligen - komplett sanie…
-Bodenacker, 3065 Bolligen
+Grosse Attikawohnung
+Lutertalstr. 106, 3065 Bolligen
 Array
 4.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-98 m2
-Ab 15 . Juli 2021 oder nach Vereinbarung vermieten wir im idyllischen Bodenacker-Quartier in Bollig…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lutertalstr. 63
-2'560
-CHF
-/Monat
-grosszügige Wohnung mit wundervoller Au…
-Lutertalstr. 63, 3065 Bolligen
-Array
-5 Zimmer
-161 m2
+140 m2
 Objekttyp
 Wohnung, Attikawohnung
 Zimmer
-5
+4.5
 Wohnfläche
-161 m2
-Die Gemeinde Bolligen bietet mit zahlreichen Aktivitätsmöglichkeiten viel Freizeitprogramm für Jung…
+140 m2
+Die im 2018 sanierte Attikawohnung versprüht Lebensfreude und Landliebe pur auf riesiger Wohnfläche…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Einschlagstr. 21
-1'940
+Sternenmatte 1
+1'985
 CHF
 /Monat
-Ruhige und sonnige Wohnlage
-Einschlagstr. 21, 3065 Bolligen
+Moderne 3.5-Zimmerwohnung in Bolligen
+Sternenmatte 1, 3065 Bolligen
 Array
-4.5 Zimmer
-103 m2
+3.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
-Wohnfläche
-103 m2
-Lage / UmgebungDie angebotene Wohnung liegt in der Gemeinde Bolligen. Die Verkehrsanbindung ist ide…
+3.5
+Ab 1. Oktober 2021 vermieten wir an zentraler Lage eine moderne möblierte 3.5-Zimmerwohnung mit Ter…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Lutertalstr. 63
-1'880
+Adresse auf Anfrage
+910
 CHF
 /Monat
-Gemütliche 4.5 Zimmer-Wohnung mit Garte…
-Lutertalstr. 63, 3065 Bolligen
+Helle, ruhige Studiowohnung in Bolligen…
+Adresse auf Anfrage, 3065 Bolligen
 Array
-4.5 Zimmer
-128 m2
+1.5 Zimmer
+33 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+1.5
 Wohnfläche
-128 m2
-Die Gemeinde Bolligen bietet mit zahlreichen Aktivitätsmöglichkeiten viel Freizeitprogramm für Jung…
+33 m2
+Studiowohnung in Einfamilienhaus mit Sitzplatz und Aussenparkplatz. 10 Gehminuten zum Bahnhof RBS B…
 Teilen
 E-Mail
 Facebook
@@ -307,26 +366,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Lutertalstrasse, 49
-2'605
-CHF
-/Monat
-Nachmieter gesucht! Schöne 4.5 Zimmer W…
-Lutertalstrasse, 49, 3065 Bolligen
-Array
-4.5 Zimmer
-127 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-127 m2
-Sehr kinderfreundliche und ruhige Gegend.
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Einschlagstr. 25
 1'700
 CHF
@@ -348,7 +387,7 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-2'490
+2'290
 CHF
 /Monat
 4½ ZI-WOHNUNG IN BERN - BOLLIGEN, MÖBLI…
@@ -362,7 +401,7 @@ Zimmer
 4.5
 Wohnfläche
 100 m2
-MIETDAUER ab 1. August 2021 (mind. 12 Monate, nach Absprache)AllgemeinSehr geräumige, lichtdurchflu…
+MIETDAUER ab sofort (mind. 6 Monate, nach Absprache)AllgemeinSehr geräumige, lichtdurchflutete Wohn…
 Teilen
 E-Mail
 Facebook
@@ -387,51 +426,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Lutertalstr. 58
-2'050
-CHF
-/Monat
-grosszügige und tolle Wohnung im Lutert…
-Lutertalstr. 58, 3065 Bolligen
-Array
-4.5 Zimmer
-134 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-134 m2
-Die Gemeinde Bolligen bietet mit zahlreichen Aktivitätsmöglichkeiten viel Freizeitprogramm für Jung…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hühnerbühlstrasse 19
-1'595
-CHF
-/Monat
-Hier endet Ihre Wohnungssuche! 4.5-Zimm…
-Hühnerbühlstrasse 19, 3065 Bolligen
-Array
-4.5 Zimmer
-99 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-99 m2
-!Befristete Vermietung bis Oktober 2023!Per sofort oder nach Vereinbarung vermieten wir diese schön…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Hühnerbühlstrasse 11-17
-1'290
+1'190
 CHF
 /Monat
-Wenn nicht jetzt, wann dann? 3.5-Zimmer…
+Befristete Vermietung bis Oktober 2023 …
 Hühnerbühlstrasse 11-17, 3065 Bolligen
 Array
 3.5 Zimmer
@@ -463,26 +462,6 @@ Zimmer
 Wohnfläche
 163 m2
 Die Gemeinde Bolligen bietet mit zahlreichen Aktivitätsmöglichkeiten viel Freizeitprogramm für Jung…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Einschlagstrasse
-595
-CHF
-/Monat
-Modern möbliertes WG-Zimmer in Ittigen …
-Einschlagstrasse, 3065 Bolligen
-Array
-1 Zimmer
-20 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-1
-Wohnfläche
-20 m2
-Das Zimmer ist hell und modern eingerichtet. Folgende Möbel sind bereits vorhanden: Bett mit neuer …
 Teilen
 E-Mail
 Facebook

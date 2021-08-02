@@ -1,8 +1,7 @@
-URL: https://www.comparis.ch/carfinder/marktplatz/mini/occasion
-Title: Mini Occasion – Preise vergleichen mit Comparis
-Description: Finden Sie unter 2'158 Mini Occasion Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
+URL: https://www.comparis.ch/carfinder/marktplatz/mini/cooper/occasion
+Title: Mini Cooper Occasion – Preise vergleichen mit Comparis
+Description: Finden Sie unter 374 Mini Cooper Occasion Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -298,6 +296,12 @@ Paceman
 Roadster
 Typ
 Alle
+Cooper
+Cooper SD
+Mini Hatchback
+Mini Hatchback 5
+One
+One D
 MFK
 mit MFK
 Preis von
@@ -567,174 +571,164 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Mini
-(2'836)
-Mini Occasion
-(2'158)
-Mini Neuwagen
-(518)
-Mini Vorführwagen
-(155)
-Mini Oldtimer
-(5)
+(2'598)
+Mini Cooper Occasion
+(374)
+Mini Cooper Neuwagen
+(21)
 Aufbau
-Mini Geländewagen
-(737)
-Mini Limousine
-(350)
-Mini Cabrio
-(350)
-Mini Kombi
-(304)
-Mini Coupé
-(8)
-Mini Nutzfahrzeug
-(4)
+Mini Cooper Limousine
+(71)
+Mini Cooper Cabrio
+(41)
 Motor
-Mini Benzin
-(2'433)
-Mini Diesel
-(194)
-Mini Elektroautos
-(78)
+Mini Cooper Benzin
+(379)
+Mini Cooper Diesel
+(16)
+Typ
+Mini Mini Hatchback
+(594)
+Mini Mini Hatchback 5
+(206)
+Mini One
+(37)
+Mini Cooper SD
+(6)
 Modelle
-Mini Mini
-(1'364)
 Mini Countryman
-(729)
+(699)
 Mini Clubman
-(361)
+(341)
 Mini Cabriolet
-(309)
+(241)
 Mini Paceman
-(32)
+(30)
 Mini Coupé
-(14)
+(19)
 Mini Roadster
 (10)
 Mini Clubvan
-(5)
+(4)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
 Carweb wird durchsucht ...
 drive-in.ch wird durchsucht ...
-2'158 Treffer auf allen grossen Schweizer Auto-Portalen
-2'158 Treffer auf allen Portalen
+374 Treffer auf allen grossen Schweizer Auto-Portalen
+374 Treffer auf allen Portalen
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
-678 Inserate
-9 Inserate
-1'894 Inserate
+116 Inserate
+0 Inserate
+322 Inserate
 0 Inserate
 0 Inserate
-Mini Mini Cabriolet Cabriolet Cabrio F57 2.0i John Cooper Works SAG
-3.5
-10.06.2021
+MINI Cooper S
+2.5
+02.08.2021
 Occasion
-01.2017, Automat, Benzin
-20'000 km, 231 PS, Schwarz
+10.2006, Manuell, Benzin
+159'000 km, 170 PS, Schwarz
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 31'500
-ab CHF 575 / Monat
+CHF 5'750
+ab CHF 105 / Monat
+Mini Mini R56 1.6i Cooper S
+1.5
+02.08.2021
+Occasion
+09.2011, Manuell, Benzin
+220'000 km, 175 PS, Rot
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 7'500
+ab CHF 137 / Monat
 MINI Cooper
-4.5
-10.06.2021
+1.5
+01.08.2021
 Occasion
-10.2008, Manuell, Benzin
-82'000 km, 120 PS, Schwarz
+10.2001, Manuell, Benzin
+292'899 km, 115 PS, Rot
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 4'900
-MINI One
-3.0
-10.06.2021
+CHF 1'600
+MINI Cooper S
+4.0
+01.08.2021
 Occasion
-03.2013, Manuell, Benzin
-59'000 km, 75 PS, Rot
+01.2011, Manuell, Benzin
+120'000 km, 184 PS, Grau
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 7'900
 ab CHF 144 / Monat
-MINI Countryman Cooper ALL4 Steptronic
-4.0
-10.06.2021
-Occasion
-05.2017, Automat, Benzin
-70'500 km, 136 PS, Blau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 20'900
-ab CHF 382 / Monat
-MINI Cooper Steptronic DKG * Driving Assist * LED * Navigation PLUS *
-1.0
-10.06.2021
-Occasion
-07.2018, Automat, Benzin
-47'000 km, 136 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 22'800
-ab CHF 416 / Monat
-MINI Clubman Cooper SD ALL4 Steptronic * CH * Panorama *
-2.5
-10.06.2021
-Occasion
-03.2018, Automat, Diesel
-93'000 km, 190 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 26'800
-ab CHF 489 / Monat
-MINI Countryman Cooper SD ALL4 Steptronic
+MINI Cooper S Cabriolet
 4.5
-10.06.2021
+01.08.2021
 Occasion
-10.2013, Automat, Diesel
-108'568 km, 143 PS, Grau
+08.2006, Automat, Benzin
+76'000 km, 170 PS, Rot
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 11'850
-ab CHF 216 / Monat
-MINI Countryman JCW ALL4
-4.0
-10.06.2021
+CHF 9'300
+ab CHF 170 / Monat
+Mini Mini Cooper
+5.5
+31.07.2021
 Occasion
-03.2018, Automat, Benzin
-62'900 km, 231 PS, Grau
+04.2004, Manuell, Benzin
+190'000 km, 115 PS, andere
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 29'900
-ab CHF 546 / Monat
-MINI Cooper
-5.0
-10.06.2021
+CHF 1'500
+MINI CABRIO Sidewalk
+31.07.2021
 Occasion
-01.2002, Manuell, Benzin
-280'000 km, 115 PS, Grau
+03.2008, Automat, Benzin
+98'511 km, 115 PS, Weiss
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 1'100
-MINI Cooper
-6.0
-10.06.2021
+CHF 12'500
+ab CHF 228 / Monat
+MINI Cooper MK II
+31.07.2021
 Occasion
-04.2005, Manuell, Benzin
-187'000 km, 115 PS, Schwarz
+09.1993, Manuell, Benzin
+107'000 km, 63 PS, Rot
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 1'900
+CHF 28'000
+ab CHF 511 / Monat
+MINI One
+31.07.2021
+Occasion
+04.2003, Manuell, Benzin
+211'000 km, 90 PS, Grün
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 3'950
+MINI Cooper Steptronic
+4.5
+31.07.2021
+Occasion
+02.2011, Automat, Benzin
+73'000 km, 122 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 8'300
+ab CHF 152 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2
@@ -742,7 +736,7 @@ Sie befinden sich auf Seite1
 4
 5
 6
-100
+38
 nächste Seite
 ×
 ×

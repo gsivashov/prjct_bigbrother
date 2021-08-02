@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-grenchen/
 Title: Wohnung & Haus mieten in Grenchen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Grenchen - Immostreet.ch: ImmoStreet.ch hat 150 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Grenchen - Immostreet.ch: ImmoStreet.ch hat 151 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-150 Resultate gefunden ·
+151 Resultate gefunden ·
 Wohnung & Haus mieten in Grenchen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,123 +152,94 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Centralstrasse 66
-890
+Bettlachstrasse 116
+1'270
 CHF
 /Monat
-Schöne renovierte 3 Zimmerwohnung Gren…
-Centralstrasse 66, 2540 Grenchen
+Hier haben Sie den Ausblick!
+Bettlachstrasse 116, 2540 Grenchen
 Array
-3 Zimmer
+2.5 Zimmer
 65 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Dachwohnung
 Zimmer
-3
+2.5
 Wohnfläche
 65 m2
-Nach fertiggestellter Renovation per Sofort oder nach Vereinbarung Centralstrasse 66 im Zentrum von…
+Etage
+Die schöne 2.5-Zimmer-Dachwohnung in einem gepflegten Dreifamilienhaus bietet Ihnen ein heimeliges …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Schöneggstrasse 7
-1'150
+Adresse auf Anfrage
+550
 CHF
 /Monat
-31/2-Zimmerwohnung
-Schöneggstrasse 7, 2540 Grenchen
+WG Zimmer in Grenchen per sofort Frei
+Adresse auf Anfrage, 2540 Grenchen
+Array
+Objekttyp
+Wohnung, Einzelzimmer
+Grosses Zimmer mit Balkon TV Anschluss in Grenchen Für eine Besichtigung 076 417 23 62
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Marktplatz 14
+1'140
+CHF
+/Monat
+HELLE WOHNUNG AN ZENTRALER LAGE
+Marktplatz 14, 2540 Grenchen
 Array
 3.5 Zimmer
-76 m2
+67 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
+67 m2
+Wir vermieten per sofort oder nach Vereinbarung diese schöne, helle 3.5-Zimmerwohnung im 4. Oberges…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Centralstrasse 68
+1'000
+CHF
+/Monat
+CHARMANTES WOHNEN IN GRENCHEN
+Centralstrasse 68, 2540 Grenchen
+Array
+2.5 Zimmer
 76 m2
-grosses Wohnzimmer, Küche mit Geschirrspüler und sep. WC, Balkonmit Aussicht, Kinderspielplatz, Kel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-MSchmelzistrasse 35
-1'115
-CHF
-/Monat
-.
-MSchmelzistrasse 35, 2540 Granges SO
-Array
-4 Zimmer
-90 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4
+2.5
 Wohnfläche
-90 m2
-Etage
+76 m2
+Diese gemütliche 2.5-Zimmer-Wohnung befindet sich an zentraler und ruhiger Lage in Grenchen. Der lu…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Schmelzistrasse 37
-1'090
+Kapellstrasse 5
+1'140
 CHF
 /Monat
-2540 Grenchen : Appartement de 3 pièces
-Schmelzistrasse 37, 2540 Granges SO
-Array
-3 Zimmer
-68 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-68 m2
-Etage
-Grenchen: Schmelzistrasse 37A louer selon entente unappartement de 3 pièces au rezcuisine séparée a…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bucheggstrasse 3a
-1'239
-CHF
-/Monat
-3.5-Zimmerwohnung mit gutem Grundriss u…
-Bucheggstrasse 3a, 2540 Grenchen
+Nachmieter für zentrale Wohnung
+Kapellstrasse 5, 2540 Grenchen
 Array
 3.5 Zimmer
-74 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Wohnfläche
-74 m2
-Altbauwohnung 2017 komplett saniert Parkettboden Wohn- und Schlafzimmer Korridor, Bad …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schmelzirain 9
-1'130
-CHF
-/Monat
-3 Zimmer Wohnung mit grossem, gedecktem…
-Schmelzirain 9, 2540 Grenchen
-Array
-3 Zimmer
-69 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-69 m2
-Grenchenhelle gemütliche sanierte Wohnungoffene Küche mit Backofen  und Steamer
+Zentrale Wohnung in Grenchen im 1 Stock zu vermieten. Die Wohnung ist wenige Gehminuten von den Ein…
 Teilen
 E-Mail
 Facebook
@@ -293,59 +264,176 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Freiestrasse 44
-1'950
+Quartierstrasse 4
+1'550
 CHF
 /Monat
-Attikawohnung mit Charme!
-Freiestrasse 44, 2540 Grenchen
-Array
-3.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-95 m2
-Per 01.04.2021 oder nach Vereinbarung vermieten wir diese moderne und hochwertig ausgebaute Attikaw…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'100
-CHF
-/Monat
-Helle 3 Zimmer-Wohnung mit sep. Gästezi…
-Adresse auf Anfrage, 2540 Grenchen
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Die Zimmer sind mit Laminatböden verlegt, das Wohnzimmer hat einen Parkettboden.Zur Mitbenutzung Wa…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bettlachstr. 278
-880
-CHF
-/Monat
-2,5 ZW mit grossem Balkon
-Bettlachstr. 278, 2540 Grenchen
+Penthouse-feeling in Grenchen
+Quartierstrasse 4, 2540 Grenchen
 Array
 2.5 Zimmer
-65 m2
+69 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-65 m2
-ab 1.Juli 21 zu vermieten eine schöne und helle 2,5 ZW in 2OGgrosser Balkongrosses WohnzimmerBad mi…
+69 m2
+Die LageIn der Überbauung Centralissimo werden Sie sich dank der Nähe zu den beiden Bahnhöfen Grenc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Flughafenstrasse
+1'265
+CHF
+/Monat
+Nachmieter für schöne Wohnung in guter …
+Flughafenstrasse, 2540 Grenchen
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+-> Mehr Bilder gerne auf Anfrage < -(Tutti Begrenzung)Weitere Bilder (Leerzeichen [" "] in ".…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ruffinistrasse 9
+1'000
+CHF
+/Monat
+Sanierte 3.5-Zimmerwohnung
+Ruffinistrasse 9, 2540 Grenchen
+Array
+3.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+70 m2
+ERSTER MONAT GRATIS WOHNEN!Die 3.5-Zimmerwohnung befindet sich im 1. OG an der Ruffinistrasse 9 in …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bielstrasse 120
+1'130
+CHF
+/Monat
+Ihr neues Zuhause! 1. Monat GRATIS!
+Bielstrasse 120, 2540 Grenchen
+Array
+2.5 Zimmer
+82 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+82 m2
+Per sofort oder nach Vereinbarung vermieten wir diese attraktive 2.5 Zimmer-Wohnung im 5. Stock. (K…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Girardstrasse 12
+1'740
+CHF
+/Monat
+MODERN UND ZENTRAL GELEGEN
+Girardstrasse 12, 2540 Grenchen
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Extravaganz und ein atemberaubender Komfort bietet diese offene, modern gehaltene und charmante Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Freiestrasse 46
+1'490
+CHF
+/Monat
+Ihr neues Zuhause?!
+Freiestrasse 46, 2540 Grenchen
+Array
+3.5 Zimmer
+82 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+82 m2
+Per 01.09.2021 oder nach Vereinbarung vermieten wir diese modern ausgebaute 3.5 Zimmerwohnung mit f…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kapellstrasse 5
+1'140
+CHF
+/Monat
+Nachmieter für zentrale Wohnung
+Kapellstrasse 5, 2540 Grenchen
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Zentrale Wohnung in Grenchen im 1 Stock zu vermieten. Die Wohnung ist wenige Gehminuten von den Ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schmelzirain 9
+904
+CHF
+/Monat
+2.5 Zimmer mit Balkon
+Schmelzirain 9, 2540 Grenchen
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Steinachstrasse 8
+1'490
+CHF
+/Monat
+Einrichten leicht gemacht - Richten Sie…
+Steinachstrasse 8, 2540 Grenchen
+Array
+4 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+77 m2
+Etage
+Suchen Sie einen moderne Wohnung an ruhiger Lage? Wir haben das passenende Objekt für Sie! Die Wohn…
 Teilen
 E-Mail
 Facebook
@@ -370,177 +458,79 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Jurastrasse 28
-1'200
+Adresse auf Anfrage
+687
 CHF
 /Monat
-Moderne 3.0-Zimmerwohnung an ruhiger Wo…
-Jurastrasse 28, 2540 Grenchen
+ABSOLUT ZENTRAL
+Adresse auf Anfrage, 2540 Grenchen
 Array
-3 Zimmer
-78 m2
+1 Zimmer
+23 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
+1
 Wohnfläche
-78 m2
-Per 01.09.2021 oder nach Vereinbarung vermieten wir eine moderne 3.0-Zimmerwohnung an sehr ruhiger …
+23 m2
+Diese grosszügige Wohnung liegt mitten im Zentrum von Grenchen. Einkäufsmöglichkeiten, sowie versch…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Centralstrasse 45
-1'480
+Adresse auf Anfrage
+876
 CHF
 /Monat
-Gemütliche 4.5 Zimmer Wohnung im Zentru…
-Centralstrasse 45, 2540 Grenchen
-Array
-4.5 Zimmer
-93 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-93 m2
-Wir vermieten eine schöne 4.5 Zimmer Wohnung an der Centralstrasse 45 in Grenchen an sehr zentraler…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchstrasse 79
-870
-CHF
-/Monat
-Neubau 1.5 Zimmer Wohnung per sofort
-Kirchstrasse 79, 2540 Grenchen
-Array
-1.5 Zimmer
-43 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-43 m2
-Per sofort (oder nach Vereinbarung) suche ich jemanden, wo die Wohnung übernimmt bzw. eine Nachmiet…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Flurstrasse 38
-550
-CHF
-/Monat
-Gemütliches WG Zimmer in einer 2er WG z…
-Flurstrasse 38, 2540 Grenchen
-Array
-18 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-18 m2
-Fixpreis inkl. NK, W-Lan, TV, Strom ect. Reinigung der allgemeinen Räumen extern organisiert.Geeign…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ruffinistrasse 6
-990
-CHF
-/Monat
-3.5 Zimmerwohnung an der Ruffinistrasse…
-Ruffinistrasse 6, 2540 Grenchen
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Sie interessieren sich für eine renovierte Wohnung in einem gutgelegenen Quartier,nahe Zentrum und …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchstrasse 72
-1'390
-CHF
-/Monat
-Grossartige Aussicht im neuen Zuhause!
-Kirchstrasse 72, 2540 Grenchen
-Array
-3.5 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-60 m2
-Etage
-Wir vermieten ab sofort oder nach Vereinbarung diese schöne Wohnung mit folgenden Vorzügen: - Parke…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Freiestrasse 56
-1'000
-CHF
-/Monat
-Erste eigene Wohnung gesucht?
-Freiestrasse 56, 2540 Grenchen
-Array
-2.5 Zimmer
-54 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-54 m2
-Per 01.09.2021 oder nach Vereinbarung vermieten wir diese kleine aber feine Singlewohnung mit Balko…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kastelsstrasse 102
-1'200
-CHF
-/Monat
-3-Zimmer-Wohnung
-Kastelsstrasse 102, 2540 Grenchen
-Array
-3 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-60 m2
-Zu vermieten auf den 1. September eine helle 3-Zimmer-Parterre-Wohnung mit Parkplatz und Keller in …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rötistrasse 8
-800
-CHF
-/Monat
-Gemütliche 2-Zimmerwohnung
-Rötistrasse 8, 2540 Grenchen
+IDEALE LAGE IM ZENTRUM
+Adresse auf Anfrage, 2540 Grenchen
 Array
 2 Zimmer
-47 m2
+40 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2
 Wohnfläche
-47 m2
-Gemütliche, helle 2-Zimmerwohnung an ruhiger Lage. Platten und LaminatbodenWohnküc…
+40 m2
+Diese grosszügige 2 Zimmer Wohnung liegt mitten im Zentrum von Grenchen. Einkaufsmöglichkeiten, sow…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alpenstrasse 85
+1'750
+CHF
+/Monat
+RUSTIKAL UND RUHIG GELEGEN
+Alpenstrasse 85, 2540 Grenchen
+Array
+4.5 Zimmer
+130 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+130 m2
+Sind Sie auf der Suche nach einem hellen und gemütlichen Zuhause an ruhiger und dennoch zentraler L…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ruffinistrasse 10
+890
+CHF
+/Monat
+Ihr neues Zuhause?
+Ruffinistrasse 10, 2540 Grenchen
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Per 01.11.2021 oder nach Vereinbarung vermieten wir diese Wohnung mit folgenden Eigenschaften: …
 Teilen
 E-Mail
 Facebook

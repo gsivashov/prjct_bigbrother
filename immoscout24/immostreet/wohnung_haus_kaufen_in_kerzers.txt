@@ -153,20 +153,21 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Niederriedstrasse
-Preis auf Anfrage
-MODERNE WOHNOASE IM SEELAND
-Niederriedstrasse, 3210 Kerzers
+Oelegasse 20
+1'195'000
+CHF
+"Das Objekt für Wohnen, Arbeiten, Freiz…
+Oelegasse 20, 3210 Kerzers
 Array
-6.5 Zimmer
-165 m2
+8.5 Zimmer
+250 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-6.5
+8.5
 Wohnfläche
-165 m2
-Das 2001 modern erbaute Einfamilienhaus begrüsst Sie am Ende einer Quartierstrasse direkt angrenzen…
+250 m2
+Die ehemalige ,,Öli von Kerzers" war bis 1956 im Betrieb und es wurde Mohn, Rabs, Baumnüsse und Buc…
 Teilen
 E-Mail
 Facebook

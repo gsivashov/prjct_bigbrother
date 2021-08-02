@@ -119,286 +119,288 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Pestalozzistrasse 11
-323
+Hinterbächlistrasse 6-12
+165
 CHF
 /Monat
-Freie Tiefgaragenplätze für Dauermieter
-Pestalozzistrasse 11, 8032 Zürich
+Garagenbox in Tiefgarage
+Hinterbächlistrasse 6-12, 5452 Oberrohrdorf
 Array
 Objekttyp
 Tiefgarage
-Wir vermieten Tiefgaragenparklätze im Parkhaus an der Pestalozzistrasse 11 und an der Moussonstrass…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alte Gasse 7
-55
-CHF
-/Monat
-Aussenparkplätze zu vermieten
-Alte Gasse 7, 8604 Volketswil
-Array
-Objekttyp
-Offener Parkplatz
-Per sofort oder nach Absprache vermieten wir in Volketswil Aussenparkplätze für CHF 55.00 /p.m.
+– Garagenbox in Tiefgarage
+– Reifenkasten
+– Torsender für Tiefgarage
+– Garagenbox mit Schlüssel
 …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Fröbelstrasse 19
+Kügeliloostr. GR
+140
+CHF
+/Monat
+Einstellplatz in Oerlikon
+Kügeliloostr. GR, 8050 Zürich
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten per sofort oder nach Vereinbarung einen Einstellplatz in einer geräumigen Tiefgarage.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberwiesenstr. GR
+140
+CHF
+/Monat
+Suchen Sie einen Einstellplatz in Oerli…
+Oberwiesenstr. GR, 8050 Zürich
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten per 01.09.2021 oder nach Vereinbarung einen Einstellplatz in einer geräumigen Tiefgar…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Drusbergstrasse 18
+50
+CHF
+/Monat
+Abstellplatz zu vermieten
+Drusbergstrasse 18, 8610 Uster
+Array
+Objekttyp
+Offener Parkplatz
+Wir vermieten per 01.09.2021 oder nach Vereinbarung einen Aussen-Parkplatz in Uster.Der monatliche …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schaffhauserstrasse 38
+90
+CHF
+/Monat
+Aussenparkplatz im Zentrum Glattbrugg
+Schaffhauserstrasse 38, 8152 Glattbrugg
+Array
+Objekttyp
+Offener Parkplatz
+Per sofort oder nach Vereinbarung vermieten wir Aussenparkplätze für längerfristige Mieter.
+Sind…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Jungholzhof 3-5
 150
 CHF
 /Monat
-Parkplatz an bester Lage
-Fröbelstrasse 19, 8032 Zürich
+Parkieren beim Bahnhof Oerlikon
+Jungholzhof 3-5, 8050 Zürich
 Array
 Objekttyp
 Offener Parkplatz
-Wir vermieten ab sofort oder nach Vereinbarung einen Parkplatz an bester Lage im Kreis 7.Ich freue …
+Per sofort oder nach Vereinbarung vermieten wir einen Parkplatz nahe Bahnhof Oerlikon.
+Konnten w…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Limmatstrasse 206
-110
-CHF
-/Monat
-Parkplatz zu vermieten
-Limmatstrasse 206, 8005 Zürich
-Array
-Objekttyp
-Offener Parkplatz
-Wir vermieten nach Vereinbarung einen offenen Parkplatz an der Limmatstrasse 206 in Zürich.
-Sie …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Quai du Cheval-Blanc 10
+Triemlistrasse 15 / 17 / 19
 180
 CHF
 /Monat
-Parking souterrain proche du centre de …
-Quai du Cheval-Blanc 10, 1227 Carouge GE
+Einstellplatz in Albisrieden zu vermiet…
+Triemlistrasse 15 / 17 / 19, 8047 Zürich
 Array
 Objekttyp
 Tiefgarage
-Place de parc située au 3ème sous-sol d'un parking privé, à proximité des commerces de Carouge.
+Ab 1. November 2021 oder nach Vereinbarung vermieten wir einen Einstellplatz in einer Tiefgarage. …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Naphtastrasse 10
-250
+Maiengrüeni
+140
 CHF
 /Monat
-Parkplatz bei Bahnhof Hardbrücke
-Naphtastrasse 10, 8005 Zürich
+Einstellhallenplatz sucht Auto!
+Maiengrüeni, 6206 Neuenkirch
 Array
 Objekttyp
 Tiefgarage
-Der Parkplatz befindet sich an der Naphtastrasse 10. Die Ein- und Ausfahrt der Tiefgarage befindet …
+Sind Sie auf der Suche nach einem Einstellhallenplatz für Ihr Auto? In unserer Überbauung "Maiengrü…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
+Leuenfeld
+20
+CHF
+/Monat
+Auto- oder Motorradeinstellhallenplatz …
+Leuenfeld, 4702 Oensingen
+Array
+Objekttyp
+Tiefgarage
+Sind Sie auf der Suche nach einem Einstellhallenplatz für Ihr Auto oder Motorrad? In unserer Überba…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rischstrasse 9
 130
 CHF
 /Monat
-Einstellhallenplätze in privater Einste…
-Adresse auf Anfrage, 6215 Beromünster
+Einstellhallenplatz sucht Auto
+Rischstrasse 9, 6030 Ebikon
 Array
 Objekttyp
 Tiefgarage
-Einstellhallenplätze für Motorfahrzeuge in moderner Einstellhalle.
-Sind Sie auf der Suche nach e…
+Sind Sie auf der Suche nach einem Einstellhallenplatz für Ihr Auto? In unserer Überbauung "Halte Eb…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Feldstrasse 19
-150
-CHF
-/Monat
-Tiefgarageneinstellplatz im Dorf Lachen
-Feldstrasse 19, 8853 Lachen SZ
-Array
-Objekttyp
-Tiefgarage
-Nach Vereinbarung vermieten wir an der Feldstrasse 19 in Lachen zwei Einstellplätze in der Tiefgara…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 4
-120
-CHF
-/Monat
-freie Garagenparkplätze direkt beim Bah…
-Bahnhofstrasse 4, 8965 Berikon
-Array
-Objekttyp
-Verkauf, Autogarage
-Doppelpunkt BerikonPer sofort oder nach Vereinbarung vermieten wir Garagenparkplätze an zentraler L…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rue de Corbières 11
-60
-CHF
-/Monat
-Place de parc extérieure
-Rue de Corbières 11, 1630 Bulle
-Array
-Objekttyp
-Offener Parkplatz
-Place de parc extérieure
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Aeschstrasse 18
+Avenue Eglantine 7
 300
 CHF
 /Monat
-Doppelgarage mit elektrischem Tor für z…
-Aeschstrasse 18, 4202 Duggingen
+Place de Parc intérieure
+Avenue Eglantine 7, 1006 Lausanne
 Array
-122 m2
 Objekttyp
-Verkauf, Autogarage
-Wohnfläche
-122 m2
-Wir vermieten:Doppelgarage mit elektrischem TorPlatz für 2 Fahrzeuge
+Tiefgarage
+Place de parc intérieur no5
+Usage de stationnement de véhicule exclusivement
+L'entrée du garage…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Avenue des Bains 8
-100
+Rue de Vermont
+250
 CHF
 /Monat
-Place de parc extérieure No 2
-Avenue des Bains 8, 1007 Lausanne
+Garage/Box
+Rue de Vermont, 1202 Genève
 Array
 Objekttyp
-Offener Parkplatz
-Lausanne, quartier Ouchy, à louer 1 place de parc extérieure numéro 2, disponible de suite.En cas d…
+Einzelgarage
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Oberdorfstrasse 15
+Av. Adrien-Lachenal
 135
 CHF
 /Monat
-Tiefgaragenplatz in Einstellhalle im Ob…
-Oberdorfstrasse 15, 8965 Berikon
-Array
-Objekttyp
-Tiefgarage
-Tiefgaragenplatz in Einstellhalle zu vermietenIn einer modernen Liegenschaft mit Tiefgarage vermiet…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Iddastrasse 58
-50
-CHF
-/Monat
-Aussen-Parkplatz: Iddastr. 58/60, 9008 …
-Iddastrasse 58, 9008 St. Gallen
+Parking
+Av. Adrien-Lachenal, 1290 Versoix
 Array
 Objekttyp
 Offener Parkplatz
-Aussen-Parkplatz zu vermieten
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Anglikerstr. 54-60 Tiefgarage
-Preis auf Anfrage
-Einstellplätze zu vermieten
-Anglikerstr. 54-60 Tiefgarage, 5612 Villmergen
-Array
-Objekttyp
-Tiefgarage
-Per sofort oder nach Vereinbarung vermieten wir Einstellplätze an der Anglikerstrasse 54-60 in Vill…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Am Isenbach Sammelgarage
-130
+Schneckenmannstrasse 21
+200
 CHF
 /Monat
-Freie Einstellplätze
-Am Isenbach Sammelgarage, 8906 Bonstetten
+Kleine Garage in gepflegter Liegenschaft
+Schneckenmannstrasse 21, 8044 Zürich
 Array
 Objekttyp
 Tiefgarage
-Per sofort oder nach Vereinbarung vermieten wir Einstellplätze oder Doppeleinstellplätze an der Lie…
+Zur Verfügung steht ein Abstellplatz in trockener Sammelgarage mit total 7 Abstellplätzen.
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Neumattstr. 43, EH
-120
+Mettlenstrasse 12
+60
 CHF
 /Monat
-Münchenstein Zollweiden
-Neumattstr. 43, EH, 4142 Münchenstein
+1 Parkplatz im Freien
+Mettlenstrasse 12, 8135 Langnau am Albis
 Array
 Objekttyp
-Tiefgarage
-Wir vermieten in der Einstellhalle Neumattstrasse 43 in Müchenstein Einstellhallenplätze.Die Miete …
+Offener Parkplatz
+Nicht geeignet für grössere Fahrzeuge wie Wohnmobile, Caravan, Camper usw.
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Chemin Fleur de Lys 7
+Direkt neben "Breiteli"
 100
 CHF
 /Monat
-.
-Chemin Fleur de Lys 7, 1008 Prilly
+Alte Landstrasse 170, 8800 Thalwil
+Direkt neben "Breiteli", 8800 Thalwil
 Array
 Objekttyp
-Offener Parkplatz
-Dans un quartier proche de toutes les commodités.
+Tiefgarage
+Parkplatz auf Liftanlage. Geeignet für kleine bis mittlere PW wie z.B. VW Golf o.ä. (nicht geeignet…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hagenholzstrasse Einstellhalle
-230
+Claridenweg 1
+40
 CHF
 /Monat
-Viel extra Platz für Ihr Auto gesucht?
-Hagenholzstrasse Einstellhalle, 8050 Zürich
+Motorradabstellplatz
+Claridenweg 1, 8800 Thalwil
 Array
 Objekttyp
-Doppelgarage
-Wir haben die Lösung. Per sofort oder nach Vereinbarung vermieten wir Doppelparkplätze in der Tiefg…
+Autogarage, Covered parking place bike
+In kleiner und trockener Sammelgarage.
 Teilen
 E-Mail
 Facebook
 Whatsapp
-av. du Bietschhorn 21a-23b PP
-50
+Schönaumatt
+130
 CHF
 /Monat
-Places de parc à la location
-av. du Bietschhorn 21a-23b PP, 1950 Sion
+Einstellhallenplatz sucht Auto!
+Schönaumatt, 6044 Udligenswil
+Array
+Objekttyp
+Tiefgarage
+Sind Sie auf der Suche nach einem Einstellhallenplatz für Ihr Auto?In der Schönaumatt in Udligenswi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 38c
+130
+CHF
+/Monat
+Einstellhallenplatz sucht Auto!
+Hauptstrasse 38c, 6034 Inwil
+Array
+Objekttyp
+Tiefgarage
+Sind Sie auf der Suche nach einem Einstellhallenplatz für Ihr Auto?In der Hauptstrasse 38c in Inwil…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Usserhus 3/4
+40
+CHF
+/Monat
+Aussenparkplatz sucht Auto
+Usserhus 3/4, 6023 Rothenburg
 Array
 Objekttyp
 Offener Parkplatz
-Places de parc extérieures dans le quartier de Vissigen disponibles de suite ou à convenir pour CHF…
+Sind Sie auf der Suche nach einem Aussenabstellplatz für Ihr Auto?Im Quartier Usserhus in Rothenbur…
 Teilen
 E-Mail
 Facebook

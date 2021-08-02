@@ -1,6 +1,6 @@
-URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-sarnen/
+URL: https://www.immostreet.ch/de/mieten/apartment-and-house/in-sarnen/
 Title: Wohnung & Haus mieten in Sarnen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Sarnen - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Sarnen - Immostreet.ch: ImmoStreet.ch hat 11 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-7 Resultate gefunden ·
+11 Resultate gefunden ·
 Wohnung & Haus mieten in Sarnen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,44 +152,22 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-3'800
+Grossgasse 1
+2'600
 CHF
 /Monat
-Seeanstoss
-Adresse auf Anfrage, 6060 Sarnen
+Exklusive Wohnung mitten im Dorf Sarnen
+Grossgasse 1, 6060 Sarnen
 Array
-5 Zimmer
-160 m2
+4.5 Zimmer
+130 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-5
+4.5
 Wohnfläche
-160 m2
-Etage
-Gut 5 min von Sarnen. 15/20 min von Luzern,ca. 30 Minuten von Rotkreuz, ZG;  An einmaliger Lage mit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brünigstrasse 100
-1'030
-CHF
-/Monat
-3 1/2-Zimmer-Wohnung
-Brünigstrasse 100, 6060 Sarnen
-Array
-3.5 Zimmer
-81 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-81 m2
-Die Wohnung ist zur Bachseite gelegen.
-Grosser, heller Wohnraum mit Parkettboden; Nasszelle mit Ba…
+130 m2
+Hier lässt es sich wohnenDie Liegenschaft liegt sehr zentral und befindet sich in unmittelbarer Näh…
 Teilen
 E-Mail
 Facebook
@@ -214,26 +192,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-5'875
-CHF
-/Monat
-5 ZIMMER-ATTIKAWOHNUNG IN SARNEN (OW), …
-Adresse auf Anfrage, 6060 Sarnen
-Array
-5 Zimmer
-200 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-5
-Wohnfläche
-200 m2
-MIETDAUER ab 1. September 2021 bis 28. Februar 2022 (mind. 1 Monat)Allgemein200m², im 2. Stock mit …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Pilatusstrasse 14a (Haus B5)
 1'920
 CHF
@@ -254,33 +212,163 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Foribachweg 4
-1'870
+Pilatusstrasse 14b (Haus B3)
+1'940
 CHF
 /Monat
-helle 4.5-Zimmerdachwohnung im Grünen
-Foribachweg 4, 6060 Sarnen
+Ihre Wohlfühloase!
+Pilatusstrasse 14b (Haus B3), 6060 Sarnen
 Array
-4.5 Zimmer
+3.5 Zimmer
+88 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
-Wir vermieten per 1. August 2021 oder nach Vereinbarung eine grosszügige, helle 4.5-Zimmerwohnung i…
+3.5
+Wohnfläche
+88 m2
+Wir vermieten per 1. September 2021 diese helle 3.5-Zimmerwohnung mit modernem Grundriss und gemütl…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Lindenhof 2
-60
+Marktstrasse 8
+1'390
 CHF
 /Monat
-Lagerraum
-Lindenhof 2, 6060 Sarnen
+Moderne, helle Wohnung an zentrumsnaher…
+Marktstrasse 8, 6060 Sarnen
 Array
+2.5 Zimmer
+47 m2
 Objekttyp
-Kellerabteil
-LagerraumIm Lindenhof vermieten wir im 2. UG einen Lagerraum mit ca. 20 m2. Nutzfläche. Der Raum ei…
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+47 m2
+Hier lässt es sich wohnenDie Liegenschaft ist sehr zentral gelegen. Der Bahnhof und einige Einkaufs…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'480
+CHF
+/Monat
+GEPFLEGTE RÄUME IM DORFKERN
+Adresse auf Anfrage, 6060 Sarnen
+Array
+4.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+85 m2
+Bevorzugen Sie einen familiären Wohnblock mit möglichst wenig Eingheiten? Dann könnte diese Liegens…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Marktstrasse 8
+1'490
+CHF
+/Monat
+Helle Wohnung im Zentrum von Sarnen
+Marktstrasse 8, 6060 Sarnen
+Array
+3.5 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+81 m2
+Hier lässt es sich wohnenDie Liegenschaft ist sehr zentral gelegen. Der Bahnhof, das Schulhaus und …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Marktstrasse 20
+2'250
+CHF
+/Monat
+Zentrales Wohnen in Sarnen
+Marktstrasse 20, 6060 Sarnen
+Array
+5.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+140 m2
+Hier lässt es sich wohnenDie Liegenschaft befindet sich in unmittelbarer Nähe der Autobahnausfahrt …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Milchstrasse 2
+1'640
+CHF
+/Monat
+Nachmieter oder Untermieter gesucht
+Milchstrasse 2, 6060 Sarnen
+Array
+3.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+75 m2
+Nachmieter oder Untermieter gesucht für 8 bis 12 Monate oder eben direkt Nachmieter werden. Die Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Büntenstrasse 1
+1'870
+CHF
+/Monat
+Schöne 4.5-Zimmerwohnung in Sarnen zu v…
+Büntenstrasse 1, 6060 Sarnen
+Array
+4.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+90 m2
+Etage
+An zentraler und kinderfreundlicher Lage vermieten wir eine helle 4 ½-Zimmerwohnung im 1. Obergesch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+5'875
+CHF
+/Monat
+5 ZIMMER-ATTIKAWOHNUNG IN SARNEN (OW), …
+Adresse auf Anfrage, 6060 Sarnen
+Array
+5 Zimmer
+200 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+5
+Wohnfläche
+200 m2
+MIETDAUER ab 1. September 2021 bis 28. Februar 2022 (mind. 1 Monat)Allgemein200m², im 2. Stock mit …
 Teilen
 E-Mail
 Facebook

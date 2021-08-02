@@ -1,8 +1,7 @@
 URL: https://www.comparis.ch/carfinder/marktplatz/fiat/uno
 Title: Fiat Uno – Preise vergleichen mit Comparis
-Description: Finden Sie unter 12 Fiat Uno Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
+Description: Finden Sie unter 9 Fiat Uno Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -605,56 +603,47 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Fiat
-(6'004)
+(5'950)
 Fiat Uno Occasion
-(11)
+(8)
 Motor
 Fiat Uno Benzin
-(12)
+(9)
 Typ
 Fiat Uno
-(12)
+(9)
 Modelle
 Fiat 500
-(2'408)
-Fiat Tipo
-(535)
+(2'513)
 Fiat Panda
-(534)
-Fiat 500X
-(414)
-Fiat 595
-(392)
-Fiat Ducato
-(376)
+(537)
+Fiat Tipo
+(466)
 Fiat Punto
-(345)
-Fiat Doblo
-(146)
+(399)
+Fiat 595
+(377)
+Fiat 500X
+(371)
+Fiat Ducato
+(356)
+Fiat 500L
+(121)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
 Carweb wird durchsucht ...
 drive-in.ch wird durchsucht ...
-12 Treffer auf allen grossen Schweizer Auto-Portalen
-12 Treffer auf allen Portalen
+9 Treffer auf allen grossen Schweizer Auto-Portalen
+9 Treffer auf allen Portalen
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
 0 Inserate
 0 Inserate
-12 Inserate
+9 Inserate
 0 Inserate
 0 Inserate
-FIAT Uno 45 i.e.
-09.06.2021
-Occasion
-04.1988, Manuell, Benzin
-105'070 km, 45 PS, Rot
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 4'680
 FIAT Uno 1.4 i.e. S. Top Line
 30.04.2021
 Occasion
@@ -675,6 +664,7 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 14'900
 ab CHF 272 / Monat
+Preisreduktion
 FIAT Uno 1.1 i.e. Style
 20.03.2021
 Occasion
@@ -683,18 +673,7 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 5'775
-ab CHF 105 / Monat
-FIAT Uno Turbo i.e.
-09.03.2021
-Occasion
-02.1990, Manuell, Benzin
-130'000 km, 100 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 19'500
-ab CHF 356 / Monat
+CHF 4'444
 FIAT Uno Turbo i.e.
 26.02.2021
 Occasion
@@ -715,17 +694,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 4'500
 Preisreduktion
-FIAT Uno 1.4 i.e. Turbo
-18.02.2021
-Occasion
-01.1991, Manuell, Benzin
-23'800 km, 112 PS, Türkis
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 19'000
-ab CHF 347 / Monat
-Preisreduktion
 FIAT Uno Turbo i.e.
 08.07.2020
 Occasion
@@ -734,8 +702,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 16'890
-ab CHF 308 / Monat
+CHF 15'890
+ab CHF 290 / Monat
 Preisreduktion
 FIAT Uno Turbo i.e.
 29.06.2020
@@ -747,10 +715,27 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 21'000
 ab CHF 384 / Monat
-vorherige Seite
-Sie befinden sich auf Seite1
-2
-nächste Seite
+FIAT Uno Turbo i.e.
+01.05.2019
+Oldtimer
+06.1988, Manuell, Benzin
+47'500 km, 100 PS, Blau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 29'999
+ab CHF 548 / Monat
+Preisreduktion
+FIAT Uno 45
+02.11.2018
+Occasion
+03.1986, Manuell, Benzin
+56'900 km, 45 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 5'500
+ab CHF 100 / Monat
 ×
 ×
 comparis.ch

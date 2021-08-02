@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marktplatz/mazda/rx-7
 Title: Mazda RX-7 – Preise vergleichen mit Comparis
 Description: Finden Sie unter 8 Mazda RX-7 Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -586,16 +584,14 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Mazda
-(4'316)
+(3'774)
 Mazda RX-7 Occasion
-(5)
-Mazda RX-7 Oldtimer
-(3)
+(6)
 Aufbau
-Mazda RX-7 Coupé
-(5)
 Mazda RX-7 Cabrio
-(3)
+(4)
+Mazda RX-7 Coupé
+(4)
 Motor
 Mazda RX-7 Benzin
 (8)
@@ -603,22 +599,22 @@ Typ
 Mazda RX-7
 (8)
 Modelle
-Mazda CX-5
-(825)
-Mazda CX-30
-(746)
 Mazda 2
-(721)
+(682)
+Mazda CX-30
+(650)
+Mazda CX-5
+(641)
 Mazda 3
-(648)
+(602)
 Mazda 6
-(325)
+(289)
 Mazda CX-3
-(321)
-Mazda 5
-(205)
+(237)
 Mazda MX-5
-(195)
+(187)
+Mazda 5
+(167)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -634,16 +630,16 @@ weniger
 7 Inserate
 0 Inserate
 0 Inserate
-MAZDA RX-7 2.3
-17.05.2021
-Oldtimer
-07.1981, Manuell, Benzin
-110'000 km, 115 PS, Rot
+MAZDA RX-7 2.6 Turbo II
+29.07.2021
+Occasion
+08.1989, Manuell, Benzin
+117'657 km, 200 PS, Weiss
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 25'000
-ab CHF 457 / Monat
+CHF 29'500
+ab CHF 539 / Monat
 MAZDA RX-7 2.6 Turbo II
 23.03.2021
 Occasion
@@ -658,7 +654,7 @@ Mazda RX-7 2.6 Turbo II
 04.03.2021
 Occasion
 03.1990, Manuell, Benzin
-162'000 km, 199 PS, Weiss
+162'000 km, 200 PS, Weiss
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
@@ -694,8 +690,8 @@ Oldtimer
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 13'500
-ab CHF 247 / Monat
+CHF 14'900
+ab CHF 272 / Monat
 Preisreduktion
 MAZDA RX-7 2.3
 31.05.2018

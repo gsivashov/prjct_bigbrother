@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/in-rorschacherberg/
 Title: Wohnung & Haus kaufen in Rorschacherberg - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Rorschacherberg - Immostreet.ch: ImmoStreet.ch hat 16 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Rorschacherberg - Immostreet.ch: ImmoStreet.ch hat 14 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-16 Resultate gefunden ·
+14 Resultate gefunden ·
 Wohnung & Haus kaufen in Rorschacherberg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,28 +151,23 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Heidenerstrasse 59
-2'250'000
-CHF
-Einzigartige und luxuriöse Penthouse-Wo…
-Heidenerstrasse 59, 9404 Rorschacherberg
+Adresse auf Anfrage
+Preis auf Anfrage
+Schöne Villa "Giardino" mit traumhafter…
+Adresse auf Anfrage, 9404 Rorschacherberg
 Array
-5.5 Zimmer
-255 m2
+280 m2
 Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
+Wohnung, Einzelhaus
 Wohnfläche
-255 m2
-Etage
-MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Einzigartige und luxuriö…
+280 m2
+MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Schöne Villa "Giardino" …
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Bachwiesstrasse 11
-660'000
+640'000
 CHF
 Sehr schöne grosse 4.5 Zimmer Wohnung r…
 Bachwiesstrasse 11, 9404 Rorschacherberg
@@ -190,73 +185,73 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-3'000'000
+Wiesentalstrasse 10
+530'000
 CHF
-Traumhafte Villa mit schöner Seesicht
-Adresse auf Anfrage, 9404 Rorschacherberg
+Charmante Penthouse-Wohnung mit fantast…
+Wiesentalstrasse 10, 9404 Rorschacherberg
 Array
-Objekttyp
-Wohnung, Villa
-MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Traumhafte Villa mit sch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-890'000
-CHF
-Exklusive 4.5 ETW, Rorschacherberg
-Adresse auf Anfrage, 9404 Rorschacherberg
-Array
-4.5 Zimmer
-130 m2
+4 Zimmer
+94 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+4
 Wohnfläche
-130 m2
-Sehr exklusive 4.5 Zi. ETW im Rorschacherberg zu verkaufen. Edle Böden, exklusive Nasszellen, Wartu…
+94 m2
+Diese geräumige und im Jahr 2021 hochwertig sanierte 4.0-Zimmer-Penthouse-Wohnung ist Teil einer äl…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Wiesenhalde 8
-2'550'000
+Kräzeren 3
+1'450'000
 CHF
-WOHNEN MIT PANORAMABLICK
-Wiesenhalde 8, 9404 Rorschacherberg
+Wohnhaus mit Scheune und fantastischer …
+Kräzeren 3, 9404 Rorschacherberg
 Array
-8 Zimmer
-218 m2
+9.5 Zimmer
+342 m2
 Objekttyp
-Wohnung, Villa
+Wohnung, Einzelhaus
 Zimmer
-8
+9.5
 Wohnfläche
-218 m2
-Etage
-An bester Lage in Rorschacherberg ist diese Villa mit 8 Zimmern anzutreffen. Auf einer Grundstücksf…
+342 m2
+LAGE- ruhige, familienfreundliche Wohnlage- attraktive Weitsicht auf den Bodensee und ins Grüne- gu…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'450'000
+383'000
 CHF
-Einfamilienhaus an begehrter Lage mit B…
+4-Zimmer Eigentumswohnung
 Adresse auf Anfrage, 9404 Rorschacherberg
 Array
-5.5 Zimmer
-118 m2
+4 Zimmer
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4
+Etage
+4-Zimmer-Dachwohnungmit Aussicht auf den BodenseeBesuchen Sie unseren 360 Grad Rundgang unter dem n…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Burenweid
+1'500'000
+CHF
+Alt-Liegenschaft an einmaliger "TOPLAGE"
+Burenweid, 9404 Rorschacherberg
+Array
+91 m2
 Objekttyp
 Wohnung, Einzelhaus
-Zimmer
-5.5
 Wohnfläche
-118 m2
-An traumhafter Hang- und Aussichtslage präsentiert sich dieses Einfamilienhaus mit phänomenalem Bod…
+91 m2
+Einmalige Weitsicht über den BodenseeDas Grundstück befindet sich oberhalb von Rorschacherberg, ang…
 Teilen
 E-Mail
 Facebook
@@ -301,45 +296,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'850'000
-CHF
-6.5-Zimmer Eckhaus mit beheiztem Aussen…
-Adresse auf Anfrage, 9404 Rorschacherberg
-Array
-6.5 Zimmer
-170 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-170 m2
-An ruhiger, bevorzugter Wohnlage in Rorschacherberg liegt dieses einseitig angebaute 6.5-Zimmer Ein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'590'000
-CHF
-Grosses EFH mit Gewerberaum / Einlieger…
-Adresse auf Anfrage, 9404 Rorschacherberg
-Array
-7.5 Zimmer
-295 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7.5
-Wohnfläche
-295 m2
-Etage
-Dieses charmante Einfamilienhaus (umgebauter Schopf) befindet sich an zentraler Lage in Rorschacher…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Lochstrasse 29
 Preis auf Anfrage
 Unverbaute Seesicht: Grosse Villa mit v…
@@ -375,7 +331,7 @@ Zimmer
 Wohnfläche
 107 m2
 Etage
-Er kann wahr werden – Ihr Traum von der unverbaubaren Seesicht! Wohnfeeling pur in lichtdurchflutet…
+Er kann wahr werden – Ihr Traum von der unverbaubaren Seesicht!Virtuelle Tour:https://www.remotely.…
 Teilen
 E-Mail
 Facebook
@@ -414,7 +370,7 @@ Zimmer
 Wohnfläche
 123 m2
 Etage
-Einzigartige, unverbaubare Seesicht!Erfüllen Sie sich Ihren Traum von einer wunderbaren Seesicht! H…
+Einzigartige, unverbaubare Seesicht!Virtuelle Tour: https://www.remotely.tours/app/property/5f73133…
 Teilen
 E-Mail
 Facebook
@@ -442,7 +398,7 @@ Whatsapp
 Adresse auf Anfrage
 850'000
 CHF
-Besonders weil Sie besonders sind
+TOP MODERN - Lifestyle pur!
 Adresse auf Anfrage, 9404 Rorschacherberg
 Array
 4.5 Zimmer

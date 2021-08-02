@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-wohnung/in-kerns/
 Title: Wohnung mieten in Kerns - Immostreet.ch
-Description: Wohnung mieten in  Kerns - Immostreet.ch: ImmoStreet.ch hat 8 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Kerns - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-8 Resultate gefunden ·
+7 Resultate gefunden ·
 Wohnung mieten in Kerns
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,102 +131,6 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Brunnenmatt 7
-1'880
-CHF
-/Monat
-3 1/2-Zimmer-Attikawohnung
-Brunnenmatt 7, 6064 Kerns
-Array
-3.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-77 m2
-Sonnige und ruhige Lage mit Alpenpanorama und trotzdem im Dorfzentrum.
-Wunderbar helle Wohnung m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Flüelistrasse
-2'098
-CHF
-/Monat
-4.5 Zimmer Wohnung Kerns
-Flüelistrasse, 6064 Kerns
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Wir suchen für unsere schöne helle & grosszügige 4.5 Zimmer Wohnung auf 1.08.21 in Kerns einen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wijermattstrasse 5
-1'770
-CHF
-/Monat
-helle 3.5-Zimmerwohnung mit Abendsonne
-Wijermattstrasse 5, 6064 Kerns
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wir vermieten eine grosszügige 3.5-Zimmerwohnungen mit 100m2 Wohfläche und einem 16m2 grossen, über…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fliederweg, Kerns
-1'290
-CHF
-/Monat
-Ruhige Gartenwohnung
-Fliederweg, Kerns, 6064 Kerns
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Schöne, ruhige Wohnung mit Sitzplatz mit Sonnenstore und Wiese davor. In Wohnquartier ohne jegliche…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brunnenmatt
-1'520
-CHF
-/Monat
-Grosszügige 3 1/2-Zimmer-Parterre-Wohnu…
-Brunnenmatt, 6064 Kerns
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Sonnige, ruhige Lage in schöner, ländlicher Umgebung und trotzdem im Dorfzentrum.
-Grosszügige Wo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Wijermattstrasse 1
 1'810
 CHF
@@ -244,6 +148,87 @@ Wohnfläche
 111 m2
 Etage
 Für diese grosszügige und moderne 3.5-Zimmerwohnung im 1. Obergeschoss suchen wir per 1. Oktober 20…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Müliboden 6
+1'610
+CHF
+/Monat
+Neuere, grosszügige 3 1/2-Zimmer-Wohnung
+Müliboden 6, 6064 Kerns
+Array
+3.5 Zimmer
+104 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+104 m2
+Neuere Wohnung in schöner, ländlicher Umgebung.
+Grosszügig, hell und mit sehr gutem Ausbaustanda…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kerns
+1'150
+CHF
+/Monat
+2 1/2 Dachwohnung in Kerns zu vermieten
+Kerns, 6064 Kerns
+Array
+2.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+80 m2
+Ich suche einen Nachmieter per 1.Sept für meine schöne 2 1/2 Zimmer-Dachwohnung.Die Wochung liegt i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hofstrasse 8
+1'730
+CHF
+/Monat
+4.5 Zimmerwohnung im 3. OG
+Hofstrasse 8, 6064 Kerns
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Ab 01.10.2021 zu vermieten: 4.5 Zimmerwohnung im 3. OG, Plattenboden und Zimmer mit Laminat, gedeck…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Flüelistrasse 13
+2'098
+CHF
+/Monat
+Grosszügig, hell, modern. Ihr ideales, …
+Flüelistrasse 13, 6064 Kerns
+Array
+4.5 Zimmer
+121 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+121 m2
+Wohnung: Diese exklusive, top moderne und helle Wohnung im Eigentumsstandard ist mit hochwertigen B…
 Teilen
 E-Mail
 Facebook

@@ -129,346 +129,211 @@ Postal code (ascending)
 Postal code (descending)
 Sorting
 Submit
-Dornacherstr. 82
-2'125
+Address on request
+2'990
 CHF
 /Month
-3.5-Z'Wohnung mit zwei Dachterrassen un…
-Dornacherstr. 82, 4053 Basel
+HOCHWERTIGER NEUBAU MIT GARTENSITZPLATZ
+Address on request, 4058 Basel
 Array
-3.5 Rooms
-101 m2
+3 Rooms
+117 m2
 Object type
 Apartment, Duplex
 Rooms
-3.5
+3
 Living space
-101 m2
-Ab 1. Juli 2021 oder nach Vereinbarung vermieten wir diese geräumige 3.5-Zimmer-Maisonette-Dachwohn…
+117 m2
+Diese Maisonette-Wohnung ist grosszügig geschnitten mit hellen Räumen und viel Stauraum. Es verfügt…
 Share
 E-mail
 Facebook
 Whatsapp
-Clarastrasse 57
-2'625
+Sevogelstrasse 32
+3'220
 CHF
 /Month
-Luxuriös: Wohnen auf zwei Ebenen
-Clarastrasse 57, 4058 Basel
+WOHNTRAUM mit DACHTERRASSE
+Sevogelstrasse 32, 4052 Basel
 Array
 4.5 Rooms
-Object type
-Apartment, Duplex
-Rooms
-4.5
-Ab Dezember 2021 bietet die Clarastrasse 57 frisch sanierte, individuelle Wohnungen. Lassen Sie sic…
-Share
-E-mail
-Facebook
-Whatsapp
-Holbeinstrasse 31
-3'170
-CHF
-/Month
-SANIERTE MAISONETTEDACHWOHNUNG NÄHE UNI
-Holbeinstrasse 31, 4051 Basel
-Array
-4.5 Rooms
-113 m2
+156 m2
 Object type
 Apartment, Duplex
 Rooms
 4.5
 Living space
-113 m2
-Wir vermieten per 16.09.2021 oder nach Vereinbarung eine im Jahre 2018/2019 sanierte Maisonettewohn…
+156 m2
+Unsere schöne Attikawohnung mit viel Raum & Licht, bietet Ihnen garantiert einen hohen Wohnkomf…
 Share
 E-mail
 Facebook
 Whatsapp
-Riehenstrasse 90
-3'205
+Gerbergasse 52
+6'950
 CHF
 /Month
-Moderne Maisonette-Wohnung im EG
-Riehenstrasse 90, 4058 Basel
+Bijou-Maisonettewohnung im Herzen der G…
+Gerbergasse 52, 4051 Basel
 Array
-2.5 Rooms
-134 m2
+7 Rooms
+214 m2
+Object type
+Apartment, Duplex, Maisonette
+Rooms
+7
+Living space
+214 m2
+Floor
+Diese wunderschöne Maisonettewohnung in der Grossbasler Altstadt mit 7 Zimmer verteilt sich über 3 …
+Share
+E-mail
+Facebook
+Whatsapp
+Hebelstrasse 65
+2'968
+CHF
+/Month
+Originell speziell!!
+Hebelstrasse 65, 4056 Basel
+Array
+4.5 Rooms
+141 m2
+Object type
+Apartment, Duplex, Maisonette
+Rooms
+4.5
+Living space
+141 m2
+Floor
+Stadtnah, wenige Schritte bis zum ÖV
+Ruhige Seitenstrasse
+Origineller Grundriss, mit ausgebau…
+Share
+E-mail
+Facebook
+Whatsapp
+Schneidergasse 6
+2'900
+CHF
+/Month
+Maisonett-Wohnung mit Balkon und Lift i…
+Schneidergasse 6, 4051 Basel
+Array
+4.5 Rooms
+128 m2
+Object type
+Apartment, Duplex, Maisonette
+Rooms
+4.5
+Living space
+128 m2
+Floor
+Leben in der historischen Altstadt von Basel!
+Die 4.5 Zi.-Maisonettwohnung liegt in einer ruhige…
+Share
+E-mail
+Facebook
+Whatsapp
+Ahornstrasse 29
+2'560
+CHF
+/Month
+Stilvolle Moderne
+Ahornstrasse 29, 4055 Basel
+Array
+5.5 Rooms
+118 m2
 Object type
 Apartment, Duplex
 Rooms
-2.5
+5.5
 Living space
-134 m2
-Floor
-Diese ansprechende und helle Maisonette-Wohnung befindet sich an zentraler Lage und ist den öffentl…
+118 m2
+Wir vermieten eine schöne, hochwertig ausgebaute und renovierte 5.5-Z'Wohnungan idealer Lage
 Share
 E-mail
 Facebook
 Whatsapp
-Holbeinstrasse 15
-3'950
+Arlesheimerstrasse 20
+4'570
 CHF
 /Month
-aussergewöhnliche Maisonettewohnung nah…
-Holbeinstrasse 15, 4051 Basel
+6 1/2 Zimmer: Viel Platz und Licht mit …
+Arlesheimerstrasse 20, 4053 Basel
+Array
+6.5 Rooms
+173 m2
+Object type
+Apartment, Duplex, Maisonette
+Rooms
+6.5
+Living space
+173 m2
+Floor
+Lust auf Gundeli? Lust auf richtig viel Platz und wunderschöne Architektur? Dann sollten Sie diese …
+Share
+E-mail
+Facebook
+Whatsapp
+Münsterberg 14
+3'200
+CHF
+/Month
+Altbau Loft
+Münsterberg 14, 4051 Basel
 Array
 4.5 Rooms
-150 m2
+130 m2
 Object type
 Apartment, Duplex
 Rooms
 4.5
 Living space
-150 m2
-Floor
-An ruhiger Spielstrasse gelegen, nur 5 Minuten bis zu Universität und Spalenberg, befindet sich die…
+130 m2
+Wohnung im Herzen der Stadt BaselExklusiver Ausbau in historischer BausubstanzIn einem wunderschöne…
 Share
 E-mail
 Facebook
 Whatsapp
-Krachenrain 9
-6'980
+Leuengasse 10
+3'240
 CHF
 /Month
-Erstvermietung nach Komplettsanierung /…
-Krachenrain 9, 4059 Basel
+Attraktive, 4.5-Zimmer Maisonett-Wohnun…
+Leuengasse 10, 4057 Basel
 Array
-7.5 Rooms
-231 m2
+4.5 Rooms
+105 m2
 Object type
-Apartment, Duplex
+Apartment, Duplex, Maisonette
 Rooms
-7.5
+4.5
 Living space
-231 m2
-Floor
-Am Krachenrain 9 vermieten wir per Juli 2021 oder nach Vereinbarung, 315 m2, auf 3 Etagen.Diese gro…
+105 m2
+Wir vermieten ab sofort, eine schöne Maisonett 4.5 Zimmer-Wohnung mit Aussicht auf den Rhein.
+Die …
 Share
 E-mail
 Facebook
 Whatsapp
-St. Alban-Vorstadt 104
-4'590
+Elisabethenstrasse 18
+4'570
 CHF
 /Month
-Historisches Altstadthaus - Sanierte Ma…
-St. Alban-Vorstadt 104, 4052 Basel
+5 Zimmer-Altbauwohnung auf zwei Etagen …
+Elisabethenstrasse 18, 4051 Basel
 Array
 5 Rooms
-151 m2
+170 m2
 Object type
 Apartment, Duplex
 Rooms
 5
 Living space
-151 m2
-An bevorzugter Wohnlage, inmitten der St. Alban-Vorstadt, vermieten wir diese vor wenigen Jahren, k…
-Share
-E-mail
-Facebook
-Whatsapp
-Riehenstrasse 90
-1'679
-CHF
-/Month
-Moderne Maisonette-Wohnung im 1. OG
-Riehenstrasse 90, 4058 Basel
-Array
-3.5 Rooms
-86 m2
-Object type
-Apartment, Duplex
-Rooms
-3.5
-Living space
-86 m2
+170 m2
 Floor
-Diese ansprechende und helle Maisonette-Wohnung befindet sich an zentraler Lage und ist den öffentl…
-Share
-E-mail
-Facebook
-Whatsapp
-Arnold Böcklin-Strasse 41
-3'670
-CHF
-/Month
-Nähe Schützenmattpark
-Arnold Böcklin-Strasse 41, 4051 Basel
-Array
-5.5 Rooms
-216 m2
-Object type
-Apartment, Duplex
-Rooms
-5.5
-Living space
-216 m2
-Paulusquartier In der nähe Schützenmattpark befindet sich dieses aussergewöhnliche grosszügige Wohn…
-Share
-E-mail
-Facebook
-Whatsapp
-Rümelinbachweg 20
-2'500
-CHF
-/Month
-Ruhe Oase in Stadtnähe? Hier ist die pe…
-Rümelinbachweg 20, 4054 Basel
-Array
-4 Rooms
-100 m2
-Object type
-Apartment, Duplex
-Rooms
-4
-Living space
-100 m2
-Am Rümelinbachweg 20 in Basel vermieten wir diese besondere 4 Zimmer Maisonettewohnung. Die Wohnung…
-Share
-E-mail
-Facebook
-Whatsapp
-Address on request
-2'300
-CHF
-/Month
-MIT SICHTBALKEN UND CHEMINÉE AN ZENTRAL…
-Address on request, 4052 Basel
-Array
-2.5 Rooms
-90 m2
-Object type
-Apartment, Duplex
-Rooms
-2.5
-Living space
-90 m2
-Diese geräumige und charmante Maisonette-Wohnung vermieten wir an zentraler Lage, Nähe Aeschenplatz…
-Share
-E-mail
-Facebook
-Whatsapp
-Grenzacherstrasse 4
-1'700
-CHF
-/Month
-Zentrumsnah Wohnen
-Grenzacherstrasse 4, 4058 Basel
-Array
-1.5 Rooms
-64 m2
-Object type
-Apartment, Duplex
-Rooms
-1.5
-Living space
-64 m2
-Wir vermieten in unserer Liegenschaft an der Grenzacherstrasse 4 in Basel eine schöne 1.5-Zimmerwoh…
-Share
-E-mail
-Facebook
-Whatsapp
-Pfeffergässlein 12
-3'190
-CHF
-/Month
-In Basel?s schönster Altstadtgasse
-Pfeffergässlein 12, 4051 Basel
-Array
-4.5 Rooms
-125 m2
-Object type
-Apartment, Duplex
-Rooms
-4.5
-Living space
-125 m2
-Im charmantesten Gässli von Basel befindet sich unsere historische Liegenschaft im Zentrum der Gros…
-Share
-E-mail
-Facebook
-Whatsapp
-Amerbachstrasse 102
-3'390
-CHF
-/Month
-SANIERTE MAISONETTE-WOHNUNG NÄHE MUSICA…
-Amerbachstrasse 102, 4057 Basel
-Array
-5.5 Rooms
-146 m2
-Object type
-Apartment, Duplex
-Rooms
-5.5
-Living space
-146 m2
-Wir vermieten ab dem 16.08.2021 oder nach Vereinbarung diese grosszügig ausgebaute 5.5-Zimmer-Maiso…
-Share
-E-mail
-Facebook
-Whatsapp
-Freie Strasse 44
-3'525
-CHF
-/Month
-Im Herzen von Basel mit zwei Dachterras…
-Freie Strasse 44, 4001 Basel
-Array
-3.5 Rooms
-136 m2
-Object type
-Apartment, Duplex, Maisonette
-Rooms
-3.5
-Living space
-136 m2
-Floor
-Die renovierte Maisonette-Wohnung im Dachgeschoss liegt zwischen dem Banken- und Marktplatz an zent…
-Share
-E-mail
-Facebook
-Whatsapp
-Gerbergässlein 5
-2'990
-CHF
-/Month
-Einzigartige Maisonette im Stadtzentrum!
-Gerbergässlein 5, 4051 Basel
-Array
-3.5 Rooms
-137 m2
-Object type
-Apartment, Duplex, Maisonette
-Rooms
-3.5
-Living space
-137 m2
-Floor
-Diese moderne und exklusive Wohnung mit Galeriegeschoss befindet sich im Herzen von Basel, unmittel…
-Share
-E-mail
-Facebook
-Whatsapp
-Sundgauerstrasse 9
-1'800
-CHF
-/Month
-3.0 Zimmer Maisonette Dachwohnung mit G…
-Sundgauerstrasse 9, 4055 Basel
-Array
-3 Rooms
-93 m2
-Object type
-Apartment, Duplex, Maisonette
-Rooms
-3
-Living space
-93 m2
-Floor
-An der Sundgauerstr. 9 schöne helle 3 Zimmer Maisonette Dachwohnung mit Galerie im 4OG mit Lift.  D…
+"Attraktive Altbauwohnung" zwei Identische Wohnungen mit einer Wendeltreppe verbunden, 2 Einbauküch…
 Share
 E-mail
 Facebook
@@ -493,42 +358,184 @@ Share
 E-mail
 Facebook
 Whatsapp
-Greifengasse 4
-2'370
+Address on request
+2'300
 CHF
 /Month
-Im Herzen von Basel mit Sicht auf den R…
-Greifengasse 4, 4058 Basel
+MIT SICHTBALKEN UND CHEMINÉE AN ZENTRAL…
+Address on request, 4052 Basel
 Array
 2.5 Rooms
-128 m2
+90 m2
 Object type
 Apartment, Duplex
 Rooms
 2.5
 Living space
-128 m2
-Haben Sie Interesse an originellem und offenem Wohnen im Herzen von Basel? Wir vermieten per 01.04.…
+90 m2
+Diese geräumige und charmante Maisonette-Wohnung vermieten wir an zentraler Lage, Nähe Aeschenplatz…
 Share
 E-mail
 Facebook
 Whatsapp
-Gerbergasse 12
-2'700
+Amerbachstrasse 102
+3'420
 CHF
 /Month
-exklusives Wohnen am Marktplatz
-Gerbergasse 12, 4051 Basel
+MODERNE MAISONETTE-WOHNUNG NÄHE MUSICAL…
+Amerbachstrasse 102, 4057 Basel
 Array
-3.5 Rooms
-147 m2
+5.5 Rooms
+146 m2
 Object type
 Apartment, Duplex
 Rooms
-3.5
+5.5
 Living space
-147 m2
-Auf zwei Ebenen bietet Ihnen diese aussergewöhnliche und charmante Wohnung ausserdem folgende Vorte…
+146 m2
+Floor
+Wir vermieten ab dem 16.10.2021 oder nach Vereinbarung diese grosszügig ausgebaute 5-Zimmer-Maisone…
+Share
+E-mail
+Facebook
+Whatsapp
+Arnold, Böcklin-Strasse
+3'670
+CHF
+/Month
+Nähe Schützenmattpark
+Arnold, Böcklin-Strasse, 4051 Basel
+Array
+5.5 Rooms
+216 m2
+Object type
+Apartment, Duplex
+Rooms
+5.5
+Living space
+216 m2
+Paulusquartier In der nähe Schützenmattpark befindet sich dieses aussergewöhnliche grosszügige Wohn…
+Share
+E-mail
+Facebook
+Whatsapp
+Blotzheimerstrasse 14
+2'000
+CHF
+/Month
+RUHIG UND GEMÜTLICH WOHNEN
+Blotzheimerstrasse 14, 4055 Basel
+Array
+3 Rooms
+94 m2
+Object type
+Apartment, Duplex
+Rooms
+3
+Living space
+94 m2
+RUHIG UND GEMÜTLICH WOHNEN Die Wohnung liegt im Iselin-Quartier und in der Nähe des Felix Platter S…
+Share
+E-mail
+Facebook
+Whatsapp
+Amerbachstrasse 104
+3'220
+CHF
+/Month
+ZENTRALE 5.5-ZIMMER-MAISONETTEWOHNUNG 3…
+Amerbachstrasse 104, 4057 Basel
+Array
+5.5 Rooms
+139 m2
+Object type
+Apartment, Duplex
+Rooms
+5.5
+Living space
+139 m2
+Floor
+Wir vermieten ab dem 01.08.2021 oder nach Vereinbarung diese grosszügig ausgebaute 5.5-Zimmer-Maiso…
+Share
+E-mail
+Facebook
+Whatsapp
+Unterer Rheinweg 56
+Price on request
+Exklusive Maisonette-Wohnung (ca. 300m2…
+Unterer Rheinweg 56, 4057 Basel
+Array
+4.5 Rooms
+300 m2
+Object type
+Apartment, Duplex, Maisonette
+Rooms
+4.5
+Living space
+300 m2
+Floor
+Am Unteren Rheinweg 56 in Basel vermieten wir nach Vereinbarung eine sehr exklusive Maisonette-Wohn…
+Share
+E-mail
+Facebook
+Whatsapp
+Unterer Heuberg 13
+2'650
+CHF
+/Month
+In einer der schönsten Altstadtgassen i…
+Unterer Heuberg 13, 4051 Basel
+Array
+5 Rooms
+106 m2
+Object type
+Apartment, Duplex
+Rooms
+5
+Living space
+106 m2
+Floor
+·      Die Wohnung liegt in einer der schönsten Gassen der Basler Altstadt. Baujahr der Liegenschaf…
+Share
+E-mail
+Facebook
+Whatsapp
+Holbeinstrasse 31
+3'170
+CHF
+/Month
+SANIERTE MAISONETTEDACHWOHNUNG NÄHE UNI
+Holbeinstrasse 31, 4051 Basel
+Array
+4.5 Rooms
+113 m2
+Object type
+Apartment, Duplex
+Rooms
+4.5
+Living space
+113 m2
+Wir vermieten per 16.09.2021 oder nach Vereinbarung eine im Jahre 2018/2019 sanierte Maisonettewohn…
+Share
+E-mail
+Facebook
+Whatsapp
+St. Alban-Vorstadt 104
+4'590
+CHF
+/Month
+Historisches Altstadthaus - Sanierte Ma…
+St. Alban-Vorstadt 104, 4052 Basel
+Array
+5 Rooms
+151 m2
+Object type
+Apartment, Duplex
+Rooms
+5
+Living space
+151 m2
+An bevorzugter Wohnlage, inmitten der St. Alban-Vorstadt, vermieten wir diese vor wenigen Jahren, k…
 Share
 E-mail
 Facebook

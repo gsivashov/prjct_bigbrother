@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-liestal/
 Title: Wohnung kaufen in Bezirk Liestal - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Liestal - Immostreet.ch: ImmoStreet.ch hat 23 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Liestal - Immostreet.ch: ImmoStreet.ch hat 36 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-23 Resultate gefunden ·
+36 Resultate gefunden ·
 Wohnung kaufen in Bezirk Liestal
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,40 +134,59 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Pratteln
-670'000
+Liestal
+915'000
 CHF
-Gemütliche 4.5-Zimmerwohnung mit 2 Balk…
-Pratteln, 4133 Pratteln
+Grosszügige und moderne 4.5-Zimmerwohnu…
+Liestal, 4410 Liestal
 Array
 4.5 Zimmer
-95 m2
+123 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-95 m2
-Diese Wohnung überzeugt durch die praktische und funktionale Raumaufteilung. Zudem punktet sie mit …
+123 m2
+Diese helle Wohnung präsentiert sich in neuwertigem Zustand und überzeugt durch den praktischen Gru…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Grundackerstrasse 20E
-1'050'000
-CHF
-Moderne 6.5 Z' Wohnung mit traumhafter …
-Grundackerstrasse 20E, 4414 Füllinsdorf
+Bahnhofstrasse 16
+Preis auf Anfrage
+GROSSZÜGIGE WOHNUNG IM HERZEN VON PRATT…
+Bahnhofstrasse 16, 4133 Pratteln
 Array
-6.5 Zimmer
-144 m2
+3.5 Zimmer
+88 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-6.5
+3.5
 Wohnfläche
-144 m2
-Sind Sie auf der Suche nach grosszügigem und modernem Wohnraum mit unverbaubarer Aussicht? Dann wir…
+88 m2
+An zentraler Lage, mitten in Pratteln wird dieses helle 3.5-Zimmer-Gewerbe verkauft. Im Juni 2021 w…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rankackerweg 10
+450'000
+CHF
+4-Zimmer mit Lift und Wintergarten an g…
+Rankackerweg 10, 4133 Pratteln
+Array
+4 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+80 m2
+Etage
+IMMOROSSI der Immobilienmakler für Basel und Baselland verkauft im Auftrag der Eigentümerschaft per…
 Teilen
 E-Mail
 Facebook
@@ -191,59 +210,132 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-565'000
+Lilienhofweg 2
+880'000
 CHF
-Schöne Wohnung an bester Lage
-Adresse auf Anfrage, 4133 Pratteln
+TRÄUME werden WAHR
+Lilienhofweg 2, 4133 Pratteln
 Array
-3.5 Zimmer
-100 m2
+4.5 Zimmer
+114 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Flach
 Zimmer
-3.5
+4.5
 Wohnfläche
-100 m2
-Diese charmante Wohnung befindet sich an einer sehr guten und familienfreundlichen Lage. Schule und…
+114 m2
+Die 4.5-Zimmer-Dachwohnung mit Blick über Pratteln ist sehr hell und verfügt über einen spannenden …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-565'000
+Rebenweg 35
+869'000
 CHF
-Attraktive 3.5 Zi. Wohnung an toller La…
-Adresse auf Anfrage, 4133 Pratteln
+Neubau 2.5-Zi-Wohnung "In den Reben"
+Rebenweg 35, 4419 Lupsingen
 Array
-3.5 Zimmer
-100 m2
+2.5 Zimmer
+119 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Flach
 Zimmer
-3.5
+2.5
 Wohnfläche
-100 m2
-Diese charmante Wohnung befindet sich an einer sehr guten und familienfreundlichen Lage. Schule und…
+119 m2
+Gartenwohnung inkl. Hobbyraum und TiefgaragenplatzGrosszügiger Grundriss mit 2.5 Zimmer inklusive z…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Ergolzstrasse 39
-750'000
+Rebenweg 35
+885'000
 CHF
-Altersgerechtes Bijou beim Seniorenzent…
-Ergolzstrasse 39, 4414 Füllinsdorf
+Neubau 3.5-Zi-Dachwohnung "In den Reben"
+Rebenweg 35, 4419 Lupsingen
 Array
 3.5 Zimmer
-92 m2
+119 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-92 m2
-Diese gepflegte 3.5-Zimmer-Wohnung befindet sich an ruhiger und familienfreundlicher Lage, nur eine…
+119 m2
+Neubau Dachwohnung inkl. eigener Waschküche und Tiefgaragenplatz Grosszügiger Grundriss mit 3.5 Zim…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rebenweg 35
+992'000
+CHF
+Neubau 4.5-Zi-Wohnung "In den Reben"
+Rebenweg 35, 4419 Lupsingen
+Array
+4.5 Zimmer
+119 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+119 m2
+Neubau Wohnung inkl. eigener Waschküche und Tiefgaragenplatz Grosszügiger Grundriss mit 4.5 Zimmer …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tramstrasse 9
+465'000
+CHF
+Schöne und gut gelegene 5-Zimmerwohnung…
+Tramstrasse 9, 4133 Pratteln
+Array
+5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5
+Wohnfläche
+75 m2
+IMMOROSSI der faire Immobilienmakler für Basel, Baselland und Region verkauft per sofort oder nach …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rösernstrasse 3
+490'000
+CHF
+3.5-Zimmerwohnung im charmanten Liestal
+Rösernstrasse 3, 4410 Liestal
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Idyllisches Wohnen im Bezirkshauptort LiestalDas Zweifamilienhaus wurde im Jahre 1987 erbaut und li…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Vogelmattstrasse 7
+480'000
+CHF
+Attraktive und helle 3.5-Zimmerwohnung …
+Vogelmattstrasse 7, 4133 Pratteln
+Array
+3.5 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+78 m2
+An der Vogelmattstrasse verkaufen wir diese helle und geräumige 3.5-Zimmerwohung im 1. Obergeschoss…
 Teilen
 E-Mail
 Facebook
@@ -251,7 +343,7 @@ Whatsapp
 Adresse auf Anfrage
 530'000
 CHF
-Familienfreundliches Heim im Herzen des…
+Grosszügige Eigentumswohnung im Herzen …
 Adresse auf Anfrage, 4415 Lausen
 Array
 4.5 Zimmer
@@ -263,6 +355,44 @@ Zimmer
 Wohnfläche
 80 m2
 Die 4.5 Zimmer-Wohnung im Obergeschoss an zentraler und dennoch ruhiger Lage fasziniert vom ersten …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+565'000
+CHF
+Ruhige Eigentumswohnung an bester Lage
+Adresse auf Anfrage, 4133 Pratteln
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+100 m2
+Diese charmante Wohnung befindet sich an einer sehr guten und familienfreundlichen Lage. Schule und…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Altbrunnenweg 5a
+485'000
+CHF
+4.5 Zimmer Eigentumswohnung in ruhigem …
+Altbrunnenweg 5a, 4410 Liestal
+Array
+4.5 Zimmer
+94 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+94 m2
+Raurach Immobilien verkauft im Auftrag eine gut erhaltene 4½-Zimmer Eigentumswohnung an sonniger un…
 Teilen
 E-Mail
 Facebook
@@ -287,204 +417,88 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Hauptstrasse 131
-650'000
+Rhygarten 5
+1'150'000
 CHF
-Ihre Wohlfühloase in Arisdorf
-Hauptstrasse 131, 4422 Arisdorf
+4,5-Zimmer-Wohnung 129,5 m2 mit Loggia …
+Rhygarten 5, 4302 Augst BL
 Array
 4.5 Zimmer
-125 m2
+129 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-125 m2
-MaisonetteDie Liegenschaft Hauptstrasse 131 befindet sich im südlichen Teil von Arisdorf, nahe des …
+129 m2
+Etage
+In nächster Nähe von Basel liegt die idyllische Gemeinde Augst BL. Die Gemeinde verfügt mit Primars…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Gerberstrasse 27
-625'000
+Adresse auf Anfrage
+800'000
 CHF
-Duplex Dachwohnung mit Galerie und Terr…
-Gerberstrasse 27, 4410 Liestal
+Aussergewöhnliche Dachwohnung mit Ferns…
+Adresse auf Anfrage, 4433 Ramlinsburg
 Array
-3.5 Zimmer
-99 m2
+4.5 Zimmer
+137 m2
 Objekttyp
 Wohnung, Dachwohnung
 Zimmer
-3.5
-Wohnfläche
-99 m2
-Etage
-Diese Dachwohnung befindet sich im Zentrum von Liestal, nur einen Steinwurf vom "Stedtli" entfernt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Altbrunnenweg 5a
-470'000
-CHF
-4.5 -Zimmer Wohnung ink. Garage
-Altbrunnenweg 5a, 4410 Liestal
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
 4.5
 Wohnfläche
-110 m2
-Die Wohnung ist in der Nähe vom Gitterli Schwimmbad. Die Wohnung hat eine grosse Terrasse und 2 Bad…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Altbrunnenweg 5a
-485'000
-CHF
-4.5 Zimmer Eigentumswohnung in ruhigem …
-Altbrunnenweg 5a, 4410 Liestal
-Array
-4.5 Zimmer
-94 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-94 m2
-Raurach Immobilien verkauft im Auftrag eine gut erhaltene 4½-Zimmer Eigentumswohnung an sonniger un…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Liestalerstrasse 10
-770'000
-CHF
-Attraktive grosszügige 4.5. Zimmer Terr…
-Liestalerstrasse 10, 4402 Frenkendorf
-Array
-4.5 Zimmer
-113 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-113 m2
-An sonniger und unverbaubarer Aussicht verkaufen wir eine helle und modern konzipierte Terrassenwoh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Liestal
-990'000
-CHF
-Grosszügige und moderne 4.5-Zimmerwohnu…
-Liestal, 4410 Liestal
-Array
-4.5 Zimmer
-123 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-123 m2
-Diese helle Wohnung präsentiert sich in neuwertigem Zustand und überzeugt durch den praktischen Gru…
+137 m2
+MEHR BILDER AUF: www.remax.ch/thomas-hedigerOBJEKTBESCHRIEBSchon von aussen betrachtet, fällt die …
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-840'000
+495'000
 CHF
-Schöne 4.5 Zi. Wohnung an toller Lage
-Adresse auf Anfrage, 4414 Füllinsdorf
+Familienfreundliches Heim im Herzen des…
+Adresse auf Anfrage, 4415 Lausen
 Array
 4.5 Zimmer
-104 m2
+80 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-104 m2
-Dieses Objekt vereint auf einzigartige Weise den Anspruch an modernem Wohnraum mit den Vorzügen ein…
+80 m2
+Die 4.5 Zimmer-Wohnung im Obergeschoss an zentraler und dennoch ruhiger Lage fasziniert vom ersten …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Sonnhalde 13
-995'000
+Augsterheglistrasse
+490'000
 CHF
-Terrassenwohnung - eine Sonnenperle in …
-Sonnhalde 13, 4410 Liestal
+4 Zimmer Wohnung
+Augsterheglistrasse, 4133 Pratteln
 Array
-4.5 Zimmer
-128 m2
+4 Zimmer
+80 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+4
 Wohnfläche
-128 m2
-Die 4½-Zimmer Terrassenwohnung wurde im Jahre 2005 einer Innensanierung unterzogen. Der Wohnbereich…
+80 m2
+Die 4 Zimmer Wohnung liegt an Kinderfreundlichen und sehr Zentralen lage.Bei der Letzten Renovation…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-840'000
+Eglisackerstrasse 31
+1'060'000
 CHF
-Investieren oder selber wohnen - Sie en…
-Adresse auf Anfrage, 4133 Pratteln
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Etage
-Ein moderner Wohntraum erwartet Sie hier – greifen Sie zu.Die zentral und verkehrstechnisch ideal a…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Tramstrasse
-497'000
-CHF
-Dachwohnung zwischem dem alten Dorfkern…
-Tramstrasse, 4133 Pratteln
-Array
-5 Zimmer
-84 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-84 m2
-Ideal als Kapitalanlage - die Wohnung ist seit 2017 an eine Familie aus Muttenz vermietet
-Quarti…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 23
-1'090'000
-CHF
-Eigentumswohnungen im Herzen von Pratte…
-Bahnhofstrasse 23, 4133 Pratteln
+Neubau Eglispark Liestal, 4.5-Zimmer Ob…
+Eglisackerstrasse 31, 4410 Liestal
 Array
 4.5 Zimmer
 124 m2
@@ -494,27 +508,7 @@ Zimmer
 4.5
 Wohnfläche
 124 m2
-Etage
-360 Grad Komfort und Vernetzung: direkt vor ihrer HaustüreDie neue Wohnüberbauung an der Ecke Bahnh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 136
-610'000
-CHF
-Neubau - Attraktive 3 1/2-Zimmer-Eigent…
-Hauptstrasse 136, 4415 Lausen
-Array
-3.5 Zimmer
-81 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-81 m2
-Die zu verkaufende Eigentumswohnung befindet sich an zentraler Lage in Lausen. Das in diesem Jahr f…
+Der Eglispark im ÜberblickDer Baustart ist erfolgt und die Wohnungen werden auf Sommer 2023 bezugsb…
 Teilen
 E-Mail
 Facebook

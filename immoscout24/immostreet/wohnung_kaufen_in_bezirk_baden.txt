@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-baden/
 Title: Wohnung kaufen in Bezirk Baden - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Baden - Immostreet.ch: ImmoStreet.ch hat 107 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Baden - Immostreet.ch: ImmoStreet.ch hat 121 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-107 Resultate gefunden ·
+121 Resultate gefunden ·
 Wohnung kaufen in Bezirk Baden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,235 +134,157 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Schönaustrasse 47
-510'000
+Im First 7
+799'000
 CHF
-Wohnen mitten in Wettingen
-Schönaustrasse 47, 5430 Wettingen
+4-1/2 Zimmer Dach-Maisonette-Wohnung
+Im First 7, 5420 Ehrendingen
 Array
-3.5 Zimmer
-65 m2
+4.5 Zimmer
+138 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Dachwohnung
 Zimmer
-3.5
+4.5
 Wohnfläche
-65 m2
+138 m2
 Etage
-Die 3.5-Zimmer-Eigentumswohnung befindet sich an sonniger und ruhiger Wohnlage im sehr beliebten Al…
+138 m2 brutto und 120 m2 netto Wohnfläche2 Nasszellen mit jeweils WC, Lavabo und Badewanne oder Dus…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Rüslerstrasse 9
-1'780'000
+Moosstrasse 7
+575'000
 CHF
-Grandiose Attika-Wohnung !
-Rüslerstrasse 9, 5452 Oberrohrdorf
+4.5 Zi Whg in Rütihof, sehr sonnig und …
+Moosstrasse 7, 5406 Rütihof
 Array
-6.5 Zimmer
-198 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-6.5
-Wohnfläche
-198 m2
-Selten kommt es vor, dass wir eine attraktive Attika-Wohnung zum Verkauf anbieten dürfen… und wenn …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fluhmattstrasse 31
-335'000
-CHF
-Schmucke 2. Zimmer Wohnung an ruhiger L…
-Fluhmattstrasse 31, 5400 Baden
-Array
-2 Zimmer
-50 m2
+4.5 Zimmer
+95 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2
+4.5
 Wohnfläche
-50 m2
-Im Hochhaus (links) verkaufen wir eine gemütliche 2-Zimmerwohnung im 4. Obergeschoss mit Kellerabte…
+95 m2
+Diese attraktive 4.5 Zi Wohnung im 2. Stock (ohne Lift) hat einen modernen Grundriss und ist ruhig …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Unterriedstrasse 5
-1'740'000
+Adresse auf Anfrage
+660'000
 CHF
-AgentSelly - Stockwerkeinheit mit 2 Ter…
-Unterriedstrasse 5, 5452 Oberrohrdorf
-Array
-7.5 Zimmer
-241 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-7.5
-Wohnfläche
-241 m2
-Dieses Verkaufsobjekt, eine Stockwerkeinheit beinhaltend zwei schöne Terrassenwohnungen an bester L…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Pilgerstrasse 81
-765'000
-CHF
-Gemütliche 5.5-Zimmer Maisonette-Wohnun…
-Pilgerstrasse 81, 5405 Dättwil AG
+In dieser Maisonette Wohnung, wohnen si…
+Adresse auf Anfrage, 5512 Wohlenschwil
 Array
 5.5 Zimmer
-136 m2
+186 m2
 Objekttyp
-Wohnung, Duplex, Maisonette
+Wohnung, Duplex
 Zimmer
 5.5
 Wohnfläche
-136 m2
-Etage
-Zum Verkauf steht hier eine gemütliche und grosszügige Maisonette-Wohnung im Stockwerkeigentum. Die…
+186 m2
+Sie suchen eine gepflegte, moderne und grosse Maisonette-Wohnung mit tollem Ausbauund herrlicher Au…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-2'490'000
+Loonstrasse 33
+715'000
 CHF
-Exklusiv und einmalig in der Innenstadt…
-Adresse auf Anfrage, 5400 Baden
-Array
-4.5 Zimmer
-140 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-140 m2
-Im Stadtzentrum verkaufen wir ein einmaliges Wohnobjekt mit exklusivem und hochwertigen Innenausbau…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Langäckerstrasse 32
-580'000
-CHF
-Wohnen mit Fernsicht
-Langäckerstrasse 32, 8957 Spreitenbach
+5452 Oberrohdorf: gepflegte, schöne, so…
+Loonstrasse 33, 5452 Oberrohrdorf
 Array
 4.5 Zimmer
 95 m2
 Objekttyp
-Wohnung, Duplex, Maisonette
+Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
 95 m2
 Etage
-Gemeinde
-Spreitenbach ist eine Gemeinde mit 10'500 EinwohnerInnen im Kanton Aargau. Sie gehört z…
+Wohnen in idyllischer Umgebung am Fusse des Rohrdorfer-Berges / Rüsler mit grosszügigem Naherholung…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-695'000
+Bahnhofstrasse 60
+910'000
 CHF
-Einmalige Gelegenheit in Würenlingen
-Adresse auf Anfrage, 5303 Würenlingen
+Attraktive, gepflegte 5,5-Zimmer-Minerg…
+Bahnhofstrasse 60, 5507 Mellingen
 Array
-4.5 Zimmer
-120 m2
+5.5 Zimmer
+144 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+5.5
 Wohnfläche
-120 m2
-Einmalige Gelegenheit in WürenlingenSie sind auf der Suche nach einer grosszügigen  Wohnung mit zwe…
+144 m2
+Schöner Wohnen im bevorzugten Mellingen
+In einem familienfreundlichen Wohnquartier, an sonniger …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-307'000
+Huebacherstrasse
+755'000
 CHF
-Rustikale Gartenwohnung in Würenlingen …
-Adresse auf Anfrage, 5303 Würenlingen
-Array
-2 Zimmer
-45 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-45 m2
-Rustikale Gartenwohnung in WürenlingenSie sind auf der Suche nach einer Wohnung mit hohen Räumen, s…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-535'000
-CHF
-41/2 Zimmer Wohnung zu verkaufen
-Adresse auf Anfrage, 5417 Untersiggenthal
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Im 5 Stock, mit Lift. Traumhafte Aussicht Richtung Brugg und an den Siggenberg! Ink. Waschmaschine,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Büntenstrasse 35
-675'000
-CHF
-Angenehme 3.5 Zi. Gartenwohnung
-Büntenstrasse 35, 5436 Würenlos
+SOLEA | AG
+Huebacherstrasse, 5436 Würenlos
 Array
 3.5 Zimmer
-85 m2
+82 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-85 m2
-Etage
-Zu verkaufen nach Vereinbarung eine wunderschön ausgestattete  3.5 Zimmerwohnung in Würenlos. Die W…
+82 m2
+Die Rechtskraft der Baubewilligung ist eingetroffen und der Baustart erfolgt im September 2021.Die …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Rohrdorferstrasse 9
+Huebacherstrasse
 1'290'000
 CHF
-Traumhaftes Wohnen im Kirschgarten
-Rohrdorferstrasse 9, 5453 Remetschwil
+SOLEA | AG
+Huebacherstrasse, 5436 Würenlos
 Array
 5.5 Zimmer
-157 m2
+131 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Flach
 Zimmer
 5.5
 Wohnfläche
-157 m2
-Exklusive EigentumswohnungenBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschga…
+131 m2
+Die Rechtskraft der Baubewilligung ist eingetroffen und der Baustart erfolgt im September 2021.Die …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Huebacherstrasse
+1'585'000
+CHF
+SOLEA | AG
+Huebacherstrasse, 5436 Würenlos
+Array
+5.5 Zimmer
+165 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+165 m2
+Die Rechtskraft der Baubewilligung ist eingetroffen und der Baustart erfolgt im September 2021.Die …
 Teilen
 E-Mail
 Facebook
@@ -387,6 +309,25 @@ E-Mail
 Facebook
 Whatsapp
 Rohrdorferstrasse 9
+1'290'000
+CHF
+Traumhaftes Wohnen im Kirschgarten
+Rohrdorferstrasse 9, 5453 Remetschwil
+Array
+5.5 Zimmer
+157 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+Wohnfläche
+157 m2
+Exklusive EigentumswohnungenBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschga…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rohrdorferstrasse 9
 780'000
 CHF
 Traumhaftes Wohnen im Kirschgarten
@@ -400,25 +341,6 @@ Zimmer
 4.5
 Wohnfläche
 111 m2
-Exklusive EigentumswohnungenBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschga…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rohrdorferstrasse 9
-680'000
-CHF
-Traumhaftes Wohnen im Kirschgarten
-Rohrdorferstrasse 9, 5453 Remetschwil
-Array
-3.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-95 m2
 Exklusive EigentumswohnungenBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschga…
 Teilen
 E-Mail
@@ -444,19 +366,19 @@ E-Mail
 Facebook
 Whatsapp
 Rohrdorferstrasse 9
-780'000
+670'000
 CHF
 Traumhaftes Wohnen im Kirschgarten
 Rohrdorferstrasse 9, 5453 Remetschwil
 Array
-4.5 Zimmer
-111 m2
+3.5 Zimmer
+95 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+3.5
 Wohnfläche
-111 m2
+95 m2
 Exklusive EigentumswohnungenBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschga…
 Teilen
 E-Mail
@@ -482,7 +404,7 @@ E-Mail
 Facebook
 Whatsapp
 Rohrdorferstrasse 9
-670'000
+680'000
 CHF
 Traumhaftes Wohnen im Kirschgarten
 Rohrdorferstrasse 9, 5453 Remetschwil
@@ -500,27 +422,103 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Dorfstrasse
-1'320'000
+Rohrdorferstrasse 9
+780'000
 CHF
-4.5-Zi. Maisonette-Dachwohnung am Fusse…
-Dorfstrasse, 5430 Wettingen
+Traumhaftes Wohnen im Kirschgarten
+Rohrdorferstrasse 9, 5453 Remetschwil
 Array
 4.5 Zimmer
-155 m2
+111 m2
 Objekttyp
-Wohnung, Duplex, Maisonette
+Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-155 m2
-Etage
-Zum Verkauf steht diese attraktive 4.5-Zimmer-Maisonettewohnung in einem kleinen 3-Familienhaus an …
+111 m2
+Exklusive EigentumswohnungenBaubewilligung erteilt - Baustart Sommer 2021Das Neubauprojekt Kirschga…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 6
+Adresse auf Anfrage
+995'000
+CHF
+EIGENER GARTEN (100 M2) UND SMARTHOMEST…
+Adresse auf Anfrage, 8956 Killwangen
+Array
+4.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+112 m2
+Hier kaufen Sie eine tolle Wohnung mit grossem gepflegtem Garten zur alleinigen Nutzung! Nach dem E…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+590'000
+CHF
+Helle und freundliche Wohnung in gepfle…
+Adresse auf Anfrage, 5406 Rütihof
+Array
+4.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+95 m2
+Etage
+Die 4.5 Zimmer-Wohnung befindet sich in einem sehr gepflegten Mehrfamilienhaus, dessen Fassade erst…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 41
+515'000
+CHF
+4.5 Zimmerwohnung
+Bahnhofstrasse 41, 5430 Wettingen
+Array
+4.5 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+78 m2
+Die geräumige 4.5 Zimmer Eigentumswohnung mit guter Besonnung und Aussicht liegt im 1. OG des zentr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stetterstrasse 11
+580'000
+CHF
+Neubauprojekt "Grossmatt", Mellingen
+Stetterstrasse 11, 5507 Mellingen
+Array
+2.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+77 m2
+Wohlfühlen im Städtchen an der ReussIn den vier Mehrfamilienhäuser werden insgesamt 20 modern gesta…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 7
 1
 2
 3

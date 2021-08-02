@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/umzug-schweiz/migration/fuehrerschein-schweiz
 Title: Den Führerschein in der Schweiz umschreiben
 Description: Informationen zur Gültigkeit und zum Umtausch von ausländischen Führerscheinen. Zusammengestellt von comparis.ch.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr

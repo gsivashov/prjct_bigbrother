@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-oberrieden/
 Title: Wohnungen & Häuser mieten in Oberrieden - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Oberrieden - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Oberrieden - Immostreet.ch: ImmoStreet.ch hat 15 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-24 Resultate gefunden ·
+15 Resultate gefunden ·
 Wohnungen & Häuser mieten in Oberrieden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,156 +122,35 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Bruggstrasse 30
-2'800
+Unterer Stünziweg
+1'350
 CHF
 /Monat
-Leben wie im Ferienparadies
-Bruggstrasse 30, 8942 Oberrieden
+Herrliche Seesicht
+Unterer Stünziweg, 8942 Oberrieden
 Array
-4.5 Zimmer
-125 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Wohnfläche
-125 m2
-Etage
-Die attraktive 4.5-Zimmer Wohnung (auf 3 Etagen) mit Reihenhauscharakter verfügt über einen nicht a…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fachstrasse 40
-Preis auf Anfrage
-Charmantes Einfamilienhaus mit riesigem…
-Fachstrasse 40, 8942 Oberrieden
-Array
-8 Zimmer
-220 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-8
-Wohnfläche
-220 m2
-Etage
-Charmantes Einfamilienhaus mit Garten auf über 1000m2 Fläche in Oberrieden/ZH zu vermieten. Das 3-s…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bleierstrasse 25 a
-2'945
-CHF
-/Monat
-4.5 Zimmerwohnung an guter Lage in Ober…
-Bleierstrasse 25 a, 8942 Oberrieden
-Array
-4.5 Zimmer
-87 m2
+1.5 Zimmer
+34 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+1.5
 Wohnfläche
-87 m2
-Etage
-Erstvermietung einer 4.5-Zimmerwohnung nach Totalumbau in familienfreundlichem Quartier. Das Mehrfa…
+34 m2
+Wir vermieten per 1. Oktober 2021 eine 1.5-Zimmer-Wohnung an ruhiger, sonniger Lage mit herrlicher …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bleierstrasse 25
-2'155
+Seestrasse 64
+250
 CHF
-/Monat
-3-Zimmerwohnungen mit Balkon oder Umsch…
-Bleierstrasse 25, 8942 Oberrieden
-Array
-3 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-65 m2
-Etage
-Erstvermietung von 3-Zimmerwohnungen nach Totalumbau an guter Lage in Oberrieden. Das Mehrfamilien…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bleierstrasse 20
-2'518
-CHF
-/Monat
-4 1/2-Zimmer Wohnung mit Aussicht auf S…
-Bleierstrasse 20, 8942 Oberrieden
-Array
-4.5 Zimmer
-115 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-115 m2
-Etage
-Ab 1.8.2021steht diese schöne, ruhige und lichtdurchflutete 4 1/2 Zimmerwohnung mit unvergleichlich…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bleierstrasse 25
-2'730
-CHF
-/Monat
-4-Zimmerwohnung an schöner Aussichtslag…
-Bleierstrasse 25, 8942 Oberrieden
-Array
-4 Zimmer
-76 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-76 m2
-Erstvermietung einer 4-Zimmerwohnung nach Totalumbau in familienfreundlichem Quartier. Das Mehrfami…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Karpfenstrasse 9
-120
-CHF
-Bastelraum mit Tageslicht
-Karpfenstrasse 9, 8942 Oberrieden
+Arbeiten mit Seesicht
+Seestrasse 64, 8942 Oberrieden
 Array
 Objekttyp
-Büro
-Per sofort oder nach Vereinbarung vermieten wir einen Bastelraum von ca. 10 m² à CHF 100.00 pro Mon…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Speerstrasse 22
-3'000
-CHF
-/Monat
-Hausteil mit Seesicht an grüner, romati…
-Speerstrasse 22, 8942 Oberrieden
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-3.5
-Etage
-Wir vermieten per sofort oder nach Vereinbarung ein sehr schöner Hausteil mit 3.5 Zimmer an bester,…
+Verkauf, Gewerbe
+Wir vermieten nach Vereinbarung eine Gewerbefläche bei der Ihnen die Raumgestaltung für optimale Ar…
 Teilen
 E-Mail
 Facebook
@@ -293,6 +172,109 @@ Wohnfläche
 70 m2
 Etage
 In 4-Familienhaus vermieten wir nach Vereinbarung eine 3 1/2 Zimmerwohnung mit grossem Balkon. Bode…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse 52
+2'100
+CHF
+/Monat
+Sonnige, helle 3,5 Zimmer-Wohnung, mit…
+Seestrasse 52, 8942 Oberrieden
+Array
+3.5 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+78 m2
+Etage
+wir vermieten in einem freundlichen Mehrfamilienhaus eine geräumige, lichtdurchflutete 3,5-Zimmerwo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse 94
+1'600
+CHF
+/Monat
+Wohnung für eine Person an verkehrsgüns…
+Seestrasse 94, 8942 Oberrieden
+Array
+2 Zimmer
+52 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+52 m2
+Die helle Wohnung mit rund 52 m2 Wohnfläche kann schon bald Ihr neues Zuhause sein. Die freundliche…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Einsiedlerstrasse 4
+180
+CHF
+/Monat
+Einstell- und Abstellplatz zu vermieten
+Einsiedlerstrasse 4, 8942 Oberrieden
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten in der Überbauung Einsiedlerstrasse 1-9, 8942 Oberrieden per sofort oder nach Vereinb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bleierstrasse 25
+2'730
+CHF
+/Monat
+4-Zimmerwohnung an schöner Aussichtslag…
+Bleierstrasse 25, 8942 Oberrieden
+Array
+4 Zimmer
+76 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+76 m2
+Etage
+Erstvermietung einer 4-Zimmerwohnung nach Totalumbau in familienfreundlichem Quartier. Das Mehrfami…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse 50
+180
+CHF
+/Monat
+Parkplatz zu vermieten
+Seestrasse 50, 8942 Oberrieden
+Array
+Objekttyp
+Tiefgarage
+Parkplätze in Tiefgarge zu vermieten. Die Tiefgarage befindet sich in unmittelbarer Nähe zum Bahnho…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Karpfenstrasse 9
+120
+CHF
+Bastelraum mit Tageslicht
+Karpfenstrasse 9, 8942 Oberrieden
+Array
+Objekttyp
+Büro
+Per sofort oder nach Vereinbarung vermieten wir einen Bastelraum von ca. 15 m² à CHF 150.00 pro Mon…
 Teilen
 E-Mail
 Facebook
@@ -325,64 +307,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Schäppi-Naef Strasse 7
-900
-CHF
-/Monat
-Schönes WG Zimmer in einer 2-WG
-Schäppi-Naef Strasse 7, 8942 Oberrieden
-Array
-12 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-12 m2
-I am looking for a tenant for a shared flat (4.5 rooms) in Oberrieden. The room is available starti…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alte Landstrasse 15/17
-130
-CHF
-/Monat
-Einstellplatz zu vermieten
-Alte Landstrasse 15/17, 8942 Oberrieden
-Array
-Objekttyp
-Tiefgarage
-An der Alten Landstrasse 15/17 in 8942 Oberrieden vermieten wir per sofort oder nach Vereinbarung:
-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alte Landstrasse 79
-3'900
-CHF
-/Monat
-Charmanter Altbauhausteil mit neuzeitli…
-Alte Landstrasse 79, 8942 Oberrieden
-Array
-4.5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-160 m2
-Etage
-Im ältesten, unter Denkmalschutz stehenden, wunderschön renovierten Haus, wird per 1. Juli 2021 (od…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 3'450
 CHF
 /Monat
-Atemberaubender Seeblick, 3 1/2 Zi-Wohn…
+Stunning Lake View - Fully furnished 2 …
 Adresse auf Anfrage, 8942 Oberrieden
 Array
 3.5 Zimmer
@@ -393,7 +322,7 @@ Zimmer
 3.5
 Wohnfläche
 89 m2
-Gepflegte Wohnung für bis zu 2 Erwachsene mit Kind. Sehr bequem zum Bahnhof (3 Min.) und Autobahn f…
+Well-kept apartment for up to 2 adults with one child. Very convenient to train station (3 min.) an…
 Teilen
 E-Mail
 Facebook
@@ -411,62 +340,36 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Seestrasse 64
-220
+Cholenmoosweg 8
+50
 CHF
-Vielseitige Büro- und Gewerbeflächen mi…
-Seestrasse 64, 8942 Oberrieden
+/Monat
+Mofaplatz zu vermieten
+Cholenmoosweg 8, 8942 Oberrieden
 Array
 Objekttyp
-Büro
-Am linken Zürichseeufer, in der Liegenschaft Seestrasse 64 in Oberrieden, vermieten wir attraktive …
+Autogarage, Covered parking place bike
+Wir vermieten ab sofort oder nach Vereinbarung einen Mofaplatz für monatlich CHF 50.00. Ihr Fahrzeu…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seestrasse 64
-175
-CHF
-Vielseitige Gewerbeflächen mit Seesicht
-Seestrasse 64, 8942 Oberrieden
-Array
-Objekttyp
-Verkauf, Gewerbe
-Am linken Zürichseeufer, in der Liegenschaft Seestrasse 64 in Oberrieden, vermieten wir attraktive …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seestrasse 64
-175
-CHF
-Vielseitige Büro- und Gewerbeflächen mi…
-Seestrasse 64, 8942 Oberrieden
-Array
-Objekttyp
-Büro
-Am linken Zürichseeufer, in der Liegenschaft Seestrasse 64 in Oberrieden, vermieten wir attraktive …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seestrasse 64
+Tannenbachstrasse 22
 150
 CHF
-Vielseitige Gewerbeflächen mit Seesicht
-Seestrasse 64, 8942 Oberrieden
+/Monat
+Oberrieden Tannenbachquartier, Garagenp…
+Tannenbachstrasse 22, 8942 Oberrieden
 Array
 Objekttyp
-Verkauf, Gewerbe
-Am linken Zürichseeufer, in der Liegenschaft Seestrasse 64 in Oberrieden, vermieten wir attraktive …
+Tiefgarage
+Ab sofort zu vermieten Einstellplätze in Sammelgarage
+Fr. 150.00 pro Monat
+-----------------…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 2
-1
-2
-nächste Seite
 ImmoStreet.ch
 Mieten
 Immobilien mieten in der Stadt Oberrieden

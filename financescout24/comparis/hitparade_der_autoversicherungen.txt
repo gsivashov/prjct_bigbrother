@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/autoversicherung/umfrage/hitlist
 Title: Die beste Autoversicherung der Schweiz?
 Description: Finden Sie die für Sie beste Autoversicherung in Bezug auf Preis und Leistung mit der Kundenzufriedenheitsnote und dem Prämienvergleich von comparis.ch.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -144,9 +142,9 @@ Versicherung
 Autoversicherung
 Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseite zu gewährleisten.
 Hitparade der Autoversicherungen
-Auch in diesem Jahr hat comparis.ch die Schweizer Bevölkerung zu ihrer Zufriedenheit mit den Schweizer Autoversicherern befragt. Dafür wurden im Juni 2020 die Einschätzungen von mehr als 1'900 Personen aus allen vier Sprachregionen durch das Marktforschungsinstitut «Intervista» erhoben.
-Bewertet wurden neben der Gesamtzufriedenheit folgendes: Kompetenz und Einsatzbereitschaft der Mitarbeitenden, Verständlichkeit und Übersichtlichkeit der Kundeninformationen, Erreichbarkeit der Versicherung, Zufriedenheit mit der Prämienhöhe, Schnelligkeit und Kulanz bei gemeldeten Schäden.
-Kundenzufriedenheits-Umfrage 2020
+Auch in diesem Jahr hat comparis.ch die Schweizer Bevölkerung zu ihrer Zufriedenheit mit den Schweizer Autoversicherern befragt. Dafür wurden im Juni 2021 die Einschätzungen von mehr als 2'600 Personen aus allen vier Sprachregionen durch das Marktforschungsinstitut «Intervista» erhoben.
+Bewertet wurden folgende Dimensionen: 1 Preis/Leistung, 2 Leistungen: Qualität und Service, 3 Information/Kommunikation/Transparenz, 4 Convenience der Touchpoints und Kontakte, 5 Innovation, 6 Gesamtzufriedenheit. Aus den Dimensionen 1 bis 5 plus 6 wird ein gewichteter Mittelwert errechnet.
+Kundenzufriedenheits-Umfrage 2021
 Anbieter
 Note
 Details
@@ -154,49 +152,49 @@ Die Mobiliar
 sehr gut
 (5.5)
 Einzelnoten
-AXA
-gut
-(5.4)
-Einzelnoten
-ELVIA
-gut
-(5.4)
-Einzelnoten
-Simpego
-gut
-(5.4)
-Einzelnoten
-Simpego
-gut
-(5.4)
-Einzelnoten
-smile.direct
-gut
-(5.4)
-Einzelnoten
-Touring Club Schweiz (TCS)
-gut
-(5.4)
-Einzelnoten
-Allianz Suisse
-gut
-(5.3)
-Einzelnoten
-Helvetia
-gut
-(5.3)
-Einzelnoten
-Zurich
-gut
-(5.3)
-Einzelnoten
-Generali
+Basler Versicherung
 gut
 (5.2)
 Einzelnoten
-Basler Versicherung
+Simpego
+gut
+(5.2)
+Einzelnoten
+Simpego
+gut
+(5.2)
+Einzelnoten
+smile.direct
+gut
+(5.2)
+Einzelnoten
+Touring Club Schweiz (TCS)
+gut
+(5.2)
+Einzelnoten
+Allianz Suisse
 gut
 (5.1)
+Einzelnoten
+AXA
+gut
+(5.1)
+Einzelnoten
+Helvetia
+gut
+(5.1)
+Einzelnoten
+Zurich
+gut
+(5.1)
+Einzelnoten
+Generali
+gut
+(5)
+Einzelnoten
+ELVIA
+befriedigend
+(4.9)
 Einzelnoten
 Quelle: comparis.ch
 Notenskala

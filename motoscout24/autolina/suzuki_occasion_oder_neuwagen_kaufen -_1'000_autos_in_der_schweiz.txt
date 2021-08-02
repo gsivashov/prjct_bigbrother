@@ -81,7 +81,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -99,7 +99,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -153,365 +153,338 @@ WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
 SUZUKI
-SX4 S-Cross 1.6 16V GL 4x4
-CHF 13'900
-ab CHF 150/Monat
-11.2014
+Swift 1.0 T Sergio Cellano Top Hyb.
+CHF 14'750
+ab CHF 159/Monat
+06.2018
 Handschaltung
-86'950 km
+31'300 km
 Benzin
-Allradantrieb
-weiss
-120 PS
-GL
-Merken
-SUZUKI
-SX4 S-Cross 1.6 16V GL 4x4
-11.2014
-120 PS
-86'950 km
-CHF 13'900
-Merken
-ab CHF 150/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-SUZUKI
-Vitara 1.4 T Compact+ 4x4
-CHF 27'900
-ab CHF 300/Monat
-12.2020
-Automat
-6'990 km
-Benzin
-Allradantrieb
-weiss
-140 PS
-GL
-Merken
-SUZUKI
-Vitara 1.4 T Compact+ 4x4
-12.2020
-140 PS
-6'990 km
-CHF 27'900
-Merken
-ab CHF 300/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-SUZUKI
-SX4 S-Cross 1.4 T Compact Top Hybrid 4x4
-CHF 34'000
-ab CHF 366/Monat
--
-Automat
-20 km
-Mild-Hybrid Benzin/Elektro
-Allradantrieb
-schwarz
-129 PS
-TG
-Merken
-SUZUKI
-SX4 S-Cross 1.4 T Compact Top Hyb...
--
-129 PS
-20 km
-CHF 34'000
-Merken
-ab CHF 366/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-SUZUKI
-Swift 1.2 Generation Top Hybrid
-CHF 22'530
-ab CHF 242/Monat
--
-Automat
-20 km
-Mild-Hybrid Benzin/Elektro
 Vorderradantrieb
-weiss
-83 PS
-TG
+silber
+111 PS
+AG
 Merken
 SUZUKI
-Swift 1.2 Generation Top Hybrid
--
-83 PS
-20 km
-CHF 22'530
+Swift 1.0 T Sergio Cellano Top Hy...
+06.2018
+111 PS
+31'300 km
+CHF 14'750
 Merken
-ab CHF 242/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
+ab CHF 159/Monat
 SUZUKI
-Ignis 1.2 Generation Top Hybrid
-CHF 20'080
-ab CHF 216/Monat
+Celerio 1.0 Compact Top
+CHF 12'500
+ab CHF 135/Monat
 -
 Handschaltung
-20 km
-Mild-Hybrid Benzin/Elektro
-Vorderradantrieb
-orange
-83 PS
-TG
-Merken
-SUZUKI
-Ignis 1.2 Generation Top Hybrid
--
-83 PS
-20 km
-CHF 20'080
-Merken
-ab CHF 216/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-SUZUKI
-Vitara 1.4 T Generation Hybrid 4x4
-CHF 29'880
-ab CHF 321/Monat
--
-Automat
-20 km
-Mild-Hybrid Benzin/Elektro
-Allradantrieb
-türkis
-129 PS
-TG
-Merken
-SUZUKI
-Vitara 1.4 T Generation Hybrid 4x...
--
-129 PS
-20 km
-CHF 29'880
-Merken
-ab CHF 321/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-SUZUKI
-Ignis 1.2 Generation Top Hybrid
-CHF 22'530
-ab CHF 242/Monat
--
-Automat
-20 km
-Mild-Hybrid Benzin/Elektro
-Vorderradantrieb
-braun
-83 PS
-TG
-Merken
-SUZUKI
-Ignis 1.2 Generation Top Hybrid
--
-83 PS
-20 km
-CHF 22'530
-Merken
-ab CHF 242/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-SUZUKI
-Swift 1.2 Generation Top Hybrid
-CHF 22'530
-ab CHF 242/Monat
--
-Automat
-20 km
-Mild-Hybrid Benzin/Elektro
+36 km
+Benzin
 Vorderradantrieb
 schwarz
-83 PS
-TG
-Merken
-SUZUKI
-Swift 1.2 Generation Top Hybrid
--
-83 PS
-20 km
-CHF 22'530
-Merken
-ab CHF 242/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-SUZUKI
-Swift 1.3 GL
-CHF 4'100
-04.2007
-Handschaltung
-134'000 km
-Benzin
-Vorderradantrieb
-silber
-92 PS
-TG
-Merken
-SUZUKI
-Swift 1.3 GL
-04.2007
-92 PS
-134'000 km
-CHF 4'100
-Merken
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-SUZUKI
-Swace 1.8 Compact Top Hybrid
-CHF 34'900
-ab CHF 375/Monat
-12.2020
-Automat
-100 km
-Voll-Hybrid Benzin/Elektro
-Vorderradantrieb
-weiss
-98 PS
-TG
-Merken
-SUZUKI
-Swace 1.8 Compact Top Hybrid
-12.2020
-98 PS
-100 km
-CHF 34'900
-Merken
-ab CHF 375/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-SUZUKI
-Swift 1.2 Generation Hybrid
-CHF 18'400
-ab CHF 198/Monat
-10.2020
-Automat
-5'000 km
-Mild-Hybrid Benzin/Elektro
-Vorderradantrieb
-silber
-83 PS
-TG
-Merken
-SUZUKI
-Swift 1.2 Generation Hybrid
-10.2020
-83 PS
-5'000 km
-CHF 18'400
-Merken
-ab CHF 198/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-SUZUKI
-Swift 1.4 T Sport Compact Top Hybrid
-CHF 26'060
-ab CHF 280/Monat
--
-Handschaltung
-20 km
-Mild-Hybrid Benzin/Elektro
-Vorderradantrieb
-rot
-129 PS
-TG
-Merken
-SUZUKI
-Swift 1.4 T Sport Compact Top Hyb...
--
-129 PS
-20 km
-CHF 26'060
-Merken
-ab CHF 280/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-SUZUKI
-SX4 S-Cross 1.6 16V GL 4WD
-CHF 13'400
-ab CHF 144/Monat
-12.2013
-Handschaltung
-104'600 km
-Benzin
-Allradantrieb
-grau
-120 PS
-VS
-Merken
-SUZUKI
-SX4 S-Cross 1.6 16V GL 4WD
-12.2013
-120 PS
-104'600 km
-CHF 13'400
-Merken
-ab CHF 144/Monat
-NEU
-SUZUKI
-Jimny 1.3 16V JLX
-CHF 6'800
-08.2001
-Handschaltung
-56'000 km
-Benzin
-Allradantrieb
-orange
-80 PS
-VD
-Merken
-SUZUKI
-Jimny 1.3 16V JLX
-08.2001
-80 PS
-56'000 km
-CHF 6'800
-Merken
-NEU
-SUZUKI
-Alto 1.0 GL Top
-CHF 4'900
-05.2009
-Automat
-74'500 km
-Benzin
-Vorderradantrieb
-silber
 68 PS
 ZH
 Merken
 SUZUKI
-Alto 1.0 GL Top
-05.2009
+Celerio 1.0 Compact Top
+-
 68 PS
-74'500 km
-CHF 4'900
+36 km
+CHF 12'500
 Merken
+ab CHF 135/Monat
+SUZUKI
+Swace 1.8 Compact Top Hybrid
+CHF 34'680
+ab CHF 373/Monat
+12.2020
+Automat
+200 km
+Benzin
+Vorderradantrieb
+weiss
+98 PS
+ZH
+Merken
+SUZUKI
+Swace 1.8 Compact Top Hybrid
+12.2020
+98 PS
+200 km
+CHF 34'680
+Merken
+ab CHF 373/Monat
+SUZUKI
+Vitara 1.4 T Generation Top Hy
+CHF 28'680
+ab CHF 308/Monat
+06.2020
+Handschaltung
+4'954 km
+Benzin
+Allradantrieb
+sonstiges
+129 PS
+ZH
+Merken
+SUZUKI
+Vitara 1.4 T Generation Top Hy
+06.2020
+129 PS
+4'954 km
+CHF 28'680
+Merken
+ab CHF 308/Monat
+NEU
+SUZUKI
+Swift 1.2 Compact+ Hybrid 4x4
+CHF 18'600
+ab CHF 200/Monat
+06.2021
+Handschaltung
+50 km
+Mild-Hybrid Benzin/Elektro
+Allradantrieb
+weiss
+83 PS
+LU
+Merken
+SUZUKI
+Swift 1.2 Compact+ Hybrid 4x4
+06.2021
+83 PS
+50 km
+CHF 18'600
+Merken
+ab CHF 200/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+SUZUKI
+Swift 1.2 Compact+ 4x4
+CHF 14'400
+ab CHF 155/Monat
+05.2018
+Handschaltung
+73'000 km
+Benzin
+Allradantrieb
+blau
+90 PS
+LU
+Merken
+SUZUKI
+Swift 1.2 Compact+ 4x4
+05.2018
+90 PS
+73'000 km
+CHF 14'400
+Merken
+ab CHF 155/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+SUZUKI
+Vitara 1.4 Piz Sulai Top
+CHF 20'900
+ab CHF 225/Monat
+10.2017
+Automat
+35'800 km
+Benzin
+Allradantrieb
+rot
+140 PS
+GR
+Merken
+SUZUKI
+Vitara 1.4 Piz Sulai Top
+10.2017
+140 PS
+35'800 km
+CHF 20'900
+Merken
+ab CHF 225/Monat
+SUZUKI
+Vitara 1.4 Gen.Top Hyb.AT
+CHF 34'280
+ab CHF 369/Monat
+-
+Automat
+4'500 km
+Benzin
+Allradantrieb
+schwarz
+129 PS
+GR
+Merken
+SUZUKI
+Vitara 1.4 Gen.Top Hyb.AT
+-
+129 PS
+4'500 km
+CHF 34'280
+Merken
+ab CHF 369/Monat
+SUZUKI
+Jimny Country 1.5 Compact+
+CHF 24'990
+ab CHF 269/Monat
+-
+Handschaltung
+20 km
+Benzin
+Allradantrieb
+grün
+102 PS
+VS
+Merken
+SUZUKI
+Jimny Country 1.5 Compact+
+-
+102 PS
+20 km
+CHF 24'990
+Merken
+ab CHF 269/Monat
+SUZUKI
+Jimny 1.5 Compact Top 4x4
+CHF 27'900
+ab CHF 300/Monat
+08.2019
+Handschaltung
+22'900 km
+Benzin
+Allradantrieb
+grau
+102 PS
+TI
+Merken
+SUZUKI
+Jimny 1.5 Compact Top 4x4
+08.2019
+102 PS
+22'900 km
+CHF 27'900
+Merken
+ab CHF 300/Monat
+SUZUKI
+Splash 1.2i 16V GL Automatic
+CHF 13'900
+ab CHF 150/Monat
+01.2014
+Automat
+12'900 km
+Benzin
+Vorderradantrieb
+blau
+86 PS
+AG
+Merken
+SUZUKI
+Splash 1.2i 16V GL Automatic
+01.2014
+86 PS
+12'900 km
+CHF 13'900
+Merken
+ab CHF 150/Monat
+SUZUKI
+Swift Sport 1.4i 16V Compact Top Hybrid
+CHF 26'580
+ab CHF 286/Monat
+-
+Handschaltung
+15 km
+Mild-Hybrid Benzin/Elektro
+Vorderradantrieb
+schwarz
+129 PS
+OW
+Merken
+SUZUKI
+Swift Sport 1.4i 16V Compact Top ...
+-
+129 PS
+15 km
+CHF 26'580
+Merken
+ab CHF 286/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+SUZUKI
+SX4 S-Cross 1.6 16V Compact+ 4x4
+CHF 16'500
+ab CHF 178/Monat
+02.2017
+Handschaltung
+65'000 km
+Benzin
+Allradantrieb
+braun
+120 PS
+LU
+Merken
+SUZUKI
+SX4 S-Cross 1.6 16V Compact+ 4x4
+02.2017
+120 PS
+65'000 km
+CHF 16'500
+Merken
+ab CHF 178/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+SUZUKI
+SX4 1.6 16V Compact Top 4WD
+CHF 9'800
+ab CHF 111/Monat
+10.2014
+Handschaltung
+59'500 km
+Benzin
+Allradantrieb
+grau
+120 PS
+GR
+Merken
+SUZUKI
+SX4 1.6 16V Compact Top 4WD
+10.2014
+120 PS
+59'500 km
+CHF 9'800
+Merken
+ab CHF 111/Monat
+SUZUKI
+Baleno 1.2i Compact Top Hybrid
+CHF 12'500
+ab CHF 135/Monat
+10.2016
+Handschaltung
+74'500 km
+Mild-Hybrid Benzin/Elektro
+Vorderradantrieb
+grau
+90 PS
+AG
+Merken
+SUZUKI
+Baleno 1.2i Compact Top Hybrid
+10.2016
+90 PS
+74'500 km
+CHF 12'500
+Merken
+ab CHF 135/Monat
 1
 1
 2
@@ -555,7 +528,6 @@ SUZUKI JIMNY
 SUZUKI Kizashi
 SUZUKI LIANA
 SUZUKI SAMURAI
-SUZUKI SJ
 SUZUKI SPLASH
 SUZUKI SWACE
 SUZUKI SWIFT
@@ -567,7 +539,6 @@ Cabriolet
 SUV / Geländewagen
 Kombi
 Limousine
-Van
 SUZUKI Nach Kanton Suchen
 Aargau
 Appenzell Ausser Rhoden
@@ -575,7 +546,6 @@ Bern
 Basel-Landschaft
 Fürstentum Lichtenstein
 Fribourg
-Genève
 Glarus
 Grisons
 Jura

@@ -85,9 +85,9 @@ Sich anmelden
 Ihre E-Mail-Adresse wurde registriert.
 Es liegt ein Systemfehler vor.
 Profitieren Sie von den besten Zinssätzen unserer Partner
-Festzins 3 Jahre ab 0.63%
-Festzins 5 Jahre ab 0.71%
-Festzins 10 Jahre ab 1.05%
+Festzins 3 Jahre ab 0.57%
+Festzins 5 Jahre ab 0.62%
+Festzins 10 Jahre ab 0.92%
 Weiter
 Ein Service in Partnerschaft mit
 Nach Hypothekenart gefiltert
@@ -95,7 +95,7 @@ Banken
 Versicherungen
 Online-Hypotheken
 Zurück zum Vergleich / Liste der Hypothekarzinsen (Vriabler Zins, LIBOR und Festzins)
-Stand 07.06.2021
+Stand 29.07.2021
 Bank / ProduktFür weitere infos klicken Sie bitte auf den Namen des Anbieters
 DarlehenMinimum
 Zins
@@ -107,99 +107,104 @@ APPKB Familien-Hypothek
 APPKB Familien-Hypothek (ab 3 Kinder)
 300000
 0.450
-OKB Familien-Hypothek
-0.640
 LUKB Minergie-Hypothek
 100000
+0.600
+Crédit Agricole next bank
+0.620
+Offertenanfrage
+OKB Familien-Hypothek
+0.630
+Swissquote
 0.650
 e-hypo.ch
 0.670
 Offertenanfrage
+GKB Minergie®-Hypothek
+200000
+0.680
 homegate.ch
 0.680
+Besser informiert? Machen Sie den nächsten Schritt!
+Individueller Beratungsservice
 GLKB direkt
 100000
 0.700
-Crédit Agricole next bank
-0.710
-Offertenanfrage
-GKB Minergie®-Hypothek
-200000
-0.720
-Besser informiert? Machen Sie den nächsten Schritt!
-Individueller Beratungsservice
-AXA
-333000
-0.730
 APPKB Wöllkomm-Hypothek
 200000
 0.750
+AXA
+333000
+0.760
 Migrosbank Eco-Vergünstigung
 100000
 0.770
 Migrosbank Start-Vergünstigung
 100000
 0.770
-Swissquote
-0.770
 GKB Start-Hypothek
 (Variant 1)
 100000
 0.780
+LUKB Familien-Hypothek
+100000
+0.780
 OKB Umwelt-Hypothek
 100000
-0.790
+0.780
 Alpha RHEINTAL Bank Alpha MINERGIE Hypothek
 0.800
 Alpha RHEINTAL Bank Familien Hypothek
 0.800
-LUKB Familien-Hypothek
+LUKB Renovations-Hypothek
 100000
 0.810
 Zurich
 300000
 0.810
-Banque du Léman
-80000
-0.840
 ZKB Starthypothek
 0.845
-LUKB Renovations-Hypothek
-100000
-0.870
-BANK EKI
-0.900
 Swiss Life
 250000
-0.920
+0.850
+Banque du Léman
+80000
+0.860
+BANK EKI
+0.900
 APPKB
 100000
+0.950
+GENERALI
 0.950
 PostFinance
 100000
 0.950
-Allianz
-1.000
-GENERALI
-1.000
-Bank Gantrisch
-1.020
-Alpha RHEINTAL Bank
-100000
-1.050
 BCV
 100000
-1.050
+0.980
+Allianz
+1.000
+Raiffeisen
+100000
+1.010
+Bank Gantrisch
+1.020
+OKB
+100000
+1.030
+Alpha RHEINTAL Bank
+100000
+1.040
 LUKB
 100000
 1.050
-OKB
-100000
-1.050
-Raiffeisen
-100000
-1.050
 Bank Avera
+100000
+1.060
+BPS (Suisse)
+1.070
+Valiant
 100000
 1.070
 Migrosbank
@@ -207,20 +212,18 @@ Migrosbank
 1.070
 ZKB
 1.070
-Bank WIR
+Credit Suisse
+100000
 1.080
-BPS (Suisse)
-1.090
+GKB
+100000
+1.080
 Zuger Kantonalbank
 100000
+1.080
+Bank WIR
 1.090
 acrevis
-100000
-1.100
-Valiant
-100000
-1.100
-Credit Suisse
 100000
 1.100
 GLKB
@@ -229,9 +232,6 @@ GLKB
 SGKB
 100000
 1.100
-GKB
-100000
-1.120
 Ihre Festzinshypothek über 5 Jahre
 Gehen Sie auf Nummer sicher, um Besitzer Ihrer Traumimmobilie zu werden, indem Sie von unserem Hypothekenrechner profitieren, um Ihre Finanzierungskapazität zu erfahren! Mit Hilfe unseres kostenlosen Onlinevergleichs
 vergleichen Sie die verschiedenen Hypothekarzinssätze für die Immobilie, die Sie erwerben möchten und erhalten Sie, falls Sie das wünschen, eine unverbindliche Offerte über unseren Offerten- und Beratungsservice. Unsere Experten leiten Sie durch die verschiedenen Hypothekenmodelle: die Festzinshypothek, die Hypothek mit variablen Zinssatz

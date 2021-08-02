@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-flums/
 Title: Wohnungen & Häuser mieten in Flums - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Flums - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Flums - Immostreet.ch: ImmoStreet.ch hat 25 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-19 Resultate gefunden ·
+25 Resultate gefunden ·
 Wohnungen & Häuser mieten in Flums
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,6 +122,66 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Guschastrasse 2
+1'120
+CHF
+/Monat
+sanierte 2.5 Zimmerwohnung
+Guschastrasse 2, 8890 Flums
+Array
+2.5 Zimmer
+56 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+56 m2
+Etage
+Totalsanierte Wohnung im Zentrum von Flums. Topmoderne Küche und Dusche/WC inkl. Wäscheturm und Mul…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Heimetlistrasse 4
+2'500
+CHF
+/Monat
+traumhafte 5.5 Zimmer-Dachwohnung an ru…
+Heimetlistrasse 4, 8890 Flums
+Array
+5.5 Zimmer
+181 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+5.5
+Wohnfläche
+181 m2
+Etage
+Das 2019 erstellte Mehrfamilienhaus (5 Wohnungen) liegt an der sehr zentralen aber dennoch ruhigen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bergstrasse 10
+590
+CHF
+/Monat
+Single - Wohnung im Zentrum von Flums
+Bergstrasse 10, 8890 Flums
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Etage
+Praktische Singlewohnung an zentraler Lage in FlumsAb dem 01. September 2021 oder nach Vereinbarung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bergstrasse 15
 1'300
 CHF
@@ -143,39 +203,75 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bahnhofstrasse 30
-1'290
+Bahnhofstrasse 4b
+480
 CHF
 /Monat
-Heimische 3 Zimmer-Dach-Wohnung mit Cha…
-Bahnhofstrasse 30, 8890 Flums
+gut erhaltene 1.0-Zimmerwohnung in opti…
+Bahnhofstrasse 4b, 8890 Flums
 Array
-3 Zimmer
+1 Zimmer
+23 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
+1
+Wohnfläche
+23 m2
+Etage
+In bester Lage direkt am Bahnhof Flums zeigt sich diese gut erhaltene Wohnung in einem einfachen ab…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Pradasolstrasse 8
-1'380
+Ganischastrass 29
+1'250
 CHF
 /Monat
-schöne 4.5 Zimmerwohnung mit grossem Ba…
-Pradasolstrasse 8, 8890 Flums
+3.5 Zimmer, 3.Etage
+Ganischastrass 29, 8890 Flums
 Array
-4.5 Zimmer
-71 m2
+3.5 Zimmer
+100 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+3.5
 Wohnfläche
-71 m2
+100 m2
+Wir vermieten in Flums eine schöne, helle und grosszügige Eigentumswohnung. Die Wohnung wurde laufe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bergstrasse 6
+1'460
+CHF
+/Monat
+Gewerberaum an bester Erreichbarkeit in…
+Bergstrasse 6, 8890 Flums
+Array
+Objekttyp
+Verkauf, Geschäft
 Etage
-In Gehdistanz zum Bahnhof, Schulhäuser, Einkaufsmöglichkeiten oder sonstigen öffentlichen Einrichtu…
+Der "Mannhart-Park" in Flums liegt an bester Erreichbarkeit an der Bergstrasse direkt neben dem Hau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kirchstrasse 15
+1'110
+CHF
+/Monat
+Erfüllen Sie sich Ihren Traum von einer…
+Kirchstrasse 15, 8890 Flums
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Haben Sie schon immer von einer modernen Wohnung in Flums geträumt? Dann könnte diese Wohnung genau…
 Teilen
 E-Mail
 Facebook
@@ -196,60 +292,6 @@ Zimmer
 Wohnfläche
 116 m2
 Geniessen Sie eine zentrale und ruhige Lage in einer grosszügigen und ansprechenden Wohnung, welche…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 4c
-1'340
-CHF
-/Monat
-preiswerte und gut erhaltene 3.5-Zimmer…
-Bahnhofstrasse 4c, 8890 Flums
-Array
-3.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-79 m2
-Etage
-In bester Lage, unweit vom Bahnhof Flums entfernt, beweist sich diese gut erhaltene und gepflegte W…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lochrietstrasse 3
-450
-CHF
-/Monat
-Günstiges, möbliertes, gut gelegenes St…
-Lochrietstrasse 3, 8890 Flums
-Array
-1.5 Zimmer
-9 m2
-Objekttyp
-Wohnung, Studio
-Zimmer
-1.5
-Wohnfläche
-9 m2
-Etage
-Per 01.06.2021 vermieten wir in diesem Appartement-Haus diese möblierte 1.5-Zimmerwohnung.Das Studi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Postplatz 1
-Preis auf Anfrage
-Bürolokal zentral
-Postplatz 1, 8890 Flums
-Array
-Objekttyp
-Büro
-Bürolokal zentralAn zentraler Lage im Flums (Postgebäude) vermieten wir im 1. Obergeschoss Bürofläc…
 Teilen
 E-Mail
 Facebook
@@ -275,7 +317,7 @@ Kirchstrasse 15
 1'845
 CHF
 /Monat
-HEIMELIGE Maisonettewohnung mit Weitbli…
+Charmante Maisonettewohnung mit Weitbli…
 Kirchstrasse 15, 8890 Flums
 Array
 4.5 Zimmer
@@ -287,6 +329,82 @@ Zimmer
 Wohnfläche
 129 m2
 Geniessen Sie eine zentrale und ruhige Lage in einer grosszügigen und ansprechenden Wohnung, welche…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Büntliweg 13
+1'410
+CHF
+/Monat
+Lebendig, vielfältig, neu: Büntli - uns…
+Büntliweg 13, 8890 Flums
+Array
+2.5 Zimmer
+58 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+58 m2
+BÜNTLI - UNSER QUARTIERSie legen bei der Wahl Ihres Wohnorts Wert auf ein wohldurchdachtes Gesamtko…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Büntliweg 13
+1'920
+CHF
+/Monat
+Büntli Flums: So will ich wohnen
+Büntliweg 13, 8890 Flums
+Array
+4.5 Zimmer
+113 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+113 m2
+BÜNTLI - UNSER QUARTIERSie legen bei der Wahl Ihres Wohnorts Wert auf ein wohldurchdachtes Gesamtko…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Büntliweg 13
+1'710
+CHF
+/Monat
+Urbanes Wohnen im Büntli Flums
+Büntliweg 13, 8890 Flums
+Array
+3.5 Zimmer
+92 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+92 m2
+BÜNTLI - UNSER QUARTIERSie legen bei der Wahl Ihres Wohnorts Wert auf ein wohldurchdachtes Gesamtko…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 30
+1'290
+CHF
+/Monat
+Heimische 3 Zimmer-Dach-Wohnung mit Cha…
+Bahnhofstrasse 30, 8890 Flums
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
 Teilen
 E-Mail
 Facebook
@@ -351,124 +469,52 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Paradiesstrasse 2 - 10
-1'290
+Pradasolstrasse 8
+1'380
 CHF
 /Monat
-Die letzten 2.5 Zimmer-Wohnungen: Ihr W…
-Paradiesstrasse 2 - 10, 8890 Flums
+schöne 4.5 Zimmerwohnung mit grossem Ba…
+Pradasolstrasse 8, 8890 Flums
 Array
-2.5 Zimmer
-63 m2
+4.5 Zimmer
+71 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+4.5
 Wohnfläche
-63 m2
-Mitten im Grünen warten moderne und heimelig ausgestattete 1- bis 3.5 Zimmerwohnungen auf Ihre neue…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schilsstrasse 16
-1'351
-CHF
-/Monat
-Gewerberaum nähe Dorfzentrum
-Schilsstrasse 16, 8890 Flums
-Array
-149 m2
-Objekttyp
-Verkauf, Geschäft
-Wohnfläche
-149 m2
+71 m2
 Etage
-Bitte rufen Sie uns an, wenn Sie weitere Details der Liegenschaft kennen lernen wollen, oder verein…
+In Gehdistanz zum Bahnhof, Schulhäuser, Einkaufsmöglichkeiten oder sonstigen öffentlichen Einrichtu…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Gimsastrasse 8
-1'270
+Bahnhofstrasse 4c
+1'340
 CHF
 /Monat
-günstige 3.5-Zimmer-Dachwohnung inmitte…
-Gimsastrasse 8, 8890 Flums
+preiswerte und gut erhaltene 3.5-Zimmer…
+Bahnhofstrasse 4c, 8890 Flums
 Array
 3.5 Zimmer
-82 m2
+79 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-82 m2
+79 m2
 Etage
-Diese schöne Dachwohnung liegt rundum eingebettet im eindrucksvollen Alpenmassiv. Schulen, Einkaufs…
+In bester Lage, unweit vom Bahnhof Flums entfernt, beweist sich diese gut erhaltene und gepflegte W…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Lochriedstrasse 27-29
-Preis auf Anfrage
-Attraktive Verkaufsfläche für Pop-Up Nu…
-Lochriedstrasse 27-29, 8890 Flums
-Array
-Objekttyp
-Verkauf, Geschäft
-Wir vermieten per 01.01.2021 oder nach Vereinbarung eine attraktive Verkaufsfläche mit rund 310m² i…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Postplatz 1
-1'100
-CHF
-/Monat
-Grosszügige Gewerbefläche
-Postplatz 1, 8890 Flums
-Array
-Objekttyp
-Büro
-Grosszügige GewerbeflächeAn zentraler Lage im Flums (Postgebäude) vermieten wir im 1. Obergeschoss …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Spitzenmeilenstrasse 4d
-1'160
-CHF
-/Monat
-Attraktive 3.5 Zimmerwohnung
-Spitzenmeilenstrasse 4d, 8890 Flums
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Suchen Sie ein neues Zuhause? Dann sind Sie hier sicher richtig!
-An der Spitzmeilenstrasse 4d in 8…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bergstrasse 6
-1'460
-CHF
-/Monat
-Gewerberaum an bester Erreichbarkeit in…
-Bergstrasse 6, 8890 Flums
-Array
-Objekttyp
-Verkauf, Gewerbe
-Etage
-Der "Mannhart-Park" in Flums liegt an bester Erreichbarkeit an der Bergstrasse direkt neben dem Hau…
-Teilen
-E-Mail
-Facebook
-Whatsapp
+Seite 1 von 2
+1
+2
+nächste Seite
 ImmoStreet.ch
 Mieten
 Immobilien mieten in der Stadt Flums

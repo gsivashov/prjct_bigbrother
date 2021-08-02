@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-konolfingen/
 Title: Wohnungen & Häuser mieten in Konolfingen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Konolfingen - Immostreet.ch: ImmoStreet.ch hat 14 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Konolfingen - Immostreet.ch: ImmoStreet.ch hat 13 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-14 Resultate gefunden ·
+13 Resultate gefunden ·
 Wohnungen & Häuser mieten in Konolfingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,8 +122,22 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Mooshausstrasse 1
+173
+CHF
+Attraktive Gewerbefläche mit viel Sicht
+Mooshausstrasse 1, 3510 Konolfingen
+Array
+Objekttyp
+Residential commercial building
+Etage
+Direkt neben dem Bahnhof in Konolfingen mit vielversrpechender Kundenfrequenz und daher in idealer …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
-1'600
+1'490
 CHF
 /Monat
 LÄNDLICH MIT WUNDERSCHÖNER AUSSICHT
@@ -142,118 +156,62 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Emmentalstrasse 29 (EHP)
-100
+Burgdorfstrasse 52
+2'150
 CHF
 /Monat
-Einstellhallenplätze zu vermieten
-Emmentalstrasse 29 (EHP), 3510 Konolfingen
+MODERNER AUSBAU MIT TRAUMAUSSICHT
+Burgdorfstrasse 52, 3510 Konolfingen
 Array
-Objekttyp
-Tiefgarage
-Wir vermieten einen Einstellplatz.Der Mietzins ist exkl. MwSt.Interessiert? Rufen Sie uns an.
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonnrainstrasse 82
-2'600
-CHF
-/Monat
-6,5-Zimmer-Terrassenwohnung/-haus inkl.…
-Sonnrainstrasse 82, 3510 Konolfingen
-Array
-6.5 Zimmer
-150 m2
+5.5 Zimmer
+143 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-6.5
+5.5
 Wohnfläche
-150 m2
-An der Sonnrainstrasse in Konolfingen vermieten wir per sofort oder nach Vereinbarung eine sehr gro…
+143 m2
+Kommen Sie ins schöne Konolfingen an die Burgdorfstrasse 52 und finden Sie diese grosse und moderne…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-700
+Bernstrasse 9
+2'390
 CHF
 /Monat
-Wg Zimmer zu vermieten ab sofort oder n…
-Adresse auf Anfrage, 3510 Konolfingen
+attraktive 4.5-Zimmer-Loftwohnung im Er…
+Bernstrasse 9, 3510 Konolfingen
 Array
-Objekttyp
-Wohnung, Einzelzimmer
-Sehr schöne Zimmer, zu vermieten in eine 3/1/2 Zimmer Wohnung mit Balkon un Garten und Parkplatz
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mooshausstrasse 1
-173
-CHF
-Gewerbefläche beim Bahnhof in Konolfing…
-Mooshausstrasse 1, 3510 Konolfingen
-Array
-Objekttyp
-Residential commercial building
-Etage
-Die ideale Lage für ein Unternehmen ist direkt neben dem Bahnhof Konolfingen. Dieser bietet durch d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bürglenweg 1
-1'460
-CHF
-/Monat
-schöne 3 1/2-Zimmerwohnung im 2. Stock …
-Bürglenweg 1, 3510 Konolfingen
-Array
-3.5 Zimmer
-71 m2
+4.5 Zimmer
+163 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+4.5
 Wohnfläche
-71 m2
-Die Liegenschaft befindet sich an sonniger Wohnlage in der Nähe des Zentrums von Konolfingen. Eine …
+163 m2
+Die Liegenschaft befindet sich an sehr zentraler Lage. Öffentliche Verkehrsmittel sowie Einkaufsmög…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Chisenmattweg 18a
-2'463
+Tonisbachstrasse 30
+1'955
 CHF
 /Monat
-Nachmieter gesucht für unsere wundersch…
-Chisenmattweg 18a, 3510 Konolfingen
+MODERN MIT TRAUMAUSSICHT
+Tonisbachstrasse 30, 3510 Konolfingen
 Array
-3.5 Zimmer
-85 m2
+4.5 Zimmer
+125 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
-3.5
+4.5
 Wohnfläche
-85 m2
-Wir suchen auf Anfrage -spätestens auf 01. Juli 2021- für unsere attraktive, sonnendurchflutete 3.5…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Emmentalstrasse 32
-30
-CHF
-/Monat
-Parkplatz Nr. 11
-Emmentalstrasse 32, 3510 Konolfingen
-Array
-Objekttyp
-Offener Parkplatz
-Die Liegenschaft befindet sich an zentraler Lage in unmittelbarer Nähe des Bahnhofs. Einkaufsmöglic…
+125 m2
+Im schönen Konolfingen finden Sie diese Dachwohnung mit neu verbauter Küche und einer absoluten Tra…
 Teilen
 E-Mail
 Facebook
@@ -278,36 +236,83 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Chisenmattweg
-2'250
+Bernstrasse 39
+1'245
 CHF
 /Monat
-Eine wunderschöne Wohnung mit Terrasse …
-Chisenmattweg, 3510 Konolfingen
+Ein kleines Juwel!
+Bernstrasse 39, 3510 Konolfingen
 Array
-4.5 Zimmer
-118 m2
+2 Zimmer
+47 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+2
 Wohnfläche
-118 m2
-Wir vermieten eine grosse und sehr moderne Wohnung mit eine riesigen Terrasse.Die Wohnung ist sehr …
+47 m2
+Per sofort oder nach Vereinbarung können wir Ihnen an der Bernstrasse 39 in Konolfingen eine 3-Zimm…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Mooshausstrasse 1
-125
+Bernstrasse 12
+1'800
 CHF
 /Monat
-Parkplätze in der Einstellhalle beim Ba…
-Mooshausstrasse 1, 3510 Konolfingen
+MODERN MIT CHARME
+Bernstrasse 12, 3510 Konolfingen
 Array
+3.5 Zimmer
+130 m2
 Objekttyp
-Tiefgarage
-Wir vermieten per sofort oder nach Vereinbarung Einstellhallenplätze in der Tiefgarage direkt am Ba…
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+130 m2
+Im schönen Konolfingen an der Bernstrasse 12 finden Sie diese neu renovierte und wunderschöne Dachg…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sonnrainstrasse 82
+2'600
+CHF
+/Monat
+6,5-Zimmer-Terrassenhaus/-wohnung inkl.…
+Sonnrainstrasse 82, 3510 Konolfingen
+Array
+6.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+150 m2
+Etage
+An der Sonnrainstrasse in Konolfingen vermieten wir per sofort oder nach Vereinbarung eine sehr gro…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sonnrainstrasse 82
+2'600
+CHF
+/Monat
+6,5-Zimmer-Terrassenwohnung/-haus inkl.…
+Sonnrainstrasse 82, 3510 Konolfingen
+Array
+6.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+6.5
+Wohnfläche
+150 m2
+An der Sonnrainstrasse in Konolfingen vermieten wir per sofort oder nach Vereinbarung eine sehr gro…
 Teilen
 E-Mail
 Facebook

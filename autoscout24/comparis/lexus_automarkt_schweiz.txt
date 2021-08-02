@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marke/lexus
 Title: Lexus Modelle - Preise vergleichen mit comparis.ch
 Description: Alle Lexus Modelle der grössten Schweizer Auto-Portale in der Übersicht. Vergleichen Sie mit Comparis die Preise und finden Sie Ihr Traumauto.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -146,107 +144,303 @@ Alle Automarken
 Lexus
 Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseite zu gewährleisten.
 Lexus Automarkt Schweiz
-436 Occasionen
-93 Neuwagen
-44 Vorführwagen
-Lexus GS - 14 Inserate im Automarkt - Ab CHF 4'900
-Lexus IS - 52 Inserate im Automarkt - Ab CHF 2'000
-Lexus SC - 7 Inserate im Automarkt - Ab CHF 7'900
+471 Occasionen
+129 Neuwagen
+36 Vorführwagen
+Lexus GS - 10 Inserate im Automarkt - Ab CHF 7'300
+Lexus IS - 53 Inserate im Automarkt - Ab CHF 1'990
+Lexus SC - 9 Inserate im Automarkt - Ab CHF 7'900
 Lexus Modelle
-Lexus RX - 194 Inserate anzeigen
-Lexus RX 400h Edition AWD Automatic
+Lexus GS - 10 Inserate anzeigen
+LEXUS GS 430 Automatic
 Occasion
-11.2016
-81'150 km
+09.2005
+160'500 km
+283 PS
+Mehr
+5.0
+CHF
+10'800
+30.07.2021
+Lexus GS 350 excellence AWD Automatic
+Occasion
+06.2013
+56'000 km
+317 PS
+Mehr
+5.0
+CHF
+32'500
+28.07.2021
+LEXUS GS 450h excellence Automatic
+Occasion
+03.2013
+32'500 km
+345 PS
+Mehr
+5.5
+CHF
+26'500
+27.07.2021
+Lexus IS - 53 Inserate anzeigen
+LEXUS IS 250 Executive Automatic
+Occasion
+05.2010
+85'000 km
+208 PS
+Mehr
+5.0
+CHF
+14'800
+26.07.2021
+LEXUS IS 250C Executive
+Occasion
+04.2010
+61'000 km
+208 PS
+Mehr
+5.0
+CHF
+19'900
+23.07.2021
+LEXUS IS 300h excellence Automatic
+Occasion
+09.2014
+79'000 km
+223 PS
+Mehr
+5.0
+CHF
+20'999
+22.07.2021
+Lexus LS - 26 Inserate anzeigen
+Lexus LS 500h Excellence AWD
+Occasion
+12.2018
+52'679 km
+299 PS
+Mehr
+5.0
+CHF
+79'990
+30.07.2021
+LEXUS LS 500h Excellence AWD
+Occasion
+12.2018
+52'679 km
+359 PS
+Mehr
+5.0
+CHF
+79'990
+29.07.2021
+LEXUS LS 600h L 5.0 V8 AWD Automatic
+Occasion
+12.2007
+100'000 km
+444 PS
+Mehr
+5.5
+CHF
+22'900
+29.07.2021
+Lexus RX - 194 Inserate anzeigen
+LEXUS RX 400h Business AWD Automatic
+Occasion
+02.2008
+120'000 km
 211 PS
 Mehr
-6.0
+5.5
 CHF
-15'990
-09.06.2021
-LEXUS RX 450h Diamond AWD Automatic
+9'500
+31.07.2021
+LEXUS RX 450h excellence AWD
 Occasion
-05.2015
-62'000 km
-250 PS
+01.2019
+22'900 km
+312 PS
 Mehr
 5.0
 CHF
-26'900
-22.05.2021
-Lexus RX 450h F-Sport
+59'900
+31.07.2021
+LEXUS RX 400h Edition AWD Automatic
 Occasion
-11.2017
-70'300 km
-262 PS
+06.2007
+174'000 km
+211 PS
 Mehr
 5.0
 CHF
-39'900
-27.04.2021
-Lexus CT - 74 Inserate anzeigen
-Lexus CT 200h F-Sport
+8'900
+30.07.2021
+Lexus SC - 9 Inserate anzeigen
+LEXUS SC 430 Automatic
 Occasion
-12.2020
-8'000 km
-99 PS
+08.2010
+75'000 km
+285 PS
 Mehr
 5.0
 CHF
-34'900
-14.01.2021
-LEXUS CT 200h F-Sport
+29'900
+24.04.2021
+Lexus CT - 57 Inserate anzeigen
+LEXUS CT 200h Comfort
 Occasion
-12.2020
-8'400 km
+09.2018
+27'000 km
 136 PS
 Mehr
 5.0
 CHF
-34'900
-18.12.2020
-Lexus NX - 69 Inserate anzeigen
-Lexus NX 200t F-Sport AWD Automatic
+22'900
+30.07.2021
+Lexus CT 200h 1.8 excellence CVT
 Occasion
-06.2017
-80'550 km
-238 PS
+02.2018
+54'555 km
+137 PS
 Mehr
 5.0
 CHF
-27'900
-06.06.2021
-LEXUS NX 200t F-Sport AWD Automatic
+22'900
+28.07.2021
+LEXUS CT 200h 1.8 excellence CVT
 Occasion
-06.2017
-80'550 km
-238 PS
+02.2018
+54'555 km
+136 PS
 Mehr
 5.0
 CHF
-27'900
-05.06.2021
-LEXUS NX 200t comfort AWD Automatic
+22'900
+24.07.2021
+Lexus NX - 76 Inserate anzeigen
+LEXUS NX 300h excellence E-Four Automatic
 Occasion
-01.2017
-45'200 km
-238 PS
+10.2015
+45'000 km
+197 PS
 Mehr
 5.0
 CHF
-29'400
-17.02.2021
-Lexus RC - 13 Inserate anzeigen
-LEXUS RC F 5.0 V8 10th Anniversary
+32'900
+08.07.2021
+Lexus NX 300h excellence E-Four Automatic
+Occasion
+05.2015
+80'000 km
+197 PS
+Mehr
+5.0
+CHF
+24'999
+05.07.2021
+LEXUS NX 300h excellence E-Four Automatic
+Occasion
+05.2015
+80'000 km
+197 PS
+Mehr
+5.0
+CHF
+24'999
+03.07.2021
+Lexus RC - 12 Inserate anzeigen
+Lexus RC 300h Excellence
+Occasion
+12.2019
+8'500 km
+181 PS
+Mehr
+5.0
+CHF
+49'990
+24.06.2021
+Lexus RC F 5.0 V8 10th Anniversary
 Occasion
 03.2019
-3'000 km
+3'100 km
 463 PS
 Mehr
 5.0
 CHF
-74'700
+74'900
+14.01.2021
+LEXUS RC F 5.0 V8 10th Anniversary
+Occasion
+03.2019
+3'100 km
+463 PS
+Mehr
+5.0
+CHF
+74'900
 08.12.2020
+Lexus LC - 31 Inserate anzeigen
+Lexus LC 500h Sport+
+Occasion
+01.2018
+9'100 km
+299 PS
+Mehr
+5.0
+CHF
+79'900
+24.06.2021
+Lexus LC 500h Sport+ 359PS
+Occasion
+06.2020
+8'900 km
+299 PS
+Mehr
+5.0
+CHF
+94'900
+24.06.2021
+LEXUS LC 500h Sport+ 359PS
+Occasion
+06.2020
+8'900 km
+359 PS
+Mehr
+5.0
+CHF
+94'900
+09.10.2020
+Lexus UX - 166 Inserate anzeigen
+LEXUS UX 250h Excellence AWD
+Occasion
+12.2019
+7'442 km
+152 PS
+Mehr
+5.0
+CHF
+39'900
+27.07.2021
+Lexus UX 250h Kuro
+Occasion
+12.2020
+7'400 km
+152 PS
+Mehr
+5.0
+CHF
+42'990
+20.07.2021
+LEXUS UX 250h Kuro
+Occasion
+12.2020
+7'400 km
+184 PS
+Mehr
+5.0
+CHF
+42'990
+19.07.2021
 comparis.ch
 Über Comparis
 Medien

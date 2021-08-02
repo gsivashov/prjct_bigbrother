@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/in-pratteln/
 Title: Wohnung & Haus kaufen in Pratteln - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Pratteln - Immostreet.ch: ImmoStreet.ch hat 12 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Pratteln - Immostreet.ch: ImmoStreet.ch hat 15 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-12 Resultate gefunden ·
+15 Resultate gefunden ·
 Wohnung & Haus kaufen in Pratteln
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,59 +151,40 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Pratteln
-670'000
-CHF
-Gemütliche 4.5-Zimmerwohnung mit 2 Balk…
-Pratteln, 4133 Pratteln
+Bahnhofstrasse 16
+Preis auf Anfrage
+GROSSZÜGIGE WOHNUNG IM HERZEN VON PRATT…
+Bahnhofstrasse 16, 4133 Pratteln
 Array
-4.5 Zimmer
-95 m2
+3.5 Zimmer
+88 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+3.5
 Wohnfläche
-95 m2
-Diese Wohnung überzeugt durch die praktische und funktionale Raumaufteilung. Zudem punktet sie mit …
+88 m2
+An zentraler Lage, mitten in Pratteln wird dieses helle 3.5-Zimmer-Gewerbe verkauft. Im Juni 2021 w…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-565'000
+Rankackerweg 10
+450'000
 CHF
-Schöne Wohnung an bester Lage
-Adresse auf Anfrage, 4133 Pratteln
+4-Zimmer mit Lift und Wintergarten an g…
+Rankackerweg 10, 4133 Pratteln
 Array
-3.5 Zimmer
-100 m2
+4 Zimmer
+80 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Flach
 Zimmer
-3.5
+4
 Wohnfläche
-100 m2
-Diese charmante Wohnung befindet sich an einer sehr guten und familienfreundlichen Lage. Schule und…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-565'000
-CHF
-Attraktive 3.5 Zi. Wohnung an toller La…
-Adresse auf Anfrage, 4133 Pratteln
-Array
-3.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-100 m2
-Diese charmante Wohnung befindet sich an einer sehr guten und familienfreundlichen Lage. Schule und…
+80 m2
+Etage
+IMMOROSSI der Immobilienmakler für Basel und Baselland verkauft im Auftrag der Eigentümerschaft per…
 Teilen
 E-Mail
 Facebook
@@ -229,42 +210,118 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Schauenburgerstrasse 11-13
-1'275'000
+Lilienhofweg 2
+880'000
 CHF
-Modern & Zentral Leben in 5 Zimmern!
-Schauenburgerstrasse 11-13, 4133 Pratteln
+TRÄUME werden WAHR
+Lilienhofweg 2, 4133 Pratteln
 Array
-5 Zimmer
-125 m2
+4.5 Zimmer
+114 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Flach
 Zimmer
-5
+4.5
 Wohnfläche
-125 m2
-Etage
-Pratteln, Ihr neues Daheim?An der Schauenburgerstrasse, zentral gelegen und sonnig, befinden sich d…
+114 m2
+Die 4.5-Zimmer-Dachwohnung mit Blick über Pratteln ist sehr hell und verfügt über einen spannenden …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Schauenburgerstrasse 11-13
-1'375'000
+Tramstrasse 9
+465'000
 CHF
-Modern & Zentral Leben in 7 Zimmer!
-Schauenburgerstrasse 11-13, 4133 Pratteln
+Schöne und gut gelegene 5-Zimmerwohnung…
+Tramstrasse 9, 4133 Pratteln
 Array
-7 Zimmer
-163 m2
+5 Zimmer
+75 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Flach
 Zimmer
-7
+5
 Wohnfläche
-163 m2
+75 m2
+IMMOROSSI der faire Immobilienmakler für Basel, Baselland und Region verkauft per sofort oder nach …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'900'000
+CHF
+Schlichte Eleganz für gehobene Ansprüch…
+Adresse auf Anfrage, 4133 Pratteln
+Array
+8.5 Zimmer
+400 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+8.5
+Wohnfläche
+400 m2
 Etage
-Pratteln, Ihr neues Daheim?An der Schauenburgerstrasse, zentral gelegen und sonnig, befinden sich d…
+Diese Traum-Villa der Luxusklasse besticht durch ihre grosszügigen, sonnendurchfluteten oder noch b…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Vogelmattstrasse 7
+480'000
+CHF
+Attraktive und helle 3.5-Zimmerwohnung …
+Vogelmattstrasse 7, 4133 Pratteln
+Array
+3.5 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+78 m2
+An der Vogelmattstrasse verkaufen wir diese helle und geräumige 3.5-Zimmerwohung im 1. Obergeschoss…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mattenacherweg 22
+2'900'000
+CHF
+Zeitlos schöne Landhausvilla an bester …
+Mattenacherweg 22, 4133 Pratteln
+Array
+8.5 Zimmer
+400 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+8.5
+Wohnfläche
+400 m2
+Etage
+Zum Verkauf steht ein repräsentatives, freistehendes Liebhaberobjekt mit grosszügigem, geschütztem …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+565'000
+CHF
+Ruhige Eigentumswohnung an bester Lage
+Adresse auf Anfrage, 4133 Pratteln
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+100 m2
+Diese charmante Wohnung befindet sich an einer sehr guten und familienfreundlichen Lage. Schule und…
 Teilen
 E-Mail
 Facebook
@@ -289,61 +346,79 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Giebenacherstrasse 37
-780'000
+Augsterheglistrasse
+490'000
 CHF
-4.5 Z Reiheneinfamilienhaus Baujahr 198…
-Giebenacherstrasse 37, 4133 Pratteln
+4 Zimmer Wohnung
+Augsterheglistrasse, 4133 Pratteln
 Array
-4.5 Zimmer
-103 m2
+4 Zimmer
+80 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Flach
 Zimmer
-4.5
+4
 Wohnfläche
-103 m2
-Reiheneinfamilienhaus Baujahr 1981, mit 4.5 Zimmer und einem zusätzlich ausgebautem Bastelraum. Ein…
+80 m2
+Die 4 Zimmer Wohnung liegt an Kinderfreundlichen und sehr Zentralen lage.Bei der Letzten Renovation…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-840'000
+565'000
 CHF
-Investieren oder selber wohnen - Sie en…
+Attraktive 3.5 Zi. Wohnung an toller La…
 Adresse auf Anfrage, 4133 Pratteln
 Array
-4.5 Zimmer
+3.5 Zimmer
 100 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+100 m2
+Diese charmante Wohnung befindet sich an einer sehr guten und familienfreundlichen Lage. Schule und…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Pratteln
+670'000
+CHF
+Gemütliche 4.5-Zimmerwohnung mit 2 Balk…
+Pratteln, 4133 Pratteln
+Array
+4.5 Zimmer
+95 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-100 m2
-Etage
-Ein moderner Wohntraum erwartet Sie hier – greifen Sie zu.Die zentral und verkehrstechnisch ideal a…
+95 m2
+Diese Wohnung überzeugt durch die praktische und funktionale Raumaufteilung. Zudem punktet sie mit …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Tramstrasse
+Tramstrasse 7
 497'000
 CHF
-Dachwohnung zwischem dem alten Dorfkern…
-Tramstrasse, 4133 Pratteln
+helle 4.5 Zimmer-Dachgeschosswohnung na…
+Tramstrasse 7, 4133 Pratteln
 Array
-5 Zimmer
+4.5 Zimmer
 84 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-5
+4.5
 Wohnfläche
 84 m2
-Ideal als Kapitalanlage - die Wohnung ist seit 2017 an eine Familie aus Muttenz vermietet
-Quarti…
+Objektbeschreibung
+Die 4.5 Zi.- Eigentumswohnung liegt im Dachgeschoss (ohne Lift + ohne Balkon)…
 Teilen
 E-Mail
 Facebook
@@ -364,24 +439,6 @@ Wohnfläche
 124 m2
 Etage
 360 Grad Komfort und Vernetzung: direkt vor ihrer HaustüreDie neue Wohnüberbauung an der Ecke Bahnh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lilienhofweg 2
-Preis auf Anfrage
-Aussicht über Pratteln
-Lilienhofweg 2, 4133 Pratteln
-Array
-4.5 Zimmer
-114 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-114 m2
-Die 4.5-Zimmer-Dachwohnung mit Blick über Pratteln ist sehr hell und verfügt über einen spannenden …
 Teilen
 E-Mail
 Facebook

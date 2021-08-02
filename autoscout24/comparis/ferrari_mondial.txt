@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marktplatz/ferrari/mondial
 Title: Ferrari Mondial – Preise vergleichen mit Comparis
 Description: Finden Sie unter 12 Ferrari Mondial Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -588,14 +586,14 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Ferrari
-(877)
+(889)
 Ferrari Mondial Occasion
-(11)
+(10)
 Aufbau
 Ferrari Mondial Coupé
 (7)
 Ferrari Mondial Cabrio
-(4)
+(5)
 Motor
 Ferrari Mondial Benzin
 (11)
@@ -604,18 +602,18 @@ Ferrari Mondial
 (12)
 Modelle
 Ferrari F488
-(125)
+(128)
 Ferrari F430
-(63)
-Ferrari F458
-(62)
+(71)
 Ferrari F360
-(59)
+(65)
 Ferrari California
-(52)
+(59)
+Ferrari F458
+(59)
 Ferrari Portofino
-(38)
-Ferrari F12
+(45)
+Ferrari 308
 (36)
 Ferrari GTC
 (36)
@@ -634,26 +632,36 @@ weniger
 11 Inserate
 0 Inserate
 0 Inserate
-Ferrari Mondial 3.4 T
-30.05.2021
+FERRARI Mondial 3.2
+14.07.2021
 Occasion
-09.1992, Manuell, Benzin
-46'000 km, 286 PS, Blau
+08.1987, Manuell, Benzin
+66'500 km, 255 PS, Rot
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 54'500
-ab CHF 995 / Monat
-FERRARI Mondial 3.4 T
-28.05.2021
+CHF 45'000
+ab CHF 822 / Monat
+Ferrari Mondial 3.4 T Cabriolet
+09.07.2021
 Occasion
-09.1992, Manuell, Benzin
-46'000 km, 286 PS, Blau
+08.1991, Manuell, Benzin
+36'000 km, 286 PS, Blau
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 54'500
-ab CHF 995 / Monat
+CHF 55'900
+ab CHF 1'021 / Monat
+FERRARI Mondial 3.4 T Cabriolet
+08.07.2021
+Oldtimer
+08.1991, Manuell, Benzin
+36'000 km, 286 PS, Blau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 55'900
+ab CHF 1'021 / Monat
 FERRARI Mondial 3.2
 26.04.2021
 Occasion
@@ -694,17 +702,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 55'900
 ab CHF 1'021 / Monat
-Preisreduktion
-FERRARI MONDIAL
-07.01.2020
-Occasion
-09.1984, Manuell, Benzin
-46'100 km, Rot
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 49'900
-ab CHF 911 / Monat
 FERRARI Mondial Cabriolet
 30.07.2019
 Occasion

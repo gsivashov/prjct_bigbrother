@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-stans/
 Title: Wohnung mieten in Stans - Immostreet.ch
-Description: Wohnung mieten in  Stans - Immostreet.ch: ImmoStreet.ch hat 14 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Stans - Immostreet.ch: ImmoStreet.ch hat 22 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-14 Resultate gefunden ·
+22 Resultate gefunden ·
 Wohnung mieten in Stans
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,119 +131,116 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-1'290
+Büntistrasse
+920
 CHF
 /Monat
-SONNIGE UND ZENTRALE LAGE
+Moderne 1.5 Zimmer Wohnung in Stans
+Büntistrasse, 6370 Stans
+Array
+1.5 Zimmer
+33 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+33 m2
+Per 01.Oktober 2021 verfügbar.Modernes Bad, Küche, Bodenheizung, Einbauschränke, Kellerabteil und V…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'550
+CHF
+/Monat
+3.5 Zi-Wohnung in Stans (EG) zu vermiet…
 Adresse auf Anfrage, 6370 Stans
 Array
 3.5 Zimmer
-70 m2
+90 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-70 m2
-Diese Wohnung befindet sich in einem sehr ruhigen und gepflegten Wohnquartier mit hervorragender In…
+90 m2
+Schöne 3.5-Zi-Wohnung. Zentral gelegen in Stans (5 Min zum Bahnhof und Einkaufsläden, etc.). Ruhige…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Eichli 17
-1'230
+Engelbergstrasse
+450
 CHF
 /Monat
-Hübsche 2 1/2 Zimmer Dach Wohnung mit s…
-Eichli 17, 6370 Stans
+WG Kollegin oder -Kollege gesucht
+Engelbergstrasse, 6370 Stans
 Array
-2.5 Zimmer
-60 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-60 m2
-Schöne 2 1/2 Zimmer Dachwohnung in ruhigem Quartier. Ab sofort zu vermieten. Die Wohnung ist teilwe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kohlgraben 5
-600
-CHF
-/Monat
-WG Zimmer in 5.5 Zi Wohnung
-Kohlgraben 5, 6370 Stans
-Array
-14 m2
+20 m2
 Objekttyp
 Wohnung, Einzelzimmer
 Wohnfläche
-14 m2
-Das Zimmer ist ca. 14m2 (426x321cm) ; für Strom, Wasser, Heizung, Internet, TV und Abfall zusätzlic…
+20 m2
+Wir, 2 Männer im Alter von 40 plus, suchen eine unkomplizierte, ordentliche WG-Kollegin oder WG-Kol…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Stansstaderstrasse 24
-1'810
+brisenstrasse 5, Stans
+650
 CHF
 /Monat
-Neue 2.5 Zimmerwohnung (Erstvermietung)
-Stansstaderstrasse 24, 6370 Stans
+Untermieter gesucht!
+brisenstrasse 5, Stans, 6370 Stans
 Array
-2.5 Zimmer
-53 m2
+7 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
-Wohnfläche
-53 m2
-Mitten im Dorf Stans entsteht ein neues 10-Familienhaus. Zeitlose Schönheit kennzeichnet das VIERÄZ…
+7
+Das Frei Zimmer ist CA 14mq, unmobliert, 650 miete inkl. Nebenkosten, für Strom, Wasser, Heizung, u…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Stansstaderstrasse 24
-2'190
+Adresse auf Anfrage
+2'140
 CHF
 /Monat
-Neue 3.5 Zimmerwohnungen (Erstvermietun…
-Stansstaderstrasse 24, 6370 Stans
+Nachmieter für 4.5 Zimmer Wohnung gesuc…
+Adresse auf Anfrage, 6370 Stans
 Array
-3.5 Zimmer
-83 m2
+4.5 Zimmer
+118 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+4.5
 Wohnfläche
-83 m2
-Mitten im Dorf Stans entsteht ein neues 10-Familienhaus. Zeitlose Schönheit kennzeichnet das VIERÄZ…
+118 m2
+Stans: Wunderschöne helle 4 1/2 Zimmer Wohnung auf 118 m2 sucht einen Nachmieter. Die Wohnung biete…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Stansstaderstrasse 26a
-1'600
+Aemättlihof 115
+2'220
 CHF
 /Monat
-Perfekt zentral gelegene Wohnung
-Stansstaderstrasse 26a, 6370 Stans
+Ihr neues Reich mit Blick aufs Stanserh…
+Aemättlihof 115, 6370 Stans
 Array
-2.5 Zimmer
-54 m2
+5.5 Zimmer
+107 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+5.5
 Wohnfläche
-54 m2
-Hier lässt es sich wohnenPerfekt zentral gelegene Wohnung. In wenigen Gehminuten erreichen Sie den …
+107 m2
+Hier lässt es sich wohnenDiese Wohnung befindet sich im beliebten Aemättlihof-Familienquartier. In …
 Teilen
 E-Mail
 Facebook
@@ -269,8 +266,232 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+Buochserstrasse 4
+1'700
+CHF
+/Monat
+Wohnen an zentraler Lage in Stans
+Buochserstrasse 4, 6370 Stans
+Array
+3.5 Zimmer
+88 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+88 m2
+Sie Suchen ein neues Zuhause in Stans, dann dürfte diese Wohnung genau das richtige für Sie sein. H…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Reistweg 1
+1'320
+CHF
+/Monat
+2.5-Zimmer Wohnung Stans per 01.11.21 n…
+Am Reistweg 1, 6370 Stans
+Array
+2.5 Zimmer
+51 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+51 m2
+Per 01.11.21 2.5-Zimmer Wohnung 51m2 zu vermieten.Die Wohnung wird im Oktober renoviert und mit ein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Engelbergstrasse 100
+1'700
+CHF
+/Monat
+4,5 Zimmerwohnung
+Engelbergstrasse 100, 6370 Stans
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+110 m2
+4,5 Zimmerwohnung zu Vermieten anNichtraucher, Haustiere (katze ja), Einbauschränke,mit Keller, Est…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stansstaderstrasse 24
+2'190
+CHF
+/Monat
+Neue 3.5 Zimmerwohnungen (Erstvermietun…
+Stansstaderstrasse 24, 6370 Stans
+Array
+3.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+83 m2
+Mitten im Dorf Stans steht ein neues 10-Familienhaus. Zeitlose Schönheit kennzeichnet das VIERÄZWÄN…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stansstaderstrasse 24
+1'810
+CHF
+/Monat
+Neue 2.5 Zimmerwohnung (Erstvermietung)
+Stansstaderstrasse 24, 6370 Stans
+Array
+2.5 Zimmer
+53 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+53 m2
+Mitten im Dorf Stans entsteht ein neues 10-Familienhaus. Zeitlose Schönheit kennzeichnet das VIERÄZ…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hansmatt 11
+1'920
+CHF
+/Monat
+3.5 Zi-Whg mit grosszügigem Grundriss
+Hansmatt 11, 6370 Stans
+Array
+3.5 Zimmer
+88 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+88 m2
+Wir vermieten in Stans eine tolle 3.5 Zimmerwohnung mit grosszügigem Grundriss- grosszügige Küche- …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 3
+1'950
+CHF
+/Monat
+Helle 5-Zimmer-Wohnung im Dorfkern von …
+Bahnhofstrasse 3, 6370 Stans
+Array
+5.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+112 m2
+Wir vermieten per sofort oder nach Vereinbarung eine helle 5.5-Zimmer-Wohnung mit kleinem Balkon im…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wirzboden 28
+1'700
+CHF
+/Monat
+2.5 Zimmerwohnung
+Wirzboden 28, 6370 Stans
+Array
+2.5 Zimmer
+56 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+56 m2
+Wir vermieten per sofort eine schöne 2.5 Zimmer-Wohnung an sonniger Lage.
+- Grosse, helle Räume
+…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stansstaderstrasse 21
+1'600
+CHF
+/Monat
+2 1/2 Zimmerwohnung mit Charme
+Stansstaderstrasse 21, 6370 Stans
+Array
+2.5 Zimmer
+50 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+50 m2
+Wir vermieten diese Wohnung mitten im Stanser Dorfkern (neben der Stanserhorn Bahn) per 1.10.21 ode…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Bahnhofstrasse 12
-Preis auf Anfrage
+1'650
+CHF
+/Monat
+ZENTRAL MIT CHARME
+Bahnhofstrasse 12, 6370 Stans
+Array
+3 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+78 m2
+Diese wunderschöne 3-Zimmer-Wohnung in Stans bietet Ihnen reichlich Platz. Die schöne Altbau-Wohnun…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Engelbergstrasse 33
+2'620
+CHF
+/Monat
+Grosszügige 4.5-Zimmerwohnung mit behei…
+Engelbergstrasse 33, 6370 Stans
+Array
+4.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+140 m2
+Im Zentrum von Stans erwartet Sie eine grosszügige und neuwertige Wohnung mit Eigentumsstandard. In…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 12
+1'650
+CHF
+/Monat
 Charmante 3 Zimmer-Praxis-Wohnung-Büror…
 Bahnhofstrasse 12, 6370 Stans
 Array
@@ -287,69 +508,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Geren 1
-2'000
-CHF
-/Monat
-4,5 Zimmerwohnung
-Geren 1, 6370 Stans
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-4,5 Zimmerwohnung zu Vermieten an Nichtraucher, ohne Haustiere, mit Keller, Estrich und zwei Aussen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 3
-1'950
-CHF
-/Monat
-5-Zimmer-Wohnung, 2. OG
-Bahnhofstrasse 3, 6370 Stans
-Array
-5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-112 m2
-Hier lässt es sich wohnenDas Wohnhaus liegt sehr zentral gelegen im Dorfkern von Stans und unmittel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Langmattring 26
-2'780
-CHF
-/Monat
-3 1/2-Zimmer-Attikawohnung mit Aussicht
-Langmattring 26, 6370 Stans
-Array
-3.5 Zimmer
-101 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-101 m2
-Etage
-Die moderne 3½-Zimmer Attikawohnung wird Sie faszinieren.Der hochstehende Innenausbau lässt keine W…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Aemättlihof 115
 2'550
 CHF
 /Monat
-Tolle Maisonette-Dachwohnung an idealer…
+Dem Himmel so nah!
 Aemättlihof 115, 6370 Stans
 Array
 4.5 Zimmer
@@ -365,47 +528,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Aemättlistrasse 12
-2'000
-CHF
-/Monat
-Wohlfühlen mitten in Stans
-Aemättlistrasse 12, 6370 Stans
-Array
-4.5 Zimmer
-113 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-113 m2
-Hier lässt es sich wohnenDas Mehrfamilienhaus befindet sich im Zentrum von Stans. Das Einkaufszentr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wirzboden 11
-1'690
-CHF
-/Monat
-2.5 Zimmerwohnung
-Wirzboden 11, 6370 Stans
-Array
-2.5 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-60 m2
-Wir vermieten per 01. April 2021 eine schöne 2.5 Zimmer-Wohnung an sonniger Lage.
-- Grosse, hell…
-Teilen
-E-Mail
-Facebook
-Whatsapp
+Seite 1 von 2
+1
+2
+nächste Seite
 ImmoStreet.ch
 Mieten
 Wohnung zu mieten

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-toggenburg/
 Title: Wohnung & Haus kaufen in Region Toggenburg - Immostreet.ch
-Description: Wohnung & Haus kaufen in Region Toggenburg - Immostreet.ch: ImmoStreet.ch hat 109 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Region Toggenburg - Immostreet.ch: ImmoStreet.ch hat 106 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-109 Resultate gefunden ·
+106 Resultate gefunden ·
 Wohnung & Haus kaufen in Region Toggenburg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,22 +151,22 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-990'000
+Bürgerheimstrasse 3
+680'000
 CHF
-Grosszügige Familienwohnung mit Fernsic…
-Adresse auf Anfrage, 9604 Lütisburg
+Wohnen am Dorfbach - Wohnung Nr. 1.3 im…
+Bürgerheimstrasse 3, 9606 Bütschwil
 Array
-5.5 Zimmer
-204 m2
+4.5 Zimmer
+120 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-5.5
+4.5
 Wohnfläche
-204 m2
+120 m2
 Etage
-Sie sind auf der Suche nach einer grosszügigen Familienwohnung, die Ihnen beim Raumangebot wie auch…
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
 Teilen
 E-Mail
 Facebook
@@ -185,26 +185,6 @@ Zimmer
 4.5
 Wohnfläche
 127 m2
-Etage
-Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bürgerheimstrasse 3
-890'000
-CHF
-Wohnen am Dorfbach - Attikawohnung Nr. …
-Bürgerheimstrasse 3, 9606 Bütschwil
-Array
-4.5 Zimmer
-129 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-129 m2
 Etage
 Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
 Teilen
@@ -232,21 +212,41 @@ E-Mail
 Facebook
 Whatsapp
 Bürgerheimstrasse 3
-680'000
+890'000
 CHF
-Wohnen am Dorfbach - Wohnung Nr. 1.3 im…
+Wohnen am Dorfbach - Attikawohnung Nr. …
 Bürgerheimstrasse 3, 9606 Bütschwil
 Array
 4.5 Zimmer
-120 m2
+129 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-120 m2
+129 m2
 Etage
 Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+990'000
+CHF
+Grosszügige Familienwohnung mit Fernsic…
+Adresse auf Anfrage, 9604 Lütisburg
+Array
+5.5 Zimmer
+204 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+204 m2
+Etage
+Sie sind auf der Suche nach einer grosszügigen Familienwohnung, die Ihnen beim Raumangebot wie auch…
 Teilen
 E-Mail
 Facebook
@@ -265,6 +265,26 @@ Zimmer
 3.5
 Wohnfläche
 81 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bürgerheimstrasse 3
+690'000
+CHF
+Wohnen am Dorfbach - Wohnung Nr. 0.3 im…
+Bürgerheimstrasse 3, 9606 Bütschwil
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
 Etage
 Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
 Teilen
@@ -311,42 +331,40 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bürgerheimstrasse 3
-690'000
+Gartenweg
+700'000
 CHF
-Wohnen am Dorfbach - Wohnung Nr. 0.3 im…
-Bürgerheimstrasse 3, 9606 Bütschwil
+NEUBAUWOHNUNG AN ZENTRALER LAGE DIREKT …
+Gartenweg, 9606 Bütschwil
 Array
 4.5 Zimmer
-120 m2
+116 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-120 m2
-Etage
-Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
+116 m2
+WILLKOMMEN AM GARTENWEG IN BÜTSCHWILWir erstellen an zentralster und ruhiger Lage, direkt beim Bahn…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Trubeweg 8
-450'000
+Gartenweg
+690'000
 CHF
-Charmante 4 1/2 Zimmer-Dachwohnung mit …
-Trubeweg 8, 9533 Dietschwil
+3.5-ZIMMERWOHNUNG IM OBERGESCHOSS MIT W…
+Gartenweg, 9606 Bütschwil
 Array
-4.5 Zimmer
-139 m2
+3.5 Zimmer
+106 m2
 Objekttyp
-Wohnung, Dachwohnung
+Wohnung, Flach
 Zimmer
-4.5
+3.5
 Wohnfläche
-139 m2
-Etage
-MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert: Charmante 4 1/2 Zimmer-…
+106 m2
+WILLKOMMEN AM GARTENWEG IN BÜTSCHWILWir erstellen an zentralster und ruhiger Lage, direkt beim Bahn…
 Teilen
 E-Mail
 Facebook
@@ -371,40 +389,134 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-675'000
+Trubeweg 8
+450'000
 CHF
-PREISHIT! NEUBAU UND ERSTBEZUG
-Adresse auf Anfrage, 9115 Dicken
+Charmante 4 1/2 Zimmer-Dachwohnung mit …
+Trubeweg 8, 9533 Dietschwil
 Array
-5.5 Zimmer
-170 m2
+4.5 Zimmer
+139 m2
 Objekttyp
-Wohnung, Duplex
+Wohnung, Dachwohnung
 Zimmer
-5.5
+4.5
 Wohnfläche
-170 m2
-Diese Wohnung überzeugt mit seiner top modernen, umweltfreundlichen und hoch qualitativen Bauweise.…
+139 m2
+Etage
+MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert: Charmante 4 1/2 Zimmer-…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Landstrasse 40
+1'770'000
+CHF
+Historisches Toggenburgerhaus mit Praxi…
+Landstrasse 40, 9606 Bütschwil
+Array
+435 m2
+Objekttyp
+Wohnung, Einzelhaus
+Wohnfläche
+435 m2
+Zentrale und sonnige LageDas Grundstück befindet sich im Dorfzentrum von Bütschwil mit ganztägig gu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Auf Anfrage
+180'000
+CHF
+Zentrales Wohnen im Grünen
+Auf Anfrage, 9630 Wattwil
+Array
+2.5 Zimmer
+55 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+55 m2
+Diese pflegeleichte 2.5-Zi. Gartenwohnung liegt an zentraler Lage in Wattwil und überzeugt mit folg…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Auf Anfrage
+640'000
+CHF
+Grosses Wohnhaus im Dorfzentrum
+Auf Anfrage, 9642 Ebnat-Kappel
+Array
+12 Zimmer
+232 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+12
+Wohnfläche
+232 m2
+An zentraler und attraktiver Wohnlage bietet Ihnen dieses Wohnhaus viel Platz und Potential. Es umf…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-420'000
+255'000
 CHF
-FRISCH RENOVIERT MIT GARTENSITZPLATZ!
-Adresse auf Anfrage, 9602 Bazenheid
+Schwimmteich, Sauna und herrliche Aussi…
+Adresse auf Anfrage, 9621 Oberhelfenschwil
 Array
-3 Zimmer
-75 m2
+2 Zimmer
+40 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
+2
 Wohnfläche
-75 m2
-Diese wunderschöne Wohnung zeichnet sich durch ein sehr gutes Grundkonzept aus und ist mit jegliche…
+40 m2
+Die gepflegte 2-Zimmer-Eigentumswohnung ist Teil eines durchdachten, ökologisch konzipierten Wohnha…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Einzigartige Gelegenheit Liebhaberob…
+Adresse auf Anfrage, 9533 Kirchberg SG
+Array
+4.5 Zimmer
+135 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+135 m2
+Etage
+Privatsphäre pur in harmonischer UmgebungDas Wohnhaus bietet einen durchdachten Grundriss und eigne…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Neugass 4
+415'000
+CHF
+Verwirklichen Sie Ihre Wohnideen, mit d…
+Neugass 4, 9642 Ebnat-Kappel
+Array
+7.5 Zimmer
+121 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Wohnfläche
+121 m2
+Etage
+Besuchen Sie Ihre Traumimmobilie schon heute. Auf unserer Homepage haben Sie die Möglichkeit Ihre I…
 Teilen
 E-Mail
 Facebook
@@ -412,137 +524,18 @@ Whatsapp
 Adresse auf Anfrage
 1'290'000
 CHF
-Topmodernes, grosses und neuwertiges Ei…
-Adresse auf Anfrage, 9127 St. Peterzell
+Repräsentatives Anwesen mit 6.5 Zimmer …
+Adresse auf Anfrage, 9534 Gähwil
 Array
-6.5 Zimmer
-237 m2
+6 Zimmer
+260 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-6.5
+6
 Wohnfläche
-237 m2
-Etage
-Eintreten und Wohlfühlen heisst hier das Motto! Suchen Sie ein neuwertiges, ansprechendes und gross…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-587'000
-CHF
-Idyllisches Wohnen an sonniger und grün…
-Adresse auf Anfrage, 9633 Hemberg
-Array
-4.5 Zimmer
-113 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-113 m2
-An sehr grüner und doch zentraler Dorflage entsteht eine Wohnüberbauung der besonderen Art.Hier wir…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gallusstrasse 5
-375'000
-CHF
-Hoch hinaus - Helle 3.5-Zi. Wohnung im …
-Gallusstrasse 5, 9630 Wattwil
-Array
-3.5 Zimmer
-82 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-82 m2
-Hoch hinaus - Wohnen mit herrlicher Aus- und BergsichtGeniessen Sie die schöne und unverbaubare Aus…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gartenweg
-665'000
-CHF
-VERKAUFSSTART ERFOLGT - NEUBAUWOHNUNG A…
-Gartenweg, 9606 Bütschwil
-Array
-4.5 Zimmer
-116 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-116 m2
-WILLKOMMEN AM GARTENWEG IN BÜTSCHWIL
-Wir erstellen an zentralster und ruhiger Lage, direkt beim …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gartenweg
-715'000
-CHF
-VERKAUFSSTART ERFOLGT - NEUE ERDGESCHOS…
-Gartenweg, 9606 Bütschwil
-Array
-4.5 Zimmer
-116 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-116 m2
-WILLKOMMEN AM GARTENWEG IN BÜTSCHWIL
-Wir erstellen an zentralster und ruhiger Lage, direkt beim …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gartenweg
-600'000
-CHF
-VERKAUFSSTART ERFOLGT - DACHWOHNUNG MIT…
-Gartenweg, 9606 Bütschwil
-Array
-3.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-88 m2
-WILLKOMMEN AM GARTENWEG IN BÜTSCHWIL
-Wir erstellen an zentralster und ruhiger Lage, direkt beim …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gartenweg
-630'000
-CHF
-VERKAUFSSTART ERFOLGT - 3.5-ZIMMERWOHNU…
-Gartenweg, 9606 Bütschwil
-Array
-3.5 Zimmer
-106 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-106 m2
-WILLKOMMEN AM GARTENWEG IN BÜTSCHWIL
-Wir erstellen an zentralster und ruhiger Lage, direkt beim …
+260 m2
+Wir bieten unser Haus in Gähwil privat zum Verkauf an. Es bietet sehr viel Platz für z.B. Familien …
 Teilen
 E-Mail
 Facebook

@@ -84,7 +84,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -102,7 +102,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -155,29 +155,216 @@ TI
 WIR-ANTEIL
 24 Treffer
 Suche zurücksetzen
-NEU
 RENAULT
-Mégane Coupé 2.0 16V Turbo RS
-CHF 14'990
-ab CHF 161/Monat
-09.2011
+Alpine V6 GT 2.5 Turbo
+CHF 27'400
+ab CHF 295/Monat
+01.1988
 Handschaltung
-50'000 km
+82'000 km
+Benzin
+Hinterradantrieb
+weiss
+185 PS
+TG
+Merken
+RENAULT
+Alpine V6 GT 2.5 Turbo
+01.1988
+185 PS
+82'000 km
+CHF 27'400
+Merken
+ab CHF 295/Monat
+RENAULT
+Mégane Coupé 2.0 TCe GT
+CHF 7'200
+ab CHF 82/Monat
+06.2011
+Handschaltung
+160'000 km
 Benzin
 Vorderradantrieb
-schwarz
+weiss
+180 PS
+VS
+Merken
+RENAULT
+Mégane Coupé 2.0 TCe GT
+06.2011
+180 PS
+160'000 km
+CHF 7'200
+Merken
+ab CHF 82/Monat
+RENAULT
+Mégane Coupé 2.0 16V Turbo RS Trophy
+CHF 19'900
+ab CHF 214/Monat
+05.2015
+Handschaltung
+94'637 km
+Benzin
+Vorderradantrieb
+weiss
+273 PS
+VD
+Merken
+RENAULT
+Mégane Coupé 2.0 16V Turbo RS Tro...
+05.2015
+273 PS
+94'637 km
+CHF 19'900
+Merken
+ab CHF 214/Monat
+RENAULT
+MÉGANE Coupé 2.0 16V Turbo RS
+CHF 18'500
+ab CHF 199/Monat
+04.2013
+Handschaltung
+87'000 km
+Benzin
+Vorderradantrieb
+grau
+265 PS
+NE
+Merken
+RENAULT
+MÉGANE Coupé 2.0 16V Turbo RS
+04.2013
+265 PS
+87'000 km
+CHF 18'500
+Merken
+ab CHF 199/Monat
+RENAULT
+Mégane Coupé 2.0 16V Turbo RS
+CHF 9'999
+ab CHF 113/Monat
+12.2010
+Handschaltung
+131'600 km
+Benzin
+Vorderradantrieb
+weiss
 250 PS
+SH
+Merken
+RENAULT
+Mégane Coupé 2.0 16V Turbo RS
+12.2010
+250 PS
+131'600 km
+CHF 9'999
+Merken
+ab CHF 113/Monat
+RENAULT
+Mégane Coupé 1.4 TCe Dynamique
+CHF 6'300
+10.2012
+Handschaltung
+112'200 km
+Benzin
+Vorderradantrieb
+weiss
+131 PS
+BE
+Merken
+RENAULT
+Mégane Coupé 1.4 TCe Dynamique
+10.2012
+131 PS
+112'200 km
+CHF 6'300
+Merken
+RENAULT
+Mégane Cpé 2.0 16V Dynam.
+CHF 2'299
+06.2001
+Handschaltung
+56'000 km
+Benzin
+Vorderradantrieb
+grau
+140 PS
+TG
+Merken
+RENAULT
+Mégane Cpé 2.0 16V Dynam.
+06.2001
+140 PS
+56'000 km
+CHF 2'299
+Merken
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+RENAULT
+Laguna Coupé 3.0 dCi Initiale Automatic
+CHF 9'890
+ab CHF 112/Monat
+08.2012
+Automat
+101'000 km
+Diesel
+Vorderradantrieb
+weiss
+235 PS
+SG
+Merken
+RENAULT
+Laguna Coupé 3.0 dCi Initiale Aut...
+08.2012
+235 PS
+101'000 km
+CHF 9'890
+Merken
+ab CHF 112/Monat
+RENAULT
+Avantime 3.0 V6 24V Privilège
+CHF 13'500
+ab CHF 145/Monat
+08.2002
+Automat
+118'000 km
+Benzin
+Vorderradantrieb
+grau
+207 PS
 ZH
 Merken
 RENAULT
-Mégane Coupé 2.0 16V Turbo RS
-09.2011
-250 PS
-50'000 km
-CHF 14'990
+Avantime 3.0 V6 24V Privilège
+08.2002
+207 PS
+118'000 km
+CHF 13'500
 Merken
-ab CHF 161/Monat
-NEU
+ab CHF 145/Monat
+RENAULT
+Mégane Coupé Sport 2.0 Turbo R.Sport S/S
+CHF 21'000
+ab CHF 226/Monat
+03.2016
+Handschaltung
+41'000 km
+Benzin
+Vorderradantrieb
+grau
+273 PS
+FR
+Merken
+RENAULT
+Mégane Coupé Sport 2.0 Turbo R.Sp...
+03.2016
+273 PS
+41'000 km
+CHF 21'000
+Merken
+ab CHF 226/Monat
 RENAULT
 Mégane Coupé Sport 2.0 Turbo RS
 CHF 22'800
@@ -246,48 +433,6 @@ Kostenlose Probefahrt
 Garantieversprechen
 Faires Eintauschangebot
 RENAULT
-Mégane Coupé 2.0 TCe Dynamique
-CHF 5'800
-02.2009
-Handschaltung
-125'800 km
-Benzin
-Vorderradantrieb
-rot
-180 PS
-LU
-Merken
-RENAULT
-Mégane Coupé 2.0 TCe Dynamique
-02.2009
-180 PS
-125'800 km
-CHF 5'800
-Merken
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-RENAULT
-Mégane Coupé 2.0 16V Turbo Dynamique
-CHF 3'300
-06.2009
-Handschaltung
-156'000 km
-Benzin
-Vorderradantrieb
-blau
-180 PS
-TG
-Merken
-RENAULT
-Mégane Coupé 2.0 16V Turbo Dynami...
-06.2009
-180 PS
-156'000 km
-CHF 3'300
-Merken
-RENAULT
 Mégane Coupé 2.0 16V Turbo RS
 CHF 18'500
 ab CHF 218/Monat
@@ -329,157 +474,6 @@ Mégane Coupé 2.0 16V Turbo RS
 CHF 14'990
 Merken
 ab CHF 161/Monat
-RENAULT
-Trafic Grand Space Nomad 2.0 dCi Blue 145
-CHF 62'400
-ab CHF 671/Monat
--
-Handschaltung
-200 km
-Diesel
-Vorderradantrieb
-anthrazit
-146 PS
-BE
-Merken
-RENAULT
-Trafic Grand Space Nomad 2.0 dCi ...
--
-146 PS
-200 km
-CHF 62'400
-Merken
-ab CHF 671/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-RENAULT
-Zoe Intens R135 (Batterie Miete)
-CHF 23'900
-ab CHF 257/Monat
--
--
-10 km
-Diesel
-Vorderradantrieb
-gelb
-136 PS
-ZH
-Merken
-RENAULT
-Zoe Intens R135 (Batterie Miete)
--
-136 PS
-10 km
-CHF 23'900
-Merken
-ab CHF 257/Monat
-RENAULT
-Mégane Coupé 2.0 16V Turbo GT
-CHF 8'800
-ab CHF 100/Monat
-06.2012
-Handschaltung
-87'000 km
-Benzin
-Vorderradantrieb
-blau
-180 PS
-ZG
-Merken
-RENAULT
-Mégane Coupé 2.0 16V Turbo GT
-06.2012
-180 PS
-87'000 km
-CHF 8'800
-Merken
-ab CHF 100/Monat
-RENAULT
-MÉGANE Coupé 2.0 16V Turbo RS
-CHF 20'700
-ab CHF 223/Monat
-04.2013
-Handschaltung
-87'000 km
-Benzin
-Vorderradantrieb
-grau
-265 PS
-NE
-Merken
-RENAULT
-MÉGANE Coupé 2.0 16V Turbo RS
-04.2013
-265 PS
-87'000 km
-CHF 20'700
-Merken
-ab CHF 223/Monat
-RENAULT
-Mégane Coupé 2.0 Turbo RS Trophy
-CHF 14'900
-ab CHF 161/Monat
-11.2012
-Handschaltung
-117'800 km
-Benzin
-Vorderradantrieb
-weiss
-265 PS
-AG
-Merken
-RENAULT
-Mégane Coupé 2.0 Turbo RS Trophy
-11.2012
-265 PS
-117'800 km
-CHF 14'900
-Merken
-ab CHF 161/Monat
-RENAULT
-Zoe Intens R90 (Batterie Miete)
-CHF 13'360
-ab CHF 144/Monat
-03.2018
-Handschaltung
-21'700 km
-Elektro
-Hinterradantrieb
-gelb
-90 PS
-ZH
-Merken
-RENAULT
-Zoe Intens R90 (Batterie Miete)
-03.2018
-90 PS
-21'700 km
-CHF 13'360
-Merken
-ab CHF 144/Monat
-RENAULT
-Espace 1.8 TCe Initiale EDC
-CHF 34'900
-ab CHF 375/Monat
-11.2019
-Automat
-21'800 km
-Elektro
-Hinterradantrieb
-grau
-224 PS
-ZH
-Merken
-RENAULT
-Espace 1.8 TCe Initiale EDC
-11.2019
-224 PS
-21'800 km
-CHF 34'900
-Merken
-ab CHF 375/Monat
 1
 1
 2

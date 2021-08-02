@@ -81,7 +81,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -99,7 +99,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -154,322 +154,320 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 BMW
-Z4 Z89 Roadster 35is sDrive DK
+2er Reihe F45 Active Tourer 225i xDrive SAG
 CHF 31'000
 ab CHF 333/Monat
-07.2011
+11.2018
 Automat
-55'000 km
-Benzin
-Hinterradantrieb
-blau
-340 PS
-NE
-Merken
-BMW
-Z4 Z89 Roadster 35is sDrive DK
-07.2011
-340 PS
-55'000 km
-CHF 31'000
-Merken
-ab CHF 333/Monat
-NEU
-BMW
-1er Reihe F20 M140i xDrive
-CHF 43'000
-ab CHF 462/Monat
-01.2019
-Automat
-21'780 km
-Benzin
-Allradantrieb
-blau
-340 PS
-VD
-Merken
-BMW
-1er Reihe F20 M140i xDrive
-01.2019
-340 PS
-21'780 km
-CHF 43'000
-Merken
-ab CHF 462/Monat
-NEU
-BMW
-420i Coupé xDrive M Sport Steptronic
-CHF 35'700
-ab CHF 421/Monat
-05.2019
-Automat
-18'000 km
+35'000 km
 Benzin
 Allradantrieb
 schwarz
-184 PS
-ZH
+231 PS
+FR
 Merken
 BMW
-420i Coupé xDrive M Sport Steptro...
-05.2019
-184 PS
-18'000 km
-CHF 35'700
+2er Reihe F45 Active Tourer 225i ...
+11.2018
+231 PS
+35'000 km
+CHF 31'000
 Merken
-ab CHF 421/Monat
+ab CHF 333/Monat
 BMW
-635 CSI
-CHF 27'500
-ab CHF 296/Monat
-03.1980
-Handschaltung
-75'000 km
-Benzin
-Hinterradantrieb
-beige
-218 PS
-VS
-Merken
-BMW
-635 CSI
-03.1980
-218 PS
-75'000 km
-CHF 27'500
-Merken
-ab CHF 296/Monat
-BMW
-X5 F15 30d xDrive
-CHF 58'000
-ab CHF 623/Monat
-05.2018
+X3 xDrive M40i Aut. 4x4
+CHF 67'900
+ab CHF 730/Monat
+01.2020
 Automat
-54'700 km
-Diesel
-Allradantrieb
-grau
-258 PS
-ZH
-Merken
-BMW
-X5 F15 30d xDrive
-05.2018
-258 PS
-54'700 km
-CHF 58'000
-Merken
-ab CHF 623/Monat
-BMW
-4er Reihe F32 Coupé 435i xDrive
-CHF 18'900
-ab CHF 203/Monat
-09.2014
-Automat
-213'000 km
+26'221 km
 Benzin
 Allradantrieb
-grau
-306 PS
-VD
-Merken
-BMW
-4er Reihe F32 Coupé 435i xDrive
-09.2014
-306 PS
-213'000 km
-CHF 18'900
-Merken
-ab CHF 203/Monat
-BMW
-3er Reihe F31 Touring 318d xDrive
-CHF 13'499
-ab CHF 145/Monat
-11.2013
-Handschaltung
-151'000 km
-Diesel
-Allradantrieb
-grau
-143 PS
-BE
-Merken
-BMW
-3er Reihe F31 Touring 318d xDrive
-11.2013
-143 PS
-151'000 km
-CHF 13'499
-Merken
-ab CHF 145/Monat
-BMW
-3er Reihe E90 320d
-CHF 13'900
-ab CHF 150/Monat
-11.2012
-Handschaltung
-195'000 km
-Diesel
-Hinterradantrieb
-blau
-184 PS
-SG
-Merken
-BMW
-3er Reihe E90 320d
-11.2012
-184 PS
-195'000 km
-CHF 13'900
-Merken
-ab CHF 150/Monat
-BMW
-1er Reihe E87 116i
-CHF 7'500
-ab CHF 85/Monat
-06.2007
-Handschaltung
-71'500 km
-Benzin
-Hinterradantrieb
-grau
-115 PS
-VD
-Merken
-BMW
-1er Reihe E87 116i
-06.2007
-115 PS
-71'500 km
-CHF 7'500
-Merken
-ab CHF 85/Monat
-BMW
-3er Reihe E46 Coupé M3
-CHF 33'500
-ab CHF 360/Monat
-04.2004
-Automat
-208'000 km
-Benzin
-Hinterradantrieb
-silber
-343 PS
+weiss
+360 PS
 AG
 Merken
 BMW
-3er Reihe E46 Coupé M3
-04.2004
-343 PS
-208'000 km
-CHF 33'500
+X3 xDrive M40i Aut. 4x4
+01.2020
+360 PS
+26'221 km
+CHF 67'900
 Merken
-ab CHF 360/Monat
+ab CHF 730/Monat
 BMW
-X5 E70 3.0d
-CHF 9'999
-ab CHF 113/Monat
-12.2007
+3er Reihe F30 320d
+CHF 10'500
+ab CHF 119/Monat
+07.2012
+Handschaltung
+178'000 km
+Diesel
+Hinterradantrieb
+grau
+184 PS
+VS
+Merken
+BMW
+3er Reihe F30 320d
+07.2012
+184 PS
+178'000 km
+CHF 10'500
+Merken
+ab CHF 119/Monat
+BMW
+120d xDrive M-Sport 4x4 Aut. (CH)
+CHF 46'900
+ab CHF 504/Monat
+11.2019
 Automat
-262'000 km
+12'150 km
 Diesel
 Allradantrieb
-braun
-235 PS
-TG
+grau
+190 PS
+AG
 Merken
 BMW
-X5 E70 3.0d
-12.2007
-235 PS
-262'000 km
-CHF 9'999
+120d xDrive M-Sport 4x4 Aut. (CH)
+11.2019
+190 PS
+12'150 km
+CHF 46'900
 Merken
-ab CHF 113/Monat
+ab CHF 504/Monat
 BMW
-2er Reihe F46 Gran Tourer 218d xDrive SAG
-CHF 18'900
-ab CHF 203/Monat
-07.2018
+M3 Aut. (CH)
+CHF 49'900
+ab CHF 536/Monat
+02.2013
 Automat
-127'000 km
+39'699 km
+Benzin
+Hinterradantrieb
+schwarz
+420 PS
+AG
+Merken
+BMW
+M3 Aut. (CH)
+02.2013
+420 PS
+39'699 km
+CHF 49'900
+Merken
+ab CHF 536/Monat
+BMW
+X3 xDrive M40i Aut. 4x4
+CHF 64'900
+ab CHF 697/Monat
+03.2018
+Automat
+10'600 km
+Benzin
+Allradantrieb
+schwarz
+360 PS
+AG
+Merken
+BMW
+X3 xDrive M40i Aut. 4x4
+03.2018
+360 PS
+10'600 km
+CHF 64'900
+Merken
+ab CHF 697/Monat
+BMW
+M4 Coupé Competition HAMANN Aut.
+CHF 67'900
+ab CHF 730/Monat
+02.2018
+Automat
+38'900 km
+Benzin
+Hinterradantrieb
+schwarz
+450 PS
+AG
+Merken
+BMW
+M4 Coupé Competition HAMANN Aut.
+02.2018
+450 PS
+38'900 km
+CHF 67'900
+Merken
+ab CHF 730/Monat
+BMW
+X5 xDrive M50d Aut. HAMANN WIDEBODY 7 Plätze
+CHF 89'900
+ab CHF 966/Monat
+06.2018
+Automat
+4'900 km
 Diesel
+Allradantrieb
+schwarz
+381 PS
+AG
+Merken
+BMW
+X5 xDrive M50d Aut. HAMANN WIDEBO...
+06.2018
+381 PS
+4'900 km
+CHF 89'900
+Merken
+ab CHF 966/Monat
+BMW
+M2 Competition Aut. (CH)
+CHF 57'900
+ab CHF 622/Monat
+10.2019
+Automat
+25'800 km
+Benzin
+Hinterradantrieb
+pink
+410 PS
+AG
+Merken
+BMW
+M2 Competition Aut. (CH)
+10.2019
+410 PS
+25'800 km
+CHF 57'900
+Merken
+ab CHF 622/Monat
+BMW
+218i Gran Tourer Sportline 7PL NAV LED RFK
+CHF 25'700
+ab CHF 303/Monat
+03.2019
+Automat
+26'000 km
+Benzin
+Vorderradantrieb
+weiss
+140 PS
+ZH
+Merken
+BMW
+218i Gran Tourer Sportline 7PL NA...
+03.2019
+140 PS
+26'000 km
+CHF 25'700
+Merken
+ab CHF 303/Monat
+BMW
+M5 xDrive Competition Facelift 4x4 1.9% Leasing (CH)
+CHF 139'900
+ab CHF 1503/Monat
+-
+Automat
+80 km
+Benzin
+Allradantrieb
+grau
+625 PS
+AG
+Merken
+BMW
+M5 xDrive Competition Facelift 4x...
+-
+625 PS
+80 km
+CHF 139'900
+Merken
+ab CHF 1503/Monat
+BMW
+X3 M40d Individual Aut. 4x4 (CH)
+CHF 78'900
+ab CHF 848/Monat
+03.2020
+Automat
+6'900 km
+Diesel
+Allradantrieb
+blau
+326 PS
+AG
+Merken
+BMW
+X3 M40d Individual Aut. 4x4 (CH)
+03.2020
+326 PS
+6'900 km
+CHF 78'900
+Merken
+ab CHF 848/Monat
+BMW
+M2 Competition Aut. M Driver's Package (CH)
+CHF 59'900
+ab CHF 644/Monat
+11.2018
+Automat
+6'764 km
+Benzin
+Hinterradantrieb
+silber
+410 PS
+AG
+Merken
+BMW
+M2 Competition Aut. M Driver's Pa...
+11.2018
+410 PS
+6'764 km
+CHF 59'900
+Merken
+ab CHF 644/Monat
+BMW
+M3 (CH) 1.9% Leasing
+CHF 89'900
+ab CHF 966/Monat
+03.2021
+Handschaltung
+3'999 km
+Benzin
+Hinterradantrieb
+schwarz
+480 PS
+AG
+Merken
+BMW
+M3 (CH) 1.9% Leasing
+03.2021
+480 PS
+3'999 km
+CHF 89'900
+Merken
+ab CHF 966/Monat
+BMW
+X5 F85 M
+CHF 53'000
+ab CHF 570/Monat
+07.2016
+Automat
+94'000 km
+Benzin
 Allradantrieb
 weiss
-150 PS
-BE
+575 PS
+SG
 Merken
 BMW
-2er Reihe F46 Gran Tourer 218d xD...
-07.2018
-150 PS
-127'000 km
-CHF 18'900
+X5 F85 M
+07.2016
+575 PS
+94'000 km
+CHF 53'000
 Merken
-ab CHF 203/Monat
-BMW
-X3 G01 20d xDrive
-CHF 42'000
-ab CHF 452/Monat
-07.2018
-Automat
-45'000 km
-Diesel
-Allradantrieb
-schwarz
-190 PS
-VD
-Merken
-BMW
-X3 G01 20d xDrive
-07.2018
-190 PS
-45'000 km
-CHF 42'000
-Merken
-ab CHF 452/Monat
-BMW
-7er Reihe F01 740d xDrive
-CHF 19'999
-ab CHF 215/Monat
-07.2012
-Automat
-174'000 km
-Diesel
-Allradantrieb
-schwarz
-306 PS
-BL
-Merken
-BMW
-7er Reihe F01 740d xDrive
-07.2012
-306 PS
-174'000 km
-CHF 19'999
-Merken
-ab CHF 215/Monat
-BMW
-7er Reihe F01 750d xDrive
-CHF 33'900
-ab CHF 365/Monat
-12.2014
-Automat
-62'000 km
-Diesel
-Allradantrieb
-schwarz
-381 PS
-BL
-Merken
-BMW
-7er Reihe F01 750d xDrive
-12.2014
-381 PS
-62'000 km
-CHF 33'900
-Merken
-ab CHF 365/Monat
+ab CHF 570/Monat
 1
 1
 2
@@ -507,6 +505,7 @@ BMW 1800
 BMW 1er M
 BMW 2000
 BMW 2002
+BMW 214 ACTIVE TOURER
 BMW 216 ACTIVE TOURER
 BMW 216 GRAN TOURER
 BMW 218
@@ -517,6 +516,7 @@ BMW 220 Active Tourer
 BMW 220 GRAN TOURER
 BMW 225
 BMW 225 Active Tourer
+BMW 228
 BMW 230
 BMW 3.0
 BMW 316
@@ -526,12 +526,12 @@ BMW 320 Gran Turismo
 BMW 323
 BMW 325
 BMW 328
+BMW 328 Gran Turismo
 BMW 330
 BMW 330 Gran Turismo
 BMW 335
 BMW 335 Gran Turismo
 BMW 340
-BMW 340 Gran Turismo
 BMW 420
 BMW 428
 BMW 430
@@ -560,7 +560,6 @@ BMW 750
 BMW 760
 BMW 840
 BMW 850
-BMW ActiveHybrid 3
 BMW ActiveHybrid 5
 BMW ActiveHybrid 7
 BMW i3
@@ -625,7 +624,6 @@ Solothurn
 Schwyz
 Thurgau
 Ticino
-Uri
 Vaud
 Valais
 Zug

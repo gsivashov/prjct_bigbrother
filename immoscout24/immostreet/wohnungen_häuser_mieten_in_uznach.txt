@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-uznach/
 Title: Wohnungen & Häuser mieten in Uznach - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Uznach - Immostreet.ch: ImmoStreet.ch hat 44 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Uznach - Immostreet.ch: ImmoStreet.ch hat 49 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-44 Resultate gefunden ·
+49 Resultate gefunden ·
 Wohnungen & Häuser mieten in Uznach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,126 +122,86 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Letzistrasse 4
-1'870
+Adresse auf Anfrage
+1'650
 CHF
 /Monat
-Topmoderne & grosszügige 4.5 Zimmer Woh…
-Letzistrasse 4, 8730 Uznach
+GROSSZÜGIG UND ZENTRAL
+Adresse auf Anfrage, 8730 Uznach
 Array
 4.5 Zimmer
-113 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
+Schöne Familien-Wohnung mit grossen hellen Zimmern, zwei haben Zugang zum Balkon, mitten in der Alt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zürcherstrasse 9
+1'640
+CHF
+/Monat
+Wohnerlebnis pur! Grosszügige 3.5 Zimme…
+Zürcherstrasse 9, 8730 Uznach
+Array
+3.5 Zimmer
+92 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
 Wohnfläche
-113 m2
+92 m2
 Hohe Lebensqualität in der Überbauung Takt 3 im Zentrum von Uznach. Die Überbauung befindet sich im…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Brauereistrasse 34
-1'570
+Breitenstrasse 10
+800
 CHF
 /Monat
-Schöne Gartenwohnung
-Brauereistrasse 34, 8730 Uznach
+Studio in Uznach nähe Spital
+Breitenstrasse 10, 8730 Uznach
 Array
-4.5 Zimmer
-91 m2
+1 Zimmer
+35 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Studio
 Zimmer
-4.5
+1
 Wohnfläche
-91 m2
-Schöne Gartenwohnung in ruhigem Wohnquartier.
-Die Wohnung ist hell und gut möblierbar. Das gross…
+35 m2
+Etage
+Das gemütliche Studio befindet sich in einem 4-Familien-Haus im Erdgeschoss in einem sehr ruhigen Q…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Wiesenrain 2
-2'100
+Remigihofstrasse 7
+1'820
 CHF
 /Monat
-Attikawohnung mit herrlicher Weitsicht
-Wiesenrain 2, 8730 Uznach
+Loftwohnung zu vermieten
+Remigihofstrasse 7, 8730 Uznach
 Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-85 m2
-Südlich der Städtlimauer von Uznach vermieten wir eine Attikawohnung mit herrlicher Weitsicht. Die …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'780
-CHF
-/Monat
-GROSSZÜGIG AN ZENTRALER LAGE
-Adresse auf Anfrage, 8730 Uznach
-Array
-3.5 Zimmer
-119 m2
+1 Zimmer
+115 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+1
 Wohnfläche
-119 m2
-Diese schöne Wohnung bietet alles was das Herz begehrt. Grosse Räume werden Ihnen Platz zum Leben g…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gasterweg 1
-2'070
-CHF
-/Monat
-Lassen Sie Ihre Wohnträume wahr werden!
-Gasterweg 1, 8730 Uznach
-Array
-6 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-6
-6-Zimmerwohnung mit einer Fläche von über 200 Quadratmeter! Willkommen in Ihrem neuen Zuhause! Sie …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gerbistrasse 4
-1'525
-CHF
-/Monat
-GERBI 4 | top gepflegte 4-Zi. Wohnung m…
-Gerbistrasse 4, 8730 Uznach
-Array
-4 Zimmer
-84 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-84 m2
-GERBI 4 | An zentraler und dennoch ruhiger Lage in Uznach, vermieten wir diese ansprechende und gut…
+115 m2
+Ich suche einen Nachmieter für meine Loftwohnung. Die Wohnung ist zentral gelegen. Einkaufsmöglichk…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Ahornstrasse 4
-1'985
+1'960
 CHF
 /Monat
 Ahornpark
@@ -256,211 +216,71 @@ Zimmer
 Wohnfläche
 84 m2
 Etage
-Erstvermietung Ahornparkwww.ahornstrasse.chAn ruhiger aber dennoch zentraler Hanglage entstehen in …
+Wohnung mit Terrasse - Erstvermietung AhornparkTag der offenen Tür am 20./21.08.2021, Anmeldung unt…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Zürcherstrasse 67
-1'350
-CHF
-/Monat
-2.5 Zimmer Wohnung in Uznach (renoviert…
-Zürcherstrasse 67, 8730 Uznach
-Array
-2.5 Zimmer
-50 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-50 m2
-Die vor kurzem renovierte Wohnung verleiht frischen Wind. Der wunderschöne Parkettboden aus Eiche s…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zürcherstrasse 86
-1'490
-CHF
-/Monat
-Schöne 3.5 Zimmer Wohnung auf den 1. Ma…
-Zürcherstrasse 86, 8730 Uznach
-Array
-3.5 Zimmer
-81 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-81 m2
-Suche Nachmieter für die schöne 3.5 Zimmer Wohnung in Uznach per 1.5.2021.Wohnung hat einen Separat…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mühlaustrasse 12
-920
-CHF
-/Monat
-Gemütliche und praktische Kleinwohnung
-Mühlaustrasse 12, 8730 Uznach
-Array
-1.5 Zimmer
-40 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-40 m2
-Praktische und gemütliche Kleinwohnung in schönem Wohnquartier.
-Die Wohnung ist hell und gut möb…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Städtchen 22 / Obergasse 19
-1'850
-CHF
-/Monat
-Ihr neues Zuhause im Städtli Uznach
-Städtchen 22 / Obergasse 19, 8730 Uznach
-Array
-6 Zimmer
-125 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-6
-Wohnfläche
-125 m2
-In der charmanten Altbau-Liegenschaft Städtchen 22 / Obergasse 19 in Uznach vermieten wir diese gem…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Städtchen 22
-1'000
-CHF
-/Monat
-Ladenlokal im Städtchen Uznach
-Städtchen 22, 8730 Uznach
-Array
-Objekttyp
-Verkauf, Geschäft
-Zu vermieten im Herzen von Uznach ein einzigartiges Ladenlokal.
-Neben dem 30m2 grossen Ladenlok…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obergasse 19
-1'050
-CHF
-/Monat
-Werkstatt / Lager in der Obergasse in U…
-Obergasse 19, 8730 Uznach
-Array
-Objekttyp
-Verkauf, Gewerbe
-In der Obergasse vermieten wir dieses Objekt, das Sie als Atelier/Werkstatt/Lager - je nach Ihren W…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obergasse 17
-1'050
-CHF
-/Monat
-Wohnen im Städtli Uznach
-Obergasse 17, 8730 Uznach
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Im Städtli in Uznach vermieten wir diese gemütliche 3-Zimmerwohnung.
-Bereits der Eingangsbereic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Städtchen 21
-1'650
-CHF
-/Monat
-4.5 Zimmerwohnung im Städtchen in Uznach
-Städtchen 21, 8730 Uznach
+Brauereistrasse
+Preis auf Anfrage
+Zentral wohnen Usserhirschland - 4.5-Zi…
+Brauereistrasse, 8730 Uznach
 Array
 4.5 Zimmer
-108 m2
+132 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-108 m2
-Im Städtchen von Uznach vermieten wir per 01.08.2020 eine schöne 4.5-Zimmerwohnung im 3. OG.Ausstat…
+132 m2
+In Uznach entstehen an ruhiger und doch zentraler Lage drei Mehrfamilienhäuser mit insgesamt 38 Woh…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Burgerfeldstrasse 15
-75
-CHF
-Lagerfläche ideale Lage (2OG. - 3OG.)
-Burgerfeldstrasse 15, 8730 Uznach
+Brauereistrasse
+Preis auf Anfrage
+Zentral wohnen Usserhirschland - 5.5-Zi…
+Brauereistrasse, 8730 Uznach
 Array
+5.5 Zimmer
+143 m2
 Objekttyp
-Verkauf, Lager
-Lager zu Vermieten im 2 & 3 OG. :Sie suchen ein grosses Lager ? Wir vermieten bis zu 16'000m2 …
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+143 m2
+In Uznach entstehen an ruhiger und doch zentraler Lage drei Mehrfamilienhäuser mit insgesamt 38 Woh…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Burgerfeldstrasse 15
-95
-CHF
-Logistikfläche ideale Lage
-Burgerfeldstrasse 15, 8730 Uznach
-Array
-Objekttyp
-Verkauf, Gewerbe
-Sie suchen ein grosses Lager oder eine Logistikfläche? Wir vermieten bis zu 28'000m2 an sehr ideale…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Uznabergstrasse
-1'300
-CHF
-/Monat
-Zu vermieten helle 3.5 Zi Wohnung mit B…
-Uznabergstrasse, 8730 Uznach
+Brauereistrasse
+Preis auf Anfrage
+Zentral wohnen Usserhirschland - 3.5-Zi…
+Brauereistrasse, 8730 Uznach
 Array
 3.5 Zimmer
-60 m2
+95 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-60 m2
-Sehr schöne ruhige Wohnung. Glaskeramik, Laminatböden, Glasfaseranschluss, zwei Balkone, Estrich, K…
+95 m2
+In Uznach entstehen an ruhiger und doch zentraler Lage drei Mehrfamilienhäuser mit insgesamt 38 Woh…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Gerbistrasse 8
-1'490
+Zürcherstrasse 10
+900
 CHF
 /Monat
-3-Zimmerwohnung im Zentrum von Uznach
-Gerbistrasse 8, 8730 Uznach
+3-Zimmerwohnung zu vermieten mit Balkon…
+Zürcherstrasse 10, 8730 Uznach
 Array
 3 Zimmer
 70 m2
@@ -470,7 +290,28 @@ Zimmer
 3
 Wohnfläche
 70 m2
-Wir vermieten in einem Mehrfamilienhaus per sofort oder nach Vereinbarung diese 3-Zimmerwohnung. Di…
+Zu vermieten per sofort oder nach Vereinbarung schöne 3 Zimmerwohnung, im 1. OG mit Balkon. Auf Wun…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stegstrasse
+1'500
+CHF
+/Monat
+3 - Zimmer - Wohnung 73 m2 Fr. 150…
+Stegstrasse, 8730 Uznach
+Array
+3 Zimmer
+73 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+73 m2
+Etage
+Neu renovierte 3- Zimmerwohnung an ruhiger Lage, im Parterre eines Zweifamilienhauses. Küche, Bad m…
 Teilen
 E-Mail
 Facebook
@@ -491,7 +332,171 @@ Zimmer
 Wohnfläche
 107 m2
 Etage
-Erstvermietung Ahornparkwww.ahornstrasse.chAn ruhiger aber dennoch zentraler Hanglage entstehen in …
+Wohnung mit Seesicht - Erstvermietung AhornparkTag der offenen Tür am 20./21.08.2021, Anmeldung unt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ahornstrasse 4
+1'955
+CHF
+/Monat
+Ahornpark
+Ahornstrasse 4, 8730 Uznach
+Array
+3.5 Zimmer
+89 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+89 m2
+Etage
+Wohnung mit Seesicht - Erstvermietung AhornparkTag der offenen Tür am 20./21.08.2021, Anmeldung unt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brauereistrasse 1b
+2'090
+CHF
+/Monat
+Neu renovierte Maisonettewohnung mit dr…
+Brauereistrasse 1b, 8730 Uznach
+Array
+5.5 Zimmer
+118 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+5.5
+Wohnfläche
+118 m2
+Neu renovierte Maisonettewohnung mit drei Terrassen!Platz für die ganze Familie! Wir vermieten per …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bohlstrasse 2a
+120
+CHF
+/Monat
+Garagenplatz
+Bohlstrasse 2a, 8730 Uznach
+Array
+Objekttyp
+Doppelgarage
+In beliebtem Wohnquartier vermieten wir einen Einstellplatz in einer Doppelgarage.
+Haben wir Ihr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hegnerstrasse 17
+975
+CHF
+/Monat
+Gemütliche 2-Zimmerwohnung
+Hegnerstrasse 17, 8730 Uznach
+Array
+2 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Die 2-Zimmerwohnung befindet sich im Erdgeschoss des kleineren Mehrfamilienhauses mit nur 3 Parteie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gasterstrasse 36
+1'414
+CHF
+/Monat
+"Ihr neues Zuhause" - moderne 2.5 Zimme…
+Gasterstrasse 36, 8730 Uznach
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Die Neubauwohnung erstreckt sich über rund 60 m2 und verfügt über viele Highlights. So wurden für d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zürcherstrasse 49
+2'320
+CHF
+/Monat
+Traumhafte Attika-Wohnung mit Rundsicht
+Zürcherstrasse 49, 8730 Uznach
+Array
+3.5 Zimmer
+96 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+96 m2
+Diese 3.5 Zimmer-Attika-Wohnung besticht mit ihrer 116 m2 grossen Terrasse und der herrlichen Aussi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gerbistrasse 4
+1'490
+CHF
+/Monat
+GERBI 4 | top gepflegte 4-Zi. Wohnung m…
+Gerbistrasse 4, 8730 Uznach
+Array
+4 Zimmer
+84 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+84 m2
+GERBI 4 | An zentraler und dennoch ruhiger Lage in Uznach, vermieten wir diese ansprechende und gut…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 24
+1'350
+CHF
+/Monat
+Praxis- oder Büroräumlichkeiten zu verm…
+Bahnhofstrasse 24, 8730 Uznach
+Array
+Objekttyp
+Verkauf, Gewerbe
+Inmitten von Uznach befindet sich die attraktive Geschäfts- und Wohnliegenschaft in welcher im Erdg…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Uznabergstrasse
+1'300
+CHF
+/Monat
+Zu vermieten helle 3.5 Zi Wohnung mit B…
+Uznabergstrasse, 8730 Uznach
+Array
+3.5 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+60 m2
+Sehr schöne ruhige Wohnung. Glaskeramik, Laminatböden, Glasfaseranschluss, zwei Balkone, Estrich, K…
 Teilen
 E-Mail
 Facebook

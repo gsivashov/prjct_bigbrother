@@ -134,28 +134,8 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Heidenerstrasse 59
-2'250'000
-CHF
-Einzigartige und luxuriöse Penthouse-Wo…
-Heidenerstrasse 59, 9404 Rorschacherberg
-Array
-5.5 Zimmer
-255 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-255 m2
-Etage
-MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Einzigartige und luxuriö…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Bachwiesstrasse 11
-660'000
+640'000
 CHF
 Sehr schöne grosse 4.5 Zimmer Wohnung r…
 Bachwiesstrasse 11, 9404 Rorschacherberg
@@ -173,21 +153,38 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-890'000
+Wiesentalstrasse 10
+530'000
 CHF
-Exklusive 4.5 ETW, Rorschacherberg
-Adresse auf Anfrage, 9404 Rorschacherberg
+Charmante Penthouse-Wohnung mit fantast…
+Wiesentalstrasse 10, 9404 Rorschacherberg
 Array
-4.5 Zimmer
-130 m2
+4 Zimmer
+94 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+4
 Wohnfläche
-130 m2
-Sehr exklusive 4.5 Zi. ETW im Rorschacherberg zu verkaufen. Edle Böden, exklusive Nasszellen, Wartu…
+94 m2
+Diese geräumige und im Jahr 2021 hochwertig sanierte 4.0-Zimmer-Penthouse-Wohnung ist Teil einer äl…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+383'000
+CHF
+4-Zimmer Eigentumswohnung
+Adresse auf Anfrage, 9404 Rorschacherberg
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4
+Etage
+4-Zimmer-Dachwohnungmit Aussicht auf den BodenseeBesuchen Sie unseren 360 Grad Rundgang unter dem n…
 Teilen
 E-Mail
 Facebook
@@ -227,7 +224,7 @@ Zimmer
 Wohnfläche
 107 m2
 Etage
-Er kann wahr werden – Ihr Traum von der unverbaubaren Seesicht! Wohnfeeling pur in lichtdurchflutet…
+Er kann wahr werden – Ihr Traum von der unverbaubaren Seesicht!Virtuelle Tour:https://www.remotely.…
 Teilen
 E-Mail
 Facebook
@@ -266,7 +263,7 @@ Zimmer
 Wohnfläche
 123 m2
 Etage
-Einzigartige, unverbaubare Seesicht!Erfüllen Sie sich Ihren Traum von einer wunderbaren Seesicht! H…
+Einzigartige, unverbaubare Seesicht!Virtuelle Tour: https://www.remotely.tours/app/property/5f73133…
 Teilen
 E-Mail
 Facebook
@@ -274,7 +271,7 @@ Whatsapp
 Adresse auf Anfrage
 850'000
 CHF
-Besonders weil Sie besonders sind
+TOP MODERN - Lifestyle pur!
 Adresse auf Anfrage, 9404 Rorschacherberg
 Array
 4.5 Zimmer

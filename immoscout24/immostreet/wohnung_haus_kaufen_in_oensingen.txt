@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/in-oensingen/
 Title: Wohnung & Haus kaufen in Oensingen - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Oensingen - Immostreet.ch: ImmoStreet.ch hat 17 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Oensingen - Immostreet.ch: ImmoStreet.ch hat 21 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-17 Resultate gefunden ·
+21 Resultate gefunden ·
 Wohnung & Haus kaufen in Oensingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,21 +151,116 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Bienkenstrasse 14
-565'000
+Leuenallee 29
+780'000
 CHF
-4.5 Zimmer Wohnung an zentraler Lage
-Bienkenstrasse 14, 4702 Oensingen
+Attraktive, moderne und helle 5 .5 Zi. …
+Leuenallee 29, 4702 Oensingen
+Array
+5.5 Zimmer
+146 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+146 m2
+Attraktive, moderne und helle 5 .5 Zimmer Eigentumswohnung, mit gedecktem, sowie verglastem Balkon?…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lehnrüttiweg 7
+395'000
+CHF
+Praktische 4.5-Zimmerwohnung mit ideale…
+Lehnrüttiweg 7, 4702 Oensingen
 Array
 4.5 Zimmer
-110 m2
+85 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-110 m2
-Die schöne und helle Wohnung befindet sich in einem Mehrfamilienhaus im 2.OG an zentraler Lage in O…
+85 m2
+Oensingen | An zentraler Lage in Oensingen befindet sich Ihre neue 4.5-Zimmerwohnung, welche perfek…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+720'000
+CHF
+Großräumige Eigentumswohnung an Hanglage
+Adresse auf Anfrage, 4702 Oensingen
+Array
+3.5 Zimmer
+121 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+121 m2
+Grossräumige 3,5-Zimmer Wohnung in Oensingen mit modernem Ausbaustandart (letzte Renovationen 2018)…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'900'000
+CHF
+ATEMBERAUBENDE AUSSICHT UND SEHR EXKLUS…
+Adresse auf Anfrage, 4702 Oensingen
+Array
+5.5 Zimmer
+178 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+178 m2
+Die einzigartige Lage begeistert immer wieder von neuem. Diese Villa liegt an schönster Südlage mit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oensingen
+690'000
+CHF
+Zentral gelegenes 4.5 Zi-REFH mit Pergo…
+Oensingen, 4702 Oensingen
+Array
+4.5 Zimmer
+121 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+4.5
+Wohnfläche
+121 m2
+Dieses gepflegte Reihenhaus liegt in einem verkehrsberuhigten, sehr kinderfreundlichen und gut ers…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+765'000
+CHF
+Bezaubernde Attikawohnung mit Aussicht …
+Adresse auf Anfrage, 4702 Oensingen
+Array
+5.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+Wohnfläche
+125 m2
+Die gepflegte Attkiawohnung im Obergeschoss ist bequem mit wenigen Treppenstufen erreichbar. Im Woh…
 Teilen
 E-Mail
 Facebook
@@ -185,6 +280,25 @@ Zimmer
 Wohnfläche
 72 m2
 Diese neu renovierte 3.5 Zimmer Eigentumswohnung im 1. Obergeschoss befindet sich in einer gepflegt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bienkenstrasse 14
+565'000
+CHF
+4.5 Zimmer Wohnung an zentraler Lage
+Bienkenstrasse 14, 4702 Oensingen
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+110 m2
+Die schöne und helle Wohnung befindet sich in einem Mehrfamilienhaus im 2.OG an zentraler Lage in O…
 Teilen
 E-Mail
 Facebook
@@ -222,7 +336,7 @@ Zimmer
 5
 Wohnfläche
 155 m2
-Folgende Besichtigungen finden statt: - Mittwoch, 2. Juni 2021, von 10:30 Uhr bis 12:00 Uhr - Mont…
+In Oensingen verkaufen wir eine von A bis Z beeindruckende 5 Zimmer Dachwohnung mit einer fantastis…
 Teilen
 E-Mail
 Facebook
@@ -306,7 +420,7 @@ Facebook
 Whatsapp
 Adresse auf Anfrage
 Preis auf Anfrage
-Wohlfühloase mit Weitblick
+***RESERVIERT*** Wohlfühloase mit Weitb…
 Adresse auf Anfrage, 4702 Oensingen
 Array
 7.5 Zimmer
@@ -338,25 +452,6 @@ Zimmer
 Wohnfläche
 161 m2
 Dieses freistehende Einfamilienhaus beeindruckt durch seinen einmaligen Standort, das erhöht gelege…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Leuenallee 29
-780'000
-CHF
-Attraktive, moderne und helle 5 .5 Zimm…
-Leuenallee 29, 4702 Oensingen
-Array
-5.5 Zimmer
-146 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-146 m2
-Attraktive, moderne und helle 5 .5 Zimmer Eigentumswohnung, mit gedecktem, sowie verglastem Balkon?…
 Teilen
 E-Mail
 Facebook
@@ -423,7 +518,7 @@ Whatsapp
 Adresse auf Anfrage
 615'000
 CHF
-Ausgezeichnete zentrale Lage mit viel R…
+* RESERVIERT *
 Adresse auf Anfrage, 4702 Oensingen
 Array
 4.5 Zimmer
@@ -440,43 +535,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-373'000
-CHF
-Wohnung kaufen für Fr. 830.-- im Monat
-Adresse auf Anfrage, 4702 Oensingen
-Array
-4.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-85 m2
-OensingenIn einem angenehmen Mehrfamilienhaus-Quartier in Oensingen, steht diese preiswerte 4.5 Zim…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Erstbezug - Moderne Neubau-Wohnung im H…
-Adresse auf Anfrage, 4702 Oensingen
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-120 m2
-An zentraler Lage in Oensingen ist eine moderne 4.5 Zimmer Neubau-Wohnung zu verkaufen. Diese tolle…
-Teilen
-E-Mail
-Facebook
-Whatsapp
+Seite 1 von 2
+1
+2
+nächste Seite
 ImmoStreet.ch
 Kaufen
 Wohnung & Haus zu kaufen

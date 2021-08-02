@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-weesen/
 Title: Wohnung mieten in Weesen - Immostreet.ch
-Description: Wohnung mieten in  Weesen - Immostreet.ch: ImmoStreet.ch hat 13 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Weesen - Immostreet.ch: ImmoStreet.ch hat 12 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-13 Resultate gefunden ·
+12 Resultate gefunden ·
 Wohnung mieten in Weesen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,42 +131,83 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Hauptstrasse 15
-1'390
+Adresse auf Anfrage
+1'750
 CHF
 /Monat
-4.5-Zimmerwohnung in See Nähe
-Hauptstrasse 15, 8872 Weesen
+Attikawohnung mit sensationeller Aussic…
+Adresse auf Anfrage, 8872 Weesen
 Array
-4.5 Zimmer
-92 m2
+3.5 Zimmer
+100 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+3.5
 Wohnfläche
-92 m2
-Helle 4.5-Zimmerwohnung in See NäheWir vermieten per sofort oder nach Vereinbarung eine frisch sani…
+100 m2
+3.5-Zimmer-Dachwohnung mit sensationeller AussichtHochwertig, altersgerecht und hindernisfrei ausge…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Mülistrasse 8
-2'320
+Staad 2 B1
+1'750
 CHF
 /Monat
-Traumhafte 5.5-Zimmer-Gartenwohnung W2 …
-Mülistrasse 8, 8872 Weesen
+Attikawohnung mit sensationeller Aussic…
+Staad 2 B1, 8872 Weesen
 Array
-5.5 Zimmer
-138 m2
+3.5 Zimmer
+100 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Dachwohnung
 Zimmer
-5.5
+3.5
 Wohnfläche
-138 m2
-Die Wohnung W2 befindet sich an sonniger und ruhiger Lage mit Seesicht, im Eigentumswohnungsstandar…
+100 m2
+Etage
+3.5-Zimmer-Dachwohnung mit sensationeller AussichtHochwertig, altersgerecht und hindernisfrei ausge…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'620
+CHF
+/Monat
+CHARMANT UND SONNENDURCHFLUTET
+Adresse auf Anfrage, 8872 Weesen
+Array
+5 Zimmer
+87 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+5
+Wohnfläche
+87 m2
+Diese helle Maisonette wurde im Jahr 2017 komplett renoviert und steht an einer guten Lage. Sie ist…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Städtli 41
+575
+CHF
+/Monat
+Renoviertes Studio im Dachgeschoss
+Im Städtli 41, 8872 Weesen
+Array
+1 Zimmer
+26 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+1
+Wohnfläche
+26 m2
+Modernisiertes Studio im DachgeschossDas Mehrfamilienhaus liegt mitten im Städtli Weesen an der Hau…
 Teilen
 E-Mail
 Facebook
@@ -232,7 +273,7 @@ E-Mail
 Facebook
 Whatsapp
 Hauptstrasse 35
-1'340
+1'290
 CHF
 /Monat
 SCHÖNE 4.5-ZIMMERWOHNUNG IN WEESEN ZU V…
@@ -270,27 +311,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Im Städtli 41
-1'410
-CHF
-/Monat
-Charmante 4 Zimmer Wohnung mit Seeblick
-Im Städtli 41, 8872 Weesen
-Array
-4 Zimmer
-62 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-62 m2
-Etage
-Das Grundstück liegt mitten im Städtli Weesen an der Hauptstrasse. Zum See sind es nur wenige Meter…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Hauptstrasse 6
 1'565
 CHF
@@ -307,47 +327,6 @@ Zimmer
 Wohnfläche
 102 m2
 Die Wohnung befindet sich an zentraler, sonniger und ruhiger Lage.Helle und grosszügige Räume, Park…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Staad 8
-1'390
-CHF
-/Monat
-moderne, altersgerechte und hindernisfr…
-Staad 8, 8872 Weesen
-Array
-2.5 Zimmer
-54 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-54 m2
-Wir vermieten per 01.05.2021 eine modere altergerechte Wohnung an zentraler Lage.Wohnung ist wie fo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Staad 5
-1'940
-CHF
-/Monat
-an zentraler, ruhiger und sehr sonniger…
-Staad 5, 8872 Weesen
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Etage
-Hochwertig, altersgerecht und hindernisfrei ausgebaut.Sehr attraktive Gartenanlage mit Wegen, Wasse…
 Teilen
 E-Mail
 Facebook

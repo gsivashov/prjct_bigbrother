@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/bezirk-rheinfelden/
 Title: Wohnung & Haus mieten in Bezirk Rheinfelden - Immostreet.ch
-Description: Wohnung & Haus mieten in Bezirk Rheinfelden - Immostreet.ch: ImmoStreet.ch hat 213 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Bezirk Rheinfelden - Immostreet.ch: ImmoStreet.ch hat 169 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-213 Resultate gefunden ·
+169 Resultate gefunden ·
 Wohnung & Haus mieten in Bezirk Rheinfelden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,321 +152,313 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Rütteliweg 8
-1'415
+Fischerweg 21
+10'000
 CHF
 /Monat
-2,5 Zimmer Wohnung
-Rütteliweg 8, 4310 Rheinfelden
+Wohnen direkt am Rhein - einzigartige N…
+Fischerweg 21, 4310 Rheinfelden
 Array
-2.5 Zimmer
-50 m2
+6.5 Zimmer
+252 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Doppeleinfamilienhaus
 Zimmer
-2.5
+6.5
 Wohnfläche
-50 m2
-Nachmieter gesucht2.5 Zimmer, ca. 50 m²CHF 1415.-Rütteliweg 8, 4310 Rheinfelden AG7. StockwerkVerfü…
+252 m2
+Etage
+Wir vermieten an exklusiver Wohnlage direkt am Rheinufer eine repräsentative Neubauliegenschaft mit…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Alte Saline 3
-2'240
+Hauptstrasse 36
+400
 CHF
 /Monat
-WUNDERSCHÖNE DACHWOHNUNG MIT AUSSICHT
-Alte Saline 3, 4310 Rheinfelden
+Zimmer direkt am Rhein zu vermieten
+Hauptstrasse 36, 4322 Mumpf
 Array
-5.5 Zimmer
-110 m2
+14 m2
 Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
+Wohnung, Einzelzimmer
 Wohnfläche
-110 m2
-Wir vermieten im ruhigen Quartier diese schöne 5.5-Zimmer-Maisonettewohnung (ca. 110m2) mit Balkon.…
+14 m2
+Zwischen Zürich und Basel im ehemaligen Gasthof zur Glocke in Mumpf AG vermieten wir ein Zimmer für…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alte Saline 2
+1'615
+CHF
+/Monat
+Familienfreundlich wohnen mit Sicht ins…
+Alte Saline 2, 4310 Rheinfelden
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+In Mitten einer Waldlichtung erwartet Sie diese stilvolle Wohnung in einer gepflegten Überbauung. S…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Spitalhalde 40
+955
+CHF
+/Monat
+Modernes Studio an toller Lage
+Spitalhalde 40, 4310 Rheinfelden
+Array
+1.5 Zimmer
+37 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+37 m2
+Wir vermieten an ruhiger Lage diese frisch sanierte Wohnung. Die Liegenschaft befindet sich nur 2 G…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rütteliweg 8
+1'770
+CHF
+/Monat
+Helle und ruhige Wohnung mit Balkon
+Rütteliweg 8, 4310 Rheinfelden
+Array
+4.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+80 m2
+Wir vermieten an ruhiger und kinderfreundlicher Lage diese, im 2017 frisch sanierte Wohnung per 01.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Riburgstrasse 36
+2'090
+CHF
+/Monat
+Erstbezug im Dorfzentrum
+Riburgstrasse 36, 4313 Möhlin
+Array
+3.5 Zimmer
+108 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+108 m2
+Neubau im Riburg in Möhlin.
+Der Erstbezug ist per 01.07.2021 erfolgt, es stehen noch einige wenige…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Theodorshofweg 21
+2'140
+CHF
+/Monat
+Ihre neuen 4 Wände - Mitten in Rheinfel…
+Theodorshofweg 21, 4310 Rheinfelden
+Array
+3.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+97 m2
+Etage
+Einzigartige 3.5-Zimmerwohnung an bester Lage!Die Wohnung befindet sich an bester Lage in Rheinfeld…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kaiserstrasse 28
+4'879
+CHF
+/Monat
+Über den Dächern von Rheinfelden - Ein …
+Kaiserstrasse 28, 4310 Rheinfelden
+Array
+4.5 Zimmer
+167 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+167 m2
+Die Nr. 1 unter den Attikawohnungen in RheinfeldenLeben auf der urbanen Insel - Mitten in Rheinfeld…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gewerbepark Bata 2
+2'000
+CHF
+/Monat
+3.5-Zimmer Loftwohnung im Bata-Park
+Gewerbepark Bata 2, 4313 Möhlin
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+In der denkmalgeschützten ehemaligen Gewerbehalle im Bata-Park wurden im 2017 moderne Loftwohnungen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alte Saline 20
+1'875
+CHF
+/Monat
+Ruhige Familien-Wohnung nähe Rhein
+Alte Saline 20, 4310 Rheinfelden
+Array
+4.5 Zimmer
+92 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+92 m2
+Wir vermieten per 16.10.2021 oder nach Vereinbarung eine gemütliche 4½-Zimmer-Wohnung in Rheinfelde…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Quellenstrasse 1
+1'620
+CHF
+/Monat
+TOLLE BÜROHAUSWOHNUNG FÜR PENDLER UND M…
+Quellenstrasse 1, 4310 Rheinfelden
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+Bestens eingebunden zwischen Bahnhof, Altstadt, Wellness, Restaurants und Einkaufsmöglichkeiten, be…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brodlaube 29
+1'475
+CHF
+/Monat
+CHARMANTE ALTSTADTWOHNUNG IN EINER «VER…
+Brodlaube 29, 4310 Rheinfelden
+Array
+3 Zimmer
+67 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+67 m2
+Inmitten der Rheinfelder Altstadt befindet sich das kleine Mehrfamilienhaus «zur verkehrten Welt». …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brodlaube 29
+1'490
+CHF
+/Monat
+DACHWOHNUNGSTRAUM IM HERZEN DER RHEINFE…
+Brodlaube 29, 4310 Rheinfelden
+Array
+3 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+86 m2
+Inmitten der Rheinfelder Altstadt befindet sich das kleine Mehrfamilienhaus «zur verkehrten Welt». …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Riburgpark 6
+1'560
+CHF
+/Monat
+Top Lage, Nähe Bahnhof und Einkauf !
+Riburgpark 6, 4313 Möhlin
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Wir vermieten diese 3 1/2-Zimmer-Wohnung per Herbst 2021 an bester Lage mit einigen Vorzügen:DAS WI…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Am Bach 5 (Haus D)
-2'350
+2'300
 CHF
 /Monat
-Helle 3.5-ZWG an schöner Lage in Zeinin…
+Schöne 4.5-Zimmerwohung am Dorfeingang …
 Am Bach 5 (Haus D), 4314 Zeiningen
 Array
-3.5 Zimmer
-104 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-104 m2
-Etage
-Im Vite in Zeiningen wird eine 3.5 Zimmerwohnung frei.Die Wohnung bietet:- Küche mit Steamer, Backo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-4'600
-CHF
-/Monat
-Wohnen mit Charme im umgebauten Bauernh…
-Adresse auf Anfrage, 4312 Magden
-Array
-5 Zimmer
-182 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5
-Wohnfläche
-182 m2
-Etage
-Inmitten wunderschöner Natur am Dorfrand von Magden befindet sich dieses im 2012 stilvoll renoviert…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-3'300
-CHF
-/Monat
-Stilvolles Wohnen im Grünen
-Adresse auf Anfrage, 4312 Magden
-Array
 4.5 Zimmer
-126 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-126 m2
-Etage
-Inmitten wunderschöner Natur am Dorfrand von Magden befindet sich dieses im 2012 stilvoll renoviert…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'800
-CHF
-/Monat
-Geräumiges Wohnen in Wallbach
-Adresse auf Anfrage, 4323 Wallbach
-Array
-5.5 Zimmer
-190 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-190 m2
-Etage
-Hier finden Sie Ihr neues idyllisches Daheim ? eine grosszügige Wohnung im Herzen von Wallbach! Zus…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eschenmattstrasse 5
-1'690
-CHF
-/Monat
-Attraktive 4.5-Zimmer-Wohnung an ruhige…
-Eschenmattstrasse 5, 4313 Möhlin
-Array
-4.5 Zimmer
-86 m2
+107 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-86 m2
+107 m2
 Etage
-Möchten Sie zentral und sonnig wohnen? Diese 4.5-Zimmer-Wohnung im 1. OG hat einen praktischen, kom…
+Im Vite in Zeiningen wird eine 4.5 Zimmerwohnung frei.Die Wohnung bietet:- Küche mit Steamer, Backo…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Steinligasse 9
-1'780
+Thermenstrasse 5
+2'100
 CHF
 /Monat
-Individueller Grundriss mit Flair
-Steinligasse 9, 4313 Möhlin
-Array
-3.5 Zimmer
-93 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-93 m2
-Etage
-Die 3½-Zimmer-Wohnung im 2. OG hält, was sie verspricht: Offener, grosszügiger Wohn-/Essbereich, 2 …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weidstrasse 13
-Preis auf Anfrage
-6.5-Zimmer-Einfamilienhaus mit Umschwung
-Weidstrasse 13, 4317 Wegenstetten
-Array
-6.5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-160 m2
-Etage
-An ruhiger Wohnlage im schönen Fricktal vermieten wir per 1. November oder nach Vereinbarung dieses…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wasserwerkstrasse 6
-1'130
-CHF
-/Monat
-Wasserwerkstrasse- schöne moderne 2 1/2…
-Wasserwerkstrasse 6, 4332 Stein AG
-Array
-2.5 Zimmer
-47 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-47 m2
-Per sofort oder nach Vereinbarung vermieten wir eine gemütliche 2 1/2-Zimmerwohnung im ErdgeschossD…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Landstrasse 59
-1'820
-CHF
-/Monat
-Erstvermietung
-Landstrasse 59, 4313 Möhlin
-Array
-2.5 Zimmer
-72 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-72 m2
-Erstvermietung
-Wunderschöne Mietwohnungen an zentraler Lage per 01.07.2021 zu vermieten.
-Die …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Landstrasse 59
-1'930
-CHF
-/Monat
-Erstvermietung
-Landstrasse 59, 4313 Möhlin
-Array
-3.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-79 m2
-Erstvermietung
-Wunderschöne Mietwohnungen an zentraler Lage per 01.07.2021 zu vermieten.
-Die …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weidenweg 33
-1'560
-CHF
-/Monat
-Moderne, helle 2.5-Zimmerwohnung mit Lo…
-Weidenweg 33, 4303 Kaiseraugst
-Array
-2.5 Zimmer
-73 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-73 m2
-Wir vermieten per 16.12.2019 oder nach Vereinbarung eine top-moderne Wohnung. Folgender Ausbaustand…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Habsburgerstrasse 2
-1'225
-CHF
-/Monat
-Wohnen mit Blick ins Grüne
-Habsburgerstrasse 2, 4310 Rheinfelden
-Array
-2.5 Zimmer
-68 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-68 m2
-Im schönen Grenzstädtchen am Rhein - Rheinfelden- vermieten wir eine gemütliche 2.5-Zimmerwohnung m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grundgasse 2
-1'470
-CHF
-/Monat
-Grosszügige 31/2 Zimmer Wohnung
-Grundgasse 2, 4324 Obermumpf
-Array
-3.5 Zimmer
-92 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-92 m2
-Zu Vermieten Grosszügige 3,5 Zimmer Wohnung in Obermumpf, in ruhigem Quartier. Die Wohnung hat eine…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Thermenstrasse 15
-1'910
-CHF
-/Monat
-Wunderschöne Grünlage - mit Lift, eige…
-Thermenstrasse 15, 4310 Rheinfelden
+Familienwohnung mit eigener Waschküche
+Thermenstrasse 5, 4310 Rheinfelden
 Array
 4.5 Zimmer
 102 m2
@@ -476,17 +468,58 @@ Zimmer
 4.5
 Wohnfläche
 102 m2
-Die Wohnung ist wie folgt ausgestattet:- Küche mit Plattenboden- Geschirrspüler, Glaskeramik, hoher…
+Nach Vereinbarung, jedoch frühestens per 1. Oktober 2021, vermieten wir diese grosszügige 4.5-Zimme…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Flossländeweg 1a
-1'705
+Zürcherstrasse 40
+1'800
 CHF
 /Monat
-EXKLUSIVE WOHNUNG IM NAHERHOLUNGSGEBIET
-Flossländeweg 1a, 4310 Rheinfelden
+Idyllisches Wohnen am Rhein - neuwertig…
+Zürcherstrasse 40, 4332 Stein AG
+Array
+3.5 Zimmer
+91 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+91 m2
+Wohnen und Leben in Stein unweit des Rheins - schön im Grünen und doch mitten drin!Wir vermieten pe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rumpelgässli 1
+1'250
+CHF
+/Monat
+2 1/2-Zimmerwohnung in der Altstadt suc…
+Rumpelgässli 1, 4310 Rheinfelden
+Array
+2.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+65 m2
+Es erwartet Sie eine gemütlich und charmante Altbauwohnung.
+Wohnzimmer ist mit einem Laminatbodenb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterfeldstrasse 14
+1'420
+CHF
+/Monat
+Singelwohnung mit Gartensitzplatz
+Unterfeldstrasse 14, 4332 Stein AG
 Array
 2.5 Zimmer
 70 m2
@@ -496,72 +529,29 @@ Zimmer
 2.5
 Wohnfläche
 70 m2
-In Rheinfelden finden Sie ein Zusammenspiel von Natur, Historie und Moderne. Die schmucke Altstadt …
+Diese 2.5-Zimmer-Gartenwohnung liegt in einer familienfreundlichen Überbauung an der Unterfeldstras…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Fassbindstrasse 14
-3'270
+Zürcherstrasse 32
+1'380
 CHF
 /Monat
-Träumen Sie auch von einem 100m2 Outdoo…
-Fassbindstrasse 14, 4310 Rheinfelden
+Ab 01.10.21 oder nach Vereinbarung zu v…
+Zürcherstrasse 32, 4310 Rheinfelden
 Array
 3.5 Zimmer
-96 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Wohnfläche
-96 m2
-Erstvermietung einer erstklassigen 3.5 Zimmer Dachwohnung mi 96 m2 in einer architektonisch herausr…
+Wir vermieten ab 01.10. oder nach Vereinbarung eine schöne, helle 3.5-Zimmer-Wohnung im 2.OG in san…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Münchwilerstrasse 23
-2'110
-CHF
-/Monat
-Grosszügige Wohnung an ruhiger Lage zu …
-Münchwilerstrasse 23, 4332 Stein AG
-Array
-3.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-98 m2
-neumatt-stein.chUnweit des Zentrums der lebendigen Gemeinde Stein stehen an ausgezeichneter Lage 40…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Soleweg 15
-1'900
-CHF
-/Monat
-Supertolle 3 1/2-Zimmerwohnung mit sehr…
-Soleweg 15, 4313 Möhlin
-Array
-3.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-100 m2
-Sehr geehrte InteressentenWohnen im schönen Dorf Möhlin.....Hier besteht die Möglichkeit eine wunde…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 11
+Seite 1 von 9
 1
 2
 3

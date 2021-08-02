@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/kanton-zug/
 Title: Wohnung & Haus kaufen in Kanton Zug - Immostreet.ch
-Description: Wohnung & Haus kaufen in Kanton Zug - Immostreet.ch: ImmoStreet.ch hat 50 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Kanton Zug - Immostreet.ch: ImmoStreet.ch hat 42 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-50 Resultate gefunden ·
+42 Resultate gefunden ·
 Wohnung & Haus kaufen in Kanton Zug
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,27 +151,258 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Hofmatt 76
-1'250'000
+Maihof
+2'390'000
 CHF
-Charmantes Bijou mit herrlicher Sicht
-Hofmatt 76, 6332 Hagendorn
+Neubau - 4.5 Zimmer Gartenwohnung mit g…
+Maihof, 6331 Hünenberg
 Array
-95 m2
+4.5 Zimmer
+172 m2
 Objekttyp
 Wohnung, Flach
+Zimmer
+4.5
 Wohnfläche
-95 m2
-An zentraler Lage in der Hofmatt 76 in 6332 Hagendorn verkaufen wir diese gemütliche 3.5-Zimmer-Woh…
+172 m2
+Etage
+Traumhafte 4.5 Zimmer Gartenwohnung-Eigentumswohnung an besonnter Hanglage mit einem atemberaubende…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Maihof
+2'200'000
+CHF
+Neubau - Attika: 3.5 Zimmer Attikawohnu…
+Maihof, 6331 Hünenberg
+Array
+3.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+125 m2
+Etage
+Neubau: Grosszügige und moderne 3.5 Zimmer Attikawohnung mit zwei grossen Terrassen (West 113.86 m2…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Maihof
+2'525'000
+CHF
+NEUBAUWOHNUNG: 5.5 Zimmerwohnung mit gr…
+Maihof, 6331 Hünenberg
+Array
+5.5 Zimmer
+172 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+172 m2
+Etage
+Finden Sie Ihr neues Zuhause an besonnter Hanglage mit einem atemberaubenden Ausblick auf die Reuss…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
+Preis auf Anfrage
+TRAUMLAGE MIT WEITSICHT UND ABENDSONNE
+Adresse auf Anfrage, 6313 Edlibach
+Array
+12.5 Zimmer
+347 m2
+Objekttyp
+Wohnung, Bauernhaus
+Zimmer
+12.5
+Wohnfläche
+347 m2
+Das einmalige komplett sanierte Bauernhaus und ursprünglich aus dem 1500 erbaute Objekt mit 3 voll …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterägeri
+1'149'000
+CHF
+Helle, grosszügige 4.5 Zimmer Wohnung i…
+Unterägeri, 6314 Unterägeri
+Array
+4.5 Zimmer
+103 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+103 m2
+Diese Wohnung ist perfekt geeignet für Familien und Paare, die eine ruhige und sonnige Wohnlage im …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+St. Jakobstrasse 4
+1'020'000
+CHF
+3½-Zimmerwohnung an ruhiger Lage
+St. Jakobstrasse 4, 6330 Cham
+Array
+3.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+105 m2
+Etage
+Die Wohnung befindet sich im 3. Obergeschoss an der St. Jakobstrasse 4 an ruhiger Lage in Cham. Die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grundstrasse 17
+1'230'000
+CHF
+Gepflegte 4.5 Zi-Wohnung an zentraler L…
+Grundstrasse 17, 6343 Rotkreuz
+Array
+4.5 Zimmer
+104 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+104 m2
+Etage
+Diese gepflegte 4.5 Zimmerwohnung bietet gemütliches Wohnen in einem ruhigen Quartier mitten in Rot…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Altstadtjuwel: Wohnen & Arbeiten an der…
+Adresse auf Anfrage, 6300 Zug
+Array
+9.5 Zimmer
+340 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+9.5
+Wohnfläche
+340 m2
+Etage
+Das grosszügige Apartment an vorderster Uferfront liegt in einer historischen Häuserzeile. Drei Eta…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aabachstrasse 8
+2'000'000
+CHF
+Tauschobjekt: 4.5 Zimmerwohnung, Zug
+Aabachstrasse 8, 6300 Zug
+Array
+4.5 Zimmer
+133 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+133 m2
+Dies ist ein Tauschobjekt. Der Eigentümer dieser Immobilie würde seine Wohnung verkaufen, wenn er d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hagendorn
+1'790'000
+CHF
+Grosszügige 5.5 Zimmer Dachwohnung in r…
+Hagendorn, 6332 Hagendorn
+Array
+5.5 Zimmer
+170 m2
+Objekttyp
+Wohnung, Attic
+Zimmer
+5.5
+Wohnfläche
+170 m2
+Diese wunderbar helle 5.5 Zimmerwohnung befindet sich in einem ruhigen und gepflegten Wohnquartier …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Müslirain
+Preis auf Anfrage
+Villa
+Müslirain, 6315 Oberägeri
+Array
+326 m2
+Objekttyp
+Wohnung, Villa
+Wohnfläche
+326 m2
+Sonnenverwöhnt, luxuriös wohnen mit eindrücklicher See- und Bergsicht. Highlights auf einen Blick
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'225'000
+CHF
+ZENTRAL UND RUHIG
+Adresse auf Anfrage, 6343 Rotkreuz
+Array
+4.5 Zimmer
+107 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+107 m2
+Sie suchen eine zentrale und dennoch ruhige Wohnung? Dann ist dieses Objekt genau das Richtige für …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterägeri
+715'000
+CHF
+Sehr helle, grosszügige 3.5 Zi. Wohnung…
+Unterägeri, 6314 Unterägeri
+Array
+3.5 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+81 m2
+Diese Wohnung ist perfekt geeignet für Singles und Paare die eine ruhige Wohnlage im steuergünstige…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Langmattstrasse 6a
 1'290'000
 CHF
 4.5 Zimmer - Eigentumswohnung im Zentru…
-Adresse auf Anfrage, 6343 Rotkreuz
+Langmattstrasse 6a, 6343 Rotkreuz
 Array
 4.5 Zimmer
 100 m2
@@ -187,336 +418,49 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Heimatstrasse 13
-Preis auf Anfrage
-Neubau: Studio mit Aussensitzplatz an z…
-Heimatstrasse 13, 6340 Baar
-Array
-1 Zimmer
-10 m2
-Objekttyp
-Wohnung, Loft
-Zimmer
-1
-Wohnfläche
-10 m2
-Etage
-Der Neubau 2019 mit sechs Kleinwohnungen und Studios ist optimal gelegen für urbane Einzelpersonen.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Heimatstrasse 13
-Preis auf Anfrage
-Neubau: Studio mit Gartensitzplatz an z…
-Heimatstrasse 13, 6340 Baar
-Array
-1 Zimmer
-12 m2
-Objekttyp
-Wohnung, Loft
-Zimmer
-1
-Wohnfläche
-12 m2
-Etage
-Der Neubau 2019 mit sechs Kleinwohnungen und Studios ist optimal gelegen für urbane Einzelpersonen.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfmatt
-1'490'000
+Steinhausen
+2'200'000
 CHF
-RUHIG UND ZENTRAL
-Dorfmatt, 6319 Allenwinden
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-120 m2
-An ruhiger und doch zentraler Lage lockt diese gepflegte 4.5-Zimmer-Wohnung mit grossem Garten und …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blasenbergstrasse 18
-Preis auf Anfrage
-Letze 4.5 Zimmer Wohnung im Projekt Röt…
-Blasenbergstrasse 18, 6300 Zug
-Array
-4.5 Zimmer
-174 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-174 m2
-Wohnen am schönsten Ort in Zug - RötelbergInmitten einer herrlichen, unverbaubaren Landschaft thron…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'390'000
-CHF
-NEUBAUWOHNUNGEN - MAIHOF RESIDENZEN: Mo…
-Adresse auf Anfrage, 6331 Hünenberg
-Array
-4.5 Zimmer
-172 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-172 m2
-Etage
-Neubau MAIHOF RESIDENZEN: Traumhafte und grosszügige 4.5 Zimmer Gartenwohnung mit grossem Sitzplatz…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfring
-860'000
-CHF
-3.5-Zimmer-Eigentumswohnung - beste Lag…
-Dorfring, 6340 Baar
-Array
-3.5 Zimmer
-92 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-92 m2
-Etage
-Gemütlich und gut eingeteilte Eigentumswohnung, eingebettet in einem beliebten, ruhigen (parkähnlic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Maihofweg
-1'980'000
-CHF
-5.5 Zi Dach-Maisonette mit 180° Panoram…
-Maihofweg, 6331 Hünenberg
-Array
-5.5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-5.5
-Wohnfläche
-160 m2
-Etage
-5.5 Zimmer Dach-Maisonette Wohnung / 5.5 Rooms Roof-Maisonette ApartmentBeschrieb / Description…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blasenbergstrasse 18
-Preis auf Anfrage
-Pure Lebensqualität - 3.5 Zimmer Appart…
-Blasenbergstrasse 18, 6300 Zug
-Array
-3.5 Zimmer
-155 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-155 m2
-Wohnen am schönsten Ort in Zug - RötelbergInmitten einer herrlichen, unverbaubaren Landschaft thron…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Räbmatt 32
-2'580'000
-CHF
-5.5-Zi.-Attika inkl. Gartenstudio an un…
-Räbmatt 32, 6317 Oberwil b. Zug
-Array
-5.5 Zimmer
-170 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-170 m2
-Rarität in Oberwil / Zug: An herrlicher, unverbaubarer Süd-West-Aussichtslage mit Blick auf den Zug…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chamerstrasse 24
-2'380'000
-CHF
-Charmante Gartenwohnung im Zentrum von …
-Chamerstrasse 24, 6300 Zug
-Array
-4.5 Zimmer
-133 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-133 m2
-Eine Oase mitten in ZugNur wenige Gehminuten vom Stadtzentrum und Bahnof entfernt verkaufen wir die…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hof Himmelrich
-Preis auf Anfrage
-4.5-Zimmer Familienwohnung
-Hof Himmelrich, 6340 Baar
-Array
-4.5 Zimmer
-117 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-117 m2
-Etage
-An ruhiger, sonniger und sehr kinderfreundlicher Lage im bevorzugten Hof Himmelrich-Quartier, Nähe …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-SONNIGE LAGE MIT PANORAMASICHT UND INDO…
-Adresse auf Anfrage, 6313 Menzingen
-Array
-6.5 Zimmer
-220 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-220 m2
-Hier zu wohnen und zu arbeiten ist wunderschön. Die offene Landschaft verbreitet Harmonie, auch mit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rigistrasse 2
-2'330'000
-CHF
-Loftartige 6.5-Zimmer-Wohnung
-Rigistrasse 2, 6312 Steinhausen
-Array
-6.5 Zimmer
-232 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-6.5
-Wohnfläche
-232 m2
-Etage
-Hier lässt es sich wohnen!Die Wohnung liegt im wachsenden Quartier südlich des Schlossbergs. Der Ba…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'600'000
-CHF
-Rohdiamant sucht Anschliff
-Adresse auf Anfrage, 6319 Allenwinden
+Seltene Gelegenheit in Zug
+Steinhausen, 6312 Steinhausen
 Array
 7.5 Zimmer
 190 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Flach
 Zimmer
 7.5
 Wohnfläche
 190 m2
-Etage
-Verwirklichen Sie hier Ihren Traum vom Eigenheim. Das gepflegte und sehr grosszügige Einfamilienhau…
+Dieses Schmuckstück ist Ideal für Homeoffice geeignet und liegt in parkähnlicher Umgebung eingebett…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Luzernerstrasse 8
-Preis auf Anfrage
-AgentSelly - Schlichte Eleganz und hoch…
-Luzernerstrasse 8, 6343 Rotkreuz
-Array
-5.5 Zimmer
-137 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-137 m2
-An zentraler Lage mitten in Rotkreuz verkaufen wir Ihnen diese Wohnung mit gehobenem Ausbaustandard…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Musterstrasse 123
-1'420'000
+Alte Landstrasse 172B
+1'730'000
 CHF
-Tauschobjekt 2.5 Zi-Parterrewohnung in …
-Musterstrasse 123, 6317 Oberwil b. Zug
+Schönes Reiheneinfamilienhaus
+Alte Landstrasse 172B, 6314 Unterägeri
 Array
-2.5 Zimmer
-82 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-82 m2
-Etage
-Es handelt sich um eine schöne 2.5 Zimmer Wohnung mit schönem Garten.Der Eigentümer dieser Immobili…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Musterstrasse 122
-1'850'000
-CHF
-5.5 Zi Reihenmittelhaus (Tauschobjekt)
-Musterstrasse 122, 6340 Baar
-Array
-5.5 Zimmer
-160 m2
+7.5 Zimmer
+164 m2
 Objekttyp
 Wohnung, Reihenfamilienhaus
 Zimmer
-5.5
+7.5
 Wohnfläche
-160 m2
-Es handelt sich um ein schönes 5.5 Zimmer Reihenmittelhaus mit Giebeldach, Kellergeschoss und schön…
+164 m2
+Das Reiheneinfamilienhaus in der Wohnüberbauung Prowoba bietet folgende Vorzüge: Untergeschoss (ren…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Musterstrasse 121
-1'750'000
+Adresse auf Anfrage
+2'980'000
 CHF
-Tauschobjekt 4.5 Zimmerwohnung
-Musterstrasse 121, 6315 Oberägeri
+Moderne, grosszügige Stadtwohnung
+Adresse auf Anfrage, 6300 Zug
 Array
 4.5 Zimmer
 163 m2
@@ -526,7 +470,62 @@ Zimmer
 4.5
 Wohnfläche
 163 m2
-Es handelt sich um eine schöne Etagenwohnung mit traumhafter Sicht auf den Aegerisee und die Berge.…
+Zug City - Moderne, grosszügige 4.5 Zimmer Wohnung an zentraler Lage. Die Wohnung befindet sich im …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'090'000
+CHF
+Terrassenwohnung am Zugerberg
+Adresse auf Anfrage, 6300 Zug
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Die Wohnung liegt an ausgezeichneter Wohnlage in einem attraktiven und familienfreundlichen Quartie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Exklusives 400 m² Designer-Haus
+Adresse auf Anfrage, 6319 Allenwinden
+Array
+10 Zimmer
+404 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+10
+Wohnfläche
+404 m2
+Etage
+Das gross­zü­gig kon­zi­pierte 10-Zimmer-Desi­gner-Haus eignet sich für Home Office Nut­zung und bi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 56
+1'800'000
+CHF
+Moderne 3.5-Zimmer-Gartenwohnung mit wu…
+Hauptstrasse 56, 6315 Oberägeri
+Array
+3.5 Zimmer
+104 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+104 m2
+Etage
+Moderne Eigentumswohnungen auf Augenhöhe mit der Natur und dem Ägerisee zu FüssenDas Neubauprojekt …
 Teilen
 E-Mail
 Facebook

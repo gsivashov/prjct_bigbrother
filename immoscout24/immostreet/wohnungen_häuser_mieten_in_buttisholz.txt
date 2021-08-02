@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-buttisholz/
 Title: Wohnungen & Häuser mieten in Buttisholz - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Buttisholz - Immostreet.ch: ImmoStreet.ch hat 10 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Buttisholz - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-10 Resultate gefunden ·
+7 Resultate gefunden ·
 Wohnungen & Häuser mieten in Buttisholz
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,22 +122,19 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-1'690
+Banschimatt 13
+1'490
 CHF
 /Monat
-SONNIGER BALKON AN GUTER LAGE
-Adresse auf Anfrage, 6018 Buttisholz
+Familienwohnung
+Banschimatt 13, 6018 Buttisholz
 Array
 4.5 Zimmer
-110 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Wohnfläche
-110 m2
-Die Wohnung befindet sich in einem sehr gepflegten Mehrfamilienhaus an der Ortseinfahrt von Buttish…
+grosszügige Wohnung zu vermietenGanze Wohnung Laminat- und Plattenböden, grosses Wohnzimmer, Bad/WC…
 Teilen
 E-Mail
 Facebook
@@ -162,100 +159,23 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Banschimatt 13
-1'490
+Mülacher 3
+1'330
 CHF
 /Monat
-Familienwohnung
-Banschimatt 13, 6018 Buttisholz
+Erstbezug 2.5-Zimmer Wohnung mit toller…
+Mülacher 3, 6018 Buttisholz
 Array
-4.5 Zimmer
+2.5 Zimmer
+56 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
-grosszügige Wohnung zu vermietenGanze Wohnung Laminat- und Plattenböden, grosses Wohnzimmer, Bad/WC…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unter-Allmend 10
-2'940
-CHF
-/Monat
-MODERN MIT EINZIGARTIGEM AUSBLICK
-Unter-Allmend 10, 6018 Buttisholz
-Array
-6.5 Zimmer
-200 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-6.5
+2.5
 Wohnfläche
-200 m2
-Diese schöne Dachwohnung eignet sich hervorragend für ein Paar oder eine Familie. Sie überzeugt mit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unter-Allmend 10
-2'940
-CHF
-/Monat
-Beschrieb / Lage
-Unter-Allmend 10, 6018 Buttisholz
-Array
-6.5 Zimmer
-200 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-6.5
-Wohnfläche
-200 m2
+56 m2
 Etage
-Im Preis inbegriffen sind zwei grosse Einstellhallenplätze die zusätzlich auch für ein Moto…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorf 31
-2'200
-CHF
-/Monat
-Neues Zuhause im Herzen von Buttisholz
-Dorf 31, 6018 Buttisholz
-Array
-3.5 Zimmer
-107 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-107 m2
-Dann sind Sie im «Rosenhof» genau richtig. Das im 2019 fertiggestellte Wohnhaus überzeugt mit ihrer…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bösgass 45
-1'720
-CHF
-/Monat
-3.5 Zimmer Wohnung Büntmätteli (C24)
-Bösgass 45, 6018 Buttisholz
-Array
-3.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-88 m2
-Die Korporation Buttisholz erstellt auf der Parzelle Büntmätteli in zwei Etappen drei Mehrfamilienh…
+Die moderne, praktische und helle Wohnung besteht aus Wohn-/Ess-Zimmer und einem zweiten Zimmer. Si…
 Teilen
 E-Mail
 Facebook
@@ -280,16 +200,22 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Arigstrasse 19A
-110
+Arigstrasse 19b
+1'840
 CHF
 /Monat
-Einstellhallenplatz
-Arigstrasse 19A, 6018 Buttisholz
+ländlich, ruhig und doch zentral
+Arigstrasse 19b, 6018 Buttisholz
 Array
+4.5 Zimmer
+114 m2
 Objekttyp
-Offener Parkplatz
-Hier lässt es sich parkenDie Einstellhalle befindet sich unweit des Zentrums von Buttisholz. Der Zu…
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+114 m2
+Hier lässt es sich wohnenDie Arigstrasse 19 befindet sich in einem ruhigen Wohnquartier, ländlich u…
 Teilen
 E-Mail
 Facebook
@@ -298,12 +224,32 @@ Oberdorf 5
 770
 CHF
 /Monat
-Büro-, Praxis- oder Schulungsräume in h…
+STARTUP Aktion: Büro-, Praxis- oder Sch…
 Oberdorf 5, 6018 Buttisholz
 Array
 Objekttyp
 Büro
-Charmante Büro-, PraxisräumeZu vermieten 55 bis 125 m2  Büro-/Praxisräume in der historischen und c…
+Charmante Büro-, PraxisräumeZu vermieten Büro-/Praxisräume in der historischen und charmanten Mühle…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorf 31
+2'200
+CHF
+/Monat
+Neues Zuhause im Herzen von Buttisholz?
+Dorf 31, 6018 Buttisholz
+Array
+3.5 Zimmer
+107 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+107 m2
+Dann sind Sie im «Rosenhof» genau richtig. Das im 2019 fertiggestellte Wohnhaus überzeugt mit ihrer…
 Teilen
 E-Mail
 Facebook

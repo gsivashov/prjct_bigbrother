@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/kanton-nidwalden/
 Title: Wohnung kaufen in Kanton Nidwalden - Immostreet.ch
-Description: Wohnung kaufen in Kanton Nidwalden - Immostreet.ch: ImmoStreet.ch hat 39 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Kanton Nidwalden - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-39 Resultate gefunden ·
+32 Resultate gefunden ·
 Wohnung kaufen in Kanton Nidwalden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,20 +134,150 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Allmendlistrasse
-1'590'000
+Adresse auf Anfrage
+1'600'000
 CHF
-Exklusive Neubau-Wohnung
-Allmendlistrasse, 6052 Hergiswil NW
+Beneidenswerter Ausblick
+Adresse auf Anfrage, 6373 Ennetbürgen
+Array
+3.5 Zimmer
+104 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+104 m2
+An erhöhter Aussichtslage am Fusse des Bürgenstocks liegt diese stilvolle 3.5 Zimmer-Attikawohnung.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+880'000
+CHF
+Wunderschöne 3.5 Zimmer-WHG an ruhiger …
+Adresse auf Anfrage, 6370 Stans
+Array
+3.5 Zimmer
+103 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+103 m2
+Diese wunderschöne 3.5 Zimmer-Eigentumswohnung mit Privatsphäre befindet sich an sehr guter Lage im…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Acheregg 1
+Preis auf Anfrage
+Wohnen am See - Meer geht nicht!
+Acheregg 1, 6362 Stansstad
+Array
+3.5 Zimmer
+127 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+127 m2
+Etage
+Haben Sie noch Wünsche? Wohnen – Arbeiten – Steuern sparen – Privacy – Architektur – Justus Dahinde…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Engelbergstrasse
+Preis auf Anfrage
+Die schönste Dachwohnung von Stans!
+Engelbergstrasse, 6370 Stans
+Array
+181 m2
+Objekttyp
+Wohnung, Flach
+Wohnfläche
+181 m2
+Diese Wohnung ist kaum in Worte zu fassen und hat auf rund 181 m2 Wohnfläche unglaublich viel zu bi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Talstrasse
+950'000
+CHF
+Viel Platz * Garten * Sonnig
+Talstrasse, 6372 Ennetmoos
 Array
 4.5 Zimmer
-132 m2
+135 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-132 m2
+135 m2
+Ennetmoos liegt etwas erhöht über Stans, zwischen dem Stanserhorn und dem Vierwaldstättersee. Die G…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Talstrasse 1D
+695'000
+CHF
+Neue Gartenwohnung * Attraktiv * Sonnig
+Talstrasse 1D, 6372 Ennetmoos
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Ennetmoos liegt etwas erhöht über Stans, zwischen dem Stanserhorn und dem Vierwaldstättersee. Die G…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hirsacher
+840'000
+CHF
+Hirsacher - modernes Wohngefühl geniess…
+Hirsacher, 6373 Ennetbürgen
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Etage
+Hier lässt es sich wohnenHIRSACHER steht für zentrales Wohnen und natürliches Leben. Am Ennetbürger…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Allmendlistrasse
+795'000
+CHF
+Neubau 2.5-Zimmer-Wohnung
+Allmendlistrasse, 6052 Hergiswil NW
+Array
+2.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+77 m2
 Am Steinibach in HergiswilHier "Am Steinibach" wohnen Sie leicht erhöht, am Fusse des sagenumwobene…
 Teilen
 E-Mail
@@ -172,79 +302,40 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Allmendlistrasse
-795'000
+Adresse auf Anfrage
+785'000
 CHF
-Neubau 2.5-Zimmer-Wohnung
-Allmendlistrasse, 6052 Hergiswil NW
+Grosse Familienwohnung mit Aussicht in …
+Adresse auf Anfrage, 6373 Ennetbürgen
 Array
-2.5 Zimmer
-77 m2
+4.5 Zimmer
+105 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+4.5
 Wohnfläche
-77 m2
-Am Steinibach in HergiswilHier "Am Steinibach" wohnen Sie leicht erhöht, am Fusse des sagenumwobene…
+105 m2
+Diese sehr gepflegte und gemütliche Wohnung bietet alles, was man sich von seinem neuen Zuhause wün…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'170'000
+Schöneckstrasse 1
+760'000
 CHF
-Viel Sonnenschein in Ihrem Gartenparadi…
-Adresse auf Anfrage, 6052 Hergiswil NW
+3.5 Zimmer-Gartenwohnung an traumhafter…
+Schöneckstrasse 1, 6376 Emmetten
 Array
 3.5 Zimmer
-101 m2
+85 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-101 m2
-Am Steinibach in HergiswilHier "Am Steinibach" wohnen Sie leicht erhöht, am Fusse des sagenumwobene…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'700'000
-CHF
-Penthouse Raum Stans 200m2, Terrasse 15…
-Adresse auf Anfrage, 6370 Stans
-Array
-5.5 Zimmer
-200 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-200 m2
-5,5 Zimmer Penthouse / komplettes Stockwerk für Sie allein / wohnen wie in einem Einfamilienhaus/ …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rosenweg 2
-1'590'000
-CHF
-Elegante 6 1/2 Zimmer Loftwohnung in He…
-Rosenweg 2, 6052 Hergiswil NW
-Array
-6 Zimmer
-144 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-6
-Wohnfläche
-144 m2
-Etage
-Die Wohnung auf einen Blick2 separate moderne Badzimmer (1 auf jeder Etage)Wasch W…
+85 m2
+Ankommen und abschalten! An exklusiver und ruhiger Lage über dem Vierwaldstättersee verkaufen wir d…
 Teilen
 E-Mail
 Facebook
@@ -410,25 +501,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-785'000
-CHF
-Familienwohnung in kinderfreundlichem Q…
-Adresse auf Anfrage, 6373 Ennetbürgen
-Array
-4.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-105 m2
-Diese ideale Familienwohnung bietet alles, was man sich von seinem Zuhause wünscht: gut geschnitten…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Ischenstrasse 3E
 880'000
 CHF
@@ -444,83 +516,6 @@ Zimmer
 Wohnfläche
 166 m2
 Ski-in, Ski-out in Emmetten! An zentraler Lage, gleich oberhalb der Gondelbahn Emmetten-Stockhütte,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Baumgarten 2
-1'390'000
-CHF
-Einfach schön...
-Baumgarten 2, 6373 Ennetbürgen
-Array
-5.5 Zimmer
-140 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-140 m2
-Erleben Sie eine ganz besondere Wohnung an einer der schönsten Aussichtslagen am Südhang des Bürgen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seeplatz 3
-420'000
-CHF
-Maisonettewohnung mit wunderschöner Sic…
-Seeplatz 3, 6374 Buochs
-Array
-2.5 Zimmer
-66 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-2.5
-Wohnfläche
-66 m2
-Wir verkaufen Maisonettewohnung mit 2,5 Zimmern und herrlichem Blick auf den Vierwaldstättersee.Das…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Acheregg 1
-1'595'000
-CHF
-Wohnen am See mit traumhafter Aussicht …
-Acheregg 1, 6362 Stansstad
-Array
-3.5 Zimmer
-107 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-107 m2
-Etage
-Auf der Suche nach dem ganz Besonderen? Das haben wir nämlich gefunden, und zwar direkt am Vierwald…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-955'000
-CHF
-Top Neubau-Wohnung mit Panoramablick
-Adresse auf Anfrage, 6387 Oberrickenbach
-Array
-4.5 Zimmer
-135 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-135 m2
-Neubauwohnungen an herrlicher Lage suchen ihren Besitzer. Sie können jetzt noch wählen ob es 3.5 Zi…
 Teilen
 E-Mail
 Facebook

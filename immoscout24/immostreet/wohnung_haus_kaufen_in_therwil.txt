@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/in-therwil/
 Title: Wohnung & Haus kaufen in Therwil - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Therwil - Immostreet.ch: ImmoStreet.ch hat 12 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Therwil - Immostreet.ch: ImmoStreet.ch hat 10 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-12 Resultate gefunden ·
+10 Resultate gefunden ·
 Wohnung & Haus kaufen in Therwil
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Rüchiweg 44
+1'190'000
+CHF
+Neuwertiges 5½ Zi.-Reihenfamilienhaus a…
+Rüchiweg 44, 4106 Therwil
+Array
+5.5 Zimmer
+103 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+103 m2
+Etage
+An beliebter Wohnlage in Therwil befindet sich dieses neuwertige Reihenfamilienhaus mit Baujahr 201…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Stefanstrasse 11
 1'020'000
 CHF
@@ -171,75 +191,60 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Im Gugger 2
-1'270'000
+Birkenstrasse 1a
+1'120'000
 CHF
-5.5-Zimmer Eck-Einfamilienhaus an famil…
-Im Gugger 2, 4106 Therwil
+Sonnenverwöhnte 5½ Zi.-Dachwohnung mit …
+Birkenstrasse 1a, 4106 Therwil
 Array
 5.5 Zimmer
-143 m2
+157 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Dachwohnung
 Zimmer
 5.5
 Wohnfläche
-143 m2
-An sehr schöner, familienfreundlicher Lage Im Gugger in Therwil ? direkt angrenzend an die grossen …
+157 m2
+In Therwil an beliebter Wohnlage befindet sich diese lichtdurchflutete und gepflegte 5½ Zi.-Dachwoh…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Fichtenrain 94
 Preis auf Anfrage
-Schöne, grosszügige 145qm - Geschosswoh…
+Gartenwohnung mit atemberaubender Aussi…
 Fichtenrain 94, 4106 Therwil
 Array
-4.5 Zimmer
-145 m2
+5.5 Zimmer
+202 m2
 Objekttyp
 Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+202 m2
+Ein Leben zwischen der Hektik des Alltags und der Ruhe der Natur.
+Wohnen Sie gerne ruhig und doch …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Wilacker 18
+849'000
+CHF
+4 1/2-Zimmer Dachwohnung mit herrlicher…
+Im Wilacker 18, 4106 Therwil
+Array
+4.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Dachwohnung
 Zimmer
 4.5
 Wohnfläche
-145 m2
-Ein Leben zwischen der Hektik des Alltags und der Ruhe der Natur.
-Wohnen Sie gerne ruhig und doch …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fichtenrain 94
-Preis auf Anfrage
-Grosszügige 202qm - Gartenwohnung mit n…
-Fichtenrain 94, 4106 Therwil
-Array
-5.5 Zimmer
-202 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-202 m2
-Ein Leben zwischen der Hektik des Alltags und der Ruhe der Natur.
-Wohnen Sie gerne ruhig und doch …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-790'000
-CHF
-ATTRAKTIVE ATTIKAMAISONETTE
-Adresse auf Anfrage, 4106 Therwil
-Array
-103 m2
-Objekttyp
-Wohnung, Duplex
-Wohnfläche
-103 m2
-Attika und Maisonette - eine gute Kombination. Genau so eine Wohnung verkaufen wir im beliebten The…
+86 m2
+Etage
+Objekt: 4 1/2-Zimmer-Dachwohnung ca. 86 m2 im Dachgeschoss zusätzlich Balkon ca. 10 m2 und Autoabst…
 Teilen
 E-Mail
 Facebook
@@ -264,21 +269,37 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-950'000
+Im Gugger 2
+1'270'000
 CHF
-EINZIEHEN UND SICH WOHL FÜHLEN
+RESERVIERT | 5.5-Zimmer Eck-Einfamilien…
+Im Gugger 2, 4106 Therwil
+Array
+5.5 Zimmer
+143 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+143 m2
+An sehr schöner, familienfreundlicher Lage Im Gugger in Therwil ? direkt angrenzend an die grossen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+790'000
+CHF
+ATTRAKTIVE ATTIKAMAISONETTE
 Adresse auf Anfrage, 4106 Therwil
 Array
-4.5 Zimmer
-110 m2
+103 m2
 Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-4.5
+Wohnung, Duplex
 Wohnfläche
-110 m2
-Dieses heimelige Reiheneckhaus befindet sich an zentraler und familienfreundlicher Lage in Therwil.…
+103 m2
+Attika und Maisonette - eine gute Kombination. Genau so eine Wohnung verkaufen wir im beliebten The…
 Teilen
 E-Mail
 Facebook
@@ -317,66 +338,6 @@ Zimmer
 Wohnfläche
 218 m2
 Sie suchen das Besondere? Dieses grosszügig konzipierte Doppeleinfamilienhaus besticht durch seinen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rüchiweg 44
-1'290'000
-CHF
-Neuwertiges 5½ Zi.-Reihenfamilienhaus a…
-Rüchiweg 44, 4106 Therwil
-Array
-5.5 Zimmer
-103 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-103 m2
-Etage
-An beliebter Wohnlage in Therwil befindet sich dieses neuwertige Reihenfamilienhaus mit Baujahr 201…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bienenweg 26
-1'750'000
-CHF
-Neubauprojekt Therwil: Traumhafte Maiso…
-Bienenweg 26, 4106 Therwil
-Array
-4.5 Zimmer
-126 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-126 m2
-Etage
-WohnungsbeschriebAn ruhiger Lage in Therwil entstehen am Bienenweg 26 neue, hochwertige Eigentumswo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bienenweg 26
-2'150'000
-CHF
-Neubauprojekt Therwil, grosszügige Mais…
-Bienenweg 26, 4106 Therwil
-Array
-5.5 Zimmer
-182 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-182 m2
-Etage
-Einzigartige Maisonette-Gartenwohnung; optional als Einliegerwohnung nutzbar oder ideal für eine gr…
 Teilen
 E-Mail
 Facebook

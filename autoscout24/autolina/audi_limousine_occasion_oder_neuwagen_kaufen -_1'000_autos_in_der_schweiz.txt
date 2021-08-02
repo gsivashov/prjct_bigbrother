@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -101,7 +101,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -154,216 +154,50 @@ TI
 WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
+NEU
 AUDI
-A1 Sportback 2.0 40 TFSI S Line S-Tronic
-CHF 33'000
-ab CHF 355/Monat
-06.2019
+RS3 Limousine 2.5 T FSI quattro S-Tronic
+CHF 58'000
+ab CHF 623/Monat
+07.2019
 Automat
-56'000 km
+30'000 km
 Benzin
-Vorderradantrieb
-grün
-200 PS
-VD
-Merken
-AUDI
-A1 Sportback 2.0 40 TFSI S Line S...
-06.2019
-200 PS
-56'000 km
-CHF 33'000
-Merken
-ab CHF 355/Monat
-AUDI
-A5 Sportback 2.0 TDI 190 quattro S-Tronic
-CHF 20'900
-ab CHF 225/Monat
-10.2014
-Automat
-114'000 km
-Diesel
 Allradantrieb
 schwarz
-190 PS
-ZH
-Merken
-AUDI
-A5 Sportback 2.0 TDI 190 quattro ...
-10.2014
-190 PS
-114'000 km
-CHF 20'900
-Merken
-ab CHF 225/Monat
-AUDI
-A6 3.0 V6 TFSI Ambiente q.S-Tr.
-CHF 18'000
-ab CHF 194/Monat
-07.2012
-Automat
-145'800 km
-Benzin
-Allradantrieb
-anthrazit
-300 PS
-ZH
-Merken
-AUDI
-A6 3.0 V6 TFSI Ambiente q.S-Tr.
-07.2012
-300 PS
-145'800 km
-CHF 18'000
-Merken
-ab CHF 194/Monat
-AUDI
-A3 Sportback 1.8 16V T FSI Attraction quat.
-CHF 11'900
-ab CHF 134/Monat
-05.2011
-Handschaltung
-130'000 km
-Benzin
-Allradantrieb
-grau
-160 PS
-FR
-Merken
-AUDI
-A3 Sportback 1.8 16V T FSI Attrac...
-05.2011
-160 PS
-130'000 km
-CHF 11'900
-Merken
-ab CHF 134/Monat
-AUDI
-A5 Sportback 2.0 TFSI quattro S-Tronic
-CHF 15'000
-ab CHF 162/Monat
-07.2011
-Automat
-94'000 km
-Benzin
-Allradantrieb
-silber
-211 PS
+400 PS
 VD
 Merken
 AUDI
-A5 Sportback 2.0 TFSI quattro S-T...
-07.2011
-211 PS
-94'000 km
-CHF 15'000
+RS3 Limousine 2.5 T FSI quattro S...
+07.2019
+400 PS
+30'000 km
+CHF 58'000
 Merken
-ab CHF 162/Monat
+ab CHF 623/Monat
+NEU
 AUDI
-S6 4.0 V8 TFSI quattro S-Tronic
-CHF 50'000
-ab CHF 537/Monat
-06.2012
-Automat
-133'000 km
+A1 Sportback 1.4 TFSI COD
+CHF 17'000
+ab CHF 183/Monat
+10.2015
+Handschaltung
+11'000 km
 Benzin
-Allradantrieb
-weiss
-420 PS
+Vorderradantrieb
+schwarz
+150 PS
 VS
 Merken
 AUDI
-S6 4.0 V8 TFSI quattro S-Tronic
-06.2012
-420 PS
-133'000 km
-CHF 50'000
+A1 Sportback 1.4 TFSI COD
+10.2015
+150 PS
+11'000 km
+CHF 17'000
 Merken
-ab CHF 537/Monat
-AUDI
-S3 Sportback 2.0 T FSI quattro S-Tronic
-CHF 29'850
-ab CHF 321/Monat
-07.2015
-Automat
-180'000 km
-Benzin
-Allradantrieb
-grau
-300 PS
-GE
-Merken
-AUDI
-S3 Sportback 2.0 T FSI quattro S-...
-07.2015
-300 PS
-180'000 km
-CHF 29'850
-Merken
-ab CHF 321/Monat
-AUDI
-S3 2.0 T FSI quattro
-CHF 15'800
-ab CHF 170/Monat
-07.2011
-Handschaltung
-120'000 km
-Benzin
-Allradantrieb
-weiss
-265 PS
-GE
-Merken
-AUDI
-S3 2.0 T FSI quattro
-07.2011
-265 PS
-120'000 km
-CHF 15'800
-Merken
-ab CHF 170/Monat
-AUDI
-A5 Sportback 3.0 V6 TDI M-Tronic
-CHF 18'500
-ab CHF 199/Monat
-07.2013
-Automat
-155'000 km
-Diesel
-Vorderradantrieb
-schwarz
-204 PS
-VD
-Merken
-AUDI
-A5 Sportback 3.0 V6 TDI M-Tronic
-07.2013
-204 PS
-155'000 km
-CHF 18'500
-Merken
-ab CHF 199/Monat
-AUDI
-A5 Sportback 3.0 V6 TDI quattro T-Tronic
-CHF 37'000
-ab CHF 398/Monat
-12.2017
-Automat
-66'000 km
-Diesel
-Allradantrieb
-grau
-286 PS
-VD
-Merken
-AUDI
-A5 Sportback 3.0 V6 TDI quattro T...
-12.2017
-286 PS
-66'000 km
-CHF 37'000
-Merken
-ab CHF 398/Monat
+ab CHF 183/Monat
 AUDI
 A5 Sportback 2.0 TDI quattro S-Tronic
 CHF 36'500
@@ -385,94 +219,258 @@ A5 Sportback 2.0 TDI quattro S-Tr...
 CHF 36'500
 Merken
 ab CHF 392/Monat
-NEU
 AUDI
-A7 Sportback 3.0 TDI multitronic
-CHF 18'800
-ab CHF 202/Monat
-04.2011
+A6 2.0 TDI 190 S-Tronic
+CHF 29'000
+ab CHF 312/Monat
+07.2016
 Automat
-183'000 km
+40'000 km
 Diesel
 Vorderradantrieb
-schwarz
-204 PS
-BE
-Merken
-AUDI
-A7 Sportback 3.0 TDI multitronic
-04.2011
-204 PS
-183'000 km
-CHF 18'800
-Merken
-ab CHF 202/Monat
-NEU
-AUDI
-A3 SB 35 TFSI advanced
-CHF 31'990
-ab CHF 344/Monat
-08.2020
-Automat
-12'300 km
-Benzin
-Vorderradantrieb
-schwarz
-150 PS
-BL
-Merken
-AUDI
-A3 SB 35 TFSI advanced
-08.2020
-150 PS
-12'300 km
-CHF 31'990
-Merken
-ab CHF 344/Monat
-NEU
-AUDI
-A3 Sportback 1.4 e-tron Sport S-tronic
-CHF 22'950
-ab CHF 247/Monat
-11.2016
-Automat
-43'000 km
-Plug-in-Hybrid Benzin/Elektro
-Vorderradantrieb
-schwarz
-150 PS
-SZ
-Merken
-AUDI
-A3 Sportback 1.4 e-tron Sport S-t...
-11.2016
-150 PS
-43'000 km
-CHF 22'950
-Merken
-ab CHF 247/Monat
-NEU
-AUDI
-A3 Sportback 35 TFSI Attraction
-CHF 37'900
-ab CHF 408/Monat
--
-Automat
-10 km
-Benzin
-Vorderradantrieb
 weiss
+190 PS
+FR
+Merken
+AUDI
+A6 2.0 TDI 190 S-Tronic
+07.2016
+190 PS
+40'000 km
+CHF 29'000
+Merken
+ab CHF 312/Monat
+AUDI
+RS3 Sportback 2.5 T FSI quattro S-Tronic
+CHF 35'000
+ab CHF 376/Monat
+06.2015
+Automat
+117'000 km
+Benzin
+Allradantrieb
+grau
+367 PS
+VD
+Merken
+AUDI
+RS3 Sportback 2.5 T FSI quattro S...
+06.2015
+367 PS
+117'000 km
+CHF 35'000
+Merken
+ab CHF 376/Monat
+AUDI
+A3 Sportback 35 TFSI advanced Attraction S-tronic
+CHF 31'500
+ab CHF 339/Monat
+08.2020
+Automat
+15'000 km
+Benzin
+Vorderradantrieb
+silber
 150 PS
 ZH
 Merken
 AUDI
-A3 Sportback 35 TFSI Attraction
--
+A3 Sportback 35 TFSI advanced Att...
+08.2020
 150 PS
-10 km
-CHF 37'900
+15'000 km
+CHF 31'500
 Merken
-ab CHF 408/Monat
+ab CHF 339/Monat
+AUDI
+A6 50 TDi Sport quattro
+CHF 47'800
+ab CHF 514/Monat
+08.2018
+Automat
+19'000 km
+Mild-Hybrid Diesel/Elektro
+Allradantrieb
+schwarz
+286 PS
+ZH
+Merken
+AUDI
+A6 50 TDi Sport quattro
+08.2018
+286 PS
+19'000 km
+CHF 47'800
+Merken
+ab CHF 514/Monat
+AUDI
+A3 Sportback 1.4 T FSI ultra Ambition S-Tr
+CHF 24'000
+ab CHF 258/Monat
+07.2016
+Automat
+57'000 km
+Benzin
+Vorderradantrieb
+weiss
+150 PS
+GE
+Merken
+AUDI
+A3 Sportback 1.4 T FSI ultra Ambi...
+07.2016
+150 PS
+57'000 km
+CHF 24'000
+Merken
+ab CHF 258/Monat
+AUDI
+A3 Sportback 40 TFSI e S line S-tronic
+CHF 44'900
+ab CHF 483/Monat
+-
+Automat
+50 km
+Plug-in-Hybrid Benzin/Elektro
+Vorderradantrieb
+blau
+204 PS
+ZH
+Merken
+AUDI
+A3 Sportback 40 TFSI e S line S-t...
+-
+204 PS
+50 km
+CHF 44'900
+Merken
+ab CHF 483/Monat
+AUDI
+A3 Sportback 40 TFSI e S line S-tronic
+CHF 44'900
+ab CHF 483/Monat
+-
+Automat
+50 km
+Plug-in-Hybrid Benzin/Elektro
+Vorderradantrieb
+rot
+204 PS
+ZH
+Merken
+AUDI
+A3 Sportback 40 TFSI e S line S-t...
+-
+204 PS
+50 km
+CHF 44'900
+Merken
+ab CHF 483/Monat
+AUDI
+A6 3.0 V6 TDI 272 quattro S-Tr.
+CHF 33'500
+ab CHF 360/Monat
+10.2015
+Automat
+96'000 km
+Diesel
+-
+schwarz
+272 PS
+ZH
+Merken
+AUDI
+A6 3.0 V6 TDI 272 quattro S-Tr.
+10.2015
+272 PS
+96'000 km
+CHF 33'500
+Merken
+ab CHF 360/Monat
+AUDI
+S3 1.8 20V Turbo 210 quattro
+CHF 5'600
+ab CHF 64/Monat
+07.2001
+Handschaltung
+200'000 km
+Benzin
+Allradantrieb
+grau
+210 PS
+JU
+Merken
+AUDI
+S3 1.8 20V Turbo 210 quattro
+07.2001
+210 PS
+200'000 km
+CHF 5'600
+Merken
+ab CHF 64/Monat
+AUDI
+A3 Sportback 1.8 16V T FSI Ambition
+CHF 5'500
+ab CHF 62/Monat
+05.2010
+Handschaltung
+197'000 km
+Benzin
+Vorderradantrieb
+anthrazit
+160 PS
+LU
+Merken
+AUDI
+A3 Sportback 1.8 16V T FSI Ambiti...
+05.2010
+160 PS
+197'000 km
+CHF 5'500
+Merken
+ab CHF 62/Monat
+AUDI
+A3 Sportback 1.4 T FSI S-Tronic
+CHF 26'500
+ab CHF 285/Monat
+01.2019
+Automat
+39'500 km
+Benzin
+Vorderradantrieb
+schwarz
+150 PS
+GE
+Merken
+AUDI
+A3 Sportback 1.4 T FSI S-Tronic
+01.2019
+150 PS
+39'500 km
+CHF 26'500
+Merken
+ab CHF 285/Monat
+AUDI
+A3 Sportback 1.5 35 TFSI Sport S-Tronic
+CHF 28'890
+ab CHF 311/Monat
+12.2019
+Automat
+13'450 km
+Benzin
+Vorderradantrieb
+weiss
+150 PS
+LU
+Merken
+AUDI
+A3 Sportback 1.5 35 TFSI Sport S-...
+12.2019
+150 PS
+13'450 km
+CHF 28'890
+Merken
+ab CHF 311/Monat
 1
 1
 2

@@ -1,6 +1,6 @@
-URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-wohnung/in-niederlenz/
+URL: https://www.immostreet.ch/de/mieten/wohnung/in-niederlenz/
 Title: Wohnung mieten in Niederlenz - Immostreet.ch
-Description: Wohnung mieten in  Niederlenz - Immostreet.ch: ImmoStreet.ch hat 10 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Niederlenz - Immostreet.ch: ImmoStreet.ch hat 16 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-10 Resultate gefunden ·
+16 Resultate gefunden ·
 Wohnung mieten in Niederlenz
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,28 +131,8 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Zentrum, Mühlestrasse 6
-1'440
-CHF
-/Monat
-WOHNTRAUM
-Zentrum, Mühlestrasse 6, 5702 Niederlenz
-Array
-2.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-65 m2
-Per 1. Oktober 2021 oder nach Vereinbarung vermieten wir diese im Jahre 2016 sanierte 2.5-Zimmer-Wo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Lochackerweg 3+5
-1'680
+1'670
 CHF
 /Monat
 schöne, helle 4.5-Zimmerwohnung im 1.OG
@@ -171,72 +151,239 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'360
+Dorfrain 13
+1'700
 CHF
 /Monat
-Nachmieter gesucht per 1.8.2021
-Adresse auf Anfrage, 5702 Niederlenz
+Sehr grosse und schöne 3.5-Zimmerwohnun…
+Dorfrain 13, 5702 Niederlenz
 Array
 3.5 Zimmer
-79 m2
+100 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-79 m2
-Nachmieter gesucht für 3.5 Zimmer Dachwohnung in Niederlenz per 1.8.2021Miete 1180.- plus 180.-Nebe…
+100 m2
+Die Wohnung verfügt über folgenden Ausbaustandard:
++ gesamte Wohnfläche von 100m2
++ helle Platt…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Baumgartenweg 1
-1'700
+Ahornweg 6
+1'090
 CHF
 /Monat
-helle Wohnung mit schöner Aussicht
-Baumgartenweg 1, 5702 Niederlenz
+Perfekte Wohnung für Singles!
+Ahornweg 6, 5702 Niederlenz
+Array
+2.5 Zimmer
+55 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+55 m2
+Ab dem 1. Oktober 2021 oder nach Vereinbarung vermieten wir diese charmante 2.5-Zimmerwohnung an id…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hammerweg 17
+1'030
+CHF
+/Monat
+Wohnung zum geniessen!
+Hammerweg 17, 5702 Niederlenz
+Array
+2 Zimmer
+38 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+38 m2
+Wir vermieten diese behagliche Wohnung, welche sich durch folgende Vorzüge auszeichnet:- Grosszügig…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hammerweg 21
+1'470
+CHF
+/Monat
+Ländlich und doch zentral!
+Hammerweg 21, 5702 Niederlenz
+Array
+3.5 Zimmer
+87 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+87 m2
+Wir vermieten per 1. Oktober 2021 oder nach Vereinbarung eine gemütliche Wohnung an bester Lage, we…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rebengässli 12
+1'120
+CHF
+/Monat
+Studio mit grosse Gartenterasse
+Rebengässli 12, 5702 Niederlenz
+Array
+2 Zimmer
+35 m2
+Objekttyp
+Wohnung, Studio
+Zimmer
+2
+Wohnfläche
+35 m2
+Studio mit sehr grosse Gartenterasse ca. 40m2. komplett neu erstellt. Nichtraucher. Kleine Haustier…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mühlestrasse 8
+1'845
+CHF
+/Monat
+4.5 Zimmer-Wohnung mit sonniger Loggia
+Mühlestrasse 8, 5702 Niederlenz
 Array
 4.5 Zimmer
-96 m2
+109 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-96 m2
-Etage
-Allgemeine LageDas 4-Familienhaus befindet sich in einer Sackgasse an ruhiger, sonniger Lage mit sc…
+109 m2
+Im Frühling 2017 wurde ein moderner Neubau mit 14 Wohnungen in Niederlenz direkt am Aabach erstellt…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Ahornweg 10
-1'390
+Bäumlimatt 2
+1'370
 CHF
 /Monat
-Liebliche Dachgeschosswohnung nahe Lenz…
-Ahornweg 10, 5702 Niederlenz
+Hundewohn(t)raum- Kleiner Hausteil mit …
+Bäumlimatt 2, 5702 Niederlenz
 Array
-3.5 Zimmer
-71 m2
+2.5 Zimmer
+65 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+2.5
 Wohnfläche
-71 m2
-Ab dem 1. August 2021 oder nach Vereinbarung vermieten wir in Niederlenz diese lichtdurchflutete un…
+65 m2
+In 2-Familienhaus vermieten wir eine 3-Zimmerdachwohnung mit eigenem Gartenanteil.
+LAGE
+- Län…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bäumlimatt 2
+1'370
+CHF
+/Monat
+Hundewohn(t)raum- Kleiner Hausteil mit …
+Bäumlimatt 2, 5702 Niederlenz
+Array
+3 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+65 m2
+In 2-Familienhaus vermieten wir eine 3-Zimmerdachwohnung mit eigenem Gartenanteil.
+LAGE
+- Län…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wildeggerstrasse 3
+1'280
+CHF
+/Monat
+Teilrenovierte 3 Zimmer-Wohnung auf zwe…
+Wildeggerstrasse 3, 5702 Niederlenz
+Array
+3 Zimmer
+85 m2
+Objekttyp
+Wohnung, Duplex, Maisonette
+Zimmer
+3
+Wohnfläche
+85 m2
+Etage
+Nach Vereinbarung vermieten wir eine gemütliche und preiswerte Wohnung direkt neben dem Aabach.
+…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schürz 11
+1'947
+CHF
+/Monat
+Grosszügige helle Wohnung im Grünen
+Schürz 11, 5702 Niederlenz
+Array
+4.5 Zimmer
+117 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+117 m2
+Auf dem 7’800 m² grossen Grundstück in Niederlenz, wurden 7 verschiedene Gebäude, insgesamt 23 unte…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Hammerweg 19
-1'480
+1'310
 CHF
 /Monat
-Sie suchen Ihrem Wohnraumtraum? Dann s…
+Meine Wohnung, mein Paradies
+Hammerweg 19, 5702 Niederlenz
+Array
+3 Zimmer
+58 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+58 m2
+Wir vermieten diese gemütliche Wohnung an bester Lage, welche mit folgenden Vorzügen überzeugt:- Kü…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hammerweg 19
+1'490
+CHF
+/Monat
+Ihr neuer Wohnsitz!
 Hammerweg 19, 5702 Niederlenz
 Array
 3.5 Zimmer
@@ -247,48 +394,27 @@ Zimmer
 3.5
 Wohnfläche
 87 m2
-Wir vermieten eine gemütliche Wohnung an bester Lage, welche mit folgenden Vorzügen überzeugt:- Wo…
+Wir vermieten eine gemütliche Wohnung mit folgenden Vorzügen:- Wohnzimmer/Küche Parkett- Offene Küc…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hammerweg 21
-1'260
-CHF
-/Monat
-Einfach Zuhause fühlen
-Hammerweg 21, 5702 Niederlenz
-Array
-3 Zimmer
-58 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-58 m2
-Wir vermieten diese tolle Wohnung, welche durch folgende Details besticht:- Wohnbereich Parkettbode…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Neugrabenweg 8
+Ahornweg 10
 1'390
 CHF
 /Monat
-Schöne helle 4 - Zimmerwohnung
-Neugrabenweg 8, 5702 Niederlenz
+Liebliche Dachgeschosswohnung mit Aussi…
+Ahornweg 10, 5702 Niederlenz
 Array
-4 Zimmer
-76 m2
+3.5 Zimmer
+71 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4
+3.5
 Wohnfläche
-76 m2
-Schöne helle 4 - Zimmerwohnung in der obersten Etage.
-Das Mehrfamilienhaus liegt in einer sehr k…
+71 m2
+Ab sofort oder nach Vereinbarung vermieten wir in Niederlenz diese lichtdurchflutete und moderne 3.…
 Teilen
 E-Mail
 Facebook

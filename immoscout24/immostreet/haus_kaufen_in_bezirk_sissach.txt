@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-sissach/
 Title: Haus kaufen in Bezirk Sissach - Immostreet.ch
-Description: Haus kaufen in Bezirk Sissach - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Sissach - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-20 Resultate gefunden ·
+24 Resultate gefunden ·
 Haus kaufen in Bezirk Sissach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,40 +138,272 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Winterhalde 15
-350'000
+Sonnhaldenweg 40
+1'620'000
 CHF
-Renovationsbedürftige Liegenschaft im D…
-Winterhalde 15, 4451 Wintersingen
+Neubau an Toplage mit Aussicht Haus 2
+Sonnhaldenweg 40, 4450 Sissach
 Array
+4.5 Zimmer
+142 m2
 Objekttyp
 Wohnung, Einzelhaus
-Im Auftrag verkaufen wir in der Oberbaselbieter Gemeinde Wintersingen, in Mitten des Dorfkerns, ein…
+Zimmer
+4.5
+Wohnfläche
+142 m2
+Etage
+EFH Neubau an Toplage mit AussichtÜberbauung mit 3 Einfamilienhäuser an Toplage an einer wenig befa…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Tecknauerstrasse
-890'000
+Sonnhaldenweg 40
+1'590'000
 CHF
-Grosszügiges Reihenmittelhaus im belieb…
-Tecknauerstrasse, 4460 Gelterkinden
+Neubau an Toplage mit Aussicht Haus 1
+Sonnhaldenweg 40, 4450 Sissach
 Array
-5.5 Zimmer
-135 m2
+4.5 Zimmer
+142 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+142 m2
+Etage
+EFH Neubau an Toplage mit AussichtÜberbauung mit 3 Einfamilienhäuser an Toplage an einer wenig befa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hinterwängerweg 184
+1'050'000
+CHF
+Ein Traum wird wahr
+Hinterwängerweg 184, 4469 Anwil
+Array
+4.5 Zimmer
+122 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+122 m2
+Suchen Sie ein Bungalow in ländlicher Umgebung? Dann haben Sie hier Ihr Traumobjekt gefunden!Die Li…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'495'000
+CHF
+SCHMUCKSTÜCK MIT TRAUMAUSSICHT
+Adresse auf Anfrage, 4496 Kilchberg BL
+Array
+9.5 Zimmer
+299 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+9.5
+Wohnfläche
+299 m2
+Dieses Schmuckstück mit Traumaussicht ist ein Platzwunder und lässt keine Wünsche offen. Die Liegen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grundackerstrasse 18
+1'100'000
+CHF
+Sonniges 6 Zimmer Traumhaus mit Pool
+Grundackerstrasse 18, 4455 Zunzgen
+Array
+6 Zimmer
+170 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6
+Wohnfläche
+170 m2
+Sonniges 6 Zimmer Traumhaus mit PoolDas Haus steht im ruhigen familienfreundlichen Quartier ohne Du…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+915'000
+CHF
+Grandioses 7.5 Zi-Eckhaus
+Adresse auf Anfrage, 4460 Gelterkinden
+Array
+7.5 Zimmer
+210 m2
 Objekttyp
 Wohnung, Reihenfamilienhaus
 Zimmer
-5.5
+7.5
 Wohnfläche
-135 m2
-Sie suchen ein neues Zuhause, in dem Sie sich wohlfühlen, dann haben wir für Sie ein geeignetes, gu…
+210 m2
+Ihre Suche hat also endlich ein Ende, denn hier treffen Sie auf eine Wohngelegenheit welche Sie ers…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'170'000
+CHF
+Projektankündigung! 6 1/2 Zimmer Famili…
+Adresse auf Anfrage, 4451 Wintersingen
+Array
+6.5 Zimmer
+187 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+187 m2
+Etage
+Diese 4 wunderschönen und freistehenden 6.5 Zimmer-Einfamilienhäuser werden an sonniger und beliebt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+565'000
+CHF
+TEILSANIERT MIT AUSBAUPOTENTIAL!
+Adresse auf Anfrage, 4469 Anwil
+Array
+6 Zimmer
+200 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6
+Wohnfläche
+200 m2
+Ein Renditeobjekt oder das passende Wohnhaus mit viel Potenzial das nur auf einen neuen Besitzer wa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rössligasse 41
+980'000
+CHF
+Wohnhaus mit viel Potenzial im Dorfkern…
+Rössligasse 41, 4467 Rothenfluh
+Array
+7.5 Zimmer
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+An attraktiver Lage in der Kernzone von Rothenfluh BL, verkaufen wir ein ein grösseres Areal mit me…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eselweg 3
+520'000
+CHF
+3½-Zimmer-Maisonettewohnung mit unverba…
+Eselweg 3, 4446 Buckten
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+3.5
+Wohnfläche
+100 m2
+Etage
+Sie wollen sich den Traum vom Haus erfüllen wären aber auch mit einer wunderbaren Eigentumswohnung …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+850'000
+CHF
+ZEITLOSE GLASARCHITEKTUR
+Adresse auf Anfrage, 4450 Sissach
+Array
+4.5 Zimmer
+108 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+4.5
+Wohnfläche
+108 m2
+Folgende Besichtigungen finden statt: - Donnerstag, 22. Juli 2021, von 10:00 Uhr bis 12:00 Uhr - M…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+rue de l'Ill 2-4
+1'395'000
+EUR
+Mehrgenerationen Villa vor den Toren Ba…
+rue de l'Ill 2-4, 4494 Oltingen
+Array
+14 Zimmer
+480 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+14
+Wohnfläche
+480 m2
+Das Angebot besteht aus vier einzelnen Teilen:Das eigentliche Wohnhaus für die gesamte Familie.Eine…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse 37
+1'290'000
+CHF
+Zweifamilienhaus beim Dorfbrunnen von W…
+Dorfstrasse 37, 4493 Wenslingen
+Array
+260 m2
+Objekttyp
+Wohnung, Bauernhaus
+Wohnfläche
+260 m2
+DorfkernhausDie ländliche Baselbieter Gemeinde Wenslingen liegt auf einer sonnigen Hochebene und ge…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mühlemattweg 16
+885'000
+CHF
+Einfamilienhaus mit Doppelgarage
+Mühlemattweg 16, 4442 Diepflingen
+Array
+6 Zimmer
+132 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6
+Wohnfläche
+132 m2
+Die Adimmo AG verkauft am Mühlemattweg 16 in Diepflingen dieses schöne grosszügige Einfamilienhaus.…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Hemmiken
-1'140'000
+1'095'000
 CHF
 Grosszügiges Einfamilienhaus an sonnige…
 Hemmiken, 4465 Hemmiken
@@ -249,41 +481,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Rothenfluh
-1'390'000
-CHF
-Einfamilienhaus mit grossem Garten in n…
-Rothenfluh, 4467 Rothenfluh
-Array
-5 Zimmer
-294 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5
-Wohnfläche
-294 m2
-Dieses grosszügige 5-Zimmer Haus liegt in einer sehr ruhigen und naturnahen Umgebung. An leicht erh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rössligasse 41
-980'000
-CHF
-Wohnhaus mit viel Potenzial im Dorfkern…
-Rössligasse 41, 4467 Rothenfluh
-Array
-7.5 Zimmer
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7.5
-An attraktiver Lage in der Kernzone von Rothenfluh BL, verkaufen wir ein ein grösseres Areal mit me…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Leierweg 266
 1'220'000
 CHF
@@ -305,7 +502,7 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'500'000
+1'480'000
 CHF
 Bungalow mit totaler Privatsphäre!
 Adresse auf Anfrage, 4450 Sissach
@@ -324,185 +521,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bergweg
-1'690'000
-CHF
-Exklusives Doppeleinfamilienhaus am Son…
-Bergweg, 4450 Sissach
-Array
-5.5 Zimmer
-169 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-169 m2
-Geniessen Sie die Ruhe und den hohen Ausbaustandard dieses 5 1/2 Zimmer Doppeleinfamilienhauses an …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zunzgerstrasse
-760'000
-CHF
-Wohn- und Geschäftshaus an zentraler La…
-Zunzgerstrasse, 4450 Sissach
-Array
-5 Zimmer
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5
-Dieses charmante Wohn- und Geschäftshaus am Bach befindet sich an zentraler Lage in Sissach. Einkau…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonnhaldenweg
-1'690'000
-CHF
-Top modernes Einfamilienhaus mit wunder…
-Sonnhaldenweg, 4450 Sissach
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Etage
-Ihr neues Einfamilienhaus an beliebter Lage ist wunderbar von A-Z durchdacht und geplant, so das Si…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-795'000
-CHF
-Helles Doppeleinfamilienhaus
-Adresse auf Anfrage, 4463 Buus
-Array
-5.5 Zimmer
-148 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-148 m2
-Wir verkaufen unser am sonnigen Rebenhang gelegenes Doppeleinfamilienhaus imOberbaselbiet (Baujahr …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mühlemattweg 7
-875'000
-CHF
-Dreifamilienhaus
-Mühlemattweg 7, 4442 Diepflingen
-Array
-220 m2
-Objekttyp
-Wohnung, Einzelhaus
-Wohnfläche
-220 m2
-Die Adimmo AG verkauft am Mühlemattweg 7 in Diepflingen dieses grosszügige Dreifamilienhaus.Die Lie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rickenbacherstrasse 11
-410'000
-CHF
-Reihenhaus mit Einliegerwohnung
-Rickenbacherstrasse 11, 4463 Buus
-Array
-5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5
-Wohnfläche
-130 m2
-Das eingebaute Haus befindet sich im Dorfkern von Buus. Diese Liegenschaft ist etwas für Menschen, …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mühlematten
-995'000
-CHF
-Wohnen an der Sonnenlage von Zunzgen
-Mühlematten, 4455 Zunzgen
-Array
-5.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-150 m2
-Etage
-In der Mühlmatten in Zunzgen entsteht ein neuer Quartierteil mit neun Reiheneinfamilienhäusern (REF…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'150'000
-CHF
-Projektankündigung! 6 1/2 Zimmer Famili…
-Adresse auf Anfrage, 4451 Wintersingen
-Array
-6.5 Zimmer
-187 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-187 m2
-Etage
-Diese 4 wunderschönen und freistehenden 6.5 Zimmer-Einfamilienhäuser werden an sonniger und beliebt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Langacherweg 8
-615'000
-CHF
-Freistehendes Haus mit herrlicher Weits…
-Langacherweg 8, 4460 Gelterkinden
-Array
-103 m2
-Objekttyp
-Wohnung, Einzelhaus
-Wohnfläche
-103 m2
-Was Sie erwartetEin neuwertiges Haus, freistehend und zuhinterst in einer Sackgasse (Privatstrasse)…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberer Mühlestettenweg 22
-1'950'000
-CHF
-Einfamilienhaus mit Doppelgarage an son…
-Oberer Mühlestettenweg 22, 4450 Sissach
-Array
-231 m2
-Objekttyp
-Wohnung, Einzelhaus
-Wohnfläche
-231 m2
-Etage
-Die Liegenschaft (Parzelle 2430 (rot)) liegt nordwestlich der Gemeinde Sissach, in einem r…
-Teilen
-E-Mail
-Facebook
-Whatsapp
+Seite 1 von 2
+1
+2
+nächste Seite
 ImmoStreet.ch
 Kaufen
 Haus zu kaufen

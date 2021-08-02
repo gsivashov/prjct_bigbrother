@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-langenthal/
 Title: Wohnung & Haus mieten in Langenthal - Immostreet.ch
-Description: Wohnung & Haus mieten in  Langenthal - Immostreet.ch: ImmoStreet.ch hat 89 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Langenthal - Immostreet.ch: ImmoStreet.ch hat 81 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-89 Resultate gefunden ·
+81 Resultate gefunden ·
 Wohnung & Haus mieten in Langenthal
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,103 +152,42 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Haldenstrasse 60
-1'748
+Aufhabenweg 11
+700
 CHF
 /Monat
-4.5-Zimmerwohnung 1. OG
-Haldenstrasse 60, 4900 Langenthal
+Ideal für Singles!
+Aufhabenweg 11, 4900 Langenthal
 Array
-4.5 Zimmer
-105 m2
+1 Zimmer
+36 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+1
 Wohnfläche
-105 m2
-Etage
-Helle, grosse Wohnung (in 5-Familienhaus) zum Wohlfühlen an zentraler und dennoch ruhiger Lage zu v…
+36 m2
+Per 1. Juli 2022 vermieten wir an ruhiger und dennoch zentraler Lage diese helle und geräumige Wohn…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Murgenthalstrasse 4c
-1'830
+Bäreggstr. 31
+1'820
 CHF
 /Monat
-Grosszügige 4.5-Zimmer-Wohnung mit Gart…
-Murgenthalstrasse 4c, 4900 Langenthal
-Array
-4.5 Zimmer
-108 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-108 m2
-Wir vermieten per 16. September 2021 oder nach Vereinbarung eine schöne, moderne 4.5-Zimmer-Wohnung…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grubenstrasse 17A
-885
-CHF
-/Monat
-Endlich meine eigenen 4-Wände!
-Grubenstrasse 17A, 4900 Langenthal
-Array
-2.5 Zimmer
-49 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-49 m2
-Per 1. Juli 2021 oder nach Vereinbarung vermieten wir diese gemütliche und helle 2.5-Zimmerwohnung …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rumiweg 15d
-1'872
-CHF
-/Monat
-Die Sonne geniessen...
-Rumiweg 15d, 4900 Langenthal
+Geniessen Sie die Sonnenstrahlen auf de…
+Bäreggstr. 31, 4900 Langenthal
 Array
 3.5 Zimmer
-91 m2
+79 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
 3.5
 Wohnfläche
-91 m2
-Wir vermieten per 1. Juli 2021 oder nach Vereinbarung diese wunderschöne 3.5-Zimmer-Attikawohnung m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 30
-1'350
-CHF
-/Monat
-Grosszügige 3-Zimmerwohnung im Zentrum …
-Bahnhofstrasse 30, 4900 Langenthal
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-Per sofort oder nach Vereinbarung vermieten wir eine3-Zimmerwohnung, 1. OG mitte (kein Lift)Die Woh…
+79 m2
+Suchen Sie eine moderne und lichtdurchflutete Attikawohnung Nähe Coop, Schule und ÖV? Dann haben wi…
 Teilen
 E-Mail
 Facebook
@@ -262,17 +201,77 @@ Bäreggstrasse 17, 4900 Langenthal
 Array
 Objekttyp
 Atelier
-Stockwerk: 1. UntergeschossFläche: 10.5 m²Verfügbarkeit: 01.08.2021
+Stockwerk: 1. UntergeschossFläche: 10.5 m²Verfügbarkeit: sofort oder nach Vereinbarung
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hasenmattstrasse 37a
-1'400
+Oberhardstrasse 41
+1'800
 CHF
 /Monat
-3 1/2-Zimmerwohnung Nähe Bahnhof
-Hasenmattstrasse 37a, 4900 Langenthal
+Sehr schöne Dachwohnung mit Galerie
+Oberhardstrasse 41, 4900 Langenthal
+Array
+3.5 Zimmer
+136 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+136 m2
+Die Liegenschaft liegt im Gebiet Hopferefeld in einem ruhigen Mehrfamilienhaus-Quartier. Einkaufsmö…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Marktgasse 8
+905
+CHF
+/Monat
+Charmantes Bijoux im Zentrum!
+Marktgasse 8, 4900 Langenthal
+Array
+2 Zimmer
+55 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+55 m2
+Suchen Sie eine kleine, gemütliche Altbauwohnung mitten im Stadtzentrum von Langenthal? Dann haben …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brauihof 10
+1'490
+CHF
+/Monat
+Leben im Zentrum - Wohnung im Brauihof …
+Brauihof 10, 4900 Langenthal
+Array
+3.5 Zimmer
+104 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+104 m2
+Per 01.10.2021 suchen wir einen Nachmieter für diese grosszügige und zentral gelegene Wohnung, welc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hasenmattstrasse 39a
+1'390
+CHF
+/Monat
+Ihr Heim in Langenthal!
+Hasenmattstrasse 39a, 4900 Langenthal
 Array
 3.5 Zimmer
 88 m2
@@ -282,253 +281,256 @@ Zimmer
 3.5
 Wohnfläche
 88 m2
-Die Liegenschaft Hasenmattstrasse 37 a befindet sich an ruhiger Lage Nähe Bahnhof und Einkaufsmögli…
+Die Liegenschaft Hasenmattstrasse 39 a befindet sich an ruhiger Lage Nähe Bahnhof und Einkaufsmögli…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Marktgasse 12
-1'674
+Bäreggstrasse 27
+1'090
 CHF
 /Monat
-Altbau-Loftwohnung mit Galerie im Stadt…
-Marktgasse 12, 4900 Langenthal
+Zentral wohnen?!
+Bäreggstrasse 27, 4900 Langenthal
 Array
-1 Zimmer
-116 m2
-Objekttyp
-Wohnung, Loft
-Zimmer
-1
-Wohnfläche
-116 m2
-Mitten im schönen Altstadt-Zentrum Langenthals vermieten wir dieses spezielle und grosszügige Loft.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Waldhofstrasse 32
-1'190
-CHF
-/Monat
-Ihre erste Wohnung?
-Waldhofstrasse 32, 4900 Langenthal
-Array
-2.5 Zimmer
-61 m2
+2 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
-Wohnfläche
-61 m2
-Suchen Sie eine schöne Wohnung in Langenthal? Dann haben wir die richtige Wohnung für Sie! Die Wohn…
+2
+Per 01.10.2021 oder nach Vereinbarung vermieten wir diese grosszügige 2-Zimmerwohnung mit folgenden…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Weststrasse 94
-2'040
+Adresse auf Anfrage
+1'350
 CHF
 /Monat
-GRATIS WOHNEN 1 oder 2 Monate / "3LINDE…
-Weststrasse 94, 4900 Langenthal
+RUHIG UND ZENTRAL
+Adresse auf Anfrage, 4900 Langenthal
 Array
 4.5 Zimmer
-104 m2
+84 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-104 m2
-Bei einer Mindestvertragsdauer von 1 Jahr schenken wir Ihnen 1 Nettomonatsmietzins
+84 m2
+Diese ruhige und zentral gelegene 4.5-Zimmer Wohnung ist ideal für eine kleine Familie. Das grosse …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seilereistrasse 5
-1'440
+Waldhofstrasse 18
+1'750
 CHF
 /Monat
-WOHNEN AM WUHRPLATZ
-Seilereistrasse 5, 4900 Langenthal
-Array
-2.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-70 m2
-Wir vermieten per 1. August 2021 oder nach Vereinbarung diese moderne und helle 2 1/2-Zimmer-Attika…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Murgenthalstrasse 4b
-1'700
-CHF
-/Monat
-Schöne, moderne 4.5-Zimmer-Wohung an su…
-Murgenthalstrasse 4b, 4900 Langenthal
-Array
-4.5 Zimmer
-96 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-96 m2
-Wir vermieten per 16. August 2021 oder nach Vereinbarung eine schöne, moderne 4.5-Zimmer-Wohnung an…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bäreggstr. 59, Haus D
-Preis auf Anfrage
-Benötigen Sie Platz für Ihr Hobby?
-Bäreggstr. 59, Haus D, 4900 Langenthal
-Array
-Objekttyp
-Atelier
-In der Wohnungüberbauung Hopferen III vermieten wir diverse Hobby-/Bastelräume:- Die Räume sind bel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Waldhofstrasse 9
-1'595
-CHF
-/Monat
-Familienwohnung zu vermieten
-Waldhofstrasse 9, 4900 Langenthal
+Wohnung mit Familiensinn!
+Waldhofstrasse 18, 4900 Langenthal
 Array
 5.5 Zimmer
+106 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 5.5
-Per sofort oder nach vereinbarung vermieten wir eine charmante Licht durchflutete 5.5 Zimmerwohnug.…
+Wohnfläche
+106 m2
+Suchen Sie eine familienfreundliche Wohnung in Langenthal? Dann haben wir per 1. Oktober 2021 das r…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Belchenstrasse 21
-1'445
+Aarwangenstrasse 59
+1'550
 CHF
 /Monat
-Wunderschöne 3.5-Zimmer-Wohnung in ruhi…
-Belchenstrasse 21, 4900 Langenthal
+Helle, renovierte 4.5 Zimmer Wohnung
+Aarwangenstrasse 59, 4900 Langenthal
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+110 m2
+Etage
+Hell und frisch renoviertIn diesem Mehrfamilienhaus, an ruhiger aber zentraler Lage in Langenthal, …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Waldhofstrasse 36
+825
+CHF
+/Monat
+Single Wohnung im Waldhofquartier!
+Waldhofstrasse 36, 4900 Langenthal
+Array
+1 Zimmer
+35 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+35 m2
+Suchen Sie eine helle Wohnung mit herrlicher Aussicht in Langenthal? Dann haben wir per 1. Oktober …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberhardstrasse 20
+1'400
+CHF
+/Monat
+Wohnglück auf den ersten Blick!
+Oberhardstrasse 20, 4900 Langenthal
 Array
 3.5 Zimmer
-74 m2
+76 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-74 m2
-Per 01.09.2021 oder nach Vereinbarung vermieten wir diese helle sowie modernisierte Wohnung mit fol…
+76 m2
+Per 1. Oktober 2021 vermieten wir diese schöne und moderne Wohnung am Puls von Langenthal. Die Wohn…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Rumiweg 53
-1'203
+Waldhofstrasse 44
+1'090
 CHF
 /Monat
-Totalsanierte 3.5-Zimmerwohnung im 1. OG
-Rumiweg 53, 4900 Langenthal
+Tolle 2.5-Zimmerwohnung an ruhiger Lage
+Waldhofstrasse 44, 4900 Langenthal
 Array
-3.5 Zimmer
+2.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
-unverbaubare Lage direkt am Brunnbach2000m2 Umschwung mit Gartensitzplatz…
+2.5
+BeschreibungSchöne 2.5-Zimmer Wohnung zu vermieten!Die Wohnung verfügt über folgende Vorzüge:- gut …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Marktgasse 6
-1'710
+Lagerweg 2
+1'280
 CHF
 /Monat
-Exklusive Altbau-Maisonettewohnung im H…
-Marktgasse 6, 4900 Langenthal
-Array
-3.5 Zimmer
-137 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-137 m2
-Sind Sie auf der Suche nach einer gemütlichen Altbau-Wohnung mitten im Stadtzentrum? Hier einige De…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mittelstrasse 20
-1'150
-CHF
-/Monat
-Charmante 3-Zimmerwohnung
-Mittelstrasse 20, 4900 Langenthal
+Ruhige Wohnlage am Stadtrand von Langen…
+Lagerweg 2, 4900 Langenthal
 Array
 3 Zimmer
-75 m2
+77 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3
 Wohnfläche
-75 m2
-Zentrale Altbauwohnung an der Mittelstrasse 20, 4900 Langenthal. 75m2 im 1. Stock. Auf Wunsch zusät…
+77 m2
+Die LageDie gepflegte Überbauung am Stadtrand von Langenthal umfasst drei dreistöckige Mehrfamilien…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bäreggstrasse 63
-1'690
+Waldhofstrasse, 9a
+1'450
 CHF
 /Monat
-Ihre Familienwohnung in Langenthal!
-Bäreggstrasse 63, 4900 Langenthal
+SCHÖNE 4,5 Zimmerwohnung
+Waldhofstrasse, 9a, 4900 Langenthal
 Array
 4.5 Zimmer
-93 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+SUCHE EINEN Nachmieter für meine schöne helle 4,5 Zimmer Wohnung in LangenthalEin Badezimmer mit Ba…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Waldhofstrasse 34
+1'220
+CHF
+/Monat
+schön wohnen und ein halbes Jahr sparen?
+Waldhofstrasse 34, 4900 Langenthal
+Array
+2.5 Zimmer
+57 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+57 m2
+In den ersten 6 Monaten bezahlen Sie den halben Nettomietzins von CHF 610.00 zuzüglich Akonto Neben…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'450
+CHF
+/Monat
+4.5 Zimmerwohnung zu Vermieten
+Adresse auf Anfrage, 4900 Langenthal
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Nicht für Makler.Ab 01.02.2021 oder nach Vereinbarung.1450.- CHF / Monat Inkl. Nebenkosten.Haustier…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Weissensteinstrasse 22
+1'590
+CHF
+/Monat
+Eigene vier Wände zu vergeben
+Weissensteinstrasse 22, 4900 Langenthal
+Array
+4.5 Zimmer
+90 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-93 m2
-Die Wohnüberbauung "Bäregg" befindet sich an ruhiger, kinderfreundlicher und grüner Lage im schönen…
+90 m2
+Nach Vereinbarung vermieten wir eine 4.5 Zimmerwohnung im 1. OG mit Schwedenofen und Balkon.Die Wo…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bützbergstrasse 111
-1'250
+Bäreggstr. 61, Haus B
+1'790
 CHF
 /Monat
-zu vermieten
-Bützbergstrasse 111, 4900 Langenthal
+Wohnbehagen pur!
+Bäreggstr. 61, Haus B, 4900 Langenthal
 Array
 3.5 Zimmer
-72 m2
+89 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-72 m2
-ab sofort zu vermieten:3.5-ZW im 1. OG eines 3-Familienhauses, Parkmöglichkeit, Garten, Nahe ÖV, M…
+89 m2
+In der Überbauung "Hopferen" vermieten wir diese moderne und gut besonnte Minergie-Wohnung. Dazu ei…
 Teilen
 E-Mail
 Facebook

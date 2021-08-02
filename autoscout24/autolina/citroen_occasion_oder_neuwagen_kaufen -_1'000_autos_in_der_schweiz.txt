@@ -81,7 +81,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -99,7 +99,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -153,6 +153,48 @@ WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
 CITROEN
+2CV Fourgonette AK 400 (Kleinwagen)
+CHF 22'900
+ab CHF 246/Monat
+12.1970
+Handschaltung
+33'000 km
+Benzin
+Vorderradantrieb
+grau
+29 PS
+ZH
+Merken
+CITROEN
+2CV Fourgonette AK 400 (Kleinwage...
+12.1970
+29 PS
+33'000 km
+CHF 22'900
+Merken
+ab CHF 246/Monat
+CITROEN
+C1 1.0 VTi Shine Edition S/S
+CHF 10'450
+ab CHF 118/Monat
+04.2017
+Handschaltung
+17'000 km
+Benzin
+Vorderradantrieb
+schwarz
+69 PS
+VS
+Merken
+CITROEN
+C1 1.0 VTi Shine Edition S/S
+04.2017
+69 PS
+17'000 km
+CHF 10'450
+Merken
+ab CHF 118/Monat
+CITROEN
 C4 Aircross 1.6 HDi 115 Exclusive 4WD S/S
 CHF 15'500
 ab CHF 167/Monat
@@ -173,69 +215,6 @@ C4 Aircross 1.6 HDi 115 Exclusive...
 CHF 15'500
 Merken
 ab CHF 167/Monat
-CITROEN
-C3 1.2 PureTech Shine
-CHF 12'000
-ab CHF 129/Monat
-09.2018
-Handschaltung
-34'500 km
-Benzin
-Vorderradantrieb
-schwarz
-110 PS
-AG
-Merken
-CITROEN
-C3 1.2 PureTech Shine
-09.2018
-110 PS
-34'500 km
-CHF 12'000
-Merken
-ab CHF 129/Monat
-CITROEN
-Jumper 2.2 HD i 33 L1 (Pick-up)
-CHF 13'900
-ab CHF 150/Monat
-01.2012
-Handschaltung
-35'000 km
-Diesel
-Vorderradantrieb
-rot
-131 PS
-BE
-Merken
-CITROEN
-Jumper 2.2 HD i 33 L1 (Pick-up)
-01.2012
-131 PS
-35'000 km
-CHF 13'900
-Merken
-ab CHF 150/Monat
-CITROEN
-C3 1.2 PureTech Live
-CHF 5'380
-ab CHF 61/Monat
-11.2017
-Handschaltung
-79'000 km
-Benzin
-Vorderradantrieb
-schwarz
-68 PS
-TG
-Merken
-CITROEN
-C3 1.2 PureTech Live
-11.2017
-68 PS
-79'000 km
-CHF 5'380
-Merken
-ab CHF 61/Monat
 CITROEN
 C4 Cactus 1.2 PureTech Shine
 CHF 17'985
@@ -258,111 +237,6 @@ CHF 17'985
 Merken
 ab CHF 194/Monat
 CITROEN
-C4 Grand Picasso 1.6 e-HDi Attraction 7P.EGS
-CHF 5'480
-ab CHF 62/Monat
-06.2011
-Automat
-140'000 km
-Diesel
-Vorderradantrieb
-grau
-112 PS
-BE
-Merken
-CITROEN
-C4 Grand Picasso 1.6 e-HDi Attrac...
-06.2011
-112 PS
-140'000 km
-CHF 5'480
-Merken
-ab CHF 62/Monat
-CITROEN
-2CV Fourgonette AK 400 (Kleinwagen)
-CHF 22'900
-ab CHF 246/Monat
-12.1970
-Handschaltung
-33'000 km
-Benzin
-Vorderradantrieb
-grau
-29 PS
-ZH
-Merken
-CITROEN
-2CV Fourgonette AK 400 (Kleinwage...
-12.1970
-29 PS
-33'000 km
-CHF 22'900
-Merken
-ab CHF 246/Monat
-CITROEN
-C5 Tourer 3.0 HDi V6 Exclusive
-CHF 7'500
-ab CHF 85/Monat
-07.2010
-Automat
-134'000 km
-Diesel
-Vorderradantrieb
-grau
-240 PS
-VD
-Merken
-CITROEN
-C5 Tourer 3.0 HDi V6 Exclusive
-07.2010
-240 PS
-134'000 km
-CHF 7'500
-Merken
-ab CHF 85/Monat
-CITROEN
-Berlingo 1.2 PureTech 130 Feel
-CHF 30'890
-ab CHF 364/Monat
--
-Automat
-8 km
-Benzin
-Vorderradantrieb
-grau
-131 PS
-TG
-Merken
-CITROEN
-Berlingo 1.2 PureTech 130 Feel
--
-131 PS
-8 km
-CHF 30'890
-Merken
-ab CHF 364/Monat
-CITROEN
-C4 1.2 PureTech Shine
-CHF 36'300
-ab CHF 428/Monat
-02.2021
-Automat
-3'100 km
-Benzin
-Vorderradantrieb
-grau
-131 PS
-TG
-Merken
-CITROEN
-C4 1.2 PureTech Shine
-02.2021
-131 PS
-3'100 km
-CHF 36'300
-Merken
-ab CHF 428/Monat
-CITROEN
 Traction Avant 15 SIX
 CHF 48'000
 ab CHF 516/Monat
@@ -384,92 +258,217 @@ CHF 48'000
 Merken
 ab CHF 516/Monat
 CITROEN
-C3 Aircross 1.2 PureTech 130 Rip Curl
-CHF 27'777
-ab CHF 327/Monat
+C3 Aircross 1.2 PureTech 110 Shine
+CHF 18'900
+ab CHF 203/Monat
+04.2018
+Automat
+29'000 km
+Benzin
+Vorderradantrieb
+grau
+110 PS
+SG
+Merken
+CITROEN
+C3 Aircross 1.2 PureTech 110 Shin...
+04.2018
+110 PS
+29'000 km
+CHF 18'900
+Merken
+ab CHF 203/Monat
+CITROEN
+C4 Grand Picasso 2.0 BlueHDi 150 Intensive
+CHF 16'900
+ab CHF 182/Monat
+11.2014
+Automat
+76'800 km
+Diesel
+Vorderradantrieb
+rot
+150 PS
+SO
+Merken
+CITROEN
+C4 Grand Picasso 2.0 BlueHDi 150 ...
+11.2014
+150 PS
+76'800 km
+CHF 16'900
+Merken
+ab CHF 182/Monat
+CITROEN
+C1 1.0 VTi Swiss Edition S/S
+CHF 15'340
+ab CHF 165/Monat
+-
+Handschaltung
+10 km
+Benzin
+Vorderradantrieb
+weiss
+72 PS
+SO
+Merken
+CITROEN
+C1 1.0 VTi Swiss Edition S/S
+-
+72 PS
+10 km
+CHF 15'340
+Merken
+ab CHF 165/Monat
+CITROEN
+Spacetourer M 2.0 BHDi 180 Bus.S/S
+CHF 46'000
+ab CHF 494/Monat
 -
 Automat
-8 km
+10 km
+Diesel
+Vorderradantrieb
+grau
+177 PS
+AG
+Merken
+CITROEN
+Spacetourer M 2.0 BHDi 180 Bus.S/...
+-
+177 PS
+10 km
+CHF 46'000
+Merken
+ab CHF 494/Monat
+CITROEN
+C5 Tourer 2.0 BlueHDi Exclusive EAT6
+CHF 12'800
+ab CHF 138/Monat
+05.2017
+Automat
+129'350 km
+Diesel
+Vorderradantrieb
+weiss
+181 PS
+ZH
+Merken
+CITROEN
+C5 Tourer 2.0 BlueHDi Exclusive E...
+05.2017
+181 PS
+129'350 km
+CHF 12'800
+Merken
+ab CHF 138/Monat
+CITROEN
+C3 Aircross 1.2 PureTech 130 S
+CHF 33'560
+ab CHF 361/Monat
+-
+Automat
+100 km
 Benzin
 Vorderradantrieb
 grau
 131 PS
-TG
+AG
 Merken
 CITROEN
-C3 Aircross 1.2 PureTech 130 Rip ...
+C3 Aircross 1.2 PureTech 130 S
 -
 131 PS
-8 km
-CHF 27'777
+100 km
+CHF 33'560
 Merken
-ab CHF 327/Monat
-NEU
+ab CHF 361/Monat
 CITROEN
-Grand C4 Picasso 1.6i 16V e-THP Exclusive
-CHF 18'800
-ab CHF 202/Monat
-07.2017
+DS3 1.6 VTi Faubourg Ad.
+CHF 9'900
+ab CHF 112/Monat
+09.2014
 Automat
-72'000 km
+34'000 km
 Benzin
 Vorderradantrieb
-weiss
-165 PS
+violett
+120 PS
 ZH
 Merken
 CITROEN
-Grand C4 Picasso 1.6i 16V e-THP E...
-07.2017
-165 PS
-72'000 km
-CHF 18'800
+DS3 1.6 VTi Faubourg Ad.
+09.2014
+120 PS
+34'000 km
+CHF 9'900
 Merken
-ab CHF 202/Monat
-NEU
+ab CHF 112/Monat
 CITROEN
-C1 1.0 VTi Shine S&S
-CHF 15'900
-ab CHF 171/Monat
-06.2021
-Handschaltung
-50 km
-Benzin
-Vorderradantrieb
-rot
-72 PS
-FR
-Merken
-CITROEN
-C1 1.0 VTi Shine S&S
-06.2021
-72 PS
-50 km
-CHF 15'900
-Merken
-ab CHF 171/Monat
-NEU
-CITROEN
-C3 Aircross 1.5 HDi Shine
-CHF 24'200
-ab CHF 260/Monat
-03.2020
+C5 2.2 HDi Exclusive A
+CHF 1'900
+11.2003
 Automat
-8'657 km
+71'000 km
 Diesel
 Vorderradantrieb
-sonstiges
-120 PS
-FR
+braun
+133 PS
+ZH
 Merken
 CITROEN
-C3 Aircross 1.5 HDi Shine
-03.2020
-120 PS
-8'657 km
-CHF 24'200
+C5 2.2 HDi Exclusive A
+11.2003
+133 PS
+71'000 km
+CHF 1'900
 Merken
-ab CHF 260/Monat
+CITROEN
+Berlingo XL 1.5 BlueHDi 130 Feel
+CHF 29'900
+ab CHF 322/Monat
+12.2020
+Automat
+11'500 km
+Diesel
+Vorderradantrieb
+grau
+130 PS
+SO
+Merken
+CITROEN
+Berlingo XL 1.5 BlueHDi 130 Feel
+12.2020
+130 PS
+11'500 km
+CHF 29'900
+Merken
+ab CHF 322/Monat
+CITROEN
+C3 1.2 PureTech Shine 110i
+CHF 16'890
+ab CHF 182/Monat
+10.2019
+Handschaltung
+7'454 km
+Benzin
+Vorderradantrieb
+weiss
+110 PS
+TG
+Merken
+CITROEN
+C3 1.2 PureTech Shine 110i
+10.2019
+110 PS
+7'454 km
+CHF 16'890
+Merken
+ab CHF 182/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
 1
 1
 2
@@ -538,6 +537,7 @@ Aargau
 Bern
 Basel-Landschaft
 Fribourg
+Genève
 Jura
 Luzern
 Neuchâtel
@@ -548,6 +548,7 @@ Thurgau
 Ticino
 Vaud
 Valais
+Zug
 Zürich
 Aktuelle Suche abonnieren
 Viele Dank für die Anmeldung!

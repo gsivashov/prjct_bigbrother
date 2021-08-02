@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-heimberg/
 Title: Wohnungen & Häuser mieten in Heimberg - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Heimberg - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Heimberg - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-18 Resultate gefunden ·
+24 Resultate gefunden ·
 Wohnungen & Häuser mieten in Heimberg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,16 +122,178 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Schwalbenweg 36/38 GA
-30
+Dornhaldenstrasse 33b
+1'880
 CHF
 /Monat
-Suchen Sie eine Parkmöglichkeit?
-Schwalbenweg 36/38 GA, 3627 Heimberg
+Grosszügige und Helle Wohnung in ruhige…
+Dornhaldenstrasse 33b, 3627 Heimberg
+Array
+4.5 Zimmer
+106 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+106 m2
+Wir vermieten ab 01.10.2021 oder nach Vereinbarung eine sehr helle und grosse 4.5 Zimmer Wohnung in…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alpenstrasse 29
+1'540
+CHF
+/Monat
+3 Zimmer Wohnung mit Balkon in Heimberg
+Alpenstrasse 29, 3627 Heimberg
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Schöne 3 Zimmer Dachwohnung mit Balkon in Heimberg zu vermietenAb dem 16.10 oder nach vereinbarungM…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schwalbenweg 38
+885
+CHF
+/Monat
+Wohnen in ruhigem Quartier!
+Schwalbenweg 38, 3627 Heimberg
+Array
+1.5 Zimmer
+30 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+30 m2
+Per 01.11.2021 vermieten wir diese schöne und helle 1.5-Zimmerwohnung.Die Wohnung bietet Ihnen folg…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'920
+CHF
+/Monat
+3 ZI-WOHNUNG IN HEIMBERG (BE), MÖBLIERT
+Adresse auf Anfrage, 3627 Heimberg
+Array
+3 Zimmer
+80 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+3
+Wohnfläche
+80 m2
+MIETDAUER ab 1. Oktober 2021 (mind. 1 Monat, nach Absprache)AllgemeinWohnung mit zwei Schlafzimmern…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mittelweg 2
+1'710
+CHF
+/Monat
+an ruhiger Lage
+Mittelweg 2, 3627 Heimberg
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Sanierte Wohnung an ruhiger LageVermietung nach Innensanierungkomplett sanierte Küche und Badezimme…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blümlisalpstrasse 28
+1'450
+CHF
+/Monat
+helle 4-Zimmer Wohnung an zentraler Lage
+Blümlisalpstrasse 28, 3627 Heimberg
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Die 4-Zimmer Wohnung mit einem kleinen Balkon liegt im ersten Stock in einem Mehrfamilienhaus mit 1…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Heimberg - Parz 1698
+40
+CHF
+/Monat
+Parkplatz direkt am Bahnhof Heimberg
+Heimberg - Parz 1698, 3627 Heimberg
 Array
 Objekttyp
 Offener Parkplatz
-Per sofort oder nach Vereinbarung vermieten wir einen Parkplatz am Schwalbenweg 36/38 in Heimberg. …
+Per sofort oder nach Vereinbarung vermieten wir einen Parkplatz direkt am Bahnhof Heimberg!- Mietzi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Heimberg - Parz 1698
+40
+CHF
+/Monat
+Parkplatz direkt am Bahnhof Heimberg
+Heimberg - Parz 1698, 3627 Heimberg
+Array
+Objekttyp
+Offener Parkplatz
+Per sofort oder nach Vereinbarung vermieten wir einen Parkplatz direkt am Bahnhof Heimberg!- Mietzi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Winterhaldenstr. 11
+2'550
+CHF
+/Monat
+Nachmieter für 6-Zimmer Attikawohnung i…
+Winterhaldenstr. 11, 3627 Heimberg
+Array
+6 Zimmer
+160 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+6
+Wohnfläche
+160 m2
+Wir suchen für unsere ca. 160m² grosse 6-Zimmer Attikawohnung im (ruhigen) Industriegebiet Nord von…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stationsweg 5
+1'250
+CHF
+/Monat
+Ihr neues Büro im Lädelizentrum!
+Stationsweg 5, 3627 Heimberg
+Array
+Objekttyp
+Büro
+Per sofort oder nach Vereinbarung vermieten wir auf rund 55 m2 diese Büroräumlichkeit im Lädelizent…
 Teilen
 E-Mail
 Facebook
@@ -157,28 +319,57 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Stationsweg 4
-1'500
+Bernstrasse 135
+Preis auf Anfrage
+Zeit für neue Geschäfte Gewerbeflächen …
+Bernstrasse 135, 3627 Heimberg
+Array
+Objekttyp
+Büro
+An der Bernstrasse 135 in Heimberg vermieten wir per sofort oder nach Vereinbarung Gewerbeflächen u…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blümlisalpstrasse 73 B
+1'750
 CHF
 /Monat
-Helle zentral gelegene Wohnung mit Sich…
-Stationsweg 4, 3627 Heimberg
+Ihre neue Wohnoase!
+Blümlisalpstrasse 73 B, 3627 Heimberg
 Array
 3.5 Zimmer
-75 m2
+88 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-75 m2
-Per sofort oder nach Vereinbarung vermieten wir diese grosszügige 3.5-Zimmerwohnung in Heimberg. Di…
+88 m2
+Die Wohnüberbauung Obere-Au ist verkehrsfrei und bietet eine ausgezeichnete Sicht auf die Voralpen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blümlisalpstrasse
+1'450
+CHF
+/Monat
+4 - Zimmer Wohnung an Zentraler Lage in…
+Blümlisalpstrasse, 3627 Heimberg
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Per sofort oder nach Vereinbarung Fr. 1'280.- + Fr. 170.- Nebenkosten. Total Fr. 1'450.- inkl. Nebe…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Haslikehrweg 13
-1'880
+1'780
 CHF
 /Monat
 Schöne, helle 41/2 Zi Wohnung
@@ -192,57 +383,17 @@ Zimmer
 4.5
 Wohnfläche
 100 m2
-Wir suchen für unsere helle, moderne 4.5 Zimmerwohnung einen Mieter auf 1. Juli oder 1. August.Die …
+Wir suchen für unsere helle, moderne 4.5 Zimmerwohnung einen Mieter auf 1. Septeber oder 1. Oktober…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bernstrasse 311
-1'630
-CHF
-/Monat
-GROSSZÜGIG IM IDYLLISCHEN HEIMBERG
-Bernstrasse 311, 3627 Heimberg
-Array
-3.5 Zimmer
-99 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-99 m2
-Diese attraktive moderne 2.5-Zimmer-Wohnung liegt an top Lage und ist ideal für ein Single oder ein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blümlisalpstrasse 73
-2'000
-CHF
-/Monat
-Geniessen Sie den Sommer im privaten Sc…
-Blümlisalpstrasse 73, 3627 Heimberg
-Array
-4.5 Zimmer
-102 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-102 m2
-Die Wohnüberbauung Obere-Au ist verkehrsfrei und bietet eine ausgezeichnete Sicht auf die Voralpen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mittelweg 4
+Mittelweg 2
 1'370
 CHF
 /Monat
-Moderne Wohnung in Heimberg
-Mittelweg 4, 3627 Heimberg
+ruhige Wohnung in Heimberg
+Mittelweg 2, 3627 Heimberg
 Array
 2.5 Zimmer
 62 m2
@@ -252,7 +403,7 @@ Zimmer
 2.5
 Wohnfläche
 62 m2
-Moderne WohnungWir vermieten nach Vereinbarung eine 2 .5-Zimmerwohnung, am Mittelweg 4 in Heimberg.…
+In Heimberg moderne WohnungWir vermieten nach Vereinbarung eine moderne 2 .5-Zimmerwohnung, am Mitt…
 Teilen
 E-Mail
 Facebook
@@ -274,27 +425,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Ahornistrasse 12
-1'390
-CHF
-/Monat
-3.5-Zimmer-Wohnung mit wunderschönem Au…
-Ahornistrasse 12, 3627 Heimberg
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-Etage
-Im schönen Heimberg vermieten wir eine charmante 3.5-Zimmer-Wohnung.Diese Wohnung bietet die folgen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Amselweg 10
 95
 CHF
@@ -309,23 +439,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Blümlisalpstrasse 31
-1'640
-CHF
-/Monat
-Eine gute Wahl!
-Blümlisalpstrasse 31, 3627 Heimberg
-Array
-4 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wir vermieten per sofort oder nach Vereinbarung eine 4-Zimmer-Wohnung an der Blümlisalpstrasse 31 i…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Winterhaldenstrasse 11
 Preis auf Anfrage
 GÜNSTIG UND MODERN
@@ -334,26 +447,6 @@ Array
 Objekttyp
 Büro
 Diese gepflegten Büroräumlichkeiten mit über 400m2 eignen sich ideal als Arbeits- oder Lagerräume u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'680
-CHF
-/Monat
-3 ZI-WOHNUNG IN HEIMBERG (BE), MÖBLIERT
-Adresse auf Anfrage, 3627 Heimberg
-Array
-3 Zimmer
-80 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-3
-Wohnfläche
-80 m2
-MIETDAUER ab sofort (mind. 1 Monat, nach Absprache)AllgemeinWohnung mit zwei Schlafzimmern, integri…
 Teilen
 E-Mail
 Facebook
@@ -378,65 +471,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bernstrasse
-220
-CHF
-Ihre neue Büro-/ Gewerbefläche mit 74m²…
-Bernstrasse, 3627 Heimberg
-Array
-Objekttyp
-Verkauf, Gewerbe
-Der Mix aus Gewerbe, Wohnen und Nahversorgung mit Migros und Denner, macht die Neuüberbauung Südmat…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bernstrasse
-200
-CHF
-Büro-/ Gewerbefläche von 118 - 1600 m² …
-Bernstrasse, 3627 Heimberg
-Array
-Objekttyp
-Büro
-Der Mix aus Gewerbe, Wohnen und Nahversorgung mit Migros und Denner, macht die Neuüberbauung Südmat…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mittelweg 6
-1'890
-CHF
-/Monat
-Wohnen in ländlicher Umgebung
-Mittelweg 6, 3627 Heimberg
-Array
-4.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-105 m2
-Etage
-Grosszügige Wohnung in HeimbergWir vermieten nach Vereinbarung am Mittelweg 2-6 in Heimberg diverse…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bernstrasse 135
-Preis auf Anfrage
-Zeit für neue Geschäfte Gewerbeflächen …
-Bernstrasse 135, 3627 Heimberg
-Array
-Objekttyp
-Büro
-An der Bernstrasse 135 in Heimberg vermieten wir per sofort oder nach Vereinbarung Gewerbeflächen u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
+Seite 1 von 2
+1
+2
+nächste Seite
 ImmoStreet.ch
 Mieten
 Immobilien mieten in der Stadt Heimberg

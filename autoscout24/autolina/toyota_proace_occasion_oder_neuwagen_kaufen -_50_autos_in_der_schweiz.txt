@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -101,7 +101,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -154,328 +154,151 @@ TI
 WIR-ANTEIL
 50 Treffer
 Suche zurücksetzen
-NEU
 TOYOTA
-PROACE Kombi L1 1.5 D Combi
-CHF 38'987
-ab CHF 419/Monat
+PROACE Van L1 2.0 D Active 4x4
+CHF 45'842
+ab CHF 493/Monat
 -
 Handschaltung
-5 km
-Diesel
-Vorderradantrieb
-weiss
-120 PS
-SG
-Merken
-TOYOTA
-PROACE Kombi L1 1.5 D Combi
--
-120 PS
-5 km
-CHF 38'987
-Merken
-ab CHF 419/Monat
-TOYOTA
-Proace 1.5D Combi Long
-CHF 31'821
-ab CHF 342/Monat
--
-Handschaltung
-10 km
-Diesel
-Vorderradantrieb
-weiss
-120 PS
-BE
-Merken
-TOYOTA
-Proace 1.5D Combi Long
--
-120 PS
-10 km
-CHF 31'821
-Merken
-ab CHF 342/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-TOYOTA
-Proace 2.0D Panel Van Medium Active 4x4
-CHF 36'925
-ab CHF 397/Monat
--
-Handschaltung
-100 km
-Diesel
-Allradantrieb
-rot
-150 PS
-BE
-Merken
-TOYOTA
-Proace 2.0D Panel Van Medium Acti...
--
-150 PS
-100 km
-CHF 36'925
-Merken
-ab CHF 397/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-TOYOTA
-Proace 2.0D Panel Van Medium Active 4x4
-CHF 36'500
-ab CHF 392/Monat
--
-Handschaltung
-15 km
+0 km
 Diesel
 Allradantrieb
 weiss
 150 PS
-GR
+FL
 Merken
 TOYOTA
-Proace 2.0D Panel Van Medium Acti...
+PROACE Van L1 2.0 D Active 4x4
 -
 150 PS
-15 km
-CHF 36'500
+0 km
+CHF 45'842
 Merken
-ab CHF 392/Monat
+ab CHF 493/Monat
 TOYOTA
-Proace 2.0D Panel Van Medium Active 4x4
-CHF 36'500
-ab CHF 392/Monat
--
-Handschaltung
-15 km
-Diesel
-Allradantrieb
-rot
-150 PS
-GR
-Merken
-TOYOTA
-Proace 2.0D Panel Van Medium Acti...
--
-150 PS
-15 km
-CHF 36'500
-Merken
-ab CHF 392/Monat
-TOYOTA
-PROACE Firenze
-CHF 65'100
-ab CHF 700/Monat
-06.2019
--
-12'000 km
-Diesel
--
-silber
-120 PS
-LU
-Merken
-TOYOTA
-PROACE Firenze
-06.2019
-120 PS
-12'000 km
-CHF 65'100
-Merken
-ab CHF 700/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-TOYOTA
-Proace 2.0D XRack by ROELLI
-CHF 90'930
-ab CHF 977/Monat
-12.2020
-Handschaltung
-5'000 km
-Diesel
-Vorderradantrieb
-weiss
-150 PS
-LU
-Merken
-TOYOTA
-Proace 2.0D XRack by ROELLI
-12.2020
-150 PS
-5'000 km
-CHF 90'930
-Merken
-ab CHF 977/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-TOYOTA
-Proace EV 75kWh Medium Active
-CHF 43'950
-ab CHF 472/Monat
-11.2020
+ALMO Firenze
+CHF 72'000
+ab CHF 774/Monat
+07.2019
 Automat
-2'000 km
-Elektro
+4'500 km
+Diesel
 Vorderradantrieb
-weiss
-136 PS
-LU
+grau
+177 PS
+BE
 Merken
 TOYOTA
-Proace EV 75kWh Medium Active
-11.2020
-136 PS
-2'000 km
-CHF 43'950
+ALMO Firenze
+07.2019
+177 PS
+4'500 km
+CHF 72'000
 Merken
-ab CHF 472/Monat
+ab CHF 774/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+TOYOTA
+PROACE Firenze Campervan
+CHF 75'000
+ab CHF 806/Monat
+07.2021
+Automat
+1'500 km
+Diesel
+Vorderradantrieb
+silber
+177 PS
+NW
+Merken
+TOYOTA
+PROACE Firenze Campervan
+07.2021
+177 PS
+1'500 km
+CHF 75'000
+Merken
+ab CHF 806/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+TOYOTA
+PROACE Firenze Campervan
+CHF 76'869
+ab CHF 826/Monat
+-
+Automat
+20 km
+Diesel
+Vorderradantrieb
+anthrazit
+177 PS
+NW
+Merken
+TOYOTA
+PROACE Firenze Campervan
+-
+177 PS
+20 km
+CHF 76'869
+Merken
+ab CHF 826/Monat
 35-Punkte-Check
 Kostenlose Probefahrt
 Garantieversprechen
 Faires Eintauschangebot
 TOYOTA
 Proace EV 50kWh Medium Active
-CHF 36'900
-ab CHF 397/Monat
+CHF 40'790
+ab CHF 481/Monat
+12.2020
 -
--
-25 km
+100 km
 Elektro
 Vorderradantrieb
 weiss
 136 PS
-SG
+TI
 Merken
 TOYOTA
 Proace EV 50kWh Medium Active
--
+12.2020
 136 PS
-25 km
-CHF 36'900
+100 km
+CHF 40'790
 Merken
-ab CHF 397/Monat
+ab CHF 481/Monat
 TOYOTA
-Proace 2.0D Panel Van Luna L1H1
-CHF 8'900
-ab CHF 101/Monat
-02.2014
-Handschaltung
-167'000 km
-Diesel
-Vorderradantrieb
-weiss
-128 PS
-ZH
-Merken
-TOYOTA
-Proace 2.0D Panel Van Luna L1H1
-02.2014
-128 PS
-167'000 km
-CHF 8'900
-Merken
-ab CHF 101/Monat
-TOYOTA
-PROACE Firenze L1 2.0 D
-CHF 62'900
-ab CHF 676/Monat
-11.2019
-Handschaltung
-5'000 km
-Diesel
-Vorderradantrieb
-sonstiges
-150 PS
-SG
-Merken
-TOYOTA
-PROACE Firenze L1 2.0 D
-11.2019
-150 PS
-5'000 km
-CHF 62'900
-Merken
-ab CHF 676/Monat
-TOYOTA
-PROACE FIRENZE Campervan
-CHF 65'900
-ab CHF 708/Monat
-09.2019
+Proace 2.0D Panel Van Long Active 4x4
+CHF 38'500
+ab CHF 414/Monat
 -
-6'500 km
+Handschaltung
+15 km
 Diesel
--
+Allradantrieb
 weiss
 150 PS
-BE
+GR
 Merken
 TOYOTA
-PROACE FIRENZE Campervan
-09.2019
+Proace 2.0D Panel Van Long Active...
+-
 150 PS
-6'500 km
-CHF 65'900
+15 km
+CHF 38'500
 Merken
-ab CHF 708/Monat
-TOYOTA
-PROACE FIRENZE Campervan
-CHF 77'800
-ab CHF 836/Monat
-12.2020
--
-990 km
-Diesel
--
-schwarz
-177 PS
-BE
-Merken
-TOYOTA
-PROACE FIRENZE Campervan
-12.2020
-177 PS
-990 km
-CHF 77'800
-Merken
-ab CHF 836/Monat
-TOYOTA
-PROACE FIRENZE Campervan
-CHF 73'800
-ab CHF 793/Monat
-11.2020
--
-250 km
-Diesel
--
-orange
-177 PS
-BE
-Merken
-TOYOTA
-PROACE FIRENZE Campervan
-11.2020
-177 PS
-250 km
-CHF 73'800
-Merken
-ab CHF 793/Monat
+ab CHF 414/Monat
 TOYOTA
 PROACE FIRENZE Campervan
 CHF 76'500
 ab CHF 822/Monat
-02.2021
+03.2021
 -
-12 km
+20 km
 Diesel
 -
 grau
@@ -484,12 +307,184 @@ BE
 Merken
 TOYOTA
 PROACE FIRENZE Campervan
-02.2021
+03.2021
 177 PS
-12 km
+20 km
 CHF 76'500
 Merken
 ab CHF 822/Monat
+TOYOTA
+PROACE Van L1 50KWh 7kW OBC Active
+CHF 37'000
+ab CHF 398/Monat
+-
+Automat
+5 km
+Elektro
+Vorderradantrieb
+weiss
+136 PS
+SZ
+Merken
+TOYOTA
+PROACE Van L1 50KWh 7kW OBC Activ...
+-
+136 PS
+5 km
+CHF 37'000
+Merken
+ab CHF 398/Monat
+TOYOTA
+Proace EV 50kWh Medium Active
+CHF 33'900
+ab CHF 365/Monat
+-
+-
+50 km
+Elektro
+Vorderradantrieb
+weiss
+136 PS
+LU
+Merken
+TOYOTA
+Proace EV 50kWh Medium Active
+-
+136 PS
+50 km
+CHF 33'900
+Merken
+ab CHF 365/Monat
+TOYOTA
+PROACE FIRENZE Campervan
+CHF 76'400
+ab CHF 821/Monat
+04.2021
+-
+20 km
+Diesel
+-
+grau
+177 PS
+BE
+Merken
+TOYOTA
+PROACE FIRENZE Campervan
+04.2021
+177 PS
+20 km
+CHF 76'400
+Merken
+ab CHF 821/Monat
+TOYOTA
+Proace 1.6D Panel Van L0 Terra
+CHF 17'900
+ab CHF 193/Monat
+02.2018
+Handschaltung
+7'000 km
+Diesel
+Vorderradantrieb
+weiss
+95 PS
+NW
+Merken
+TOYOTA
+Proace 1.6D Panel Van L0 Terra
+02.2018
+95 PS
+7'000 km
+CHF 17'900
+Merken
+ab CHF 193/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+TOYOTA
+PROACE Firenze L1 2.0 D
+CHF 62'500
+ab CHF 672/Monat
+07.2021
+Handschaltung
+500 km
+Diesel
+Vorderradantrieb
+schwarz
+150 PS
+SG
+Merken
+TOYOTA
+PROACE Firenze L1 2.0 D
+07.2021
+150 PS
+500 km
+CHF 62'500
+Merken
+ab CHF 672/Monat
+TOYOTA
+Proace Verso 2.0 D-4D Family L1
+CHF 33'750
+ab CHF 363/Monat
+08.2016
+Handschaltung
+23'700 km
+Diesel
+Vorderradantrieb
+anthrazit
+150 PS
+UR
+Merken
+TOYOTA
+Proace Verso 2.0 D-4D Family L1
+08.2016
+150 PS
+23'700 km
+CHF 33'750
+Merken
+ab CHF 363/Monat
+TOYOTA
+Proace 1.6D Panel Van L1 Terra
+CHF 29'900
+ab CHF 322/Monat
+12.2019
+Handschaltung
+150 km
+Diesel
+Vorderradantrieb
+weiss
+115 PS
+BE
+Merken
+TOYOTA
+Proace 1.6D Panel Van L1 Terra
+12.2019
+115 PS
+150 km
+CHF 29'900
+Merken
+ab CHF 322/Monat
+TOYOTA
+PROACE Kombi L2 2.0 D Combi
+CHF 34'618
+ab CHF 372/Monat
+06.2021
+Handschaltung
+1'000 km
+Diesel
+Vorderradantrieb
+weiss
+145 PS
+SZ
+Merken
+TOYOTA
+PROACE Kombi L2 2.0 D Combi
+06.2021
+145 PS
+1'000 km
+CHF 34'618
+Merken
+ab CHF 372/Monat
 1
 1
 2

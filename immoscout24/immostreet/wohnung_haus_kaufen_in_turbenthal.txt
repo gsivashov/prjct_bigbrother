@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/in-turbenthal/
 Title: Wohnung & Haus kaufen in Turbenthal - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Turbenthal - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Turbenthal - Immostreet.ch: ImmoStreet.ch hat 6 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-7 Resultate gefunden ·
+6 Resultate gefunden ·
 Wohnung & Haus kaufen in Turbenthal
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,25 +151,6 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Hohmattring 10
-1'320'000
-CHF
-Attraktives Eckhaus
-Hohmattring 10, 8488 Turbenthal
-Array
-6.5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-6.5
-Wohnfläche
-160 m2
-Die grosszügige Architektur und der überdurchschnittliche Ausbaustandart sprechen für die Qualität …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Landenbergweg 5
 1'432'000
 CHF
@@ -185,6 +166,46 @@ Zimmer
 Wohnfläche
 166 m2
 ***Freistehendes EFH an zentraler und idyllischer Lage in Turbenthal - wie ein Neubau!***Das Einfam…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberhofen 631
+515'000
+CHF
+Verwirklichen Sie Ihre Ideen! 4 ½-Zi.-F…
+Oberhofen 631, 8488 Turbenthal
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Etage
+Historisches 4 ½-Zimmer-Flarzeckhaus aus dem 18. Jahrhundert mit Garten und Potenzial in idyllische…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sandplatte 8
+750'000
+CHF
+Auf dem Land, mit den Vorzügen einer Kl…
+Sandplatte 8, 8488 Turbenthal
+Array
+5.5 Zimmer
+173 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+173 m2
+Etage
+Aktuell umfasst das einseitig angebaute Einfamilienhaus 5 ½-Zimmer (beheizt) sowie 2 unbeheizte Zim…
 Teilen
 E-Mail
 Facebook
@@ -209,25 +230,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Zihlackerring 16
-660'000
-CHF
-grosszügige 4.5 Eigentumswohnung mit Ba…
-Zihlackerring 16, 8488 Turbenthal
-Array
-4.5 Zimmer
-129 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-129 m2
-Die 4.5-Zimmerwohnung im 2. Obergeschoss 1992 erstellt. Seit dem Kauf wurden immer wieder einzelne …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Landenbergweg 1a
 655'000
 CHF
@@ -242,25 +244,6 @@ Zimmer
 3.5
 Wohnfläche
 90 m2
-Zentrum Turbenthal - Baubewilligung erhaltenFür Sie bauen wir zwei Mehrfamilienhäuser mit je sechs …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Landenbergweg 1a
-795'000
-CHF
-Schöner Wohnen
-Landenbergweg 1a, 8488 Turbenthal
-Array
-4.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-112 m2
 Zentrum Turbenthal - Baubewilligung erhaltenFür Sie bauen wir zwei Mehrfamilienhäuser mit je sechs …
 Teilen
 E-Mail

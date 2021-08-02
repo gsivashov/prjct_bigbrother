@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/apartment-and-house/bezirk-einsiedeln/
 Title: Wohnung & Haus kaufen in Bezirk Einsiedeln - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Einsiedeln - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Einsiedeln - Immostreet.ch: ImmoStreet.ch hat 22 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-18 Resultate gefunden ·
+22 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Einsiedeln
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,17 +151,150 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Euthalerstrasse 11
+Adresse auf Anfrage
+1'130'000
+CHF
+Zentrale Lage, viele Zimmer & Garten
+Adresse auf Anfrage, 8840 Einsiedeln
+Array
+Objekttyp
+Wohnung, Einzelhaus
+Treten Sie ein in ein Haus voller Charme. Das gesammte Innenleben wurde über die letzten Jahre reno…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Reckholdern 26
 Preis auf Anfrage
-seerose-sihlsee
-Euthalerstrasse 11, 8844 Euthal
+Einfamilienhaus
+Reckholdern 26, 8846 Willerzell
+Array
+5 Zimmer
+200 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5
+Wohnfläche
+200 m2
+Einmalige, naturnahe Wohnlage im Hochtal der Sihl !
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grosserstrasse 76
+850'000
+CHF
+3½-Zimmer Chalet (& Potential), prächti…
+Grosserstrasse 76, 8841 Gross
+Array
+3.5 Zimmer
+109 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+3.5
+Wohnfläche
+109 m2
+Etage
+Eine Liegenschaft an einmaliger Lage, bezauberndem Garten und viel Privatsphäre, in unmittelbarer N…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'500'000
+CHF
+Modernes EFH mit Panoramasicht über Ein…
+Adresse auf Anfrage, 8840 Einsiedeln
 Array
 5.5 Zimmer
+180 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+180 m2
+Etage
+Die LageDie Gemeinde Einsiedeln, am wunderschönen Sihlsee gelegen, ist eine beliebte Wohngemeinde u…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Etzelstrasse 4
+Preis auf Anfrage
+4.5 Zimmer Eigentumswohnung an bester L…
+Etzelstrasse 4, 8840 Einsiedeln
+Array
+4.5 Zimmer
+135 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
+4.5
+Wohnfläche
+135 m2
+Etage
+4.5 Zimmer WohnungDas Mehrfamilienhaus Schlüsselhöfli wird am oberen Dorfrand, unweit von Kloster u…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gross
+1'150'000
+CHF
+Einfamilienhaus mit Top Aussicht und mi…
+Gross, 8841 Gross
+Array
+5.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
 5.5
-Natur pur.... nur 35 Autominuten von Zürich entfernt.Es entsteht ein zeitgemässer Holzbau für 13 Ei…
+Wohnfläche
+105 m2
+Dieses Wohn-oder Ferienhaus, umgeben von viel Grünfläche mit Top Aussicht, sucht einen neuen Besitz…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Amselweg 12
+1'320'000
+CHF
+Kein Königreich aber ein eigenes Schlös…
+Amselweg 12, 8836 Bennau
+Array
+4.5 Zimmer
+116 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+116 m2
+Nennen wir es das Schlössli. Am Amselweg 12 in Bennau steht ein Haus, das Liebhaberinnen und Liebha…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'895'000
+CHF
+Auf einer anderen Ebene - mit See und B…
+Adresse auf Anfrage, 8840 Einsiedeln
+Array
+5.5 Zimmer
+280 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+280 m2
+Etage
+Dieser Luxuspalast befördert Sie auf eine andere Ebene – selbige können Sie im Inneren natürlich mi…
 Teilen
 E-Mail
 Facebook
@@ -181,24 +314,6 @@ Zimmer
 Wohnfläche
 151 m2
 Eine einmalige Wohnung am Dorfrand von EinsiedelnIn dieser Wohnung geniessen Sie dank Hanglage und …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Family Home an Topadresse
-Adresse auf Anfrage, 8840 Einsiedeln
-Array
-5 Zimmer
-133 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5
-Wohnfläche
-133 m2
-Dieses Einfamilienhaus hat ein aussergewöhnliches Raumkonzept auf drei versetzten Ebenen. Auf der u…
 Teilen
 E-Mail
 Facebook
@@ -237,26 +352,6 @@ Wohnfläche
 171 m2
 Etage
 Dieses luxuriöse, hochmoderne Apartment in der obersten Etage, mit 5,5 Zimmern, bietet einen fantas…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'190'000
-CHF
-Ferien zu Hause
-Adresse auf Anfrage, 8840 Einsiedeln
-Array
-5.5 Zimmer
-152 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-152 m2
-Etage
-Ferien zu Hause.Dieses Bijou auf drei Etagen besitzt alles was Sie sich erträumt haben.Der Eingangs…
 Teilen
 E-Mail
 Facebook
@@ -422,26 +517,6 @@ E-Mail
 Facebook
 Whatsapp
 Euthalerstr. 19
-695'000
-CHF
-Projekt: 2021Nord «4½Zi 2.Obergeschossw…
-Euthalerstr. 19, 8844 Euthal
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Etage
-***RESERVIERT***Am wunderschönen Sihlsee in Euthal mit fantastischer Alpenpanoramablick, entstehen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Euthalerstr. 19
 710'000
 CHF
 Projekt:2021Süd«4½Zi 2.Obergeschosswohn…
@@ -461,45 +536,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Euthalerstr. 19
-665'000
-CHF
-Projekt: 2021 Nord «4½ Zi 1.Obergeswohn…
-Euthalerstr. 19, 8844 Euthal
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Etage
-***RESERVIERT***Am wunderschönen Sihlsee in Euthal mit fantastischer Alpenpanoramablick, entstehen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Top Lage in Willerzell
-Adresse auf Anfrage, 8846 Willerzell
-Array
-4 Zimmer
-100 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4
-Wohnfläche
-100 m2
-Etage
-Bei diesem im Jahre 2014 gebauten Haus in Willerzell fehlt es an nichts.Die Liegenschaft ist in all…
-Teilen
-E-Mail
-Facebook
-Whatsapp
+Seite 1 von 2
+1
+2
+nächste Seite
 ImmoStreet.ch
 Kaufen
 Wohnung & Haus zu kaufen

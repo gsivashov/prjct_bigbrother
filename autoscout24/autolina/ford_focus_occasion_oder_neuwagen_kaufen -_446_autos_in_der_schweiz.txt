@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -101,7 +101,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -154,346 +154,339 @@ TI
 WIR-ANTEIL
 446 Treffer
 Suche zurücksetzen
-NEU
 FORD
-FOCUS 1.5 SCTi ST Line 182HP
-CHF 27'400
-ab CHF 323/Monat
-06.2020
-Automat
-6'000 km
-Benzin
-Vorderradantrieb
-grau
-182 PS
-ZH
-Merken
-FORD
-FOCUS 1.5 SCTi ST Line 182HP
-06.2020
-182 PS
-6'000 km
-CHF 27'400
-Merken
-ab CHF 323/Monat
-FORD
-Focus 2.0 TDCi ST-3
-CHF 20'600
-ab CHF 222/Monat
-04.2016
-Automat
-73'256 km
-Diesel
-Vorderradantrieb
-grau
-185 PS
-TG
-Merken
-FORD
-Focus 2.0 TDCi ST-3
-04.2016
-185 PS
-73'256 km
-CHF 20'600
-Merken
-ab CHF 222/Monat
-FORD
-Focus 2.3 EcoB RS+ Race Red Edition
-CHF 41'000
-ab CHF 441/Monat
-07.2018
+Focus 2.5i 20V ST
+CHF 7'400
+ab CHF 84/Monat
+04.2007
 Handschaltung
-19'000 km
-Benzin
-Allradantrieb
-rot
-350 PS
-FR
-Merken
-FORD
-Focus 2.3 EcoB RS+ Race Red Editi...
-07.2018
-350 PS
-19'000 km
-CHF 41'000
-Merken
-ab CHF 441/Monat
-NEU
-FORD
-Focus 1.6i VCT Carving
-CHF 1'450
-07.2007
-Handschaltung
-170'800 km
+151'000 km
 Benzin
 Vorderradantrieb
 schwarz
-115 PS
-BE
+225 PS
+SG
 Merken
 FORD
-Focus 1.6i VCT Carving
-07.2007
-115 PS
-170'800 km
-CHF 1'450
+Focus 2.5i 20V ST
+04.2007
+225 PS
+151'000 km
+CHF 7'400
 Merken
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
+ab CHF 84/Monat
 FORD
-Focus 1.6 SCTi Trend
-CHF 8'800
-ab CHF 100/Monat
-07.2013
+Focus Coupé-Cabrio 1.6i 16V Ambiente
+CHF 8'700
+ab CHF 98/Monat
+09.2010
 Handschaltung
-109'000 km
+71'000 km
 Benzin
 Vorderradantrieb
-silber
-150 PS
+schwarz
+100 PS
 ZH
 Merken
 FORD
-Focus 1.6 SCTi Trend
-07.2013
+Focus Coupé-Cabrio 1.6i 16V Ambie...
+09.2010
+100 PS
+71'000 km
+CHF 8'700
+Merken
+ab CHF 98/Monat
+FORD
+Focus 1.5 SCTi Titanium
+CHF 17'900
+ab CHF 193/Monat
+10.2018
+Handschaltung
+28'900 km
+Benzin
+Vorderradantrieb
+grau
 150 PS
-109'000 km
-CHF 8'800
+TI
 Merken
-ab CHF 100/Monat
-NEU
 FORD
-Focus 1.0 SCTi Business
-CHF 13'500
-ab CHF 145/Monat
-06.2018
+Focus 1.5 SCTi Titanium
+10.2018
+150 PS
+28'900 km
+CHF 17'900
+Merken
+ab CHF 193/Monat
+FORD
+Focus Station Wagon 1.0i EcoB 125 ST-Lin
+CHF 21'900
+ab CHF 258/Monat
+07.2020
 Handschaltung
-78'500 km
+9'000 km
 Benzin
-Vorderradantrieb
-grau
-125 PS
-VD
-Merken
-FORD
-Focus 1.0 SCTi Business
-06.2018
-125 PS
-78'500 km
-CHF 13'500
-Merken
-ab CHF 145/Monat
-NEU
-FORD
-FOCUS 1.0i EcoB 125 ST-Line
-CHF 13'500
-ab CHF 145/Monat
-07.2018
-Handschaltung
-78'500 km
-Benzin
-Vorderradantrieb
-grau
-125 PS
-VD
-Merken
-FORD
-FOCUS 1.0i EcoB 125 ST-Line
-07.2018
-125 PS
-78'500 km
-CHF 13'500
-Merken
-ab CHF 145/Monat
-NEU
-FORD
-Focus Station Wagon 1.0i EcoB Hybrid 125 ST-Line
-CHF 24'800
-ab CHF 292/Monat
-12.2020
-Automat
-10'000 km
-Mild-Hybrid Benzin/Elektro
 Vorderradantrieb
 blau
 125 PS
 BE
 Merken
 FORD
-Focus Station Wagon 1.0i EcoB Hyb...
-12.2020
+Focus Station Wagon 1.0i EcoB 125...
+07.2020
 125 PS
-10'000 km
-CHF 24'800
+9'000 km
+CHF 21'900
 Merken
-ab CHF 292/Monat
+ab CHF 258/Monat
 35-Punkte-Check
 Kostenlose Probefahrt
 Garantieversprechen
 Faires Eintauschangebot
-NEU
 FORD
-Focus Station Wagon 1.0 MHEV 125PS ST-Line
-CHF 23'800
-ab CHF 281/Monat
-12.2020
+Focus 1.0 SCTi Active
+CHF 19'900
+ab CHF 214/Monat
+03.2019
 Handschaltung
-12'000 km
-Benzin
-Vorderradantrieb
-grau
-125 PS
-BE
-Merken
-FORD
-Focus Station Wagon 1.0 MHEV 125P...
-12.2020
-125 PS
-12'000 km
-CHF 23'800
-Merken
-ab CHF 281/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-FORD
-Focus 2.0 TDCi Ghia
-CHF 1'200
-08.2005
-Handschaltung
-240'000 km
-Diesel
-Vorderradantrieb
-grau
-136 PS
-SG
-Merken
-FORD
-Focus 2.0 TDCi Ghia
-08.2005
-136 PS
-240'000 km
-CHF 1'200
-Merken
-NEU
-FORD
-Focus 2.3 EcoBoost RS AWD
-CHF 28'800
-ab CHF 310/Monat
-02.2017
-Handschaltung
-94'000 km
-Benzin
-Allradantrieb
-grau
-350 PS
-SG
-Merken
-FORD
-Focus 2.3 EcoBoost RS AWD
-02.2017
-350 PS
-94'000 km
-CHF 28'800
-Merken
-ab CHF 310/Monat
-NEU
-FORD
-Focus 1.0 SCTi ST Line
-CHF 22'400
-ab CHF 241/Monat
-11.2020
-Handschaltung
-8'900 km
+43'500 km
 Benzin
 Vorderradantrieb
 weiss
 125 PS
-AG
+BE
 Merken
 FORD
-Focus 1.0 SCTi ST Line
-11.2020
+Focus 1.0 SCTi Active
+03.2019
 125 PS
-8'900 km
-CHF 22'400
+43'500 km
+CHF 19'900
 Merken
-ab CHF 241/Monat
-NEU
-FORD
-Focus 1.0 SCTi ST Line Automatic
-CHF 23'900
-ab CHF 257/Monat
-11.2020
-Automat
-6'800 km
-Benzin
-Vorderradantrieb
-schwarz
-125 PS
-AG
-Merken
-FORD
-Focus 1.0 SCTi ST Line Automatic
-11.2020
-125 PS
-6'800 km
-CHF 23'900
-Merken
-ab CHF 257/Monat
-NEU
-FORD
-Focus 1.6 SCTi Carving
-CHF 8'700
-ab CHF 107/Monat
-11.2012
-Handschaltung
-92'000 km
-Benzin
-Vorderradantrieb
-schwarz
-150 PS
-ZH
-Merken
-FORD
-Focus 1.6 SCTi Carving
-11.2012
-150 PS
-92'000 km
-CHF 8'700
-Merken
-ab CHF 107/Monat
-NEU
-FORD
-Focus Station Wagon 1.0i EcoB 125 ST-Line
-CHF 23'900
-ab CHF 257/Monat
-12.2020
-Handschaltung
-18'000 km
-Benzin
-Vorderradantrieb
-grau
-125 PS
-LU
-Merken
-FORD
-Focus Station Wagon 1.0i EcoB 125...
-12.2020
-125 PS
-18'000 km
-CHF 23'900
-Merken
-ab CHF 257/Monat
+ab CHF 214/Monat
 35-Punkte-Check
 Kostenlose Probefahrt
 Garantieversprechen
 Faires Eintauschangebot
+FORD
+Focus 2.0 TDCi ST Line Automatic
+CHF 32'402
+ab CHF 348/Monat
+10.2020
+Automat
+11'800 km
+Diesel
+Vorderradantrieb
+schwarz
+150 PS
+BE
+Merken
+FORD
+Focus 2.0 TDCi ST Line Automatic
+10.2020
+150 PS
+11'800 km
+CHF 32'402
+Merken
+ab CHF 348/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+FORD
+Focus 1.0 SCTi ST Line
+CHF 24'000
+ab CHF 258/Monat
+11.2019
+Handschaltung
+11'500 km
+Benzin
+Vorderradantrieb
+anthrazit
+125 PS
+BE
+Merken
+FORD
+Focus 1.0 SCTi ST Line
+11.2019
+125 PS
+11'500 km
+CHF 24'000
+Merken
+ab CHF 258/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+FORD
+Focus 1.0 SCTi ST Line
+CHF 17'450
+ab CHF 188/Monat
+08.2018
+Handschaltung
+35'000 km
+Benzin
+Vorderradantrieb
+schwarz
+125 PS
+AG
+Merken
+FORD
+Focus 1.0 SCTi ST Line
+08.2018
+125 PS
+35'000 km
+CHF 17'450
+Merken
+ab CHF 188/Monat
+FORD
+Focus 1.0 SCTi ST Line
+CHF 15'900
+ab CHF 171/Monat
+06.2018
+Handschaltung
+32'200 km
+Benzin
+Vorderradantrieb
+weiss
+125 PS
+TI
+Merken
+FORD
+Focus 1.0 SCTi ST Line
+06.2018
+125 PS
+32'200 km
+CHF 15'900
+Merken
+ab CHF 171/Monat
+FORD
+Focus Station Wagon 1.5 TDCi 1 Business
+CHF 15'900
+ab CHF 171/Monat
+04.2018
+Automat
+96'050 km
+Diesel
+Vorderradantrieb
+grau
+120 PS
+TG
+Merken
+FORD
+Focus Station Wagon 1.5 TDCi 1 Bu...
+04.2018
+120 PS
+96'050 km
+CHF 15'900
+Merken
+ab CHF 171/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+FORD
+Focus 2.3 EcoBoost RS AWD
+CHF 34'400
+ab CHF 405/Monat
+05.2018
+Handschaltung
+35'000 km
+Benzin
+Allradantrieb
+grau
+350 PS
+ZH
+Merken
+FORD
+Focus 2.3 EcoBoost RS AWD
+05.2018
+350 PS
+35'000 km
+CHF 34'400
+Merken
+ab CHF 405/Monat
+FORD
+Focus Station Wagon 1.0i EcoB 125 Titanium
+CHF 13'900
+ab CHF 150/Monat
+09.2016
+Automat
+92'000 km
+Benzin
+Vorderradantrieb
+grau
+125 PS
+ZH
+Merken
+FORD
+Focus Station Wagon 1.0i EcoB 125...
+09.2016
+125 PS
+92'000 km
+CHF 13'900
+Merken
+ab CHF 150/Monat
+FORD
+ST-Line 1.0
+CHF 17'800
+ab CHF 192/Monat
+09.2012
+Handschaltung
+57'000 km
+Benzin
+Vorderradantrieb
+grau
+125 PS
+ZH
+Merken
+FORD
+ST-Line 1.0
+09.2012
+125 PS
+57'000 km
+CHF 17'800
+Merken
+ab CHF 192/Monat
+FORD
+Focus 1.6i 16V Carving
+CHF 2'500
+04.2002
+Handschaltung
+177'000 km
+Benzin
+Vorderradantrieb
+blau
+100 PS
+ZH
+Merken
+FORD
+Focus 1.6i 16V Carving
+04.2002
+100 PS
+177'000 km
+CHF 2'500
+Merken
+FORD
+Focus 2.5 Turbo RS
+CHF 32'900
+ab CHF 354/Monat
+03.2011
+Handschaltung
+58'000 km
+Benzin
+Vorderradantrieb
+weiss
+305 PS
+BE
+Merken
+FORD
+Focus 2.5 Turbo RS
+03.2011
+305 PS
+58'000 km
+CHF 32'900
+Merken
+ab CHF 354/Monat
 1
 1
 2

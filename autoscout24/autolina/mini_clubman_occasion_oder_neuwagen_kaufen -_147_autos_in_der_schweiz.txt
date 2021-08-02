@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -101,7 +101,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -156,8 +156,8 @@ WIR-ANTEIL
 Suche zurücksetzen
 MINI
 Clubman F54 2.0i Cooper S
-CHF 19'800
-ab CHF 213/Monat
+CHF 18'500
+ab CHF 199/Monat
 07.2016
 Automat
 81'000 km
@@ -172,307 +172,303 @@ Clubman F54 2.0i Cooper S
 07.2016
 192 PS
 81'000 km
-CHF 19'800
+CHF 18'500
 Merken
-ab CHF 213/Monat
+ab CHF 199/Monat
+MINI
+Clubman Cooper S ALL4 Steptronic
+CHF 19'500
+ab CHF 230/Monat
+03.2017
+Automat
+96'000 km
+Benzin
+Allradantrieb
+grau
+192 PS
+ZH
+Merken
+MINI
+Clubman Cooper S ALL4 Steptronic
+03.2017
+192 PS
+96'000 km
+CHF 19'500
+Merken
+ab CHF 230/Monat
+MINI
+Clubman Cooper JCW ALL4
+CHF 55'700
+ab CHF 599/Monat
+-
+Automat
+10 km
+Benzin
+Allradantrieb
+sonstiges
+306 PS
+SG
+Merken
+MINI
+Clubman Cooper JCW ALL4
+-
+306 PS
+10 km
+CHF 55'700
+Merken
+ab CHF 599/Monat
+MINI
+Clubman F54 1.5i Cooper
+CHF 21'990
+ab CHF 237/Monat
+08.2018
+Automat
+50'000 km
+Diesel
+Vorderradantrieb
+grau
+136 PS
+BE
+Merken
+MINI
+Clubman F54 1.5i Cooper
+08.2018
+136 PS
+50'000 km
+CHF 21'990
+Merken
+ab CHF 237/Monat
 MINI
 Clubman Cooper
-CHF 24'900
-ab CHF 268/Monat
-09.2020
-Automat
-19'999 km
+CHF 16'500
+ab CHF 178/Monat
+10.2017
+Handschaltung
+73'000 km
 Benzin
 Vorderradantrieb
 sonstiges
 136 PS
-ZH
+JU
 Merken
 MINI
 Clubman Cooper
-09.2020
+10.2017
 136 PS
-19'999 km
+73'000 km
+CHF 16'500
+Merken
+ab CHF 178/Monat
+MINI
+Clubman Cooper
+CHF 25'900
+ab CHF 279/Monat
+07.2018
+Automat
+31'000 km
+Benzin
+Vorderradantrieb
+schwarz
+136 PS
+SO
+Merken
+MINI
+Clubman Cooper
+07.2018
+136 PS
+31'000 km
+CHF 25'900
+Merken
+ab CHF 279/Monat
+MINI
+Clubman Cooper S ALL4
+CHF 18'900
+ab CHF 203/Monat
+07.2016
+Automat
+90'200 km
+Benzin
+Allradantrieb
+sonstiges
+192 PS
+VS
+Merken
+MINI
+Clubman Cooper S ALL4
+07.2016
+192 PS
+90'200 km
+CHF 18'900
+Merken
+ab CHF 203/Monat
+MINI
+Clubman Cooper S ALL4
+CHF 23'900
+ab CHF 257/Monat
+09.2017
+Automat
+55'500 km
+Benzin
+Allradantrieb
+sonstiges
+192 PS
+VD
+Merken
+MINI
+Clubman Cooper S ALL4
+09.2017
+192 PS
+55'500 km
+CHF 23'900
+Merken
+ab CHF 257/Monat
+MINI
+Clubman Cooper SD ALL4 Steptronic
+CHF 24'900
+ab CHF 268/Monat
+08.2017
+Automat
+45'000 km
+Diesel
+Allradantrieb
+braun
+190 PS
+AG
+Merken
+MINI
+Clubman Cooper SD ALL4 Steptronic
+08.2017
+190 PS
+45'000 km
 CHF 24'900
 Merken
 ab CHF 268/Monat
 MINI
-Clubman Cooper John Cooper Works ALL4 Steptronic SAG
-CHF 48'900
-ab CHF 526/Monat
-03.2021
+Clubman Cooper JCW ALL4
+CHF 57'700
+ab CHF 620/Monat
+04.2021
 Automat
-680 km
+6'000 km
 Benzin
 Allradantrieb
-rot
+sonstiges
 306 PS
-ZH
+BE
 Merken
 MINI
-Clubman Cooper John Cooper Works ...
-03.2021
+Clubman Cooper JCW ALL4
+04.2021
 306 PS
-680 km
-CHF 48'900
+6'000 km
+CHF 57'700
 Merken
-ab CHF 526/Monat
+ab CHF 620/Monat
 MINI
-Clubman Cooper S Trafalgar ALL4 Steptronic
-CHF 52'900
-ab CHF 569/Monat
--
-Automat
-10 km
-Benzin
-Allradantrieb
-blau
-178 PS
-ZH
-Merken
-MINI
-Clubman Cooper S Trafalgar ALL4 S...
--
-178 PS
-10 km
-CHF 52'900
-Merken
-ab CHF 569/Monat
-MINI
-Clubman Cooper S ALL4 Steptronic I Euro 6 I FULL LED I NAVI
-CHF 20'800
-ab CHF 224/Monat
-06.2016
-Automat
-50'000 km
-Benzin
-Allradantrieb
-grau
-192 PS
-LU
-Merken
-MINI
-Clubman Cooper S ALL4 Steptronic ...
-06.2016
-192 PS
-50'000 km
-CHF 20'800
-Merken
-ab CHF 224/Monat
-MINI
-Clubman F54 2.0 D Cooper
+Clubman Cooper S
 CHF 19'900
 ab CHF 214/Monat
-06.2016
-Automat
-90'500 km
-Diesel
+12.2015
+Handschaltung
+47'900 km
+Benzin
 Vorderradantrieb
-grün
-150 PS
+anthrazit
+192 PS
 SG
 Merken
 MINI
-Clubman F54 2.0 D Cooper
-06.2016
-150 PS
-90'500 km
+Clubman Cooper S
+12.2015
+192 PS
+47'900 km
 CHF 19'900
 Merken
 ab CHF 214/Monat
 MINI
-Clubman Cooper Steptronic DKG
-CHF 31'500
-ab CHF 339/Monat
-09.2020
+ClubmanCooper SD Trafalga
+CHF 37'900
+ab CHF 408/Monat
+10.2020
 Automat
-20'000 km
-Benzin
-Vorderradantrieb
-rot
-136 PS
-AG
-Merken
-MINI
-Clubman Cooper Steptronic DKG
-09.2020
-136 PS
-20'000 km
-CHF 31'500
-Merken
-ab CHF 339/Monat
-MINI
-Clubman Cooper S ALL4 Steptronic
-CHF 49'900
-ab CHF 536/Monat
--
-Automat
-10 km
-Benzin
-Allradantrieb
-schwarz
-178 PS
-VS
-Merken
-MINI
-Clubman Cooper S ALL4 Steptronic
--
-178 PS
-10 km
-CHF 49'900
-Merken
-ab CHF 536/Monat
-MINI
-Clubman Cooper S Steptronic
-CHF 16'900
-ab CHF 182/Monat
-06.2017
-Automat
-91'000 km
-Benzin
-Vorderradantrieb
-silber
-192 PS
-VS
-Merken
-MINI
-Clubman Cooper S Steptronic
-06.2017
-192 PS
-91'000 km
-CHF 16'900
-Merken
-ab CHF 182/Monat
-MINI
-Clubman Cooper SD ALL4 Steptronic
-CHF 27'500
-ab CHF 324/Monat
-09.2016
-Automat
-27'500 km
+5'800 km
 Diesel
 Allradantrieb
-blau
+sonstiges
 190 PS
-ZH
-Merken
-MINI
-Clubman Cooper SD ALL4 Steptronic
-09.2016
-190 PS
-27'500 km
-CHF 27'500
-Merken
-ab CHF 324/Monat
-MINI
-Clubman Cooper S ALL4 *Black-Exterieur*
-CHF 36'800
-ab CHF 396/Monat
-09.2020
-Automat
-3'500 km
-Benzin
-Allradantrieb
-silber
-192 PS
-LU
-Merken
-MINI
-Clubman Cooper S ALL4 *Black-Exte...
-09.2020
-192 PS
-3'500 km
-CHF 36'800
-Merken
-ab CHF 396/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-MINI
-Clubman Cooper
-CHF 41'100
-ab CHF 442/Monat
--
-Automat
-10 km
-Benzin
-Vorderradantrieb
-silber
-136 PS
-BL
-Merken
-MINI
-Clubman Cooper
--
-136 PS
-10 km
-CHF 41'100
-Merken
-ab CHF 442/Monat
-MINI
-Clubman Cooper John Cooper Works ALL4 Steptronic
-CHF 58'200
-ab CHF 626/Monat
--
-Automat
-20 km
-Benzin
-Allradantrieb
-blau
-306 PS
 VD
 Merken
 MINI
-Clubman Cooper John Cooper Works ...
--
-306 PS
-20 km
-CHF 58'200
+ClubmanCooper SD Trafalga
+10.2020
+190 PS
+5'800 km
+CHF 37'900
 Merken
-ab CHF 626/Monat
+ab CHF 408/Monat
 MINI
-Clubman Cooper John Cooper Works ALL4 Steptronic
-CHF 53'500
-ab CHF 575/Monat
-08.2019
+Clubman Cooper S ALL4 Steptronic
+CHF 42'900
+ab CHF 461/Monat
+05.2020
 Automat
-4'235 km
+14'000 km
+Benzin
+Allradantrieb
+rot
+192 PS
+ZH
+Merken
+MINI
+Clubman Cooper S ALL4 Steptronic
+05.2020
+192 PS
+14'000 km
+CHF 42'900
+Merken
+ab CHF 461/Monat
+MINI
+Clubman Cooper S ALL4 Steptronic
+CHF 28'500
+ab CHF 307/Monat
+07.2018
+Automat
+28'800 km
 Benzin
 Allradantrieb
 grau
-306 PS
-ZH
+192 PS
+FR
 Merken
-MINI
-Clubman Cooper John Cooper Works ...
-08.2019
-306 PS
-4'235 km
-CHF 53'500
-Merken
-ab CHF 575/Monat
 MINI
 Clubman Cooper S ALL4 Steptronic
-CHF 47'100
-ab CHF 506/Monat
-03.2019
+07.2018
+192 PS
+28'800 km
+CHF 28'500
+Merken
+ab CHF 307/Monat
+MINI
+Clubman Cooper S Steptronic
+CHF 20'900
+ab CHF 225/Monat
+12.2016
 Automat
-4'235 km
+55'100 km
 Benzin
-Allradantrieb
-blau
+Vorderradantrieb
+beige
 192 PS
-ZH
+FR
 Merken
 MINI
-Clubman Cooper S ALL4 Steptronic
-03.2019
+Clubman Cooper S Steptronic
+12.2016
 192 PS
-4'235 km
-CHF 47'100
+55'100 km
+CHF 20'900
 Merken
-ab CHF 506/Monat
+ab CHF 225/Monat
 1
 1
 2

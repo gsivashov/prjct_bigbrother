@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -101,7 +101,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -155,321 +155,322 @@ WIR-ANTEIL
 163 Treffer
 Suche zurücksetzen
 CITROEN
-C3 1.2 PureTech Shine
-CHF 12'000
-ab CHF 129/Monat
-09.2018
+C3 1.2 PureTech Shine 110i
+CHF 16'890
+ab CHF 182/Monat
+10.2019
 Handschaltung
-34'500 km
-Benzin
-Vorderradantrieb
-schwarz
-110 PS
-AG
-Merken
-CITROEN
-C3 1.2 PureTech Shine
-09.2018
-110 PS
-34'500 km
-CHF 12'000
-Merken
-ab CHF 129/Monat
-CITROEN
-C3 1.2 PureTech Live
-CHF 5'380
-ab CHF 61/Monat
-11.2017
-Handschaltung
-79'000 km
-Benzin
-Vorderradantrieb
-schwarz
-68 PS
-TG
-Merken
-CITROEN
-C3 1.2 PureTech Live
-11.2017
-68 PS
-79'000 km
-CHF 5'380
-Merken
-ab CHF 61/Monat
-NEU
-CITROEN
-C3 1.2i PureTech FeelPack
-CHF 17'600
-ab CHF 190/Monat
-05.2021
-Handschaltung
-50 km
+7'454 km
 Benzin
 Vorderradantrieb
 weiss
-83 PS
-FR
-Merken
-CITROEN
-C3 1.2i PureTech FeelPack
-05.2021
-83 PS
-50 km
-CHF 17'600
-Merken
-ab CHF 190/Monat
-NEU
-CITROEN
-C3 1.2i PureTech Shine
-CHF 14'800
-ab CHF 159/Monat
-02.2017
-Automat
-10'000 km
-Benzin
-Vorderradantrieb
-rot
-110 PS
-SO
-Merken
-CITROEN
-C3 1.2i PureTech Shine
-02.2017
-110 PS
-10'000 km
-CHF 14'800
-Merken
-ab CHF 159/Monat
-NEU
-CITROEN
-C3 1.2 PureTech Shine
-CHF 19'400
-ab CHF 209/Monat
-08.2020
-Automat
-6'500 km
-Benzin
-Vorderradantrieb
-grau
-110 PS
-AG
-Merken
-CITROEN
-C3 1.2 PureTech Shine
-08.2020
-110 PS
-6'500 km
-CHF 19'400
-Merken
-ab CHF 209/Monat
-CITROEN
-C3 1.6i 16V Exclusive
-CHF 7'750
-10.2014
-Handschaltung
-100'000 km
-Benzin
-Vorderradantrieb
-weiss
-120 PS
-BE
-Merken
-CITROEN
-C3 1.6i 16V Exclusive
-10.2014
-120 PS
-100'000 km
-CHF 7'750
-Merken
-CITROEN
-C3 1.4i 16V Exclusive
-CHF 5'650
-01.2011
-Handschaltung
-100'000 km
-Benzin
-Vorderradantrieb
-schwarz
-95 PS
-BE
-Merken
-CITROEN
-C3 1.4i 16V Exclusive
-01.2011
-95 PS
-100'000 km
-CHF 5'650
-Merken
-CITROEN
-C3 1.4i Attraction Pack
-CHF 7'500
-03.2011
-Handschaltung
-75'000 km
-Benzin
-Vorderradantrieb
-grau
-73 PS
-ZH
-Merken
-CITROEN
-C3 1.4i Attraction Pack
-03.2011
-73 PS
-75'000 km
-CHF 7'500
-Merken
-CITROEN
-C3 1.2i PureTech Exclusive
-CHF 7'900
-04.2015
-Handschaltung
-96'000 km
-Benzin
-Vorderradantrieb
-schwarz
-110 PS
-ZH
-Merken
-CITROEN
-C3 1.2i PureTech Exclusive
-04.2015
-110 PS
-96'000 km
-CHF 7'900
-Merken
-CITROEN
-C3 1.6i 16V Exclusive
-CHF 1'999
-11.2006
-Automat
-161'000 km
-Benzin
-Vorderradantrieb
-bordeaux
-110 PS
-ZH
-Merken
-CITROEN
-C3 1.6i 16V Exclusive
-11.2006
-110 PS
-161'000 km
-CHF 1'999
-Merken
-CITROEN
-C3 1.2 PureTech Feel 110 PS
-CHF 11'860
-ab CHF 134/Monat
-08.2017
-Handschaltung
-53'140 km
-Benzin
-Vorderradantrieb
-schwarz
 110 PS
 TG
 Merken
 CITROEN
-C3 1.2 PureTech Feel 110 PS
-08.2017
+C3 1.2 PureTech Shine 110i
+10.2019
 110 PS
-53'140 km
-CHF 11'860
+7'454 km
+CHF 16'890
 Merken
-ab CHF 134/Monat
+ab CHF 182/Monat
 35-Punkte-Check
 Kostenlose Probefahrt
 Garantieversprechen
 Faires Eintauschangebot
 CITROEN
-C3 1.2i PureTech Sélection
-CHF 7'900
-02.2015
-Handschaltung
-108'500 km
+C3 1.2i Feel Edition ETG5
+CHF 9'790
+ab CHF 111/Monat
+04.2016
+Automat
+37'500 km
 Benzin
 Vorderradantrieb
-violett
-110 PS
-JU
+weiss
+82 PS
+NE
 Merken
 CITROEN
-C3 1.2i PureTech Sélection
-02.2015
-110 PS
-108'500 km
-CHF 7'900
+C3 1.2i Feel Edition ETG5
+04.2016
+82 PS
+37'500 km
+CHF 9'790
+Merken
+ab CHF 111/Monat
+CITROEN
+C3 1.2i PureTech Feel
+CHF 15'290
+ab CHF 165/Monat
+-
+Handschaltung
+100 km
+Benzin
+Vorderradantrieb
+anthrazit
+83 PS
+LU
 Merken
 CITROEN
-C3 1.2 PureTech Shine Automat
-CHF 22'500
+C3 1.2i PureTech Feel
+-
+83 PS
+100 km
+CHF 15'290
+Merken
+ab CHF 165/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+CITROEN
+C3 1.2 PureTech Feel S/S
+CHF 16'090
+ab CHF 173/Monat
+-
+Handschaltung
+20 km
+Benzin
+Vorderradantrieb
+sonstiges
+83 PS
+VD
+Merken
+CITROEN
+C3 1.2 PureTech Feel S/S
+-
+83 PS
+20 km
+CHF 16'090
+Merken
+ab CHF 173/Monat
+CITROEN
+C3 1.2 PureTech Swiss Edition S/S
+CHF 17'490
+ab CHF 188/Monat
+-
+Handschaltung
+10 km
+Benzin
+Vorderradantrieb
+rot
+83 PS
+BL
+Merken
+CITROEN
+C3 1.2 PureTech Swiss Edition S/S
+-
+83 PS
+10 km
+CHF 17'490
+Merken
+ab CHF 188/Monat
+CITROEN
+C3 1.2i Tonic
+CHF 6'900
+04.2013
+Handschaltung
+75'200 km
+Benzin
+Vorderradantrieb
+schwarz
+82 PS
+LU
+Merken
+CITROEN
+C3 1.2i Tonic
+04.2013
+82 PS
+75'200 km
+CHF 6'900
+Merken
+CITROEN
+C3 1.2 PureTech Swiss Edition
+CHF 22'490
 ab CHF 242/Monat
-03.2021
+-
 Automat
-300 km
+100 km
+Benzin
+Vorderradantrieb
+rot
+110 PS
+ZH
+Merken
+CITROEN
+C3 1.2 PureTech Swiss Edition
+-
+110 PS
+100 km
+CHF 22'490
+Merken
+ab CHF 242/Monat
+CITROEN
+C3 1.2i PureTech Swiss Ed
+CHF 22'290
+ab CHF 240/Monat
+-
+Automat
+10 km
+Benzin
+Vorderradantrieb
+sonstiges
+110 PS
+BE
+Merken
+CITROEN
+C3 1.2i PureTech Swiss Ed
+-
+110 PS
+10 km
+CHF 22'290
+Merken
+ab CHF 240/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+CITROEN
+C3 1.4i SX
+CHF 1'200
+05.2003
+Handschaltung
+183'900 km
+Benzin
+Vorderradantrieb
+rot
+73 PS
+ZG
+Merken
+CITROEN
+C3 1.4i SX
+05.2003
+73 PS
+183'900 km
+CHF 1'200
+Merken
+CITROEN
+C3 1.6i 16V Exclusive
+CHF 3'300
+12.2003
+Automat
+122'100 km
+Benzin
+Vorderradantrieb
+blau
+110 PS
+SG
+Merken
+CITROEN
+C3 1.6i 16V Exclusive
+12.2003
+110 PS
+122'100 km
+CHF 3'300
+Merken
+CITROEN
+C3 1.2i Séduction
+CHF 4'990
+04.2014
+Handschaltung
+158'400 km
+Benzin
+Vorderradantrieb
+rot
+82 PS
+BE
+Merken
+CITROEN
+C3 1.2i Séduction
+04.2014
+82 PS
+158'400 km
+CHF 4'990
+Merken
+CITROEN
+C3 1.2i PureTech Elle
+CHF 15'900
+ab CHF 171/Monat
+08.2019
+Handschaltung
+26'000 km
+Benzin
+Vorderradantrieb
+grau
+110 PS
+TI
+Merken
+CITROEN
+C3 1.2i PureTech Elle
+08.2019
+110 PS
+26'000 km
+CHF 15'900
+Merken
+ab CHF 171/Monat
+CITROEN
+C3 1.2 PureTech Feel Pack
+CHF 17'080
+ab CHF 184/Monat
+07.2021
+Handschaltung
+5'000 km
 Benzin
 Vorderradantrieb
 weiss
 110 PS
-LU
+BE
 Merken
 CITROEN
-C3 1.2 PureTech Shine Automat
-03.2021
+C3 1.2 PureTech Feel Pack
+07.2021
 110 PS
-300 km
-CHF 22'500
+5'000 km
+CHF 17'080
 Merken
-ab CHF 242/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
+ab CHF 184/Monat
 CITROEN
-C3 1.1i Furio
-CHF 3'900
-08.2005
+C3 1.2i Séduction
+CHF 7'900
+03.2017
 Handschaltung
-36'900 km
+65'000 km
 Benzin
 Vorderradantrieb
-rot
-60 PS
-LU
+schwarz
+82 PS
+VD
 Merken
 CITROEN
-C3 1.1i Furio
-08.2005
-60 PS
-36'900 km
-CHF 3'900
+C3 1.2i Séduction
+03.2017
+82 PS
+65'000 km
+CHF 7'900
 Merken
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
 CITROEN
-C3 1.6 VTi Exclusive
-CHF 10'900
-ab CHF 123/Monat
-11.2014
+C3 1.2i PureTech Shine EAT6
+CHF 23'900
+ab CHF 257/Monat
+05.2021
 Automat
-9'000 km
+1'900 km
 Benzin
 Vorderradantrieb
-grau
-120 PS
+weiss
+110 PS
 ZH
 Merken
 CITROEN
-C3 1.6 VTi Exclusive
-11.2014
-120 PS
-9'000 km
-CHF 10'900
+C3 1.2i PureTech Shine EAT6
+05.2021
+110 PS
+1'900 km
+CHF 23'900
 Merken
-ab CHF 123/Monat
+ab CHF 257/Monat
 1
 1
 2

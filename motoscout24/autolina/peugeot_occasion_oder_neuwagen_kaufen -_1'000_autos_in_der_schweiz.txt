@@ -81,7 +81,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -99,7 +99,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -152,155 +152,90 @@ TI
 WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
-NEU
 PEUGEOT
-107 1.0 Urban
-CHF 5'690
-04.2011
-Handschaltung
-16'700 km
-Benzin
+508 SW 2.0 BlueHDi 180 Allure S/S
+CHF 10'970
+ab CHF 124/Monat
+11.2014
+Automat
+141'000 km
+Diesel
 Vorderradantrieb
 weiss
-68 PS
-FR
-Merken
-PEUGEOT
-107 1.0 Urban
-04.2011
-68 PS
-16'700 km
-CHF 5'690
-Merken
-NEU
-PEUGEOT
-508 SW 1.6 PureTech GT EAT8
-CHF 36'700
-ab CHF 432/Monat
-08.2019
-Automat
-16'500 km
-Benzin
-Vorderradantrieb
-blau
-225 PS
+181 PS
 ZH
 Merken
 PEUGEOT
-508 SW 1.6 PureTech GT EAT8
-08.2019
-225 PS
-16'500 km
-CHF 36'700
+508 SW 2.0 BlueHDi 180 Allure S/S
+11.2014
+181 PS
+141'000 km
+CHF 10'970
 Merken
-ab CHF 432/Monat
+ab CHF 124/Monat
 PEUGEOT
-4008 1.8 HDi Allure S/S
-CHF 8'990
-ab CHF 102/Monat
-04.2015
+208 1.2 PureTech Active
+CHF 7'300
+ab CHF 83/Monat
+07.2014
 Handschaltung
-134'000 km
-Diesel
-Allradantrieb
-anthrazit
-150 PS
-BE
-Merken
-PEUGEOT
-4008 1.8 HDi Allure S/S
-04.2015
-150 PS
-134'000 km
-CHF 8'990
-Merken
-ab CHF 102/Monat
-PEUGEOT
-3008 2.0 HDi HYbrid4 99g
-CHF 8'000
-ab CHF 91/Monat
-07.2013
-Automat
-154'000 km
-Voll-Hybrid Diesel/Elektro
-Allradantrieb
-schwarz
-163 PS
-NE
-Merken
-PEUGEOT
-3008 2.0 HDi HYbrid4 99g
-07.2013
-163 PS
-154'000 km
-CHF 8'000
-Merken
-ab CHF 91/Monat
-PEUGEOT
-308 1.2 THP Allure
-CHF 8'490
-ab CHF 96/Monat
-09.2015
-Handschaltung
-143'190 km
+56'000 km
 Benzin
 Vorderradantrieb
 grau
-131 PS
-ZH
+82 PS
+VD
 Merken
 PEUGEOT
-308 1.2 THP Allure
-09.2015
-131 PS
-143'190 km
-CHF 8'490
+208 1.2 PureTech Active
+07.2014
+82 PS
+56'000 km
+CHF 7'300
 Merken
-ab CHF 96/Monat
+ab CHF 83/Monat
 PEUGEOT
-308 1.6 Turbo 200 GTi
-CHF 6'500
-09.2010
-Handschaltung
-124'000 km
-Benzin
-Vorderradantrieb
-schwarz
-200 PS
-NW
-Merken
-PEUGEOT
-308 1.6 Turbo 200 GTi
-09.2010
-200 PS
-124'000 km
-CHF 6'500
-Merken
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-PEUGEOT
-308 1.6 THP GTi
-CHF 18'000
-ab CHF 194/Monat
-10.2016
-Handschaltung
-88'000 km
+5008 1.6 PureTech Allure
+CHF 27'900
+ab CHF 300/Monat
+11.2018
+Automat
+44'000 km
 Benzin
 Vorderradantrieb
 blau
-272 PS
-NE
+181 PS
+FR
 Merken
 PEUGEOT
-308 1.6 THP GTi
-10.2016
-272 PS
-88'000 km
-CHF 18'000
+5008 1.6 PureTech Allure
+11.2018
+181 PS
+44'000 km
+CHF 27'900
 Merken
-ab CHF 194/Monat
+ab CHF 300/Monat
+PEUGEOT
+207 CC 1.6 16V Sport
+CHF 6'000
+ab CHF 68/Monat
+05.2007
+Handschaltung
+135'000 km
+Benzin
+Vorderradantrieb
+silber
+120 PS
+SO
+Merken
+PEUGEOT
+207 CC 1.6 16V Sport
+05.2007
+120 PS
+135'000 km
+CHF 6'000
+Merken
+ab CHF 68/Monat
 PEUGEOT
 108 1.2 PureTech Allure Top
 CHF 8'600
@@ -323,48 +258,6 @@ CHF 8'600
 Merken
 ab CHF 97/Monat
 PEUGEOT
-2008 1.6 BlueHDi 100 Allure
-CHF 15'900
-ab CHF 171/Monat
-02.2018
-Handschaltung
-41'000 km
-Diesel
-Vorderradantrieb
-grau
-99 PS
-VD
-Merken
-PEUGEOT
-2008 1.6 BlueHDi 100 Allure
-02.2018
-99 PS
-41'000 km
-CHF 15'900
-Merken
-ab CHF 171/Monat
-PEUGEOT
-508 SW 2.0 HDi 163 Business Line
-CHF 7'500
-ab CHF 85/Monat
-08.2015
-Automat
-184'900 km
-Diesel
-Vorderradantrieb
-weiss
-163 PS
-VD
-Merken
-PEUGEOT
-508 SW 2.0 HDi 163 Business Line
-08.2015
-163 PS
-184'900 km
-CHF 7'500
-Merken
-ab CHF 85/Monat
-PEUGEOT
 RCZ 1.6 Turbo
 CHF 15'000
 ab CHF 162/Monat
@@ -385,13 +278,102 @@ RCZ 1.6 Turbo
 CHF 15'000
 Merken
 ab CHF 162/Monat
+NEU
 PEUGEOT
-2008 1.2 PureTech 130 GT Line
+2008 1.6 e-HDi Allure
+CHF 9'990
+ab CHF 113/Monat
+06.2015
+Handschaltung
+90'000 km
+Diesel
+Vorderradantrieb
+weiss
+92 PS
+BL
+Merken
+PEUGEOT
+2008 1.6 e-HDi Allure
+06.2015
+92 PS
+90'000 km
+CHF 9'990
+Merken
+ab CHF 113/Monat
+NEU
+PEUGEOT
+Partner Tepee 1.6 BlueHDI 100 Active
+CHF 14'400
+ab CHF 155/Monat
+04.2018
+Handschaltung
+74'000 km
+Diesel
+Vorderradantrieb
+weiss
+99 PS
+BE
+Merken
+PEUGEOT
+Partner Tepee 1.6 BlueHDI 100 Act...
+04.2018
+99 PS
+74'000 km
+CHF 14'400
+Merken
+ab CHF 155/Monat
+NEU
+PEUGEOT
+208 1.2 PureTech 100 GT
+CHF 26'800
+ab CHF 288/Monat
+-
+Handschaltung
+30 km
+Benzin
+Vorderradantrieb
+weiss
+100 PS
+ZH
+Merken
+PEUGEOT
+208 1.2 PureTech 100 GT
+-
+100 PS
+30 km
+CHF 26'800
+Merken
+ab CHF 288/Monat
+NEU
+PEUGEOT
+Rifter 1.5 BlueHDi 130 Allure Pack
 CHF 34'250
 ab CHF 368/Monat
 -
+Handschaltung
+30 km
+Diesel
+Vorderradantrieb
+grau
+130 PS
+ZH
+Merken
+PEUGEOT
+Rifter 1.5 BlueHDi 130 Allure Pac...
+-
+130 PS
+30 km
+CHF 34'250
+Merken
+ab CHF 368/Monat
+NEU
+PEUGEOT
+Rifter Long 1.2 PureTech 130 Allure Pack
+CHF 36'150
+ab CHF 389/Monat
+-
 Automat
-15 km
+30 km
 Benzin
 Vorderradantrieb
 weiss
@@ -399,65 +381,46 @@ weiss
 ZH
 Merken
 PEUGEOT
-2008 1.2 PureTech 130 GT Line
+Rifter Long 1.2 PureTech 130 Allu...
 -
 130 PS
-15 km
-CHF 34'250
+30 km
+CHF 36'150
 Merken
-ab CHF 368/Monat
+ab CHF 389/Monat
+NEU
 PEUGEOT
-2008 1.2 P-T 130 GT Pack 8AT
-CHF 34'900
-ab CHF 375/Monat
-02.2021
+2008 1.2 PureTech 130 GT Pack
+CHF 37'500
+ab CHF 403/Monat
+-
 Automat
-100 km
+30 km
 Benzin
 Vorderradantrieb
-weiss
+schwarz
 130 PS
-SZ
+ZH
 Merken
 PEUGEOT
-2008 1.2 P-T 130 GT Pack 8AT
-02.2021
+2008 1.2 PureTech 130 GT Pack
+-
 130 PS
-100 km
-CHF 34'900
+30 km
+CHF 37'500
 Merken
-ab CHF 375/Monat
+ab CHF 403/Monat
+NEU
 PEUGEOT
-208 1.2 P-T 100 GT 8AT
-CHF 26'800
-ab CHF 288/Monat
-02.2021
+2008 1.2 PureTech 155 GT Pack
+CHF 37'800
+ab CHF 406/Monat
+03.2021
 Automat
-900 km
+1'950 km
 Benzin
 Vorderradantrieb
 blau
-100 PS
-SZ
-Merken
-PEUGEOT
-208 1.2 P-T 100 GT 8AT
-02.2021
-100 PS
-900 km
-CHF 26'800
-Merken
-ab CHF 288/Monat
-PEUGEOT
-2008 1.2 PureTech 155 GT Pack
-CHF 36'930
-ab CHF 397/Monat
-03.2021
-Automat
-150 km
-Benzin
-Vorderradantrieb
-grau
 155 PS
 ZH
 Merken
@@ -465,10 +428,52 @@ PEUGEOT
 2008 1.2 PureTech 155 GT Pack
 03.2021
 155 PS
-150 km
-CHF 36'930
+1'950 km
+CHF 37'800
 Merken
-ab CHF 397/Monat
+ab CHF 406/Monat
+PEUGEOT
+208 1.2 PureTech Allure S/S
+CHF 9'900
+ab CHF 112/Monat
+05.2015
+Handschaltung
+126'000 km
+Benzin
+Vorderradantrieb
+grau
+110 PS
+BE
+Merken
+PEUGEOT
+208 1.2 PureTech Allure S/S
+05.2015
+110 PS
+126'000 km
+CHF 9'900
+Merken
+ab CHF 112/Monat
+PEUGEOT
+208 e-GT Pack
+CHF 35'600
+ab CHF 383/Monat
+07.2021
+Automat
+500 km
+Elektro
+Vorderradantrieb
+weiss
+136 PS
+BL
+Merken
+PEUGEOT
+208 e-GT Pack
+07.2021
+136 PS
+500 km
+CHF 35'600
+Merken
+ab CHF 383/Monat
 1
 1
 2
@@ -496,25 +501,25 @@ Kommunikative Technologie für grösstmögliche Sicherheit
 Eine Besonderheit der Ausstattung bei Peugeot Schweiz sind Kommunikationsdienste, zum Beispiel PeugeotConnect mit automatischem Notruf bei Unfällen oder in kritischen Situationen. Bei einigen Modellen gehört dieser neben weiteren Diensten zur Serienausstattung, andere können als Sonderausstattung damit aufgerüstet werden. Alle für den Import in die Schweiz verfügbaren Modelle sind zudem Bluetooth®-kompatibel. Dies ist ein wesentlicher Vorteil hinsichtlich der Freisprecheinrichtung und des Entertainment-Systems im Innenraum. Für die Elektromodelle bietet Peugeot Schweiz eine App (derzeit speziell für den iOn), die bei Aufladebedarf die nächsten Ladestationen an der Reiseroute anzeigt. Diese sind allesamt Schnellladestationen für eine 80 % Aufladung in nur 30 Minuten.
 PEUGEOT Modellübersicht
 PEUGEOT 1007
-PEUGEOT 106
 PEUGEOT 107
 PEUGEOT 108
 PEUGEOT 2008
-PEUGEOT 205
 PEUGEOT 206
 PEUGEOT 207
 PEUGEOT 208
 PEUGEOT 3008
+PEUGEOT 306
 PEUGEOT 307
 PEUGEOT 308
 PEUGEOT 4007
 PEUGEOT 4008
-PEUGEOT 405
 PEUGEOT 406
 PEUGEOT 407
 PEUGEOT 5008
 PEUGEOT 508
+PEUGEOT 607
 PEUGEOT 807
+PEUGEOT BIPPER
 PEUGEOT Boxer
 PEUGEOT Expert
 PEUGEOT iON
@@ -540,7 +545,6 @@ Fürstentum Lichtenstein
 Fribourg
 Genève
 Grisons
-Jura
 Luzern
 Neuchâtel
 Nidwalden
@@ -554,6 +558,7 @@ Ticino
 Uri
 Vaud
 Valais
+Zug
 Zürich
 Aktuelle Suche abonnieren
 Viele Dank für die Anmeldung!

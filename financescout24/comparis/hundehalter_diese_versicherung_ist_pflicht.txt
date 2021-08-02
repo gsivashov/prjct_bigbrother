@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/tierversicherung/haustier/information/hundehalter-p
 Title: Pflichtversicherung für Hundehalter
 Description: Hundehalter sind nicht nur für das Wohl ihres Tieres verantwortlich, sondern auch für einen ausreichenden Versicherungsschutz. Mit diesen Tipps von Comparis vermeiden Sie böse Überraschungen und daraus resultierende horrende Kosten.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr

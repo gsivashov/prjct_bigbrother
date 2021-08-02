@@ -3,7 +3,6 @@ Title: Vorgeschlagene Versicherungssumme
 Description: comparis.ch schlägt im Hausratversicherungsvergleich eine Versicherungssumme vor. Erfahren Sie hier, wie dieser Vorschlag zustande kommt.
 
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -20,7 +19,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr

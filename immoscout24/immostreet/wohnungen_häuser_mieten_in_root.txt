@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-root/
 Title: Wohnungen & Häuser mieten in Root - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Root - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Root - Immostreet.ch: ImmoStreet.ch hat 39 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-31 Resultate gefunden ·
+39 Resultate gefunden ·
 Wohnungen & Häuser mieten in Root
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,78 +122,200 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Mattweg 6
-1'695
+Blumenweg
+45
 CHF
 /Monat
-Tolle, helle Wohnung in zentraler Lage
-Mattweg 6, 6037 Root
+Aussenabstellplatz sucht Auto!
+Blumenweg, 6037 Root
 Array
-3.5 Zimmer
-88 m2
 Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-88 m2
-0ffene Küche mit viel StauraumBadezimmer mit separater Duschegrosser Einbauschrank im FlurEigener W…
+Offener Parkplatz
+Sind Sie auf der Suche nach einem Aussenabstellplatz für Ihr Auto?In der Überbauung "Blumenweg" in …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Luzernerstrasse 36
-1'590
+Blumenweg
+130
 CHF
 /Monat
-Nachmieter, 4,5 Zimmer Wohnung
-Luzernerstrasse 36, 6037 Root
+Einstellhallenplatz sucht Auto!
+Blumenweg, 6037 Root
+Array
+Objekttyp
+Tiefgarage
+Sind Sie auf der Suche nach einem Einstellhallenplatz für Ihr Auto?In der Überbauung "Blumenweg" in…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Luzernerstrasse 32
+1'798
+CHF
+/Monat
+Zentrale 4 1/2 Zimmerwohnung
+Luzernerstrasse 32, 6037 Root
 Array
 4.5 Zimmer
+110 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Günstige, schöne und heimelige 4,5 Altbau Wohnung zu vermieten.Verfügbar ab 1.09.21 oder 1.10.21Sto…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Haltenmatt
-3'300
-CHF
-/Monat
-Schönes Doppeleinfamilienhaus - 5 1/2 Z…
-Haltenmatt, 6037 Root
-Array
-5.5 Zimmer
-165 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-5.5
 Wohnfläche
-165 m2
-Einseitig angebautes Doppel-Einfamilienhaus im schön gelegenen Haltenmatt-Quartier in Root. Das DEF…
+110 m2
+Etage
+Die familienfreundliche Wohnung im Zentrum von Root bietet folgendes:- Küche ausgestatte mit Herd, …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Neue Perlenstrasse 1
-1'070
+Oberfeld 4
+987
 CHF
 /Monat
-Betreutes Wohnen in Root
-Neue Perlenstrasse 1, 6037 Root
+Gemütliche Single-Wohnung mit Aussicht
+Oberfeld 4, 6037 Root
 Array
-1.5 Zimmer
-40 m2
+2.5 Zimmer
+50 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-1.5
+2.5
 Wohnfläche
-40 m2
+50 m2
+Wir vermieten per 01.09.21 oder nach Vereinbarung diese schöne 2.5 Zimmer-Wohnung in Root.Folgende …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fluhmatte 1
+1'950
+CHF
+/Monat
+Schöne 4 1/2 Zimmer Wohnung im Eigentum…
+Fluhmatte 1, 6037 Root
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Etage
+Sehr Grosszügige Wohnung in ruhigem Quartier mit hellen und lichtdurchfluteten RäumenZwei Balkone m…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Luzernerstrasse 9
+1'650
+CHF
+/Monat
+3 Zimmer-Wohnung in Root mieten
+Luzernerstrasse 9, 6037 Root
+Array
+3 Zimmer
+66 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+66 m2
+Herrliche Wohnung mit direktem Lift in Root Grosszügige 3-Zimmer-Wohnung in Root Nur wenige Fahrm…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberfeldmatt 9
+110
+CHF
+/Monat
+Einstellhallenplatz zu vermieten!
+Oberfeldmatt 9, 6037 Root
+Array
+Objekttyp
+Tiefgarage
+Zu vermieten per sofort oder nach Vereinbarung:
+Einstellhallenplatz in Root! Nähe D4!
+Bei Int…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rosenweg 3
+Preis auf Anfrage
+Garage für einen Smart / Abstellraum
+Rosenweg 3, 6037 Root
+Array
+Objekttyp
+Einzelgarage
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Luzernerstrasse 7
+1'870
+CHF
+/Monat
+Wohnen mit Historischem Einfluss
+Luzernerstrasse 7, 6037 Root
+Array
+4 Zimmer
+99 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+99 m2
+Etage
+Hier lässt es sich wohnenRoot ist ein Dorf im Luzerner Rontal mit rund 4'800 (2016) Einwohnerinnen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Luzernerstrasse 7
+1'430
+CHF
+/Monat
+Wohnung mit historischem Charme
+Luzernerstrasse 7, 6037 Root
+Array
+2.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+70 m2
+Etage
+Hier lässt es sich wohnenRoot ist ein Dorf im Luzerner Rontal mit rund 4'800 (2016) Einwohnerinnen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Luzernerstrasse 7
+1'145
+CHF
+/Monat
+Historischer Charme trifft auf moderne
+Luzernerstrasse 7, 6037 Root
+Array
+2.5 Zimmer
+48 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+48 m2
 Etage
 Hier lässt es sich wohnenRoot ist ein Dorf im Luzerner Rontal mit rund 4'800 (2016) Einwohnerinnen …
 Teilen
@@ -201,7 +323,7 @@ E-Mail
 Facebook
 Whatsapp
 Luzernerstrasse 24
-1'870
+1'770
 CHF
 /Monat
 Leben im Dorfzentrum von Root
@@ -217,6 +339,40 @@ Wohnfläche
 70 m2
 Etage
 Hier lässt es sich wohnenRoot ist ein Dorf im Luzerner Rontal mit rund 4'800 (2016) Einwohnerinnen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 16
+50
+CHF
+/Monat
+Parkplatz beim Postgebäude Root
+Bahnhofstrasse 16, 6037 Root
+Array
+Objekttyp
+Offener Parkplatz
+Nach Vereinbarung vermieten wir einen Parkplatz beim Postgebäude in Root. Die monatlichen Kosten be…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hagenstrasse 3
+1'750
+CHF
+/Monat
+schöne helle 3.5 Zimmerwohnung
+Hagenstrasse 3, 6037 Root
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Tolle 3.5 Zimmerwohnungen zu vermieten.- offener und heller Grundriss- Küche mit grosszügigem Essbe…
 Teilen
 E-Mail
 Facebook
@@ -261,84 +417,62 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Giebelstrasse 3a
-2'390
+Mattweg 4
+1'990
 CHF
 /Monat
-schöne 4.5 Zimmerwohnung an ruhiger Lag…
-Giebelstrasse 3a, 6037 Root
+Tolle 4.5 Zimmerwohnungen an ruhiger La…
+Mattweg 4, 6037 Root
 Array
 4.5 Zimmer
-104 m2
+101 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-104 m2
-An der Giebelstrasse erwartet Sie höchster Wohnkomfort in qualitätsvoller Architektur.In dem MINERG…
+101 m2
+Tolle 4.5 Zimmerwohnungen zu vermieten- offene Küche mit ordentlich Stauraum- 2 Badezimmer mit Bade…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Luzernerstrasse 24
-1'770
+Luzernerstrasse 9
+1'660
 CHF
 /Monat
-Leben im Dorfzentrum von Root
-Luzernerstrasse 24, 6037 Root
+Herrliche Dachwohnung mit direktem Lift…
+Luzernerstrasse 9, 6037 Root
 Array
-3.5 Zimmer
-70 m2
+2 Zimmer
+69 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Dachwohnung
 Zimmer
-3.5
+2
 Wohnfläche
-70 m2
-Etage
-Hier lässt es sich wohnenRoot ist ein Dorf im Luzerner Rontal mit rund 4'800 (2016) Einwohnerinnen …
+69 m2
+Grosszügige 2-Zimmer-Dachwohnung in Root Nur wenige Fahrminuten von der Mall of Switzerland und …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Mattweg 1
-1'900
+Rosenweg 3
+1'470
 CHF
 /Monat
-Schöne helle 3.5 Zimmerwohnung
-Mattweg 1, 6037 Root
+Gemütliche Dachwohnung sucht neuen Nach…
+Rosenweg 3, 6037 Root
 Array
-3.5 Zimmer
-88 m2
+2 Zimmer
+43 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+2
 Wohnfläche
-88 m2
-Etage
-Wir suchen Nachmieter für schöne helle 3.5 Zimmerwohnungab 1. Juli 2021 oder Vereinbarung - offener…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 24 B
-2'000
-CHF
-/Monat
-Einzigartige Neubauwohnung an idealer L…
-Bahnhofstrasse 24 B, 6037 Root
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Per 01.09.2021 oder nach Vereinbarung vermieten wir diese schöne 3.5-Neubauwohnung an bester Lage i…
+43 m2
+An ruhiger und sonniger Lage in Root vermieten wir diese hübsche 2 Zimmer-Wohnung, welche Ihnen fol…
 Teilen
 E-Mail
 Facebook
@@ -358,146 +492,7 @@ Zimmer
 3.5
 Wohnfläche
 88 m2
-Wir suchen Nachmieter für schöne helle 3.5 Zimmerwohnungab 1. Juli 2021 oder Vereinbarung - offener…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernerstrasse 2b
-3'265
-CHF
-/Monat
-Verwirklichen Sie Ihren Traum an bester…
-Luzernerstrasse 2b, 6037 Root
-Array
-Objekttyp
-Verkauf, Geschäft
-Hiermit bieten wir Ihnen einen Gewerberaum an optimaler Lage an.Aufgrund der grossen Schaufenster s…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberfeldmatt 2
-1'500
-CHF
-/Monat
-3.5 Zimmer Wohnung
-Oberfeldmatt 2, 6037 Root
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Schöne 3.5 Zimmer Wohnung sucht ein Nachmieter!- Sehr zentral gelegen.- Viel Stauraum- Inkl. einen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernerstrasse 2b
-1'900
-CHF
-/Monat
-Tolle 3.5-Zimmer-Wohnung mit Balkon im …
-Luzernerstrasse 2b, 6037 Root
-Array
-3.5 Zimmer
-94 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-94 m2
-Die Wohnung befindet sich an zentraler Lage. Zugleich befinden sich vielseitige Einkaufsmöglichkeit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernerstrasse 7
-1'870
-CHF
-/Monat
-Wohnen mit Historischem Einfluss
-Luzernerstrasse 7, 6037 Root
-Array
-4 Zimmer
-99 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-99 m2
-Etage
-Hier lässt es sich wohnenRoot ist ein Dorf im Luzerner Rontal mit rund 4'800 (2016) Einwohnerinnen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 27
-Preis auf Anfrage
-Ihr Geschäftsraum im Bahnhof Gisikon-Ro…
-Bahnhofstrasse 27, 6037 Root
-Array
-Objekttyp
-Verkauf, Geschäft
-Informationen zum BahnhofLagebeschrieb: ZentrumslageAngebot im Bahnhof: kkioskRaumaufteilungDie Ges…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rongass 2
-1'690
-CHF
-/Monat
-SCHÖNES ZUHAUSE AN ZENRALER LAGE
-Rongass 2, 6037 Root
-Array
-3.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-75 m2
-Die im 2018 kernsanierte 3.5-Zimmerwohnung im Zentrum von Root lässt keine Wünsche offen. Die Wohnu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernerstrasse 7
-1'430
-CHF
-/Monat
-Wohnung mit historischem Charme
-Luzernerstrasse 7, 6037 Root
-Array
-2.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-70 m2
-Etage
-Hier lässt es sich wohnenRoot ist ein Dorf im Luzerner Rontal mit rund 4'800 (2016) Einwohnerinnen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-GA Bahnhofstrasse 24
-150
-CHF
-/Monat
-Einstellhallenplätze zu vermieten!
-GA Bahnhofstrasse 24, 6037 Root
-Array
-Objekttyp
-Tiefgarage
-Wir vermieten per sofort oder nach Vereinbarung Einstellhallenplätze an der Bahnhofstrasse in Root.…
+Wir suchen Nachmieter für schöne helle 3.5 Zimmerwohnungab sofort- offener und heller Grundriss- Kü…
 Teilen
 E-Mail
 Facebook

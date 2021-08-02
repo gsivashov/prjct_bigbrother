@@ -1,6 +1,6 @@
-URL: https://www.immostreet.ch/de/mieten/apartment-and-house/unterkategorie-farmhouse/
+URL: https://www.immostreet.ch/de/mieten/haus/unterkategorie-farmhouse/
 Title: Bauernhaus mieten in - Immostreet.ch
-Description: Bauernhaus mieten in   - Immostreet.ch: ImmoStreet.ch hat 4 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Bauernhaus mieten in   - Immostreet.ch: ImmoStreet.ch hat 10 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -66,25 +66,12 @@ Gewerbe
 Lager
 Unterkategorie
 Alle
-Wohnung
-Möbliertes Wohnobjekt
-Dachwohnung
-Maisonette / Duplex
-Attikawohnung
 Einfamilienhaus
-Einzelzimmer
-Studio
 Doppeleinfamilienhaus
-Hobbyraum
 Reihenfamilienhaus
-Loft
 Villa
-Terrassenwohnung
 Chalet
 Bauernhaus
-Einliegerwohnung
-Mansarde
-Kellerabteil
 Terrassenhaus
 Rustico
 Stöckli
@@ -137,7 +124,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-4 Resultate gefunden ·
+10 Resultate gefunden ·
 Bauernhaus mieten in
 Preis (aufsteigend)
 Preis (absteigend)
@@ -150,6 +137,165 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Hugelshoferstrasse 1
+2'250
+CHF
+/Monat
+5,5 Zimmer Bauernhaus
+Hugelshoferstrasse 1, 8566 Dotnacht
+Array
+5.5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Bauernhaus
+Zimmer
+5.5
+Wohnfläche
+160 m2
+Das streng unter Denkmalschutz stehende Riegelhaus wurde mit viel Herzblut umgebaut. Decken ,Boden …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tammelstrasse 8
+5'000
+CHF
+/Monat
+Einmalig exklusives, herrschaftliches B…
+Tammelstrasse 8, 8635 Dürnten
+Array
+10 Zimmer
+Objekttyp
+Wohnung, Bauernhaus
+Zimmer
+10
+Etage
+Grosses freistehendes Bauernhaus, total renoviert, an einmaliger Lage auf kleinem Hügel mit schönst…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rue Saint Denis 400
+2'300
+EUR
+/Monat
+18th century furnished house to let in …
+Rue Saint Denis 400, 01170 Cessy
+Array
+5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Bauernhaus
+Zimmer
+5
+Wohnfläche
+120 m2
+Etage
+- Charmingly renovated furnished house combining many original features with comfortable living (un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mühlebergstrasse 16
+3'440
+CHF
+/Monat
+exklusiv zu vermieten: stilvoll saniert…
+Mühlebergstrasse 16, 8910 Affoltern am Albis
+Array
+5 Zimmer
+138 m2
+Objekttyp
+Wohnung, Bauernhaus
+Zimmer
+5
+Wohnfläche
+138 m2
+Das altehrwürdige und sanierte Bauernhaus stammt aus dem 16. -18. Jahrhundert und gehört zu den ält…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mühlebergstrasse 16
+2'880
+CHF
+/Monat
+exklusiv zu vermieten: stilvoll saniert…
+Mühlebergstrasse 16, 8910 Affoltern am Albis
+Array
+5 Zimmer
+114 m2
+Objekttyp
+Wohnung, Bauernhaus
+Zimmer
+5
+Wohnfläche
+114 m2
+Das altehrwürdige und sanierte Bauernhaus stammt aus dem 16. -18. Jahrhundert und gehört zu den ält…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+4'650
+CHF
+/Monat
+Gorgeous 5.5 piece Village Home (Maison…
+Adresse auf Anfrage, 1272 Genolier
+Array
+5.5 Zimmer
+220 m2
+Objekttyp
+Wohnung, Bauernhaus
+Zimmer
+5.5
+Wohnfläche
+220 m2
+Etage
+Modern village home of 5.5 pieces (including private studio) in the heart of the of Genolier, walki…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brand 3
+2'150
+CHF
+/Monat
+Einmalige Gelegenheit, charmantes, reno…
+Brand 3, 1719 Zumholz
+Array
+6.5 Zimmer
+Objekttyp
+Wohnung, Bauernhaus
+Zimmer
+6.5
+Etage
+Dieses grosszügige, im Jahr 1999, total renovierte Bauernhaus besticht durch seine einmalige, ruhig…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bönlerstrasse 31
+2'150
+CHF
+/Monat
+Haushälfte mit schönem Garten in liebev…
+Bönlerstrasse 31, 8626 Ottikon
+Array
+2.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Bauernhaus
+Zimmer
+2.5
+Wohnfläche
+70 m2
+Etage
+Hausteil mit 2 grossen Zimmern auf zwei Ebenen + grossem Estrich, normale Deckenhöhe, Sitzplatz und…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 61 Flat 1 Bronja street
 900
 CHF
@@ -163,27 +309,6 @@ Wohnung, Bauernhaus
 Zimmer
 6
 We are a couple from Malta; both ethical vegans who are planning to move to Switzerland in the next…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zürichstrasse 84
-2'900
-CHF
-/Monat
-Bauernhaus mit Charakter und Geschichte
-Zürichstrasse 84, 8910 Affoltern am Albis
-Array
-6 Zimmer
-130 m2
-Objekttyp
-Wohnung, Bauernhaus
-Zimmer
-6
-Wohnfläche
-130 m2
-Etage
-Dieses ehemalige Bauernhaus ist das älteste Haus von Affoltern. Es steht unter Denkmalschutz und wu…
 Teilen
 E-Mail
 Facebook
@@ -208,30 +333,9 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-7'400
-CHF
-/Monat
-Magnifique corps de ferme rénové dans u…
-Adresse auf Anfrage, 1228 Plan-les-Ouates
-Array
-8 Zimmer
-220 m2
-Objekttyp
-Wohnung, Bauernhaus
-Zimmer
-8
-Wohnfläche
-220 m2
-Etage
-Située dans la commune de Plan-les-Ouates, dans le charmant hameau de Saconnex d'Arve, ce ravissant…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 ImmoStreet.ch
 Mieten
-Wohnung & Haus zu mieten
+Haus zu mieten
 Immobilien mieten in
 Basel
 Bern

@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/erdbebenversicherung/default
 Title: Erdbebenversicherungen vergleichen
 Description: Finden Sie die beste Erdbebenversicherung in der Schweiz mit kostenloser Unterstützung durch unsere Versicherungsexperten.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr

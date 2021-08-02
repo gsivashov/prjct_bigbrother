@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/apartment-and-house/in-seuzach/
 Title: Wohnung & Haus kaufen in Seuzach - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Seuzach - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Seuzach - Immostreet.ch: ImmoStreet.ch hat 11 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-7 Resultate gefunden ·
+11 Resultate gefunden ·
 Wohnung & Haus kaufen in Seuzach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,66 +151,28 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Weidstrasse 14
-590'000
+Eibenstrasse 3
+1'380'000
 CHF
-Ländlich und doch stadtnah! Attraktive …
-Weidstrasse 14, 8472 Seuzach
+Einseitig angebautes 4.5 Zi.-Einfamilie…
+Eibenstrasse 3, 8472 Seuzach
 Array
 4.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-83 m2
-Grosszügig konzipierte und attraktive 4 ½-Zi.-Eigentumswohnung im Hochparterre (EG) mit zwei gut be…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Aspstrasse 46
-985'000
-CHF
-Ideal für Familien und Kleingewerbler
-Aspstrasse 46, 8472 Seuzach
-Array
-6.5 Zimmer
-136 m2
+135 m2
 Objekttyp
 Wohnung, Doppeleinfamilienhaus
 Zimmer
-6.5
+4.5
 Wohnfläche
-136 m2
+135 m2
 Etage
-Das 6.5 Zimmer-Doppeleinfamilienhaus mit 136.4 m² liegt friedlich eingebettet zwischen dem Wolfensb…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Handschüssel 42
-650'000
-CHF
-3 ½ Zimmer-Wohnung, 8472 Seuzach
-Im Handschüssel 42, 8472 Seuzach
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-In der beliebten Gemeinde Seuzach, angrenzend an die Freihaltezone Buechewäldli, verkaufen wir dies…
+Dieses lichtdurchflutete und grosszügige Haus mit schönem Garten befindet sich in Seuzach in einem …
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Breitestrasse 21
-1'070'000
+990'000
 CHF
 Grosszügige und gepflegte 6-Zimmer-Eige…
 Breitestrasse 21, 8472 Seuzach
@@ -228,40 +190,21 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-4.5 Zimmer Einfamilienhaus (einseitig …
-Adresse auf Anfrage, 8472 Seuzach
-Array
-4.5 Zimmer
-113 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-113 m2
-Das einseitig angebaute Einfamilienhaus befindet sich im alten Dorfkern von Seuzach an ruhiger und …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bachtobelstrasse 4C
-1'390'000
+Bachtobelstrasse 38
+910'000
 CHF
-5.5 Zimmer-Einfamilienhaus an zentraler…
-Bachtobelstrasse 4C, 8472 Seuzach
+Direkt beim Bahnhof Seuzach
+Bachtobelstrasse 38, 8472 Seuzach
 Array
-5.5 Zimmer
-157 m2
+3.5 Zimmer
+91 m2
 Objekttyp
-Wohnung, Reihenfamilienhaus
+Wohnung, Flach
 Zimmer
-5.5
+3.5
 Wohnfläche
-157 m2
-Etage
-Das 5.5 Zimmer-Reiheneinfamilienhaus mit 156.8 m² Wohnfläche (HNF) liegt friedlich eingebettet zwis…
+91 m2
+In der steuergünstigen Gemeinde Seuzach, in unmittelbarer Nähe zum Bahnhof, entstehen 15 Eigentumsw…
 Teilen
 E-Mail
 Facebook
@@ -282,6 +225,139 @@ Wohnfläche
 380 m2
 Etage
 Sehr geschätzte Eigenheimsuchende, sind Sie bereit? Wir entführen Sie in eine besondere Welt des ex…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bachtobelstrasse 38
+650'000
+CHF
+Eigentumswohnung beim Bahnhof Seuzach
+Bachtobelstrasse 38, 8472 Seuzach
+Array
+2.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+65 m2
+In der steuergünstigen Gemeinde Seuzach, in unmittelbarer Nähe zum Bahnhof, entstehen 15 Eigentumsw…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Forrenbergstrasse 33
+1'570'000
+CHF
+Grosszügiges und freistehendes 6.5-Zi.-…
+Forrenbergstrasse 33, 8472 Seuzach
+Array
+5.5 Zimmer
+170 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+170 m2
+Etage
+Mit viel Platz an einer ruhigen und familienfreundlichen Lage lockt dieses herrliche 6.5-Zimmer-Hau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Heimensteinstrasse 4b
+1'200'000
+CHF
+Im Dorfkern von Seuzach: Charme eines B…
+Heimensteinstrasse 4b, 8472 Seuzach
+Array
+4.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+150 m2
+Etage
+Im Auftrag unseres Mandanten verkaufen wir ein Unikat in Seuzach!Das Quartier hat viele Grünflächen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bachtobelstrasse 38
+630'000
+CHF
+Eigentumswohnungen beim Bahnhof Seuzach
+Bachtobelstrasse 38, 8472 Seuzach
+Array
+2.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+65 m2
+In der steuergünstigen Gemeinde Seuzach, in unmittelbarer Nähe zum Bahnhof, entstehen 15 Eigentumsw…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bachtobelstrasse 36
+880'000
+CHF
+Eigentumswohnung beim Bahnhof Seuzach
+Bachtobelstrasse 36, 8472 Seuzach
+Array
+3.5 Zimmer
+88 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+88 m2
+In der steuergünstigen Gemeinde Seuzach, in unmittelbarer Nähe zum Bahnhof, entstehen 15 Eigentumsw…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obstgarten
+910'000
+CHF
+Neubauprojekt am idyllischen Chrebsbach
+Obstgarten, 8472 Seuzach
+Array
+92 m2
+Objekttyp
+Wohnung, Flach
+Wohnfläche
+92 m2
+Ab Frühling 2023 verspricht dieses elegante Neubauprojekt zeitgemässe Wohnqualität.An verkehrstechn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bachtobelstrasse 4C
+1'250'000
+CHF
+5.5 Zimmer-Reiheneinfamilienhaus an zen…
+Bachtobelstrasse 4C, 8472 Seuzach
+Array
+5.5 Zimmer
+157 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+157 m2
+Etage
+Das 5.5 Zimmer-Reiheneinfamilienhaus mit 156.8 m² Wohnfläche (HNF) liegt friedlich eingebettet zwis…
 Teilen
 E-Mail
 Facebook

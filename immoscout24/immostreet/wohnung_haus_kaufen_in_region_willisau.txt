@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-willisau/
 Title: Wohnung & Haus kaufen in Region Willisau - Immostreet.ch
-Description: Wohnung & Haus kaufen in Region Willisau - Immostreet.ch: ImmoStreet.ch hat 63 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Region Willisau - Immostreet.ch: ImmoStreet.ch hat 62 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-63 Resultate gefunden ·
+62 Resultate gefunden ·
 Wohnung & Haus kaufen in Region Willisau
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,78 +151,229 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Im Grund 3 + 4
-860'000
+Ettiswilerstrasse 5
+530'000
 CHF
-Attika-Wohnungen: Sonnige Aussichten in…
-Im Grund 3 + 4, 6130 Willisau
+Zentral und helles Wohnen in Willisau
+Ettiswilerstrasse 5, 6130 Willisau
 Array
 3.5 Zimmer
-105 m2
+77 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-105 m2
-Die attraktiven 3½-Zimmer-Eigentumswohnungen in der neuen Überbauung Im Grund versprechen hohe Qual…
+77 m2
+Hell und zentral WohnenDie zu verkaufende 3.5-Zimmer-Wohnung befindet sich im 2. Obergeschoss und k…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hintergasse
-680'000
+Pintenweg
+520'000
 CHF
-Regional zentral ideal Ihr neues Zuh…
-Hintergasse, 6248 Alberswil
+3.5-Zimmer-Wohnung im Gartengeschoss
+Pintenweg, 6146 Grossdietwil
+Array
+3.5 Zimmer
+79 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+79 m2
+Etage
+Verwirklichen Sie sich Ihren Wohntraum mit einem exklusiven Ausbaustandard und einzigartigem Weitbl…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Pintenweg
+485'000
+CHF
+3.5-Zimmer-Wohnung (Hochparterre)
+Pintenweg, 6146 Grossdietwil
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Etage
+Verwirklichen Sie sich Ihren Wohntraum mit einem exklusiven Ausbaustandard und einzigartigem Weitbl…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Pintenweg
+495'000
+CHF
+3.5-Zimmer-Wohnung im Obergeschoss
+Pintenweg, 6146 Grossdietwil
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Etage
+Verwirklichen Sie sich Ihren Wohntraum mit einem exklusiven Ausbaustandard und einzigartigem Weitbl…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Pintenweg
+610'000
+CHF
+4.5-Zimmer-Wohnung im Obergeschoss
+Pintenweg, 6146 Grossdietwil
 Array
 4.5 Zimmer
-115 m2
+107 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-115 m2
-Im idyllischen Alberswil bauen wir für Sie zwei Mehrfamilienhäuser mit 9 tollen Eigentumswohnungen …
+107 m2
+Etage
+Verwirklichen Sie sich Ihren Wohntraum mit einem exklusiven Ausbaustandard und einzigartigem Weitbl…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hintergasse
-970'000
+Pintenweg
+1'080'000
 CHF
-Über den Dächern von Alberswil gemütli…
-Hintergasse, 6248 Alberswil
-Array
-4.5 Zimmer
-152 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Wohnfläche
-152 m2
-Im idyllischen Alberswil bauen wir für Sie zwei Mehrfamilienhäuser mit 9 tollen Eigentumswohnungen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Pfundstrasse
-1'100'000
-CHF
-Neubau mit Weitsicht und Doppelgarage i…
-Pfundstrasse, 6133 Hergiswil b. Willisau
+5.5-Zimmer-Wohnung im Attikageschoss
+Pintenweg, 6146 Grossdietwil
 Array
 5.5 Zimmer
-195 m2
+164 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Attikawohnung
 Zimmer
 5.5
 Wohnfläche
-195 m2
-Endlich daheim Herzlich Willkommen in Hergiswil bei WillisauNeubauprojekt mit Doppelgarage…
+164 m2
+Etage
+Verwirklichen Sie sich Ihren Wohntraum mit einem exklusiven Ausbaustandard und einzigartigem Weitbl…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Feldmatt 17
+725'000
+CHF
+7,5 Zimmer-Einfamilienhaus an idyllisch…
+Feldmatt 17, 6246 Altishofen
+Array
+7.5 Zimmer
+121 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Wohnfläche
+121 m2
+Freistehendes Einfamilienhaus an ruhiger, sonniger LageErfüllen Sie sich jetzt Ihren Traum vom Einf…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Pure Harmonie - Wohnqualität und Naturn…
+Adresse auf Anfrage, 6123 Geiss
+Array
+7.5 Zimmer
+326 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Wohnfläche
+326 m2
+Im schweizerischen Rottal, eingebettet in eine flache und natürliche Landschaft, finden Sie mit die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'200
+CHF
+Glashaus
+Adresse auf Anfrage, 6243 Egolzwil
+Array
+1 Zimmer
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+1
+Glashaus 6x12mohne Mobiliarmuss selber abgebaut werden
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Birkenweg 14
+450'000
+CHF
+RUHIGE UND HELLE WOHNUNG IM LÄNDLICHEN …
+Birkenweg 14, 6145 Fischbach LU
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Diese schöne 4.5-Zimmer-Wohnung lässt keine Wünsche übrig. Durch die gute, ruhige und kinderfreundl…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+650'000
+CHF
+neuwertige, moderne Wohnung im Dorfzent…
+Adresse auf Anfrage, 6243 Egolzwil
+Array
+4.5 Zimmer
+102 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+102 m2
+Etage
+Vermietete Wohnung - als sichere Anlage oder Eigennutzung ! Grosszügig, modern, hell  - die Wohnung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wikon
+620'000
+CHF
+Grosszügige und moderne 3.5 Zimmer Wohn…
+Wikon, 4806 Wikon
+Array
+3.5 Zimmer
+99 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+99 m2
+Die hochwertigen und stilvollen Materialien zeichnen diese moderne Wohnung aus. Einladende Räume, e…
 Teilen
 E-Mail
 Facebook
@@ -244,105 +395,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Heuacher 11
-1'125'000
-CHF
-Wohnen mit einzigartiger Aussicht
-Heuacher 11, 6242 Wauwil
-Array
-5.5 Zimmer
-153 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-153 m2
-Etage
-5 ½ - Zimmer Garten-Maisonette-Wohnung153 m² Nettowohnfläche51 m² Garage
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hofmatt 2
-295'000
-CHF
-HOF LUTHERN - Natürlich Zuhause
-Hofmatt 2, 6156 Luthern
-Array
-2.5 Zimmer
-55 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-55 m2
-Etage
-Ländliches Wohnen - Luthern ist ein kleines Dorf im Kanton Luzern und ist in das idyllische Hügel- …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Heuacher 11
-1'150'000
-CHF
-Wohnen mit einzigartiger Aussicht
-Heuacher 11, 6242 Wauwil
-Array
-4.5 Zimmer
-131 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-131 m2
-Etage
-4 ½ - Zimmer Attika-Wohnung131 m² Nettowohnfläche41 m² Garage20 m² Nebenr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hofmatt 2
-495'000
-CHF
-HOF LUTHERN - Natürlich Zuhause
-Hofmatt 2, 6156 Luthern
-Array
-4.5 Zimmer
-126 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-126 m2
-Etage
-Ländliches Wohnen - Luthern ist ein kleines Dorf im Kanton Luzern und ist in das idyllische Hügel- …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kreuzstrasse 5A
-795'900
-CHF
-Zentral gelegene 4.5 - 5.5-Zimmer-Garte…
-Kreuzstrasse 5A, 6130 Willisau
-Array
-5.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-120 m2
-Diese im Jahre 1995 erbaute 4.5 - 5.5-Zimmer-Gartenwohnung befindet sich äusserst zentral an ideale…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Moosmatt 9
 580'000
 CHF
@@ -357,6 +409,25 @@ Zimmer
 4.5
 Wohnfläche
 113 m2
+Willkommen in moos-egolzwil.ch Egolzwil liegt im Luzerner Mittelland am sonnenverwöhnten Südhang de…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Moosmatt 5
+520'000
+CHF
+"Idyllisch, ländlich und doch zentral"
+Moosmatt 5, 6243 Egolzwil
+Array
+3.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+95 m2
 Willkommen in moos-egolzwil.ch Egolzwil liegt im Luzerner Mittelland am sonnenverwöhnten Südhang de…
 Teilen
 E-Mail
@@ -381,116 +452,56 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Moosmatt 3
-590'000
+Adresse auf Anfrage
+795'000
 CHF
-"idyllisch, ländlich und doch zentral"
-Moosmatt 3, 6243 Egolzwil
-Array
-3.5 Zimmer
-107 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-107 m2
-Willkommen in moos-egolzwil.ch Egolzwil liegt im Luzerner Mittelland am sonnenverwöhnten Südhang de…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ahornweg 2
-395'000
-CHF
-Kostengünstige 4½-Zi-Gartenwohnung - au…
-Ahornweg 2, 6145 Fischbach LU
+Leben im Luxus
+Adresse auf Anfrage, 6260 Reiden
 Array
 4.5 Zimmer
-88 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Wohnfläche
-88 m2
-Im Zentrum von Fischbach befindet sich das Mehrfamilienhaus mit fünf Wohneinheiten. Die Wohnung ist…
+Eintreten, staunen, wohlfühlen und geniessen.Der grosszügige Wohn- und Essbereich überzeugt mit ein…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Weierweid 6
-885'000
-CHF
-Neue, ausgebaute 5½-Zimmer-Terrassenwoh…
-Weierweid 6, 6122 Menznau
-Array
-5.5 Zimmer
-155 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-5.5
-Wohnfläche
-155 m2
-Die perfekte Wohnung für die Familie, welche einen luxuriösen Platzbedarf zu schätzen weiss. Leicht…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Burgallee
+Adresse auf Anfrage
 Preis auf Anfrage
-Neubau: Lichtdurchflutete und grosszügi…
-Burgallee, 6247 Schötz
+Totalrenoviertes, historisches Landschl…
+Adresse auf Anfrage, 6248 Alberswil
 Array
-5.5 Zimmer
-183 m2
+20 Zimmer
+785 m2
 Objekttyp
 Wohnung, Doppeleinfamilienhaus
 Zimmer
-5.5
+20
 Wohnfläche
-183 m2
-Die Häuser aus der 1. Etappe waren schneller weg als die frischen Gipfeli in der Znünipause. Zögern…
+785 m2
+Etage
+In der Nähe von Luzern, wo sanfte Hügel am Horizont in höhere Berge übergehen, liegt die Schweiz da…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Im Baumgarten 10
-755'000
+Adresse auf Anfrage
+735'000
 CHF
-Grosse Dachwohnung mit Charme
-Im Baumgarten 10, 6260 Reiden
-Array
-6.5 Zimmer
-144 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-6.5
-Wohnfläche
-144 m2
-Viel Platz auf der obersten Etage - diese 6½-Zimmer-Eigentumswohnung im sonnigen, familienfreundlic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brunnenhof 6
-760'000
-CHF
-Wauwil; neue und attraktive Wohnung
-Brunnenhof 6, 6242 Wauwil
+Traumhafte 4,5 Zi.- Neubau-Wohnung in E…
+Adresse auf Anfrage, 6243 Egolzwil
 Array
 4.5 Zimmer
-117 m2
+112 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-117 m2
-Wauwil - Wohnen im Herzen des Luzerner Mittellandes
-An sonniger und ruhiger Wohnlage verkaufen …
+112 m2
+Wohnfläche: 112.5m²Weitere Informationen und zusätzliche Bilder finden Sie unter : https://angebot.…
 Teilen
 E-Mail
 Facebook
@@ -510,25 +521,6 @@ Zimmer
 Wohnfläche
 128 m2
 Zentral und helle Wohnung zu verkaufen. Direkt vor den Toren des Städtchens. Die Aussicht auf das U…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'980'000
-CHF
-Wohlfühl-Oase mit Aussicht
-Adresse auf Anfrage, 6243 Egolzwil
-Array
-5.5 Zimmer
-250 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-250 m2
-Wunderschönes und neuwertiges Einfamilienhaus an unverbaubarer Lage in Egolzwil. Einzigariges Objek…
 Teilen
 E-Mail
 Facebook

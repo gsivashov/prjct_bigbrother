@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/immobilien/verkaufen
 Title: Immobilienverkauf | Haus verkaufen mit dem Comparis-Ratgeber
 Description: Sie möchten Ihre Immobilie verkaufen? Ob mit oder ohne Makler: Comparis steht Ihnen mit diesen Tipps beim Immobilienverkauf zur Seite.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr

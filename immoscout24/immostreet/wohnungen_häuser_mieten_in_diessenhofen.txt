@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-diessenhofen/
 Title: Wohnungen & Häuser mieten in Diessenhofen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Diessenhofen - Immostreet.ch: ImmoStreet.ch hat 22 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Diessenhofen - Immostreet.ch: ImmoStreet.ch hat 17 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-22 Resultate gefunden ·
+17 Resultate gefunden ·
 Wohnungen & Häuser mieten in Diessenhofen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,120 +122,39 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Schmiedgasse 25
-1'270
+Hintergasse 63
+2'500
 CHF
 /Monat
-Heimelige 3 Zimmer Altbauwohnung mit gr…
-Schmiedgasse 25, 8253 Diessenhofen
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Etage
-Mitten im Kern von Diessenhofen vermieten wir ab sofort eine heimelige 3 Zimmer Altabauwohnung mit …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'650
-CHF
-/Monat
-FAMILIENFREUNDLICH MIT TRAUMHAFTEM AUSS…
-Adresse auf Anfrage, 8253 Diessenhofen
-Array
-6.5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-6.5
-Wohnfläche
-160 m2
-Das Doppeleinfamilienhaus liegt an einer ruhigen Quartierstrasse und verfügt über einen durchdachte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rodenbergstrasse 10
-1'585
-CHF
-/Monat
-Moderne Attikawohnung mit tollem Ausbli…
-Rodenbergstrasse 10, 8253 Diessenhofen
-Array
-2.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-75 m2
-An der Rodenbergstrasse 10 vermieten wir diese schöne, lichtdurchflutete 2.5-Zimmer-Wohnung an länd…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rodenbergstrasse 10
-1'970
-CHF
-/Monat
-Moderne Erdgeschosswohnung mit schönem …
-Rodenbergstrasse 10, 8253 Diessenhofen
+3.5-Zimmer-Wohnung mit Aussicht auf Rhe…
+Hintergasse 63, 8253 Diessenhofen
 Array
 3.5 Zimmer
-100 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Wohnfläche
-100 m2
-An der Rodenbergstrasse 10 vermieten wir diese schöne, lichtdurchflutete 3.5-Zimmer-Wohnung an länd…
+Die auf Eigentumswohnung-Standard ausgebaute Loft-Wohnung besticht durch das grosse Wohnzimmer mit …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Helfereigasse 2
-860
+Schaffhauserstrasse, 7
+1'290
 CHF
 /Monat
-Im Herzen von der Altstadt Diessenhofen…
-Helfereigasse 2, 8253 Diessenhofen
+Renovierte Dachwohnung an ruhiger Lage …
+Schaffhauserstrasse, 7, 8253 Diessenhofen
 Array
-2.5 Zimmer
-57 m2
+4 Zimmer
+88 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Dachwohnung
 Zimmer
-2.5
+4
 Wohnfläche
-57 m2
-Im renovierten Altstadt Haus 2,5 Zimmer Wohnung zu vermieten.Kürzlich renoviert, neue , moderne Küc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hintergasse 18
-1'530
-CHF
-/Monat
-Rusitkales Einfamilienhaus mit 100 m2 W…
-Hintergasse 18, 8253 Diessenhofen
-Array
-3.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-3.5
-Wohnfläche
-100 m2
-Gemütliches, rustikales Haus mit GalerieDieses schöne Einfamilienhaus liegt im Zentrum von Diessenh…
+88 m2
+Im idyllischen Städtchen Diessenhofen finden Sie Ihr neues Zuhause. Das Zentrum befindet sich nur 3…
 Teilen
 E-Mail
 Facebook
@@ -250,6 +169,142 @@ Objekttyp
 Büro
 In Diessenhofen vermieten wir Büro-, Gewerberäumlichkeiten mit ca. 170 m2 Fläche im 3. OG.
 Preis…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Helfereigasse 1
+1'190
+CHF
+/Monat
+Die perfekte Stadtwohnung mit Terrasse!
+Helfereigasse 1, 8253 Diessenhofen
+Array
+2.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+77 m2
+LageDas gepflegte Mehrfamilienhaus befindet sich in der schönen Altstadt von Diessenhofen.Das Wohnh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zelgstrasse 1
+1'050
+CHF
+/Monat
+Morgen - UND Abendsonne / 2 Balkone
+Zelgstrasse 1, 8253 Diessenhofen
+Array
+3 Zimmer
+61 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+61 m2
+Diese helle 3 Zimmerwohnung bietet Ihnen unter anderem:
+ruhige Lage nahe Zentrum
+Teilen
+E-Mail
+Facebook
+Whatsapp
+im Vogelsang 5
+1'490
+CHF
+/Monat
+Grosszügige Wohnung an ruhiger zentrale…
+im Vogelsang 5, 8253 Diessenhofen
+Array
+2.5 Zimmer
+72 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+72 m2
+Im Vogelsang wartet diese Wohlfühloase mit folgenden Vorteilen auf Sie:- Wohnzimmer und Schlafzimme…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'280
+CHF
+/Monat
+Wohnung
+Adresse auf Anfrage, 8253 Diessenhofen
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Ich suche einen Nachmieter ab sofort oder nach Vereinbarung
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hintergasse 33
+930
+CHF
+/Monat
+Heimelige 3 Zimmerwohnung zu vermieten
+Hintergasse 33, 8253 Diessenhofen
+Array
+3 Zimmer
+62 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+62 m2
+Im Herzen von Diessenhofen vermieten wir diese schöne Wohnung. Zudem bietet Ihnen die Wohnung folge…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schützenstrasse, 9
+1'220
+CHF
+/Monat
+Wohnen im idyllischen Städtchen
+Schützenstrasse, 9, 8253 Diessenhofen
+Array
+3 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+60 m2
+Im idyllischen Städtchen Diessenhofen liegt dieses charmante Mehrfamilienhaus. In Kürze gelangt man…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schmiedgasse 25
+1'270
+CHF
+/Monat
+Heimelige 3 Zimmer Altbauwohnung mit gr…
+Schmiedgasse 25, 8253 Diessenhofen
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Etage
+Mitten im Kern von Diessenhofen vermieten wir ab sofort eine heimelige 3 Zimmer Altabauwohnung mit …
 Teilen
 E-Mail
 Facebook
@@ -269,44 +324,7 @@ Zimmer
 2.5
 Wohnfläche
 50 m2
-Wir vermieten eine praktische 2.5 Zimmer-Dachwohnung an guter Lage. Die Wohnung befindet sich zur Z…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rodenbergstrasse 2
-1'670
-CHF
-/Monat
-Dachterrassen mit Morgen und Abendsonne!
-Rodenbergstrasse 2, 8253 Diessenhofen
-Array
-2.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-77 m2
-An der Rodenbergstrasse 2 vermieten wir eine sonnendurchflutete und modern konzipierte 2.5-Zimmer-D…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schützenstrasse 13
-1'980
-CHF
-/Monat
-Traumhafte und hochwertige Familienwohn…
-Schützenstrasse 13, 8253 Diessenhofen
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Traumhafte und hochwertige Familienwohnung Wir vermieten diese grosszügige 4 .5 Zimmerwohnung an be…
+Wir vermieten eine sehr schöne 2.5 Zimmer-Dachwohnung an guter Lage in Diessenhofen-Alle Zimmer mit…
 Teilen
 E-Mail
 Facebook
@@ -331,27 +349,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Basadingerstrasse 13
-1'140
-CHF
-/Monat
-moderne 3-Zimmer-Wohnung mit sonnigem B…
-Basadingerstrasse 13, 8253 Diessenhofen
-Array
-3 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-60 m2
-DIESSENHOFEN
-Das Regionalzentrum Diessenhofen liegt nahe an der deutschen Grenze und die Stadt Sch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Schwaderloch 7
 1'429
 CHF
@@ -368,108 +365,6 @@ Zimmer
 Wohnfläche
 179 m2
 Supergünstiger Mietpreis: Mit viel Kultur für 9 Monate am Rhein * Stellen Sie sich das vor: Sie si…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schützenstrasse 9
-1'220
-CHF
-/Monat
-Wohnen im idyllischen Städtchen
-Schützenstrasse 9, 8253 Diessenhofen
-Array
-3 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-60 m2
-Etage
-Im idyllischen Städtchen Diessenhofen liegt dieses charmante Mehrfamilienhaus. In Kürze gelangt man…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-im Vogelsang 7
-1'410
-CHF
-/Monat
-Ihr Zuhause - viele Möglichkeiten!
-im Vogelsang 7, 8253 Diessenhofen
-Array
-2.5 Zimmer
-59 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-59 m2
-Wir haben die perfekte Wohnung in grüner Umgebung für Sie:- Helle Räume- Wandschrank im Korridor fü…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Helfereigasse 1
-1'060
-CHF
-/Monat
-Wunderschöne Bijou-Wohnung mit Sichtbal…
-Helfereigasse 1, 8253 Diessenhofen
-Array
-2.5 Zimmer
-48 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-48 m2
-1 Monat gratis Wohnen *LageDas gepflegte Mehrfamilienhaus liegt im Zentrum der schönen Alts…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Helfereigasse 1
-1'240
-CHF
-/Monat
-Die perfekte Stadtwohnung mit Terrasse!
-Helfereigasse 1, 8253 Diessenhofen
-Array
-2.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-77 m2
-LageDas gepflegte Mehrfamilienhaus befindet sich in der schönen Altstadt von Diessenhofen.Das Wohnh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 20
-2'090
-CHF
-/Monat
-Topwohnung an Toplage!
-Bahnhofstrasse 20, 8253 Diessenhofen
-Array
-4.5 Zimmer
-117 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-117 m2
-Etage
-An der Bahnhofstrasse 20 in Diessenhofen vermieten wir diese schöne, grosszügige 4.5-Zimmer-Wohnung…
 Teilen
 E-Mail
 Facebook
@@ -505,10 +400,34 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 2
-1
-2
-nächste Seite
+im Vogelsang 5, EH
+120
+CHF
+/Monat
+Einstellplatz im Vogelsang in Diessenho…
+im Vogelsang 5, EH, 8253 Diessenhofen
+Array
+Objekttyp
+Tiefgarage
+- Einstellplatz in Einstellhalle zu vermieten- Per sofort oder n.V. verfügbar- Mietzins Einstellpla…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+im Vogelsang 7, AP
+40
+CHF
+/Monat
+Abstellplatz gesucht? Wir haben Ihn!
+im Vogelsang 7, AP, 8253 Diessenhofen
+Array
+Objekttyp
+Offener Parkplatz
+- Abstellplatz zu vermieten- super Parkgelegenheit in der nähe der Diessenhofen-Altstadt- bei neuer…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 ImmoStreet.ch
 Mieten
 Immobilien mieten in der Stadt Diessenhofen

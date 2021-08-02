@@ -106,7 +106,7 @@ Filtro
 Cercare
 Modificare la ricerca
 La ricerca è stata aggiunta nella sua Immobox.
-207 risultati trovati ·
+218 risultati trovati ·
 Offerte dell'agenzia Studio Immobiliare Ticino Sagl
 Prezzo (crescente)
 Prezzo (decrescente)
@@ -120,213 +120,21 @@ NPA (decrescente)
 Ordinamento
 Inviare
 Indirizzo su richiesta
-3'250
+2'000
 CHF
 /Mese
-Lugano: Ufficio 3 locali
-Indirizzo su richiesta, 6900 Lugano
-Array
-3 Locali
-150 m2
-Tipo di oggetto
-Ufficio
-Locali
-3
-Sup. abitabile
-150 m2
-Nel cuore di Lugano, negozio di 26 mq con due vetrine su strada piu' ufficio di 150 mq. Piano terr…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-2'150
-CHF
-/Mese
-Lugano: Appartamento 3,5 locali
-Indirizzo su richiesta, 6900 Lugano
+Montagnola: Appartamento 3,5 locali
+Indirizzo su richiesta, 6926 Montagnola
 Array
 3.5 Locali
-129 m2
+84 m2
 Tipo di oggetto
 Appartamento, Appartamento
 Locali
 3.5
 Sup. abitabile
-129 m2
-Lugano, in zona tranquilla e servita proponiamo ampio 3.5 locali.L'appartamento è così composto: in…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-1'300
-CHF
-/Mese
-Minusio: Appartamento 3,5 locali
-Indirizzo su richiesta, 6648 Minusio
-Array
-3.5 Locali
-Tipo di oggetto
-Appartamento, Appartamento
-Locali
-3.5
-Piano
-Appartamento 3.5 locali in zona soleggiata e nelle immediate vicinanze a scuole e trasporti pubblic…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-1'500
-CHF
-/Mese
-Lamone: Appartamento 3,5 locali
-Indirizzo su richiesta, 6814 Lamone
-Array
-3.5 Locali
-90 m2
-Tipo di oggetto
-Appartamento, Appartamento
-Locali
-3.5
-Sup. abitabile
-90 m2
-Nel caratteristico nucleo di Lamone a due minuti dalla stazione e dall'autostrada, grazioso 3.5 loc…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-1'650
-CHF
-/Mese
-Lugano: Appartamento arredato 3,5 loca…
-Indirizzo su richiesta, 6900 Lugano
-Array
-3.5 Locali
-80 m2
-Tipo di oggetto
-Appartamento, Abitazione ammobiliata
-Locali
-3.5
-Sup. abitabile
-80 m2
-In zona universitaria, a pochi minuti a piedi dal centro e dal lungolago, proponiamo appartamento a…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-4'300
-CHF
-/Mese
-Castagnola: Appartamento 5,5 locali
-Indirizzo su richiesta, 6976 Castagnola
-Array
-5.5 Locali
-260 m2
-Tipo di oggetto
-Appartamento, Appartamento
-Locali
-5.5
-Sup. abitabile
-260 m2
-A Castagnola, in posizione panoramica, con ottima esposizione solare e con magnifica vista lago, ap…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-1'650
-CHF
-/Mese
-Lugano: Appartamento 3,5 locali
-Indirizzo su richiesta, 6900 Lugano
-Array
-3.5 Locali
-Tipo di oggetto
-Appartamento, Appartamento
-Locali
-3.5
-Lugano, in zona centrale vicina a tutti i servizi, proponiamo luminoso 3.5 locali.L'appartamento è …
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-1'800
-CHF
-/Mese
-Ascona: Appartamento 3,5 locali
-Indirizzo su richiesta, 6612 Ascona
-Array
-3.5 Locali
-Tipo di oggetto
-Appartamento, Appartamento
-Locali
-3.5
-Piano
-Ad Ascona, in zona tranquilla e soleggiata, nelle immediate vicinanze di tutti i servizi, proponiam…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-1'350
-CHF
-/Mese
-Mendrisio: Appartamento arredato 3,5 l…
-Indirizzo su richiesta, 6850 Mendrisio
-Array
-3.5 Locali
-70 m2
-Tipo di oggetto
-Appartamento, Abitazione ammobiliata
-Locali
-3.5
-Sup. abitabile
-70 m2
-Cerchi un appartamento arredato in posizione strategica? A soli 2 minuti dall'uscita autostradale d…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-2'300
-CHF
-/Mese
-Lugano: Appartamento 3,5 locali
-Indirizzo su richiesta, 6900 Lugano
-Array
-3.5 Locali
-100 m2
-Tipo di oggetto
-Appartamento, Appartamento
-Locali
-3.5
-Sup. abitabile
-100 m2
-Loreto, in zona residenziale a pochi passi dal lago e dai principali servizi, appartamento complet…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-1'800
-CHF
-/Mese
-Lugano: Ufficio 3,5 locali
-Indirizzo su richiesta, 6900 Lugano
-Array
-3.5 Locali
-75 m2
-Tipo di oggetto
-Ufficio
-Locali
-3.5
-Sup. abitabile
-75 m2
+84 m2
+Nella verde e residenziale Montagnola, in una piccola palazzina di recente costruzione proponiamo m…
 Condividere
 E-mail
 Facebook
@@ -335,26 +143,188 @@ Indirizzo su richiesta
 890
 CHF
 /Mese
-Locarno: Appartamento 1,5 locali
-Indirizzo su richiesta, 6600 Locarno
+Agno: Appartamento 3,5 locali
+Indirizzo su richiesta, 6982 Agno
 Array
-1.5 Locali
+3.5 Locali
+80 m2
 Tipo di oggetto
 Appartamento, Appartamento
 Locali
-1.5
-Piano
-In affitto grazioso monolocale ammobiliato e con bella vista aperta nella Residenza Panorama di Loc…
+3.5
+Sup. abitabile
+80 m2
+Ad Agno proponiamo luminosi appartamenti di diverso taglio, da 3.5 a 5.5 locali.Ottima esposizione …
 Condividere
 E-mail
 Facebook
 Whatsapp
 Indirizzo su richiesta
-2'200
+1'400
 CHF
 /Mese
-Locarno: Appartamento 3,5 locali
-Indirizzo su richiesta, 6600 Locarno
+Agno: Appartamento 5,5 locali
+Indirizzo su richiesta, 6982 Agno
+Array
+5.5 Locali
+120 m2
+Tipo di oggetto
+Appartamento, Appartamento
+Locali
+5.5
+Sup. abitabile
+120 m2
+Ad Agno proponiamo luminosi appartamenti di diverse metrature, da 3,5 a 5,5 locali.Ottima esposizio…
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+1'700
+CHF
+/Mese
+Bioggio: Appartamento 5,5 locali
+Indirizzo su richiesta, 6934 Bioggio
+Array
+5.5 Locali
+125 m2
+Tipo di oggetto
+Appartamento, Appartamento
+Locali
+5.5
+Sup. abitabile
+125 m2
+A Bioggio proponiamo luminoso appartamento di 5.5 locali con bellissima vista aperta su montagne e …
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+1'100
+CHF
+/Mese
+Ponte Tresa: Commercio / negozio 2 loca…
+Indirizzo su richiesta, 6988 Ponte Tresa
+Array
+2 Locali
+30 m2
+Tipo di oggetto
+Al dettaglio, Commercio
+Locali
+2
+Sup. abitabile
+30 m2
+Ponte Tresa. In zona di forte passaggio, fronte lago e a pochi passi a piedi dalla dogana, proponi…
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+2'000
+CHF
+/Mese
+Campione d'Italia: Appartamento 3,5 loc…
+Indirizzo su richiesta, nozip Campione d'Italia
+Array
+3.5 Locali
+113 m2
+Tipo di oggetto
+Appartamento, Appartamento
+Locali
+3.5
+Sup. abitabile
+113 m2
+A Campione D'Italia offriamo ampio 3.5 locali con splendida terrazza abitabile dalla quale è possib…
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+1'300
+CHF
+/Mese
+Lugano: Appartamento 3,5 locali
+Indirizzo su richiesta, 6900 Lugano
+Array
+3.5 Locali
+93 m2
+Tipo di oggetto
+Appartamento, Appartamento
+Locali
+3.5
+Sup. abitabile
+93 m2
+Lugano in zona residenziale proponiamo in locazione ampio 3.5 locali con vista lago. Ingresso con a…
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+1'200
+CHF
+/Mese
+Pazzallo: Appartamento 3,5 locali
+Indirizzo su richiesta, 6912 Pazzallo
+Array
+3.5 Locali
+80 m2
+Tipo di oggetto
+Appartamento, Appartamento
+Locali
+3.5
+Sup. abitabile
+80 m2
+Nella tranquilla e strategica Pazzallo, poco distante da Lugano a dall'ingresso autostradale propon…
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+1'500
+CHF
+/Mese
+Cassarate: Appartamento 2,5 locali
+Indirizzo su richiesta, 6900 Lugano
+Array
+2.5 Locali
+50 m2
+Tipo di oggetto
+Appartamento, Appartamento
+Locali
+2.5
+Sup. abitabile
+50 m2
+Cassarate a pochi passi dal lungo lago e dai principali servizi, grazioso 2.5 locali arredato. Ingr…
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+1'700
+CHF
+/Mese
+Lugano: Appartamento arredato 3,5 loca…
+Indirizzo su richiesta, 6900 Lugano
+Array
+3.5 Locali
+82 m2
+Tipo di oggetto
+Appartamento, Abitazione ammobiliata
+Locali
+3.5
+Sup. abitabile
+82 m2
+Lugano, in zona ben servita dai mezzi, e a pochi passi da tutti i principali servizi, 3.5 locali ar…
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+1'450
+CHF
+/Mese
+Bellinzona: Appartamento 3,5 locali
+Indirizzo su richiesta, 6500 Bellinzona
 Array
 3.5 Locali
 Tipo di oggetto
@@ -362,63 +332,7 @@ Appartamento, Appartamento
 Locali
 3.5
 Piano
-Ogni appartamento dispone della propria colonna lava asciuga, posta nell'apposito locale all'intern…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-1'250
-CHF
-/Mese
-Locarno: Appartamento 2,5 locali
-Indirizzo su richiesta, 6600 Locarno
-Array
-2.5 Locali
-Tipo di oggetto
-Appartamento, Appartamento
-Locali
-2.5
-Piano
-Ogni appartamento dispone della propria colonna lava asciuga, posta nell'apposito locale all'intern…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-950
-CHF
-/Mese
-Locarno: Appartamento 1,5 locali
-Indirizzo su richiesta, 6600 Locarno
-Array
-1.5 Locali
-Tipo di oggetto
-Appartamento, Appartamento
-Locali
-1.5
-Piano
-Ogni appartamento dispone della propria colonna lava asciuga, posta nell'apposito locale all'intern…
-Condividere
-E-mail
-Facebook
-Whatsapp
-Indirizzo su richiesta
-1'350
-CHF
-/Mese
-Lugaggia: Appartamento 2,5 locali
-Indirizzo su richiesta, 6953 Lugaggia
-Array
-2.5 Locali
-45 m2
-Tipo di oggetto
-Appartamento, Appartamento
-Locali
-2.5
-Sup. abitabile
-45 m2
-A Lugaggia, appartamento in casa indipendente al piano terra con giardino ad uso esclusivo e magni…
+A Bellinzona, in zona tranquilla e soleggiata, in uno stabile ristrutturato, proponiamo in affitto …
 Condividere
 E-mail
 Facebook
@@ -444,61 +358,159 @@ E-mail
 Facebook
 Whatsapp
 Indirizzo su richiesta
-1'500
+4'600
 CHF
 /Mese
-Massagno: Appartamento 2,5 locali
-Indirizzo su richiesta, 6900 Massagno
+Cassarate: Attico 7,5 locali
+Indirizzo su richiesta, 6900 Lugano
 Array
-2.5 Locali
-60 m2
+7.5 Locali
+210 m2
 Tipo di oggetto
-Appartamento, Appartamento
+Appartamento, Attico
 Locali
-2.5
+7.5
 Sup. abitabile
-60 m2
-Massagno, a pochi minuti dall'ospedale civico e dai principali servizi, grazioso locali all'ultimo…
+210 m2
+In posizione strategica e comoda a tutti i servizi che il quartiere di Cassarate può offrire propon…
 Condividere
 E-mail
 Facebook
 Whatsapp
 Indirizzo su richiesta
-850
+4'500
 CHF
 /Mese
-Massagno: Appartamento 1,5 locali
-Indirizzo su richiesta, 6900 Massagno
+Lugano: Ufficio 7 locali
+Indirizzo su richiesta, 6900 Lugano
+Array
+7 Locali
+190 m2
+Tipo di oggetto
+Ufficio
+Locali
+7
+Sup. abitabile
+190 m2
+Spazioso e luminoso ufficio in centro città, dotato di cucina e bagni uomo e donna. Attualmente si …
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+1'500
+CHF
+/Mese
+Lugano: Appartamento 3,5 locali
+Indirizzo su richiesta, 6900 Lugano
+Array
+3.5 Locali
+Tipo di oggetto
+Appartamento, Appartamento
+Locali
+3.5
+Piano
+Lugano, nei pressi dell'USI e vicino a tutti i servizi, proponiamo in affitto luminoso 3.5 locali. …
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+970
+CHF
+/Mese
+Cassarate: Appartamento 1,5 locali
+Indirizzo su richiesta, 6900 Lugano
 Array
 1.5 Locali
-40 m2
+85 m2
 Tipo di oggetto
 Appartamento, Appartamento
 Locali
 1.5
 Sup. abitabile
-40 m2
-Massagno, a pochi passi dal supermercato, fermata del bus e dai principali servizi, grazioso 2 loca…
+85 m2
+In posizione strategica, comoda a tutti i servizi che il quartiere di Cassarate può offrire, lumino…
 Condividere
 E-mail
 Facebook
 Whatsapp
 Indirizzo su richiesta
-1'850
+1'200
 CHF
 /Mese
-Castagnola: Appartamento arredato 2,5 …
-Indirizzo su richiesta, 6976 Castagnola
+Lugano: Appartamento 1,5 locali
+Indirizzo su richiesta, 6900 Lugano
 Array
-2.5 Locali
+1.5 Locali
+50 m2
+Tipo di oggetto
+Appartamento, Appartamento
+Locali
+1.5
+Sup. abitabile
+50 m2
+In zona centrale, a pochi passi dal centro città, dal lungolago e in posizione ottimale rispetto ai…
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+1'190
+CHF
+/Mese
+Lugano: Appartamento 2 locali
+Indirizzo su richiesta, 6900 Lugano
+Array
+2 Locali
+34 m2
+Tipo di oggetto
+Appartamento, Appartamento
+Locali
+2
+Sup. abitabile
+34 m2
+In zona centrale, a pochi passi dal centro città, dal lungolago e in posizione ottimale rispetto ai…
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+1'500
+CHF
+/Mese
+Bellinzona: Appartamento duplex 5,5 loc…
+Indirizzo su richiesta, 6500 Bellinzona
+Array
+5.5 Locali
 105 m2
 Tipo di oggetto
-Appartamento, Abitazione ammobiliata
+Appartamento, Duplex
 Locali
-2.5
+5.5
 Sup. abitabile
 105 m2
-In zona tranquilla e panoramica, in contesto immerso nel verde a pochi minuti dal lago, dal centro …
+Appartamento Duplex ristrutturato a Bellinzona.L'appartamento è formato da 3 stanze singole ed una …
+Condividere
+E-mail
+Facebook
+Whatsapp
+Indirizzo su richiesta
+1'900
+CHF
+/Mese
+Massagno: Appartamento 3,5 locali
+Indirizzo su richiesta, 6900 Massagno
+Array
+3.5 Locali
+83 m2
+Tipo di oggetto
+Appartamento, Appartamento
+Locali
+3.5
+Sup. abitabile
+83 m2
+Elegante 3.5 locali in residenza di recente costruzione. Spazi ampi e luminosi, posizione strategic…
 Condividere
 E-mail
 Facebook

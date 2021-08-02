@@ -48,6 +48,7 @@ Physische Edelmetalle
 Highlights
 Börsenspiel
 Börse: Marktübersicht
+Vorsorgefonds
 Unser Vorsorgebuch
 Nachhaltig –
 wie «grün» ist Ihr Fonds?
@@ -58,9 +59,8 @@ Jetzt ermitteln
 Hypothek
 Hypothek in der Übersicht
 Festhypothek
-Libor-Hypothek
-Variable Hypothek
 SARON-Hypothek
+Variable Hypothek
 Hypolimite
 Baukredit
 Eigenheim kaufen
@@ -83,6 +83,7 @@ Kredit in der Übersicht
 Konsumkredit
 Privatkredit
 Autokredit
+Autoleasing
 Weiterbildungskredit
 Limite
 Lombardkredit
@@ -215,9 +216,9 @@ Kontakt
 Privatkredit-Hotline
 +41 900 845 400
 (CHF 1.50/Min.)
-13953 Personen
+13764 Personen
 ​profitierten von 4,7%
-Unser attraktiver Weiterbildungskredit gehört mit 4,7% bis 5,9% Jahreszins zu den günstigsten im Markt. Bis heute haben bereits 13953 Personen von unserem günstigsten Zinssatz von 4,7% profitiert.
+Unser attraktiver Weiterbildungskredit gehört mit 4,7% bis 5,9% Jahreszins zu den günstigsten im Markt. Bis heute haben bereits 13764 Personen von unserem günstigsten Zinssatz von 4,7% profitiert.
 Schneller
 Kreditentscheid
 Ihre Kreditanfrage wird garantiert innerhalb von 48 Stunden bearbeitet. Einen vorläufigen Entscheid erhalten Sie umgehend nach dem Ausfüllen des Online-Antrags.

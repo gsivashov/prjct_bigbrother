@@ -1,6 +1,6 @@
-URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-loft/in-basel/
+URL: https://www.immostreet.ch/de/mieten/apartment/unterkategorie-loft/in-basel/
 Title: Loft mieten in Basel - Immostreet.ch
-Description: Loft mieten in  Basel - Immostreet.ch: ImmoStreet.ch hat 10 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Loft mieten in  Basel - Immostreet.ch: ImmoStreet.ch hat 11 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-10 Resultate gefunden ·
+11 Resultate gefunden ·
 Loft mieten in Basel
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,22 +131,104 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Rebgasse 20
-5'410
+Tangentenweg 34
+2'150
 CHF
 /Monat
-Erstvermietung - Luxuriöse Loftwohnung …
-Rebgasse 20, 4058 Basel
+Atelierwohnung im Erlenmattquartier
+Tangentenweg 34, 4058 Basel
 Array
 2.5 Zimmer
-195 m2
+100 m2
 Objekttyp
 Wohnung, Loft
 Zimmer
 2.5
 Wohnfläche
-195 m2
-Im trendigen und pulsierenden Kleinbasel über dem Räbgass-Center vermieten wir eine lichtdurchflute…
+100 m2
+Im Erlenmattquartier in Basel steht per sofort oder nach Vereinbarung ein individuelles Wohn- und A…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rufacherstrasse 7
+2'200
+CHF
+/Monat
+Tolle 2-Zimmer-Loftwohnung an zentraler…
+Rufacherstrasse 7, 4055 Basel
+Array
+2 Zimmer
+116 m2
+Objekttyp
+Wohnung, Loft
+Zimmer
+2
+Wohnfläche
+116 m2
+Wir vermieten diese tolle 2-Zimmer-Loftwohnung im 3./4. OG.
+Die Wohnung ist zentral gelegen und z…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Haltingerstrasse 40
+3'110
+CHF
+/Monat
+Loft-Riegelbau-Haus
+Haltingerstrasse 40, 4057 Basel
+Array
+5 Zimmer
+177 m2
+Objekttyp
+Wohnung, Loft
+Zimmer
+5
+Wohnfläche
+177 m2
+Etage
+Die mit viel Liebe renovierte Schreiner-Werkstatt im Herzen von Basel wurde im Jahr 1988 zu einer L…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blauensteinerstr. 5
+2'490
+CHF
+/Monat
+2-Zimmer Loft-Wohnung mit Gartensitzpla…
+Blauensteinerstr. 5, 4053 Basel
+Array
+2 Zimmer
+110 m2
+Objekttyp
+Wohnung, Loft
+Zimmer
+2
+Wohnfläche
+110 m2
+Per sofort oder nach Vereinbarung vermieten wir eine moderne, praktisch aufgeteilte Loft-Wohnung mi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Steinengraben 16
+2'290
+CHF
+/Monat
+Moderne Loft mit Garten in der Stadt
+Steinengraben 16, 4051 Basel
+Array
+2.5 Zimmer
+89 m2
+Objekttyp
+Wohnung, Loft
+Zimmer
+2.5
+Wohnfläche
+89 m2
+Wir vermieten am Steinengraben 16 eine moderne, sonnige Loft-Wohnung mit eigenem Garten und Gartenh…
 Teilen
 E-Mail
 Facebook
@@ -191,46 +273,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Tangentenweg 32
-1'770
-CHF
-/Monat
-Atelierwohnung im Erlenmattquartier
-Tangentenweg 32, 4058 Basel
-Array
-2.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Loft
-Zimmer
-2.5
-Wohnfläche
-80 m2
-Per sofort oder nach Vereinbarung vermieten wir dieses wunderbare Wohn- und Arbeitsatelier mit folg…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blauensteinerstrasse 5
-2'490
-CHF
-/Monat
-Geräumige, offene Wohnung mit Gartensit…
-Blauensteinerstrasse 5, 4053 Basel
-Array
-1 Zimmer
-110 m2
-Objekttyp
-Wohnung, Loft
-Zimmer
-1
-Wohnfläche
-110 m2
-Per sofort oder nach Vereinbarung vermieten wir eine moderne, gut aufgeteilte Loft-Wohnung mit ruhi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Schützenmattstrasse 40
 1'790
 CHF
@@ -268,26 +310,6 @@ Zimmer
 Wohnfläche
 103 m2
 Im Neubau "Bâleo Erlenmatt" vermieten wir eine helle Wohnung mit folgendem Ausbaustandard:- Offener…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blauensteinerstrasse 5
-2'440
-CHF
-/Monat
-Wohnen im modernen Maisonette-Loft mit …
-Blauensteinerstrasse 5, 4053 Basel
-Array
-2 Zimmer
-110 m2
-Objekttyp
-Wohnung, Loft
-Zimmer
-2
-Wohnfläche
-110 m2
-Per 1. Juni 2021 oder nach Vereinbarung vermieten wir eine moderne Loft-Wohnung auf zwei Etagen mit…
 Teilen
 E-Mail
 Facebook

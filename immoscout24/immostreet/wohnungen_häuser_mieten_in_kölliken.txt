@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-koelliken/
 Title: Wohnungen & Häuser mieten in Kölliken - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Kölliken - Immostreet.ch: ImmoStreet.ch hat 14 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Kölliken - Immostreet.ch: ImmoStreet.ch hat 15 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-14 Resultate gefunden ·
+15 Resultate gefunden ·
 Wohnungen & Häuser mieten in Kölliken
 Preis (aufsteigend)
 Preis (absteigend)
@@ -137,24 +137,49 @@ Zimmer
 4.5
 Wohnfläche
 120 m2
-Zu vermieten per sofort: 4½-Zimmer-Wohnung (120 m²) mit Weitsicht.Mietzins: Fr. 1'700.-- exkl. NK. …
+Etage
+Die 4½-Zimmer-Wohnung ist in einem gepflegten Wohnhaus. Grosszügiger und moderner Ausbau, hell und …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Eichenweg 13
-1'450
+Katzenbühlstrasse 8
+1'390
 CHF
 /Monat
-Nachmieter
-Eichenweg 13, 5742 Kölliken
+Moderner Ausbau und Wohnen im Grünen ko…
+Katzenbühlstrasse 8, 5742 Kölliken
 Array
 4.5 Zimmer
+81 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Ich suche Nachmieter 4.5 zimmer wohnung zu vermieten absofort
+Wohnfläche
+81 m2
+Wir vermieten ab sofort oder nach Vereinbarung diese helle und ruhig gelegene 4,5-Zimmer-Wohnung (o…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eichweg 15
+1'100
+CHF
+/Monat
+Wohnung 2.5
+Eichweg 15, 5742 Kölliken
+Array
+2.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Zimmer
+2.5
+Wohnfläche
+75 m2
+Etage
+A Kölliken, in una posizione tranquilla, disponiamo di uno spazioso appartamento di 2.5 locali in a…
 Teilen
 E-Mail
 Facebook
@@ -175,7 +200,129 @@ Zimmer
 Wohnfläche
 69 m2
 Etage
-DAS FINANZIELLE3 Zimmer-Wohnung 1.OG- Nettomietzins CHF 1'250.00- Nebenkosten CHF 180.003.5 Zimmer-…
+DAS FINANZIELLE- Nettomietzins CHF 1'250.00- Nebenkosten CHF 180.00- Einstellplatz CHF 120.00- Abst…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 39
+120
+CHF
+/Monat
+EINSTELLPLATZ BEIM BAHNHOF
+Hauptstrasse 39, 5742 Kölliken
+Array
+Objekttyp
+Tiefgarage
+Einstellplatz in unmittelbarer nähe zum Bahnhof Kölliken zu vermieten!
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'480
+CHF
+/Monat
+WOHNTRAUM IM GRÜNEN
+Adresse auf Anfrage, 5742 Kölliken
+Array
+4.5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+160 m2
+Dieses Einfamilienhaus befindet sich an ruhiger und sonniger Lage im Grünen. Es eignet sich durch d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wolfgrubenstrasse 22 A / 22 B
+165
+CHF
+/Monat
+Bastel- und Hobbyraum
+Wolfgrubenstrasse 22 A / 22 B, 5742 Kölliken
+Array
+20 m2
+Objekttyp
+Atelier
+Wohnfläche
+20 m2
+Sind Sie kreativ und voller Ideen, haben aber nicht den passenden Raum? Per 01.08.2021 oder nach Ve…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wallenmattstrasse 6
+1'669
+CHF
+/Monat
+Zentrumsnahe 4 ½ - Zimmer-Wohnung mit 2…
+Wallenmattstrasse 6, 5742 Kölliken
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Zu vermieten per 1.10.2021 oder nach Vereinbarung überdurchschnittlich grosse 4.5 Zimmer Wohnung mi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eichhofweg 5
+875
+CHF
+/Monat
+RUHIG MIT CHARME
+Eichhofweg 5, 5742 Kölliken
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Diese Altbauwohnung mit dem speziellen Charme vermittelt schon beim Eintreten ein heimeliges Wohnge…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eichweg 15
+1'414
+CHF
+/Monat
+Diese schöne gemütliche 3,5 ZWG könnte …
+Eichweg 15, 5742 Kölliken
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+In Kölliken, an einer ruhigen Lage haben wir eine grosszügige 3.5 Zimmerwohnung im 2.OG zu vermiete…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eichweg 13
+1'450
+CHF
+/Monat
+Nachmieter
+Eichweg 13, 5742 Kölliken
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Ich suche Nachmieter für meine wohnung4.5 zimmer wohnung zu vermieten 1450 CHF inkl. NK2.OGabsofort
 Teilen
 E-Mail
 Facebook
@@ -200,105 +347,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Hauptstrasse, 87
-1'610
-CHF
-/Monat
-Helle Dachwohnung sucht Nachmieter
-Hauptstrasse, 87, 5742 Kölliken
-Array
-3.5 Zimmer
-92 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-92 m2
-Helle schöne Dachwohnung mit eigener Waschmaschine Tumbler sucht Nachmieter per 1.08.2021 oder nach…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'700
-CHF
-/Monat
-WOHNTRAUM IM GRÜNEN
-Adresse auf Anfrage, 5742 Kölliken
-Array
-4.5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-160 m2
-Dieses Einfamilienhaus befindet sich an ruhiger und sonniger Lage im Grünen. Es eignet sich durch d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'760
-CHF
-/Monat
-Ab 1.08.2021 ist günstige und schöne 4,…
-Adresse auf Anfrage, 5742 Kölliken
-Array
-4 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-110 m2
-Etage
--3 helle Schlafzimmer sind mit Parkettboden-Grosse offene Küche mit Bar, Backofen, GK, GS, grosse K…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 24
-1'690
-CHF
-/Monat
-ZENTRAL | GÜNSTIG | MODERN
-Hauptstrasse 24, 5742 Kölliken
-Array
-4 Zimmer
-96 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-96 m2
-Etage
-DAS FINANZIELLE- Nettomietzins CHF 1'480.00- Nebenkosten CHF 210.00- Einstellplatz CHF 120.00- Abst…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchgasse 19
-1'370
-CHF
-/Monat
-RUHIG | GRÜN | SONNIG
-Kirchgasse 19, 5742 Kölliken
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-DAS FINANZIELLE- Nettomietzins CHF 1'150.00- Nebenkosten CHF 220.00- Garagenboxen à CHF 120.00DAS W…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Wolfgrubenstrasse 20 A / 20 B
 1'450
 CHF
@@ -315,46 +363,6 @@ Zimmer
 Wohnfläche
 91 m2
 Per 01.08.2021 oder nach Vereinbarung sucht diese grosse Wohnung einen neuen Mieter. Die Wohnung bi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eichweg 11
-1'450
-CHF
-/Monat
-lichtdurchflutet grosszügige Wohnung ab…
-Eichweg 11, 5742 Kölliken
-Array
-3.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-100 m2
-grosszügige 3 1/2-Zi-Wg. im 1. OG rechts; Preis inkl. NK und Aussenparkplatzgrosses Entrée, grosses…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Farbweg 1
-1'180
-CHF
-/Monat
-2.5-Zimmer-Wohnung zum Wohlfühlen
-Farbweg 1, 5742 Kölliken
-Array
-2.5 Zimmer
-57 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-57 m2
-Wir vermieten per sofort oder nach Vereinbarung eine helle 2.5-Zimmerwohnung am Farbweg 1 in Köllik…
 Teilen
 E-Mail
 Facebook

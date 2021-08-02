@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/in-schoetz/
 Title: Wohnung kaufen in Schötz - Immostreet.ch
-Description: Wohnung kaufen in  Schötz - Immostreet.ch: ImmoStreet.ch hat 4 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in  Schötz - Immostreet.ch: ImmoStreet.ch hat 3 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-4 Resultate gefunden ·
+3 Resultate gefunden ·
 Wohnung kaufen in Schötz
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,44 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Nebikerstrasse 22
+520'000
+CHF
+Spatenstich erfolgt - Wohn(T)raum - 3.5…
+Nebikerstrasse 22, 6247 Schötz
+Array
+3.5 Zimmer
+99 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+99 m2
+Gerne stellen wir Ihnen dieses exklusive Neubauprojekt mit 19 Wohnungen an optimaler Lage in Schötz…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Nebikerstrasse 22
+590'000
+CHF
+Spatenstich erfolgt - Wohn(T)raum - 4.5…
+Nebikerstrasse 22, 6247 Schötz
+Array
+4.5 Zimmer
+115 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+115 m2
+Gerne stellen wir Ihnen dieses exklusive Neubauprojekt mit 19 Wohnungen an optimaler Lage in Schötz…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Wissenhusen 5
 620'000
 CHF
@@ -150,64 +188,6 @@ Wohnfläche
 82 m2
 Etage
 Wissenhusen 5, SchötzWissenhusen befindet sich in der Nähe des Dorfzentrums Schötz. Einkaufen, Schu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wissenhusen 5
-795'000
-CHF
-Neue attraktive 4.5-Zimmer Wohnung
-Wissenhusen 5, 6247 Schötz
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Etage
-Wissenhusen 5, 6247 SchötzWissenhusen befindet sich in der Nähe des Dorfzentrums Schötz. Einkaufen,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Nebikerstrasse 22
-590'000
-CHF
-Wohn(T)raum - 4.5-Zimmer-Wohnung an bes…
-Nebikerstrasse 22, 6247 Schötz
-Array
-4.5 Zimmer
-115 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-115 m2
-Gerne stellen wir Ihnen dieses exklusive Neubauprojekt mit 19 Wohnungen an optimaler Lage in Schötz…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Nebikerstrasse 22
-520'000
-CHF
-Wohn(T)raum - 3.5-Zimmer-Wohnung an bes…
-Nebikerstrasse 22, 6247 Schötz
-Array
-3.5 Zimmer
-99 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-99 m2
-Gerne stellen wir Ihnen dieses exklusive Neubauprojekt mit 19 Wohnungen an optimaler Lage in Schötz…
 Teilen
 E-Mail
 Facebook

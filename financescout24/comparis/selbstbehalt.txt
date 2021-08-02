@@ -3,7 +3,6 @@ Title: Selbstbehalt
 Description: Der Selbstbehalt bezeichnet den Teil des Schadens, den der Versicherte selbst tragen muss.
 
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -20,7 +19,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr

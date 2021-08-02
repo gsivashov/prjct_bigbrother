@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/unterkategorie-wohnung/in-naters/
 Title: Wohnung mieten in Naters - Immostreet.ch
-Description: Wohnung mieten in  Naters - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Naters - Immostreet.ch: ImmoStreet.ch hat 2 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-7 Resultate gefunden ·
+2 Resultate gefunden ·
 Wohnung mieten in Naters
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,104 +152,6 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Bahnhofstrasse 4a
-1'410
-CHF
-/Monat
-Verwirklichen Sie sich Ihren Wohntraum!
-Bahnhofstrasse 4a, 3904 Naters
-Array
-3.5 Zimmer
-71 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-71 m2
-Per sofort oder nach Vereinbarung vermieten wir diese moderne 3.5-Zimmerwohnung, welche sich an zen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Furkastr. 136 A
-1'655
-CHF
-/Monat
-Moderne Wohnungen an attraktiver Wohnla…
-Furkastr. 136 A, 3904 Naters
-Array
-4.5 Zimmer
-109 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-109 m2
-Dieses helle und moderne Objekt besticht mit ihrem grosszügigen Grundriss, verpackt in einer spanne…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dammweg 13
-860
-CHF
-/Monat
-Studio ab sofort zu vermieten
-Dammweg 13, 3904 Naters
-Array
-1.5 Zimmer
-Objekttyp
-Wohnung, Studio
-Zimmer
-1.5
-Etage
-Studio/ 1.5 Zimmerwohnung Ruhige und zentrale Lage Sehr nahe am SBB-Bahnhof Brig Renoviert, neue K…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 4
-1'710
-CHF
-/Monat
-Verwirklichen Sie sich Ihren Wohntraum!
-Bahnhofstrasse 4, 3904 Naters
-Array
-5.5 Zimmer
-123 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-123 m2
-Per 1. September 2021 oder nach Vereinbarung vermieten wir diese moderne und familienfreundliche 5.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weingartenstrasse
-1'580
-CHF
-/Monat
-Möblierte Wohnung für Juli, Aug. und Se…
-Weingartenstrasse, 3904 Naters
-Array
-4 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-85 m2
-Möblierte 4 Zimmer Wohnung während Juli/August/September durchgehend zu vermieten. (Ab Oktober wied…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 2'350
 CHF
@@ -271,7 +173,7 @@ E-Mail
 Facebook
 Whatsapp
 Kehrstrasse 22
-2'150
+2'600
 CHF
 /Monat
 Grosszügige 5.5 Zimmer Wohnungen zu Ver…
@@ -286,7 +188,7 @@ Zimmer
 Wohnfläche
 150 m2
 Etage
-An der Kehrstrasse 22 in Naters vermieten wir ab sofort oder nach Vereinbarung 4 grosszügige Wohnun…
+An der Kehrstrasse 22 in Naters vermieten wir ab sofort oder nach Vereinbarung eine grosszügige Woh…
 Teilen
 E-Mail
 Facebook

@@ -48,6 +48,7 @@ Physische Edelmetalle
 Highlights
 Börsenspiel
 Börse: Marktübersicht
+Vorsorgefonds
 Unser Vorsorgebuch
 Nachhaltig –
 wie «grün» ist Ihr Fonds?
@@ -58,9 +59,8 @@ Jetzt ermitteln
 Hypothek
 Hypothek in der Übersicht
 Festhypothek
-Libor-Hypothek
-Variable Hypothek
 SARON-Hypothek
+Variable Hypothek
 Hypolimite
 Baukredit
 Eigenheim kaufen
@@ -83,6 +83,7 @@ Kredit in der Übersicht
 Konsumkredit
 Privatkredit
 Autokredit
+Autoleasing
 Weiterbildungskredit
 Limite
 Lombardkredit
@@ -240,8 +241,8 @@ Kosten
 Der Zinssatz ist fix. Die Zinsbelastung fällt nach Schweizer Usanz zweimal jährlich an: per
 30. Juni und per 31. Dezember.
 Downloads
-Produkt-Infoblatt (PDF, 367k)
-Produkt-Broschüre (PDF, 2463k)
+Produkt-Infoblatt (PDF, 381k)
+Produkt-Broschüre (PDF, 1746k)
 Hypothek beantragen (PDF, 118k)
 Preis-Broschüre (PDF, 2461k)
 Unsere Tipps für Sie
@@ -270,17 +271,17 @@ Standardzinssatz
 0,780%
 1,080%
 7 Jahre
+0,810%
+1,110%
+8 Jahre
 0,820%
 1,120%
-8 Jahre
-0,860%
-1,160%
 9 Jahre
-0,880%
-1,180%
+0,840%
+1,140%
 10 Jahre
-0,930%
-1,230%
+0,890%
+1,190%
 ¹ Eco-Start-Vergünstigung: Das Angebot gilt für selbst bewohntes Wohneigentum (Baujahr ab 2016), wenn Sie zum ersten Mal eine Hypothek abschliessen oder Ihre bestehende Hypothek zur Migros Bank wechseln. Sie profitieren von einer Vergünstigung von 0,30 Prozent pro Jahr für maximal die ersten fünf Jahre. Diese Vergünstigung ist in den erwähnten Zinssätzen bereits enthalten (bei Laufzeiten über 5 Jahre erhöhen sich dadurch die aufgeführten Zinssätze ab dem sechsten Jahr um 0,30 Prozent).
 Aktuelle Zinsen für Eigenheime (Baujahr vor 2016)
 Diese Zinssätze können Sie sich bis zu 12 Monate im Voraus kostenlos sichern.
@@ -303,17 +304,17 @@ Standardzinssatz
 0,930%
 1,080%
 7 Jahre
+0,960%
+1,110%
+8 Jahre
 0,970%
 1,120%
-8 Jahre
-1,010%
-1,160%
 9 Jahre
-1,030%
-1,180%
+0,990%
+1,140%
 10 Jahre
-1,080%
-1,230%
+1,040%
+1,190%
 Zusätzlich 0,150% Eco-Vergünstigung
 ¹ Start-Vergünstigung: Das Angebot gilt für selbst bewohntes Wohneigentum, wenn Sie zum ersten Mal eine Hypothek abschliessen oder Ihre bestehende Hypothek zur Migros Bank wechseln. Sie profitieren von einer Vergünstigung von 0,15 Prozent pro Jahr für maximal die ersten fünf Jahre. Diese Vergünstigung ist in den erwähnten Zinssätzen bereits enthalten (bei Laufzeiten über 5 Jahre erhöhen sich dadurch die aufgeführten Zinssätze ab dem sechsten Jahr um 0,15 Prozent).
 Aktuelle Zinsen für Wohnbauobjekte
@@ -331,13 +332,13 @@ Standardzinssatz
 6 Jahre
 1,080%
 7 Jahre
-1,120%
+1,110%
 8 Jahre
-1,160%
+1,120%
 9 Jahre
-1,180%
+1,140%
 10 Jahre
-1,230%
+1,190%
 Rechner
 Meine Wunschliegenschaft
 Kann ich mir meine Wunschliegenschaft über CHF {currentValue} leisten?

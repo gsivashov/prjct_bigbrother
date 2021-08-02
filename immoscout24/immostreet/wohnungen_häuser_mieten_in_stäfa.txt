@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-staefa/
 Title: Wohnungen & Häuser mieten in Stäfa - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Stäfa - Immostreet.ch: ImmoStreet.ch hat 52 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Stäfa - Immostreet.ch: ImmoStreet.ch hat 54 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-52 Resultate gefunden ·
+54 Resultate gefunden ·
 Wohnungen & Häuser mieten in Stäfa
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,52 +122,229 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Pilatusstrasse 13
-4'910
+gerenrasse. 4
+900
 CHF
 /Monat
-Exklusive Wohnung mit traumhafter Seesi…
-Pilatusstrasse 13, 8712 Stäfa
+Zimmer in
+gerenrasse. 4, 8712 Stäfa
 Array
-4.5 Zimmer
-170 m2
+35 m2
 Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
+Wohnung, Einzelzimmer
 Wohnfläche
-170 m2
-An ruhiger und erhöhter Lage vermieten wir diese exklusive und luxuriös ausgebaute Attikawohnung mi…
+35 m2
+Wg-Zimmer zu vergeben. Per sofort oder nach Vereinbarung Suche ich eine Mitbewohnerin/Mitbewohner i…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bahnhofwiese 20
-1'560
+Adresse auf Anfrage
+1'425
 CHF
 /Monat
-Zentrale 4-Zimmer-Wohnung zur Vermietung
-Bahnhofwiese 20, 8712 Stäfa
+Altbauwohnung per sofort zu vermieten i…
+Adresse auf Anfrage, 8712 Stäfa
+Array
+3 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+65 m2
+Einfache Altbauwohnung ohne grossen Luxus per sofort zu vermieten.2 Zimmer plus grosse Wohnküche!Ja…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Spittelstrasse 23
+2'800
+CHF
+/Monat
+Wohnen im Spittel
+Spittelstrasse 23, 8712 Stäfa
 Array
 4 Zimmer
-79 m2
+92 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4
 Wohnfläche
-79 m2
-Ab 1. August 2021 vermieten wir an zentraler Lage diese sonnige 4-Zimmer-Wohnung.Übersicht Wohnung:…
+92 m2
+Etage
+Homepage www.im-spittel.chDie Wohnungen verfügen alle über einen hochwertigen modernen Ausbau mit f…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seestrasse 39
+Adresse auf Anfrage
+1'425
+CHF
+/Monat
+Altbauwohnung im schönen Stäfa
+Adresse auf Anfrage, 8712 Stäfa
+Array
+3 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+65 m2
+Einfache Altbauwohnung ohne grossen Luxus per sofort zu vermieten.2 Zimmer plus grosse Wohnküche!Ja…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse 95
+3'600
+CHF
+/Monat
+Moderne grosszügige 5.5 Zimmer- Wohnung…
+Seestrasse 95, 8712 Stäfa
+Array
+5.5 Zimmer
+135 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+135 m2
+Per 1. Oktober 2021 vermieten wir diese wunderschöne Wohnung mit Seesicht, welche folgende Annehmli…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse, 27
+1'539
+CHF
+/Monat
+3 Zimmerwohnung: Katzensprung vom Züric…
+Seestrasse, 27, 8712 Stäfa
+Array
+3 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+65 m2
+Etage
+Wir suchen per 1. Oktober 2021 eine/n Nachmieter/in für eine 3 Zimmer-Wohnung im Hafenquartier von …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 5
+950
+CHF
+/Monat
+Nachmieter gesucht für optimal gelegene…
+Bahnhofstrasse 5, 8712 Stäfa
+Array
+1.5 Zimmer
+28 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+28 m2
+Ich suche nach Vereinbarung eine Nachmieterschaft für diese tolle Dachwohnung. Sie ist sehr zentral…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Felsenburgstrasse 24
+2'400
+CHF
+/Monat
+3,5 ZWG, Felsenburgstr. 24, Stäfa
+Felsenburgstrasse 24, 8712 Stäfa
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Modernes Wohnen an ruhiger idyllischer Lage mit Blick in die Berge und auf den SeePer 1. Oktober 20…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grundstrasse 72B
+2'100
+CHF
+/Monat
+Sanierte 3.5-Zimmerwohnung mit Teil-See…
+Grundstrasse 72B, 8712 Stäfa
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+Etage
+Diese neu renovierte 3.5-Zimmer-Wohnung an sonniger und beliebter Lage bietet:teilweise See…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse 86
+4'895
+CHF
+/Monat
+Exklusive Wohnung mit grosszügiger Park…
+Seestrasse 86, 8712 Stäfa
+Array
+4.5 Zimmer
+142 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+142 m2
+Diese exklusive Liegenschaft Zürichsee-Gut wurde im 2019 gebaut und lässt keine Wünsche offen. Die …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tränkebachstrasse 33
+953
+CHF
+/Monat
+Hübsche 2-Zimmerwohnung
+Tränkebachstrasse 33, 8712 Stäfa
+Array
+2 Zimmer
+48 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+48 m2
+Helle, freundliche 2-Zimmerwohnung. Küche und Bad 2011 total saniert. Wohnzimmer/Korridor Eichenhol…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
 2'900
 CHF
 /Monat
 KLEIN ABER FEIN MIT WUNDERSCHÖNEM AUSBL…
-Seestrasse 39, 8712 Stäfa
+Adresse auf Anfrage, 8712 Stäfa
 Array
 2.5 Zimmer
 55 m2
@@ -182,63 +359,86 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Allenbergstrasse 25
-1'580
-CHF
-/Monat
-Geniessen Sie Ihre grosszügige Wohnung …
-Allenbergstrasse 25, 8712 Stäfa
-Array
-3 Zimmer
-76 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-76 m2
-Wir vermieten per 01.07.2021 in ruhiger, grüner Umgebung eine helle 3.0-Zimmerwohnung im 2. Stockwe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sunnenhalden 3
-5'600
-CHF
-/Monat
-Wohnhaus mit separatem Homeoffice
-Sunnenhalden 3, 8712 Stäfa
-Array
-7 Zimmer
-280 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-7
-Wohnfläche
-280 m2
-Etage
-Wohnhaus mit separatem Homeoffice.Sonnige Südhanglage mit grosszügiger Seesicht oberhalb vom Dorfze…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kreuzstrasse 52
-2'350
-CHF
-/Monat
-3.5-Zimmer Gartenwohnung
-Kreuzstrasse 52, 8712 Stäfa
+Seestrasse 57
+Preis auf Anfrage
+WOHNEN FÜR SINGLES MIT SEESICHT IN STÄFA
+Seestrasse 57, 8712 Stäfa
 Array
 3.5 Zimmer
-89 m2
+70 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-89 m2
-Wir vermieten eine schöne helle 3.5-Zimmer Wohnung in der Wohnüberbauung Stäfner-Stein. Die…
+70 m2
+Diese helle 3.5-Zimmer-Wohnung überzeugt durch die hellen Räumlichkeiten und die einmalige Aussicht…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bergstrasse 63f
+2'961
+CHF
+/Monat
+5.5-Zimmer-Attika-Wohnung in Stäfa
+Bergstrasse 63f, 8712 Stäfa
+Array
+5.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+125 m2
+Zur Lage:
+Die 5.5-Zimmerwohnung ist wenige Minuten vom Zentrum in Stäfa entfernt. Keine 100 Meter …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rohrhaldenstrasse 35
+1'994
+CHF
+/Monat
+Zu Hause ankommen - zu Hause sein
+Rohrhaldenstrasse 35, 8712 Stäfa
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wir vermieten per sofort oder nach Vereinbarung eine grosszügige, helle und ruhig gelegene 3.5-Zimm…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Ibach 1-11 (EH)
+120
+CHF
+/Monat
+Einstellplatz zu vermieten
+Im Ibach 1-11 (EH), 8712 Stäfa
+Array
+Objekttyp
+Tiefgarage
+Per sofort oder nach Vereinbarung vermieten wir in einer überdachten Einstellhalle diverse Einstell…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse 88
+250
+CHF
+Neue Büros mit direktem Seeanstoss!
+Seestrasse 88, 8712 Stäfa
+Array
+Objekttyp
+Büro
+Etage
+Hier werden Sie gesehen!Highlights:Wenige Schritte vom Zentrum/S-Bahn entfernt25 M…
 Teilen
 E-Mail
 Facebook
@@ -263,258 +463,33 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Spittelstrasse 23
-2'600
+Chälhofstr. 9
+80
 CHF
 /Monat
-Wohnen im Spittel
-Spittelstrasse 23, 8712 Stäfa
+Abstellplatz zu vermieten
+Chälhofstr. 9, 8712 Stäfa
 Array
-4 Zimmer
-92 m2
 Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-92 m2
-Etage
-Homepage www.im-spittel.chDie Wohnungen verfügen alle über einen hochwertigen modernen Ausbau mit f…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Tränkebachstrasse 32
-1'350
-CHF
-/Monat
-Charmante 2½-Zimmer-Wohnung mit Balkon
-Tränkebachstrasse 32, 8712 Stäfa
-Array
-2.5 Zimmer
-55 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-55 m2
-Die Wohnung befindet sich in der beliebten Gemeinde Stäfa an idealer Lage, öffentliche Verkehrsmitt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bergstrasse 80
-1'550
-CHF
-/Monat
-Wohnen in separatem Hausteil
-Bergstrasse 80, 8712 Stäfa
-Array
-3 Zimmer
-55 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-55 m2
-Etage
-Kleiner und schmucker Hausteil mit viel Privatsphäre.Das Objekt ist auf drei Stockwerke verteilt un…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofwiese 12
-1'675
-CHF
-/Monat
-Charmante Wohnung im Zentrum von Stäfa
-Bahnhofwiese 12, 8712 Stäfa
-Array
-3 Zimmer
-61 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-61 m2
-Per 01.09.2021 ermieten wir diese hübsche 3-Zimmer-Wohnung im Zentrum von Stäfa. Die Wohnung ist ne…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Allenbergstrasse 75A
-2'920
-CHF
-/Monat
-Traumhafte Gartenwohnung mit See- und W…
-Allenbergstrasse 75A, 8712 Stäfa
-Array
-3.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-110 m2
-Etage
-Suchen Sie eine schöne und helle Gartenwohnung mit Weitsicht und Blick ins Grüne?Dann ist die tolle…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Ibach 3
-1'810
-CHF
-/Monat
-Leben Sie Ihren Wohntraum
-Im Ibach 3, 8712 Stäfa
-Array
-4 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-80 m2
-Per 01.09.2021 vermieten wir diese 4.0-Zimmerwohnung, welche sich an verkehrsberuhigter Lage befind…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfstrasse 27
-1'395
-CHF
-/Monat
-2 1/2 Zimmer-Maisonette Wohnung
-Dorfstrasse 27, 8712 Stäfa
-Array
-2.5 Zimmer
-72 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-72 m2
-Etage
-In einem separatem Häuschen befindet sich diese Maisonette Wohnung auf zwei Stockwerken.
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rhynerstrasse 6
-1'900
-CHF
-/Monat
-Frisch renovierte 2.5 Zimmer-Wohnung in…
-Rhynerstrasse 6, 8712 Stäfa
-Array
-2.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-75 m2
-Etage
-Per sofort oder nach Vereinbarung vermieten wir diese frisch renovierte, grosszügige 2.5 Zimmer-Woh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Laubisrütistrasse 74
-640
-CHF
-/Monat
-Büro an bevorzugter Lage zu vermieten
-Laubisrütistrasse 74, 8712 Stäfa
-Array
-2 Zimmer
-Objekttyp
-Büro
-Zimmer
-2
-Büro in StäfaWir vermieten per sofort oder nach Vereinbarung an bevorzugter Lage in Stäfa ein Büro …
+Offener Parkplatz
+Wir vermieten ab 01.09.2021 einen Autoabstellplatz an der Chälhofstr. 9 in 8712 Stäfa- Abstellplatz…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-2'500
+950
 CHF
 /Monat
-4½ ZI-WOHNUNG IN STÄFA (ZH), MÖBLIERT, …
+Zimmer zur Untermiete
 Adresse auf Anfrage, 8712 Stäfa
 Array
-4.5 Zimmer
-92 m2
+14 m2
 Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-4.5
+Wohnung, Einzelzimmer
 Wohnfläche
-92 m2
-MIETDAUER ab 10. November 2021 bis 8. Mai 2022 (mind. 4 Monate)AllgemeinGeräumige 4.5-Zimmerwohnung…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'280
-CHF
-/Monat
-STUDIO IN NÄHE VON SEE UND BAHNHOF
-Adresse auf Anfrage, 8712 Stäfa
-Array
-1.5 Zimmer
-58 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-58 m2
-Diese gemütliche 1.5 Zimmer Wohnung liegt in einer denkmalgeschützten Liegenschaft. Der See, Bahnho…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seestrasse 169
-1'990
-CHF
-/Monat
-Charmante Dachgeschoss-Wohnung in Stäfa…
-Seestrasse 169, 8712 Stäfa
-Array
-2.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-90 m2
-Per 1. August 2021 vermieten wir eine 2.5 Zimmer-Dachwohnung (3. OG): Parkettboden in Wohn-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rinistrasse 9
-145
-CHF
-/Monat
-PARKPLATZ IN TIEFGARAGE MITTEN IN STÄFA…
-Rinistrasse 9, 8712 Stäfa
-Array
-Objekttyp
-Tiefgarage
-Mitten in Stäfa vermieten wir zwei Autoabstellplätze in einer sicheren und neu erstellten Tiefgarag…
+14 m2
+Schönes , helles , möbliertes Zimmer in 3,5 Zimmerwohnung in zentraler Lage , 5 Gehminuten zum Bahn…
 Teilen
 E-Mail
 Facebook

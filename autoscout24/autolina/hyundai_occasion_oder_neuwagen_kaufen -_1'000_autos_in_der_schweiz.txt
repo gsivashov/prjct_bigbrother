@@ -81,7 +81,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -99,7 +99,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -152,70 +152,69 @@ TI
 WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
-NEU
 HYUNDAI
-iX20 1.6 Comfort AT
-CHF 18'700
-ab CHF 221/Monat
-01.2021
-Automat
-10 km
-Benzin
+i20 1.4 CRDi Style
+CHF 5'500
+ab CHF 62/Monat
+06.2012
+Handschaltung
+93'500 km
+Diesel
 Vorderradantrieb
-weiss
-125 PS
-ZH
+schwarz
+90 PS
+VD
 Merken
 HYUNDAI
-iX20 1.6 Comfort AT
-01.2021
-125 PS
-10 km
-CHF 18'700
+i20 1.4 CRDi Style
+06.2012
+90 PS
+93'500 km
+CHF 5'500
 Merken
-ab CHF 221/Monat
+ab CHF 62/Monat
 HYUNDAI
-Ioniq Vertex
-CHF 22'900
-ab CHF 270/Monat
-08.2018
--
-5'200 km
+i40 Wagon 1.7 CRDi 136 Premium
+CHF 9'200
+ab CHF 104/Monat
+02.2013
+Handschaltung
+162'300 km
+Diesel
+Vorderradantrieb
+schwarz
+136 PS
+TG
+Merken
+HYUNDAI
+i40 Wagon 1.7 CRDi 136 Premium
+02.2013
+136 PS
+162'300 km
+CHF 9'200
+Merken
+ab CHF 104/Monat
+HYUNDAI
+Ioniq Electric Launch Plus
+CHF 19'000
+ab CHF 205/Monat
+12.2016
+Automat
+74'000 km
 Elektro
 Vorderradantrieb
 weiss
 120 PS
-ZH
+VS
 Merken
 HYUNDAI
-Ioniq Vertex
-08.2018
+Ioniq Electric Launch Plus
+12.2016
 120 PS
-5'200 km
-CHF 22'900
+74'000 km
+CHF 19'000
 Merken
-ab CHF 270/Monat
-HYUNDAI
-Genesis Coupé 3.8 V6
-CHF 14'900
-ab CHF 161/Monat
-06.2011
-Handschaltung
-63'500 km
-Benzin
-Hinterradantrieb
-schwarz
-303 PS
-BE
-Merken
-HYUNDAI
-Genesis Coupé 3.8 V6
-06.2011
-303 PS
-63'500 km
-CHF 14'900
-Merken
-ab CHF 161/Monat
+ab CHF 205/Monat
 HYUNDAI
 i30 Wagon 1.6 CRDi Amplia
 CHF 12'800
@@ -237,252 +236,253 @@ i30 Wagon 1.6 CRDi Amplia
 CHF 12'800
 Merken
 ab CHF 138/Monat
-HYUNDAI
-ix35 2.0 CRDi 184 Style 4WD
-CHF 8'500
-ab CHF 96/Monat
-08.2010
-Automat
-145'000 km
-Diesel
-Allradantrieb
-weiss
-184 PS
-GE
-Merken
-HYUNDAI
-ix35 2.0 CRDi 184 Style 4WD
-08.2010
-184 PS
-145'000 km
-CHF 8'500
-Merken
-ab CHF 96/Monat
-HYUNDAI
-H-1 Cargo 2.5 CRDi Camping
-CHF 12'000
-ab CHF 129/Monat
-07.2009
-Handschaltung
-113'000 km
-Diesel
-Hinterradantrieb
-weiss
-170 PS
-VS
-Merken
-HYUNDAI
-H-1 Cargo 2.5 CRDi Camping
-07.2009
-170 PS
-113'000 km
-CHF 12'000
-Merken
-ab CHF 129/Monat
-HYUNDAI
-Galloper 3.0 V6 Sport
-CHF 6'500
-ab CHF 74/Monat
-03.2000
-Handschaltung
-83'000 km
-Benzin
-Allradantrieb
-grün
-141 PS
-VS
-Merken
-HYUNDAI
-Galloper 3.0 V6 Sport
-03.2000
-141 PS
-83'000 km
-CHF 6'500
-Merken
-ab CHF 74/Monat
-HYUNDAI
-Gr.SantaFe 2.2 CRDI 4WD Automatic
-CHF 26'990
-ab CHF 290/Monat
-06.2016
-Automat
-64'490 km
-Diesel
-Allradantrieb
-grau
-200 PS
-ZH
-Merken
-HYUNDAI
-Gr.SantaFe 2.2 CRDI 4WD Automatic
-06.2016
-200 PS
-64'490 km
-CHF 26'990
-Merken
-ab CHF 290/Monat
 NEU
 HYUNDAI
 i20 1.0 T-GDi Amplia
-CHF 10'900
-ab CHF 123/Monat
-08.2016
+CHF 19'400
+ab CHF 209/Monat
+10.2020
 Handschaltung
-76'500 km
+8'000 km
 Benzin
 Vorderradantrieb
-weiss
+schwarz
 100 PS
-BE
+SO
 Merken
 HYUNDAI
 i20 1.0 T-GDi Amplia
-08.2016
+10.2020
 100 PS
-76'500 km
-CHF 10'900
+8'000 km
+CHF 19'400
 Merken
-ab CHF 123/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
+ab CHF 209/Monat
 NEU
 HYUNDAI
-i20 1.0 T-GDi Amplia
-CHF 10'900
-ab CHF 123/Monat
-07.2016
-Handschaltung
-83'600 km
-Benzin
-Vorderradantrieb
-weiss
-100 PS
-BE
-Merken
-HYUNDAI
-i20 1.0 T-GDi Amplia
-07.2016
-100 PS
-83'600 km
-CHF 10'900
-Merken
-ab CHF 123/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-HYUNDAI
-i30 1.6 GDI Style
-CHF 8'990
-ab CHF 102/Monat
-01.2014
-Handschaltung
-61'500 km
-Benzin
-Vorderradantrieb
-silber
-135 PS
-AG
-Merken
-HYUNDAI
-i30 1.6 GDI Style
-01.2014
-135 PS
-61'500 km
-CHF 8'990
-Merken
-ab CHF 102/Monat
-NEU
-HYUNDAI
-KONA Electric Vertex
-CHF 44'500
-ab CHF 478/Monat
-01.2021
+Kona Electric Amplia
+CHF 29'900
+ab CHF 322/Monat
+02.2019
 Automat
-21 km
+54'400 km
 Elektro
 Vorderradantrieb
 grau
 204 PS
-ZH
+SO
 Merken
 HYUNDAI
-KONA Electric Vertex
-01.2021
+Kona Electric Amplia
+02.2019
 204 PS
-21 km
-CHF 44'500
+54'400 km
+CHF 29'900
 Merken
-ab CHF 478/Monat
-NEU
+ab CHF 322/Monat
 HYUNDAI
-i30 N 2.0 T-GDi
-CHF 46'400
-ab CHF 499/Monat
-01.2021
+Tucson 1.6 T-GDi PHEV Vertex 4WD
+CHF 49'300
+ab CHF 530/Monat
+-
 Automat
-10 km
+1'500 km
+Plug-in-Hybrid Benzin/Elektro
+Allradantrieb
+weiss
+180 PS
+LU
+Merken
+HYUNDAI
+Tucson 1.6 T-GDi PHEV Vertex 4WD
+-
+180 PS
+1'500 km
+CHF 49'300
+Merken
+ab CHF 530/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+HYUNDAI
+ix35 1.6 GDi
+2WD
+CHF 11'980
+ab CHF 135/Monat
+01.2014
+Handschaltung
+75'500 km
 Benzin
 Vorderradantrieb
-weiss
-280 PS
+schwarz
+135 PS
+BE
+Merken
+HYUNDAI
+ix35 1.6 GDi
+2WD
+01.2014
+135 PS
+75'500 km
+CHF 11'980
+Merken
+ab CHF 135/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+HYUNDAI
+ix35 2.0 CRDi 184 exxtra Plus 4WD
+CHF 14'900
+ab CHF 161/Monat
+10.2014
+Automat
+38'300 km
+Diesel
+Allradantrieb
+grau
+184 PS
 ZH
 Merken
 HYUNDAI
-i30 N 2.0 T-GDi
-01.2021
-280 PS
-10 km
-CHF 46'400
+ix35 2.0 CRDi 184 exxtra Plus 4WD
+10.2014
+184 PS
+38'300 km
+CHF 14'900
 Merken
-ab CHF 499/Monat
-NEU
+ab CHF 161/Monat
 HYUNDAI
-i30 N 2.0 T-GDi
-CHF 46'900
-ab CHF 504/Monat
-01.2021
+iX 35 2.0 CRDi Style 4WD
+CHF 12'900
+ab CHF 139/Monat
+04.2012
 Automat
-0 km
-Benzin
+85'510 km
+Diesel
+Allradantrieb
+silber
+184 PS
+SG
+Merken
+HYUNDAI
+iX 35 2.0 CRDi Style 4WD
+04.2012
+184 PS
+85'510 km
+CHF 12'900
+Merken
+ab CHF 139/Monat
+HYUNDAI
+i30 1.6 CRDi Amplia
+CHF 12'900
+ab CHF 139/Monat
+02.2017
+Automat
+82'000 km
+Diesel
 Vorderradantrieb
 grau
-280 PS
-ZH
+136 PS
+VD
 Merken
 HYUNDAI
-i30 N 2.0 T-GDi
-01.2021
-280 PS
-0 km
-CHF 46'900
+i30 1.6 CRDi Amplia
+02.2017
+136 PS
+82'000 km
+CHF 12'900
 Merken
-ab CHF 504/Monat
-NEU
+ab CHF 139/Monat
 HYUNDAI
-i30 Wagon 1.5 T-GDi Style 48V MH DCT
-CHF 24'550
-ab CHF 289/Monat
-01.2021
-Automat
-5 km
-Mild-Hybrid Benzin/Elektro
+i10 1.0 Origo
+CHF 14'900
+ab CHF 161/Monat
+07.2021
+Handschaltung
+1'500 km
+Benzin
 Vorderradantrieb
 weiss
-160 PS
+67 PS
+LU
+Merken
+HYUNDAI
+i10 1.0 Origo
+07.2021
+67 PS
+1'500 km
+CHF 14'900
+Merken
+ab CHF 161/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+HYUNDAI
+i20
+CHF 19'850
+ab CHF 234/Monat
+-
+Automat
+5 km
+Benzin
+Vorderradantrieb
+silber
+100 PS
 ZH
 Merken
 HYUNDAI
-i30 Wagon 1.5 T-GDi Style 48V MH ...
-01.2021
-160 PS
+i20
+-
+100 PS
 5 km
-CHF 24'550
+CHF 19'850
 Merken
-ab CHF 289/Monat
+ab CHF 234/Monat
+HYUNDAI
+i20
+CHF 19'850
+ab CHF 234/Monat
+-
+Automat
+5 km
+Benzin
+Vorderradantrieb
+blau
+100 PS
+ZH
+Merken
+HYUNDAI
+i20
+-
+100 PS
+5 km
+CHF 19'850
+Merken
+ab CHF 234/Monat
+HYUNDAI
+i20
+CHF 19'850
+ab CHF 234/Monat
+-
+Automat
+5 km
+Benzin
+Vorderradantrieb
+silber
+100 PS
+ZH
+Merken
+HYUNDAI
+i20
+-
+100 PS
+5 km
+CHF 19'850
+Merken
+ab CHF 234/Monat
 1
 1
 2
@@ -502,7 +502,6 @@ HYUNDAI COUPé
 HYUNDAI Genesis
 HYUNDAI GETZ
 HYUNDAI GRAND SANTA FE
-HYUNDAI H-1
 HYUNDAI I10
 HYUNDAI I20
 HYUNDAI I30
@@ -520,7 +519,6 @@ Coupé
 SUV / Geländewagen
 Kombi
 Limousine
-Pick-Up
 Van
 Transporter
 HYUNDAI Nach Kanton Suchen

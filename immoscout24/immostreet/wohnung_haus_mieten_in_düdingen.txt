@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-duedingen/
 Title: Wohnung & Haus mieten in Düdingen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Düdingen - Immostreet.ch: ImmoStreet.ch hat 30 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Düdingen - Immostreet.ch: ImmoStreet.ch hat 35 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-30 Resultate gefunden ·
+35 Resultate gefunden ·
 Wohnung & Haus mieten in Düdingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -153,10 +153,31 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Hägliweg 7
+2'570
+CHF
+/Monat
+Traumwohnung gesucht? Wohngemeinschaft …
+Hägliweg 7, 3186 Düdingen
+Array
+4.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+112 m2
+Etage
+Sie suchen schon lange nach einer schönen Wohnung mit spekakulärer Weitsicht? Ein Objekt an zentral…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hägliweg 7
 1'390
 CHF
 /Monat
-Toller Ausblick, tolle Wohnung - wir sc…
+Neue Wohnung - Neue Einrichtung - hier …
 Hägliweg 7, 3186 Düdingen
 Array
 3.5 Zimmer
@@ -168,24 +189,302 @@ Zimmer
 Wohnfläche
 60 m2
 Etage
-Suchen Sie eine Wohnung an zentraler Lage? Dann haben wir das passende Objekt für Sie. Die Wohnung …
+Sie suchen schon lange nach einer neuen Wohnung an sehr zentraler Lage? Dann haben wir das passende…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bahnhoftstr. 17/19
-1'650
+Alfons-Aeby-Strasse 39
+1'720
 CHF
 /Monat
-Wunderschöne neue helle 4,5 Zimmer-Wohn…
-Bahnhoftstr. 17/19, 3186 Düdingen
+Familienfreundliches Wohnen in Düdingen
+Alfons-Aeby-Strasse 39, 3186 Düdingen
 Array
 4.5 Zimmer
+98 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Neue wunderschöne helle geräumige 4.5 Zimmer-Wohnung, zentrale, ruhige Lage, 3 Min. zu Fuss vom Bah…
+Wohnfläche
+98 m2
+In einem gepflegtem Mehrfamilienhaus erwartet Sie diese moderne Wohnung, welche ideal für Familien …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Haslerastr. 13
+1'680
+CHF
+/Monat
+Ihr neues Zuhause?
+Haslerastr. 13, 3186 Düdingen
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Wir vermieten eine tolle Wohnung in Düdingen, welche über folgende Eigenschaften verfügt: - Helle R…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Halta 42
+1'950
+CHF
+/Monat
+Grosszügige 4.5-Zi.-Wohnung in neuem Qu…
+Halta 42, 3186 Düdingen
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+110 m2
+Wir vermieten per sofort oder nach Vereinbarung neu gebaute 4.5-Zimmer-Wohnung im Düdingenplus-Quar…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'365
+CHF
+/Monat
+Zu vermieten 3.5 Zimmer Wohnung
+Adresse auf Anfrage, 3186 Düdingen
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Per 1.September 2021Wunderbare sehr gepflegte 3.5 Zimmer Wohnung. Zentrale Lage, schöner Balkon, Ba…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Halta 48
+1'380
+CHF
+/Monat
+Sehr schöne 2.5 Zimmer Wohnung (58.4m2)…
+Halta 48, 3186 Düdingen
+Array
+2.5 Zimmer
+58 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+58 m2
+Wir suchen einen Nachmieter per sofort oder nach Vereinbarung für diese grosszügige und schöne 2.5 …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alfons-Aeby-Strasse 39
+1'320
+CHF
+/Monat
+Allein oder zu zweit: Hier könnte es Ih…
+Alfons-Aeby-Strasse 39, 3186 Düdingen
+Array
+2.5 Zimmer
+62 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+62 m2
+Sie werden es möglicherweise bereuen, wenn Sie zu spät kommen. Denn diese Wohnung befindet sich an …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kirchstrasse 6
+1'780
+CHF
+/Monat
+Schöne 3½ Zimmer-Dachwohnung an zentral…
+Kirchstrasse 6, 3186 Düdingen
+Array
+3.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+86 m2
+Etage
+in einem neu renovierten Bauernhaus ist diese Wohnung ausgestattet:Einbauschränke in Garder…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obermattweg 31
+1'630
+CHF
+/Monat
+Es Bijou in Düdingen steht zur Verfügun…
+Obermattweg 31, 3186 Düdingen
+Array
+4.5 Zimmer
+91 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+91 m2
+Im gepflegtem und ruhigem Wohnquartier vermieten wir eine attraktive Wohnung mit folgenden Vorteile…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brugerastrasse 46
+1'600
+CHF
+/Monat
+Ihr Wohntraum!
+Brugerastrasse 46, 3186 Düdingen
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+Suchen Sie eine helle und ruhig gelegene Wohnung? Dann haben wir das Passende für Sie, wir vermiete…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Chännelmattstrasse 51
+1'760
+CHF
+/Monat
+Nachmieter für 3.5-Zimmer Wohnung gesuc…
+Chännelmattstrasse 51, 3186 Düdingen
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Wir suchen ab 1.Dezember oder nach Vereinbarung einen Nachmieter für unsere 3.5-Zimmer Wohnung in D…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brugerastrasse 46
+1'600
+CHF
+/Monat
+*Sommeraktion* Den ersten Nettomietzins…
+Brugerastrasse 46, 3186 Düdingen
+Array
+3.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+86 m2
+Schlagen Sie zu bei unserer SOMMERAKTION! Der erste Nettomietzins ist gratis!Suchen Sie eine helle …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Riedlistrasse, 44
+1'410
+CHF
+/Monat
+Nachmieter für 4.5-Zimmer-Dachwohnung
+Riedlistrasse, 44, 3186 Düdingen
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Diese "Traumwohnung" wartet auf Sie. Die Wohnung ist an einer ruhige Lage, sonnig mit grossem Umsch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Haslerastrasse 21
+1'400
+CHF
+/Monat
+3.5 Zimmerwohnung
+Haslerastrasse 21, 3186 Düdingen
+Array
+3.5 Zimmer
+82 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+82 m2
+3.Stock mit Lift, an ruhiger LageAb August freisiehe Foto
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Haslerastr. 15
+1'650
+CHF
+/Monat
+Familienwohnung
+Haslerastr. 15, 3186 Düdingen
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Diese Wohnung in schöner Grünanlage hat folgende Eigenschaften:- Parkettboden- Küche mit Geschirrsp…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+amselweg 2
+1'690
+CHF
+/Monat
+Nachmieter gesucht für 4,5zimmer wohnung
+amselweg 2, 3186 Düdingen
+Array
+4.5 Zimmer
+98 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+98 m2
+Nachmieter gesucht für 4,5zimmer wohnung per 1.augustDie wohnung hat eine neue küche 3 schlafzimmer…
 Teilen
 E-Mail
 Facebook
@@ -210,26 +509,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Alfons-Aeby-Strasse 39
-1'771
-CHF
-/Monat
-Familienfreundliches Wohnen in Düdingen
-Alfons-Aeby-Strasse 39, 3186 Düdingen
-Array
-4.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-98 m2
-In einem gepflegtem Mehrfamilienhaus erwartet Sie diese moderne Wohnung, welche ideal für Familien …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Weiermattweg 3
 1'620
 CHF
@@ -250,32 +529,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Hägliweg 7
-2'570
-CHF
-/Monat
-Mit dem Lift direkt in Ihren Wohntraum …
-Hägliweg 7, 3186 Düdingen
-Array
-4.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-112 m2
-Etage
-Suchen Sie eine Attikawohnung mit spektakulärer Weitsicht und speziellem Grundriss? Dann haben wir …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Halta 54
 2'050
 CHF
 /Monat
-schöne Wohnung mit perfekte Verkehrsanb…
+Grosszügige moderne Wohnung nächst Bahn…
 Halta 54, 3186 Düdingen
 Array
 4.5 Zimmer
@@ -287,258 +545,6 @@ Zimmer
 Wohnfläche
 126 m2
 Wir vermieten per sofort oder nach Vereinbarung neu gebaute 4.5-Zimmer-Wohnungen im Düdingenplus-Qu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Halta 56
-2'100
-CHF
-/Monat
-Wohnen im DüdingenPlus-Quartier
-Halta 56, 3186 Düdingen
-Array
-3.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-100 m2
-Wir vermieten per sofort oder nach Vereinbarung neu gebaute 3.5-Zimmer-Wohnungen im Düdingenplus-Qu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Halta 52
-1'800
-CHF
-/Monat
-Zu vermieten 3.5-Zimmerwohnung mit perf…
-Halta 52, 3186 Düdingen
-Array
-3.5 Zimmer
-89 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-89 m2
-Wir vermieten per sofort oder nach Vereinbarung neu gebaute 3.5-Zimmer-Wohnungen im Düdingenplus-Qu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Halta 40
-2'030
-CHF
-/Monat
-Grosszügige 4.5-Zimmerwohnungen geeigne…
-Halta 40, 3186 Düdingen
-Array
-4.5 Zimmer
-114 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-114 m2
-Wir vermieten per sofort oder nach Vereinbarung neu gebaute 4.5-Zimmer-Wohnungen im Düdingenplus-Qu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Halta 48
-1'940
-CHF
-/Monat
-Dein neues Zuhause, indem du dich wohl …
-Halta 48, 3186 Düdingen
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Wir vermieten per sofort oder nach Vereinbarung neu gebaute 3.5-Zimmer-Wohnungen im Düdingenplus-Qu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obermattweg 31
-1'670
-CHF
-/Monat
-Wohnen im Grünen - Mieten ohne Kaution!
-Obermattweg 31, 3186 Düdingen
-Array
-4.5 Zimmer
-102 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-102 m2
-Wir vermieten eine gemütliche Wohnung in Düdingen welche folgende Eigenschaft mit sich bringt:*Die …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alfons-Aeby-Strasse 39
-900
-CHF
-/Monat
-Ruhige Wohnlage im Grünen
-Alfons-Aeby-Strasse 39, 3186 Düdingen
-Array
-1.5 Zimmer
-40 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-40 m2
-In diesem gepflegten Mehrfamilienhaus erwartet Sie eine moderne Wohnung mit sonnigen Aussichten. Öf…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gantrischweg 10
-2'025
-CHF
-/Monat
-Nachmieter gesucht - 3.5 Zimmerwohnung …
-Gantrischweg 10, 3186 Düdingen
-Array
-3.5 Zimmer
-109 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-109 m2
-Nachmieter gesucht per 1. Juni 2021Helle, grosszügige, geräumige 3.5 Zimmerwohnung im EG. 109.2m2Au…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchstrasse 7
-1'500
-CHF
-/Monat
-Grosse Wohnung an der Kirchstrasse 7 in…
-Kirchstrasse 7, 3186 Düdingen
-Array
-5.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Etage
-BeschreibungDie Wohnung befindet sich auf 2 Etagen eines Einfamilienhauses. Sie bietet Ihnen 4 Zimm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gantrischweg 10
-2'025
-CHF
-/Monat
-3.5 pièces Nr. 10.03 au rez-de-chaussée
-Gantrischweg 10, 3186 Düdingen
-Array
-3.5 Zimmer
-109 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-109 m2
-Cet appartement de 3½, spacieux et lumineux, se trouve dans un quartier résidentiel ensoleillé, ent…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Peterstrasse 31
-1'620
-CHF
-/Monat
-4.5-Zimmerwohnung im EG in Düdingen
-Peterstrasse 31, 3186 Düdingen
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Schöne 4.5-Zimmerwohnung im ErdgeschossEinbauküche mit Keramikkochfeld, 3 Schlafzimmer, Badezimmer,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gantrischweg 9
-1'955
-CHF
-/Monat
-3,5 pièces n° 9.23 au 2ème étage
-Gantrischweg 9, 3186 Düdingen
-Array
-3.5 Zimmer
-109 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-109 m2
-Ces appartements de 3½, spacieux et lumineux, se trouvent dans un quartier résidentiel ensoleillé, …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weiermattweg 1
-1'440
-CHF
-/Monat
-GROSSZÜGIGE DACHWOHNUNG MIT BALKON - 1.…
-Weiermattweg 1, 3186 Düdingen
-Array
-3.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-95 m2
-Wir vermieten per sofort oder nach Vereinbarung diese schöne, helle 3.5-Zimmerwohnung. Die Wohnung …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Peterstrasse 25
-1'440
-CHF
-/Monat
-Peterstrasse 25 in Düdingen
-Peterstrasse 25, 3186 Düdingen
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Sehr schöne, teilsanierte 3.5-Zimmerwohnung im Erdgeschosso Einbauküche o Badezimmer mit Badewanneo…
 Teilen
 E-Mail
 Facebook

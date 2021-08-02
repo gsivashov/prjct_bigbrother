@@ -1,6 +1,6 @@
-URL: https://www.immostreet.ch/de/mieten/in-baar/
+URL: https://www.immostreet.ch/de/mieten/in-baar/?pagenum=2
 Title: Wohnungen & Häuser mieten in Baar - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Baar - Immostreet.ch: ImmoStreet.ch hat 118 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Baar - Immostreet.ch: ImmoStreet.ch hat 109 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-118 Resultate gefunden ·
+109 Resultate gefunden ·
 Wohnungen & Häuser mieten in Baar
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,61 +122,43 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Blegistrasse 11A
-1'100
+Deinikonerstrasse 31b
+1'780
 CHF
 /Monat
-Helles Büro mit Küche & Klimaanlagen
-Blegistrasse 11A, 6340 Baar
+Wohnen mit Sicht auf das Bergpanorama!
+Deinikonerstrasse 31b, 6340 Baar
 Array
-1 Zimmer
-66 m2
+3 Zimmer
+65 m2
 Objekttyp
-Büro
+Wohnung, Flach
 Zimmer
-1
+3
 Wohnfläche
-66 m2
-Etage
-Wir suchen einen Nachmieter für unsere Büro, da wir in ein grösseres Umziehen. Das Büro ist hell un…
+65 m2
+Sind Sie auf der Suche nach einer hellen 3.0-Zimmerwohnung an ruhiger Lage? Dann haben wir per 1. N…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Lättichstrasse 1
-1'950
+Neuhof 2
+1'850
 CHF
 /Monat
-Büroräume zu vermieten an attraktiver L…
-Lättichstrasse 1, 6340 Baar
+2.5 Zimmer Maisonette-Wohnung zu vermie…
+Neuhof 2, 6340 Baar
 Array
-4 Zimmer
-128 m2
+2.5 Zimmer
+65 m2
 Objekttyp
-Büro
+Wohnung, Flach
 Zimmer
-4
+2.5
 Wohnfläche
-128 m2
+65 m2
 Etage
-Zu vermieten ab 1. Dezember 2021 oder nach Vereinbarung Büroräume im steuergünstigen Zug:he…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Falkenweg
-1'190
-CHF
-/Monat
-Zimmer als Büro und/oder Schlafzimmer b…
-Falkenweg, 6340 Baar
-Array
-1 Zimmer
-Objekttyp
-Wohnung, Einzelzimmer
-Zimmer
-1
-Wir vermieten per 1. August 2021 ein möbliertes Zimmer direkt am Bahnhof in Baar. Das Zimmer kann a…
+Die sehr helle, 65 m2 grosse Maisonette-Wohnung befindet sich auf einem Bauernhof.Sie ist mit hochw…
 Teilen
 E-Mail
 Facebook
@@ -198,114 +180,19 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Landhausstrasse 4
-140
+Zugerstrasse 69
+1'705
 CHF
 /Monat
-Einstellgaragenplatz
-Landhausstrasse 4, 6340 Baar
+Stadtnahe 2.5-Zimmerwohnung zu vermieten
+Zugerstrasse 69, 6340 Baar
 Array
-Objekttyp
-Tiefgarage
-An der Landhausstrasse in Baar vermieten wir per sofort einen Einstellplatz.
-Teilen
-E-Mail
-Facebook
-Whatsapp
-UNG Gubelstrasse 2/4/6
-130
-CHF
-/Monat
-Auto-Einstellplatz im Zentrum von Baar
-UNG Gubelstrasse 2/4/6, 6340 Baar
-Array
-Objekttyp
-Tiefgarage
-Wir vermieten per sofort oder nach Vereinbarung in der Gubelstrasse 2/4/6 einen Auto-Einstellplatz.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zugerstrasse 76B
-3'450
-CHF
-/Monat
-Moderne und grosszügige Büroräume nähe …
-Zugerstrasse 76B, 6340 Baar
-Array
-3 Zimmer
-100 m2
-Objekttyp
-Büro
-Zimmer
-3
-Wohnfläche
-100 m2
-Etage
-Hochwertig ausgebaute und moderne Büroräumlichkeiten in Baar (Stadtgrenze Zug) per sofort zu vermie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-zugermatt, 3
-2'250
-CHF
-/Monat
-3 Zimmer Wohnung mit Lift und Parkplatz…
-zugermatt, 3, 6340 Baar
-Array
-3 Zimmer
-70 m2
+2.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
-Wohnfläche
-70 m2
-Etage
-neu renovierte 3 Zimmer Wohnung mit Lift. Parkettboden frisch versiegelt.
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grabenstrasse 2
-320
-CHF
-ALPHA Building - 2.OG
-Grabenstrasse 2, 6340 Baar
-Array
-Objekttyp
-Büro
-Etage
-ALPHA Building - 2. OG Das "ALPHA Building" ist ein reines Bürogebäude, welches über sieben Stockwe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grabenstrasse 2
-305
-CHF
-ALPHA Building - 1. OG
-Grabenstrasse 2, 6340 Baar
-Array
-Objekttyp
-Büro
-Etage
-ALPHA - 1. OG Building for Leading CompaniesDas "ALPHA Building" ist ein reines Bürogebäude, welche…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grabenstrasse 2
-405
-CHF
-ALPHA Building - 5. OG
-Grabenstrasse 2, 6340 Baar
-Array
-Objekttyp
-Büro
-Etage
-Building for Leading CompaniesDas "ALPHA Building" ist ein reines Bürogebäude, welches über sieben …
+2.5
+Wir vermieten per 1. November 2021 eine schöne, helle 2 1/2-Zimmerwohnung in Baar. Die Wohnung befi…
 Teilen
 E-Mail
 Facebook
@@ -330,71 +217,49 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Rigistrasse 165
-1'945
+Neuhofstrasse 4
+380
+CHF
+ONYX - Vermietungsstart
+Neuhofstrasse 4, 6340 Baar
+Array
+Objekttyp
+Büro
+ONYX bietet ab Herbst 2021 internationalen Unternehmungen mit Anspruch ein repräsentatives Domizil …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rütiweid 2 / 4
+150
 CHF
 /Monat
-Lichtdurchflutete 3.5 Zimmer-Wohnung
-Rigistrasse 165, 6340 Baar
+Freier Garagen-Einstellplatz in Baar / …
+Rütiweid 2 / 4, 6340 Baar
 Array
-3.5 Zimmer
-86 m2
+Objekttyp
+Tiefgarage
+Wir vermieten per sofort einen Garagen-Einstellplatz an der Rütiweid 2/4 in 6340 Baar / Stadtgrenze…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Deinikonerstrasse 31a
+1'580
+CHF
+/Monat
+Im Grünen und dennoch zentral wohnen?
+Deinikonerstrasse 31a, 6340 Baar
+Array
+2 Zimmer
+48 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+2
 Wohnfläche
-86 m2
-Wir vermieten per 16.06.2021 eine schöne lichtdurchflutete 3.5 Zimmer-Wohnung. Die Wohnung befinde…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Burgmatt 1-9
-40
-CHF
-/Monat
-Abstellplatz für Ihr Roller oder Motorr…
-Burgmatt 1-9, 6340 Baar
-Array
-Objekttyp
-Offener Parkplatz
-Wir vermieten per sofort oder nach Vereinbarung einen Motorradplatz in der Einstellhalle an der Bur…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Landhausstrasse 21
-725
-CHF
-/Monat
-Möbliertes Zimmer im H21 befristet zu v…
-Landhausstrasse 21, 6340 Baar
-Array
-1 Zimmer
-17 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Zimmer
-1
-Wohnfläche
-17 m2
-Einzelzimmer mit Gemeinschaftsbad und Gemeinschaftsküche zu vermieten an zentraler Lage in Baar.Bit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blegistrasse 13
-220
-CHF
-/Monat
-Lagerbox in Baar-Sihlbrugg
-Blegistrasse 13, 6340 Baar
-Array
-Objekttyp
-Verkauf, Lager
-Ideal für Privatpersonen und Firmen
-Lagerboxen mit 14m² (Nr. 4) und 35m² (Nr. 24) zur Miete an d…
+48 m2
+Das können Sie hier! Per 1. September 2021 oder nach Vereinbarung vermieten wir diese gemütliche 2.…
 Teilen
 E-Mail
 Facebook
@@ -416,16 +281,19 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Neuhofstrasse 20/22/24
-270
+Adresse auf Anfrage
+830
 CHF
-Geschäftshaus Quadrolith - Einfach. Gol…
-Neuhofstrasse 20/22/24, 6340 Baar
+/Monat
+PRAKTISCH, GÜNSTIG UND MODERN MIT SITZU…
+Adresse auf Anfrage, 6340 Baar
 Array
+1 Zimmer
 Objekttyp
 Büro
-Etage
-Der Quadrolith das sind zwei, modern gestaltete Geschäftshäuser mit Raum für 1000 Arbeitsplätze. D…
+Zimmer
+1
+Dieses wunderschöne, moderne und helle Büro erwartet Sie hier. Die hohen Räume geben Ihrem Büro den…
 Teilen
 E-Mail
 Facebook
@@ -450,15 +318,132 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Blegistrasse 7/9
-210
+Blegistrasse 3
+178
 CHF
-Blegistrasse 7/9, Baar - Grosszügige kl…
-Blegistrasse 7/9, 6340 Baar
+Blegistrasse Baar - Angenehmes Arbeiten…
+Blegistrasse 3, 6340 Baar
 Array
 Objekttyp
 Büro
-Die Büroräumlichkeiten an der Blegistrasse in Baar sind verkehrstechnisch perfekt erschlossen und f…
+Die Büroräumlichkeiten an der Blegistrasste in Baar sind verkehrstechnisch perfekt erschlossen und …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+980
+CHF
+/Monat
+PREISWERT, GROSSZÜGIG UND MODERN
+Adresse auf Anfrage, 6340 Baar
+Array
+1 Zimmer
+Objekttyp
+Büro
+Zimmer
+1
+Dieses wunderschöne, moderne und helle Büro erwartet Sie an sehr zentraler Lage zwischen Baar und Z…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ruessenstrasse 5
+70
+CHF
+/Monat
+Aussenparkplätze in Sihlbrugg!
+Ruessenstrasse 5, 6340 Baar
+Array
+Objekttyp
+Offener Parkplatz
+Wir vermieten per sofort oder nach Vereinbarung diverse Aussenparkplätze an der Ruessenstrasse 5b i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ruessenstrasse 5
+198
+CHF
+Wir investieren in Ihre neue Gewerbe- u…
+Ruessenstrasse 5, 6340 Baar
+Array
+5 Zimmer
+Objekttyp
+Büro
+Zimmer
+5
+Etage
+Wir vermieten per sofort oder nach Vereinbarung diverse Gewerbeflächen an der Ruessenstrasse 5b in …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ruessenstrasse 5
+198
+CHF
+helle Gewerbe- und Büroflächen im steue…
+Ruessenstrasse 5, 6340 Baar
+Array
+5 Zimmer
+Objekttyp
+Büro
+Zimmer
+5
+Etage
+Wir vermieten per sofort oder nach Vereinbarung diverse Gewerbeflächen an der Ruessenstrasse 5b in …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Neuhofstrasse 4
+360
+CHF
+ONYX - Vermietungsstart
+Neuhofstrasse 4, 6340 Baar
+Array
+Objekttyp
+Büro
+ONYX bietet ab Herbst 2021 internationalen Unternehmungen mit Anspruch ein repräsentatives Domizil …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Neuhofstrasse 4
+330
+CHF
+ONYX - Vermietungsstart
+Neuhofstrasse 4, 6340 Baar
+Array
+Objekttyp
+Büro
+ONYX bietet ab Herbst 2021 internationalen Unternehmungen mit Anspruch ein repräsentatives Domizil …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Neuhofstrasse 4
+330
+CHF
+ONYX - Vermietungsstart
+Neuhofstrasse 4, 6340 Baar
+Array
+Objekttyp
+Büro
+ONYX bietet ab Herbst 2021 internationalen Unternehmungen mit Anspruch ein repräsentatives Domizil …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Neuhofstrasse 4
+330
+CHF
+ONYX - Vermietungsstart
+Neuhofstrasse 4, 6340 Baar
+Array
+Objekttyp
+Büro
+ONYX bietet ab Herbst 2021 internationalen Unternehmungen mit Anspruch ein repräsentatives Domizil …
 Teilen
 E-Mail
 Facebook

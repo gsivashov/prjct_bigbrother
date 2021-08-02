@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marktplatz/tesla/kombi
 Title: Tesla Kombi – Preise vergleichen mit Comparis
 Description: Finden Sie unter 0 Tesla Kombi Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -563,30 +561,26 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Tesla
-(300)
+(256)
 Tesla Occasion
-(293)
-Tesla Vorführwagen
-(4)
-Tesla Neuwagen
-(3)
+(255)
 Aufbau
 Tesla Limousine
-(248)
+(207)
 Tesla Geländewagen
-(46)
+(43)
 Tesla Cabrio
 (6)
 Motor
 Tesla Elektroautos
-(300)
+(256)
 Modelle
 Tesla Model S
-(159)
+(137)
 Tesla MODEL 3
-(89)
+(70)
 Tesla Model X
-(46)
+(43)
 Tesla Roadster
 (5)
 CAR FOR YOU wird durchsucht ...

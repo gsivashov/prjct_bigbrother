@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/unterkategorie-flat/in-allschwil/
 Title: Wohnung kaufen in Allschwil - Immostreet.ch
-Description: Wohnung kaufen in  Allschwil - Immostreet.ch: ImmoStreet.ch hat 12 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in  Allschwil - Immostreet.ch: ImmoStreet.ch hat 9 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-12 Resultate gefunden ·
+9 Resultate gefunden ·
 Wohnung kaufen in Allschwil
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,40 +134,80 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-679'000
+Schützenweg 12
+1'090'000
 CHF
-HELLE WOHNUNG MITTEN IN ALLSCHWIL, ZENT…
-Adresse auf Anfrage, 4123 Allschwil
+Lichtdurchflutete 3.5 Zimmer-Dachwohnun…
+Schützenweg 12, 4123 Allschwil
 Array
 3.5 Zimmer
-79 m2
+95 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Dachwohnung
 Zimmer
 3.5
 Wohnfläche
-79 m2
-Diese, an ruhiger, ganztags- besonnter Wohnlage in Allschwil gelegene Wohnung, verfügt über 3.5 - Z…
+95 m2
+Etage
+W8 - 3.5 Zimmer Dachwohnung mit Balkon & AbendsonneStadtnah, am Schützenweg 12 in der beliebten…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Allschwil
-695'000
+Baslerstrasse 272
+1'440'000
 CHF
-Neuwertige Wohnung an ruhiger und zentr…
-Allschwil, 4123 Allschwil
+5.5 Zi-Wohnung mit 150 m2 Wfl. und 32 m…
+Baslerstrasse 272, 4123 Allschwil
 Array
-3.5 Zimmer
-89 m2
+5.5 Zimmer
+150 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+5.5
 Wohnfläche
-89 m2
-Diese modern konzipierte und neuwertige 3.5-Zimmerwohnung bietet einen gehobenen Ausbau und einen f…
+150 m2
+5.5 Zi-Wohnung mit 150 m2 im 3. OG an sonniger und zentraler Lage mit WeitsichtDie Wohnung befindet…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Spitzwaldstrasse 71
+455'000
+CHF
+Eigentumswohnung in stadtnähe
+Spitzwaldstrasse 71, 4123 Allschwil
+Array
+2.5 Zimmer
+48 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+48 m2
+Wir bieten Ihnen an einer ruhigen Wohnlage in Allschwil eine attraktive 2½-Zimmerwohnung im Hochpar…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Baslerstrasse 315
+1'875'000
+CHF
+Moderne und stilsichere Maisonettewohnu…
+Baslerstrasse 315, 4123 Allschwil
+Array
+7.5 Zimmer
+206 m2
+Objekttyp
+Wohnung, Duplex, Maisonette
+Zimmer
+7.5
+Wohnfläche
+206 m2
+Etage
+Modern und chic, ist der Ausbau der Maisonettedachwohnung für Jung und Alt gleichermassen gelungen.…
 Teilen
 E-Mail
 Facebook
@@ -191,22 +231,40 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Feldstrasse 70a
-1'585'000
+Adresse auf Anfrage
+695'000
 CHF
-Attikawohnung der Luxusklasse!
-Feldstrasse 70a, 4123 Allschwil
+Modern 3.5 room apartment for sale in A…
+Adresse auf Anfrage, 4123 Allschwil
 Array
 3.5 Zimmer
-160 m2
+88 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-160 m2
-Etage
-Diese aussergewöhnliche und einzigartige Attikawohnung verteilt sich über zwei Ebenen (2. Obergesch…
+88 m2
+After 6 years, we're selling our lovely 3.5 rooms apartment in Allschwil (just on the border to Bas…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+679'000
+CHF
+HELLE WOHNUNG MITTEN IN ALLSCHWIL, ZENT…
+Adresse auf Anfrage, 4123 Allschwil
+Array
+3.5 Zimmer
+79 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+79 m2
+Diese, an ruhiger, ganztags- besonnter Wohnlage in Allschwil gelegene Wohnung, verfügt über 3.5 - Z…
 Teilen
 E-Mail
 Facebook
@@ -230,45 +288,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Baslerstrasse 272
-1'490'000
-CHF
-5.5 Zi-Wohnung 150 m2 im 3. OG an sonni…
-Baslerstrasse 272, 4123 Allschwil
-Array
-5.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-150 m2
-5.5 Zi-Wohnung mit 150 m2 im 3. OG an sonniger und zentraler Lage mit Weitsicht5.5 Zi-Wohnung im 3.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Feldstrasse 43
-1'285'000
-CHF
-Neuwertige 5-Zimmer Maisonettewhg in Al…
-Feldstrasse 43, 4123 Allschwil
-Array
-5 Zimmer
-144 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-144 m2
-Etage
-Objekt: 5-Zimmer-Maisonette-Wohnung ca. 144 m2 im 2.OG/DG zusätzlich zwei Balkone à 8 m2 und 11 m2 …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Starenweg 2
 390'000
 CHF
@@ -284,83 +303,6 @@ Zimmer
 Wohnfläche
 48 m2
 Die gut ausgestattete Etagenwohnung mit idealem Grundriss liegt im 1. Obergeschoss an gesuchter, ru…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kurzelängeweg 27
-390'000
-CHF
-Tolle Gelegenheit: Sehr gepflegte 3.5-Z…
-Kurzelängeweg 27, 4123 Allschwil
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Tolle Gelegenheit: Sehr gepflegte 3.5-Zimmerwohnung zu einem einmaligen Preis!Am Kurzelängeweg - in…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Spitzwaldstrasse 71
-455'000
-CHF
-Attraktive Anlage - 2½ Zi.-Wohnung in s…
-Spitzwaldstrasse 71, 4123 Allschwil
-Array
-2.5 Zimmer
-48 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-48 m2
-Diese heimelige 2½ Zimmer «Single-Wohnung» mit rund 48 m² Nettowohnfläche ist aktuell vermietet prä…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Baslerstrasse 315
-2'010'000
-CHF
-Moderne und stilsichere Maisonettewohnu…
-Baslerstrasse 315, 4123 Allschwil
-Array
-7.5 Zimmer
-206 m2
-Objekttyp
-Wohnung, Duplex, Maisonette
-Zimmer
-7.5
-Wohnfläche
-206 m2
-Etage
-Modern und chic, ist der Ausbau der Maisonettedachwohnung für Jung und Alt gleichermassen gelungen.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Holeeweg 10
-2'535'000
-CHF
-Grosszügige Luxus-Attikawohnung mit gra…
-Holeeweg 10, 4123 Allschwil
-Array
-5.5 Zimmer
-247 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-247 m2
-Die im 2008 erstellte Eigentumswohnung in parkähnlicher Umgebung liegt an erhöhter, jedoch zentrale…
 Teilen
 E-Mail
 Facebook

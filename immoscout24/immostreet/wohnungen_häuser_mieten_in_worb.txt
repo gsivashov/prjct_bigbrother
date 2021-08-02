@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-worb/
 Title: Wohnungen & Häuser mieten in Worb - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Worb - Immostreet.ch: ImmoStreet.ch hat 15 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Worb - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-15 Resultate gefunden ·
+19 Resultate gefunden ·
 Wohnungen & Häuser mieten in Worb
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,96 +122,97 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Zelgweg 1
-850
+Schmittenplatz 5
+1'390
 CHF
 /Monat
-WG Zimmer
-Zelgweg 1, 3076 Worb
+Zu vermieten im Zentrum von Worb
+Schmittenplatz 5, 3076 Worb
 Array
+2.5 Zimmer
+65 m2
 Objekttyp
-Wohnung, Einzelzimmer
-BeschreibungDa Jemand unsere WG verlässt suchen wir ab dem 01.09.21 1-2 neue Mitbewohner/innen.Die …
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+65 m2
+Deine Chance!!Frisch sanierte und moderne 2 1/2 Zimmer Wohnung im Zentrum von Worb zu vermieten.Am …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bernstrasse 8
-1'595
+Schmittenplatz 5
+1'390
 CHF
 /Monat
-3.5 Zimmerwohnung an zentraler Lage
-Bernstrasse 8, 3076 Worb
+Neurenovierte Wohnung im Zentrum von Wo…
+Schmittenplatz 5, 3076 Worb
 Array
-3.5 Zimmer
-75 m2
+2.5 Zimmer
+55 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+2.5
 Wohnfläche
-75 m2
-Ruhig und zentral leben - das geht hier!An der Bernstrasse 8 in Worb, vermieten wir ab sofort oder …
+55 m2
+Zu vermieten ab 01. September total renovierte 2 1/2- Zimmer Wohnung (Hochparterre)im Zentrum von W…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'970
+2'250
 CHF
 /Monat
-IDEAL FÜR EINE WOHNGEMEINSCHAFT
+Speziell schöne Wohnung an bester Lage …
 Adresse auf Anfrage, 3076 Worb
 Array
-5.5 Zimmer
-200 m2
+4.5 Zimmer
+110 m2
 Objekttyp
-Wohnung, Dachwohnung
+Wohnung, Flach
 Zimmer
-5.5
+4.5
 Wohnfläche
-200 m2
-Diese grosszügige und helle Dachwohnung zeichnet sich durch ihre charmante und geschmackvolle Art u…
+110 m2
+Hell, ruhig, mit Alpenpanorama, in Privathaus.Edler SpecksteinofenEichenparkettEigener Waschturm au…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Niesenstrasse 7
-1'590
+Farbstrasse 14
+5'550
 CHF
 /Monat
-Ihre heimelige Wohnung mit Sitzplatz im…
-Niesenstrasse 7, 3076 Worb
+Wohnung im Schlossareal mit Garten
+Farbstrasse 14, 3076 Worb
 Array
-3.5 Zimmer
-85 m2
+6.5 Zimmer
+260 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+6.5
 Wohnfläche
-85 m2
-An ruhiger Lage in Worb vermieten wir nach Vereinbarung eine gemütliche 3½-Zimmer-Parterrewohnung m…
+260 m2
+Etage
+450 m² Gartenareal und viel PrivatsphäreDas wunderschöne Anwesen befindet sich im neuen Schlossarea…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Schulhausstrasse 11
-1'550
+Bahnhofstrasse 28 Einstellhalle
+115
 CHF
 /Monat
-Schöne 4-Zimmerwohnung im Zentrum von W…
-Schulhausstrasse 11, 3076 Worb
+Einstellhallenplatz mitten im Dorfzentr…
+Bahnhofstrasse 28 Einstellhalle, 3076 Worb
 Array
-4 Zimmer
-80 m2
 Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-80 m2
-Wir vermieten per sofort eine schöne 4-Zimmerwohnung an zentraler, ruhiger und sonniger Lage im Zen…
+Tiefgarage
+Per sofort oder nach Vereinbarung vermieten wir mehrere Einstellhallenplätze an zentraler Lage: - K…
 Teilen
 E-Mail
 Facebook
@@ -236,16 +237,26 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bahnhofstrasse 28 Einstellhalle
-115
-CHF
-/Monat
-Einstellhallenplatz mitten im Dorfzentr…
-Bahnhofstrasse 28 Einstellhalle, 3076 Worb
+Bollstrasse 43
+Preis auf Anfrage
+Gewerberäume / Atelier mit Lager zu ver…
+Bollstrasse 43, 3076 Worb
 Array
 Objekttyp
-Tiefgarage
-Per sofort oder nach Vereinbarung vermieten wir einen Einstellhallenplatz an zentraler Lage: - Kurz…
+Verkauf, Gewerbe
+Im Brunnenpark an der Bollstrasse 43 in Worb vermieten wir zu preiswerten Konditionen zwei Gewerber…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bollstrasse 43
+Preis auf Anfrage
+Büroräume zu vermieten - vollwertig aus…
+Bollstrasse 43, 3076 Worb
+Array
+Objekttyp
+Büro
+Im Brunnenpark an der Bollstrasse 43 in Worb vermieten wir unterschiedlich grosse und vollwertig au…
 Teilen
 E-Mail
 Facebook
@@ -254,29 +265,62 @@ Enggisteinstrasse 44a
 1'430
 CHF
 /Monat
-Nachmieter gesucht
+Ihre Wohlfühloase: Zentrale Balkonwohnu…
 Enggisteinstrasse 44a, 3076 Worb
 Array
 4.5 Zimmer
+78 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-4.5 Zimmerwohnung mit Balkon, schöner Aussicht auf die Berner Alpen. Im 3. Stock ab 01.06. Bei Inte…
+Wohnfläche
+78 m2
+Per sofort oder nach Vereinbarung vermieten wir an zentraler Lage in Worb folgende wunderschöne Bal…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Kreuzgasse 7a Einstellhalle
-115
+Bollstrasse 1
+Preis auf Anfrage
+zentral in Worb - Ihr neuer Standort
+Bollstrasse 1, 3076 Worb
+Array
+Objekttyp
+Verkauf, Geschäft
+Verkauf-/Retailfläche im Herzen von WorbIm Postgebäude Worb an zentral gelegener Lage vis à vis des…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Jungfraustrasse / Ballenbühlweg
+100
 CHF
 /Monat
-Einstellhallenplatz in Worb gesucht?
-Kreuzgasse 7a Einstellhalle, 3076 Worb
+Parkplatz in Einstelhalle zu vermieten!
+Jungfraustrasse / Ballenbühlweg, 3076 Worb
 Array
 Objekttyp
 Tiefgarage
-Nach Vereinbarung vermieten wir mehrere Einstellhallenplätze:- Kurze Kündigungsfristen- CHF 115.00 …
+Parkplatz in Einstellhalle zu vermieten.
+Haben wir Ihr Interesse geweckt?
+Wir freuen uns auf Ih…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eigerstrasse 18
+45
+CHF
+/Monat
+Aussenparkplatz zu vermieten!
+Eigerstrasse 18, 3076 Worb
+Array
+Objekttyp
+Offener Parkplatz
+Aussenparkplatz an der Eigerstrasse 18 zu vermieten.
+Haben wir Ihr Interesse geweckt?
+Wir freue…
 Teilen
 E-Mail
 Facebook
@@ -296,7 +340,55 @@ Zimmer
 3.5
 Wohnfläche
 68 m2
-Ruhig & zentral leben - das geht hier!An der Enggisteinstrasse 44a in Worb, vermieten wir an to…
+Per sofort oder nach Vereinbarung vermieten wir an zentraler Lage in Worb eine wunderschöne Balkonw…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Trimsteinstrasse 26 B
+1'290
+CHF
+/Monat
+Moderne 3.5-ZW in Worb
+Trimsteinstrasse 26 B, 3076 Worb
+Array
+3.5 Zimmer
+63 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+63 m2
+Die Liegenschaft liegt an grüner und ruhigen Lage. Die Einkaufsmöglichkeiten befinden sich in der N…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zelgweg 1
+850
+CHF
+/Monat
+WG Zimmer
+Zelgweg 1, 3076 Worb
+Array
+Objekttyp
+Wohnung, Einzelzimmer
+BeschreibungDa Jemand unsere WG verlässt suchen (m/w) wir ab dem 01.09.21 1-2 neue Mitbewohner/inne…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kreuzgasse 7a Einstellhalle
+115
+CHF
+/Monat
+Einstellhallenplatz in Worb gesucht?
+Kreuzgasse 7a Einstellhalle, 3076 Worb
+Array
+Objekttyp
+Tiefgarage
+Nach Vereinbarung vermieten wir mehrere Einstellhallenplätze:- Kurze Kündigungsfristen- CHF 115.00 …
 Teilen
 E-Mail
 Facebook
@@ -309,21 +401,6 @@ Array
 Objekttyp
 Büro
 Nach Vereinbarung bieten wir an bester Lage in Worb folgende Gewerbefläche (ca. 73 m2) im 1. Stock …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bollstrasse 43
-865
-CHF
-/Monat
-Atelier/Kleinwerkstatt (still) & Lagerr…
-Bollstrasse 43, 3076 Worb
-Array
-Objekttyp
-Verkauf, Gewerbe
-Etage
-Im Brunnenpark an der Bollstrasse 43 in Worb vermieten wir einen Gewerberaum (stilles Gewerbe) / At…
 Teilen
 E-Mail
 Facebook
@@ -341,19 +418,6 @@ Wohnung, Möblierte Wohnung
 Zimmer
 5.5
 MIETDAUER ab sofort bis 30. April 2022 (mind. 2 Monate, nach Absprache)AllgemeinÄlteres freistehend…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bollstrasse 43
-Preis auf Anfrage
-Praktische Büroräume zu vermieten - vol…
-Bollstrasse 43, 3076 Worb
-Array
-Objekttyp
-Büro
-Etage
-Im Brunnenpark an der Bollstrasse 43 in Worb vermieten wir unterschiedlich grosse und vollwertig au…
 Teilen
 E-Mail
 Facebook

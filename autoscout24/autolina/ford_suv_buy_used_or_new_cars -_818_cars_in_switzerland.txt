@@ -84,7 +84,7 @@ From2345
 to2345
 Filter search
 Make
-AllACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AllACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Model
 All
 Version
@@ -102,7 +102,7 @@ small carsaloon/hatchbackEstatePeople carrierconvertiblecoupéSUVPickupCommercia
 Transmission
 Automatic
 Manual
-Condition
+Vehicle condition
 Second hand/used
 New car(s)
 Ex-demonstrator(s)
@@ -155,28 +155,27 @@ TI
 WIR-participation
 818 Results
 Reset Search
-NEW
 FORD
-Puma 1.0 MHEV ST-Line X
-CHF 24'700
-from CHF 291/month
-01.2021
-Manual
-10 km
-Mild-Hybrid Petrol/Electric
-Front wheel drive
-grey
-125 PS
+Kuga 2.0 TDCi 163 Individual FPS
+CHF 12'200
+from CHF 132/month
+03.2012
+Automatic
+117'600 km
+Diesel
+Four wheel drive
+black
+163 PS
 ZH
 Add to Wish List
 FORD
-Puma 1.0 MHEV ST-Line X
-01.2021
-125 PS
-10 km
-CHF 24'700
+Kuga 2.0 TDCi 163 Individual FPS
+03.2012
+163 PS
+117'600 km
+CHF 12'200
 Add to Wish List
-from CHF 291/month
+from CHF 132/month
 FORD
 EcoSport 1.0 EcoB 125 ST-Line
 CHF 20'000
@@ -198,268 +197,194 @@ EcoSport 1.0 EcoB 125 ST-Line
 CHF 20'000
 Add to Wish List
 from CHF 215/month
-FORD
-Kuga 2.0 TDCi 163 Titanium FPS
-CHF 9'400
-from CHF 106/month
-04.2012
-Automatic
-120'500 km
-Diesel
-Four wheel drive
-brown
-163 PS
-TG
-Add to Wish List
-FORD
-Kuga 2.0 TDCi 163 Titanium FPS
-04.2012
-163 PS
-120'500 km
-CHF 9'400
-Add to Wish List
-from CHF 106/month
-35-Point-Check
-Free test drive
-Guarantee promise
-Fair trade-in offer
 NEW
 FORD
-Explorer 3.0 EcoB. Plug-in-Hybrid ST-Line 4WD Aut.
-CHF 69'999
-from CHF 752/month
-05.2021
+Kuga 2.5 Hybrid Vignale 4x4
+CHF 45'800
+from CHF 492/month
+06.2021
 Automatic
-2'900 km
-Plug-in-Hybrid Petrol/Electric
-Four wheel drive
-black
-450 PS
-AG
-Add to Wish List
-FORD
-Explorer 3.0 EcoB. Plug-in-Hybrid...
-05.2021
-450 PS
-2'900 km
-CHF 69'999
-Add to Wish List
-from CHF 752/month
-NEW
-FORD
-Kuga 2.5 Plug-in Hybrid Vignale
-CHF 49'260
-from CHF 529/month
-01.2021
-Automatic
-1 km
-Plug-in-Hybrid Petrol/Electric
-Front wheel drive
-other
-152 PS
-AG
-Add to Wish List
-FORD
-Kuga 2.5 Plug-in Hybrid Vignale
-01.2021
-152 PS
-1 km
-CHF 49'260
-Add to Wish List
-from CHF 529/month
-NEW
-FORD
-Kuga 2.0 TDCi Vignale 4WD PowerShift
-CHF 23'900
-from CHF 257/month
-03.2017
-Automatic
-78'900 km
-Diesel
-Four wheel drive
-white
-180 PS
-AG
-Add to Wish List
-FORD
-Kuga 2.0 TDCi Vignale 4WD PowerSh...
-03.2017
-180 PS
-78'900 km
-CHF 23'900
-Add to Wish List
-from CHF 257/month
-NEW
-FORD
-Kuga 2.0 TDCi Titanium 4WD PowerShift
-CHF 14'900
-from CHF 161/month
-04.2013
-Automatic
-76'900 km
-Diesel
+500 km
+Voll-Hybrid Petrol/Electric
 Four wheel drive
 grey
-140 PS
-SH
+152 PS
+SZ
 Add to Wish List
 FORD
-Kuga 2.0 TDCi Titanium 4WD PowerS...
-04.2013
-140 PS
-76'900 km
-CHF 14'900
+Kuga 2.5 Hybrid Vignale 4x4
+06.2021
+152 PS
+500 km
+CHF 45'800
 Add to Wish List
-from CHF 161/month
+from CHF 492/month
 NEW
 FORD
-Kuga 2.0 TDCi Titan.S 4WD
-CHF 14'900
-from CHF 161/month
-11.2015
+Kuga 2.0 TDCi 180 ST-Line FPS
+CHF 22'500
+from CHF 242/month
+12.2017
 Automatic
-111'850 km
-Diesel
-Four wheel drive
-white
-150 PS
-JU
-Add to Wish List
-FORD
-Kuga 2.0 TDCi Titan.S 4WD
-11.2015
-150 PS
-111'850 km
-CHF 14'900
-Add to Wish List
-from CHF 161/month
-NEW
-FORD
-Kuga 2.0 TDCi Titaniu.4WD
-CHF 24'900
-from CHF 268/month
-12.2018
-Automatic
-42'800 km
+80'000 km
 Diesel
 Four wheel drive
 blue
 180 PS
-TI
+LU
 Add to Wish List
 FORD
-Kuga 2.0 TDCi Titaniu.4WD
-12.2018
+Kuga 2.0 TDCi 180 ST-Line FPS
+12.2017
 180 PS
-42'800 km
-CHF 24'900
+80'000 km
+CHF 22'500
 Add to Wish List
-from CHF 268/month
-NEW
-FORD
-Puma 1.0 EcoB Hybrid 125 Titanium
-CHF 21'500
-from CHF 254/month
-12.2020
-Manual
-19'000 km
-Mild-Hybrid Petrol/Electric
-Front wheel drive
-black
-125 PS
-BE
-Add to Wish List
-FORD
-Puma 1.0 EcoB Hybrid 125 Titanium
-12.2020
-125 PS
-19'000 km
-CHF 21'500
-Add to Wish List
-from CHF 254/month
+from CHF 242/month
 35-Point-Check
 Free test drive
 Guarantee promise
 Fair trade-in offer
 NEW
 FORD
-Kuga 2.5 Plug-in Hybrid ST-Lin X
-CHF 47'550
-from CHF 511/month
--
+Edge 2.0 EcoBlue 238 ST-Line
+CHF 42'169
+from CHF 453/month
+12.2020
 Automatic
-0 km
-Plug-in-Hybrid Petrol/Electric
-Front wheel drive
-black
-152 PS
-TG
-Add to Wish List
-FORD
-Kuga 2.5 Plug-in Hybrid ST-Lin X
--
-152 PS
-0 km
-CHF 47'550
-Add to Wish List
-from CHF 511/month
-NEW
-FORD
-Kuga 2.5 Plug-in Hybrid Titani
-CHF 40'980
-from CHF 441/month
--
-Automatic
-0 km
-Plug-in-Hybrid Petrol/Electric
-Front wheel drive
-black
-152 PS
-TG
-Add to Wish List
-FORD
-Kuga 2.5 Plug-in Hybrid Titani
--
-152 PS
-0 km
-CHF 40'980
-Add to Wish List
-from CHF 441/month
-35-Point-Check
-Free test drive
-Guarantee promise
-Fair trade-in offer
-NEW
-FORD
-Mustang MACH-E AWD 99 kWh
-CHF 73'590
-from CHF 791/month
-05.2021
--
-4'000 km
-Electric
+18'100 km
+Diesel
 Four wheel drive
-anthracite
-371 PS
-BE
+grey
+238 PS
+SZ
 Add to Wish List
 FORD
-Mustang MACH-E AWD 99 kWh
-05.2021
-371 PS
-4'000 km
-CHF 73'590
+Edge 2.0 EcoBlue 238 ST-Line
+12.2020
+238 PS
+18'100 km
+CHF 42'169
 Add to Wish List
-from CHF 791/month
+from CHF 453/month
+NEW
+FORD
+Puma 1.0 EcoB ST-Line Vignale
+CHF 30'900
+from CHF 332/month
+01.2021
+Automatic
+4'700 km
+Petrol
+Front wheel drive
+grey
+125 PS
+ZH
+Add to Wish List
+FORD
+Puma 1.0 EcoB ST-Line Vignale
+01.2021
+125 PS
+4'700 km
+CHF 30'900
+Add to Wish List
+from CHF 332/month
+FORD
+Kuga 2.5 Plug-in Hybrid Titanium
+CHF 40'100
+from CHF 431/month
+-
+Automatic
+0 km
+Plug-in-Hybrid Petrol/Electric
+Front wheel drive
+other
+152 PS
+GL
+Add to Wish List
+FORD
+Kuga 2.5 Plug-in Hybrid Titanium
+-
+152 PS
+0 km
+CHF 40'100
+Add to Wish List
+from CHF 431/month
 35-Point-Check
 Free test drive
 Guarantee promise
 Fair trade-in offer
-NEW
 FORD
-Kuga 2.5 Plug-in Hybrid ST-Lin X
-CHF 46'240
-from CHF 497/month
+Kuga 2.5 Plug-in Hybrid Vignale
+CHF 48'190
+from CHF 568/month
+-
+Automatic
+10 km
+Plug-in-Hybrid Petrol/Electric
+Front wheel drive
+black
+152 PS
+BE
+Add to Wish List
+FORD
+Kuga 2.5 Plug-in Hybrid Vignale
+-
+152 PS
+10 km
+CHF 48'190
+Add to Wish List
+from CHF 568/month
+35-Point-Check
+Free test drive
+Guarantee promise
+Fair trade-in offer
+FORD
+Kuga 2.5 Plug-in Hybrid ST-Line
+CHF 42'130
+from CHF 453/month
+-
+Automatic
+1 km
+Plug-in-Hybrid Petrol/Electric
+Front wheel drive
+white
+225 PS
+TG
+Add to Wish List
+FORD
+Kuga 2.5 Plug-in Hybrid ST-Line
+-
+225 PS
+1 km
+CHF 42'130
+Add to Wish List
+from CHF 453/month
+FORD
+Kuga 2.5 Plug-in Hybrid Vignale
+CHF 44'700
+from CHF 481/month
+-
+Automatic
+0 km
+Plug-in-Hybrid Petrol/Electric
+Front wheel drive
+grey
+152 PS
+BE
+Add to Wish List
+FORD
+Kuga 2.5 Plug-in Hybrid Vignale
+-
+152 PS
+0 km
+CHF 44'700
+Add to Wish List
+from CHF 481/month
+FORD
+Kuga 2.5 Plug-in Hybrid ST-Line
+CHF 45'690
+from CHF 491/month
 -
 Automatic
 1 km
@@ -470,35 +395,105 @@ black
 TG
 Add to Wish List
 FORD
-Kuga 2.5 Plug-in Hybrid ST-Lin X
+Kuga 2.5 Plug-in Hybrid ST-Line
 -
 225 PS
 1 km
-CHF 46'240
+CHF 45'690
 Add to Wish List
-from CHF 497/month
-NEW
+from CHF 491/month
 FORD
-Kuga 2.0 TDCi Titanium 4WD PowerShift
-CHF 14'590
-from CHF 157/month
-08.2013
+Kuga 2.0 TDCi Titanium
+CHF 10'900
+from CHF 123/month
+11.2008
+Manual
+127'950 km
+Diesel
+Four wheel drive
+black
+136 PS
+TG
+Add to Wish List
+FORD
+Kuga 2.0 TDCi Titanium
+11.2008
+136 PS
+127'950 km
+CHF 10'900
+Add to Wish List
+from CHF 123/month
+35-Point-Check
+Free test drive
+Guarantee promise
+Fair trade-in offer
+FORD
+Kuga 2.0 TDCi 180 Vignale FPS
+CHF 28'900
+from CHF 311/month
+04.2019
 Automatic
-111'000 km
+41'900 km
 Diesel
 Four wheel drive
 white
-163 PS
-NW
+180 PS
+VD
 Add to Wish List
 FORD
-Kuga 2.0 TDCi Titanium 4WD PowerS...
-08.2013
-163 PS
-111'000 km
-CHF 14'590
+Kuga 2.0 TDCi 180 Vignale FPS
+04.2019
+180 PS
+41'900 km
+CHF 28'900
 Add to Wish List
-from CHF 157/month
+from CHF 311/month
+FORD
+Puma 1.0 EcoB Titanium
+CHF 19'900
+from CHF 235/month
+07.2020
+Manual
+11'000 km
+Petrol
+Front wheel drive
+white
+125 PS
+BE
+Add to Wish List
+FORD
+Puma 1.0 EcoB Titanium
+07.2020
+125 PS
+11'000 km
+CHF 19'900
+Add to Wish List
+from CHF 235/month
+35-Point-Check
+Free test drive
+Guarantee promise
+Fair trade-in offer
+FORD
+Puma 1.0 EcoB Hybrid 155 ST-Li X
+CHF 35'660
+from CHF 383/month
+-
+Automatic
+1 km
+Mild-Hybrid Petrol/Electric
+Front wheel drive
+red
+155 PS
+ZH
+Add to Wish List
+FORD
+Puma 1.0 EcoB Hybrid 155 ST-Li X
+-
+155 PS
+1 km
+CHF 35'660
+Add to Wish List
+from CHF 383/month
 1
 1
 2

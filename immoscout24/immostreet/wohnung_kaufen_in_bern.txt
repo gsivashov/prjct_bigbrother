@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/in-bern/
 Title: Wohnung kaufen in Bern - Immostreet.ch
-Description: Wohnung kaufen in  Bern - Immostreet.ch: ImmoStreet.ch hat 5 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in  Bern - Immostreet.ch: ImmoStreet.ch hat 12 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-5 Resultate gefunden ·
+12 Resultate gefunden ·
 Wohnung kaufen in Bern
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,40 +134,186 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Bottigenstrasse 72b
+798'000
+CHF
+Stilvolle Galeriewohnung nahe des Stadt…
+Bottigenstrasse 72b, 3018 Bern
+Array
+2.5 Zimmer
+106 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+106 m2
+Bern | An zentraler und doch ruhiger Lage steht nach Vereinbarung Ihre neue Galeriewohnung mit eine…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
-670'000
+6'800'000
+CHF
+Verkauf Aktien an Bauprojekt mit Ausbau…
+Adresse auf Anfrage, 3000 Bern
+Array
+7.5 Zimmer
+7500 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+7.5
+Wohnfläche
+7500 m2
+Verkaufe Aktienpaket von 100% an bewilligtem Bauprojekt im Baurecht zentral in Bern an potenten Inv…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Charmante Wohnung mit Wintergarten
+Adresse auf Anfrage, 3027 Bern
+Array
+3.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+86 m2
+Diese wunderschöne Wohnung liegt in einem ruhigen, familiären Quartier und bietet alles was Sie bra…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+580'000
 CHF
 Urbane Wohnung in Bern City!
 Adresse auf Anfrage, 3014 Bern
 Array
 4.5 Zimmer
-77 m2
+90 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-77 m2
+90 m2
 Die tolle Wohnung liegt an bester Lage in Bern und wurde 2020 renoviert. Es sind keine weiteren Ren…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bottigenstrasse 341
-928'000
+Gutenbergstrasse 27
+1'090'000
 CHF
-6 Zimmer Bijous im Grünen
-Bottigenstrasse 341, 3019 Bern
+Jugendstilwohnung, ruhig gelegen im Sta…
+Gutenbergstrasse 27, 3011 Bern
 Array
-6 Zimmer
-142 m2
+4 Zimmer
+113 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-6
+4
 Wohnfläche
-142 m2
-Dieses grosszügige 6 Zimmer Bijou befindet sich ausserhalb vom Zentrum Berns, an ruhiger, idyllisch…
+113 m2
+An bevorzugter, ruhiger Lage im Stadtzentrum ist für Liebhaber eines gepflegten, klassischen Ambien…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Jupiterstrasse 19
+595'000
+CHF
+4.5-Zimmerwohnung mit wunderbarer Weits…
+Jupiterstrasse 19, 3015 Bern
+Array
+4.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+95 m2
+Bern | Ab sofort oder nach Vereinbarung steht diese zentral gelegene Eigentumswohnung mit schöner W…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+580'000
+CHF
+4.5 Zimmer-Wohnung im Herzen von Wankdo…
+Adresse auf Anfrage, 3014 Bern
+Array
+4.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+90 m2
+4.5 Zimmer-Wohnung im Herzen von WankdorfDie Wohnung liegt im Herzen von Wankdorf und ist sehr verk…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bern
+Preis auf Anfrage
+Suche Liegenschaften, Gesellschaften un…
+Bern, 3000 Bern
+Array
+Objekttyp
+Wohnung, Flach
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brünnenstrasse 120
+1'060'000
+CHF
+«Agentur Wyss AG: Zentrale Eigentumswoh…
+Brünnenstrasse 120, 3018 Bern
+Array
+4.5 Zimmer
+124 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+4.5
+Wohnfläche
+124 m2
+Etage
+Beschreibung
+Agentur Wyss AG:
+Eine edle und moderne Eigentumswohnung mitten in Bern Bümpliz mit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+wankdorffeldstrasse
+650'000
+CHF
+Schöne Wohnung / Joli appartement
+wankdorffeldstrasse, 3006 Bern
+Array
+4 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+90 m2
+DE: Der grosse Balkon ist mit seinen Panorama-Schiebefenstern ganzjährig benutzbar. Bereits in 2020…
 Teilen
 E-Mail
 Facebook
@@ -200,27 +346,6 @@ Wohnung, Flach
 Zimmer
 3.5
 Ein architektonisch besonderer Leckerbissen freut sich an bester Lage in der Elfenau auf neue Besit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seminarstrasse
-995'000
-CHF
-Attika-Loftwohnung (107 m2) im Zentrum …
-Seminarstrasse, 3006 Bern
-Array
-1.5 Zimmer
-107 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-1.5
-Wohnfläche
-107 m2
-- Herrschaftliche Attika-Loftwohnung (Baujahr 1903)
-- Hell und einladend
-- 107 m2 Nettowohnfläche…
 Teilen
 E-Mail
 Facebook

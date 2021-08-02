@@ -81,7 +81,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -99,7 +99,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -154,324 +154,325 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 VW
-Golf VI 2.0 TSI GTI Edition 35 DSG
-CHF 22'500
-ab CHF 242/Monat
-07.2011
-Automat
-67'300 km
+Bay Window Bus
+CHF 26'500
+ab CHF 285/Monat
+07.1972
+Handschaltung
+13'920 km
 Benzin
-Vorderradantrieb
+Hinterradantrieb
 rot
-235 PS
+-
+GE
+Merken
+VW
+Bay Window Bus
+07.1972
+-
+13'920 km
+CHF 26'500
+Merken
+ab CHF 285/Monat
+NEU
+VW
+Tiguan 2.0 TDI SCR Comfortline DSG
+CHF 19'500
+ab CHF 210/Monat
+08.2016
+Automat
+126'500 km
+Diesel
+-
+silber
+150 PS
 VD
 Merken
 VW
-Golf VI 2.0 TSI GTI Edition 35 DS...
-07.2011
-235 PS
-67'300 km
-CHF 22'500
+Tiguan 2.0 TDI SCR Comfortline DS...
+08.2016
+150 PS
+126'500 km
+CHF 19'500
 Merken
-ab CHF 242/Monat
-NEU
+ab CHF 210/Monat
 VW
-Typ 2
-CHF 34'900
-ab CHF 375/Monat
-05.1981
-Handschaltung
-201'744 km
-Benzin
-Hinterradantrieb
-violett
-70 PS
-FR
-Merken
-VW
-Typ 2
-05.1981
-70 PS
-201'744 km
-CHF 34'900
-Merken
-ab CHF 375/Monat
-NEU
-VW
-Golf Sportsvan 1.5 TSI EVO Highline DSG
-CHF 27'700
-ab CHF 327/Monat
-01.2021
+Käfer 11-1300
+CHF 19'800
+ab CHF 213/Monat
+01.1972
 Automat
-10 km
-Benzin
-Vorderradantrieb
-silber
-150 PS
-ZH
-Merken
-VW
-Golf Sportsvan 1.5 TSI EVO Highli...
-01.2021
-150 PS
-10 km
-CHF 27'700
-Merken
-ab CHF 327/Monat
-NEU
-VW
-Up 1.0 MPI Black Style
-CHF 15'700
-ab CHF 185/Monat
-01.2021
-Handschaltung
-10 km
-Benzin
-Vorderradantrieb
-weiss
-60 PS
-ZH
-Merken
-VW
-Up 1.0 MPI Black Style
-01.2021
-60 PS
-10 km
-CHF 15'700
-Merken
-ab CHF 185/Monat
-NEU
-VW
-POLO 1.0 TSI Highline Black Style
-CHF 18'800
-ab CHF 222/Monat
-07.2020
-Handschaltung
-8'000 km
-Benzin
-Vorderradantrieb
-weiss
-95 PS
-ZH
-Merken
-VW
-POLO 1.0 TSI Highline Black Style
-07.2020
-95 PS
-8'000 km
-CHF 18'800
-Merken
-ab CHF 222/Monat
-NEU
-VW
-GOLF 8 1.5 eTSI Style NAV LED ACC RFK PDC SHZ
-CHF 29'400
-ab CHF 347/Monat
-01.2021
-Automat
-10 km
-Mild-Hybrid Benzin/Elektro
-Vorderradantrieb
-schwarz
-150 PS
-ZH
-Merken
-VW
-GOLF 8 1.5 eTSI Style NAV LED ACC...
-01.2021
-150 PS
-10 km
-CHF 29'400
-Merken
-ab CHF 347/Monat
-NEU
-VW
-T-ROC 2.0 TSI R 4Motion AHK NAV 301HP
-CHF 40'700
-ab CHF 480/Monat
-07.2020
-Automat
-13'000 km
-Benzin
-Allradantrieb
-schwarz
-301 PS
-ZH
-Merken
-VW
-T-ROC 2.0 TSI R 4Motion AHK NAV 3...
-07.2020
-301 PS
-13'000 km
-CHF 40'700
-Merken
-ab CHF 480/Monat
-VW
-Buggy Albar
-CHF 18'900
-ab CHF 203/Monat
-07.1968
-Handschaltung
-5'800 km
+79'650 km
 Benzin
 Hinterradantrieb
 blau
-57 PS
+44 PS
+SG
+Merken
+VW
+Käfer 11-1300
+01.1972
+44 PS
+79'650 km
+CHF 19'800
+Merken
+ab CHF 213/Monat
+VW
+Golf 2.0 TSI GTI DSG NEW MODELL Aut.
+CHF 44'900
+ab CHF 483/Monat
+01.2021
+Automat
+8'150 km
+Benzin
+Vorderradantrieb
+weiss
+245 PS
+AG
+Merken
+VW
+Golf 2.0 TSI GTI DSG NEW MODELL A...
+01.2021
+245 PS
+8'150 km
+CHF 44'900
+Merken
+ab CHF 483/Monat
+VW
+e-Up 1.9% Leasing Style-Pack 2021 5 Jahre Werksgarantie
+CHF 23'900
+ab CHF 257/Monat
+-
+-
+1 km
+Elektro
+Vorderradantrieb
+weiss
+82 PS
+AG
+Merken
+VW
+e-Up 1.9% Leasing Style-Pack 2021...
+-
+82 PS
+1 km
+CHF 23'900
+Merken
+ab CHF 257/Monat
+VW
+Golf VI 1.6 TDI CR Comfortline
+CHF 7'900
+ab CHF 89/Monat
+06.2010
+Handschaltung
+81'000 km
+Diesel
+Vorderradantrieb
+grau
+105 PS
+GE
+Merken
+VW
+Golf VI 1.6 TDI CR Comfortline
+06.2010
+105 PS
+81'000 km
+CHF 7'900
+Merken
+ab CHF 89/Monat
+VW
+Golf VI 1.4 TSI 160 Highline
+CHF 10'000
+ab CHF 113/Monat
+07.2012
+Handschaltung
+137'000 km
+Benzin
+Vorderradantrieb
+schwarz
+160 PS
 FR
 Merken
 VW
-Buggy Albar
-07.1968
-57 PS
-5'800 km
-CHF 18'900
+Golf VI 1.4 TSI 160 Highline
+07.2012
+160 PS
+137'000 km
+CHF 10'000
 Merken
-ab CHF 203/Monat
+ab CHF 113/Monat
 VW
-3VD191M
-CHF 18'950
-ab CHF 204/Monat
-11.2000
+T3 Typ 2 Campingbus
+CHF 24'900
+ab CHF 268/Monat
+06.1985
 Handschaltung
-309'100 km
+60'000 km
+Benzin
+Vorderradantrieb
+rot
+102 PS
+BE
+Merken
+VW
+T3 Typ 2 Campingbus
+06.1985
+102 PS
+60'000 km
+CHF 24'900
+Merken
+ab CHF 268/Monat
+VW
+T-ROC 1.5TSI EVO Sport R-Line
+CHF 34'300
+ab CHF 404/Monat
+-
+Automat
+10 km
+Benzin
+Vorderradantrieb
+schwarz
+150 PS
+ZH
+Merken
+VW
+T-ROC 1.5TSI EVO Sport R-Line
+-
+150 PS
+10 km
+CHF 34'300
+Merken
+ab CHF 404/Monat
+VW
+Tiguan 2.0 TDI BMT Sport & Style
+CHF 14'000
+ab CHF 151/Monat
+06.2014
+Handschaltung
+143'500 km
 Diesel
 Allradantrieb
+weiss
+140 PS
+GE
+Merken
+VW
+Tiguan 2.0 TDI BMT Sport & Style
+06.2014
+140 PS
+143'500 km
+CHF 14'000
+Merken
+ab CHF 151/Monat
+VW
+TIGUAN 2.0TSI 4Motion IQ.Drive R- Line
+CHF 37'700
+ab CHF 444/Monat
+11.2019
+Automat
+25'000 km
+Benzin
+Allradantrieb
+schwarz
+190 PS
+ZH
+Merken
+VW
+TIGUAN 2.0TSI 4Motion IQ.Drive R-...
+11.2019
+190 PS
+25'000 km
+CHF 37'700
+Merken
+ab CHF 444/Monat
+VW
+T4 2.5 Hochraum Syncro Camper
+CHF 16'000
+ab CHF 172/Monat
+08.2003
+Handschaltung
+183'225 km
+Benzin
+Allradantrieb
+orange
+-
+GE
+Merken
+VW
+T4 2.5 Hochraum Syncro Camper
+08.2003
+-
+183'225 km
+CHF 16'000
+Merken
+ab CHF 172/Monat
+VW
+T4
+Syncro
+2.5TDI
+CHF 14'900
+ab CHF 161/Monat
+06.2000
+Handschaltung
+309'025 km
+Diesel
+Vorderradantrieb
 blau
 102 PS
 GR
 Merken
 VW
-3VD191M
-11.2000
+T4
+Syncro
+2.5TDI
+06.2000
 102 PS
-309'100 km
-CHF 18'950
+309'025 km
+CHF 14'900
 Merken
-ab CHF 204/Monat
+ab CHF 161/Monat
 VW
-T5 Multivan 2.5 TDI (Bus)
-CHF 15'000
-ab CHF 162/Monat
-08.2003
-Handschaltung
-380'000 km
-Diesel
-Vorderradantrieb
-grau
-174 PS
-VD
-Merken
-VW
-T5 Multivan 2.5 TDI (Bus)
-08.2003
-174 PS
-380'000 km
-CHF 15'000
-Merken
-ab CHF 162/Monat
-VW
-Polo 2.0 TSI GTI DSG
-CHF 30'000
-ab CHF 323/Monat
-01.2020
+Amarok 3.0 TDI Highline Pick-Up
+CHF 63'000
+ab CHF 677/Monat
+08.2018
 Automat
-19'000 km
-Benzin
-Vorderradantrieb
-rot
-200 PS
-VD
-Merken
-VW
-Polo 2.0 TSI GTI DSG
-01.2020
-200 PS
-19'000 km
-CHF 30'000
-Merken
-ab CHF 323/Monat
-VW
-Golf IV 3.2 V6 R32 4motion
-CHF 28'880
-ab CHF 311/Monat
-08.2003
-Handschaltung
-121'000 km
-Benzin
+25'000 km
+Diesel
 Allradantrieb
 schwarz
-240 PS
-ZH
-Merken
-VW
-Golf IV 3.2 V6 R32 4motion
-08.2003
-240 PS
-121'000 km
-CHF 28'880
-Merken
-ab CHF 311/Monat
-VW
-Golf 1.4 Trendline
-CHF 3'300
-02.2008
-Handschaltung
-171'000 km
-Benzin
-Vorderradantrieb
-schwarz
-80 PS
-ZH
-Merken
-VW
-Golf 1.4 Trendline
-02.2008
-80 PS
-171'000 km
-CHF 3'300
-Merken
-VW
-Golf VII Sportsvan 1.4 TSI 150 Comfortline DSG
-CHF 13'000
-ab CHF 140/Monat
-07.2014
-Automat
-128'000 km
-Benzin
-Vorderradantrieb
-grau
-150 PS
-GE
-Merken
-VW
-Golf VII Sportsvan 1.4 TSI 150 Co...
-07.2014
-150 PS
-128'000 km
-CHF 13'000
-Merken
-ab CHF 140/Monat
-VW
-T-Cross 1.0 TSI 115 Life DSG
-CHF 28'500
-ab CHF 307/Monat
-07.2019
-Automat
-38'000 km
-Benzin
-Vorderradantrieb
-weiss
-115 PS
+224 PS
 VS
 Merken
 VW
-T-Cross 1.0 TSI 115 Life DSG
-07.2019
-115 PS
-38'000 km
-CHF 28'500
+Amarok 3.0 TDI Highline Pick-Up
+08.2018
+224 PS
+25'000 km
+CHF 63'000
 Merken
-ab CHF 307/Monat
+ab CHF 677/Monat
+VW
+Käfer 1300
+CHF 22'500
+ab CHF 242/Monat
+06.1973
+Handschaltung
+90'000 km
+Benzin
+Hinterradantrieb
+gold
+50 PS
+LU
+Merken
+VW
+Käfer 1300
+06.1973
+50 PS
+90'000 km
+CHF 22'500
+Merken
+ab CHF 242/Monat
 1
 1
 2
@@ -530,6 +531,7 @@ VW SCIROCCO
 VW SHARAN
 VW T-Cross
 VW T-ROC
+VW T2
 VW T3
 VW T4
 VW T5

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-villmergen/
 Title: Wohnung & Haus mieten in Villmergen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Villmergen - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Villmergen - Immostreet.ch: ImmoStreet.ch hat 10 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-18 Resultate gefunden ·
+10 Resultate gefunden ·
 Wohnung & Haus mieten in Villmergen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,116 +152,139 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Alte Poststrasse 1
-1'680
+Bierkellerweg 2
+1'280
 CHF
 /Monat
-Grosszügige 3.5-Zimmerwohnung im 3. Obe…
-Alte Poststrasse 1, 5612 Villmergen
+3.5 Zimmer-Wohnung zu Vermieten per 01.…
+Bierkellerweg 2, 5612 Villmergen
 Array
 3.5 Zimmer
-90 m2
+80 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-90 m2
-Per 1. September 2021 oder nach Vereinbarung vermieten wir diese 3.5- Zimmerwohnung im 3. OG:
+80 m2
+An der Bierkellerweg 2 in Villmergen, in der nähe von Coop, vermieten wir per 01.10.2021Mod…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Oberdorfstrasse 7 (Haus A)
-1'950
+Eichmattstrasse 36
+1'810
 CHF
 /Monat
-Suchen Sie ein neues Zuhause?
-Oberdorfstrasse 7 (Haus A), 5612 Villmergen
+Attikawohnung mit zwei grosszügigen Ter…
+Eichmattstrasse 36, 5612 Villmergen
+Array
+2.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+2.5
+Wohnfläche
+77 m2
+In der Überbauung Eichmatt, welche mitten im grünen und doch zentral liegt, vermieten wir per 11.11…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Anglikerstrasse 52
+1'750
+CHF
+/Monat
+Erste gemeinsame Wohnung? Hier sind Sie…
+Anglikerstrasse 52, 5612 Villmergen
+Array
+3.5 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+78 m2
+In einem schönen Wohnquartier vermieten wir per 01.10.2021 oder nach Vereinbarung eine helle und mo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Anglikerstrasse 48
+1'900
+CHF
+/Monat
+Familientraum in Villmergen
+Anglikerstrasse 48, 5612 Villmergen
 Array
 4.5 Zimmer
-107 m2
+110 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-107 m2
-Wir vermieten per 1. September 2021 oder n.V. diese schöne 4.5-Zimmer-Gartenwohnung, welche sich mi…
+110 m2
+In einem schönen Wohnquartier vermieten wir per 01.10.2021 oder nach Vereinbarung eine helle und mo…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Dorfmattenstrasse 34
-1'110
+Klappergasse 25
+1'614
 CHF
 /Monat
-Gemütliche und sonnige Dachwohnung in V…
-Dorfmattenstrasse 34, 5612 Villmergen
+Schöne 4 - Zimmerwohnung mit Essküche
+Klappergasse 25, 5612 Villmergen
 Array
-2.5 Zimmer
-60 m2
+4.5 Zimmer
+77 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+4.5
 Wohnfläche
-60 m2
-Wir vermieten per sofort oder nach Vereinbarung eine sehr gemütliche Dachwohnung an der Dorfmattens…
+77 m2
+Die schöne und helle 4.5-Zimmerwohnung befindet sich zwischen dem Zentrum und dem Wald von Villmerg…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Wohlerstr. 11
-75
+Anglikerstrasse 31
+2'180
 CHF
 /Monat
-Bastelraum in Villmergen!
-Wohlerstr. 11, 5612 Villmergen
-Array
-Objekttyp
-Atelier
-An zentraler Lage in Villmergen vermieten wir ab sofort oder nach Vereinbarung einen ca. 9 m² Bast…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Anglikerstrasse 58
-2'190
-CHF
-/Monat
-Die perfekte Familienwohnung - modern u…
-Anglikerstrasse 58, 5612 Villmergen
+die perfekte Familienwohnung!
+Anglikerstrasse 31, 5612 Villmergen
 Array
 5.5 Zimmer
-127 m2
+124 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 5.5
 Wohnfläche
-127 m2
-Die Wohnüberbauung Greenpark hält was der Name verspricht: Eine grüne, familienfreundliche Wohnoase…
+124 m2
+einige Highlights zur dieser grosszügigen und familienfreundlichen Wohnung:- helle offene Küche mit…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Im Tannwinkel 4
-1'760
+Bodenackerweg 13
+890
 CHF
 /Monat
-Mieten ohne Kaution - Platz für die gan…
-Im Tannwinkel 4, 5612 Villmergen
+Grosses Zimmer mit eigenem Bad in Wohng…
+Bodenackerweg 13, 5612 Villmergen
 Array
-4.5 Zimmer
-106 m2
+50 m2
 Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
+Wohnung, Einzelzimmer
 Wohnfläche
-106 m2
-Wir vermieten per 1. August 2021 oder nach Vereinbarung eine attraktive 4½-Zimmer-Wohnung. Die Wohn…
+50 m2
+Ich suche für meine Grossmuter (80 Jahre) eine/n Mitbewohner/in, da sie in einem riesigen Haus lebt…
 Teilen
 E-Mail
 Facebook
@@ -286,78 +309,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-2'600
-CHF
-/Monat
-EFH zu vermieten
-Adresse auf Anfrage, 5612 Villmergen
-Array
-5.5 Zimmer
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Komplette sanierte Einfamilienhaus zu vermieten-Total neu saniert,alle Zimmer mit Parket Korridor K…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alte Bahnhofstrasse 46
-1'295
-CHF
-/Monat
-An 1.7. oder nach Vereinbarung zu vermi…
-Alte Bahnhofstrasse 46, 5612 Villmergen
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wir vermieten 1.7. oder nach Vereinbarung eine schöne,
-helle 3-Zimmer-Wohnung im 1.OG in sanierte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mitteldorfstrasse 4
-1'690
-CHF
-/Monat
-Dieser aussergewöhnliche Grundriss wird…
-Mitteldorfstrasse 4, 5612 Villmergen
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Die Liegenschaft liegt im Zentrum von Villmergen. Den öffentlichen Verkehr sowie diverse Einkaufsmö…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alte Poststrasse 1 C
-1'950
-CHF
-/Monat
-4.5 Zimmer-Wohnung
-Alte Poststrasse 1 C, 5612 Villmergen
-Array
-4.5 Zimmer
-118 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-118 m2
-Per 1. September 2021 vermieten wir eine grosszügige 4.5 Zimmer.Wohnung im 1. Stock: - Eingangsbere…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Eichmattstrasse 28
 1'870
 CHF
@@ -374,95 +325,6 @@ Zimmer
 Wohnfläche
 104 m2
 Diese Liegenschaft punktet mit seiner ruhigen Lage am Ortsrand. Die sonnigen Balkone und Gartensitz…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'690
-CHF
-/Monat
-Neubau Wohnung per sofort zu vergeben
-Adresse auf Anfrage, 5612 Villmergen
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-3.5 Zimmer Neubauwohnung im 1. OG per sofort zu vergeben.Garagenplatz kostet 130 CHF Pro MonatDie W…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfplatz 9
-1'530
-CHF
-/Monat
-Eigene vier Wände zu vergeben
-Dorfplatz 9, 5612 Villmergen
-Array
-3.5 Zimmer
-82 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-82 m2
-Nach Vereinbarung vermieten wir eine 3.5 Zimmerwohnung im 3. Obergeschoss. Die Wohnung verfügt über…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lodeleweg11
-1'350
-CHF
-/Monat
-3.5 Zimmerwohnung in Villmergen
-Lodeleweg11, 5612 Villmergen
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Zu vermieten 1.7.21 oder Vereinbarung in Villmergen am Lodeleweg 3.5 Zimmerwohnung 1.Stock mit Balk…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unterdorfstrasse 3/5
-1'830
-CHF
-/Monat
-Schöne 4.5 Zimmer Wohnung mit Balkon un…
-Unterdorfstrasse 3/5, 5612 Villmergen
-Array
-96 m2
-Objekttyp
-Wohnung, Flach
-Wohnfläche
-96 m2
-Die frisch renovierte 4.5 Zimmer Wohnung liegt in idealer Zentrallage nah Kindergarten, Schule und …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rietenbergweg 1
-1'290
-CHF
-/Monat
-Schöne 3- Zimmerwohnung in Villmergen
-Rietenbergweg 1, 5612 Villmergen
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Suchen Sie ein neues Zuhause?
-Am Rietenbergweg 1 in Villmergen vermieten wir diese tolle 3- Zimmer…
 Teilen
 E-Mail
 Facebook

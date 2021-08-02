@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-uster/
 Title: Haus kaufen in Bezirk Uster - Immostreet.ch
-Description: Haus kaufen in Bezirk Uster - Immostreet.ch: ImmoStreet.ch hat 28 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Uster - Immostreet.ch: ImmoStreet.ch hat 21 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-28 Resultate gefunden ·
+21 Resultate gefunden ·
 Haus kaufen in Bezirk Uster
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,348 +138,94 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Emdwiesenstrasse 10A
-1'750'000
+Adresse auf Anfrage
+2'250'000
 CHF
-5.5 Zimmer Doppel-Einfamilienhaushälfte…
-Emdwiesenstrasse 10A, 8610 Uster
+Idillysches Einfamilienhaus mit viel Um…
+Adresse auf Anfrage, 8605 Gutenswil
+Array
+Objekttyp
+Wohnung, Einzelhaus
+Ein idyllisches Einfamilienhaus mit viel Platz an einer sehr ruhigen Lage. Das Haus befindet sich i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+3'150'000
+CHF
+Neubauprojekt Chloe - Wohnen auf der Fo…
+Adresse auf Anfrage, 8127 Forch
 Array
 5.5 Zimmer
-204 m2
+194 m2
 Objekttyp
 Wohnung, Doppeleinfamilienhaus
 Zimmer
 5.5
 Wohnfläche
-204 m2
-5.5-Zimmer Doppel-Einfamilienhaushälfte mit gepflegtem GartenDie im Jahre 1992 erbaute 5.5-Zimmer-D…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Idyllisches Einfamilienhaus an sonniger…
-Adresse auf Anfrage, 8617 Mönchaltorf
-Array
-4.5 Zimmer
-123 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-123 m2
-Welcome Home! Hier wartet ein schöner, freistehender Bungalow mit Baujahr 1980 auf glückliche Eigen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'600'000
-CHF
-Schönes, Modern renoviertes einseitig a…
-Adresse auf Anfrage, 8600 Dübendorf
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-120 m2
+194 m2
 Etage
-Schönes, Modern renoviertes, einseitig angebautes 1 Familienhaus, nähe Innovationspark, Bahnhof, Ei…
+DoppeleinfamilienhausDas exklusive Neubauprojekt mit seinen attraktiven Eigentumswohnungen und Dopp…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-4'900'000
+Schützenweg, 33
+3'100'000
 CHF
-Idyllisches Anwesen
-Adresse auf Anfrage, 8617 Mönchaltorf
-Array
-9 Zimmer
-465 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-9
-Wohnfläche
-465 m2
-Etage
-Idyllisches Anwesen - Grosses Landhaus mit weitläufigem UmschwungDas ursprünglich um 1830 erbaute W…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'420'000
-CHF
-Alleinstehendes EFH in Egg bei Zürich
-Adresse auf Anfrage, 8132 Egg b. Zürich
-Array
-6.5 Zimmer
-146 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-146 m2
-Etage
-Geräumiges Einfamilienhaus (6.5 Zimmer) mit gedecktem Sitzplatz und separatem GartenhäuschenDas im …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seewisenstrasse 17
-1'975'000
-CHF
-Traumhaus für Naturliebhaber
-Seewisenstrasse 17, 8132 Egg b. Zürich
-Array
-6.5 Zimmer
-195 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-195 m2
-Etage
-Nach einem langen Tag draussen sitzen, zurücklehnen, die herrliche Sicht in die umliegende Natur un…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'450'000
-CHF
-Am grünen Rand von Dübendorf
-Adresse auf Anfrage, 8600 Dübendorf
-Array
-180 m2
-Objekttyp
-Wohnung, Einzelhaus
-Wohnfläche
-180 m2
-An ruhiger, naturnaher Lage am Stadrand von Dübendorf verkaufen wir dieses exklusive 6½ Zimmer Einf…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Aschbach 1
-5'850'000
-CHF
-LEBEN IM PARK BUR 30 MINUTEN VON ZÜRICH
-Aschbach 1, 8124 Maur
-Array
-9 Zimmer
-220 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-9
-Wohnfläche
-220 m2
-Etwas ausserhalb des Dorfes Maur, am südlichen Ufer des Greifensees, liegt dieses sehr beeindrucken…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grossenacherstrasse 19B
-1'250'000
-CHF
-Tolle Gelegenheit für Jungfamilien - mi…
-Grossenacherstrasse 19B, 8605 Gutenswil
-Array
-5.5 Zimmer
-136 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-136 m2
-Das schmucke 5.5 Zimmer-Reiheneinfamilienhaus befindet sich in einem ruhigen und familienfreundlich…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'850'000
-CHF
-Ein Traum für die Familie
-Adresse auf Anfrage, 8123 Ebmatingen
+Ein grosszügiges Eck-Reihenhaus zu verk…
+Schützenweg, 33, 8604 Volketswil
 Array
 7.5 Zimmer
-200 m2
+280 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Reihenfamilienhaus
 Zimmer
 7.5
 Wohnfläche
-200 m2
-Etage
-An diesem wunderschönen Ort, in einem ruhigen und sehr kinderfreundlichen Wohnquartier, finden Sie …
+280 m2
+An grüner ruhiger Lage ein grosszügiges, teilmöbliertes 7.5-Zimmer Eck-Reihenhaus mit eigenem Spiel…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Huzlenstrasse 12
-1'875'000
-CHF
-Wohnen im charmanten Einfamilienhausqua…
-Huzlenstrasse 12, 8604 Volketswil
-Array
-6.5 Zimmer
-190 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-6.5
-Wohnfläche
-190 m2
-Etage
-Projekt:
-Im gepflegten Huzlen-Quartier an erhöhter, sonniger und ruhiger Lage entstehen ein Doppel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Huzlenstrasse 12
-1'905'000
-CHF
-Wohnen im charmanten Einfamilienhausqua…
-Huzlenstrasse 12, 8604 Volketswil
-Array
-6.5 Zimmer
-190 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-6.5
-Wohnfläche
-190 m2
-Etage
-Projekt:
-Im gepflegten Huzlen-Quartier an erhöhter, sonniger und ruhiger Lage entstehen ein Doppel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'350'000
-CHF
-Charmantes Einfamilienhaus in Dübendorf…
-Adresse auf Anfrage, 8600 Dübendorf
-Array
-4.5 Zimmer
-121 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-121 m2
-Der Traum vom Häuschen auf dem Land mit verwunschenem Garten gleich vor den Toren Zürichs erfüllt s…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-6'000'000
-CHF
-EIN PARKANWESEN DER BESONDEREN ART FÜR …
-Adresse auf Anfrage, 8124 Maur
-Array
-9 Zimmer
-220 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-9
-Wohnfläche
-220 m2
-Etwas ausserhalb des Dorfes Maur, am südlichen Ufer des Greifensees, liegt dieses sehr beeindrucken…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Usser-Vollikon 10
+Zelgstrasse 63
 1'390'000
 CHF
-Geräumiges, saniertes und einseitig ang…
-Usser-Vollikon 10, 8132 Egg b. Zürich
+Reiheneinfamilienhaus Uster
+Zelgstrasse 63, 8610 Uster
 Array
-6.5 Zimmer
-171 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-171 m2
-Das im Jahre 1874 erstellte und im Herbst 2015 komplett umgebaute sowie gesamtsanierte 6.5-Zimmer-E…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'850'000
-CHF
-Ein Traum für Familie
-Adresse auf Anfrage, 8123 Ebmatingen
-Array
-8 Zimmer
-200 m2
+5.5 Zimmer
+150 m2
 Objekttyp
 Wohnung, Reihenfamilienhaus
 Zimmer
-8
+5.5
 Wohnfläche
-200 m2
+150 m2
 Etage
-Das geräumige Reiheneinfamilienhaus liegt in einem verkehrsruhigen Einfamilienhausquartier am Waldr…
+An ruhiger Lage in Uster verkaufen wir ein 5.5 Zimmer Einfamilienhaus in einem familienfreundlichen…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-2'850'000
+Rebenweg 34
+2'450'000
 CHF
-Grosszügiges Wohnen an bester Lage
-Adresse auf Anfrage, 8610 Uster
-Array
-9 Zimmer
-270 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-9
-Wohnfläche
-270 m2
-Wir bieten Ihnen eine traumhafte Liegenschaft, unweit der pulsierenden Stadt Zürich mit unverbaubar…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Pfaffhausen
-2'595'000
-CHF
-Neubau: Attraktives, sowie hochwertiges…
-Pfaffhausen, 8118 Pfaffhausen
+5 1/2-Zi Einfamilienhaus plus Einlieger…
+Rebenweg 34, 8132 Egg b. Zürich
 Array
 5.5 Zimmer
+203 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
 5.5
+Wohnfläche
+203 m2
 Etage
-Freistehendes, attraktives und hochwertiges 5 .5 Zimmer Einfamilienhaus (Neubau),nahe dem Wald gele…
+Das freistehende Einfamilienhaus, umgeben von einer grosszügigen Gartenanlage und schöner Bepflanzu…
 Teilen
 E-Mail
 Facebook
@@ -504,22 +250,266 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-2'400'000
+Dübendorf
+1'250'000
 CHF
-Moderne trifft auf Bauernhausidylle
-Adresse auf Anfrage, 8605 Gutenswil
+Charmantes Chalet auf grosszügigem Grun…
+Dübendorf, 8600 Dübendorf
 Array
-7 Zimmer
-254 m2
+5 Zimmer
+100 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-7
+5
 Wohnfläche
-254 m2
+100 m2
+Dieses einzigartige Bijoux überzeugt nicht nur durch seinen natürlichen Charme, sondern genauso dur…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'450'000
+CHF
+Am grünen Rand von Dübendorf
+Adresse auf Anfrage, 8600 Dübendorf
+Array
+180 m2
+Objekttyp
+Wohnung, Einzelhaus
+Wohnfläche
+180 m2
+An ruhiger, naturnaher Lage am Stadrand von Dübendorf verkaufen wir dieses exklusive 6½ Zimmer Einf…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ebmatingen
+1'590'000
+CHF
+7.5 Zimmer Doppelhaushälfte mit grosszü…
+Ebmatingen, 8123 Ebmatingen
+Array
+7.5 Zimmer
+175 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+7.5
+Wohnfläche
+175 m2
+Diese Liegenschaft ist hervorragend geeignet für Familien, die eine ruhige und zentrale Lage schätz…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gernweg 6
+840'000
+CHF
+Doppeleinfamilienhaus im ruhigen Einfam…
+Gernweg 6, 8610 Uster
+Array
+4 Zimmer
+95 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+4
+Wohnfläche
+95 m2
 Etage
-Haben Sie einmal geträumt, in einem fast 200-jährigen, aber doch geräumigen und stattlichen Bauernh…
+Im ruhigen Einfamilienhausquartier verkaufen wir dieses charmante 4-Zimmer-Doppeleinfamilienhaus mi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gernweg 8
+840'000
+CHF
+Doppeleinfamilienhaus im ruhigen Einfam…
+Gernweg 8, 8610 Uster
+Array
+4 Zimmer
+95 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+4
+Wohnfläche
+95 m2
+Etage
+Im ruhigen Einfamilienhausquartier verkaufen wir dieses charmante 4-Zimmer-Doppeleinfamilienhaus mi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'880'000
+CHF
+Home Sweet Familyhome
+Adresse auf Anfrage, 8615 Wermatswil
+Array
+6.5 Zimmer
+153 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+6.5
+Wohnfläche
+153 m2
+Ein Wohnparadies für Gross und Klein mit bestem Preis-Leistungsverhältnis: Dieses Einfamilienhaus l…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'600'000
+CHF
+Schönes, Modern renoviertes einseitig a…
+Adresse auf Anfrage, 8600 Dübendorf
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Etage
+Schönes, Modern renoviertes, einseitig angebautes 1 Familienhaus, nähe Innovationspark, Bahnhof, Ei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aschbach 1
+5'850'000
+CHF
+LEBEN IM PARK NUR 30 MINUTEN VON ZÜRICH
+Aschbach 1, 8124 Maur
+Array
+9 Zimmer
+220 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+9
+Wohnfläche
+220 m2
+Etwas ausserhalb des Dorfes Maur, am südlichen Ufer des Greifensees, liegt dieses sehr beeindrucken…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Huzlenstrasse 12
+Preis auf Anfrage
+Wohnen im charmanten Einfamilienhausqua…
+Huzlenstrasse 12, 8604 Volketswil
+Array
+6.5 Zimmer
+190 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+6.5
+Wohnfläche
+190 m2
+Etage
+Projekt:
+Im gepflegten Huzlen-Quartier an erhöhter, sonniger und ruhiger Lage entstehen ein Doppel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+6'000'000
+CHF
+EIN PARKANWESEN DER BESONDEREN ART FÜR …
+Adresse auf Anfrage, 8124 Maur
+Array
+9 Zimmer
+220 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+9
+Wohnfläche
+220 m2
+Etwas ausserhalb des Dorfes Maur, am südlichen Ufer des Greifensees, liegt dieses sehr beeindrucken…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'700'000
+CHF
+Grosszügiges Wohnen an bester Lage
+Adresse auf Anfrage, 8610 Uster
+Array
+9 Zimmer
+270 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+9
+Wohnfläche
+270 m2
+Wir bieten Ihnen eine traumhafte Liegenschaft, unweit der pulsierenden Stadt Zürich mit unverbaubar…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fohlenweidstrasse 47
+2'700'000
+CHF
+Grosszügiges Wohnen an bester Lage
+Fohlenweidstrasse 47, 8615 Wermatswil
+Array
+9 Zimmer
+270 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+9
+Wohnfläche
+270 m2
+Wir bieten Ihnen eine traumhafte Liegenschaft, unweit der pulsierenden Stadt Zürich mit unverbaubar…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Böszelgstrasse 14
+Preis auf Anfrage
+Ein herrschaftliches Landhaus an bester…
+Böszelgstrasse 14, 8600 Dübendorf
+Array
+8 Zimmer
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+8
+Etage
+Dieses herrschaftliche Landhaus auf einem aussergewöhnlich grossen Grundstück befindet sich an eine…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+4'800'000
+CHF
+Familienhaus an toller Panoramalage in …
+Adresse auf Anfrage, 8610 Uster
+Array
+7.5 Zimmer
+282 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+7.5
+Wohnfläche
+282 m2
+Eine traumhafte Sonnenterrasse, unverbaubare Sicht, eine exklusive Architektur mit klaren Linien - …
 Teilen
 E-Mail
 Facebook

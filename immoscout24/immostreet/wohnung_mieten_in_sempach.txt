@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-sempach/
 Title: Wohnung mieten in Sempach - Immostreet.ch
-Description: Wohnung mieten in  Sempach - Immostreet.ch: ImmoStreet.ch hat 9 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Sempach - Immostreet.ch: ImmoStreet.ch hat 8 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-9 Resultate gefunden ·
+8 Resultate gefunden ·
 Wohnung mieten in Sempach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,22 +131,63 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Seerose 4
-1'610
+Grünhalde 3
+1'560
 CHF
 /Monat
-3.5-Zimmerwohnung, Nähe zu See und Natur
-Seerose 4, 6204 Sempach
+See und Städtli in unmittelbarer Nähe
+Grünhalde 3, 6204 Sempach
+Array
+4.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+90 m2
+Ihre Lage-VorteileSempach bietet mit seinen vielen Einkaufs-, Verweilungs- und Freizeitmöglichkeite…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hubelweid 1
+2'350
+CHF
+/Monat
+Familienfreundliche Maisonettewohnung a…
+Hubelweid 1, 6204 Sempach
+Array
+6.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+6.5
+Wohnfläche
+150 m2
+Etage
+Sie suchen eine grosszügigen Wohnung mit Charme und tollem Weitblick? Diese helle 6 ½-Zimmer-Maison…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mattweid 28
+1'550
+CHF
+/Monat
+Wohnen in der Nähe vom Sempachersee
+Mattweid 28, 6204 Sempach
 Array
 3.5 Zimmer
-97 m2
+69 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-97 m2
-Grosszügige Grünflächen, Nähe zu See und Natur, Einkaufen und der ÖV direkt vor der Haustüre, all d…
+69 m2
+Sie suchen eine Wohnung in grüner Umgebung? Wir vermieten per 1. September 2021 eine 3 ½-Zimmerwohn…
 Teilen
 E-Mail
 Facebook
@@ -191,23 +232,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Müligass 2
-1'710
-CHF
-/Monat
-5-Zimmer-Wohnung im Städtli Sempach
-Müligass 2, 6204 Sempach
-Array
-5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Nachmieter für schöne heimelige 5-Zimmer-Wohnung (EG) im Städtli Sempach gesucht. Wohnung hat einen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Grünhalde 4
 1'400
 CHF
@@ -224,48 +248,6 @@ Zimmer
 Wohnfläche
 90 m2
 Ihre Lage-VorteileSempach bietet mit seinen vielen Einkaufs-, Verweilungs- und Freizeitmöglichkeite…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kronengasse 1
-1'980
-CHF
-/Monat
-Exklusives Wohnerlebnis in Sempach
-Kronengasse 1, 6204 Sempach
-Array
-4 Zimmer
-103 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-103 m2
-Etage
-Wir vermieten per sofort oder nach Vereinbarung diese frisch sanierte 4-Zimmer-Altbau-Wohnung in Se…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stadtstrasse 2
-1'500
-CHF
-/Monat
-Schmucke Wohnung im Städtli Sempach
-Stadtstrasse 2, 6204 Sempach
-Array
-2 Zimmer
-47 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-47 m2
-Wohnen in Sempach
-Die beliebte Gemeinde Sempach überzeugt mit historischem Charme. Sempach ist mit…
 Teilen
 E-Mail
 Facebook

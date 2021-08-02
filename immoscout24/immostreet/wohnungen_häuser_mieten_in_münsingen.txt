@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-muensingen/
 Title: Wohnungen & Häuser mieten in Münsingen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Münsingen - Immostreet.ch: ImmoStreet.ch hat 57 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Münsingen - Immostreet.ch: ImmoStreet.ch hat 52 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-57 Resultate gefunden ·
+52 Resultate gefunden ·
 Wohnungen & Häuser mieten in Münsingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,53 +122,39 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Löwenmattweg 31
-1'220
+Zelgweg 1
+1'570
 CHF
 /Monat
-Wohnen mit Blick ins Grüne
-Löwenmattweg 31, 3110 Münsingen
+Moderne 4-Zimmer-Wohnung!
+Zelgweg 1, 3110 Münsingen
 Array
-3 Zimmer
+4 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
-Wir vermieten ab dem 1. August 2021 oder nach Vereinbarung diese heimelige 3-Zimmer-Wohnung mit fol…
+4
+Per 01. November 2021 vermieten wir eine 4-Zimmerwohnung im 1. OG. Die Wohnung verfügt über: - eine…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Löwenmattweg 31
-1'230
+Aeschistrasse 15
+1'540
 CHF
 /Monat
-gemütlich Wohnen!
-Löwenmattweg 31, 3110 Münsingen
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wir vermieten ab dem 1. August 2021 oder nach Vereinbarung diese heimelige 3-Zimmer-Wohnung mit fol…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Löwenmattweg 9
-1'370
-CHF
-/Monat
-3-Zimmer-Wohnung mit schönem Balkon!
-Löwenmattweg 9, 3110 Münsingen
+gemütliche Wohnung gesucht? 3.5-Zimmerw…
+Aeschistrasse 15, 3110 Münsingen
 Array
 3.5 Zimmer
+88 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Wir vermieten nach Vereinbarung eine 3-Zimmerwohnung. Die Wohnung im 1. Obergeschoss verfügt über: …
+Wohnfläche
+88 m2
+Wir vermieten per sofort oder nach Vereinbarung diese schöne 3-Zimmerwohnung, die Ihnen nebst der m…
 Teilen
 E-Mail
 Facebook
@@ -220,6 +206,80 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+Lindenweg 16a
+1'560
+CHF
+/Monat
+Die Wohnung, die Sie zum Einziehen rein…
+Lindenweg 16a, 3110 Münsingen
+Array
+3.5 Zimmer
+82 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+82 m2
+Wohnen Sie gerne in einem gepflegten Quartier? Dann werden Sie sich in dieser Wohnung bestimmt wohl…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schlossmatte 15
+1'620
+CHF
+/Monat
+Grüne Umgebung und gemütliche Wohnung |…
+Schlossmatte 15, 3110 Münsingen
+Array
+3.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+86 m2
+Die gepflegte Überbauung an der Schlossmatte 1-18 in Münsingen ist ruhig gelegen. Was die Wohnung I…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfmattweg 15 a
+1'460
+CHF
+/Monat
+3 1/2-Zimmerwohnung, Parterre links
+Dorfmattweg 15 a, 3110 Münsingen
+Array
+3.5 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+60 m2
+Die Liegenschaft befindet sich an ruhiger und sonniger Lage. In der Umgebung sind gute Verkehrsanbi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfmattweg 63f
+120
+CHF
+/Monat
+Freier Einstellhallenplatz im Giessenpa…
+Dorfmattweg 63f, 3110 Münsingen
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten einen Einstellhallenplatz im Giessenpark. Die Einfahrt befindet sich auf der Seite Do…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 Preis auf Anfrage
 ATTRAKTIVE NUTZUNGSMÖGLICHKEITEN
@@ -235,232 +295,203 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Aeschistrasse 6
-1'350
+Aarweg 6a
+1'390
 CHF
 /Monat
-3-Zimmerwohnung, 2. Stock links
-Aeschistrasse 6, 3110 Münsingen
+3-Zimmerwohnung, Parterre rechts
+Aarweg 6a, 3110 Münsingen
 Array
 3 Zimmer
-65 m2
+61 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3
 Wohnfläche
-65 m2
-Sonnige Lage - Einkaufsmöglichkeiten in der NäheHelle Wohnung mit attraktivem Grundriss - grosszügi…
+61 m2
+Die Liegenschaft befindet sich an sonniger, ruhiger, zentraler und kinderfreundlicher Lage am Bach.…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Brückreutiweg 102-106 EH
-100
+Bernstrasse 30a
+2'005
 CHF
 /Monat
-Hallenplatz Nr. 1
-Brückreutiweg 102-106 EH, 3110 Münsingen
-Array
-Objekttyp
-Tiefgarage
-sonnige und ruhige Lage - Einkaufsmöglichkeiten, öffentliche Verkehrsmittel und Schulen befinden si…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schlossmatte 10
-85
-CHF
-/Monat
-Bastelraum
-Schlossmatte 10, 3110 Münsingen
-Array
-Objekttyp
-Atelier
-An der Schlossmatte 10 in Münsingen vermieten wir einen Bastel- / Abstellraum. - im 1. UG- ca. 2 x …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonnhaldeweg 22
-1'640
-CHF
-/Monat
-4.5-Zimmerwohnung im Herzen von Münsing…
-Sonnhaldeweg 22, 3110 Münsingen
+IHRE Traumwohnung im schönen Münsingen
+Bernstrasse 30a, 3110 Münsingen
 Array
 4.5 Zimmer
-95 m2
+98 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-95 m2
-per 1. Juli 2021 oder nach Vereinbarung vermieten wir eine helle4.5-Zimmerwohnung, 1. OG rechts (oh…
+98 m2
+Per 01.10.2021 oder nach Vereinbarung vermieten wir eine 98m2 grosse 4.5-Zimmerwohnung im Erdgescho…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Zelgweg 5
-1'500
+Finkenweg 3
+2'080
 CHF
 /Monat
-3 1/2-Zimmerwohnung, 2. Stock links
-Zelgweg 5, 3110 Münsingen
+moderne 3.5-Zimmerwohnung an bester Lag…
+Finkenweg 3, 3110 Münsingen
 Array
 3.5 Zimmer
+95 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Die Liegenschaft liegt an sonniger und ruhiger Lage.neue, moderne Küche mit Glaskeramik und Geschir…
+Wohnfläche
+95 m2
+Diese schöne 3.5-Zimmerwohnung bietet Ihnen nebst den hellen Zimmern, den folgenden Ausbaustandard:…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Belpbergstrasse 24c
-2'155
+Adresse auf Anfrage
+1'750
 CHF
 /Monat
-ERSTVERMIETUNG: 2 1/2-Zimmer-Attikawohn…
-Belpbergstrasse 24c, 3110 Münsingen
+4 1/2 Zimmer Wohnung möbliert befristet
+Adresse auf Anfrage, 3110 Münsingen
+Array
+4.5 Zimmer
+93 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+93 m2
+Wir vermieten unsere schöne EG- Wohnung möbliert befristet von Oktober 21 bis März 22. Die Wohnung …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+400
+CHF
+/Monat
+Starten Sie jetzt durch
+Adresse auf Anfrage, 3110 Münsingen
+Array
+4 Zimmer
+16 m2
+Objekttyp
+Büro
+Zimmer
+4
+Wohnfläche
+16 m2
+Etage
+Dank der grosszügigen Flächen sind diese Räume individuell nutzbar, zudem bietet das Gebäude viele …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofplatz 1a
+1'785
+CHF
+/Monat
+Helle Wohnung im Zentrum
+Bahnhofplatz 1a, 3110 Münsingen
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Die LageDiese Wohnung könnte keinen besseren Standort haben. Sie brauchen nur die Strasse zu überqu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bernstrasse 24
+1'490
+CHF
+/Monat
+GROSSE 4-ZW in Münsingen
+Bernstrasse 24, 3110 Münsingen
+Array
+4 Zimmer
+124 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+124 m2
+Die Liegenschaft befindet sich an zentraler Lage in Münsingen.Wir vermieten in Münsingen eine sehr …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bernstrasse 30
+1'450
+CHF
+/Monat
+Wohlfühlmomente garantiert!
+Bernstrasse 30, 3110 Münsingen
 Array
 2.5 Zimmer
-62 m2
+65 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-62 m2
-Das neue Wohnquartier fällt auf durch seine schlicht gehaltene architektonische Qualität und die ha…
+65 m2
+Per 01.11.2021 oder nach Vereinbarung vermieten wir eine 65m2 grosse 2.5-Zimmerwohnung im Erdgescho…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Ahornweg 20
-1'942
+Walkestrasse 17
+2'759
 CHF
 /Monat
-Wunderschöne 4.5 Zimmer Wohnung zur Nac…
-Ahornweg 20, 3110 Münsingen
+6 1/2-Zimmer-Einfamilienhaus mit Doppel…
+Walkestrasse 17, 3110 Münsingen
 Array
-4.5 Zimmer
-108 m2
+6.5 Zimmer
+210 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Einzelhaus
 Zimmer
-4.5
+6.5
 Wohnfläche
-108 m2
-Wunderschöne Wohnung in Eigentumsstandard, eigene Waschküche mit Waschmaschine und Secomat. Grosser…
+210 m2
+ruhige und sonnige Lage, Nähe öVParkett-, Platten- und PVC-Böden - Küche mit Geschirrspüler, Glaske…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hohniesenweg 15
-1'360
+Thunstrasse 20
+1'810
 CHF
 /Monat
-Schöne 3.5-Zimmer-Wohnung im 2. Stock l…
-Hohniesenweg 15, 3110 Münsingen
+MODERN UND ZENTRAL
+Thunstrasse 20, 3110 Münsingen
 Array
-3.5 Zimmer
+2.5 Zimmer
+72 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
-Wir vermieten per 1. Juli 2021 oder nach Vereinbarung eine schöne 3.5-Zimmer-Wohnung im 2. Stock. …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fischerhaus Tiefgarage
-55
-CHF
-/Monat
-Ihr Motorrad sicher parkiert
-Fischerhaus Tiefgarage, 3110 Münsingen
-Array
-Objekttyp
-Covered parking place bike, Covered parking place bike
-Die LageDie Liegenschaft Fischerhaus könnte keinen besseren Standort haben. Sie brauchen nur die St…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zelgweg 5
-113
-CHF
-/Monat
-Hallenplatz Nr. 16
-Zelgweg 5, 3110 Münsingen
-Array
-Objekttyp
-Tiefgarage
-Die Liegenschaft liegt an sonniger und ruhiger Lage.
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Jungfrauweg 1
-2'260
-CHF
-/Monat
-ERSTVERMIETUNG: 3 1/2-Zimmer-Attikawohn…
-Jungfrauweg 1, 3110 Münsingen
-Array
-3.5 Zimmer
-76 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
+2.5
 Wohnfläche
-76 m2
-Das neue Wohnquartier fällt auf durch seine schlicht gehaltene architektonische Qualität und die ha…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Jungfrauweg 3
-1'990
-CHF
-/Monat
-ERSTVERMIETUNG: 4 1/2-Zimmerwohnung, 1.…
-Jungfrauweg 3, 3110 Münsingen
-Array
-4.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-88 m2
-Das neue Wohnquartier fällt auf durch seine schlicht gehaltene architektonische Qualität und die ha…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Jungfrauweg 3
-1'740
-CHF
-/Monat
-ERSTVERMIETUNG: 3 1/2-Zimmerwohnung, 2.…
-Jungfrauweg 3, 3110 Münsingen
-Array
-3.5 Zimmer
-69 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-69 m2
-Das neue Wohnquartier fällt auf durch seine schlicht gehaltene architektonische Qualität und die ha…
+72 m2
+Die offene moderne Küche sowie der grosszügige Wohn- und Schlafbereich machen die 2.5-Zimmer-Wohnun…
 Teilen
 E-Mail
 Facebook

@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -101,7 +101,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -155,9 +155,89 @@ WIR-ANTEIL
 24 Treffer
 Suche zurücksetzen
 NISSAN
-Note 1.2 DIG-S acenta
-CHF 10'500
-ab CHF 119/Monat
+Note 1.6 16V Tekna
+CHF 8'900
+ab CHF 101/Monat
+11.2010
+Automat
+71'337 km
+Benzin
+Vorderradantrieb
+silber
+110 PS
+SG
+Merken
+NISSAN
+Note 1.6 16V Tekna
+11.2010
+110 PS
+71'337 km
+CHF 8'900
+Merken
+ab CHF 101/Monat
+NISSAN
+Note 1.2 acenta+
+CHF 9'700
+ab CHF 110/Monat
+11.2013
+Handschaltung
+88'000 km
+Benzin
+Vorderradantrieb
+anthrazit
+80 PS
+ZH
+Merken
+NISSAN
+Note 1.2 acenta+
+11.2013
+80 PS
+88'000 km
+CHF 9'700
+Merken
+ab CHF 110/Monat
+NISSAN
+Note 1.4 acenta
+CHF 6'300
+09.2011
+Handschaltung
+102'500 km
+Benzin
+Vorderradantrieb
+blau
+88 PS
+ZH
+Merken
+NISSAN
+Note 1.4 acenta
+09.2011
+88 PS
+102'500 km
+CHF 6'300
+Merken
+NISSAN
+Note 1.6 i-Way
+CHF 6'300
+03.2012
+Handschaltung
+111'600 km
+Benzin
+Vorderradantrieb
+weiss
+110 PS
+TG
+Merken
+NISSAN
+Note 1.6 i-Way
+03.2012
+110 PS
+111'600 km
+CHF 6'300
+Merken
+NISSAN
+Note 1.2 DIG-S Acenta
+CHF 10'100
+ab CHF 114/Monat
 03.2016
 Handschaltung
 93'000 km
@@ -168,97 +248,74 @@ schwarz
 BL
 Merken
 NISSAN
-Note 1.2 DIG-S acenta
-03.2016
-98 PS
-93'000 km
-CHF 10'500
-Merken
-ab CHF 119/Monat
-NISSAN
-Note 1.6 acenta
-CHF 1'999
-09.2009
-Handschaltung
-142'000 km
-Benzin
-Vorderradantrieb
-schwarz
-110 PS
-LU
-Merken
-NISSAN
-Note 1.6 acenta
-09.2009
-110 PS
-142'000 km
-CHF 1'999
-Merken
-NISSAN
-Note 1.2 DIG-S tekna
-CHF 9'900
-ab CHF 112/Monat
-07.2014
-Handschaltung
-76'700 km
-Benzin
-Vorderradantrieb
-blau
-98 PS
-BE
-Merken
-NISSAN
-Note 1.2 DIG-S tekna
-07.2014
-98 PS
-76'700 km
-CHF 9'900
-Merken
-ab CHF 112/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NISSAN
-Note 1.2 DIG-S Acenta
-CHF 10'500
-ab CHF 119/Monat
-03.2016
-Handschaltung
-93'000 km
-Benzin
-Vorderradantrieb
-schwarz
-98 PS
-BS
-Merken
-NISSAN
 Note 1.2 DIG-S Acenta
 03.2016
 98 PS
 93'000 km
-CHF 10'500
+CHF 10'100
 Merken
-ab CHF 119/Monat
+ab CHF 114/Monat
 NISSAN
-Note 1.6 16V Tekna
-CHF 5'445
-03.2007
+Note 1.5 dCi acenta+
+CHF 9'900
+ab CHF 112/Monat
+10.2015
 Handschaltung
-106'000 km
+52'000 km
+Diesel
+Vorderradantrieb
+weiss
+90 PS
+ZH
+Merken
+NISSAN
+Note 1.5 dCi acenta+
+10.2015
+90 PS
+52'000 km
+CHF 9'900
+Merken
+ab CHF 112/Monat
+NISSAN
+Note 1.6 acenta
+CHF 3'900
+11.2007
+Handschaltung
+126'000 km
 Benzin
 Vorderradantrieb
-silber
+weiss
 110 PS
-SG
+AG
 Merken
 NISSAN
-Note 1.6 16V Tekna
-03.2007
+Note 1.6 acenta
+11.2007
 110 PS
-106'000 km
-CHF 5'445
+126'000 km
+CHF 3'900
 Merken
+NISSAN
+Note 1.6 i-Way+
+CHF 9'190
+ab CHF 104/Monat
+08.2012
+Automat
+70'000 km
+Benzin
+Vorderradantrieb
+schwarz
+110 PS
+AG
+Merken
+NISSAN
+Note 1.6 i-Way+
+08.2012
+110 PS
+70'000 km
+CHF 9'190
+Merken
+ab CHF 104/Monat
 NISSAN
 Note 1.4 visia
 CHF 5'900
@@ -279,190 +336,129 @@ Note 1.4 visia
 CHF 5'900
 Merken
 NISSAN
-Note 1.2 12V Acenta
-CHF 8'950
-ab CHF 101/Monat
-10.2013
-Handschaltung
-49'350 km
-Benzin
-Vorderradantrieb
-weiss
-80 PS
-BL
-Merken
-NISSAN
-Note 1.2 12V Acenta
-10.2013
-80 PS
-49'350 km
-CHF 8'950
-Merken
-ab CHF 101/Monat
-NISSAN
-Note 1.4 acenta
-CHF 1'700
-09.2006
-Handschaltung
-245'000 km
-Benzin
-Vorderradantrieb
-anthrazit
-88 PS
-ZH
-Merken
-NISSAN
-Note 1.4 acenta
-09.2006
-88 PS
-245'000 km
-CHF 1'700
-Merken
-NISSAN
-Note 1.2 acenta+
-CHF 9'700
-ab CHF 110/Monat
-11.2013
-Handschaltung
-88'000 km
-Benzin
-Vorderradantrieb
-anthrazit
-80 PS
-ZH
-Merken
-NISSAN
-Note 1.2 acenta+
-11.2013
-80 PS
-88'000 km
-CHF 9'700
-Merken
-ab CHF 110/Monat
-NISSAN
-Note 1.6 tekna Automatic
-CHF 9'900
-ab CHF 112/Monat
-09.2011
-Automat
-62'000 km
-Benzin
-Vorderradantrieb
-beige
-110 PS
-SZ
-Merken
-NISSAN
-Note 1.6 tekna Automatic
-09.2011
-110 PS
-62'000 km
-CHF 9'900
-Merken
-ab CHF 112/Monat
-NISSAN
-Note tekna 1.2 DIG-S
-CHF 10'980
-ab CHF 124/Monat
-07.2015
-Handschaltung
-64'800 km
-Benzin
-Vorderradantrieb
-weiss
-98 PS
-ZH
-Merken
-NISSAN
-Note tekna 1.2 DIG-S
-07.2015
-98 PS
-64'800 km
-CHF 10'980
-Merken
-ab CHF 124/Monat
-NISSAN
 Note 1.6 acenta
-CHF 5'500
-03.2010
+CHF 2'950
+04.2008
 Handschaltung
-127'500 km
-Benzin
-Vorderradantrieb
-schwarz
-110 PS
-AG
-Merken
-NISSAN
-Note 1.6 acenta
-03.2010
-110 PS
-127'500 km
-CHF 5'500
-Merken
-NISSAN
-Note 1.2 acenta
-CHF 7'700
-01.2014
-Handschaltung
-71'600 km
-Benzin
-Vorderradantrieb
-blau
-80 PS
-AG
-Merken
-NISSAN
-Note 1.2 acenta
-01.2014
-80 PS
-71'600 km
-CHF 7'700
-Merken
-NISSAN
-Note 1.2 acenta
-CHF 8'500
-ab CHF 96/Monat
-01.2014
-Handschaltung
-69'900 km
-Benzin
-Vorderradantrieb
-schwarz
-80 PS
-TI
-Merken
-NISSAN
-Note 1.2 acenta
-01.2014
-80 PS
-69'900 km
-CHF 8'500
-Merken
-ab CHF 96/Monat
-NISSAN
-Note 1.6 acenta
-CHF 3'600
-12.2008
-Handschaltung
-166'500 km
+181'000 km
 Benzin
 Vorderradantrieb
 grau
 110 PS
-BE
+VD
 Merken
 NISSAN
 Note 1.6 acenta
-12.2008
+04.2008
 110 PS
-166'500 km
-CHF 3'600
+181'000 km
+CHF 2'950
 Merken
+NISSAN
+Note 1.2 DIG-S Acenta
+CHF 11'500
+ab CHF 130/Monat
+05.2014
+Automat
+61'900 km
+Benzin
+Vorderradantrieb
+schwarz
+98 PS
+ZH
+Merken
+NISSAN
+Note 1.2 DIG-S Acenta
+05.2014
+98 PS
+61'900 km
+CHF 11'500
+Merken
+ab CHF 130/Monat
+NISSAN
+Note 1.2 acenta
+CHF 9'900
+ab CHF 112/Monat
+07.2014
+Handschaltung
+68'000 km
+Benzin
+Vorderradantrieb
+blau
+80 PS
+SO
+Merken
+NISSAN
+Note 1.2 acenta
+07.2014
+80 PS
+68'000 km
+CHF 9'900
+Merken
+ab CHF 112/Monat
+NISSAN
+Note 1.5 dCi visia
+CHF 6'800
+09.2015
+Handschaltung
+104'000 km
+Diesel
+Vorderradantrieb
+schwarz
+90 PS
+ZH
+Merken
+NISSAN
+Note 1.5 dCi visia
+09.2015
+90 PS
+104'000 km
+CHF 6'800
+Merken
+NISSAN
+Note 1.2 DIG-S tekna
+CHF 9'900
+ab CHF 112/Monat
+07.2014
+Handschaltung
+76'700 km
+Benzin
+Vorderradantrieb
+blau
+98 PS
+BE
+Merken
+NISSAN
+Note 1.2 DIG-S tekna
+07.2014
+98 PS
+76'700 km
+CHF 9'900
+Merken
+ab CHF 112/Monat
 35-Punkte-Check
 Kostenlose Probefahrt
 Garantieversprechen
 Faires Eintauschangebot
+NISSAN
+Note 1.6 16V Tekna
+CHF 5'445
+03.2007
+Handschaltung
+106'000 km
+Benzin
+Vorderradantrieb
+silber
+110 PS
+SG
+Merken
+NISSAN
+Note 1.6 16V Tekna
+03.2007
+110 PS
+106'000 km
+CHF 5'445
+Merken
 1
 1
 2

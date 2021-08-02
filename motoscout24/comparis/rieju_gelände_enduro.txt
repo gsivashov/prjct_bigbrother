@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/motorrad/marktplatz/rieju/enduro
 Title: Rieju Gelände / Enduro occasion oder neu kaufen - comparis.ch
 Description: Rieju Gelände / Enduro Occasion oder neu zum besten Preis kaufen. Im grössten Motorradmarkt der Schweiz alle Inserate der grössten Online Portale auf einen Blick
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -635,31 +633,31 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Rieju
-(130)
+(109)
 Rieju Neu
-(83)
+(73)
 Rieju Occasion
-(47)
+(35)
 Aufbau
 Rieju Strasse
-(103)
+(87)
 Rieju Gelände / Enduro Modelle
 Rieju Marathon 125 Pro SM
 (3)
 Rieju MRT Pro 50
-(26)
-Rieju MRT SM 50
-(54)
-Rieju MRT Trophy 50
 (15)
+Rieju MRT SM 50
+(52)
+Rieju MRT Trophy 50
+(12)
 Rieju Tango 125
 (4)
 Rieju MRT 50 45 KMH/ ab 15 Jahre
 Alle Details
 Inserat vom 03.06.2021
 Occasion
-05.2021
-350 km
+07.2021
+10 km
 50 ccm
 Preis
 CHF 3'990.-
@@ -686,9 +684,9 @@ Neu
 0 km
 50 ccm
 Preis
-CHF 5'500.-
+CHF 4'190.-
 Alle Details
-CHF 5'500.-
+CHF 4'190.-
 Alle Details
 Rieju MRT 50 Pro Black Edition
 Alle Details
@@ -722,9 +720,9 @@ Neu
 0 km
 50 ccm
 Preis
-CHF 4'950.-
+CHF 4'450.-
 Alle Details
-CHF 4'950.-
+CHF 4'450.-
 Alle Details
 Rieju MRT 50 SM 45 Km/h
 Alle Details
@@ -734,9 +732,9 @@ Neu
 0 km
 50 ccm
 Preis
-CHF 4'450.-
+CHF 3'900.-
 Alle Details
-CHF 4'450.-
+CHF 3'900.-
 Alle Details
 Rieju MRT 50 Trophy Spezial Edition
 Alle Details

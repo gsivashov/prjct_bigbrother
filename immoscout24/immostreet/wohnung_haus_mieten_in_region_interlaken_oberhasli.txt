@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/bezirk-interlakenoberhasli/
 Title: Wohnung & Haus mieten in Region Interlaken Oberhasli - Immostreet.ch
-Description: Wohnung & Haus mieten in Region Interlaken Oberhasli - Immostreet.ch: ImmoStreet.ch hat 72 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden
+Description: Wohnung & Haus mieten in Region Interlaken Oberhasli - Immostreet.ch: ImmoStreet.ch hat 84 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-72 Resultate gefunden ·
+84 Resultate gefunden ·
 Wohnung & Haus mieten in Region Interlaken Oberhasli
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,64 +152,376 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Spirenwaldstrasse 54
-1'650
-CHF
-/Monat
-Haushälfte zu vermieten in Beatenberg
-Spirenwaldstrasse 54, 3803 Beatenberg
+Adresse auf Anfrage
+Preis auf Anfrage
+LICHTDURCHFLUTET MIT AUSSICHT AUF JUNGF…
+Adresse auf Anfrage, 3800 Unterseen
 Array
-4.5 Zimmer
+5.5 Zimmer
+102 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Flach
 Zimmer
-4.5
-Teilsanierte Haushälfte zu vermieten mit neuer Küche und neuem Badezimmer. Inkl. Parkplatz, grosser…
+5.5
+Wohnfläche
+102 m2
+Geniessen Sie einen wundervollen Ausblick an zentraler und ruhiger Lage. Die gut durchdachte Raumau…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Postgasse 45
-590
+Mälchplatz
+775
 CHF
 /Monat
-Gemütliches Studio an der Aare
-Postgasse 45, 3800 Interlaken
+Studiowohnung in Meiringen
+Mälchplatz, 3860 Meiringen
 Array
 1 Zimmer
+17 m2
 Objekttyp
-Wohnung, Studio
+Wohnung, Flach
 Zimmer
 1
-Die Liegenschaft ohne Lift befindet sich an einer sehr ruhigen Lage mit traumhafter Bergsicht. Die …
+Wohnfläche
+17 m2
+Eine schöne renovierte Studiowohnung, ebenerdig, mit direkten Zugang zum grosszügigen Garten. Es ha…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Mittlere Strasse 39
-1'080
+Adresse auf Anfrage
+700
 CHF
 /Monat
-2 Zimmerwohnung in Unterseen
-Mittlere Strasse 39, 3800 Unterseen
+Nachmieter in Wilderswil gesucht.
+Adresse auf Anfrage, 3812 Wilderswil
 Array
 2 Zimmer
-48 m2
+30 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2
 Wohnfläche
-48 m2
-An der Mittleren Strasse 39 in Unterseen vermieten wir
-nach Vereinbarung
-eine sehr schön gelege…
+30 m2
+Klein aber Fein. Suche Nachmieter/in für meine heimelige 2 Zimmerwohnung in Wilderswil. Zeitraum: A…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Untere Bönigstrasse 8
+3'010
+CHF
+/Monat
+Moderne Attikawohnung im Jungfrau Center
+Untere Bönigstrasse 8, 3800 Interlaken
+Array
+3.5 Zimmer
+116 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+116 m2
+Etage
+Jungfrau Center Das neue Wohn? und Geschäftsgebäude liegt am Fusse des Hausberges von Interlaken, d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oelestrasse 8
+1'590
+CHF
+/Monat
+Parterrewohnung an zentraler aber ruhig…
+Oelestrasse 8, 3800 Matten b. Interlaken
+Array
+4 Zimmer
+76 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+76 m2
+Per 1. Oktober 2021 vermieten wir diese tolle 4-Zimmer-Parterrewohnung in Matten b. Interlaken:…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Juheigässli 16
+1'003
+CHF
+/Monat
+3 1/2-Zimmerwohnung, 3. Stock links
+Juheigässli 16, 3800 Matten b. Interlaken
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Sonnige und zentrale Lage - Nähe öV und EinkaufsmöglichkeitenBadezimmer mit Badewanne. Teppichboden…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'200
+CHF
+/Monat
+3.5 Zimmerwohnung mit Terrasse
+Adresse auf Anfrage, 3818 Grindelwald
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+An wunderschöner, ruhiger Lage mit unverbaubarer und imposanter Aussicht auf Eiger und Jungfrau bie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stutzgasse 7
+1'600
+CHF
+/Monat
+3.5-Zimmerwohnung im Dachgeschoss West …
+Stutzgasse 7, 3818 Grindelwald
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Etage
+3.5-Zimmerwohnung im Chalet WelzenbachDie moderne 3.5-Zimmerwohnung befindet sich im Dachgeschoss W…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zügliweg
+1'350
+CHF
+/Monat
+Wohnen wo Berg und See sich berühren!
+Zügliweg, 3806 Bönigen
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Attraktive 3-Zimmer-Dach-Wohnung in 2-Familienhaus. Grosser Balkon mit Panoramablick vom Niesen übe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'300
+CHF
+/Monat
+,3,5 Zimmerwohnung mit Seesicht,auch al…
+Adresse auf Anfrage, 3862 Innertkirchen
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnung
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Marktgasse 33
+1'455
+CHF
+/Monat
+Im Zentrum von Interlaken
+Marktgasse 33, 3800 Interlaken
+Array
+3 Zimmer
+67 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+67 m2
+hübsche 3 Zimmerwohnung zu vermieten. Parkettboden im Wohnzimmer, neu renoviertes Badezimmer, Parkp…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ssgi
+550
+CHF
+/Monat
+Studio zu vermieten
+Ssgi, 3852 Ringgenberg BE
+Array
+1.5 Zimmer
+36 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+36 m2
+Ferien studio am brienzersee
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obere Goldey 91
+1'350
+CHF
+/Monat
+3-Zimmer Wohnung in ruhiger & idyllisch…
+Obere Goldey 91, 3800 Unterseen
+Array
+3 Zimmer
+62 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+62 m2
+Das 6-Familienhaus liegt in der Goldey in ruhiger und idyllischer Lage. Da die Goldey eine Sackgass…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse, 271
+1'250
+CHF
+/Monat
+Gemütliche 2,5* Zimmer Wohnung mit Kell…
+Hauptstrasse, 271, 3852 Ringgenberg BE
+Array
+2.5 Zimmer
+68 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+68 m2
+Das Haus am sonnigen Hang (ca. 1820) versprüht viel Charm.Die Wohnung besteht aus:- Wohnküche (2020…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stapfackerweg, 2
+1'850
+CHF
+/Monat
+Schöne grosse 4,5 Zimmerwohnung mit Gar…
+Stapfackerweg, 2, 3805 Goldswil
+Array
+4.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+150 m2
+Zu vermieten in Goldswil per 1. August 2021 oder nach Vereinbarung:Schöne, grosse, sonnige 4,5 Zimm…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 64
+1'600
+CHF
+/Monat
+4 Zi-Wohung an der schönen Seepromenade…
+Hauptstrasse 64, 3855 Brienz BE
+Array
+4 Zimmer
+72 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+72 m2
+Balkon seeseitig mit toller Aussicht, zum Wohn- und Essbereich offene Küche mit GS, Parkettböden, W…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+980
+CHF
+/Monat
+2-Zimmer-Wohnung
+Adresse auf Anfrage, 3818 Grindelwald
+Array
+2 Zimmer
+30 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+30 m2
+Parterre-Wohnung an schönster Lage mit Aussicht auf den Eiger zu vermieten! Die Wohnung ist ein ide…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse 78B
+1'250
+CHF
+/Monat
+Wohnung direkt am Thunersee
+Dorfstrasse 78B, 3707 Därligen
+Array
+2 Zimmer
+46 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+46 m2
+Diese schöne 2-Zimmer-Wohnung befindet sich im Dachgeschoss (Haus B) der Überbauung Du Lac Därligen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Quai 13
+900
+CHF
+/Monat
+Bijou (Zweitwohnung) mit Seeblick sucht…
+Quai 13, 3854 Oberried am Brienzersee
+Array
+1.5 Zimmer
+25 m2
+Objekttyp
+Wohnung, Studio
+Zimmer
+1.5
+Wohnfläche
+25 m2
+Da unsere Traummieter etwas Eigenes gefunden haben, suchen wir ab dem 1. September 2021 oder nach V…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Mittlere Strasse 39
-1'610
+1'590
 CHF
 /Monat
 Idylische Lage im Grünen bei Interlaken
@@ -230,317 +542,7 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Freihofstrasse 10
-1'290
-CHF
-/Monat
-Nähe Städtchen und SBB Interlaken West
-Freihofstrasse 10, 3800 Unterseen
-Array
-3 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-65 m2
-Die ideale Lage:
-Sehr zentral gelegen. Städtchen Unterseen, SBB Interlaken West, alle Einkaufsmö…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Waldeggstr. 36
-1'600
-CHF
-/Monat
-Loft Wohnung Atelier Home Office Ferie…
-Waldeggstr. 36, 3800 Interlaken
-Array
-1 Zimmer
-96 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-96 m2
-Das moderne Loft ist im Hochparterre eines Mehrfamilienhauses. Schule, Bahnhof Intelaken West, Eink…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Waldeggstrasse 14
-1'940
-CHF
-/Monat
-Ihre neuen 115m² in Interlaken! 5.5-Zim…
-Waldeggstrasse 14, 3800 Interlaken
-Array
-5.5 Zimmer
-115 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-115 m2
-Per 16.08.2021 sucht diese grosszügige 5.5-Zimmerwohnung eine neue Mietpartei. Die Wohnung bietet I…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Postgasse 19
-1'400
-CHF
-/Monat
-ruhige Familienwohnung gesucht? 4-Zimme…
-Postgasse 19, 3800 Interlaken
-Array
-4 Zimmer
-77 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-77 m2
-Diese schöne 4-Zimmerwohnung sucht eine neue Mietpartei. Die Wohnung bietet Ihnen nebst den hellen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-690
-CHF
-/Monat
-Studiowohnung, Nachmieter gesucht
-Adresse auf Anfrage, 3706 Leissigen
-Array
-1 Zimmer
-45 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-45 m2
-Helle und grosse Studiowohnung am Thunersee, mit Geschirrspüler, eigene Waschmaschine mit Tumbler F…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chalet Flora
-1'130
-CHF
-/Monat
-Möblierte 2.5-Zimmer-Wohnung zur Dauerm…
-Chalet Flora, 3823 Wengen
-Array
-2.5 Zimmer
-40 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-40 m2
-Zu vermieten (evt. zu verkaufen) per 1. September 2021 zur Dauermiete. Möblierte Wohnung unterhalb …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfstrasse 72
-Preis auf Anfrage
-4.5-Zimmerwohnung im 2. Obergeschoss Sü…
-Dorfstrasse 72, 3818 Grindelwald
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-ObjektbeschreibungDie unmöblierte 4.5-Zimmerwohnung befindet sich im 2. Obergeschoss des Hauses auf…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 13A
-1'340
-CHF
-/Monat
-Schöne Wohnung an zentraler Lage!
-Hauptstrasse 13A, 3860 Meiringen
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Per 01.04.2021 oder nach Vereinbarung vermieten wir diese schöne Wohnung mit folgenden Eigenschafte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 13
-1'490
-CHF
-/Monat
-Blick auf die Alpen!
-Hauptstrasse 13, 3860 Meiringen
-Array
-3.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-112 m2
-Per sofort oder nach Vereinbarung vermieten wir diese schöne Wohnung mit folgenden Eigenschaften:
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'850
-CHF
-/Monat
-Wohnung Lauterbrunnen
-Adresse auf Anfrage, 3822 Lauterbrunnen
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-3.5 Zi.-Wohnung in Lauterbrunnen zu vermietenAn schöner, ruhiger Lage in Lauterbrunnen vermieten wi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'350
-CHF
-/Monat
-Nachmieter für 4.5 Zi-Wohnung gesucht p…
-Adresse auf Anfrage, 3800 Interlaken
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-120 m2
-Sehr grosse, helle 4.5 Zimmerwohnung. Mitten im Zentrum von Interlaken.1. OG mit Lift, zwei Balkone…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Aenderbergstrasse 18
-2'320
-CHF
-/Monat
-4.5-Zimmer-Wohnung im 1. OG mit Lift
-Aenderbergstrasse 18, 3800 Matten b. Interlaken
-Array
-4.5 Zimmer
-101 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-101 m2
-In Matten vermieten wir in sehr ruhiger und trotzdem zentrumsnaher Lage in einem Mehrfamilienhaus m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Nirggenstrasse 53
-850
-CHF
-/Monat
-2-Zimmerwohnung im Erdgeschoss, Chalet …
-Nirggenstrasse 53, 3818 Grindelwald
-Array
-2 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-ObjektbeschreibungWir vermieten eine möblierte 2-Zimmerwohnung im Ergeschoss des Chalets Aline. Die…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mittengrabenstrasse 41
-790
-CHF
-/Monat
-Möbliertes Studio, Interlaken Ost Quart…
-Mittengrabenstrasse 41, 3800 Interlaken
-Array
-1 Zimmer
-20 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-20 m2
-Helles, möbliertes Studio in Interlaken zu vermieten. Zentrale Lage - Nähe Einkaufsmöglichkeiten un…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'450
-CHF
-/Monat
-HEIMELIG MIT SCHÖNER SEESICHT
-Adresse auf Anfrage, 3855 Brienz BE
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-85 m2
-Diese attraktive und grosszügige Dachwohnung bietet Ihnen garantiert einen hohen Wohnkomfort. Die r…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Landhausgasse 4
-1'150
-CHF
-/Monat
-2 1/2-Zimmer Dachwohnung mit schöner Au…
-Landhausgasse 4, 3860 Meiringen
-Array
-2.5 Zimmer
-72 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-72 m2
-Die Wohnung liegt im dritten Obergeschoss. Sie verfügt über eine eigene Waschmaschine im Badezimmer…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 4
+Seite 1 von 5
 1
 2
 3

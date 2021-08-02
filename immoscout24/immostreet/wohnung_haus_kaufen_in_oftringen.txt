@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/in-oftringen/
 Title: Wohnung & Haus kaufen in Oftringen - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Oftringen - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Oftringen - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-18 Resultate gefunden ·
+19 Resultate gefunden ·
 Wohnung & Haus kaufen in Oftringen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,36 +152,97 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Adresse auf Anfrage
-498'000
+615'000
 CHF
-Etwas für Attika-Liebhaber!
+FAMILIENREIHENENDHAUS MIT GARTEN UND CH…
 Adresse auf Anfrage, 4665 Oftringen
 Array
-3.5 Zimmer
+4.5 Zimmer
+100 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Reihenfamilienhaus
 Zimmer
-3.5
-Lassen Sie in dieser charmanten Attika-Wohnung Ihren Alltag hinter sich, entspannen und geniessen S…
+4.5
+Wohnfläche
+100 m2
+Das solid erbaute, grosszügige Familienreihenendhaus, befindet sich an zentraler Lage in der belieb…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Fischerweg 76
-670'000
+Adresse auf Anfrage
+415'000
 CHF
-Sonniges 5.5-Zimmer-Reihen-Einfamilienh…
-Fischerweg 76, 4665 Oftringen
+Neustart ins Glück
+Adresse auf Anfrage, 4665 Oftringen
+Array
+3.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+83 m2
+Der Traum für Singles oder Paare, starten Sie durch!Hier fühlt man sich von Anfang an Zuhause. Mit …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lerbhaldenstrasse.1
+2'650'000
+CHF
+An bester Lage im Schwarzhaar direkt an…
+Lerbhaldenstrasse.1, 4665 Oftringen
+Array
+9 Zimmer
+365 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+9
+Wohnfläche
+365 m2
+Etage
+EINZIGARTIG UND EXKLUSIVLuxus Designer Terrassenhaus an unverbaubarer TOP-LAGE im Schwarzhaar mit 2…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kaserloch 5a
+980'000
+CHF
+5.5-Zi-Doppeleinfamilienhaushälfte zu V…
+Kaserloch 5a, 4665 Oftringen
 Array
 5.5 Zimmer
-112 m2
+196 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
 5.5
 Wohnfläche
-112 m2
-Besuchen Sie Ihre Traumimmobilie schon heute. Auf unserer Homepage haben Sie die Möglichkeit Ihre I…
+196 m2
+Zur verkaufen (Termin nach Vereinbarung) an sonniger, ruhiger Lage in Küngoldingen/OftringenDas Ha…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lauterbachstrasse 1
+995'000
+CHF
+Neubauprojekt "Am Dorfbach" Oftringen -…
+Lauterbachstrasse 1, 4665 Oftringen
+Array
+4.5 Zimmer
+111 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+111 m2
+Neubauprojekt "Am Dorfbach" Oftringen - Attraktive 4.5-Zimmer Attikawohnung an beliebter und optima…
 Teilen
 E-Mail
 Facebook
@@ -207,6 +268,142 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
+1'190'000
+CHF
+Freistehend - Familienfreundlich - Top …
+Adresse auf Anfrage, 4665 Oftringen
+Array
+6 Zimmer
+155 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6
+Wohnfläche
+155 m2
+Von der Einliegerwohnung profitieren!Dieses wunderschöne und freistehende Haus an bevorzugter Lage …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+980'000
+CHF
+Ein Dach - viele Möglichkeiten
+Adresse auf Anfrage, 4665 Oftringen
+Array
+6 Zimmer
+190 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6
+Wohnfläche
+190 m2
+Etage
+Dieses Bijou eignet sich optimal für Hobbyhandwerker.Die grosszügige Perle hat einiges zu bieten. D…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'040'000
+CHF
+Modernes 5,5 Zimmer-EFH sucht neue/n Be…
+Adresse auf Anfrage, 4665 Oftringen
+Array
+5.5 Zimmer
+157 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+157 m2
+Wohnfläche: 157m²Grundstückfläche: 450m²Weitere Informationen und zusätzliche Bilder finden Sie unt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zofingerstrasse 18Q
+650'000
+CHF
+4.5-Zimmer Eigentumswohnung im bekannte…
+Zofingerstrasse 18Q, 4665 Oftringen
+Array
+4.5 Zimmer
+121 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+121 m2
+Etage
+Grosse, äusserst gepflegte 4.5-Zimmer Wohnung im beliebten "Wohnpark Butterfly"Neuwertige, gehoben …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+498'000
+CHF
+Etwas für Attika-Liebhaber!
+Adresse auf Anfrage, 4665 Oftringen
+Array
+3.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+110 m2
+Lassen Sie in dieser charmanten Attika-Wohnung Ihren Alltag hinter sich, entspannen und geniessen S…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberfeldstrasse 4
+450'000
+CHF
+schöne Gartenwohnung
+Oberfeldstrasse 4, 4665 Oftringen
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Etage
+Wir verkaufen per sofort oder nach eine Vereinbarung, an ruhiger zentraler Wohnlage eine 3.5- Zimme…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fischerweg 76
+670'000
+CHF
+Sonniges 5.5-Zimmer-Reihen-Einfamilienh…
+Fischerweg 76, 4665 Oftringen
+Array
+5.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+112 m2
+Besuchen Sie Ihre Traumimmobilie schon heute. Auf unserer Homepage haben Sie die Möglichkeit Ihre I…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
 595'000
 CHF
 Willkommen im Glück!
@@ -226,84 +423,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Kaserloch
-980'000
-CHF
-Haus zu verkaufen in Oftringen (DEFH)
-Kaserloch, 4665 Oftringen
-Array
-5.5 Zimmer
-170 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-170 m2
-Zur verkaufen (Termin nach Vereinbarung) an sonniger, ruhiger Lage in Küngoldingen/OftringenDas Ha…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unterfeldstrasse 1
-1'160'000
-CHF
-Wohnen mit einer traumhaften unverbauba…
-Unterfeldstrasse 1, 4665 Oftringen
-Array
-4.5 Zimmer
-135 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-135 m2
-ERSTBEZUG HOCHSTEHENDER UND WERTIGER NEUBAU
-EINE DER LETZTEN ATTIKAWOHNUNGEN NOCH VERFÜGBAR, N…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lauterbachstrasse 1
-995'000
-CHF
-Neubauprojekt "Am Dorfbach" Oftringen -…
-Lauterbachstrasse 1, 4665 Oftringen
-Array
-4.5 Zimmer
-111 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-111 m2
-Neubauprojekt "Am Dorfbach" Oftringen - Attraktive Eigentumswohnungen mit hochwertigem Ausbaustanda…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-895'000
-CHF
-Freiheit geniessen in romantisch, grüne…
-Adresse auf Anfrage, 4665 Oftringen
-Array
-5.5 Zimmer
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Das charmante Einfamilienhaus wurde immer sehr liebevoll gepflegt und ist in einem guten Zustand. D…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 985'000
 CHF
-Exklusives Wohnerlebnis für Geniesser
+Wohlfühloase an der Grenze zu Zofingen
 Adresse auf Anfrage, 4665 Oftringen
 Array
 4.5 Zimmer
@@ -336,46 +459,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Mattenring
-580'000
-CHF
-Reserviert: 4.5-Zimmer-Maisonettwohnung…
-Mattenring, 4665 Oftringen
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Ein überaus komfortables Zuhause für Familie und Homeoffice: Diese 4.5-Zimmer-Dachmaisonettewohnung…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unterfeldstrasse 1
-530'000
-CHF
-Wohnen mit einer traumhaften unverbauba…
-Unterfeldstrasse 1, 4665 Oftringen
-Array
-2.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-2.5
-Wohnfläche
-70 m2
-ERSTBEZUG HOCHSTEHENDER UND WERTIGER NEUBAU
-EINE DER LETZTEN ATTIKAWOHNUNGEN NOCH VERFÜGBAR, N…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 720'000
 CHF
-Sie schätzen das Aussergewöhnliche - da…
+RESERVIERT
 Adresse auf Anfrage, 4665 Oftringen
 Array
 5.5 Zimmer
@@ -388,65 +475,6 @@ Wohnfläche
 170 m2
 Etage
 Herzlich willkommen in Ihrem neuen Wohlfühlzuhause.Dieses herrliche Schmuckstück präsentiert sich i…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'090'000
-CHF
-Modernes 5,5 Zimmer-EFH sucht neue/n Be…
-Adresse auf Anfrage, 4665 Oftringen
-Array
-5.5 Zimmer
-157 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-157 m2
-Wohnfläche: 157m²Grundstückfläche: 450m²Weitere Informationen und zusätzliche Bilder finden Sie unt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schwarzhaarhalde 6
-3'190'000
-CHF
-Villa Diamond
-Schwarzhaarhalde 6, 4665 Oftringen
-Array
-7.5 Zimmer
-400 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-7.5
-Wohnfläche
-400 m2
-Etage
-Ein architektonisches Meisterstück im beliebten "Schwarzhaar" Quartier in Oftringen.
-Diese Villa…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-520'000
-CHF
-Superglücklich mit der Familie in den e…
-Adresse auf Anfrage, 4665 Oftringen
-Array
-5.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-105 m2
-Dieses tolle Zuhause im Zentrum von Oftringen wartet nur darauf von Ihnen eingerichtet zu werden.De…
 Teilen
 E-Mail
 Facebook
@@ -473,7 +501,7 @@ Whatsapp
 Adresse auf Anfrage
 1'300'000
 CHF
-Ihr privates Ressort - mit Einliegerwoh…
+Alle unter einem Dach
 Adresse auf Anfrage, 4665 Oftringen
 Array
 7.5 Zimmer
@@ -485,7 +513,7 @@ Zimmer
 Wohnfläche
 290 m2
 Etage
-Ihr privates Wellnessressort, reichlich Platz für eine Grossfamilie und eine Einliegerwohnung die f…
+Mama, Papa, Oma und Opa – hier finden alle Ihren Platz, geniessen viel Privatsphäre und gewähren Si…
 Teilen
 E-Mail
 Facebook

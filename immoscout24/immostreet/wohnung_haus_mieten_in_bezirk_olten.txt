@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/bezirk-olten/
 Title: Wohnung & Haus mieten in Bezirk Olten - Immostreet.ch
-Description: Wohnung & Haus mieten in Bezirk Olten - Immostreet.ch: ImmoStreet.ch hat 455 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Bezirk Olten - Immostreet.ch: ImmoStreet.ch hat 466 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-455 Resultate gefunden ·
+466 Resultate gefunden ·
 Wohnung & Haus mieten in Bezirk Olten
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,225 +152,82 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Aarauerstrasse 157
-1'340
+Dammweg 17a
+600
 CHF
 /Monat
-3,5-Zimmerwohnung
-Aarauerstrasse 157, 4600 Olten
+Hübsches WG-Zimmer in Dulliken/OLTEN zu…
+Dammweg 17a, 4657 Dulliken
 Array
-3.5 Zimmer
-69 m2
+25 m2
 Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
+Wohnung, Einzelzimmer
 Wohnfläche
-69 m2
-Wir vermeiten nach Vereinbarung eine schöne 3,5-Zimmerwohnung mit gemütlichem Ambiente an zentraler…
+25 m2
+Per 1. September 2021 haben wir wieder ein hübsches, gemütliches WG-Zimmer zu vermieten. Im Zimmer …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bachstrasse 46
-1'400
+Reiserstrasse 118
+1'390
 CHF
 /Monat
-3,5-Zimmer-Dachwohnung
-Bachstrasse 46, 4614 Hägendorf
+Renovierte Wohnung in Olten!
+Reiserstrasse 118, 4600 Olten
 Array
 3.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-In Hägendorf lassen sich Arbeit, Wohnen und Erholung optimal verbinden. Für ideale Verkehrsverbindu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Untere Hardegg 29
-1'246
-CHF
-/Monat
-3,5-Zimmerwohnung
-Untere Hardegg 29, 4600 Olten
-Array
-3.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-75 m2
-Wir vermieten per 1. Oktober 2021 ein schöne 3,5-Zimmerwohnung an sehr zentraler Lage. Der Bahnhof …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wolfacker 7
-1'194
-CHF
-/Monat
-Helle 3½ - Zimmerwohnung im Erdgeschloss
-Wolfacker 7, 4657 Dulliken
-Array
-3.5 Zimmer
-69 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-69 m2
-Sie finden eine helle 3½ - Zimmerwohnung in einem rundum sanierten Mehrfamilienhaus. In nächster Nä…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Höhenstrasse Ost 73
-1'460
-CHF
-/Monat
-Schöne helle 3 ½-Zimmerwohnung
-Höhenstrasse Ost 73, 4600 Olten
-Array
-3.5 Zimmer
-87 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-87 m2
-Schöne und erhöhte Lage über Olten am rechten Aareufer.
-ÖV, Schulen/Kiga und alle Einkaufsmöglichk…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Niderfeld 2
-Preis auf Anfrage
-grosszügige 2.5-Zimmerwohnung in ruhige…
-Niderfeld 2, 4617 Gunzgen
-Array
-2.5 Zimmer
-57 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-57 m2
-Diese grosszügige und helle 2 1/2 Zimmer-Wohnung im Erdgeschoss besticht durch die lichtdurchflutet…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Niderfeld 2
-Preis auf Anfrage
-grosszügige 4.5-Zimmerwohnung in ruhige…
-Niderfeld 2, 4617 Gunzgen
-Array
-4.5 Zimmer
-108 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-108 m2
-Diese grosszügige und helle 4 1/2 Zimmer-Wohnung im Erdgeschoss besticht durch die lichtdurchflutet…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Staldenacker 1 (Haus A)
-1'950
-CHF
-/Monat
-GEMÜTLICHE WOHNUNG ZUM WOHLFÜHLEN
-Staldenacker 1 (Haus A), 5014 Gretzenbach
-Array
-5 Zimmer
-121 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-121 m2
-Das Mehrfamilienhaus liegt an ruhiger und doch zentraler Wohnlage. In wenigen Gehminuten erreichen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Staldenacker 3 (Haus B)
-1'325
-CHF
-/Monat
-GEMÜTLICHE WOHNUNG ZUM WOHLFÜHLEN
-Staldenacker 3 (Haus B), 5014 Gretzenbach
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Das Mehrfamilienhaus liegt an ruhiger und doch zentraler Wohnlage. In wenigen Gehminuten erreichen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Staldenacker 1 (Haus A)
-1'650
-CHF
-/Monat
-GEMÜTLICHE WOHNUNG ZUM WOHLFÜHLEN
-Staldenacker 1 (Haus A), 5014 Gretzenbach
-Array
-4 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-100 m2
-Das Mehrfamilienhaus liegt an ruhiger und doch zentraler Wohnlage. In wenigen Gehminuten erreichen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mattenweg 15
-1'410
-CHF
-/Monat
-Wohn(T)raum in Gretzenbach
-Mattenweg 15, 5014 Gretzenbach
-Array
-2.5 Zimmer
-58 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-58 m2
-Bei Vertragsabschluss winkt ein Einkaufsgutschein Ihrer Wahl im Wert von CHF 500.00!Wohnung:
+Wir vermieten eine renovierte 3.5 -Zimmerwohnung in einer ruhiger Seitenstrasse im Zentrum Olten! D…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'530
+1'130
 CHF
 /Monat
-EINE ZENTRALE SENSATION
+SCHNÄPPCHEN AN RUHIGER LAGE
+Adresse auf Anfrage, 4616 Kappel SO
+Array
+3 Zimmer
+65 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3
+Wohnfläche
+65 m2
+Diese wunderschöne, lichtdurchflutete Wohnung verfügt über eine ruhige Umgebung, um nach einem stre…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dreitannenstrasse 19
+1'150
+CHF
+/Monat
+Frisch renovierte Altbauwohnung
+Dreitannenstrasse 19, 4600 Olten
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Per Ende August 2021 oder nach Vereinbarung vermieten wir eine charmante 4-Zimmer Altbauwohnung res…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'340
+CHF
+/Monat
+HELL - ZENTRAL - FRISCH RENOVIERT
 Adresse auf Anfrage, 4600 Olten
 Array
 3 Zimmer
@@ -386,160 +243,298 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bachstrasse 21
-1'050
+Stauwehrstrasse 43
+1'320
 CHF
 /Monat
-Grosszügige 2.5 Zi-Wohnung an zentraler…
-Bachstrasse 21, 4614 Hägendorf
+Attraktive Wohnung im Grünen
+Stauwehrstrasse 43, 5012 Schönenwerd
 Array
-2.5 Zimmer
-56 m2
+3.5 Zimmer
+74 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+3.5
 Wohnfläche
-56 m2
-Etage
-Die Liegenschaft Bachstrasse liegt im Dorfkern von Hägendorf. Nur wenige hundert Meter vom Dorfplat…
+74 m2
+Ihre LagevorteileDie gut besonnte Liegenschaft mit grosszügigen Grünflächen befindet sich an ruhige…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Grundstr. 13
-1'930
+Stauwehrstrasse 13
+1'390
 CHF
 /Monat
-Brauchen Sie Platz? Grosse 5.5 Zimmer M…
-Grundstr. 13, 4658 Däniken SO
+Schöne Weitsicht
+Stauwehrstrasse 13, 5012 Schönenwerd
 Array
-5.5 Zimmer
-130 m2
+3.5 Zimmer
+83 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-5.5
+3.5
 Wohnfläche
-130 m2
-Etage
-In der steuergünstigen Gemeinde Däniken SO vermieten wir eine gepflegte, grosszüge 5 ½ Zimmer Maiso…
+83 m2
+Ihre LagevorteileDie gut besonnte Liegenschaft mit grosszügigen Grünflächen befindet sich an ruhige…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Aarauerstrasse 25
-1'325
+Baslerstrasse 118
+1'130
 CHF
 /Monat
-grosszügige Wohnung im Bahnhofsquartier
-Aarauerstrasse 25, 4600 Olten
+Zentral wohnen beim Stadtpark / Nähe ÖV…
+Baslerstrasse 118, 4600 Olten
 Array
 3 Zimmer
-67 m2
+62 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3
 Wohnfläche
-67 m2
-Ab sofort oder nach Vereinbarung vermieten wir an der Aarauerstrasse 25 in 4600 Olten eine 3-Zimmer…
+62 m2
+Wir vermieten vis à vis des Stadtparks Olten eine zentral gelegene, schöne 3-Zimmerwohnung:- Neue K…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Solothurnerstrasse 286
-1'550
+Alpstrasse 2
+1'607
 CHF
 /Monat
-moderne 3.5-Zimmerwohnung, ca. 102 m2
-Solothurnerstrasse 286, 4600 Olten
-Array
-3.5 Zimmer
-89 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-89 m2
-Willkommen in Ihrem neuen Zuhause!An der Solothurnerstrasse 286 vermieten wir eine helle und grossz…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zelglistrasse 14
-2'490
-CHF
-/Monat
-FAMILIENPARADIS
-Zelglistrasse 14, 4600 Olten
-Array
-5.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-110 m2
-An sonniger und zentraler Lage lockt dieses gepflegte 5.5-Zimmer-Reiheneinfamilienhaus mit Charme i…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Grundhof 4
-1'460
-CHF
-/Monat
-3.5 ZWG im beliebten Schöngrundquartier
-Im Grundhof 4, 4600 Olten
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Im beliebten Schöngrundquartier vermieten wir per 01. Oktober 2021 oder nach Vereinbarung eine hell…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Aarauerstrasse 88
-1'080
-CHF
-/Monat
-Charmante 2.5-Zimmerwohnung in Olten
-Aarauerstrasse 88, 4600 Olten
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wir vermieten per 01. Oktober 2021 oder nach Vereinbarung an der Aarauerstrasse 88 in Olten eine he…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Haldenstrasse 31
-1'660
-CHF
-/Monat
-Renovierte und helle 4.5-Zimmerwohnung
-Haldenstrasse 31, 4600 Olten
+4½-Zimmerwohnung mit grossem Balkon ink…
+Alpstrasse 2, 4612 Wangen b. Olten
 Array
 4.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-OltenGrosszügige und renovierte 4.5-Zimmerwohnug an ruhiger Lage.- Bahnhof 20 min Gehweg- grosszügi…
+Wir vermieten diese helle und grosszügige 4½-Zimmerwohnung im 2. OG. Folgende Ausstattung erwartet …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 23
+Rumpelweg 10
+1'770
+CHF
+/Monat
+Helle 4,5 Zi-Wohnung im 1. OG mit gross…
+Rumpelweg 10, 4612 Wangen b. Olten
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+110 m2
+Etage
+Grosszügige renovierte 4 1/2 Zi-Wohnung mit  grossem Balkon, teils gedeckt, an sonniger Hanglage in…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Chrummatt 11
+2'140
+CHF
+/Monat
+Wunderschöne idyllische gelegene grosse…
+Chrummatt 11, 4612 Wangen b. Olten
+Array
+3.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+120 m2
+Lage:
+ÖV, Bahnhof, Schulen, Einkaufsmöglichkeiten, Post, Hallenbad, etc. alles in der Nähe (exzell…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+St. Laurentiusstrasse 14
+1'610
+CHF
+/Monat
+Reinschauen - Durchatmen - Residieren
+St. Laurentiusstrasse 14, 4613 Rickenbach SO
+Array
+4.5 Zimmer
+94 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+94 m2
+Wir bieten Ihnen eine Wohnoase in Rickenbach SO und stellen Ihnen die 4.5-Zimmerwohnung im 1.OG vor…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lischmatt 3
+1'765
+CHF
+/Monat
+Moderne 4.5-Etagenwohnung mit Weitsicht
+Lischmatt 3, 4616 Kappel SO
+Array
+4.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+105 m2
+Wir vermieten Ihnen eine Wohnung mit Aussicht...wenn wir Sie bereits überzeugt haben, kontaktieren …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schleife 43 4616 Kappel
+1'490
+CHF
+/Monat
+3.5-Zimmer in Kappel
+Schleife 43 4616 Kappel, 4616 Kappel SO
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Duplex
+Zimmer
+3.5
+Wir vermieten Ihnen eine Wohnung mit EigentumsstandartDie Inseratfotos zeigen lediglich den Ausbaus…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Bättel 254
+1'450
+CHF
+/Monat
+Schöne Dachwohnung
+Im Bättel 254, 4618 Boningen
+Array
+3.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+75 m2
+Etage
+Offene Küche mit Geschirrspüler, Glaskeramikherd, separater Backofen auf arbeitshöhe, Kühlkombi, Wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mattenweg 17
+1'682
+CHF
+/Monat
+Schöne 3.5 ZI Wohning mit grossem Balko…
+Mattenweg 17, 5014 Gretzenbach
+Array
+3.5 Zimmer
+89 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+89 m2
+Wir suchen einen Nachmieter für unsere schöne 3.5 ZI Wohnung in Gretzenbach an ruhiger Lage per 1.o…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Geissfluhweg 23
+790
+CHF
+/Monat
+Beautiful wohnung, klein +fine+sehr cen…
+Geissfluhweg 23, 4600 Olten
+Array
+Objekttyp
+Wohnung, Flach
+Sehr genial und bequem für ein Person,, vielleicht 2. Bei fuss, 1 minute von olten bahnhof, 4 Minut…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gründerstrasse 18
+1'640
+CHF
+/Monat
+Grosse 3,5-Zimmerwohnung mit Aussicht a…
+Gründerstrasse 18, 4600 Olten
+Array
+3.5 Zimmer
+114 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+114 m2
+Wunderschöne, helle und geräumige 3,5-Zimmerwohnung mit einem Bad (inkl. Toilette, Lavabo, Waschmas…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'620
+CHF
+/Monat
+5 Zimmer schöngrund Seidenhof 14
+Adresse auf Anfrage, 4600 Olten
+Array
+5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5
+Wohnfläche
+160 m2
+In 2 Familienhaus 2700 &. Nebenkosten 0794227111
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Langhagstr. 18
+2'700
+CHF
+/Monat
+*Über den Dächern von Olten*
+Langhagstr. 18, 4600 Olten
+Array
+5.5 Zimmer
+151 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+Wohnfläche
+151 m2
+Eine schöne Familienwohnung wartet auf Sie! In der Mitte des Quartiers befindet sich eine schöne gr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 24
 1
 2
 3

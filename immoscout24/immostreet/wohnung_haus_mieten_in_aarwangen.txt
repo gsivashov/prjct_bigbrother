@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-aarwangen/
 Title: Wohnung & Haus mieten in Aarwangen - Immostreet.ch
-Description: Wohnung & Haus mieten in  Aarwangen - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Aarwangen - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-32 Resultate gefunden ·
+24 Resultate gefunden ·
 Wohnung & Haus mieten in Aarwangen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,43 +152,28 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Schmidtenweg 2
-Preis auf Anfrage
-MODERNE ATTIKAWOHNUNG MITTEN IM ZENTRUM…
-Schmidtenweg 2, 4912 Aarwangen
+Schmidtenweg 9
+1'450
+CHF
+/Monat
+Ruhig gelegene Wohnung in Aarwangen
+Schmidtenweg 9, 4912 Aarwangen
 Array
-2.5 Zimmer
-78 m2
+4.5 Zimmer
+88 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+4.5
 Wohnfläche
-78 m2
-Wir vermieten per 01. September 2021 oder nach Vereinbarung eine 2.5-Zimmerwohnung im Dachgeschoss.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hardmattweg 3
-2'550
-CHF
-/Monat
-Grosszügige 5.5 Zimmer-Attikawohnung mi…
-Hardmattweg 3, 4912 Aarwangen
-Array
-5.5 Zimmer
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-In Aarwangen am Hardmattweg 3 vermieten wir ab 1. September 2021 eine grosszügige 5.5 Zimmer-Attika…
+88 m2
+Die im 2011 teilsanierte, schöne 4.5-Zimmerwohnung im 1. OG gefällt durch:- Originelles und optimal…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Wynaustrasse 24
-1'460
+1'370
 CHF
 /Monat
 Moderne 4.5-Zimmerwohnung an ruhiger La…
@@ -207,22 +192,159 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Mattenweg 20
-1'530
+Riedgasse 36 A
+1'410
 CHF
 /Monat
-Grosszügig wohnen in familienfreundlich…
-Mattenweg 20, 4912 Aarwangen
+grosszügige 4.5-Zimmerwohnung
+Riedgasse 36 A, 4912 Aarwangen
 Array
 4.5 Zimmer
-113 m2
+92 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-113 m2
-Wir vermieten eine grosszügige 4.5-Zimmer-Wohnung in ruhigem Quartier mit grossem, gedeckten Balkon…
+92 m2
+Die Liegenschaft befindet sich an ruhiger, sonniger Lage in der Nähe des Dorfzentrums, angrenzendan…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Riedgasse 36 A
+1'645
+CHF
+/Monat
+5 1/2-Zimmer-Familienwohnung im Dachges…
+Riedgasse 36 A, 4912 Aarwangen
+Array
+5.5 Zimmer
+124 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+124 m2
+Die Liegenschaft befindet sich an ruhiger, sonniger Lage in der Nähe des Dorfzentrums, angrenzendan…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bannfeldstrasse 4
+980
+CHF
+/Monat
+3 1/2-Zimmerwohnung, 1. Stock rechts
+Bannfeldstrasse 4, 4912 Aarwangen
+Array
+3.5 Zimmer
+56 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+56 m2
+Sonnige, ruhige und kinderfreundliche LagePer 01.11.2021 oder nach Vereinbarung vermieten wir eine …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Jurastrasse 34
+820
+CHF
+/Monat
+Meine Wohnung - mein Paradies!
+Jurastrasse 34, 4912 Aarwangen
+Array
+1.5 Zimmer
+21 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+21 m2
+Wohlfühloase: naturnahe, grosse 1.5 Zimmer WohnungWir vermieten diese schöne, frisch renovierte 1.5…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schmidtenweg 9
+1'250
+CHF
+/Monat
+Gemütliche 3.5-Zimmerwohnung an ruhiger…
+Schmidtenweg 9, 4912 Aarwangen
+Array
+3.5 Zimmer
+68 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+68 m2
+Die im 2011 teil-sanierte, schöne 3.5-Zimmerwohnung im 1. OG ist per 1. September 2021 oder nach Ve…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bannfeldstrasse
+780
+CHF
+/Monat
+3 1/2 Zimmerwohnung mit Balkon, Aarwang…
+Bannfeldstrasse, 4912 Aarwangen
+Array
+3.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+75 m2
+Sonnige, ruhige Lage im Grünen.Nach vereinbarung vermieten wir eine helle und grosszügige Wohnung. …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wiesenstrasse 25
+820
+CHF
+/Monat
+2,5 Zimmer Wohnung
+Wiesenstrasse 25, 4912 Aarwangen
+Array
+2 Zimmer
+45 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+45 m2
+Grosszügige gemütliche Wohnung in ruhigem Quartier. Böden Laminat und PVC, 2 Einbauschränke, Küche…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hardmattweg 3
+2'550
+CHF
+/Monat
+Grosszügige 5.5 Zimmer-Attikawohnung mi…
+Hardmattweg 3, 4912 Aarwangen
+Array
+5.5 Zimmer
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+In Aarwangen am Hardmattweg 3 vermieten wir ab 1. September 2021 eine grosszügige 5.5 Zimmer-Attika…
 Teilen
 E-Mail
 Facebook
@@ -267,23 +389,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Jurastrasse 91
-800
-CHF
-/Monat
-In Aarwangen,direkt an der Aare, 1.5 Zi…
-Jurastrasse 91, 4912 Aarwangen
-Array
-1.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Ab 1. Juli zu vermieten:Gemütliche 1.5 Zimmer-Dachwohnung, ruhig nach hinten gelegen mit direktem B…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Schmidtenweg 4
 1'480
 CHF
@@ -300,86 +405,6 @@ Zimmer
 Wohnfläche
 58 m2
 Wir vermieten per 01. September 2021 oder nach Vereinbarung eine 2.5-Zimmerwohnung im Dachgeschoss.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weierweg 3
-750
-CHF
-/Monat
-Studiowohnung in Aarwangen
-Weierweg 3, 4912 Aarwangen
-Array
-1.5 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-60 m2
-Zu vermieten Studiowohnung in Aarwangen ab 1 Juli.-Wohnzimmer mit Schwedenofen-Küche offen-Badezimm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wiesenstrasse 25
-820
-CHF
-/Monat
-2,5 Zimmer Wohnung
-Wiesenstrasse 25, 4912 Aarwangen
-Array
-2 Zimmer
-45 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-45 m2
-Grosszügige gemütliche Wohnung in ruhigem Quartier. Böden Laminat und PVC, 2 Einbauschränke, Küche…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schmidtenweg
-1'630
-CHF
-/Monat
-Schöne 3.5 Zimmer Wohnung Erstellungsja…
-Schmidtenweg, 4912 Aarwangen
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Ich suche einen Nachmieter für meine 3.5 Zimmer Wohnung im ersten Obergeschoss. (Lift vorhanden)Die…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Jurastrasse 34
-770
-CHF
-/Monat
-Ab sofort verfügbar! Warme und moderne …
-Jurastrasse 34, 4912 Aarwangen
-Array
-1.5 Zimmer
-22 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-22 m2
-Wohlfühloase: TOP 1.5 Zimmer WohnungWir vermieten diese schöne, frisch renovierte 1.5 Zimmer Wohnun…
 Teilen
 E-Mail
 Facebook
@@ -429,28 +454,14 @@ CHF
 Flurweg 21, 4912 Aarwangen
 Array
 4 Zimmer
+120 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4
+Wohnfläche
+120 m2
 Schöne, sonnige 4-Zimmer-Wohnung im 1. Stock eines Zweifamilienhauses an ruhiger Lage. Wohnküche mi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-aarwangen
-800
-CHF
-/Monat
-1.5 zimmer wohnung
-aarwangen, 4912 Aarwangen
-Array
-1.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Ich suche einen nachmieter per 1. juli für diese wunderschöne wohnung in aarwangenSuper aussicht800…
 Teilen
 E-Mail
 Facebook
@@ -490,7 +501,7 @@ Zimmer
 3.5
 Wohnfläche
 80 m2
-Per sofort oder nach Vereinbarung vermieten wir an der grünumgebene Wiesenstrasse 13 diese helle un…
+Per 1. August 2021 oder nach Vereinbarung vermieten wir an der grünumgebene Wiesenstrasse 13 diese …
 Teilen
 E-Mail
 Facebook

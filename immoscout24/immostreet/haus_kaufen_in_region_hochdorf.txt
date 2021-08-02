@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-hochdorf/
 Title: Haus kaufen in Region Hochdorf - Immostreet.ch
-Description: Haus kaufen in Region Hochdorf - Immostreet.ch: ImmoStreet.ch hat 11 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Region Hochdorf - Immostreet.ch: ImmoStreet.ch hat 14 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-11 Resultate gefunden ·
+14 Resultate gefunden ·
 Haus kaufen in Region Hochdorf
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,49 +138,87 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Sandblatte 3
-820'000
+Im Neuhof 2
+1'690'000
 CHF
-Reihenhaus in der «Sandblatte» - Rainer…
-Sandblatte 3, 6026 Rain
-Array
-4.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-4.5
-Wohnfläche
-112 m2
-Etage
-Die LageDie neuen Reihenhäuser„Sandblatte“ werden im gleichnamigen Gebiet, im westlichen Teil der G…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sommerau 4
-1'390'000
-CHF
-Traumhaus für die Familie
-Sommerau 4, 6274 Eschenbach LU
+Himmlisch wohnen im Garten Eden
+Im Neuhof 2, 6020 Emmenbrücke
 Array
 5.5 Zimmer
-130 m2
+177 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
 5.5
 Wohnfläche
-130 m2
-Das freistehende Einfamilienhaus am östlichen Dorfrand liegt in einem bevorzugten und ruhigen Einfa…
+177 m2
+Inmitten dieser grünen Oase, abseits von Lärm und Hektik mit Ausblick auf den Pilatus, befindet sic…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fahrwangenstrasse 5
+1'650'000
+CHF
+Grandioses Landhuus met Secht uf de Hal…
+Fahrwangenstrasse 5, 6287 Aesch LU
+Array
+8 Zimmer
+242 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+8
+Wohnfläche
+242 m2
+Etage
+I de Natur grosszögig wohne ond s Läbe gniesse Das stattliche Landhaus mit Ausbaupotential liegt an…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'486'000
+CHF
+AUSSERGEWÖHNLICHE ARCHITEKTUR MIT SEESI…
+Adresse auf Anfrage, 6280 Hochdorf
+Array
+5.5 Zimmer
+156 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+156 m2
+Am Dorfrand von Hochdorf liegt das aussergewöhnliche Zweifamilienhaus mit Gartensitzplatz und Terra…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Erlenweg
+1'025'000
+CHF
+Neues Einfamilienhausquartier mit Seenä…
+Erlenweg, 6287 Aesch LU
+Array
+5.5 Zimmer
+170 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+170 m2
+Endlich daheim - Herzlich Willkommen in Aesch LUGönnen Sie sich eine entspannte Bauphase und realis…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Alte Kantonsstrasse 98
-1'420'000
+1'365'000
 CHF
-Doppeleinfamilienhaus für Naturbegeiste…
+Perfektes Familienhaus - Natur pur
 Alte Kantonsstrasse 98, 6274 Eschenbach LU
 Array
 7.5 Zimmer
@@ -191,7 +229,85 @@ Zimmer
 7.5
 Wohnfläche
 185 m2
-Ideal für eine grosse FamilieDieses Doppelhaus bietet viel Raum und Möglichkeiten, um Ihre eigenen …
+Perfektes Familienhaus im GrünenDieses Doppelhaus bietet viel Raum und Möglichkeiten, um Ihre eigen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'280'000
+CHF
+Blick in die Natur und auf den See
+Adresse auf Anfrage, 6285 Retschwil
+Array
+5 Zimmer
+205 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5
+Wohnfläche
+205 m2
+Etage
+Beobachten Sie Rehe am Waldrand oder die Vögel über dem Baldeggersee. Das moderne, neuwertige Haus …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'750'000
+CHF
+FÜR ANSPRUCHSVOLLE GENIESSER
+Adresse auf Anfrage, 6287 Aesch LU
+Array
+4.5 Zimmer
+220 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+220 m2
+Etage
+Lebensqualität pur - hier können Sie Ihre Freizeit in vollen Zügen geniessen.Ein Traum der besonder…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'485'000
+CHF
+Neue 5.5 Zimmer-Terrassenwohnung mit SE…
+Adresse auf Anfrage, 6280 Hochdorf
+Array
+5.5 Zimmer
+156 m2
+Objekttyp
+Wohnung, Terrassenhaus
+Zimmer
+5.5
+Wohnfläche
+156 m2
+Diese grosse und top moderne 5.5 Zimmer Terrassenwohnung hat ungewöhnlich viel zu bieten.Das ausser…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Chäppeliachwerweg 1
+1'370'000
+CHF
+Einfamilienhaus-Neubauprojekt in famili…
+Chäppeliachwerweg 1, 6285 Hitzkirch
+Array
+5.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+150 m2
+Erfüllen Sie sich den Traum vom eigenen Einfamilienhaus mit Garten für Ihre Familie!Die geplanten E…
 Teilen
 E-Mail
 Facebook
@@ -216,79 +332,21 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Chäppeliachwerweg 1
-1'370'000
-CHF
-Einfamilienhaus-Neubauprojekt in famili…
-Chäppeliachwerweg 1, 6285 Hitzkirch
-Array
-5.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-150 m2
-Erfüllen Sie sich den Traum vom eigenen Einfamilienhaus mit Garten für Ihre Familie!Die geplanten E…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ferrenweg 4
-1'680'000
-CHF
-Ein Traum wird wahr!
-Ferrenweg 4, 6283 Baldegg
-Array
-5.5 Zimmer
-210 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-210 m2
-Das freistehende 6.5-Zimmer-Einfamilienhaus mit gehobenem Standard wurde 1982 an einer bevorzugten …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
-1'485'000
-CHF
-Attraktive 5.5 Zimmer-Terrassenwohnung …
-Adresse auf Anfrage, 6280 Hochdorf
+Preis auf Anfrage
+Stadtnah im Erholungsgebiet
+Adresse auf Anfrage, 6020 Emmenbrücke
 Array
-5.5 Zimmer
-156 m2
-Objekttyp
-Wohnung, Terrassenhaus
-Zimmer
-5.5
-Wohnfläche
-156 m2
-Diese grosse 5.5 Zimmer Terrassenwohnung befindet sich ausgangs Hochdorf, in einem neuen, modernen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rütimatt 3
-1'280'000
-CHF
-Traum vom eigenen Haus
-Rütimatt 3, 6285 Retschwil
-Array
-5 Zimmer
-134 m2
+4.5 Zimmer
+100 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-5
+4.5
 Wohnfläche
-134 m2
+100 m2
 Etage
-Hier fehlt es an nichts! Lassen Sie sich überzeugen von vielen durchdachten Details, Umschwung mit …
+Direkt einziehen - hier wurde bereits alles qualitativ hochwertig renoviert. Eingebettet in einem s…
 Teilen
 E-Mail
 Facebook

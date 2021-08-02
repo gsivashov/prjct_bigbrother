@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-hinwil/
 Title: Wohnung & Haus kaufen in Bezirk Hinwil - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Hinwil - Immostreet.ch: ImmoStreet.ch hat 85 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Hinwil - Immostreet.ch: ImmoStreet.ch hat 67 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-85 Resultate gefunden ·
+67 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Hinwil
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,11 +151,111 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Höhenstrasse 6
-620'000
+Buchgrindelstrasse 14
+848'000
 CHF
-Helle und geräumige 3.5 - Zimmerwohnung…
-Höhenstrasse 6, 8344 Bäretswil
+Grosse Wohnung mit stilvollem Innenausb…
+Buchgrindelstrasse 14, 8620 Wetzikon ZH
+Array
+3.5 Zimmer
+104 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+104 m2
+Etage
+«Grosszügiger Grundriss, moderner Innenausbau mit Stil, ein grosser, verglaster Balkon, offene Küch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sunnehofstrasse 12
+1'950'000
+CHF
+Bequem alles auf einer Etage mit mehr P…
+Sunnehofstrasse 12, 8625 Gossau ZH
+Array
+5.5 Zimmer
+184 m2
+Objekttyp
+Wohnung, Terrassenhaus
+Zimmer
+5.5
+Wohnfläche
+184 m2
+Etage
+An ruhiger und sehr sonniger Südhanglage, mit einer schönen Fernsicht über Felder in die Berge, lie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+unterer Hömel 2
+1'320'000
+CHF
+DAS PERFEKTE FAMILIENHAUS MIT IDYLLISCH…
+unterer Hömel 2, 8636 Wald ZH
+Array
+5.5 Zimmer
+115 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+115 m2
+Etage
+FREISTEHENDES EINFAMILIENHAUS MIT FERNSICHT
+Dieses 5 1/2 Zimmer Zuhause könnte schon bald Ihres …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'299'000
+CHF
+Seien Sie Ihr eigener Innendesigner
+Adresse auf Anfrage, 8344 Bäretswil
+Array
+5.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+112 m2
+Seien Sie Ihr eigener InnendesignerDas 5.5 Zimmer Eckhaus befindet sich an idyllischer Wohnlage im …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gerbiweg, 3
+110'000
+CHF
+Atelier an Traumhafter Lage zu verkaufe…
+Gerbiweg, 3, 8636 Wald ZH
+Array
+1 Zimmer
+32 m2
+Objekttyp
+Atelier
+Zimmer
+1
+Wohnfläche
+32 m2
+Etage
+Atelier an Traumhafter ruhiger Lage zu Verkaufen, kann auch als Bastelraum , Büro oder Therapieraum…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Berglistrasse 2
+765'000
+CHF
+Helle 3½ Zi. Wohnung in nächster Nähe z…
+Berglistrasse 2, 8620 Wetzikon ZH
 Array
 3.5 Zimmer
 92 m2
@@ -165,160 +265,26 @@ Zimmer
 3.5
 Wohnfläche
 92 m2
-Die 3.5 - Zimmerwohnung im Erdgeschoss glänzt mit einem durchdachten, grosszügig konzipierten Grund…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bäretswil
-998'000
-CHF
-Lichtdurchflutete 5.5-Zimmer Maisonette…
-Bäretswil, 8344 Bäretswil
-Array
-5.5 Zimmer
-154 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-Wohnfläche
-154 m2
-Diese schöne und gemütliche Maisonette an ruhiger sowie sonniger Lage besticht mit ihren geräumigen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bachtelstrasse 5
-1'095'000
-CHF
-Endlich Zuhause Traumaussicht auf Bacht…
-Bachtelstrasse 5, 8340 Hinwil
-Array
-4.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-112 m2
-An zentraler Wohnlage entstehen diese modernen Neubauwohnungen. Die attraktive Überbauung mit 8 Woh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schulhausstrasse 3
-1'460'000
-CHF
-Wohnen am Mülibach
-Schulhausstrasse 3, 8340 Hinwil
-Array
-5.5 Zimmer
-181 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-181 m2
-ReiheneinfamilienhäuserZu verkaufen per 2022 an sonniger, unverbaubarer und meist nebelfreier Lage,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blumenbergstrasse 12
-980'000
-CHF
-Jung bleiben und älter werden - Das neu…
-Blumenbergstrasse 12, 8633 Wolfhausen
-Array
-4.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-130 m2
-Etage
-Diese ideale Familienwohnung im Dorfkern von Wolfhausen sucht Ihren neuen Eigentümer.Die Wohnlage i…
+Im bevorzugtem Quartier Kempten von Wetzikon, zwischen dem Pfäffikersee und dem Bachtel entsteht di…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-Preis auf Anfrage
-Einfamilienhaus
-Adresse auf Anfrage, 8497 Fischenthal
-Array
-4.5 Zimmer
-101 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-4.5
-Wohnfläche
-101 m2
-Etage
-Dieses einseitig angebaute Einfamilienhaus liegt im nebelfreien und naturnahen Fischenthal.Das Haus…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oelestrasse 36
-1'150'000
+1'480'000
 CHF
-Gepflegtes Reihen-Einfamilienhaus an ru…
-Oelestrasse 36, 8625 Gossau ZH
+HOCHWERTIG, MODERN UND MIT AUSBAUPOTENZ…
+Adresse auf Anfrage, 8620 Wetzikon ZH
 Array
-5.5 Zimmer
-145 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-145 m2
-Das schöne und gepflegte Reihen-Einfamilienhaus in Gossau ZH liegt an ruhiger Lage (Sackgasse) in G…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Burghaldenstrasse 6
-495'000
-CHF
-Charmantes 5-Zimmer-Flarzhaus mit Garte…
-Burghaldenstrasse 6, 8497 Fischenthal
-Array
-5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5
-Wohnfläche
-90 m2
-Gepflegter 5-Zimmer-Flarzhausteil mit einfachem, aber gepflegtem Ausbaustandard; Baujahr 1800, zwei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Neuhusstrasse 13
-1'150'000
-CHF
-Eckhaus mit super Aussicht / grosser Do…
-Neuhusstrasse 13, 8630 Rüti ZH
-Array
-4.5 Zimmer
-125 m2
+6.5 Zimmer
+139 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-4.5
+6.5
 Wohnfläche
-125 m2
-LageDas Haus besticht durch die sonnige und ruhige Lage in einer Sackgasse. Super Aussicht auf die …
+139 m2
+Dieses grosszügige Haus garantiert mit knapp 140 m2 Wohnfläche viel Lebensqualität und zeichnet sic…
 Teilen
 E-Mail
 Facebook
@@ -342,41 +308,120 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'580'000
+Bühlhofstrasse 22b
+1'080'000
 CHF
-HOCHWERTIG, MODERN UND MIT AUSBAUPOTENZ…
-Adresse auf Anfrage, 8620 Wetzikon ZH
+Grundstück mit Potenzial
+Bühlhofstrasse 22b, 8633 Wolfhausen
 Array
-6.5 Zimmer
-139 m2
+5 Zimmer
+96 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-6.5
+5
 Wohnfläche
-139 m2
-Dieses grosszügige Haus garantiert mit knapp 140 m2 Wohnfläche viel Lebensqualität und zeichnet sic…
+96 m2
+Etage
+Im Auftrag unseres Kunden verkaufen wir an sonniger, ruhiger und zentraler Wohnlage am Ende einer S…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Talstr. 8
+1'450'000
+CHF
+Über den Dächern von Wetzikon: Nachhalt…
+Talstr. 8, 8620 Wetzikon ZH
+Array
+4.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+123 m2
+Sehr zentral gelegen, nur wenige Gehminuten vom Stadtzentrum entfernt und doch schnell im wundersch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lorenwäldlistrasse 18
+1'155'000
+CHF
+Neuwertiges Wohnen mit Stil und Weitsic…
+Lorenwäldlistrasse 18, 8630 Rüti ZH
+Array
+4.5 Zimmer
+135 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+135 m2
+Zum Verkauf steht eine moderne, neuwertige Wohnung an bevorzugter, ruhiger Wohnlage, unmittelbar be…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Guyer-Zeller-Strasse 17
-900'000
+790'000
 CHF
-Willkommen in der Villa Riviera.2: Eine…
+Willkommen in der Residenz Villa Rivier…
 Guyer-Zeller-Strasse 17, 8620 Wetzikon ZH
 Array
-3.5 Zimmer
-90 m2
+2.5 Zimmer
+77 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+2.5
 Wohnfläche
-90 m2
-Schön, dass Sie sich für die neue Villa Riviera.2 in Wetzikon interessieren!
-Wo einst die histori…
+77 m2
+WENIGE WOHNUNGEN NOCH ERHÄLTLICH!
+PROFITIEREN SIE VON DEN JETZT NOCH TIEFEN ZINSEN FÜR HYPOTHEKEN…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Guyer-Zeller-Strasse 17
+800'000
+CHF
+Willkommen in der Residenz Villa Rivier…
+Guyer-Zeller-Strasse 17, 8620 Wetzikon ZH
+Array
+2.5 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+78 m2
+WENIGE WOHNUNGEN NOCH ERHÄLTLICH!
+PROFITIEREN SIE VON DEN JETZT NOCH TIEFEN ZINSEN FÜR HYPOTHEKEN…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Guyer-Zeller-Strasse 17
+800'000
+CHF
+Willkommen in der Residenz Villa Rivier…
+Guyer-Zeller-Strasse 17, 8620 Wetzikon ZH
+Array
+2.5 Zimmer
+77 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+77 m2
+WENIGE WOHNUNGEN NOCH ERHÄLTLICH!
+PROFITIEREN SIE VON DEN JETZT NOCH TIEFEN ZINSEN FÜR HYPOTHEKEN…
 Teilen
 E-Mail
 Facebook
@@ -384,163 +429,121 @@ Whatsapp
 Guyer-Zeller-Strasse 17
 780'000
 CHF
-Willkommen in der Villa Riviera.2: Eine…
+Willkommen in der Residenz Villa Rivier…
 Guyer-Zeller-Strasse 17, 8620 Wetzikon ZH
 Array
 2.5 Zimmer
-78 m2
+70 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-78 m2
-Schön, dass Sie sich für die neue Villa Riviera.2 in Wetzikon interessieren!
-Wo einst die histori…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wetzikerstrasse 4
-1'050'000
-CHF
-Raumwunder mit Potential
-Wetzikerstrasse 4, 8344 Bäretswil
-Array
-11.5 Zimmer
-200 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-11.5
-Wohnfläche
-200 m2
-Etage
-Im Dorfzentrum von Bäretswil, an sonniger und zentraler Lage, an der Hauptstrasse nach Wetzikon, li…
+70 m2
+WENIGE WOHNUNGEN NOCH ERHÄLTLICH!
+PROFITIEREN SIE VON DEN JETZT NOCH TIEFEN ZINSEN FÜR HYPOTHEKEN…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-820'000
+995'000
 CHF
-Kreatives Wohnen im Grünen
-Adresse auf Anfrage, 8636 Wald ZH
+MODERN, HELL UND HOCHWERTIG
+Adresse auf Anfrage, 8623 Wetzikon ZH
 Array
-1 Zimmer
-159 m2
-Objekttyp
-Wohnung, Loft
-Zimmer
-1
-Wohnfläche
-159 m2
-Kreatives Wohnen im GrünenHoch über der Gemeinde Wald schmiegt sich das ehemalige Webereigebäude, d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schwalbenstrasse 2
-1'670'000
-CHF
-Grosszügige Eigentumswohnung zwischen O…
-Schwalbenstrasse 2, 8623 Wetzikon ZH
-Array
-6.5 Zimmer
-164 m2
+4.5 Zimmer
+119 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-6.5
+4.5
 Wohnfläche
-164 m2
-Etage
-Die im Jahr 2016 erstelle Wohnüberbauung NAHraum liegt an der Schwalbenstrasse 2 in Wetzikon Kempte…
+119 m2
+Am Rande vom ländlich geprägten, aber stadtnahen Wetzikon befindet sich diese Liegenschaft, welches…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Guyer-Zeller-Strasse 17
-910'000
-CHF
-Willkommen in der Villa Riviera.2: Ihre…
-Guyer-Zeller-Strasse 17, 8620 Wetzikon ZH
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Schön, dass Sie sich für die neue Villa Riviera.2 in Wetzikon interessieren!
-Wo einst die histori…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Guyer-Zeller-Strasse 17
-320'000
-CHF
-Willkommen in der Villa Riviera.2: Ihr …
-Guyer-Zeller-Strasse 17, 8620 Wetzikon ZH
-Array
-1 Zimmer
-29 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-29 m2
-Schön, dass Sie sich für die neue Villa Riviera.2 in Wetzikon interessieren!
-Wo einst die histori…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Guyer-Zeller-Strasse 17
-770'000
-CHF
-Willkommen in der Villa Riviera.2: Ihre…
-Guyer-Zeller-Strasse 17, 8620 Wetzikon ZH
-Array
-2.5 Zimmer
-78 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-78 m2
-Schön, dass Sie sich für die neue Villa Riviera.2 in Wetzikon interessieren!
-Wo einst die histori…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rebrainstrasse 17
+Binzholzstrasse 6
 1'300'000
 CHF
-Schönes Grundstück mit sehr viel Potenz…
-Rebrainstrasse 17, 8632 Tann
+Herrliche Aussichten
+Binzholzstrasse 6, 8636 Wald ZH
 Array
-3.5 Zimmer
-110 m2
+6.5 Zimmer
+194 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-3.5
+6.5
 Wohnfläche
-110 m2
+194 m2
 Etage
-In Tann verkaufen wir ein schönes Grundstück mit sehr viel Potenzial. Die Parzelle n°13467 mit eine…
+Im Auftrag unseres Kunden verkaufen wir leicht erhöhter, sonniger Südhanglage im beliebten Quartier…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 5
+Brüglenstrasse 6
+515'000
+CHF
+Wohnen fast wie in den Ferien
+Brüglenstrasse 6, 8636 Wald ZH
+Array
+4.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+75 m2
+Wenn Sie schon lange von einem bezahlbaren, optimal gelegenen Eigenheim träumen, dann haben wir gen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gemeindehausstrasse 8
+880'000
+CHF
+Als Renditeobjekt oder zur Selbstnutzung
+Gemeindehausstrasse 8, 8340 Hinwil
+Array
+3.5 Zimmer
+96 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+96 m2
+LageDie gepflegte Liegenschaft befindet sich im Zentrum von Hinwil. Eine sehr gute Anbindung an den…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'395'000
+CHF
+Das ist es!
+Adresse auf Anfrage, 8635 Dürnten
+Array
+6.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+150 m2
+Etage
+Ruhig und familiär, grosszügig und hell – genau so zeigt sich dieses tolle Haus in freundlichem Fam…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 4
 1
 2
 3

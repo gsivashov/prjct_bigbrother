@@ -81,7 +81,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -99,7 +99,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -153,375 +153,336 @@ WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
 NEU
-FORD
-Kuga 2.5 Plug-in Hybrid ST-Line X
-CHF 46'058
-ab CHF 495/Monat
+MERCEDES-BENZ
+C 300 d Kombi AMG Line
+CHF 81'719
+ab CHF 878/Monat
 -
 Automat
-0 km
-Plug-in-Hybrid Benzin/Elektro
-Vorderradantrieb
-schwarz
-152 PS
-ZH
-Merken
-FORD
-Kuga 2.5 Plug-in Hybrid ST-Line X
--
-152 PS
-0 km
-CHF 46'058
-Merken
-ab CHF 495/Monat
-NEU
-TOYOTA
-Auris Touring Sports 1.8 HSD Trend e-CVT
-CHF 18'900
-ab CHF 203/Monat
-05.2017
-Automat
-39'500 km
-Voll-Hybrid Benzin/Elektro
-Vorderradantrieb
-grau
-136 PS
-AG
-Merken
-TOYOTA
-Auris Touring Sports 1.8 HSD Tren...
-05.2017
-136 PS
-39'500 km
-CHF 18'900
-Merken
-ab CHF 203/Monat
-NEU
-AUDI
-A3 Sportback 1.4 e-tron Sport S-tronic
-CHF 22'950
-ab CHF 247/Monat
-11.2016
-Automat
-43'000 km
-Plug-in-Hybrid Benzin/Elektro
-Vorderradantrieb
-schwarz
-150 PS
-SZ
-Merken
-AUDI
-A3 Sportback 1.4 e-tron Sport S-t...
-11.2016
-150 PS
-43'000 km
-CHF 22'950
-Merken
-ab CHF 247/Monat
-NEU
-BMW
-i3s (94Ah) Range Extender
-CHF 29'900
-ab CHF 322/Monat
-04.2018
--
-44'000 km
-Plug-in-Hybrid Benzin/Elektro
+10 km
+Mild-Hybrid Diesel/Elektro
 Hinterradantrieb
 schwarz
-184 PS
-LU
+265 PS
+SG
 Merken
-BMW
-i3s (94Ah) Range Extender
-04.2018
-184 PS
-44'000 km
-CHF 29'900
-Merken
-ab CHF 322/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-JEEP
-Compass 1.3 T PHEV S AWD
-CHF 50'550
-ab CHF 543/Monat
-01.2021
-Automat
+MERCEDES-BENZ
+C 300 d Kombi AMG Line
+-
+265 PS
 10 km
+CHF 81'719
+Merken
+ab CHF 878/Monat
+NEU
+PORSCHE
+Panamera 2.9 V6 4 E-Hybrid CH-Fahrzeug
+CHF 97'999
+ab CHF 1053/Monat
+11.2018
+Automat
+30'444 km
 Plug-in-Hybrid Benzin/Elektro
 Allradantrieb
 grau
-240 PS
-ZH
+330 PS
+TG
 Merken
-JEEP
-Compass 1.3 T PHEV S AWD
-01.2021
-240 PS
-10 km
-CHF 50'550
+PORSCHE
+Panamera 2.9 V6 4 E-Hybrid CH-Fah...
+11.2018
+330 PS
+30'444 km
+CHF 97'999
 Merken
-ab CHF 543/Monat
+ab CHF 1053/Monat
 NEU
-JEEP
-Wrangler 2.0 HEV Unlimited Rubicon Automatic
-CHF 79'950
-ab CHF 859/Monat
-01.2021
-Automat
-10 km
-Plug-in-Hybrid Benzin/Elektro
-Allradantrieb
-grau
-381 PS
-ZH
-Merken
-JEEP
-Wrangler 2.0 HEV Unlimited Rubico...
-01.2021
-381 PS
-10 km
-CHF 79'950
-Merken
-ab CHF 859/Monat
-NEU
-TOYOTA
-RAV-4 2.5 HSD Premium e-CVT
-CHF 35'200
-ab CHF 379/Monat
-12.2018
-Automat
-24'000 km
-Voll-Hybrid Benzin/Elektro
-Allradantrieb
-blau
-197 PS
-LU
-Merken
-TOYOTA
-RAV-4 2.5 HSD Premium e-CVT
-12.2018
-197 PS
-24'000 km
-CHF 35'200
-Merken
-ab CHF 379/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-TOYOTA
-Prius 1.8 VVT-i HSD Premium AWD-i
-CHF 36'900
-ab CHF 397/Monat
-09.2020
-Automat
-4'000 km
-Voll-Hybrid Benzin/Elektro
-Allradantrieb
-silber
-122 PS
-LU
-Merken
-TOYOTA
-Prius 1.8 VVT-i HSD Premium AWD-i
-09.2020
-122 PS
-4'000 km
-CHF 36'900
-Merken
-ab CHF 397/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-TOYOTA
-Yaris 1.5 VVT-i Hybrid Premium e-CVT
-CHF 24'900
-ab CHF 268/Monat
-09.2019
-Automat
-13'000 km
-Voll-Hybrid Benzin/Elektro
-Vorderradantrieb
-silber
-101 PS
-LU
-Merken
-TOYOTA
-Yaris 1.5 VVT-i Hybrid Premium e-...
-09.2019
-101 PS
-13'000 km
-CHF 24'900
-Merken
-ab CHF 268/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-TOYOTA
-C-HR 1.8 HSD Trend CVT
-CHF 32'900
-ab CHF 354/Monat
-02.2020
-Automat
-100 km
-Voll-Hybrid Benzin/Elektro
-Vorderradantrieb
-anthrazit
-122 PS
-LU
-Merken
-TOYOTA
-C-HR 1.8 HSD Trend CVT
-02.2020
-122 PS
-100 km
-CHF 32'900
-Merken
-ab CHF 354/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-SUBARU
-Forester 2.0i e-Boxer Luxury Lineartronic
-CHF 36'900
-ab CHF 397/Monat
-04.2020
-Automat
-8'000 km
-Voll-Hybrid Benzin/Elektro
-Allradantrieb
-silber
-150 PS
-LU
-Merken
-SUBARU
-Forester 2.0i e-Boxer Luxury Line...
-04.2020
-150 PS
-8'000 km
-CHF 36'900
-Merken
-ab CHF 397/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-SUBARU
-XV 2.0 e-Boxer Luxury AWD Lineartronic
-CHF 31'800
-ab CHF 342/Monat
-01.2020
-Automat
-11'000 km
-Voll-Hybrid Benzin/Elektro
-Allradantrieb
-blau
-150 PS
-LU
-Merken
-SUBARU
-XV 2.0 e-Boxer Luxury AWD Lineart...
-01.2020
-150 PS
-11'000 km
-CHF 31'800
-Merken
-ab CHF 342/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-SUBARU
-XV 2.0 e-Boxer Luxury AWD Lineartronic
-CHF 32'900
-ab CHF 354/Monat
+VW
+Golf Style PHEV
+CHF 40'900
+ab CHF 440/Monat
 12.2020
 Automat
-4'000 km
+10'900 km
+Voll-Hybrid Benzin/Elektro
+Vorderradantrieb
+weiss
+204 PS
+BE
+Merken
+VW
+Golf Style PHEV
+12.2020
+204 PS
+10'900 km
+CHF 40'900
+Merken
+ab CHF 440/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+AUDI
+Q3 Sportback 45 TFSI e S line
+CHF 67'140
+ab CHF 722/Monat
+-
+Automat
+20 km
+Voll-Hybrid Benzin/Elektro
+Vorderradantrieb
+schwarz
+245 PS
+ZH
+Merken
+AUDI
+Q3 Sportback 45 TFSI e S line
+-
+245 PS
+20 km
+CHF 67'140
+Merken
+ab CHF 722/Monat
+NEU
+SUZUKI
+Swift 1.2 Compact+ Hybrid 4x4
+CHF 18'600
+ab CHF 200/Monat
+06.2021
+Handschaltung
+50 km
+Mild-Hybrid Benzin/Elektro
+Allradantrieb
+weiss
+83 PS
+LU
+Merken
+SUZUKI
+Swift 1.2 Compact+ Hybrid 4x4
+06.2021
+83 PS
+50 km
+CHF 18'600
+Merken
+ab CHF 200/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+NEU
+FORD
+Kuga 2.5 Hybrid Vignale 4x4
+CHF 45'800
+ab CHF 492/Monat
+06.2021
+Automat
+500 km
+Voll-Hybrid Benzin/Elektro
+Allradantrieb
+grau
+152 PS
+SZ
+Merken
+FORD
+Kuga 2.5 Hybrid Vignale 4x4
+06.2021
+152 PS
+500 km
+CHF 45'800
+Merken
+ab CHF 492/Monat
+NEU
+VOLVO
+XC40 T5 TwE R-Design
+CHF 49'220
+ab CHF 529/Monat
+12.2020
+Automat
+9'990 km
+Voll-Hybrid Benzin/Elektro
+Vorderradantrieb
+weiss
+180 PS
+AG
+Merken
+VOLVO
+XC40 T5 TwE R-Design
+12.2020
+180 PS
+9'990 km
+CHF 49'220
+Merken
+ab CHF 529/Monat
+NEU
+CUPRA
+LEON SPORTSTOURER e-HYBRID
+CHF 49'500
+ab CHF 532/Monat
+-
+Automat
+50 km
+Voll-Hybrid Benzin/Elektro
+Vorderradantrieb
+sonstiges
+245 PS
+SG
+Merken
+CUPRA
+LEON SPORTSTOURER e-HYBRID
+-
+245 PS
+50 km
+CHF 49'500
+Merken
+ab CHF 532/Monat
+MERCEDES-BENZ
+GLC 300 de AMG Line 4M A
+CHF 71'900
+ab CHF 773/Monat
+02.2021
+Automat
+11'700 km
+Voll-Hybrid Diesel/Elektro
+Allradantrieb
+schwarz
+195 PS
+ZH
+Merken
+MERCEDES-BENZ
+GLC 300 de AMG Line 4M A
+02.2021
+195 PS
+11'700 km
+CHF 71'900
+Merken
+ab CHF 773/Monat
+FIAT
+500 1.0 Hybrid Lounge
+CHF 18'300
+ab CHF 197/Monat
+-
+Handschaltung
+0 km
+Mild-Hybrid Benzin/Elektro
+Vorderradantrieb
+rot
+70 PS
+AG
+Merken
+FIAT
+500 1.0 Hybrid Lounge
+-
+70 PS
+0 km
+CHF 18'300
+Merken
+ab CHF 197/Monat
+FIAT
+500 1.0 Hybrid Hey Google
+CHF 19'900
+ab CHF 214/Monat
+-
+Handschaltung
+0 km
+Mild-Hybrid Benzin/Elektro
+Vorderradantrieb
+weiss
+70 PS
+AG
+Merken
+FIAT
+500 1.0 Hybrid Hey Google
+-
+70 PS
+0 km
+CHF 19'900
+Merken
+ab CHF 214/Monat
+AUDI
+Q5 50 TFSI e S line
+CHF 85'115
+ab CHF 915/Monat
+-
+Automat
+30 km
 Voll-Hybrid Benzin/Elektro
 Allradantrieb
 schwarz
-150 PS
-LU
+299 PS
+FL
 Merken
-SUBARU
-XV 2.0 e-Boxer Luxury AWD Lineart...
-12.2020
-150 PS
-4'000 km
-CHF 32'900
+AUDI
+Q5 50 TFSI e S line
+-
+299 PS
+30 km
+CHF 85'115
 Merken
-ab CHF 354/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-SUBARU
-Impreza 2.0i e-Boxer Swiss Plus AWD CVT
-CHF 32'900
-ab CHF 354/Monat
-06.2020
+ab CHF 915/Monat
+JEEP
+Compass 1.3 S 4xe NEW MY21
+CHF 51'745
+ab CHF 556/Monat
+-
 Automat
-500 km
-Mild-Hybrid Benzin/Elektro
+100 km
+Plug-in-Hybrid Benzin/Elektro
 Allradantrieb
-silber
-150 PS
-LU
+schwarz
+180 PS
+AG
 Merken
-SUBARU
-Impreza 2.0i e-Boxer Swiss Plus A...
-06.2020
-150 PS
-500 km
-CHF 32'900
+JEEP
+Compass 1.3 S 4xe NEW MY21
+-
+180 PS
+100 km
+CHF 51'745
 Merken
-ab CHF 354/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-TOYOTA
-Auris 1.8 16V HSD Linea Trend
-CHF 12'900
-ab CHF 139/Monat
-12.2014
+ab CHF 556/Monat
+JEEP
+Compass 1.3 S 4xe NEW MY21
+CHF 51'745
+ab CHF 556/Monat
+-
 Automat
-93'000 km
-Voll-Hybrid Benzin/Elektro
-Vorderradantrieb
-grau
-136 PS
-LU
+100 km
+Plug-in-Hybrid Benzin/Elektro
+Allradantrieb
+schwarz
+180 PS
+AG
 Merken
-TOYOTA
-Auris 1.8 16V HSD Linea Trend
-12.2014
-136 PS
-93'000 km
-CHF 12'900
+JEEP
+Compass 1.3 S 4xe NEW MY21
+-
+180 PS
+100 km
+CHF 51'745
 Merken
-ab CHF 139/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
+ab CHF 556/Monat
+JEEP
+Compass 1.3 S 4xe MY20
+CHF 44'990
+ab CHF 484/Monat
+-
+Automat
+100 km
+Plug-in-Hybrid Benzin/Elektro
+Allradantrieb
+schwarz
+180 PS
+AG
+Merken
+JEEP
+Compass 1.3 S 4xe MY20
+-
+180 PS
+100 km
+CHF 44'990
+Merken
+ab CHF 484/Monat
 1
 1
 2

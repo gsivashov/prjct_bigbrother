@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/in-moehlin/
 Title: Wohnung & Haus kaufen in Möhlin - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Möhlin - Immostreet.ch: ImmoStreet.ch hat 10 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Möhlin - Immostreet.ch: ImmoStreet.ch hat 8 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-10 Resultate gefunden ·
+8 Resultate gefunden ·
 Wohnung & Haus kaufen in Möhlin
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,22 +151,43 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-1'800'000
+Langackerstrasse 1
+850'000
 CHF
-Ein Zuhause mit Potential!
-Adresse auf Anfrage, 4313 Möhlin
+6 1/2 Zimmer-Familienhaus mit Ausbaures…
+Langackerstrasse 1, 4313 Möhlin
 Array
-8 Zimmer
-299 m2
+6.5 Zimmer
+125 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-8
+6.5
 Wohnfläche
-299 m2
+125 m2
 Etage
-Verwirklichen Sie Ihren Traum! Hier bietet sich Ihnen die Möglichkeit, eine bestehende Haustierpens…
+Am Rande von Möhlin an ruhiger Lage befindet sich dieses charmante Einfamilienhaus. Aufgrund des gr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kellersmattstrasse
+1'550'000
+CHF
+8 neue Doppelhaushälften
+Kellersmattstrasse, 4313 Möhlin
+Array
+6 Zimmer
+153 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+6
+Wohnfläche
+153 m2
+Zentral, sonnig und ruhig
+Suchen Sie etwas Spezielles?
+…dann lassen Sie sich dieses Angebot nic…
 Teilen
 E-Mail
 Facebook
@@ -189,59 +210,22 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'440'000
+Kornfeldstrasse 8
+895'000
 CHF
-MÖHLIN - HERRLICHES EINFAMILIENHAUS - 4…
-Adresse auf Anfrage, 4313 Möhlin
-Array
-4.5 Zimmer
-175 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-175 m2
-Dieses, sich aufgrund einer umfangreichen Renovation in neuwertigem Zustand befindliche Einfamilien…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kellersmattstrasse
-Preis auf Anfrage
-8 neue Doppelhaushälften
-Kellersmattstrasse, 4313 Möhlin
-Array
-6 Zimmer
-154 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-6
-Wohnfläche
-154 m2
-8 neue Doppelhaushälften
-In der Kellersmattstrasse in Möhlin entstehen 8 neue Doppelhaushälften.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'120'000
-CHF
-Modernes 5.5-Zimmer Reiheneckeinfamilie…
-Adresse auf Anfrage, 4313 Möhlin
+Grosszügige, komfortable und äusserst c…
+Kornfeldstrasse 8, 4313 Möhlin
 Array
 5.5 Zimmer
-150 m2
+160 m2
 Objekttyp
-Wohnung, Reihenfamilienhaus
+Wohnung, Duplex
 Zimmer
 5.5
 Wohnfläche
-150 m2
-Dieses Reiheneckeinfamilienhaus in moderner Architektur befindet sich am Rothägliweg 15 in einer ru…
+160 m2
+Etage
+Sie suchen eine ruhige und trotzdem zentral gelegene Wohnung in Möhlin? Wie wär's dann mit dieser k…
 Teilen
 E-Mail
 Facebook
@@ -249,7 +233,7 @@ Whatsapp
 Adresse auf Anfrage
 595'000
 CHF
-Glücklich wohnen leicht gemacht!
+Einladend - Modern - Wunderschön!
 Adresse auf Anfrage, 4313 Möhlin
 Array
 3.5 Zimmer
@@ -268,7 +252,7 @@ Whatsapp
 Salinenstrasse 1B
 860'000
 CHF
-5-Zi-Maisonettewohnung
+Sonnenuntergang auf dem grossen Balkon …
 Salinenstrasse 1B, 4313 Möhlin
 Array
 5 Zimmer
@@ -280,66 +264,46 @@ Zimmer
 Wohnfläche
 139 m2
 Etage
-139 m² Wohnfläche warten auf neue Bewohnerinnen und Bewohner.Die Wohnung hat sehr viel Cachet und a…
+5-Zi-Maisonettewohnung mit 139 m² Wohnfläche warten auf neue Bewohnerinnen und Bewohner.Die Wohnung…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'790'000
+1'800'000
 CHF
-Grosszügiges, edles Wohnambiente mit sc…
+Ein Zuhause mit Potential!
 Adresse auf Anfrage, 4313 Möhlin
 Array
+8 Zimmer
+299 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+8
+Wohnfläche
+299 m2
+Etage
+Verwirklichen Sie Ihren Traum! Hier bietet sich Ihnen die Möglichkeit, eine bestehende Haustierpens…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fasanenstrasse 5
+1'380'000
+CHF
+Exklusives Neubauprojekt in Möhlin
+Fasanenstrasse 5, 4313 Möhlin
+Array
 5.5 Zimmer
-244 m2
+156 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
 5.5
 Wohnfläche
-244 m2
-Sie wohnen nahe dem öffentlichen Verkehr und den Einkaufsgelegenheiten und Ihr grosser Garten grenz…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eschenmattstrasse
-1'290'000
-CHF
-Nur 3 Eigentümer - gross, zentral und e…
-Eschenmattstrasse, 4313 Möhlin
-Array
-5.5 Zimmer
-173 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-173 m2
-Wohnen Sie gerne an zentraler, ruhiger und sonniger Lage?
-…dann könnte diese Wohnung für Sie sehr …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eschenmattstrasse
-1'232'000
-CHF
-Nur 3 Eigentümer, neu, zentral und ruhig
-Eschenmattstrasse, 4313 Möhlin
-Array
-4.5 Zimmer
-145 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-145 m2
-Wohnen Sie gerne an zentraler, ruhiger und sonniger Lage?
-…dann könnte diese Wohnung für Sie sehr …
+156 m2
+Ihre Suche hat ein Ende, denn hier treffen Sie auf eine Immobilie, mit welcher Sie Ihren individuel…
 Teilen
 E-Mail
 Facebook

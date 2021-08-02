@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/motorrad/marktplatz/brixton
 Title: Brixton Motorrad occasion oder neu kaufen - comparis.ch
 Description: Brixton Motorrad Occasion oder neu zum besten Preis kaufen. Im grössten Motorradmarkt der Schweiz alle Inserate der grössten Online Portale auf einen Blick
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -149,7 +147,7 @@ Favoriten (0)
 Ihre Auswahl
 Brixton Motorrad
 Motorradmarkt: Occasionen und neue Motorräder
-293
+331
 Treffer für Sie gefunden auf allen grossen Schweizer Motorrad-Portalen
 Treffer für Sie gefunden auf allen grossen Schweizer Motorrad-Portalen
 Erstzulassung
@@ -637,141 +635,139 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Brixton
-(293)
+(331)
 Brixton Neu
-(250)
+(286)
 Brixton Occasion
-(39)
+(43)
 Aufbau
 Brixton Strasse
-(110)
+(106)
 Brixton
 Modelle
 Brixton Brixton BX125 Classic
-(22)
-Brixton Brixton BX125R Cafe Racer
-(4)
+(10)
 Brixton Brixton BX125X Scrambler
-(21)
-Brixton FELSBERG 125 ABS
+(16)
+Brixton Cromwell 250
 Alle Details
-Inserat vom 10.06.2021
-Neu
-01.1970
-10 km
+Inserat vom 30.07.2021
+Occasion
+06.2020
+3'500 km
+250 ccm
+Preis
+CHF 3'950.-
+Alle Details
+CHF 3'950.-
+Alle Details
+Brixton Crossfire 500
+Alle Details
+Inserat vom 27.07.2021
+Occasion
+11.2020
+15'373 km
+486 ccm
+Preis
+CHF 5'990.-
+Alle Details
+CHF 5'990.-
+Alle Details
+Brixton Cromwell 125 ABS Euro 5
+Alle Details
+Inserat vom 25.07.2021
+Occasion
+05.2021
+700 km
 125 ccm
+Preis
+CHF 3'000.-
+Alle Details
+CHF 3'000.-
+Alle Details
+Brixton Crossfire 500
+Alle Details
+Inserat vom 25.07.2021
+Neu
+05.2021
+0 km
+486 ccm
+Preis
+CHF 7'290.-
+Alle Details
+CHF 7'290.-
+Alle Details
+Brixton Felsberg 125
+Alle Details
+Inserat vom 24.07.2021
+Neu
+08.2021
+5 km
+124 ccm
 Preis
 CHF 3'890.-
 Alle Details
 CHF 3'890.-
 Alle Details
-Brixton FELSBERG 125 XC
+Brixton Crossfire 500
 Alle Details
-Inserat vom 10.06.2021
+Inserat vom 23.07.2021
 Neu
-01.1970
-10 km
-125 ccm
+12.2022
+1 km
+486 ccm
+Preis
+CHF 7'290.-
+Alle Details
+CHF 7'290.-
+Alle Details
+Brixton Cromwell 125 ABS Euro 5
+Alle Details
+Inserat vom 23.07.2021
+Occasion
+05.2021
+700 km
+124 ccm
+Preis
+CHF 3'000.-
+Alle Details
+CHF 3'000.-
+Alle Details
+Brixton Felsberg 125
+Alle Details
+Inserat vom 21.07.2021
+Neu
+05.2021
+5 km
+124 ccm
 Preis
 CHF 3'890.-
 Alle Details
 CHF 3'890.-
 Alle Details
-Brixton Cromwell 125 ABS
+Brixton Cromwell 125
 Alle Details
-Inserat vom 08.06.2021
+Inserat vom 21.07.2021
 Neu
-01.1970
-10 km
-125 ccm
+07.2021
+5 km
+124 ccm
 Preis
 CHF 3'790.-
 Alle Details
 CHF 3'790.-
 Alle Details
-Brixton Cromwell 250
+Brixton Crossfire 500
 Alle Details
-Inserat vom 08.06.2021
+Inserat vom 20.07.2021
 Neu
-01.1970
-10 km
-250 ccm
-Preis
-CHF 4'790.-
-Alle Details
-CHF 4'790.-
-Alle Details
-Brixton Cromwell 250
-Alle Details
-Inserat vom 08.06.2021
-Neu
-01.1970
-10 km
-250 ccm
-Preis
-CHF 4'790.-
-Alle Details
-CHF 4'790.-
-Alle Details
-Brixton CROSSFIRE 125 XS
-Alle Details
-Inserat vom 08.06.2021
-Neu
-01.1970
-10 km
-125 ccm
-Preis
-CHF 2'990.-
-Alle Details
-CHF 2'990.-
-Alle Details
-Brixton CROSSFIRE 500
-Alle Details
-Inserat vom 08.06.2021
-Neu
-01.1970
-10 km
-500 ccm
+07.2021
+5 km
+486 ccm
 Preis
 CHF 7'290.-
 Alle Details
 CHF 7'290.-
-Alle Details
-Brixton CROSSFIRE 500
-Alle Details
-Inserat vom 08.06.2021
-Neu
-01.1970
-10 km
-500 ccm
-Preis
-CHF 7'290.-
-Alle Details
-CHF 7'290.-
-Alle Details
-Brixton CROSSFIRE 500 X
-Alle Details
-Inserat vom 08.06.2021
-Neu
-01.1970
-10 km
-500 ccm
-Preis
-CHF 7'490.-
-Alle Details
-CHF 7'490.-
-Alle Details
-Brixton FELSBERG 125 ABS
-Alle Details
-Inserat vom 08.06.2021
-Neu
-01.1970
-10 km
-125 ccm
-Preis
-CHF 3'890.-
-Alle Details
-CHF 3'890.-
 Alle Details
 vorherige Seite
 Sie befinden sich auf Seite1
@@ -780,7 +776,7 @@ Sie befinden sich auf Seite1
 4
 5
 6
-30
+34
 nächste Seite
 ×
 comparis.ch

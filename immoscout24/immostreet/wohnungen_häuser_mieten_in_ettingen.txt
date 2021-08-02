@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-ettingen/
 Title: Wohnungen & Häuser mieten in Ettingen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Ettingen - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Ettingen - Immostreet.ch: ImmoStreet.ch hat 32 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-24 Resultate gefunden ·
+32 Resultate gefunden ·
 Wohnungen & Häuser mieten in Ettingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,106 +122,93 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-AEH Therwilerstrasse 15-21
-110
+Elblingstrasse 14
+2'660
 CHF
 /Monat
-Einstellhallenparkplatz in Ettingen
-AEH Therwilerstrasse 15-21, 4107 Ettingen
-Array
-Objekttyp
-Tiefgarage
-Wir vermieten per sofort oder nach Vereinbarung einen Einstellhallenplatz an bester Lage in Ettinge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 3a
-1'990
-CHF
-/Monat
-grosszügige Familienwohnung mit separat…
-Hauptstrasse 3a, 4107 Ettingen
+4.5-Zimmer Neubauwohnung im Eigentumsst…
+Elblingstrasse 14, 4107 Ettingen
 Array
 4.5 Zimmer
-125 m2
+106 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-125 m2
-Per 1. September 2021 vermieten wir diese grosszügige und helle Familienwohnung mit nachfolgendem A…
+106 m2
+Die Gemeinde Ettingen zählt mit seinen rund 5'400 Einwohnern zu den mittelgrossen Gemeinden im unte…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-3'100
+Elblingstrasse 12
+2'650
 CHF
 /Monat
-HOCHWERTIG, MODERN MIT AUSSICHT
-Adresse auf Anfrage, 4107 Ettingen
+Schöne 4.5-Zimmerwohnung mit grossem Ba…
+Elblingstrasse 12, 4107 Ettingen
 Array
 4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-120 m2
-Diese Wohnung bietet allen Luxus, den sie sich vorstellen können. Sie haben zwei Badezimmer, drei S…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Flühbergring 12
-2'990
-CHF
-/Monat
-Ausserordentlich grosse 3.5 Zi Whg mit …
-Flühbergring 12, 4107 Ettingen
-Array
-4.5 Zimmer
-144 m2
+107 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-144 m2
-Per sofort oder nach Vereinbarung vermieten wir eine wunderbar grosse 4.5 ZWG am Rand der Bauzone i…
+107 m2
+Die WohnungDiese neue 4,5-Zimmerwohnung besticht durch Ihre hochwertige Ausstattung und Materialisi…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Leymenstrasse 4
-1'688
+Hauptstrasse 72B
+2'135
 CHF
 /Monat
-Schöne, helle 3 1/2 Zimmer Wohnung in …
-Leymenstrasse 4, 4107 Ettingen
+attrakitve & grosszügige 5.5-Maisonette…
+Hauptstrasse 72B, 4107 Ettingen
+Array
+5.5 Zimmer
+126 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+126 m2
+Etage
+Die im Bezirk Arlesheim liegende Gemeinde Ettingen ist mit ihren nahezu 6000 Einwohnern eine famili…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorfgasse 4
+1'350
+CHF
+/Monat
+Gemütliche 3.5 Zimmerwohnung nahe Wald …
+Oberdorfgasse 4, 4107 Ettingen
 Array
 3.5 Zimmer
-72 m2
+64 m2
 Objekttyp
-Wohnung, Dachwohnung
+Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-72 m2
-Eichenparkett in den Zimmern, Keramikplatten im Wohnzimmer (mit Cheminée) und Küche moderne neue Kü…
+64 m2
+Liebe WohnungssuchendeIch suche ab Anfang Oktober eine/n Nachmieter/in für meine tolle und sehr gem…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Kammermattweg 10
-1'730
+Gempenweg 3
+1'590
 CHF
 /Monat
-Modern im Grünen wohnen und CHF 800.00 …
-Kammermattweg 10, 4107 Ettingen
+Wohnen in ruhiger und zentraler Lage
+Gempenweg 3, 4107 Ettingen
 Array
 3.5 Zimmer
 74 m2
@@ -231,130 +218,192 @@ Zimmer
 3.5
 Wohnfläche
 74 m2
-Die Adimmo AG vermietet eine moderne und familienfreundliche 3.5-Zimmer-Wohnung im Grünen mit nachf…
+Sind Sie auf der Suche nach einer grosszügigen Wohnung auf dem Land? Dann sind Sie bei uns richtig.…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hofstettenstrasse 4
-1'250
+Hauptstrasse 72
+1'780
 CHF
 /Monat
-Naturnahe 2.5 Zi- Wohnung
-Hofstettenstrasse 4, 4107 Ettingen
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-2.5 Zimmer Wohnung am Waldrand per sofort oder nach absprache zum Mieten.Mit Wintergarten und gross…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Elblingstrasse 1
-990
-CHF
-/Monat
-Studio/ Atelier/ Büro 59m2
-Elblingstrasse 1, 4107 Ettingen
-Array
-2 Zimmer
-Objekttyp
-Büro
-Zimmer
-2
-In neu erstelltem Mehrfamilienhaus vermieten wir im 1. Untergeschoss per sofort oder nach Vereinbar…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 72 B
-2'390
-CHF
-/Monat
-MODERN UND LICHTDURCHFLUTET
-Hauptstrasse 72 B, 4107 Ettingen
-Array
-5 Zimmer
-126 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-126 m2
-Diese moderne Maisonette-Wohnung verteilt auf 5.5 Zimmer, sorgt für viel Licht und gemütliche Abend…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Marchbachstrasse 7
-1'750
-CHF
-/Monat
-Stadtnah im Grünen wohnen und CHF 800.0…
-Marchbachstrasse 7, 4107 Ettingen
-Array
-3.5 Zimmer
-86 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-86 m2
-In dieser familienfreundlichen und ruhig gelegenen Überbauung im Grünen vermietet die Adimmo AG ein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kammermattweg 20
-1'870
-CHF
-/Monat
-Im Grünen wohnen und CHF 800.00 geschen…
-Kammermattweg 20, 4107 Ettingen
-Array
-4.5 Zimmer
-94 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-94 m2
-In dieser familienfreundliche Überbauung im Grünen vermietet die Adimmo AG eine praktische Wohnung …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchbündtenstrasse 36
-1'775
-CHF
-/Monat
-Dachwohnung an idyllischer Lage
-Kirchbündtenstrasse 36, 4107 Ettingen
+Moderne und hochwertige Galeriewohnung
+Hauptstrasse 72, 4107 Ettingen
 Array
 3 Zimmer
-70 m2
+91 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3
 Wohnfläche
-70 m2
-In der umfassend sanierten Liegenschaft erwartet Sie eine komfortable Wohnung mit herrlichem Ausbli…
+91 m2
+Etage
+Die im Bezirk Arlesheim liegende Gemeinde Ettingen ist mit ihren fast nahezu 6000 Einwohnern eine f…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Landskronweg 23
+1'790
+CHF
+/Monat
+Gemütliches Wohnen in Ettingen
+Landskronweg 23, 4107 Ettingen
+Array
+2.5 Zimmer
+74 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+74 m2
+Wir vermieten per 16.10.2021 oder nach Vereinbarung an zentraler Lage in Ettingen eine helle 2½-Zim…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stutzrain 7
+1'490
+CHF
+/Monat
+Renoviert an ruhiger Lage
+Stutzrain 7, 4107 Ettingen
+Array
+2.5 Zimmer
+59 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+2.5
+Wohnfläche
+59 m2
+Etage
+Die Liegenschaft befindet sich an ruhiger Lage in Ettingen, Stutzrain 7. Die öffentlichen Verkehrsm…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Niederhof 24
+2'520
+CHF
+/Monat
+schöne, helle, neuwertige 132 m2 grosse…
+Im Niederhof 24, 4107 Ettingen
+Array
+5.5 Zimmer
+132 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+132 m2
+Zu vermieten per ab 1.11.2021 oder nach Vereinbarung im Niederhof 24 in 4107 Ettingen im 2. OG ohne…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bottmingerstr. 3
+1'990
+CHF
+/Monat
+Charmante Maisonettewohnung mit Chemineé
+Bottmingerstr. 3, 4107 Ettingen
+Array
+5.5 Zimmer
+108 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+5.5
+Wohnfläche
+108 m2
+Wir vermieten nach Vereinbarung eine schöne Maisonettewohnung an ruhiger Lage in Ettingen, welche ü…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Garagen Flühbergweg 5/7
+160
+CHF
+/Monat
+Garage zu vermieten!
+Garagen Flühbergweg 5/7, 4107 Ettingen
+Array
+Objekttyp
+Einzelgarage
+Wir vermieten am Flühbergweg/Bottmingerstrasse in Ettingen eine Einzelgarage für CHF 160 pro Monat …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Elblingstrasse 14
+2'685
+CHF
+/Monat
+moderne 4.5-Zimmer-Neubauwohnung im Eig…
+Elblingstrasse 14, 4107 Ettingen
+Array
+4.5 Zimmer
+106 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+106 m2
+Die Gemeinde Ettingen zählt mit seinen rund 5'400 Einwohnern zu den mittelgrossen Gemeinden im unte…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Niederhof 24
+2'520
+CHF
+/Monat
+schöne, helle, neuwertige 132 m2 grosse…
+Im Niederhof 24, 4107 Ettingen
+Array
+5.5 Zimmer
+132 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+132 m2
+Zu vermieten per ab 1.11.2021 oder nach Vereinbarung im Niederhof 24 in 4107 Ettingen im 2. OG ohne…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aeschstrasse 27
+1'550
+CHF
+/Monat
+Sonnige 4 Z.-Wohnung in Ettingen
+Aeschstrasse 27, 4107 Ettingen
+Array
+4 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+80 m2
+Sommerlich kühl, weil der Garten viel Grün und Bäume hat! So kann dieses Haus mit dieser natürliche…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Stutzring 5
-1'840
+1'790
 CHF
 /Monat
-Sonnige Dachwohnung mit Sicht auf den W…
+Sonnige 3.5 Zi- Dachwohnung in Ettingen
 Stutzring 5, 4107 Ettingen
 Array
 3.5 Zimmer
@@ -365,45 +414,7 @@ Zimmer
 3.5
 Wohnfläche
 95 m2
-Die 3 1/2 Zi- Dachwohnung befindet sich an bester Lage..Gut konzipiert, lichtdurchflutet mit besond…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 3
-1'790
-CHF
-/Monat
-Helle gemütliche Wohnung mit separatem …
-Hauptstrasse 3, 4107 Ettingen
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wenn die Wäsche zur Herausforderung wird, brauchen Sie Ihren eigenen Waschturm!Per sofort oder nach…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 67
-970
-CHF
-/Monat
-Atelier / Büroräumlichkeiten in Ettingen
-Hauptstrasse 67, 4107 Ettingen
-Array
-1 Zimmer
-64 m2
-Objekttyp
-Geschäft, Atelier
-Zimmer
-1
-Wohnfläche
-64 m2
-Etage
-Atelier / Büroräumlichkeiten in EttingenHelle, lichtdurchflutetet Räumlichkeiten, ideal für stilles…
+Die Wohnung befindet sich an bevorzugter Lage in Ettingen. Lichtdurchflutet mit besonderem Ambiente…
 Teilen
 E-Mail
 Facebook
@@ -425,77 +436,73 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Stutzrain 9
-2'091
+Therwilerstrasse 31
+1'730
 CHF
 /Monat
-Moderne 4.5 Zimmer-Wohnung an ruhiger L…
-Stutzrain 9, 4107 Ettingen
+4.5-Zimmerwohnung im 3. OG zu vermieten
+Therwilerstrasse 31, 4107 Ettingen
 Array
 4.5 Zimmer
-100 m2
+95 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-100 m2
-Zu vermieten moderne 4.5 Zimmer Wohnung im 1. OG in einem familienfreundlichen Mehrfamilienhaus (5 …
+95 m2
+Die Adimmo AG vermietet eine gemütliche 4.5-Zimmerwohnung im 3.OG. Die Wohnung/Liegenschaft verfügt…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-EH Leymenstrasse 2
+Witterswilerstrasse 8
+750
+CHF
+/Monat
+Schönes WG-Zimmer in einer zentral gele…
+Witterswilerstrasse 8, 4107 Ettingen
+Array
+13 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+13 m2
+Du mietest: Ein Zimmer in einer zentral gelegenen  3-Zimmer-Altbau-Dachwohnung in 4107 Ettingen. Di…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+AEH Therwilerstrasse 15-21
 110
 CHF
 /Monat
-Einstellplätze in Ettingen zu Vermieten
-EH Leymenstrasse 2, 4107 Ettingen
+Einstellhallenparkplatz in Ettingen
+AEH Therwilerstrasse 15-21, 4107 Ettingen
 Array
 Objekttyp
 Tiefgarage
-Per sofort oder nach Vereinbarung vermietet die Adimmo AG Einstell- oder Abstellplätze in Ettingen.…
+Wir vermieten per sofort oder nach Vereinbarung einen Einstellhallenplatz an bester Lage in Ettinge…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hauptstrasse 67
-1'480
+Flühbergring 12
+2'820
 CHF
 /Monat
-Ländlich Wohnen
-Hauptstrasse 67, 4107 Ettingen
+3.5 ZWG plus Studio mit viel Sonne und …
+Flühbergring 12, 4107 Ettingen
 Array
-3 Zimmer
-67 m2
+4.5 Zimmer
+144 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
+4.5
 Wohnfläche
-67 m2
-Etage
-Neu SaniertIm ländlichen Ettingen, nahe bei Basel, haben wir eine kleine, sehr feine 3- Zimmerwohnu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gempenweg 3
-1'590
-CHF
-/Monat
-Wohnen in ruhiger und zentraler Lage
-Gempenweg 3, 4107 Ettingen
-Array
-3.5 Zimmer
-74 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-74 m2
-Sind Sie auf der Suche nach einer grosszügigen Wohnung auf dem Land? Dann sind Sie bei uns richtig.…
+144 m2
+Per 1. September 2021 oder nach Vereinbarung vermieten wir eine wunderbar grosse Wohnung mit insege…
 Teilen
 E-Mail
 Facebook

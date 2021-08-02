@@ -134,22 +134,235 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Gartenweg 30
-498'000
+Adresse auf Anfrage
+1'240'000
 CHF
-Frisch sanierte moderne 3.5-Zimmer Wohn…
-Gartenweg 30, 4310 Rheinfelden
+Einzigartige Lage: 4 ½ + 5 ½-Zimmer-Eig…
+Adresse auf Anfrage, 4323 Wallbach
+Array
+4.5 Zimmer
+118 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+118 m2
+Etage
+Sie suchen eine exklusive Wohnung an exklusiver Lage? Sie möchten Ihren Morgenkaffee mit Blick auf …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+361'000
+CHF
+Letzte 2.5 Zimmer - Wohnung im Haus B
+Adresse auf Anfrage, 4325 Schupfart
+Array
+2.5 Zimmer
+54 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+54 m2
+Etage
+Sie suchen ein neues modernes Zuhause in ländlicher Umgebung und doch zentral?Modernes Wohnen im Do…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rütistrasse
+930'000
+CHF
+Ländliches Wohnen mit Exklusivität und …
+Rütistrasse, 4332 Stein AG
+Array
+4.5 Zimmer
+113 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+113 m2
+Das Neubauprojekt «Rebbergli» befindet sich an der Rütistrasse in Stein AG. Die grossen Fensterfron…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rütistrasse
+1'050'000
+CHF
+Aussergewöhnliche Architektur, Terrasse…
+Rütistrasse, 4332 Stein AG
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Das Neubauprojekt «Rebbergli» befindet sich an der Rütistrasse in Stein AG. Die grossen Fensterfron…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'080'000
+CHF
+Modernes Wohnen in Rheinfelden
+Adresse auf Anfrage, 4310 Rheinfelden
+Array
+4.5 Zimmer
+117 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+117 m2
+Willkommen in Ihrem neuen Eigenheim! Diese schöne Eigentumswohnung liegt in einer ruhigen, kinderfr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Stutz 38
+699'000
+CHF
+Terrassenwohnung mit Weitsicht
+Am Stutz 38, 4314 Zeiningen
+Array
+4.5 Zimmer
+173 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+4.5
+Wohnfläche
+173 m2
+Etage
+Ihre 4 1/2 Zimmer-Wohnung im Möhlintal. Zentral, über dem schönen Dorfkern von Zeiningen. Die ca. 5…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Laufenburgerstrasse 1
+410'000
+CHF
+Eigentumswohnung mit Rheinsicht
+Laufenburgerstrasse 1, 4310 Rheinfelden
+Array
+4.5 Zimmer
+96 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+96 m2
+Eigentumswohnung mit RheinsichtDie 4.5 Zimmerwohnung befindet sich im Dachstock und verfügt über ei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Baslerstrasse 1
+1'275'000
+CHF
+3.5-Zimmer Patio-Maisonette Wohnung mit…
+Baslerstrasse 1, 4310 Rheinfelden
 Array
 3.5 Zimmer
-84 m2
+142 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+3.5
+Wohnfläche
+142 m2
+Etage
+IMMOROSSIverkauft per sofort oder nach Vereinbarung an sehr guter und gesuchter Lage an der Baslers…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+470'000
+CHF
+Sie suchen? Wir bieten!
+Adresse auf Anfrage, 4332 Stein AG
+Array
+4.5 Zimmer
+92 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+92 m2
+Sie suchen eine gemütliche Wohnung in der Nähe zu Rhein und den grossen Zentren? - Dieses Angebot d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tulpenweg 5
+720'000
+CHF
+Über den Dächern von Rheinfelden
+Tulpenweg 5, 4310 Rheinfelden
+Array
+3.5 Zimmer
+90 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-84 m2
+90 m2
+RheinfeldenDie Stadt Rheinfelden vermittelt Wohlbefinden Das am höchsten Punkt des schiffbaren Rhei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+650'000
+CHF
+4.5 Zimmer-Wohnung an ruhiger Lage
+Adresse auf Anfrage, 4310 Rheinfelden
+Array
+5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5
+Wohnfläche
+105 m2
+Wohnfläche: 105m²Weitere Informationen und zusätzliche Bilder finden Sie unter : https://angebot.ho…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kornfeldstrasse 8
+895'000
+CHF
+Grosszügige, komfortable und äusserst c…
+Kornfeldstrasse 8, 4313 Möhlin
+Array
+5.5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+5.5
+Wohnfläche
+160 m2
 Etage
-Das Objekt befindet sich an beliebter und familienfreundlicher Lage.In kurzer Fusswegdistanz befind…
+Sie suchen eine ruhige und trotzdem zentral gelegene Wohnung in Möhlin? Wie wär's dann mit dieser k…
 Teilen
 E-Mail
 Facebook
@@ -174,60 +387,81 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Im Junkholz 38
-450'000
+Wasserwerkweg 8
+440'000
 CHF
-Liebliche 2.5 Zimmer Wohnung mit Winter…
-Im Junkholz 38, 4303 Kaiseraugst
-Array
-2.5 Zimmer
-54 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-54 m2
-Zum Verkauf steht eine gut geschnittene und gemütliche 2,5 Zimmer Wohnung in Kaiseraugst. In der nä…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-995'000
-CHF
-Edle 4½-Zimmer-Wohnung
-Adresse auf Anfrage, 4303 Kaiseraugst
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Wohnfläche
-120 m2
-Etage
-im obersten Geschoss.Sehr überzeugend ist der Grundriss mit der halboffenen Küche, dem Ess- und Woh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-945'000
-CHF
-3.5 - 4.5-Zimmer Eigentumswohnung im be…
-Adresse auf Anfrage, 4310 Rheinfelden
+Sonnenverwöhnt, zentral und idyllisch w…
+Wasserwerkweg 8, 4332 Stein AG
 Array
 3.5 Zimmer
-125 m2
+73 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-125 m2
-Eine virtuelle Besichtigung der Liegenschaft ist jetzt schon möglich. Bitte kopieren Sie folgenden …
+73 m2
+Die äusserst gemütliche Wohnung liegt im Dachgeschoss eines Mehrfamilienhauses ohne Lift am Rande d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alte Eikerstrasse
+1'045'000
+CHF
+Maisonettewohnung barrierefrei mit Lift…
+Alte Eikerstrasse, 4325 Schupfart
+Array
+6.5 Zimmer
+195 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+6.5
+Wohnfläche
+195 m2
+Etage
+Diese exklusive Maisonettewohnung ist über alle Geschosse mit dem barrierefreien Lift erschlossen u…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'045'000
+CHF
+Neubau in Schupfart - Maisonettewohnung…
+Adresse auf Anfrage, 4332 Stein AG
+Array
+6.5 Zimmer
+195 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+6.5
+Wohnfläche
+195 m2
+Etage
+Am Ortsrand der Gemeinde SCHUPFART entsteht die Wohnüberbauung "Bei den vier Linden" mit einem Dopp…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Flossländeweg 22
+1'190'000
+CHF
+4.5 Zimmer Wohnung an bevorzugter Lage …
+Flossländeweg 22, 4310 Rheinfelden
+Array
+4.5 Zimmer
+143 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+143 m2
+Etage
+Die sehr schöne, lichtdurchflutete und moderne Eigentumswohnung im bevorzugten Wohn-Quartier Robers…
 Teilen
 E-Mail
 Facebook
@@ -235,7 +469,7 @@ Whatsapp
 Adresse auf Anfrage
 595'000
 CHF
-Glücklich wohnen leicht gemacht!
+Einladend - Modern - Wunderschön!
 Adresse auf Anfrage, 4313 Möhlin
 Array
 3.5 Zimmer
@@ -247,256 +481,6 @@ Zimmer
 Wohnfläche
 83 m2
 Dieses charmante Zuhause vermittelt ein positives Gefühl von Wärme und Herzlichkeit. Eine grosser B…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Salinenstrasse 1B
-860'000
-CHF
-5-Zi-Maisonettewohnung
-Salinenstrasse 1B, 4313 Möhlin
-Array
-5 Zimmer
-139 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5
-Wohnfläche
-139 m2
-Etage
-139 m² Wohnfläche warten auf neue Bewohnerinnen und Bewohner.Die Wohnung hat sehr viel Cachet und a…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eikerstrasse
-600'000
-CHF
-Moderne 3.5 Zimmer - Attika Wohnung
-Eikerstrasse, 4325 Schupfart
-Array
-3.5 Zimmer
-91 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-91 m2
-Etage
-Sie suchen ein neues modernes Zuhause in ländlicher Umgebung und doch zentral?Modernes Wohnen im Do…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rütistrasse
-980'000
-CHF
-Neubauwohnung mit Weitsicht auf den Rhe…
-Rütistrasse, 4332 Stein AG
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-120 m2
-Das Neubauprojekt «Rebbergli» befindet sich an der Rütistrasse in Stein AG. Die grossen Fensterfron…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Am Stutz 38
-739'000
-CHF
-Terrassenwohnung mit Weitsicht
-Am Stutz 38, 4314 Zeiningen
-Array
-4.5 Zimmer
-173 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-173 m2
-Ihre 4.5 Zimmer-Wohnung im Möhlintal. Zentral, über dem schönen Dorfkern von Zeiningen. Die ca. 55 …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Baslerstrasse 1
-1'335'000
-CHF
-3.5-Zimmer Patio-Maisonette Wohnung mit…
-Baslerstrasse 1, 4310 Rheinfelden
-Array
-3.5 Zimmer
-142 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-142 m2
-Etage
-IMMOROSSIverkauft per sofort oder nach Vereinbarung an sehr guter und gesuchter Lage an der Baslers…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rütistrasse
-900'000
-CHF
-Ländliches Wohnen mit Exklusivität und …
-Rütistrasse, 4332 Stein AG
-Array
-4.5 Zimmer
-113 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-113 m2
-Das Neubauprojekt «Rebbergli» befindet sich an der Rütistrasse in Stein AG. Die grossen Fensterfron…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rütistrasse
-865'000
-CHF
-Ländliches Wohnen mit Exklusivität Terr…
-Rütistrasse, 4332 Stein AG
-Array
-3.5 Zimmer
-111 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-111 m2
-Das Neubauprojekt «Rebbergli» befindet sich an der Rütistrasse in Stein AG. Die grossen Fensterfron…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rütistrasse
-695'000
-CHF
-Naturnah & zentrales Wohnen an Aussicht…
-Rütistrasse, 4332 Stein AG
-Array
-2.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-80 m2
-Das Neubauprojekt «Rebbergli» befindet sich an der Rütistrasse in Stein AG. Die grossen Fensterfron…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rütistrasse
-1'245'000
-CHF
-Ihr Wohntraum in Stein, Terrassenwohnun…
-Rütistrasse, 4332 Stein AG
-Array
-4.5 Zimmer
-146 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Wohnfläche
-146 m2
-Das Neubauprojekt «Rebbergli» befindet sich an der Rütistrasse in Stein AG. Die grossen Fensterfron…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-665'000
-CHF
-4.5 Zimmer-Wohnung an ruhiger Lage
-Adresse auf Anfrage, 4310 Rheinfelden
-Array
-5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-105 m2
-Wohnfläche: 105m²Weitere Informationen und zusätzliche Bilder finden Sie unter : https://angebot.ho…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-795'000
-CHF
-4.5 Zimmer Wohnung in beliebtem Wohnqua…
-Adresse auf Anfrage, 4303 Kaiseraugst
-Array
-4.5 Zimmer
-97 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-97 m2
-Wohnfläche: 97 m²Weitere Informationen und zusätzliche Bilder finden Sie unter :https://angebot.hom…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eibenweg 4
-1'074'000
-CHF
-Hochwertiges Wohnen mit Weitblick
-Eibenweg 4, 4312 Magden
-Array
-4.5 Zimmer
-122 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-122 m2
-Diese Wohnung bietet mehr als Sie erwartenSie haben hohe Wohn-Ansprüche, d.h. ein hochwertiger Ausb…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wasserwerkstrasse 5
-690'000
-CHF
-Perfekte Dachwohnung für Singles oder P…
-Wasserwerkstrasse 5, 4332 Stein AG
-Array
-3.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-120 m2
-Die aussergewöhnliche 3.5-Zimmer-Dachwohnung im dritten Obergeschoss ist Teil eines ansprechenden W…
 Teilen
 E-Mail
 Facebook
@@ -516,6 +500,25 @@ Zimmer
 Wohnfläche
 86 m2
 Hier entstehen großzügige und helle 2.5 Zimmer und 3.5 Zimmer-Wohnungen im Herzen von Magden. Nur G…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ausserdorf 2
+480'000
+CHF
+Vor den Toren Basel's
+Ausserdorf 2, 4324 Obermumpf
+Array
+3.5 Zimmer
+74 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+74 m2
+Wohnidylle am Fischingerbach im Fricktal – ergreifen Sie diese einmalige Chance. Mitten in der dörf…
 Teilen
 E-Mail
 Facebook

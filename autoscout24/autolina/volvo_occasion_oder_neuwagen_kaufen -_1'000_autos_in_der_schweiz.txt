@@ -81,7 +81,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -99,7 +99,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -153,318 +153,335 @@ WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
 VOLVO
-XC90 3.2 Momentum 7P. AWD
-CHF 10'990
-ab CHF 124/Monat
-11.2008
+XC40 2.0 T4 R-Design AWD
+CHF 40'000
+ab CHF 430/Monat
+01.2020
 Automat
-180'213 km
+27'000 km
 Benzin
 Allradantrieb
-grau
-238 PS
-ZH
+rot
+190 PS
+LU
 Merken
 VOLVO
-XC90 3.2 Momentum 7P. AWD
-11.2008
-238 PS
-180'213 km
-CHF 10'990
+XC40 2.0 T4 R-Design AWD
+01.2020
+190 PS
+27'000 km
+CHF 40'000
 Merken
-ab CHF 124/Monat
+ab CHF 430/Monat
 VOLVO
-XC40 T5 AWD Momentum Geartronic
-CHF 36'900
-ab CHF 397/Monat
-03.2018
-Automat
-44'400 km
-Benzin
-Allradantrieb
-silber
-248 PS
-ZH
-Merken
-VOLVO
-XC40 T5 AWD Momentum Geartronic
-03.2018
-248 PS
-44'400 km
-CHF 36'900
-Merken
-ab CHF 397/Monat
-VOLVO
-V70 2.3 T5
-CHF 3'500
-10.2001
-Automat
-222'985 km
-Benzin
-Vorderradantrieb
-anthrazit
-250 PS
-SG
-Merken
-VOLVO
-V70 2.3 T5
-10.2001
-250 PS
-222'985 km
-CHF 3'500
-Merken
-VOLVO
-PV 544 B 18 Sport (Coupé)
-CHF 25'900
-ab CHF 279/Monat
-01.1964
+121
+CHF 14'000
+ab CHF 151/Monat
+10.1969
 Handschaltung
-123'000 km
+64'902 km
 Benzin
-Hinterradantrieb
-beige
-72 PS
-VD
-Merken
-VOLVO
-PV 544 B 18 Sport (Coupé)
-01.1964
-72 PS
-123'000 km
-CHF 25'900
-Merken
-ab CHF 279/Monat
-VOLVO
-XC90 2.0 D5 R-Design 7P. AWD
-CHF 58'000
-ab CHF 623/Monat
-07.2017
-Automat
-80'000 km
-Diesel
-Allradantrieb
-grau
-235 PS
-TI
-Merken
-VOLVO
-XC90 2.0 D5 R-Design 7P. AWD
-07.2017
-235 PS
-80'000 km
-CHF 58'000
-Merken
-ab CHF 623/Monat
-VOLVO
-V70 2.5T AWD Stockholm Confort
-CHF 8'500
-ab CHF 96/Monat
-09.2006
-Automat
-125'000 km
-Benzin
-Allradantrieb
-silber
-210 PS
-ZH
-Merken
-VOLVO
-V70 2.5T AWD Stockholm Confort
-09.2006
-210 PS
-125'000 km
-CHF 8'500
-Merken
-ab CHF 96/Monat
-VOLVO
-V60 T6 eAWD Inscription
-CHF 49'870
-ab CHF 536/Monat
-07.2020
-Automat
-13'500 km
-Voll-Hybrid Benzin/Elektro
-Allradantrieb
-weiss
-253 PS
-AG
-Merken
-VOLVO
-V60 T6 eAWD Inscription
-07.2020
-253 PS
-13'500 km
-CHF 49'870
-Merken
-ab CHF 536/Monat
-VOLVO
-XC40 2.0 T5 R-Design AWD
-CHF 42'900
-ab CHF 461/Monat
-05.2019
-Automat
-24'800 km
-Benzin
-Allradantrieb
-weiss
-247 PS
-SG
-Merken
-VOLVO
-XC40 2.0 T5 R-Design AWD
-05.2019
-247 PS
-24'800 km
-CHF 42'900
-Merken
-ab CHF 461/Monat
-VOLVO
-V60 T5 AWD R-Design
-CHF 47'630
-ab CHF 512/Monat
-11.2019
-Automat
-10'000 km
-Benzin
-Allradantrieb
-schwarz
-250 PS
-AG
-Merken
-VOLVO
-V60 T5 AWD R-Design
-11.2019
-250 PS
-10'000 km
-CHF 47'630
-Merken
-ab CHF 512/Monat
-VOLVO
-XC40 2.0 D3 Momentum AWD
-CHF 49'900
-ab CHF 536/Monat
-01.2020
-Automat
-11'271 km
-Diesel
-Allradantrieb
-grau
-150 PS
-SO
-Merken
-VOLVO
-XC40 2.0 D3 Momentum AWD
-01.2020
-150 PS
-11'271 km
-CHF 49'900
-Merken
-ab CHF 536/Monat
-VOLVO
-V60 2.0 D3 Momentum AWD
-CHF 49'900
-ab CHF 536/Monat
-10.2020
-Automat
-6'323 km
-Diesel
-Allradantrieb
-schwarz
-150 PS
-SO
-Merken
-VOLVO
-V60 2.0 D3 Momentum AWD
-10.2020
-150 PS
-6'323 km
-CHF 49'900
-Merken
-ab CHF 536/Monat
-VOLVO
-V60 2.0 T6 TE Business eAWD
-CHF 69'724
-ab CHF 749/Monat
 -
-Automat
-0 km
-Plug-in-Hybrid Benzin/Elektro
-Allradantrieb
-schwarz
-253 PS
-SO
-Merken
-VOLVO
-V60 2.0 T6 TE Business eAWD
+weiss
 -
-253 PS
-0 km
-CHF 69'724
+BS
 Merken
-ab CHF 749/Monat
 VOLVO
-V40 1.5 T2 Dynamic S/S
-CHF 32'900
-ab CHF 354/Monat
-08.2019
+121
+10.1969
+-
+64'902 km
+CHF 14'000
+Merken
+ab CHF 151/Monat
+VOLVO
+V40 1.5 T3 Ocean Race S/S
+CHF 17'500
+ab CHF 188/Monat
+10.2015
 Automat
-9'800 km
+60'600 km
 Benzin
 Vorderradantrieb
 schwarz
-122 PS
-SO
+152 PS
+FR
 Merken
 VOLVO
-V40 1.5 T2 Dynamic S/S
-08.2019
-122 PS
-9'800 km
-CHF 32'900
+V40 1.5 T3 Ocean Race S/S
+10.2015
+152 PS
+60'600 km
+CHF 17'500
 Merken
-ab CHF 354/Monat
+ab CHF 188/Monat
 VOLVO
-V60 Cross Country 2.0 D4 AWD
-CHF 49'401
-ab CHF 531/Monat
-04.2019
+V60 3.0 T6 Summum AWD
+CHF 20'500
+ab CHF 221/Monat
+05.2012
 Automat
-24'812 km
+89'500 km
+Benzin
+Allradantrieb
+schwarz
+304 PS
+BE
+Merken
+VOLVO
+V60 3.0 T6 Summum AWD
+05.2012
+304 PS
+89'500 km
+CHF 20'500
+Merken
+ab CHF 221/Monat
+VOLVO
+C70 Cabriolet 2.4 T
+CHF 11'000
+ab CHF 124/Monat
+05.2001
+Automat
+53'300 km
+Benzin
+Vorderradantrieb
+schwarz
+193 PS
+AG
+Merken
+VOLVO
+C70 Cabriolet 2.4 T
+05.2001
+193 PS
+53'300 km
+CHF 11'000
+Merken
+ab CHF 124/Monat
+VOLVO
+V40 CC 2.0 D3 Summum S/S
+CHF 11'000
+ab CHF 124/Monat
+07.2013
+Automat
+93'000 km
 Diesel
+Vorderradantrieb
+schwarz
+150 PS
+VS
+Merken
+VOLVO
+V40 CC 2.0 D3 Summum S/S
+07.2013
+150 PS
+93'000 km
+CHF 11'000
+Merken
+ab CHF 124/Monat
+VOLVO
+XC90 3.2 Momentum 7P. AWD
+CHF 9'490
+ab CHF 107/Monat
+11.2008
+Automat
+180'213 km
+Benzin
 Allradantrieb
 grau
-191 PS
-SO
+238 PS
+ZH
 Merken
 VOLVO
-V60 Cross Country 2.0 D4 AWD
-04.2019
-191 PS
-24'812 km
-CHF 49'401
+XC90 3.2 Momentum 7P. AWD
+11.2008
+238 PS
+180'213 km
+CHF 9'490
 Merken
-ab CHF 531/Monat
+ab CHF 107/Monat
+NEU
 VOLVO
-V60 2.0 T6 Momentum AWD
-CHF 42'925
-ab CHF 461/Monat
-10.2018
+XC60 B4 D AWD Momentum
+CHF 48'310
+ab CHF 519/Monat
+12.2020
 Automat
-22'869 km
-Benzin
+14'400 km
+Diesel
 Allradantrieb
 sonstiges
-310 PS
-SO
+197 PS
+AG
 Merken
 VOLVO
-V60 2.0 T6 Momentum AWD
-10.2018
-310 PS
-22'869 km
-CHF 42'925
+XC60 B4 D AWD Momentum
+12.2020
+197 PS
+14'400 km
+CHF 48'310
 Merken
-ab CHF 461/Monat
+ab CHF 519/Monat
+NEU
+VOLVO
+XC40 T5 TwE R-Design
+CHF 49'220
+ab CHF 529/Monat
+12.2020
+Automat
+9'990 km
+Voll-Hybrid Benzin/Elektro
+Vorderradantrieb
+weiss
+180 PS
+AG
+Merken
+VOLVO
+XC40 T5 TwE R-Design
+12.2020
+180 PS
+9'990 km
+CHF 49'220
+Merken
+ab CHF 529/Monat
+NEU
+VOLVO
+V60 T5 AWD R-Design
+CHF 47'880
+ab CHF 515/Monat
+11.2019
+Automat
+39'000 km
+Benzin
+Allradantrieb
+grau
+250 PS
+AG
+Merken
+VOLVO
+V60 T5 AWD R-Design
+11.2019
+250 PS
+39'000 km
+CHF 47'880
+Merken
+ab CHF 515/Monat
+VOLVO
+V60 D3 Momentum
+CHF 20'210
+ab CHF 218/Monat
+01.2017
+Automat
+66'900 km
+Diesel
+Vorderradantrieb
+schwarz
+150 PS
+AG
+Merken
+VOLVO
+V60 D3 Momentum
+01.2017
+150 PS
+66'900 km
+CHF 20'210
+Merken
+ab CHF 218/Monat
+VOLVO
+V60 T6 AWD R-Design
+CHF 48'000
+ab CHF 516/Monat
+12.2019
+Automat
+32'400 km
+Benzin
+Allradantrieb
+weiss
+310 PS
+BE
+Merken
+VOLVO
+V60 T6 AWD R-Design
+12.2019
+310 PS
+32'400 km
+CHF 48'000
+Merken
+ab CHF 516/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+VOLVO
+V60 T3 Summum
+CHF 23'000
+ab CHF 247/Monat
+08.2017
+Automat
+45'000 km
+Benzin
+Vorderradantrieb
+sonstiges
+152 PS
+BE
+Merken
+VOLVO
+V60 T3 Summum
+08.2017
+152 PS
+45'000 km
+CHF 23'000
+Merken
+ab CHF 247/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+VOLVO
+XC60 T5 AWD Summum
+CHF 29'000
+ab CHF 312/Monat
+01.2017
+Automat
+61'500 km
+Benzin
+Allradantrieb
+silber
+245 PS
+BE
+Merken
+VOLVO
+XC60 T5 AWD Summum
+01.2017
+245 PS
+61'500 km
+CHF 29'000
+Merken
+ab CHF 312/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+VOLVO
+V40 2.0 D2 Kinetic S/S
+CHF 17'640
+ab CHF 190/Monat
+05.2017
+Automat
+53'500 km
+Diesel
+Vorderradantrieb
+schwarz
+120 PS
+BE
+Merken
+VOLVO
+V40 2.0 D2 Kinetic S/S
+05.2017
+120 PS
+53'500 km
+CHF 17'640
+Merken
+ab CHF 190/Monat
 1
 1
 2
@@ -492,7 +509,7 @@ Modellausblick aktuell verfügbarer Neuheiten
 Modelle aus Schweden gelten auch beim Import über Volvo Schweiz als besonders sicher und elegant. Derzeitige Entwicklungstendenzen gehen noch weiter. So gelten für neue Modellkonzepte drei Hauptpunkte. Sicherheit ist in Göteborg eine traditionelle Wertvorstellung. Der hohe Qualitätsanspruch verhalf einst Modellen des Herstellers zu noblen Filmrollen auf internationalen Leinwänden. Im Sinne des dritten Hauptpunktes, des Umweltschutzes, sind in naher Zukunft bei den Modellneuheiten von Volvo Schweiz emissionsarme oder –freie, kraftstoffsparende und zugleich PS-starke PKW zu erwarten. Auch seine überragenden Erfolge im internationalen Motorsport dürften bald zu noch robusteren und dabei sparsamen Offroadern und Allradmodellen führen.
 VOLVO Modellübersicht
 VOLVO 480
-VOLVO 850
+VOLVO 940
 VOLVO C30
 VOLVO C70
 VOLVO S40

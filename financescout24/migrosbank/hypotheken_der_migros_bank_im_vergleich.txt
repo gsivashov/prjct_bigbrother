@@ -48,6 +48,7 @@ Physische Edelmetalle
 Highlights
 Börsenspiel
 Börse: Marktübersicht
+Vorsorgefonds
 Unser Vorsorgebuch
 Nachhaltig –
 wie «grün» ist Ihr Fonds?
@@ -58,9 +59,8 @@ Jetzt ermitteln
 Hypothek
 Hypothek in der Übersicht
 Festhypothek
-Libor-Hypothek
-Variable Hypothek
 SARON-Hypothek
+Variable Hypothek
 Hypolimite
 Baukredit
 Eigenheim kaufen
@@ -83,6 +83,7 @@ Kredit in der Übersicht
 Konsumkredit
 Privatkredit
 Autokredit
+Autoleasing
 Weiterbildungskredit
 Limite
 Lombardkredit
@@ -207,14 +208,14 @@ Hypothek
 Hypothekenvergleich
 Hypothek in der Übersicht
 Festhypothek
-Libor-Hypothek
-Variable Hypothek
 SARON-Hypothek
+Variable Hypothek
 Hypolimite
 Baukredit
 Eigenheim kaufen
 Hypothek wechseln
 Highlights
+Online-Hypothek
 Individuelle Beratung
 Bankwechsel
 Hypotheken vergleichen
@@ -231,11 +232,10 @@ Ausgaben planen
 Kredit zurückzahlen
 Tiefer Zinssatz
 Ihre Anforderung – unser Vorschlag
-Libor-Hypothek mit Cap – den Geldmarkt mit Absicherung nutzen
-Von tiefen Zinssätzen profitieren.Ein Cap schützt vor unerwartet stark steigenden Zinskosten.Ein Wechsel in eine andere Hypothek ist in Absprache möglich.Kreditkosten jeweils für sechs Monate fest planen.
-Zinssatz: 0,800% zuzüglich Cap-Prämie
-Wollen Sie den Geldmarkt für Ihre Finanzierung optimal und abgesichert nutzen? Dann ist die Libor-Hypothek mit Cap die ideale Lösung für Sie. Der Zinssatz wird alle sechs Monate aktualisiert. Zudem sind Sie vor sehr stark steigenden Zinskosten geschützt.
-Mehr erfahren
+SARON-Hypothek – marktorientiert und flexibel
+Von tiefen Zinssätzen profitieren.Ein Wechsel in eine andere Hypothek ist in Absprache möglich.Amortisationen im Rahmen der Vereinbarung möglich.
+Zinssatz: ab 0,800%
+Sie wünschen Flexibilität und sind bereit, starke Zinsschwankungen in Kauf zu nehmen. Dann ist die SARON-Hypothek die richtige Lösung für Sie. Bei steigenden Zinsen wechseln Sie bequem zu einer Festhypothek.
 Neu
 Hypolimite – geniessen Sie die maximale Flexibilität
 Rückzahlungen sind jederzeit möglich.Zinssätze einschätzbar, schwanken langfristig nicht extrem.Bei ungenutzter Limite entstehen keine Zinskosten.
@@ -245,10 +245,10 @@ Festhypothek – sicher und planbar
 Kreditkosten für die Laufzeit fest planen.Von tiefen Zinssätzen profitieren.Amortisationen im Rahmen der Vereinbarung möglich.
 Zinssatz: ab 1,040%
 Die Festhypothek der Migros Bank garantiert Ihnen klare Budgetverhältnisse. Sie können damit einen günstigen Zinssatz langfristig fixieren und sind abgesichert gegen steigende Zinsen.
-Libor-Hypothek – Geldmarkt nutzen und flexibel bleiben
-Von tiefen Zinssätzen profitieren.Ein Wechsel in eine andere Hypothek ist nach Absprache möglich.Kreditkosten bis 12 Monate fest planen.
+SARON-Hypothek – marktorientiert und flexibel
+Von tiefen Zinssätzen profitieren.Ein Wechsel in eine andere Hypothek ist nach Absprache möglich.Amortisationen im Rahmen der Vereinbarung möglich.
 Zinssatz: ab 0,800%
-Wollen Sie den Geldmarkt für Ihre Finanzierung optimal nutzen? Dann ist die flexible Libor-Hypothek die richtige Lösung für Sie. Legen Sie fest, ob Sie den Zinssatz monatlich oder alle drei, sechs oder zwölf Monate aktualisieren wollen.
+Sie wünschen Flexibilität und sind bereit, starke Zinsschwankungen in Kauf zu nehmen. Dann ist die SARON-Hypothek die richtige Lösung für Sie. Bei steigenden Zinsen wechseln Sie bequem zu einer Festhypothek.
 Mehr erfahren
 Variable Hypothek – bleiben Sie entscheidend flexibel
 Ausserordentliche Rückzahlungen sind in Absprache möglich.Zinskosten einschätzbar, schwanken langfristig nicht extrem.Der Zinssatz kann während der Laufzeit sinken.
@@ -278,12 +278,12 @@ Vergleichen Sie und finden Sie Ihre Hypothek
 Vergleichen Sie und finden Sie Ihre Hypothek
 Vergleichen Sie in der Übersicht die wichtigsten Merkmale unserer Hypotheken und finden Sie das Angebot, das Ihren Anforderungen am besten entspricht.
 Festhypothek
-Libor-Hypothek
+SARON-Hypothek
 Variable Hypothek
 Hypolimite
 Zinssatz
 Für 2 bis 10 Jahre fest
-Während 3 Jahren jeweils für 1, 3, 6 oder 12 Monate fest
+Compounded SARON 3 Monate plus Zinszuschlag. Liegt der Compounded SARON 3 Monate unter 0%, so gilt für diesen ein Zinssatz von 0%.
 Variabel
 Variabel
 Eignung
@@ -298,12 +298,12 @@ CHF 0
 CHF 10'000
 Rückzahlung
 Vereinbarte Amortisationen
-Vereinbarte Amortisationen
+Vereinbarte Amortisationen, ausserordentliche Rückzahlungen unter Einhaltung der Kündigungsfrist möglich
 Vereinbarte Amortisationen, ausserordentliche Rückzahlungen unter Einhaltung der Kündigungsfrist möglich
 Frei
 Besonderheiten
 Vorzeitige Zinsfixierung möglich (Forward)
-Zinsabsicherung möglich (Cap)
+Ein Wechsel zu einer Festhypothek der Migros Bank ist jederzeit möglich
 Zinsabsicherung möglich (Cap)
 Für Ihr Bauvorhaben bieten wir zusätzlich zu unseren Hypotheken die Abwicklung über einen Baukredit an. Mehr erfahren
 Weitere Highlights aus unserer Beratung

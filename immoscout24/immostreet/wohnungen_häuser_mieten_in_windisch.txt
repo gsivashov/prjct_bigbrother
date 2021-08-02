@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-windisch/
 Title: Wohnungen & Häuser mieten in Windisch - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Windisch - Immostreet.ch: ImmoStreet.ch hat 83 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Windisch - Immostreet.ch: ImmoStreet.ch hat 80 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-83 Resultate gefunden ·
+80 Resultate gefunden ·
 Wohnungen & Häuser mieten in Windisch
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,93 +122,68 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Zürcherstrasse 18
-920
+Adresse auf Anfrage
+800
 CHF
 /Monat
-Ladenlokal/Büro an prominenter Lage am …
-Zürcherstrasse 18, 5210 Windisch
+Nachmieter gesucht für 1 Zimmerwohnung …
+Adresse auf Anfrage, 5210 Windisch
+Array
+1 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+BeschreibungNachmieter gesucht für 1 Zimmerwohnung in Windisch(Region Brugg)Hallo zusammen. Ich suc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Joggelacker 7
+1'140
+CHF
+/Monat
+schöne Ueberbauung am Waldrand und doch…
+Joggelacker 7, 5210 Windisch
 Array
 2 Zimmer
-50 m2
+59 m2
 Objekttyp
-Büro
+Wohnung, Flach
 Zimmer
 2
 Wohnfläche
-50 m2
-Attraktives Ladenlokal/Büro an prominenter Lage zu vermieten.Verkehrstechnisch sind diese Räumlichk…
+59 m2
+Wir vermieten ab 1. Oktober 2021 oder nach Vereinbarung diese hübsche Wohnung in einer attraktiven …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Klosterzelgstrasse 1b
-1'670
+Pestalozzistrasse 8
+1'460
 CHF
 /Monat
-*Sommeraktion* - Wir beschenken Sie!
-Klosterzelgstrasse 1b, 5210 Windisch
+beliebte Liegenschaft, an bester Lage
+Pestalozzistrasse 8, 5210 Windisch
 Array
-2.5 Zimmer
-67 m2
+3.5 Zimmer
+79 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+3.5
 Wohnfläche
-67 m2
-Bei Vertragsabschluss bis Ende Juli 2021 schenken wir Ihnen einen Coop- oder Migros-Gutschein im We…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lettenstrasse 4
-3'500
-CHF
-/Monat
-Einfamilienhaus komplett saniert
-Lettenstrasse 4, 5210 Windisch
-Array
-6.5 Zimmer
-135 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-135 m2
-Etage
-Einfamilienhaus in ruhigem, familienfreundlichen Quartier. Gemütlicher Sitzplatz. 2 Parkplätze.2020…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Breite 8
-1'670
-CHF
-/Monat
-Ruhige und sonnige Familienwohnung in d…
-Breite 8, 5210 Windisch
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-In einer ruhigen, gepflegten Liegenschaft vermieten wir diese tolle Wohnung!
-- helle Räumlichkei…
+79 m2
+Wir vermieten diese schöne 3.5-Zimmer-Wohnung im 3. OG. Die Wohnung kann auch zu einem späteren Zei…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Eisenweg 4
-1'555
+1'495
 CHF
 /Monat
-Siedlung mit Familiensinn
+Ihre neue Wohlfühloase
 Eisenweg 4, 5210 Windisch
 Array
 4 Zimmer
@@ -216,215 +191,137 @@ Objekttyp
 Wohnung, Flach
 Zimmer
 4
-Per 01.10.2021 vermieten wir diese schöne und helle 4.0-Zimmerwohnung.Die attraktive Wohnung in gep…
+Wir vermieten per sofort oder nach Vereinbarung diese wunderschöne und moderne 4.0-Zimmerwohnung an…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'500
+Tulpenweg 3
+570
 CHF
 /Monat
-Helle 3 Zimmer Windisch AG
-Adresse auf Anfrage, 5210 Windisch
+Zimmer in WG zu vermieten
+Tulpenweg 3, 5210 Windisch
 Array
-3 Zimmer
+1 Zimmer
+15 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Möblierte Wohnung
 Zimmer
-3
-Helle 3 Zimmerwohnung 1 Badezimmer mit Badwanne/WC8. EtageBalkon ist verglast, mit SchiebefensterKi…
+1
+Wohnfläche
+15 m2
+Das helle Zimmer befindet sich in einer Wohngemeinschaft. Zur Mitbenutzung mit den anderen Bewohner…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Steinackerstrasse 9
-480
+570
 CHF
 /Monat
-Direkt neben dem Bahnhof, WG Zimmer zu …
+Zimmer direkt neben der FHNW zu vermiet…
 Steinackerstrasse 9, 5210 Windisch
 Array
 1 Zimmer
-15 m2
+22 m2
 Objekttyp
 Wohnung, Einzelzimmer
 Zimmer
 1
 Wohnfläche
-15 m2
-Das Zimmer ist direkt neben der FHNW und dem Bahnhof Brugg in der Studentenliegenschaft.
-Zur Mitbe…
+22 m2
+Das Zimmer ist teilmöbliert: Schrank, Tisch, Stuhl, Bett, Matratze
+4er WG; alles Männer
+Zur Mit…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Joggelacker 9
-1'220
+Scheuergasse 26
+930
+CHF
+/Monat
+Singles aufgepasst!
+Scheuergasse 26, 5210 Windisch
+Array
+1.5 Zimmer
+36 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+36 m2
+Per 01.10.2021 nach Vereinbarung vermieten wir an der Scheuergasse 26 in Windisch eine helle 1.5-Zi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oelackerstrasse 10
+1'840
+CHF
+/Monat
+Frisch sanierte 4.5-Zi-Whg im Grünen
+Oelackerstrasse 10, 5210 Windisch
+Array
+4.5 Zimmer
+96 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+96 m2
+Wir vermieten eine schöne 4.5 Zimmerwohnung in einer ruhigen, charmanten Liegenschaft, mit einer gr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+EH Bahnhofstrasse 5a / 6a
+150
+CHF
+/Monat
+Einstellplätze in der Tiefgarage im Cam…
+EH Bahnhofstrasse 5a / 6a, 5210 Windisch
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten per sofort oder nach Vereinbarung Einstellplätze in der Tiefgarage im 1.UG an zentral…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Breitacker 27
+1'420
 CHF
 /Monat
 schöne Ueberbauung am Waldrand und doch…
-Joggelacker 9, 5210 Windisch
+Breitacker 27, 5210 Windisch
 Array
 2 Zimmer
-59 m2
+95 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Dachwohnung
 Zimmer
 2
 Wohnfläche
-59 m2
-Wir vermieten diese hübsche Wohnung in einer attraktiven Wohnüberbauung am Waldrand, aber doch zent…
+95 m2
+Wir vermieten diese hübsche Dachwohnung in einer attraktiven Wohnüberbauung am Waldrand, aber doch …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Lindhofstrasse 36
-1'050
+Einstellhalle Fehlmannmatte
+130
 CHF
 /Monat
-kleine 3-Zimmerwohnung mit Balkon zu ve…
-Lindhofstrasse 36, 5210 Windisch
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Etage
-Die Wohnung befindet sich im 1.OG in einem kleinen freistehenden Mehrfamilienhaus an ruhiger, sonni…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chapfstrasse 1
-800
-CHF
-/Monat
-Kleines Zimmer mit eigener neuer Küche …
-Chapfstrasse 1, 5210 Windisch
-Array
-1 Zimmer
-Objekttyp
-Wohnung, Einzelzimmer
-Zimmer
-1
-1 Zimmer Wohnung mit neuer Küche
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Birkenstrasse 5
-65
-CHF
-/Monat
-Aussenparkplatz in der Nähe der FHNW un…
-Birkenstrasse 5, 5210 Windisch
+Benötigt Ihr Auto ein Dach über dem Kop…
+Einstellhalle Fehlmannmatte, 5210 Windisch
 Array
 Objekttyp
-Offener Parkplatz
-Wir vermieten ab sofort und ab 1. September 2021 je einen Aussenabstellplatz (4.70 m) an der Birken…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Klosterzelgstrasse 1c
-2'150
-CHF
-/Monat
-Platz für die ganze Familie an zentrale…
-Klosterzelgstrasse 1c, 5210 Windisch
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Wir vermieten ab sofort oder nach Vereinbarung eine topmoderne Wohnung an sehr zentraler Lage mit f…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Spinnereistrasse 6
-3'120
-CHF
-/Monat
-Urbanes Wohnen an idyllischer Lage
-Spinnereistrasse 6, 5210 Windisch
-Array
-3.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Loft
-Zimmer
-3.5
-Wohnfläche
-150 m2
-Im Kunzareal vermieten wir eine exklusive Loftwohnung mit Raumhöhen von 2.90 Metern und einer Fläch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chapfstrasse 8
-1'720
-CHF
-/Monat
-ZENTRAL MIT BLICK INS GRÜNE
-Chapfstrasse 8, 5210 Windisch
-Array
-4.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-85 m2
-Sind Sie auf der Suche nach einer zentralen Wohnung? Dann sind Sie hier genau richtig, denn diese 4…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Am Rain 29
-1'620
-CHF
-/Monat
-Wohnen an zentraler Lage
-Am Rain 29, 5210 Windisch
-Array
-4.5 Zimmer
-103 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-103 m2
-Per 15.06.2021 oder nach Vereinbarung vermieten wir an guter Lage eine schöne 4.5 Zimmer Dachwohnun…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberburgstrasse 4
-3'300
-CHF
-/Monat
-Frisch renoviertes 6.5-Zimmereinfamilie…
-Oberburgstrasse 4, 5210 Windisch
-Array
-6.5 Zimmer
-139 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-139 m2
-Etage
-Das frisch renovierte Einfamilienhaus liegt in einem sehr ruhigen, kinderfreundlichen Einfamilienha…
+Tiefgarage
+Dann haben wir die Lösung!Per sofort oder nach Vereinbarung vermieten wir praktische Einstellplätze…
 Teilen
 E-Mail
 Facebook
@@ -449,68 +346,161 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Spinnereistrasse 6
-1'000
+Oelackerstrasse 12
+1'970
 CHF
 /Monat
-Zimmer in Loft (befristet)
-Spinnereistrasse 6, 5210 Windisch
+Top Wohnlage - über Windisch
+Oelackerstrasse 12, 5210 Windisch
 Array
-1 Zimmer
-25 m2
-Objekttyp
-Wohnung, Loft
-Zimmer
-1
-Wohnfläche
-25 m2
-Vom 01.07.21 bis zum 31.08.21 suchen wir für ein Zimmer in unserer schönen Loft einen Untermieter.D…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Klosterzelgstrasse 1b
-1'750
-CHF
-/Monat
-*Sommeraktion* - Wir beschenken Sie!
-Klosterzelgstrasse 1b, 5210 Windisch
-Array
-2.5 Zimmer
-67 m2
+4.5 Zimmer
+92 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+4.5
 Wohnfläche
-67 m2
-Bei Vertragsabschluss bis Ende Juli 2021 schenken wir Ihnen einen Coop- oder Migros-Gutschein im We…
+92 m2
+Wir vermieten eine gepflegte Wohnung an zentraler, ruhiger und sonniger Wohnlage mit schöner Aussic…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Pestalozzistrasse 14
-1'560
+Mülligerstrasse 11
+820
 CHF
 /Monat
-3.5 Zimmer-Wohnung mit Gartenanteil
-Pestalozzistrasse 14, 5210 Windisch
+Möbliertes Zimmer
+Mülligerstrasse 11, 5210 Windisch
+Array
+1 Zimmer
+17 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Zimmer
+1
+Wohnfläche
+17 m2
+Wir vermieten per 01.10.2021 ein heimeliges, möbliertes Zimmer an der Mülligerstrasse 11 in 5210 Wi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wallweg 4
+1'395
+CHF
+/Monat
+Wohnen an schöner Lage !
+Wallweg 4, 5210 Windisch
 Array
 3.5 Zimmer
-58 m2
+71 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-58 m2
-An der Pestalozzistrasse 14 vermieten wir eine 3.5 Zimmer-Wohnung im Hochparterre.
-Aufgrund eine…
+71 m2
+Wohnen an ruhiger und kinderfreundlicher Lage in historischer Umgebung. Diese Wohnung bietet Ihnen …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 5
+Bergstrasse 10
+1'470
+CHF
+/Monat
+an ruhiger und trotzdem zentraler Wohnl…
+Bergstrasse 10, 5210 Windisch
+Array
+4 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+85 m2
+Etage
+4-Zimmerwohnung im 1.OG mit sonnigem Balkonneue Küche mit allem Komfort und EsseckeBadezimmer mit B…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bachmattstr. 31a
+1'850
+CHF
+/Monat
+Zentral gelegene und attraktive Gartenw…
+Bachmattstr. 31a, 5210 Windisch
+Array
+3.5 Zimmer
+82 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+82 m2
+In der zentral gelegenen Gemeinde Windisch, zwischen dem römischen Amphitheater und dem Süssbach, b…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Breite 12
+1'710
+CHF
+/Monat
+Familienfreundliche 4.5 Zimmerwohnung
+Breite 12, 5210 Windisch
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wir vermieten eine schöne 4.5 Zimmerwohnung. Die Wohnung liegt in einem ruhigen und kinderfreundlic…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Rain 29
+40
+CHF
+/Monat
+Aussenparkplatz
+Am Rain 29, 5210 Windisch
+Array
+Objekttyp
+Offener Parkplatz
+An der Liegenschaft Am Rain 29 vermieten wir Aussenparkplätze für CHF 40.00/Monat.
+Ebenfalls kön…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Rain 29
+1'380
+CHF
+/Monat
+Helle 3.5 Zimmer an ruhiger Lage
+Am Rain 29, 5210 Windisch
+Array
+3.5 Zimmer
+74 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+74 m2
+Per 01.10.2021 oder nach Vereinbarung vermieten wir in Windisch diese schöne 3.5 Zimmer Wohnung.
+…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 4
 1
 2
 3

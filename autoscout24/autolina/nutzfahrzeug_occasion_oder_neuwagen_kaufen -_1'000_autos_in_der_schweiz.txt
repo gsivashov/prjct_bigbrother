@@ -81,7 +81,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -99,7 +99,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -153,343 +153,348 @@ WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
 NEU
-RENAULT
-Trafic 1.6 ENERGY TwinT. dCi125 2.9t Business L2H1
-CHF 20'899
-ab CHF 225/Monat
-04.2018
+VW
+Bay Window Bus
+CHF 26'500
+ab CHF 285/Monat
+07.1972
 Handschaltung
-33'300 km
+13'920 km
+Benzin
+Hinterradantrieb
+rot
+-
+GE
+Merken
+VW
+Bay Window Bus
+07.1972
+-
+13'920 km
+CHF 26'500
+Merken
+ab CHF 285/Monat
+NEU
+OPEL
+Vivaro Cargo 2.7 t M 1.5 CDTI 102 Essentia S/S
+CHF 25'050
+ab CHF 270/Monat
+-
+Handschaltung
+20 km
 Diesel
 Vorderradantrieb
 weiss
-125 PS
-ZH
+102 PS
+AG
 Merken
-RENAULT
-Trafic 1.6 ENERGY TwinT. dCi125 2...
-04.2018
-125 PS
-33'300 km
-CHF 20'899
+OPEL
+Vivaro Cargo 2.7 t M 1.5 CDTI 102...
+-
+102 PS
+20 km
+CHF 25'050
 Merken
-ab CHF 225/Monat
+ab CHF 270/Monat
 NEU
-MERCEDES-BENZ
-Vito 114 BlueTEC EL 4Matic 7G-Tronic Euro 6
-CHF 58'900
-ab CHF 633/Monat
-09.2018
+VW
+California 6.1 Beach Edition Spirit
+CHF 74'900
+ab CHF 805/Monat
+12.2020
 Automat
-59'500 km
+10'500 km
 Diesel
 Allradantrieb
-braun
-136 PS
-TG
-Merken
-MERCEDES-BENZ
-Vito 114 BlueTEC EL 4Matic 7G-Tro...
-09.2018
-136 PS
-59'500 km
-CHF 58'900
-Merken
-ab CHF 633/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-OPEL
-Vivaro 1.6 CDTI 2.7t L1H1
-CHF 15'900
-ab CHF 171/Monat
-12.2016
-Handschaltung
-99'000 km
-Diesel
-Vorderradantrieb
-weiss
-95 PS
-SG
-Merken
-OPEL
-Vivaro 1.6 CDTI 2.7t L1H1
-12.2016
-95 PS
-99'000 km
-CHF 15'900
-Merken
-ab CHF 171/Monat
-NEU
-OPEL
-Movano 2.3 CDTI 3.5t L2H2
-CHF 18'900
-ab CHF 203/Monat
-09.2014
-Handschaltung
-55'500 km
-Diesel
-Vorderradantrieb
-weiss
-125 PS
-SG
-Merken
-OPEL
-Movano 2.3 CDTI 3.5t L2H2
-09.2014
-125 PS
-55'500 km
-CHF 18'900
-Merken
-ab CHF 203/Monat
-NEU
-FORD
-Transit Courier Van 1.0 EcoB T
-CHF 15'090
-ab CHF 163/Monat
-01.2021
-Handschaltung
-1 km
-Benzin
-Vorderradantrieb
-weiss
-101 PS
-FL
-Merken
-FORD
-Transit Courier Van 1.0 EcoB T
-01.2021
-101 PS
-1 km
-CHF 15'090
-Merken
-ab CHF 163/Monat
-NEU
-VW
-Crafter 35 Kastenwagen Entry RS 3640 mm
-CHF 39'900
-ab CHF 429/Monat
--
-Handschaltung
-10 km
-Diesel
-Vorderradantrieb
-weiss
-140 PS
-TG
-Merken
-VW
-Crafter 35 Kastenwagen Entry RS 3...
--
-140 PS
-10 km
-CHF 39'900
-Merken
-ab CHF 429/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-VW
-Caddy Maxi Kastenwagen
-CHF 21'490
-ab CHF 231/Monat
-01.2019
-Handschaltung
-26'300 km
-Diesel
-Vorderradantrieb
-weiss
-102 PS
-AG
-Merken
-VW
-Caddy Maxi Kastenwagen
-01.2019
-102 PS
-26'300 km
-CHF 21'490
-Merken
-ab CHF 231/Monat
-NEU
-VW
-Caddy Kastenwagen
-CHF 19'980
-ab CHF 215/Monat
-02.2019
-Handschaltung
-21'100 km
-Diesel
-Vorderradantrieb
-weiss
-102 PS
-AG
-Merken
-VW
-Caddy Kastenwagen
-02.2019
-102 PS
-21'100 km
-CHF 19'980
-Merken
-ab CHF 215/Monat
-NEU
-RENAULT
-Master T35 ENERGY 2.3dCi 145 L3H2
-CHF 22'900
-ab CHF 270/Monat
-06.2018
-Handschaltung
-30'000 km
-Diesel
-Vorderradantrieb
-weiss
-145 PS
-ZH
-Merken
-RENAULT
-Master T35 ENERGY 2.3dCi 145 L3H2
-06.2018
-145 PS
-30'000 km
-CHF 22'900
-Merken
-ab CHF 270/Monat
-NEU
-PEUGEOT
-Boxer fourg. 333 L2H2 2.2 HDI 130
-CHF 12'900
-ab CHF 139/Monat
-03.2012
-Handschaltung
-78'500 km
-Diesel
-Vorderradantrieb
-gelb
-130 PS
+grau
+199 PS
 TI
 Merken
-PEUGEOT
-Boxer fourg. 333 L2H2 2.2 HDI 130
-03.2012
-130 PS
-78'500 km
-CHF 12'900
+VW
+California 6.1 Beach Edition Spir...
+12.2020
+199 PS
+10'500 km
+CHF 74'900
 Merken
-ab CHF 139/Monat
+ab CHF 805/Monat
 NEU
-MERCEDES-BENZ
-Sprinter 316 CDI Lang 7G-TRONIC
-CHF 48'300
-ab CHF 519/Monat
-01.2021
-Automat
-50 km
-Diesel
-Hinterradantrieb
-weiss
-163 PS
-VD
-Merken
-MERCEDES-BENZ
-Sprinter 316 CDI Lang 7G-TRONIC
-01.2021
-163 PS
-50 km
-CHF 48'300
-Merken
-ab CHF 519/Monat
-NEU
-MERCEDES-BENZ
-Sprinter 314 CDI Worker Standard A
-CHF 41'400
-ab CHF 445/Monat
-01.2021
-Automat
-50 km
-Diesel
-Vorderradantrieb
-weiss
-143 PS
-VD
-Merken
-MERCEDES-BENZ
-Sprinter 314 CDI Worker Standard ...
-01.2021
-143 PS
-50 km
-CHF 41'400
-Merken
-ab CHF 445/Monat
-NEU
-CITROEN
-Berlingo 1.5 HDi Swiss Ed
-CHF 16'144
-ab CHF 174/Monat
-01.2021
-Handschaltung
-15 km
-Diesel
-Vorderradantrieb
-weiss
-75 PS
-BE
-Merken
-CITROEN
-Berlingo 1.5 HDi Swiss Ed
-01.2021
-75 PS
-15 km
-CHF 16'144
-Merken
-ab CHF 174/Monat
-NEU
-CITROEN
-Jumper 33 2.2 BlueHDi 140 Club L2H1
-CHF 30'976
-ab CHF 333/Monat
-01.2021
-Handschaltung
-20 km
-Diesel
-Vorderradantrieb
-weiss
-140 PS
-BE
-Merken
-CITROEN
-Jumper 33 2.2 BlueHDi 140 Club L2...
-01.2021
-140 PS
-20 km
-CHF 30'976
-Merken
-ab CHF 333/Monat
-NEU
-DACIA
-Dokker Van 1.3 TCe 130 Unlimited S/S
-CHF 16'199
-ab CHF 174/Monat
+RENAULT
+Express Kaw. 1.5 dCi Blue 75 ACCESS
+CHF 16'985
+ab CHF 183/Monat
 -
 Handschaltung
+900 km
+Diesel
+Vorderradantrieb
+weiss
+75 PS
+LU
+Merken
+RENAULT
+Express Kaw. 1.5 dCi Blue 75 ACCE...
+-
+75 PS
+900 km
+CHF 16'985
+Merken
+ab CHF 183/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+VW
+Grand California 600 RS 3640 mm
+CHF 82'250
+ab CHF 884/Monat
+-
+Automat
 10 km
+Diesel
+Vorderradantrieb
+silber
+177 PS
+LU
+Merken
+VW
+Grand California 600 RS 3640 mm
+-
+177 PS
+10 km
+CHF 82'250
+Merken
+ab CHF 884/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+RENAULT
+Kangoo Express Van EXTRA 1.3 TCe 100 PF
+CHF 20'700
+ab CHF 223/Monat
+-
+Handschaltung
+15 km
 Benzin
 Vorderradantrieb
 weiss
-130 PS
-BE
+100 PS
+AG
 Merken
-DACIA
-Dokker Van 1.3 TCe 130 Unlimited ...
+RENAULT
+Kangoo Express Van EXTRA 1.3 TCe ...
+-
+100 PS
+15 km
+CHF 20'700
+Merken
+ab CHF 223/Monat
+RENAULT
+Kangoo Z.E.
+CHF 9'900
+ab CHF 112/Monat
+11.2011
+Automat
+13'000 km
+Elektro
+Vorderradantrieb
+blau
+60 PS
+TG
+Merken
+RENAULT
+Kangoo Z.E.
+11.2011
+60 PS
+13'000 km
+CHF 9'900
+Merken
+ab CHF 112/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+FORD
+Transit C Van 320 L1 2.0 TDCi 130 Trend
+CHF 32'900
+ab CHF 354/Monat
+-
+Handschaltung
+0 km
+Diesel
+Vorderradantrieb
+weiss
+130 PS
+ZH
+Merken
+FORD
+Transit C Van 320 L1 2.0 TDCi 130...
 -
 130 PS
-10 km
-CHF 16'199
+0 km
+CHF 32'900
 Merken
-ab CHF 174/Monat
+ab CHF 354/Monat
+VW
+California 6.1 Ocean Edition
+CHF 74'250
+ab CHF 798/Monat
+06.2021
+Automat
+10 km
+Diesel
+Vorderradantrieb
+sonstiges
+150 PS
+BE
+Merken
+VW
+California 6.1 Ocean Edition
+06.2021
+150 PS
+10 km
+CHF 74'250
+Merken
+ab CHF 798/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+FORD
+Ranger LTD 3.2 TDCi 4x4 A
+CHF 34'890
+ab CHF 375/Monat
+10.2018
+Automat
+47'500 km
+Diesel
+Allradantrieb
+rot
+200 PS
+TG
+Merken
+FORD
+Ranger LTD 3.2 TDCi 4x4 A
+10.2018
+200 PS
+47'500 km
+CHF 34'890
+Merken
+ab CHF 375/Monat
+RENAULT
+Nouveau Kangoo Van EDITION ONE Open Sesame by Renault 1.3 TC
+CHF 20'785
+ab CHF 224/Monat
+-
+Handschaltung
+12 km
+Benzin
+Vorderradantrieb
+weiss
+102 PS
+VD
+Merken
+RENAULT
+Nouveau Kangoo Van EDITION ONE Op...
+-
+102 PS
+12 km
+CHF 20'785
+Merken
+ab CHF 224/Monat
+OPEL
+Vivaro Kaw. 2.9 t L1 H1 1.6 CDTI 125 BiT S/S
+CHF 20'500
+ab CHF 221/Monat
+11.2017
+Handschaltung
+42'050 km
+Diesel
+Vorderradantrieb
+weiss
+125 PS
+LU
+Merken
+OPEL
+Vivaro Kaw. 2.9 t L1 H1 1.6 CDTI ...
+11.2017
+125 PS
+42'050 km
+CHF 20'500
+Merken
+ab CHF 221/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+FORD
+Transit C Van 300 L1 2.0 TDCi 105 Trend
+CHF 28'650
+ab CHF 308/Monat
+-
+Handschaltung
+45 km
+Diesel
+Vorderradantrieb
+weiss
+105 PS
+ZH
+Merken
+FORD
+Transit C Van 300 L1 2.0 TDCi 105...
+-
+105 PS
+45 km
+CHF 28'650
+Merken
+ab CHF 308/Monat
+FORD
+TourneoC Bus 320 L2 2.0 TDCi 185 Ti.
+CHF 46'500
+ab CHF 548/Monat
+08.2020
+Automat
+2'000 km
+Diesel
+Vorderradantrieb
+grau
+185 PS
+BE
+Merken
+FORD
+TourneoC Bus 320 L2 2.0 TDCi 185 ...
+08.2020
+185 PS
+2'000 km
+CHF 46'500
+Merken
+ab CHF 548/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+FORD
+TourneoC Bus 320 L1 2.0 TDCi 185 Ti.
+CHF 49'900
+ab CHF 588/Monat
+-
+Automat
+10 km
+Diesel
+Vorderradantrieb
+grau
+185 PS
+BE
+Merken
+FORD
+TourneoC Bus 320 L1 2.0 TDCi 185 ...
+-
+185 PS
+10 km
+CHF 49'900
+Merken
+ab CHF 588/Monat
 35-Punkte-Check
 Kostenlose Probefahrt
 Garantieversprechen

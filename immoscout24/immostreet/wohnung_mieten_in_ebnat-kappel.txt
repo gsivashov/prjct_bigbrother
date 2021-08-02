@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-ebnat-kappel/
 Title: Wohnung mieten in Ebnat-Kappel - Immostreet.ch
-Description: Wohnung mieten in  Ebnat-Kappel - Immostreet.ch: ImmoStreet.ch hat 22 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Ebnat-Kappel - Immostreet.ch: ImmoStreet.ch hat 21 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-22 Resultate gefunden ·
+21 Resultate gefunden ·
 Wohnung mieten in Ebnat-Kappel
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,83 +131,6 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Wierstrasse 2,6
-1'220
-CHF
-/Monat
-VIEL FÜRS GELD! RENOVIERT,GROSS,HELL 4.…
-Wierstrasse 2,6, 9642 Ebnat-Kappel
-Array
-4.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-98 m2
-Grosszügig und Preiswert !Die sehr gepflegte und modernisierte Liegenschaft ist ruhig, sonnig und d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'800
-CHF
-/Monat
-CHARMANTE UND RUSTIKALE WOHLFÜHLOASE
-Adresse auf Anfrage, 9642 Ebnat-Kappel
-Array
-6.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-6.5
-Wohnfläche
-150 m2
-Diese wunderschöne und lichtdurchflutende charmante Maisonnte Wohnung zieht sich über drei Etagen. …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kapplerstrasse 11
-1'835
-CHF
-/Monat
-3.5-Attikawohnung im Zentrum von Ebnat-…
-Kapplerstrasse 11, 9642 Ebnat-Kappel
-Array
-3.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-98 m2
-3.5-Attikawohnung im Zentrum von Ebnat-Kappel!Wir vermieten eine 3.5-Attikawohnung, welche sich im …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'200
-CHF
-/Monat
-Wohnung
-Adresse auf Anfrage, 9642 Ebnat-Kappel
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Die Wohnung Liegt in der Natur und sieht Mann die Berge die Wohnung Liegt im Zweiten Stockwerk und …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Kapplerstrasse 51
 1'420
 CHF
@@ -225,62 +148,20 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Kapplerstrasse 72
-1'000
+Bachstrasse 47
+1'375
 CHF
 /Monat
-Mietwohnung
-Kapplerstrasse 72, 9642 Ebnat-Kappel
-Array
-3 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-80 m2
-Wir vermieten eine 3 Zimmerwohnung im 3. OG. Die Wände wurden frisch gestrichen und das Badezimmer …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rosenbühlstrasse 58
-1'300
-CHF
-/Monat
-4.5 Zimmer-Wohnung
-Rosenbühlstrasse 58, 9642 Ebnat-Kappel
+4½ Zimmer-Wohnung im Toggenburg
+Bachstrasse 47, 9642 Ebnat-Kappel
 Array
 4.5 Zimmer
-89 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Wohnfläche
-89 m2
-Renovation zuletzt 2021 Schöne helle 4.5 Zimmer-Wohnung: Küche, Glaskeramikherd und Geschirrspüler,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Thuraustrasse 48a
-1'150
-CHF
-/Monat
-schöne, helle und ruhige 4-Zimmerwohnun…
-Thuraustrasse 48a, 9642 Ebnat-Kappel
-Array
-4 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-83 m2
-Sehr ruhige und gut erreichbare Wohnlage direkt an der Thur Die gemütlichen Wohnräume sind wie folg…
+Etage
+Wir vermieten eine schöne, renovierte 4.5 Zimmer-Wohnung an der Bachstrasse 47 in Ebnat-Kappel, was…
 Teilen
 E-Mail
 Facebook
@@ -305,12 +186,12 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Austrasse 6
-935
+Austrasse 7
+950
 CHF
 /Monat
-Schöne 4-Zi. Dach-Wohnung mit Balkon
-Austrasse 6, 9642 Ebnat-Kappel
+Helle 4-Zi. Wohnung im 2. OG mit Balkon
+Austrasse 7, 9642 Ebnat-Kappel
 Array
 4 Zimmer
 70 m2
@@ -320,7 +201,47 @@ Zimmer
 4
 Wohnfläche
 70 m2
-Wohnen in der Natur Schöne und helle 4-Zi. Wohnung im ruhigen Wohnquartier. Geniessen Sie die Vorte…
+Helle 4-Zi. Wohnung im familienfreundlichen WohnquartierGeniessen Sie die Vorteile einer ruhigen un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'800
+CHF
+/Monat
+CHARMANTE UND RUSTIKALE WOHLFÜHLOASE
+Adresse auf Anfrage, 9642 Ebnat-Kappel
+Array
+6.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+6.5
+Wohnfläche
+150 m2
+Diese wunderschöne und lichtdurchflutende charmante Maisonnte Wohnung zieht sich über drei Etagen. …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorfstrasse 15
+1'807
+CHF
+/Monat
+Schönes, zentrales Wohnen mit Top-Aussi…
+Oberdorfstrasse 15, 9642 Ebnat-Kappel
+Array
+4.5 Zimmer
+142 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+142 m2
+Schönes, zentrales Wohnen mit Top-Aussicht und erst noch über 140 m² Wohnfläche!Per 1. Oktober 2021…
 Teilen
 E-Mail
 Facebook
@@ -338,6 +259,140 @@ Wohnung, Flach
 Zimmer
 3
 Diese 3.0 Zimmer-Wohnung in Ebnat-kappel könnte Ihr neues Zuhause sein und überzeugt mit folgenden …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Ebnaterstrasse 57
+1'090
+CHF
+/Monat
+Moderne 3.5-Zimmer-Wohnung bei der Thur
+Ebnaterstrasse 57, 9642 Ebnat-Kappel
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Moderne 3.5-Zimmer-Wohnung bei der ThurDie wunderbare 3.5-Zimmerwohnung mit speziellem Wohnambiente…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorfstrasse 23
+1'400
+CHF
+/Monat
+RUHIG UND ZENTRAL
+Oberdorfstrasse 23, 9642 Ebnat-Kappel
+Array
+4 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+90 m2
+Sie sind auf der Suche nach einer gemütlichen und grosszügigen Wohnung? Dann ist diese Wohnung gena…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorfstrasse 23
+1'500
+CHF
+/Monat
+RUHIG UND ZENTRAL
+Oberdorfstrasse 23, 9642 Ebnat-Kappel
+Array
+3.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+70 m2
+Sie sind auf der Suche nach einer gemütlichen und grosszügigen Wohnung? Dann ist diese Wohnung gena…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorfstrasse 10
+995
+CHF
+/Monat
+Wohnen im Türmli mit traumhafter Aussic…
+Oberdorfstrasse 10, 9642 Ebnat-Kappel
+Array
+2 Zimmer
+54 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+54 m2
+Wohnen im Türmli mit traumhafter Aussicht, 2-ZimmerwohnungWohnen im Türmli mit traumhafter Aussicht…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rosenbüelstrasse 52
+500
+CHF
+/Monat
+Preiswerte Singlewohnung
+Rosenbüelstrasse 52, 9642 Ebnat-Kappel
+Array
+2 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+In Ebnat-Kappel, an der Rosenbüelstrasse 52 vermieten wir eine preiswerte Wohnung.Die Wohnung verfü…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wierstrasse 2,6
+1'220
+CHF
+/Monat
+VIEL FÜRS GELD! RENOVIERT,GROSS,HELL 4.…
+Wierstrasse 2,6, 9642 Ebnat-Kappel
+Array
+4.5 Zimmer
+98 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+98 m2
+Grosszügig und Preiswert !Die sehr gepflegte und modernisierte Liegenschaft ist ruhig, sonnig und d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kapplerstrasse 88
+1'200
+CHF
+/Monat
+Wohnung
+Kapplerstrasse 88, 9642 Ebnat-Kappel
+Array
+4.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+95 m2
+Die Wohnung Liegt in der Natur und sieht Mann die Berge die Wohnung Liegt im Zweiten Stockwerk und …
 Teilen
 E-Mail
 Facebook
@@ -362,26 +417,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Austrasse 7
-950
-CHF
-/Monat
-Helle 4-Zi. Wohnung im 2. OG mit Balkon
-Austrasse 7, 9642 Ebnat-Kappel
-Array
-4 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-70 m2
-Helle 4-Zi. Wohnung im familienfreundlichen WohnquartierGeniessen Sie die Vorteile einer ruhigen un…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Rosenbüelstrasse 52
 441
 CHF
@@ -395,46 +430,6 @@ Wohnung, Flach
 Zimmer
 1
 In Ebnat-Kappel, an der Rosenbüelstrasse 52 vermieten wir eine preiswerte Wohnung.Eine Bushaltestel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kapplerstrasse 86
-1'200
-CHF
-/Monat
-Renovierte 4.5 Zimmerwohnun schönen A…
-Kapplerstrasse 86, 9642 Ebnat-Kappel
-Array
-4.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-95 m2
-Zu vermieten in Ebnat -Kappel ,renovierte 4.5 Zimmerwohnung Küche , Glaskeramikherd und Geschirrspü…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ebnaterstrasse 49
-1'200
-CHF
-/Monat
-GEMÜTLICH UND LICHTDURCHFLUTET
-Ebnaterstrasse 49, 9642 Ebnat-Kappel
-Array
-4 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-85 m2
-Diese helle und charmante 4-Zimmer-Wohnung liegt in Ebnat-Kappel und kann per sofort bezogen werden…
 Teilen
 E-Mail
 Facebook
@@ -477,26 +472,6 @@ E-Mail
 Facebook
 Whatsapp
 Sonneggstrasse 21
-850
-CHF
-/Monat
-TOP ANGEBOT 2.5 Zimmer-Wohnung mit zwei…
-Sonneggstrasse 21, 9642 Ebnat-Kappel
-Array
-2.5 Zimmer
-71 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-71 m2
-grosszügige 2.5-Zimmer-Wohnung mit ca. 71 m² Das Wohn-und Schlafzimmer sind mit Laminat verlegt. Di…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonneggstrasse 21
 790
 CHF
 /Monat
@@ -512,6 +487,23 @@ Zimmer
 Wohnfläche
 58 m2
 2.5-Zimmer-Wohnung mit Balkon in einer zentralen und doch ruhigen Lage ***OBJEKTBESCHREIBUNG:Die 42…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rosenbüelstrasse 68
+1'130
+CHF
+/Monat
+Schöne Wohnung mit Balkon
+Rosenbüelstrasse 68, 9642 Ebnat-Kappel
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+An ruhiger Lage in Ebnat-Kappel vermieten wir ab sofort oder nach Vereinbarung eine schöne Wohnung …
 Teilen
 E-Mail
 Facebook

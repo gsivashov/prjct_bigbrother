@@ -151,22 +151,21 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Dekan-Oeschstrasse 11
-815'000
+Mattenweg 8
+865'000
 CHF
-bezugsbereite 3.5 Zimmer Neubauwohnung
-Dekan-Oeschstrasse 11, 7310 Bad Ragaz
+Exklusive 3.5-Zimmerwohnung - Modern Wo…
+Mattenweg 8, 7310 Bad Ragaz
 Array
 3.5 Zimmer
-115 m2
+86 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Möblierte Wohnung
 Zimmer
 3.5
 Wohnfläche
-115 m2
-Etage
-Sehr grosszügiger Grundriss, absolute Ruhe, viele Sonnenstunden zentrale Lage! Die und noch vieles …
+86 m2
+Mitten im Bad Ragaz und in unmittelbarer Nähe zum Bahnhof dürfen wir diese elegante und sehr geschm…
 Teilen
 E-Mail
 Facebook
@@ -174,7 +173,7 @@ Whatsapp
 Giessenstrasse 5
 850'000
 CHF
-Modernste Wohnungen in Minergie-P gepla…
+Besondere Lebensqualität in Bad Ragaz
 Giessenstrasse 5, 7310 Bad Ragaz
 Array
 3.5 Zimmer
@@ -191,21 +190,19 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Mattenweg 8
-865'000
+Bidemsstrasse 28
+710'000
 CHF
-Exklusive 3.5-Zimmerwohnung - Modern Wo…
-Mattenweg 8, 7310 Bad Ragaz
+GUTE AUSSICHTEN
+Bidemsstrasse 28, 7310 Bad Ragaz
 Array
-3.5 Zimmer
-86 m2
+6 Zimmer
 Objekttyp
-Wohnung, Flach
+Wohnung, Einzelhaus
 Zimmer
-3.5
-Wohnfläche
-86 m2
-Mitten im Bad Ragaz und in unmittelbarer Nähe zum Bahnhof dürfen wir diese elegante und sehr geschm…
+6
+Etage
+Chalet ausserhalb von Bad Ragaz, tolle Aussicht gegen die Bündner Herrschaft. Ruhe und Lebensqualit…
 Teilen
 E-Mail
 Facebook
@@ -230,7 +227,8 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-Preis auf Anfrage
+1'590'000
+CHF
 6 1/2-Zimmer Wohnung an sonniger Lage i…
 Adresse auf Anfrage, 7310 Bad Ragaz
 Array

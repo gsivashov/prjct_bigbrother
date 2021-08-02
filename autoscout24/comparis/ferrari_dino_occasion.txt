@@ -1,8 +1,7 @@
 URL: https://www.comparis.ch/carfinder/marktplatz/ferrari/dino/occasion
 Title: Ferrari Dino Occasion – Preise vergleichen mit Comparis
-Description: Finden Sie unter 8 Ferrari Dino Occasion Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
+Description: Finden Sie unter 7 Ferrari Dino Occasion Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -588,32 +586,34 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Ferrari
-(877)
+(889)
 Ferrari Dino Occasion
-(8)
+(7)
+Ferrari Dino Oldtimer
+(3)
 Aufbau
 Ferrari Dino Coupé
-(5)
+(7)
 Motor
 Ferrari Dino Benzin
-(9)
+(10)
 Typ
 Ferrari Dino
-(8)
+(10)
 Modelle
 Ferrari F488
-(125)
+(128)
 Ferrari F430
-(63)
-Ferrari F458
-(62)
+(71)
 Ferrari F360
-(59)
+(65)
 Ferrari California
-(52)
+(59)
+Ferrari F458
+(59)
 Ferrari Portofino
-(38)
-Ferrari F12
+(45)
+Ferrari 308
 (36)
 Ferrari GTC
 (36)
@@ -622,26 +622,36 @@ auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
 Carweb wird durchsucht ...
 drive-in.ch wird durchsucht ...
-8 Treffer auf allen grossen Schweizer Auto-Portalen
-8 Treffer auf allen Portalen
+7 Treffer auf allen grossen Schweizer Auto-Portalen
+7 Treffer auf allen Portalen
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
-2 Inserate
+1 Inserat
 0 Inserate
 6 Inserate
 0 Inserate
 0 Inserate
-Ferrari Dino 246 GT
-30.05.2021
+Ferrari Dino 308 GT4
+05.07.2021
 Occasion
-01.1972, Manuell, Benzin
-49'600 km, 194 PS, Rot
+05.1976, Manuell, Benzin
+43'000 km, 313 PS, Rot
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 450'000
-ab CHF 8'219 / Monat
+CHF 79'800
+ab CHF 1'457 / Monat
+FERRARI Dino F 106 CL
+02.07.2021
+Occasion
+10.1975, Manuell, Benzin
+66'900 km, 160 PS, Gelb
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 49'900
+ab CHF 911 / Monat
 FERRARI Dino 246 GT
 20.05.2021
 Occasion
@@ -652,26 +662,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 450'000
 ab CHF 8'219 / Monat
-Ferrari Dino 246 GT
-08.05.2021
-Occasion
-06.1972, Manuell, Benzin
-86'350 km, 194 PS, Rot
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 358'500
-ab CHF 6'547 / Monat
-FERRARI Dino 246 GT
-04.05.2021
-Occasion
-06.1972, Manuell, Benzin
-86'350 km, 195 PS, Rot
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 358'500
-ab CHF 6'547 / Monat
 FERRARI Dino 246 GT
 14.10.2020
 Occasion
@@ -682,6 +672,7 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 550'000
 ab CHF 10'045 / Monat
+Preiserhöhung
 FERRARI Dino 246 GTS
 21.06.2019
 Occasion
@@ -690,8 +681,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 490'000
-ab CHF 8'949 / Monat
+CHF 449'000
+ab CHF 8'200 / Monat
 FERRARI Dino 246 GTS
 15.04.2019
 Occasion

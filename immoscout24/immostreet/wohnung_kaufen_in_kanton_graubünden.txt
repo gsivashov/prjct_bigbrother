@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/kanton-graubuenden/
 Title: Wohnung kaufen in Kanton Graubünden - Immostreet.ch
-Description: Wohnung kaufen in Kanton Graubünden - Immostreet.ch: ImmoStreet.ch hat 512 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Kanton Graubünden - Immostreet.ch: ImmoStreet.ch hat 488 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-512 Resultate gefunden ·
+488 Resultate gefunden ·
 Wohnung kaufen in Kanton Graubünden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,107 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Riedgasse 1
+695'000
+CHF
+Eigentumswohnung mit grosszügiger Garte…
+Riedgasse 1, 7205 Zizers
+Array
+4.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+97 m2
+Diese 4.5-Zimmer-Wohnung überzeugt durch Ihr angenehmes Ambiente mit einem Blick ins Grüne sowie au…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schlosshaldaweg 4
+290'000
+CHF
+Mit wenig Investition zu einer gemütlic…
+Schlosshaldaweg 4, 7012 Felsberg
+Array
+2 Zimmer
+59 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+59 m2
+Wir verkaufen im Auftrag eine grosszügige 2-Zimmer Dachwohnung im Zentrum von Felsberg. In wenigen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Voa Sporz
+Preis auf Anfrage
+TRAUMHAFTE 3.5-ZIMMER-FERIENWOHNUNG MIT…
+Voa Sporz, 7078 Lenzerheide/Lai
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Die exklusive 3.5-Zimmer-Gartenwohnung befindet sich an begehrtester Lage in Lenzerheide in einem l…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Maiensäss Hütte direkt im Ski- und Wand…
+Adresse auf Anfrage, 7165 Breil/Brigels
+Array
+Objekttyp
+Wohnung, Flach
+Etage
+BREIL / BRIGELSNATUR PUR - Ruhe garantiert. Wunderschön gelegen und gut erreichbar. Eine Hütte mit …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+AMAZING 3.5 ROOM FLAT WITH GARDEN - 115…
+Adresse auf Anfrage, 7524 Zuoz
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Amazing 3.5 room apartment with great garden, south exposition composed by a bright living room wit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Promenada 10A
+526'000
+CHF
+Ihre zukünftige Ferienwohnung in Flims …
+Promenada 10A, 7018 Flims Waldhaus
+Array
+2.5 Zimmer
+52 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+52 m2
+Etage
+Die 2 1/2 Zimmer-Eigentumswohnung in Flims Waldhaus wird aktuell als Labor und Büroräumlichkeit gen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 790'000
 CHF
@@ -150,82 +251,6 @@ Wohnfläche
 80 m2
 Etage
 Dieser heimelige 3.5-Zimmer-Hausteil überblickt Chur von einem sonnenverwöhnten Logenplatz an Bestl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-420'000
-CHF
-Gemütliche Wohnung an familiärer Lage
-Adresse auf Anfrage, 7204 Untervaz
-Array
-4.5 Zimmer
-97 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-97 m2
-Diese gemütliche 4.5-Zi. Wohnung befindet sich in einem familienfreundlichen Quartier an sonniger L…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Talstrasse 17
-620'000
-CHF
-Attraktive möblierte Ferienwohnung mit …
-Talstrasse 17, 7270 Davos Platz
-Array
-2.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-75 m2
-In Davos angekommen, erwartet Sie diese ganztägig besonnte 2.5 Zimmer Wohnung mit rund 75 m² Wohnfl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rothornblick 32
-525'000
-CHF
-2 ½ Zimmer-Ferienwohnung - mit den Skie…
-Rothornblick 32, 7050 Arosa
-Array
-2.5 Zimmer
-51 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-51 m2
-Die gemütliche 2 ½ Zimmerwohnung befindet sich am idyllischen Tannenweg, direkt am Waldrand. Die La…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-RUSTIKALE MAISONETTE
-Adresse auf Anfrage, 7500 St. Moritz
-Array
-3 Zimmer
-120 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3
-Wohnfläche
-120 m2
-Etage
-www.LifestyleHomes.ch In St. Moritz verkaufen wir eine 3.5 Zimmer-Maisonette im Dachgeschoss. Die…
 Teilen
 E-Mail
 Facebook
@@ -250,162 +275,217 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'080'000
+625'000
 CHF
-Sehen, einziehen, leben - Ihr neuer Woh…
-Adresse auf Anfrage, 7277 Davos Glaris
+Barrierefreiheit an ruhiger und zentral…
+Adresse auf Anfrage, 7000 Chur
 Array
 3.5 Zimmer
-114 m2
+87 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-114 m2
-Suchen Sie eine neuwertige Erstwohnung die behagliche Gemütlichkeit und herzerwärmendes Ambiente au…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chaunt da Crusch
-990'000
-CHF
-Wohnung Chaut da Crusch
-Chaunt da Crusch, 7524 Zuoz
-Array
-4.5 Zimmer
-118 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-118 m2
-Die einladende 5.5-ZimmerWohnung befindet sich im 1. OG und verfügt über 118 m2. Die helle Wohnung …
+87 m2
+Die sonnig und ruhig gelegene 3.5 Zimmerwohnung, befindet sich im 1994 erbauten, sehr gepflegten Me…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-625'000
+420'000
 CHF
-Originelle & charmante Attika-EGTW mit …
-Adresse auf Anfrage, 7205 Zizers
+Gemütliche Wohnung an familiärer Lage
+Adresse auf Anfrage, 7204 Untervaz
 Array
 4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Originelle, sowie charmante 4 .5 Zimmer Attika-Eigentumswohnung, mit Loggia und 2 PP in der Einstel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Delizioso appartamento a Pontresina - S…
-Adresse auf Anfrage, 7504 Pontresina
-Array
-4.5 Zimmer
-190 m2
+97 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-190 m2
-Al piano attico di uno storico edificio, situato appena sopra al centro di Pontresina si trova ques…
+97 m2
+Diese gemütliche 4.5-Zi. Wohnung befindet sich in einem familienfreundlichen Quartier an sonniger L…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-San Vittore
-450'000
+Via Chanel
+2'450'000
 CHF
-Nuovo elegante appartamento di 2.5 loca…
-San Vittore, 6534 S. Vittore
+Silvaplana - magic Engadina - appartame…
+Via Chanel, 7513 Silvaplana
+Array
+5 Zimmer
+111 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5
+Wohnfläche
+111 m2
+Silvaplana è considerato un vivace villaggio di tendenza nell' Alta Engadina. E' circondato da una …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+520'000
+CHF
+Gemütlich, gut gelegen und absolut sehe…
+Adresse auf Anfrage, 7013 Domat/Ems
+Array
+5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5
+Wohnfläche
+105 m2
+Die grosszügige 5-Zimmer-Wohnung gehört zu einer gut unterhaltenen Liegenschaft in einem familienfr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+998'000
+CHF
+NEUBAU MIT HOHEM AUSBAUSTANDART - IDEAL…
+Adresse auf Anfrage, 7204 Untervaz
+Array
+4.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+125 m2
+An sonniger Lage im schönen Untervaz, entsteht dieses neue Zweifamilienhaus. Das Quartier Flumis is…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Promenade 45
+3'100'000
+CHF
+Extravagante 4 1/2 Zimmer-Luxus-Wohnung…
+Promenade 45, 7270 Davos Platz
+Array
+4.5 Zimmer
+210 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+4.5
+Wohnfläche
+210 m2
+Etage
+MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Extravagante 4 1/2 Zimme…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tobelmühlestrasse 2
+1'207'000
+CHF
+Modernes Appartement in Davos - RESIDEN…
+Tobelmühlestrasse 2, 7270 Davos Platz
 Array
 2.5 Zimmer
-65 m2
+76 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+2.5
+Wohnfläche
+76 m2
+MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Modernes Appartement in …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Talstrasse 37
+900'000
+CHF
+Charmante 4 Zimmer-Wohnung an zentraler…
+Talstrasse 37, 7270 Davos Platz
+Array
+4 Zimmer
+96 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+96 m2
+MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Charmante 4 Zimmer-Wohnu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obere Albertistrasse 6
+1'830'000
+CHF
+Luxuriöse und moderne 3 1/2 Zimmer-Wohn…
+Obere Albertistrasse 6, 7270 Davos Platz
+Array
+3.5 Zimmer
+111 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+111 m2
+Etage
+MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Luxuriöse und moderne 3 …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stredun 218 B, Haus: Ravun
+Preis auf Anfrage
+Sehr grosszügige, sowie luxuriös ausgeb…
+Stredun 218 B, Haus: Ravun, 7524 Zuoz
+Array
+6.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+6.5
+Sehr grosszügige, sowie luxuriös ausgebaute 6 .5 Zimmer "Arven-Bijou-Eigentumswohnung", mit 2 Balko…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Strada Cantonale 348
+430'000
+CHF
+Engadin: Gemütliche kleine Wohnung zu v…
+Strada Cantonale 348, 7516 Maloja
+Array
+2.5 Zimmer
+40 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-65 m2
-A San Vittore, primo paese dei Grigioni in zona residenziale e centrale, vendiamo bellissimo appart…
+40 m2
+Gemütliche kleine Wohnung 21/2 zu verkaufen im wünderschonen Maloja. Ausgestattet mit überdachtem P…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Maloja
-1'550'000
+san Bernardino
+575'000
 CHF
-NUOVO APPARTAMENTO 3.5 LOCALI MALOJA
-Maloja, 7516 Maloja
-Array
-3.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-112 m2
-Fantastici appartamenti da vendere a MalojaNella zona centrale del paese costruiamo una casa plurif…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'800'000
-CHF
-MODERNO ATTICO CON BELLISSIMA VISTA SUL…
-Adresse auf Anfrage, 7512 Champfèr
-Array
-4.5 Zimmer
-119 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-119 m2
-Etage
-Champfèr - Nella località di Champfèr, destinazione turistica e che offre meravigliose vedute su pa…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mattawaldstr. 15 a
-1'450'000
-CHF
-3,1 /2 in sonnigst gelegen Bündnerhaus …
-Mattawaldstr. 15 a, 7260 Davos Dorf
-Array
-3.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-65 m2
-Die Wohnung liegt an reiner, Südhanglage mit freier Sicht über Davos an der Mattawaldstrasse., 200 …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'955'000
-CHF
-Appartamento 3.5 locali in vendita a St…
-Adresse auf Anfrage, 7500 St. Moritz
+APPARTAMENTO SAN BERNARDINO
+san Bernardino, 6565 S. Bernardino
 Array
 3.5 Zimmer
 100 m2
@@ -415,104 +495,12 @@ Zimmer
 3.5
 Wohnfläche
 100 m2
-Bellissimo e moderno appartamento di 3.5 locali, completamente ristrutturato, situato nel paese di …
+Vendo bellissimo appartamento completamente arredato a San Bernardino GR. Bellissima posizione in z…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Loretscher 14
-1'100'000
-CHF
-41/2 (51/2) - Zimmerwohnung 2.OG
-Loretscher 14, 7304 Maienfeld
-Array
-4.5 Zimmer
-155 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-155 m2
-Etage
-Nach Vereinbarung verkaufen wir in Maienfeld eine top moderne 41/2-Zimmerwohnung. Gemäss Grundbuch …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 10
-300'000
-CHF
-Appartementhaus Seewiese - Heimelige 1 …
-Bahnhofstrasse 10, 7260 Davos Dorf
-Array
-1 Zimmer
-46 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-46 m2
-Etage
-Die LiegenschaftDie 1 Zimmer Wohnung befindet sich eingangs Davos Dorf in einem grosszügigen Wohnbl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Helle Wohnung in einem der renommiertes…
-Adresse auf Anfrage, 7503 Samedan
-Array
-4.5 Zimmer
-200 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-200 m2
-Helle Wohnung auf zwei Etagen mit jeweils unabhängigem Zugang in einem prestigeträchtigen und moder…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'790'000
-CHF
-Maloja - Ampio e luminoso appartamento …
-Adresse auf Anfrage, 7516 Maloja
-Array
-4.5 Zimmer
-165 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-165 m2
-In un complesso tipicamente di villeggiatura si trova questo ampio appartamento, completamente rinn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Champfer Elegante appartamento in recen…
-Adresse auf Anfrage, 7512 Champfèr
-Array
-85 m2
-Objekttyp
-Wohnung, Flach
-Wohnfläche
-85 m2
-Elegante appartamento di 3.5 locali in una moderna palazzina di recente costruzione nella località …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 26
+Seite 1 von 25
 1
 2
 3

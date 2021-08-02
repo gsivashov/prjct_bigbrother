@@ -132,378 +132,384 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Schönaustrasse 47
-510'000
+Haute-Rive 60
+494'000
 CHF
-Wohnen mitten in Wettingen
-Schönaustrasse 47, 5430 Wettingen
+Bel appartement de 4.5 pièces avec bell…
+Haute-Rive 60, 2950 Courgenay
 Array
-3.5 Zimmer
-65 m2
+4.5 Zimmer
+102 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+4.5
 Wohnfläche
-65 m2
-Etage
-Die 3.5-Zimmer-Eigentumswohnung befindet sich an sonniger und ruhiger Wohnlage im sehr beliebten Al…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Via Sursilvana
-470'000
-CHF
-Die heimelige 5.5 Zimmerwohnung mitten …
-Via Sursilvana, 7175 Sumvitg
-Array
-5.5 Zimmer
-180 m2
-Objekttyp
-Wohnung, Duplex, Maisonette
-Zimmer
-5.5
-Wohnfläche
-180 m2
-Etage
-Objektbeschreibung
-Die zum Verkauf stehende Eigentumswohnung befindet sich im Zweifamilienhaus «Ca…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rue de l'Ancien-Comté 16
-345'000
-CHF
-Appartement de 3.5 pces avec 2 balcons …
-Rue de l'Ancien-Comté 16, 1635 La Tour-de-Trême
-Array
-3.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-65 m2
-Au 2ème étage d'immeuble avec ascenseur rénové en 2020, appartement 3.5 pces (65 m2) composé :- d'u…
+102 m2
+Pour 1'024.- CHF de charges mensuelle, devenez un heureux (se) propriétaire
+Situé dans un quar…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'345'000
+1'125'000
 CHF
-Superbe attique de 4.5 pièces ! Panoram…
-Adresse auf Anfrage, 1820 Veytaux
+Ravissant appartement spacieux en Duple…
+Adresse auf Anfrage, 1279 Bogis-Bossey
+Array
+5.5 Zimmer
+180 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+5.5
+Wohnfläche
+180 m2
+Appartement en duplex de 5 pièces, occupant l'entier du niveau des combles et sur combles. La surfa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+870'000
+CHF
+Suggestivo Appartamento di 4.5 locali n…
+Adresse auf Anfrage, 6832 Pedrinate
 Array
 4.5 Zimmer
-140 m2
+145 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+145 m2
+Etage
+A Bellavista nella zona esclusiva di Pedrinate, nel Mendrisiotto, ai margini del Parco Naturale del…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'450'000
+CHF
+Ferienwohnung mit Terrasse mitten in Po…
+Adresse auf Anfrage, 7504 Pontresina
+Array
+3.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+83 m2
+Mitten im begehrten Pontresina sind in dieser kernsanierten Liegenschaft Traumwohnungen entstanden,…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'650'000
+CHF
+Stylische Neubau-Ferienwohnung im begeh…
+Adresse auf Anfrage, 7504 Pontresina
+Array
+4.5 Zimmer
+106 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+106 m2
+Mitten im begehrten Pontresina sind in dieser kernsanierten Liegenschaft Traumwohnungen entstanden,…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'985'000
+CHF
+Zu verkaufen in Samedan: Ruhig gelegene…
+Adresse auf Anfrage, 7503 Samedan
+Array
+5.5 Zimmer
+147 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+147 m2
+Was für eine Aussicht! Das ist das erste, was man sich denkt, wenn man dieses gepflegte 5.5-Zimmer-…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+610'000
+CHF
+Au jardin des Vignes, 3,5 pièces avec…
+Adresse auf Anfrage, 1853 Yvorne
+Array
+3.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+86 m2
+Un emplacement de choix, une construction de qualité,Bienvenue dans la Nouvelle promotion : Le Jard…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+470'000
+CHF
+L’Etoile des neiges, La Nouvelle réside…
+Adresse auf Anfrage, 1854 Leysin
+Array
+3.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+70 m2
+L’Etoile des neiges, La Nouvelle résidence à Leysin…Une petite PPE de 4 appartements seulement,une …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+408'000
+CHF
+Quoi de neuf à Evionnaz ?
+Adresse auf Anfrage, 1902 Evionnaz
+Array
+2.5 Zimmer
+109 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+109 m2
+Une nature omniprésente, des commodités sur place, des facilités d’accès, un petit théâtre fort sym…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+610'000
+CHF
+Nouvelle promotion : LE JARDIN DES VIGN…
+Adresse auf Anfrage, 1853 Yvorne
+Array
+3.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+86 m2
+Classé parmi les plus beaux village de Suisse, Avec un vignoble mondialement connu,Et le majestueux…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+870'000
+CHF
+Dans les combles, 5,5 p. avec un espace…
+Adresse auf Anfrage, 1853 Yvorne
+Array
+5.5 Zimmer
+172 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+Wohnfläche
+172 m2
+5.5 pièces dans les combles…Tout un étage rien que pour vous !De l’aisance, du confort, de l’espace…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+625'000
+CHF
+Un 3,5 pièces avec terrasse au Jardin d…
+Adresse auf Anfrage, 1853 Yvorne
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+100 m2
+Yvorne, c’est d’abord ses vignes, son soleil, puis son château Maison Blanche…C’est aussi un lieu d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+480'000
+CHF
+Un 3,5 pièces très cosy avec 2 balcons.…
+Adresse auf Anfrage, 1880 Bex
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Entre Les Dents de Morcles et Les Dents du Midi, de la nature tout autour, un ensoleillement maxima…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+770'000
+CHF
+Du tout beau et du tout neuf à votre im…
+Adresse auf Anfrage, 1522 Oulens-sur-Lucens
+Array
+4.5 Zimmer
+149 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+149 m2
+C’est sur les Hauts de Lucens où reflètent le calme et la tranquillité que vous poserez vos valises…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+342'000
+CHF
+Un 2,5 pièces au centre de Collombey
+Adresse auf Anfrage, 1868 Collombey
+Array
+2.5 Zimmer
+67 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+67 m2
+Plein centre de Collombey, avec toutes les facilités de services que l’on connaît, une ancienne gra…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+628'000
+CHF
+La métamorphose d'une grange en un bel …
+Adresse auf Anfrage, 1868 Collombey
+Array
+4.5 Zimmer
+135 m2
 Objekttyp
 Wohnung, Attikawohnung
 Zimmer
 4.5
 Wohnfläche
-140 m2
-Etage
-Situé au cur du village de Veytaux, à quelques pas du Château de Chillon, ce bel appartement de 4.5…
+135 m2
+Collombey, plein centre, en retrait de la route cantonale, avec toutes les facilités de services qu…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-535'000
+644'000
 CHF
-BEL APPARTEMENT TRAVERSANT DE 3,5 PCES …
-Adresse auf Anfrage, 1880 Bex
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Ce charmant appartement traversant de 3,5 pièces est le cocon idéal pour les amoureux de la nature,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-560'000
-CHF
-CHARMANT APPARTEMENT DUPLEX 4 PIECES AV…
-Adresse auf Anfrage, 1873 Champoussin
-Array
-4 Zimmer
-79 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-79 m2
-Etage
-A SAISIR : LOGEMENT POUR VOS WEEK-END ET VACANCES !!!Idéalement situé en plein cur du village de Ch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-559'000
-CHF
-BEL APPARTEMENT NEUF EN ATTIQUE DE 4.5 …
-Adresse auf Anfrage, 1670 Ursy
+Un attique duplex dans une grange qui s…
+Adresse auf Anfrage, 1868 Collombey
 Array
 4.5 Zimmer
+138 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
 4.5
-Pour de plus amples informations (plaquette de vente, plans, etc) les documents sont téléchargeable…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Route d'Hauteville 1
-920'000
-CHF
-NOUVEAU PROJET DE 10 APPARTEMENTS AU CU…
-Route d'Hauteville 1, 1806 St-Légier-La Chiésaz
-Array
-3.5 Zimmer
-94 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
 Wohnfläche
-94 m2
-Site internet de la promotion : www.1806.ch Cet immeuble d'un design contemporain sera constitué de…
+138 m2
+Collombey, plein centre, en retrait de la route cantonale, avec toutes les facilités de services qu…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-375'000
+342'000
 CHF
-"RÉSIDENCE DU PICHOLIN" 8 appartements …
-Adresse auf Anfrage, 1896 Vouvry
+Nouvelle promotion, une grange se rénov…
+Adresse auf Anfrage, 1868 Collombey
 Array
-3.5 Zimmer
-63 m2
+2 Zimmer
+67 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+2
 Wohnfläche
-63 m2
-Etage
-Au coeur du village de Vouvry, cet immeuble profitera d'un emplacement idéal, à proximité de toutes…
+67 m2
+Plein centre de Collombey,Avec toutes les facilités de services que l’on connaît,Une nouvelle promo…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-680'000
+299'000
 CHF
-BEL ATTIQUE MODERNE TRAVERSANT DE 3,5 P…
-Adresse auf Anfrage, 1510 Moudon
+Pour investisseur : bel attique de 3,5 …
+Adresse auf Anfrage, 1920 Martigny
 Array
 3.5 Zimmer
+66 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
 3.5
-Etage
-A 20-25 minutes de Lausanne, situé au dernier étage d'un immeuble récent érigé en 2012, au cur d'un…
+Wohnfläche
+66 m2
+Les montagnes d’un côté, le château de l’autre.Le calme et la tranquillité garantis.Le centre-ville…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Route de Siviez 53
-485'000
+Adresse auf Anfrage
+379'000
 CHF
-A vendre : 2.5 p. rénové au cur du doma…
-Route de Siviez 53, 1997 Siviez (Nendaz)
+Petit pied à terre cosy, au centre, ave…
+Adresse auf Anfrage, 1884 Villars-sur-Ollon
 Array
 2.5 Zimmer
-73 m2
+55 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-73 m2
-A vendre : 2.5 p. rénové au cur du domaine de ski des 4 Vallées !Pour tous les détails veuillez vis…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ammerswilerstrasse 45 B
-860'000
-CHF
-ERSTKLASSIGES ZUHAUSE | GENUSSVOLL WOHN…
-Ammerswilerstrasse 45 B, 5600 Lenzburg
-Array
-4.5 Zimmer
-117 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-117 m2
-DIE LAGE- Widmi-Quartier - Kinderfreundliche und idyllische Wohnlage am Rande von Lenzburg- Die näc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rue fauporte 2
-190'000
-CHF
-Charmant appartement 3.5 pièces au coeu…
-Rue fauporte 2, 3977 Granges VS
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-VIENS FIXER TON PRIX SUR OPLO.CHEN EXCLUSIVITÉ CHEZ OPLO Petit appartement situé au cur du village …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-930'000
-CHF
-Appartement 4.5 pces en duplex - Vermala
-Adresse auf Anfrage, 3963 Crans-Montana
-Array
-4.5 Zimmer
-104 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Wohnfläche
-104 m2
-Viens fixer ton prix sur OPLO.CHTu as besoin de te ressourcer ? Prend de l'altitude et respires à p…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Asetstrasse 39
-965'000
-CHF
-Dachwohnung mit Blick zu den Mythen
-Asetstrasse 39, 6438 Ibach
-Array
-4.5 Zimmer
-116 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-116 m2
-Letzte 4.5-Zimmer-Dachwohnung verfügbarDas Neubauprojekt "Mythisch" liegt an sonniger, grüner Lage …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-350'000
-CHF
-Bel appartement lumineux et entièrement…
-Adresse auf Anfrage, 3960 Sierre
-Array
-4.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-88 m2
-Vous êtes à la recherche d'un bien fraichement rénové proche de toutes les commodités ?Cet appartem…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-A Monthey
-570'856
-CHF
-Dernier lot disponible, place de parkin…
-A Monthey, 1870 Monthey
-Array
-4.5 Zimmer
-126 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-126 m2
-DERNIER LOT DISPONIBLE. livraison octobre 2021Vaste appartement de 4.5 pièces sis au 1er étage de …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hofmatt 76
-1'250'000
-CHF
-Charmantes Bijou mit herrlicher Sicht
-Hofmatt 76, 6332 Hagendorn
-Array
-95 m2
-Objekttyp
-Wohnung, Flach
-Wohnfläche
-95 m2
-An zentraler Lage in der Hofmatt 76 in 6332 Hagendorn verkaufen wir diese gemütliche 3.5-Zimmer-Woh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grand Champsec
-385'000
-CHF
-Lot G-103 - Appartement de 2.5 pièces a…
-Grand Champsec, 1950 Sion
-Array
-2.5 Zimmer
-71 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-71 m2
-Etage
-Fitness, sauna, salle de jeux et de réunion, potagers et plus encore ? découvrez maintenant votre f…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'090'000
-CHF
-Attique au cur de Montana
-Adresse auf Anfrage, 3963 Crans-Montana
-Array
-3.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-105 m2
-Trust immobilier vous propose : Réf : 3010 - TCM Magnifique attique, situé au cur de Montana. L'emp…
+55 m2
+Les dents du Midi en point de mire, Le centre est ses commodités à 2 pas,Un joli appartement appart…
 Teilen
 E-Mail
 Facebook

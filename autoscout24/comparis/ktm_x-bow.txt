@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marktplatz/ktm/x-bow
 Title: KTM X-Bow – Preise vergleichen mit Comparis
 Description: Finden Sie unter 5 KTM X-Bow Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -564,6 +562,9 @@ KTM
 (5)
 KTM X-Bow Occasion
 (3)
+Aufbau
+KTM X-Bow Cabrio
+(3)
 Motor
 KTM X-Bow Benzin
 (4)
@@ -585,26 +586,26 @@ weniger
 5 Inserate
 0 Inserate
 0 Inserate
+KTM X-BOW Superlight
+24.07.2021
+Occasion
+08.2018, Manuell, Benzin
+22'300 km, 309 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 64'800
+ab CHF 1'183 / Monat
 KTM X-BOW R-Performance
 04.06.2021
 Occasion
 02.2017, Manuell
-18'000 km, 360 PS, Anthrazit
+19'000 km, 360 PS, Anthrazit
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 99'000
 ab CHF 1'808 / Monat
-KTM X-BOW RR DSG Sportec mit Strassenzulassung
-31.03.2021
-Occasion
-08.2018, Automat, Benzin
-3'000 km, 390 PS, Weiss
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 129'800
-ab CHF 2'371 / Monat
 KTM X-BOW GT4 DSG
 18.03.2021
 Vorführwagen
@@ -627,7 +628,7 @@ CHF 137'750
 ab CHF 2'516 / Monat
 Preisreduktion
 KTM X-BOW Superlight
-5.5
+5.0
 05.02.2018
 Occasion
 12.2014, Manuell, Benzin

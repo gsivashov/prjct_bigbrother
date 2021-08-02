@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/kanton-obwalden/
 Title: Wohnung & Haus mieten in Kanton Obwalden - Immostreet.ch
-Description: Wohnung & Haus mieten in Kanton Obwalden - Immostreet.ch: ImmoStreet.ch hat 56 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Kanton Obwalden - Immostreet.ch: ImmoStreet.ch hat 74 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-56 Resultate gefunden ·
+74 Resultate gefunden ·
 Wohnung & Haus mieten in Kanton Obwalden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,189 +152,340 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-980
+Allmendweg 3
+2'050
 CHF
 /Monat
-2,5 Zimmerwohnung zum Vermieten ab sofo…
-Adresse auf Anfrage, 6055 Alpnach Dorf
+Mieten ohne Kaution - Hier werden Ihre …
+Allmendweg 3, 6055 Alpnach Dorf
+Array
+4.5 Zimmer
+98 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+98 m2
+Wir vermieten per 01.11.2021 eine topmoderne Wohnung: - Alle Wohnräume mit Parkett- Küche und Nassz…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterdorfstr. 17
+1'940
+CHF
+/Monat
+Mieten ohne Kaution - Ihr Wohnraumtraum…
+Unterdorfstr. 17, 6055 Alpnach Dorf
+Array
+2.5 Zimmer
+63 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+2.5
+Wohnfläche
+63 m2
+Wir vermieten per 01.11.2021 eine topmoderne Attikawohnung mit folgender Ausstattung: - Alle Wohnrä…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alte Gasse 20
+1'480
+CHF
+/Monat
+2 Zimmer Wohnung mit Balkon
+Alte Gasse 20, 6390 Engelberg
 Array
 2 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
 2
-2,5 Zimmerwohnung zum Vermieten ab sofort
+2 Zimmer- Wohnung mit Balkonzentrale Lage, direkt beim Kurparkkein Durchg…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Oberwilerstrasse 54
-2'990
+Brünigstrasse 76
+2'000
 CHF
 /Monat
-Exklusives Wohnen in Seenähe
-Oberwilerstrasse 54, 6062 Wilen (Sarnen)
+Neue Mietwohnungen mit Wohlfühleffekt
+Brünigstrasse 76, 6074 Giswil
 Array
 4.5 Zimmer
-139 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-4.5
-Wohnfläche
-139 m2
-Raum für entspanntes Wohnen an traumhafter LageDiese Terrassenwohnung besticht nicht nur durch ihre…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alpenstrasse
-750
-CHF
-/Monat
-Helle 1.5 Zimmer-Wohnung
-Alpenstrasse, 6390 Engelberg
-Array
-1.5 Zimmer
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-1.5
-Home Office light oder ein Sommer in den Bergen?Alpenstrasse, zu vermieten an NR per sofort oder na…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chilenmattli 12
-1'790
-CHF
-/Monat
-Wohnen in der Nähe des Bahnhofs und der…
-Chilenmattli 12, 6055 Alpnach Dorf
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-Wir schenken Ihnen zwei Monatsmieten (exkl. Nebenkosten). Egal ob Sie im August oder Oktober einzie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-3'800
-CHF
-/Monat
-Seeanstoss
-Adresse auf Anfrage, 6060 Sarnen
-Array
-5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-160 m2
-Etage
-Gut 5 min von Sarnen. 15/20 min von Luzern,ca. 30 Minuten von Rotkreuz, ZG;  An einmaliger Lage mit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brünigstrasse 100
-1'030
-CHF
-/Monat
-3 1/2-Zimmer-Wohnung
-Brünigstrasse 100, 6060 Sarnen
-Array
-3.5 Zimmer
-81 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-81 m2
-Die Wohnung ist zur Bachseite gelegen.
-Grosser, heller Wohnraum mit Parkettboden; Nasszelle mit Ba…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brünigstrasse 36
-2'500
-CHF
-/Monat
-zentral gelegene helle sonnige 4.5-Zimm…
-Brünigstrasse 36, 6055 Alpnach Dorf
-Array
-4.5 Zimmer
-142 m2
+126 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-142 m2
-Grosses helles Wohn-/Esszimmer (ganztags besonnt, auch im Winter) mit grosser Schiebetür zum Balkon…
+126 m2
+Im "Turinerried" am Ufer der Giswiler Aa entstehen neue Mietwohnungen, die durch ihre nachhaltige u…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Lungern Obsee
-1'050
+Brünigstrasse 74
+2'420
 CHF
 /Monat
-Suche Nachmieter für 2,5 Zimmer Wohnung…
-Lungern Obsee, 6078 Lungern
+Neue Mietwohnungen mit Wohlfühleffekt
+Brünigstrasse 74, 6074 Giswil
+Array
+5.5 Zimmer
+161 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+161 m2
+Im "Turinerried" am Ufer der Giswiler Aa entstehen neue Mietwohnungen, die durch ihre nachhaltige u…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brünigstrasse 74
+2'320
+CHF
+/Monat
+Neue Mietwohnungen mit Wohlfühleffekt
+Brünigstrasse 74, 6074 Giswil
+Array
+5.5 Zimmer
+161 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+161 m2
+Im "Turinerried" am Ufer der Giswiler Aa entstehen neue Mietwohnungen, die durch ihre nachhaltige u…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brünigstrasse 76
+1'950
+CHF
+/Monat
+Neue Mietwohnungen mit Wohlfühleffekt
+Brünigstrasse 76, 6074 Giswil
+Array
+4.5 Zimmer
+126 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+126 m2
+Im "Turinerried" am Ufer der Giswiler Aa entstehen neue Mietwohnungen, die durch ihre nachhaltige u…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Biel, 3
+1'450
+CHF
+/Monat
+Ländlich wohnen mit Panorama
+Biel, 3, 6055 Alpnach Dorf
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+100 m2
+3.5 Zi. Dachwohnung zu vermieten.zusätzlich zum Mietobjekt inbegriffen:1 Estrich Anteil2 Außen Park…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grossgasse 1
+2'600
+CHF
+/Monat
+Exklusive Wohnung mitten im Dorf Sarnen
+Grossgasse 1, 6060 Sarnen
+Array
+4.5 Zimmer
+130 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+130 m2
+Hier lässt es sich wohnenDie Liegenschaft liegt sehr zentral und befindet sich in unmittelbarer Näh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brünigstrasse 32
+1'350
+CHF
+/Monat
+2 1/2-Zimmer-Loftwohnung
+Brünigstrasse 32, 6072 Sachseln
 Array
 2.5 Zimmer
-48 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
-Wohnfläche
-48 m2
-Hallo, suche Nachmieter für 2,5 Zimmer Wohnung in Lungern mit Aussensitzplatz.Auch als Ferienwohnun…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obstaldenstrasse
-2'500
-CHF
-/Monat
-Ab September 2021, helle 5,5-Zimmer-Woh…
-Obstaldenstrasse, 6063 Stalden (Sarnen)
-Array
-5.5 Zimmer
-180 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-Wohnfläche
-180 m2
 Etage
-Die Wohnung ist auf drei Etagen verteilt, wobei sich im UG Waschküche und Heizung befindet. Grosse…
+Dachwohnung mit wunderbaren Aussicht auf See und BergeDiese gemütliche Wohnung im obersten Stock ve…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Brunnenmatt 7
-1'880
+Kleinteilerstrasse 15
+300
 CHF
 /Monat
-3 1/2-Zimmer-Attikawohnung
-Brunnenmatt 7, 6064 Kerns
+Spycher Häuschen Abstellraum oder Zimmer
+Kleinteilerstrasse 15, 6074 Giswil
+Array
+20 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+20 m2
+Ich vermiete meinen SpycherKann als Zimmer, Abstellraum oder Hobbyraum genutzt werdenBei Interesse …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wijermattstrasse 1
+1'810
+CHF
+/Monat
+Helle 3.5-Zimmerwohnung an zentraler La…
+Wijermattstrasse 1, 6064 Kerns
+Array
+3.5 Zimmer
+111 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+111 m2
+Etage
+Für diese grosszügige und moderne 3.5-Zimmerwohnung im 1. Obergeschoss suchen wir per 1. Oktober 20…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Spitzlermatte, 23
+1'540
+CHF
+/Monat
+3,5 Zi EG Wohnung in Kägiswil
+Spitzlermatte, 23, 6056 Kägiswil
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Zu vermieten ab 1. Sept. 2021: in Kägiswil 3,5-Zi-EG-Wohnung mit grossem eingezäuntem Sitzplatz.Nic…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lenggasse 15
+870
+CHF
+/Monat
+2.5 Zimmer Wohnung zu vermieten
+Lenggasse 15, 6078 Lungern
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Sehr ruhig gelegene 2.5 Zimmer Wohnung im 2 OG,Dusche WC Abstellraum Balkon eigene Waschmaschiene1 …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse, 10a
+1'740
+CHF
+/Monat
+3.5-Zimmerwohnung an zentraler, ruhiger…
+Bahnhofstrasse, 10a, 6072 Sachseln
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Nach Vereinbarung.- 1. OG- Grosser Balkon- Kellerabteil- Nähe Bahnhof, Nähe Dorfzentrum- Nach Wunsc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofplatz 2
+1'565
+CHF
+/Monat
+Moderne 3 1/2-Zimmerwohnungen an zentra…
+Bahnhofplatz 2, 6074 Giswil
+Array
+3.5 Zimmer
+91 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+91 m2
+Etage
+Das neue Dorfzentrum in Giswil ist direkt beim Bahnhof. Einkaufsmöglichkeiten, Bank, Gemeindeverwal…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gruebengasse 22
+1'650
+CHF
+/Monat
+Neu renovierte helle 4-Zimmerwohnung mi…
+Gruebengasse 22, 6055 Alpnach Dorf
+Array
+4 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+86 m2
+Neu renovierte, helle 4-Zimmerwohnung in Zweifamilienhaus zu vermieten. 86 m2 auf einem Stock im Ho…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Allmendweg 5
+2'140
+CHF
+/Monat
+Mieten ohne Kaution - Attikawohnung mit…
+Allmendweg 5, 6055 Alpnach Dorf
 Array
 3.5 Zimmer
 77 m2
@@ -344,199 +495,56 @@ Zimmer
 3.5
 Wohnfläche
 77 m2
-Sonnige und ruhige Lage mit Alpenpanorama und trotzdem im Dorfzentrum.
-Wunderbar helle Wohnung m…
+Wir vermieten per 01.11.2021 eine topmoderne Attikawohnung mit folgender Ausstattung: - Alle Wohnrä…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Flüelistrasse
-2'098
+Wolfisbergstrasse 26
+1'300
 CHF
 /Monat
-4.5 Zimmer Wohnung Kerns
-Flüelistrasse, 6064 Kerns
+Schöne 3 Zimmer-Dachwohnung
+Wolfisbergstrasse 26, 6073 Flüeli-Ranft
 Array
-4.5 Zimmer
-100 m2
+3 Zimmer
+81 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+3
 Wohnfläche
-100 m2
-Wir suchen für unsere schöne helle & grosszügige 4.5 Zimmer Wohnung auf 1.08.21 in Kerns einen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Untere Gründlistrasse 18
-2'130
-CHF
-/Monat
-Helle und grosse Wohnung in schönem Fam…
-Untere Gründlistrasse 18, 6055 Alpnach Dorf
-Array
-4.5 Zimmer
-128 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-128 m2
-Helle und grosse Wohnung in schönem FamilienquartierWir vermieten per 1. August 2021 oder nach Vere…
+81 m2
+Nachmieter gesucht per 01.10.2021 oder nach VereinbarungWolfisbergstrasse 266073 Flüeli-Ranfttraumh…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-Preis auf Anfrage
-ERSTBEZUG, FRIEDLICHE GEGEND
-Adresse auf Anfrage, 6067 Melchtal
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Lieben Sie es auf dem Land zu leben? Sind sie unternehmensfreudig oder suchen Sie die Ruhe der Berg…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wilerstrasse 69
-950
+1'850
 CHF
 /Monat
-2 1/2 Zimmer-Dachwohnung
-Wilerstrasse 69, 6062 Wilen (Sarnen)
-Array
-2.5 Zimmer
-35 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-35 m2
-2.5 Zimmer Dachwohnung mit TraumaussichtIn Wilen vermieten wir eine 2.5 Zimmerwohnung mit traumhaft…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wijermattstrasse 5
-1'770
-CHF
-/Monat
-helle 3.5-Zimmerwohnung mit Abendsonne
-Wijermattstrasse 5, 6064 Kerns
+HOCHWERTIG, STILVOLL UND AN IDEALER LAGE
+Adresse auf Anfrage, 6078 Lungern
 Array
 3.5 Zimmer
+79 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Wir vermieten eine grosszügige 3.5-Zimmerwohnungen mit 100m2 Wohfläche und einem 16m2 grossen, über…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 1
-1'050
-CHF
-/Monat
-ZENTRAL IN SACHSELN
-Bahnhofstrasse 1, 6072 Sachseln
-Array
-2.5 Zimmer
-54 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
 Wohnfläche
-54 m2
-Diese helle 2.5-Zimmer-Wohnung an ruhiger und zentraler Lage besticht durch ihren Charme. Die Wohnu…
+79 m2
+Diese Wohnung zeichnet sich sowohl durch die Lichtdurchfluteten Räume, sowie Ihre zentrale Lage aus…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Obernaustrasse 84
-1'550
-CHF
-/Monat
-Frisch renovierte 2.5 Zimmerwohnung - E…
-Obernaustrasse 84, 6010 Kriens
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Frisch renovierte 2.5 Zimmerwohnung - EigentumsstandartWir vermieten per sofort eine frisch renovie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chännel
-1'600
-CHF
-/Monat
-Erstvermietung möblierte 2 ½ Zimmer-Woh…
-Chännel, 6067 Melchtal
-Array
-2.5 Zimmer
-55 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-2.5
-Wohnfläche
-55 m2
-Ideal für Einzelperson in der neuen Wohnüberbauung Melchtal-Resort, Gemeinde Kerns (OW), Zentralsch…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fliederweg, Kerns
-1'290
-CHF
-/Monat
-Ruhige Gartenwohnung
-Fliederweg, Kerns, 6064 Kerns
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Schöne, ruhige Wohnung mit Sitzplatz mit Sonnenstore und Wiese davor. In Wohnquartier ohne jegliche…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonnmattweg 1
-1'470
-CHF
-/Monat
-4.5 Zimmerwohnung an zentraler Lage
-Sonnmattweg 1, 6055 Alpnach Dorf
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Familienfreundliche Wohnung in zentraler LageIn Alpnach vermieten wir an zentraler Lage eine 4 1/2 …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 3
+Seite 1 von 4
 1
 2
 3
+4
 nächste Seite
 ImmoStreet.ch
 Mieten

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-thun/
 Title: Wohnung kaufen in Region Thun - Immostreet.ch
-Description: Wohnung kaufen in Region Thun - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Region Thun - Immostreet.ch: ImmoStreet.ch hat 28 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-19 Resultate gefunden ·
+28 Resultate gefunden ·
 Wohnung kaufen in Region Thun
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,40 +134,345 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Höheweg 9
-1'250'000
+Aeschlenstrasse 167
+1'125'000
 CHF
-4½-Zimmer-Wohnung an ruhiger Stadtlage
-Höheweg 9, 3600 Thun
+Grosszügige 4.5-Zimmer-Panoramawohnung
+Aeschlenstrasse 167, 3656 Aeschlen ob Gunten
 Array
 4.5 Zimmer
-144 m2
+151 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-144 m2
-Die Verkaufsdokumentation finden Sie auf unserer Webseite www.casa-immo.chDie überdurchschnittlich …
+151 m2
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Asterweg
-450'000
+Gartenstrasse 1
+495'000
 CHF
-*Etagenwohnung*
-Asterweg, 3661 Uetendorf
+3.5-Zimmerwohnung im 1. OG
+Gartenstrasse 1, 3600 Thun
 Array
-4 Zimmer
-88 m2
+3.5 Zimmer
+64 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4
+3.5
 Wohnfläche
-88 m2
-Es handelt sich um eine 4.5-Zimmerwohnung im 1. OG links, mit Nebenraum.Bei dieser Immobilie handel…
+64 m2
+Sie wünschen die Verkaufsdokumentation per Mail? Sie möchten jetzt einen Besichtigungstermin online…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'930
+CHF
+CHARMANT UND NATURNAH
+Adresse auf Anfrage, 3627 Heimberg
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+100 m2
+In dieser schönen und hellen Dachwohnung werden Sie sich gleich wie zu Hause fühlen. Lebensmittelpu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gartenstrasse 1
+495'000
+CHF
+3.5-Zimmerwohnung im 1. OG
+Gartenstrasse 1, 3600 Thun
+Array
+3.5 Zimmer
+64 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+64 m2
+Sie wünschen die Verkaufsdokumentation per Mail? Sie möchten jetzt einen Besichtigungstermin online…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aeschlenstrasse 167
+1'125'000
+CHF
+Grosszügige 4.5-Zimmer-Panoramawohnung
+Aeschlenstrasse 167, 3656 Aeschlen ob Gunten
+Array
+4.5 Zimmer
+151 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+151 m2
+Etage
+LageSind Sie an der Verkaufsdokumentation interessiert oder möchten Sie einen Besichtigungstermin v…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse 35
+620'000
+CHF
+3.5-Zimmer-(Ferien)wohnung mit Traumaus…
+Seestrasse 35, 3654 Gunten
+Array
+3.5 Zimmer
+74 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+74 m2
+Die Verkaufsdokumentation finden Sie auf unserer Webseite www.casa-immo.chDirekt neben der historis…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse 98
+Preis auf Anfrage
+Naturnah wohnen
+Seestrasse 98, 3654 Gunten
+Array
+2.5 Zimmer
+61 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+61 m2
+Überbauung GuntenmattDas WichtigsteDie sehr hell und grosszügig konzipierten Räumlichkeiten verbind…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfmatt 4
+250'000
+CHF
+einfach, klein, fein und günstig
+Dorfmatt 4, 3662 Seftigen
+Array
+2 Zimmer
+45 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+45 m2
+Etage
+An der Dorfmatt 4 in Seftigen, verkaufen wir eine einfache, praktische und günstige 2-Zimmer-Dachwo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hohgantweg 11
+395'000
+CHF
+RUHIGE 3,5 ZIMMER WOHNUNG IN BELIEBTEN …
+Hohgantweg 11, 3612 Steffisburg
+Array
+3.5 Zimmer
+67 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+67 m2
+Etage
+WOHNUNG IM RUHIGEN WOHNQUARTIEROberhalb von Steffisburg am östlichen Dorfeingang, befindet sich die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alpenstrasse 16
+Preis auf Anfrage
+WOHNUNG AN GUTER WOHNLAGE!
+Alpenstrasse 16, 3627 Heimberg
+Array
+3.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+97 m2
+Etage
+IHRE ABKÜRZUNG INS WOHNGLÜCK!Wenn Sie schon immer in eine aktive Gemeinde ziehen wollten, ohne auf …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'200'000
+CHF
+Top Attika zu Verkaufen
+Adresse auf Anfrage, 3612 Steffisburg
+Array
+4.5 Zimmer
+142 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+142 m2
+Top Attika mit super Aussicht aus erster Hand Baujahr 1996 …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hallerstrasse 11
+485'000
+CHF
+AgentSelly - Das ideale Zuhause für ein…
+Hallerstrasse 11, 3604 Thun
+Array
+4.5 Zimmer
+93 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+93 m2
+Mit einem praktischen Grundriss an einer super Lage eignet sich diese Wohnung ideal für eine kleine…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+590'000
+CHF
+ENDLICH DAHEIM
+Adresse auf Anfrage, 3604 Thun
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Folgende Besichtigungen finden statt: - Montag, 9. August 2021 von 15:00 Uhr bis 16:00 Uhr - Monta…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+990'000
+CHF
+Wohnen mit unverbaubarem Seeblick
+Adresse auf Anfrage, 3658 Merligen
+Array
+3.5 Zimmer
+128 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+128 m2
+Nahe dem Dorfkern, in einem ruhigen Wohnquartier etwas oberhalb vom Thunersee, befindet sich diese …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse
+870'000
+CHF
+5.5-Zimmer-Maisonette-Eigentumswohnung …
+Dorfstrasse, 3624 Goldiwil (Thun)
+Array
+5.5 Zimmer
+148 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+5.5
+Wohnfläche
+148 m2
+Diese grosszügige 5.5-Zimmer-Eigentumswohnung wurde im Jahre 1977 erbaut und befindet sich im Herze…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gartenstrasse
+545'000
+CHF
+Sonnige Wohnung an zentraler Lage
+Gartenstrasse, 3600 Thun
+Array
+4.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+90 m2
+Tolle Wohnung an zentraler Lage, Einzelgarage inklusive!Virtueller 360 Grad Rundgang verfügbar!Dank…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blochstrasse 17
+1'590'000
+CHF
+Immobilien Wyss - Terrassenwohnung mit …
+Blochstrasse 17, 3653 Oberhofen am Thunersee
+Array
+5.5 Zimmer
+211 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+211 m2
+An ruhiger, sonniger und aussichtsverwöhnter Wohnlage in Oberhofen am Thunersee wartet diese traumh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Riedstrasse 48
+720'000
+CHF
+Immobilien Wyss - Maisonettewohnung mit…
+Riedstrasse 48, 3626 Hünibach
+Array
+3.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+3.5
+Wohnfläche
+125 m2
+Eigentumswohnung mit fantastischer Bergsicht und grosszügiger Terrasse:Warum sollten Sie sich diese…
 Teilen
 E-Mail
 Facebook
@@ -183,26 +488,7 @@ Objekttyp
 Wohnung, Loft
 Wohnfläche
 248 m2
-Folgende Besichtigungen finden statt: - Donnerstag, 03. Juni 2021, von 10:00 Uhr bis 12:00 Uhr - D…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Höheweg 9
-3'350'000
-CHF
-5 ½ Zimmer-Attika-Wohnung in Thun
-Höheweg 9, 3600 Thun
-Array
-5.5 Zimmer
-248 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-248 m2
-Exklusives Wohnen am Thunersee - 5 ½ Zimmer-Attika-Wohnung mit 248 m2 Wohnfläche. Die wunderschöne …
+Folgende Besichtigungen finden statt: - Donnerstag, 22. Juli 2021 von16:00 - 17:00 Uhr - Donnersta…
 Teilen
 E-Mail
 Facebook
@@ -226,271 +512,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-720'000
-CHF
-Eigentums- / Ferienwohnung mit See- und…
-Adresse auf Anfrage, 3655 Sigriswil
-Array
-3.5 Zimmer
-93 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-93 m2
-In einer ruhigen und ländlichen Landschaft in Sigriswil liegt diese schöne Wohnung. Der Blick auf d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Unterdorfstrasse 4
-530'000
-CHF
-Bieri - Neubauwohnung mitten in Steffis…
-Unterdorfstrasse 4, 3612 Steffisburg
-Array
-2.5 Zimmer
-61 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-61 m2
-schön gewohnt12 Eigentumswohnungenbevorzugte Lage direkt an der neuen Uferpromenad…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seestrasse 307
-950'000
-CHF
-Tolle 3½-Zimmer-Dachwohnung - Neubaupro…
-Seestrasse 307, 3658 Merligen
-Array
-3.5 Zimmer
-92 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-92 m2
-Die Verkaufsdokumentation und Preisliste finden Sie auf unserer Webseite www.casa-immo.ch Im Dorfze…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seestrasse 307
-1'050'000
-CHF
-Tolle 4½-Zimmer-Wohnung - Neubauprojekt…
-Seestrasse 307, 3658 Merligen
-Array
-4.5 Zimmer
-137 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-137 m2
-Die Verkaufsdokumentation und Preisliste finden Sie auf unserer Webseite www.casa-immo.ch Im Dorfze…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seestrasse 307
-630'000
-CHF
-Tolle 3½-Zimmer-Gartenwohnung - Neubaup…
-Seestrasse 307, 3658 Merligen
-Array
-3.5 Zimmer
-92 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-92 m2
-Die Verkaufsdokumentation und Preisliste finden Sie auf unserer Webseite www.casa-immo.ch Im Dorfze…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seestrasse 307
-550'000
-CHF
-Tolle 2½-Zimmer-Wohnung - Neubauprojekt…
-Seestrasse 307, 3658 Merligen
-Array
-2.5 Zimmer
-69 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-69 m2
-Die Verkaufsdokumentation und Preisliste finden Sie auf unserer Webseite www.casa-immo.ch Im Dorfze…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dükerweg
-760'000
-CHF
-Gschwend: Neubauwohnung in freundlicher…
-Dükerweg, 3612 Steffisburg
-Array
-4.5 Zimmer
-107 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-107 m2
-Etage
-Schöne Aussichten für Ihre Zukunft! 39 Eigentumswohnungen auf zwei Häuser verteilt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bühlstrasse 5
-995'000
-CHF
-4.5 Zimmer-Dachwohnung in Merligen am T…
-Bühlstrasse 5, 3658 Merligen
-Array
-4.5 Zimmer
-104 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Wohnfläche
-104 m2
-Etage
-"Jeden Tag purer Genuss mit ein bisschen Ferienstimmung, vielen Annehmlichkeiten und dem grandiosen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Staatsstrasse 22
-1'230'000
-CHF
-AgentSelly - Einziehen und geniessen am…
-Staatsstrasse 22, 3652 Hilterfingen
-Array
-4 Zimmer
-155 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4
-Wohnfläche
-155 m2
-Lassen Sie sich vom Galeriegeschoss und zahllosen Highlights überzeugen. In den vergangenen Jahren …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Buechallme 2
-545'000
-CHF
-AgentSelly - Ihr Sanierungsprojekt mit …
-Buechallme 2, 3608 Thun
-Array
-4.5 Zimmer
-132 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Wohnfläche
-132 m2
-Diese Wohnung eignet sich perfekt für Interessenten auf der Suche nach einem Sanierungsprojekt an a…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Aeschlenstrasse 4
-995'000
-CHF
-Ihr Neubautraum am Thunersee- 2.5 WHG
-Aeschlenstrasse 4, 3653 Oberhofen am Thunersee
-Array
-2.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-110 m2
-Ihr Traum am ThunerseeIn Oberhofen an der Thunsersee-Goldküste, entsteht an sehr schöner, sonniger …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberhofen am Thunersee
-1'190'000
-CHF
-An bester Lage grosszügige 6½ Zimmer Wo…
-Oberhofen am Thunersee, 3653 Oberhofen am Thunersee
-Array
-6.5 Zimmer
-175 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-6.5
-Wohnfläche
-175 m2
-Lassen Sie Ihren Ideen freien Lauf und gestalten Sie Ihr zukünftiges neues Eigenheim nach Ihren Vor…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'370'000
-CHF
-Ihr Neubautraum am Thurnersee- 5.5 WHG
-Adresse auf Anfrage, 3653 Oberhofen am Thunersee
-Array
-5.5 Zimmer
-158 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-158 m2
-In Oberhofen an der Thunsersee-Goldküste, entsteht an sehr schöner, sonniger Wohnlage, mit eindrück…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bernstrasse 219
-820'000
-CHF
-Familienoase mit grossem Sitzplatz
-Bernstrasse 219, 3627 Heimberg
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-An zentraler Lage in Heimberg bei Thun entsteht mit der Überbauung Südmatte ein schönes Kleinquarti…
-Teilen
-E-Mail
-Facebook
-Whatsapp
+Seite 1 von 2
+1
+2
+nächste Seite
 ImmoStreet.ch
 Kaufen
 Wohnung zu kaufen

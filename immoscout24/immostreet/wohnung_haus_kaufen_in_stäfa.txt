@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/in-staefa/
 Title: Wohnung & Haus kaufen in Stäfa - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Stäfa - Immostreet.ch: ImmoStreet.ch hat 8 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Stäfa - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-8 Resultate gefunden ·
+7 Resultate gefunden ·
 Wohnung & Haus kaufen in Stäfa
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,21 +151,79 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Rainstrasse 78
-1'990'000
+Im Riet 8
+1'220'000
 CHF
-Komfortabel Wohnen im Bellevue Park
-Rainstrasse 78, 8712 Stäfa
+Drei Etagen und Sonnenbalkon: Wohnen wi…
+Im Riet 8, 8712 Stäfa
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Etage
+Lust auf Wohnen wie im eigenen Einfamilienhaus? Auf drei Etagen, mit Sonnenbalkon und teilweiser Se…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stäfa
+1'290'000
+CHF
+Kleinod an der Goldküste sucht neuen Ei…
+Stäfa, 8712 Stäfa
 Array
 3.5 Zimmer
-126 m2
+140 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-126 m2
-Willkommen in Stäfa! Geniessen Sie exzellente Erreichbarkeit, Seenähe und Naherholung, ergänzt mit …
+140 m2
+Ruhig und doch zentral gelegen in Stäfa (Steuerfuss 88%) überzeugt die Wohnung mit attraktiven und …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse 183
+820'000
+CHF
+Ein Haus mit Geschichte
+Seestrasse 183, 8712 Stäfa
+Array
+4 Zimmer
+116 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+4
+Wohnfläche
+116 m2
+Im Auftrag unseres Kunden verkaufen wir im Kehlhof Stäfa in unmittelbarer Seenähe ein einseitig ang…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Auf Anfrage
+1'120'000
+CHF
+Jetzt wird es grün - eine Gartenwohnung…
+Auf Anfrage, 8712 Stäfa
+Array
+4.5 Zimmer
+117 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+117 m2
+Ein Rückzugsort für Sie und Ihre Familie. Stadtnah und doch ländlich gelegen. Die Bushaltestelle «M…
 Teilen
 E-Mail
 Facebook
@@ -183,25 +241,6 @@ Wohnfläche
 197 m2
 Etage
 Die Liegenschaft ist zentral gelegen, die Hafenanlage liegt in nächster Nähe und der Bahnhof ist in…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hubstrasse 17
-2'100'000
-CHF
-Ihr Zuhause in Stäfa
-Hubstrasse 17, 8712 Stäfa
-Array
-6.5 Zimmer
-163 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-6.5
-Wohnfläche
-163 m2
-Im Auftrag unseres Kunden verkaufen wir ein einseitig angebautes 6½-Zimmer-Einfamilienhaus mit zwei…
 Teilen
 E-Mail
 Facebook
@@ -226,44 +265,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Dorfstrasse 41
-690'000
-CHF
-Wohnvergnügen zum Neugestalten
-Dorfstrasse 41, 8712 Stäfa
-Array
-3.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-79 m2
-Die gemütliche 3.5-Zimmer-Eigentumswohnung in der ersten Etage ist Teil einer gepflegten Siedlung m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Auf Anfrage
-1'150'000
-CHF
-+ Reserviert + Ihr neues Zuhause mit gr…
-Auf Anfrage, 8712 Stäfa
-Array
-4.5 Zimmer
-113 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-113 m2
-Etwas ausserhalb von Stäfa, genauer im Ortsteil Uelikon, befindet sich unser neustes Verkaufsobjekt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 5'680'000
 CHF
@@ -279,26 +280,6 @@ Zimmer
 Wohnfläche
 263 m2
 Dieses 7.5-Zimmer-Einfamilienhaus von 2013 begeistert Fachkreise mit seiner innovativen, viel beach…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Buechstutzstrasse 24
-3'200'000
-CHF
-EINE OASE IM GRÜNEN
-Buechstutzstrasse 24, 8712 Stäfa
-Array
-7.5 Zimmer
-180 m2
-Objekttyp
-Wohnung, Doppeleinfamilienhaus
-Zimmer
-7.5
-Wohnfläche
-180 m2
-Etage
-Mehr als "die eigenen vier Wände"Im idyllischen Wyler "Redlikon" im nördlichen Gemeindegebiet von S…
 Teilen
 E-Mail
 Facebook

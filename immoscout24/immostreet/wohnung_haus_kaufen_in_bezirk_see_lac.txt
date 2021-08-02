@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-lac/
 Title: Wohnung & Haus kaufen in Bezirk See / Lac - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk See / Lac - Immostreet.ch: ImmoStreet.ch hat 59 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk See / Lac - Immostreet.ch: ImmoStreet.ch hat 41 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-59 Resultate gefunden ·
+41 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk See / Lac
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,155 +151,131 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Chemin des Saules 12
-1'150'000
+Adresse auf Anfrage
+390'000
 CHF
-Charmante villa de 5,5 pièces avec 1 st…
-Chemin des Saules 12, 1786 Sugiez
+Appartement 2,5 piéces
+Adresse auf Anfrage, 1784 Courtepin
 Array
-5.5 Zimmer
-187 m2
+2.5 Zimmer
 Objekttyp
-Wohnung, Villa
+Wohnung, Flach
 Zimmer
-5.5
-Wohnfläche
-187 m2
-Cette villa, située dans un quartier résidentiel de Sugiez, est composée d'un logement de 5,5 pièce…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Holzacher 53
-1'171'000
-CHF
-Duplex de standing de 5.5 pièces
-Holzacher 53, 3212 Gurmels
-Array
-5.5 Zimmer
-143 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-Wohnfläche
-143 m2
-Etage
-Situé entre Guin et Morat, Gurmels (Cormondes) est à mi-chemin du lac et de la ville. Avec environ …
+2.5
+Concept-immobilier vous présente un appartement 2,5 pièces au rez supérieur de la PPE de la Craus…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-855'000
+490'000
 CHF
-Villa familiale de standing de 3.5 pièc…
-Adresse auf Anfrage, 3212 Gurmels
+Appartement 3,5 pièces
+Adresse auf Anfrage, 1784 Courtepin
 Array
 3.5 Zimmer
-154 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-3.5
-Wohnfläche
-154 m2
-Situé entre Guin et Morat, Gurmels (Cormondes) est à mi-chemin du lac et de la ville. Avec environ …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Holzacher 53
-1'183'000
-CHF
-Attique de standing de 5.5 pièces
-Holzacher 53, 3212 Gurmels
-Array
-5.5 Zimmer
-148 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-148 m2
-Situé entre Guin et Morat, Gurmels (Cormondes) est à mi-chemin du lac et de la ville. Avec environ …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Holzacher 53
-1'129'000
-CHF
-Duplex de standing de 5.5 pièces
-Holzacher 53, 3212 Gurmels
-Array
-5.5 Zimmer
-141 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-Wohnfläche
-141 m2
-Etage
-Situé entre Guin et Morat, Gurmels (Cormondes) est à mi-chemin du lac et de la ville. Avec environ …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Courtepin
-412'000
-CHF
-Bel appartement de 3.5 pièces dans un i…
-Courtepin, 1784 Courtepin
-Array
-3 Zimmer
-86 m2
+75 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
+3.5
 Wohnfläche
-86 m2
-Bel appartement situé dans un immeuble de 2008, bien isolé et assurant de faibles charges de chauff…
+75 m2
+Concept-immobilier vous présente la PPE de la Crausa comprenant une ferme classée totalement rénové…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Niederriedstrasse
-Preis auf Anfrage
-MODERNE WOHNOASE IM SEELAND
-Niederriedstrasse, 3210 Kerzers
+Adresse auf Anfrage
+575'000
+CHF
+Appartement 4,5 pièces
+Adresse auf Anfrage, 1784 Courtepin
 Array
-6.5 Zimmer
-165 m2
+4.5 Zimmer
+133 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+133 m2
+Concept-immobilier vous présente la PPE de la Crausa comprenant une ferme classée totalement rénové…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Impasse du Verger 2
+390'000
+CHF
+3,5 Zi.-Wohnung-EG. mit Terrasse und Ga…
+Impasse du Verger 2, 1784 Courtepin
+Array
+3.5 Zimmer
+73 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+73 m2
+3,5 Zimmer Wohnung mit Terrasse und Garten zu verkaufenDas Mehrfamilienhaus besteht aus 7 Wohnungen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+sur demande
+Preis auf Anfrage
+Superbe villa avec piscine à Lugnorre
+sur demande, 1789 Lugnorre
+Array
+6 Zimmer
+260 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-6.5
+6
 Wohnfläche
-165 m2
-Das 2001 modern erbaute Einfamilienhaus begrüsst Sie am Ende einer Quartierstrasse direkt angrenzen…
+260 m2
+Villa exceptionnellement lumineuse. Vue ouverte à 180° sur le lac et les montagnes. Jardin créé ave…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Lischera 73
-565'000
+sur demande
+895'000
 CHF
-Appartement 3.5 pces avec terrasse à Gu…
-Lischera 73, 1792 Cordast
+Maison mitoyenne de 5 pièces à Courtepin
+sur demande, 1784 Courtepin
 Array
-3.5 Zimmer
-106 m2
+5 Zimmer
+149 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5
+Wohnfläche
+149 m2
+Maison mitoyenne rénovée à neuf surplombant Courtepin. Dans chemin en impasse. Environnement calme …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+sur demande
+350'000
+CHF
+2 grands studios ou 2.5 pièces
+sur demande, 1783 Pensier
+Array
+2 Zimmer
+120 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+2
 Wohnfläche
-106 m2
-Magnifique appartement 3.5 pces (106 m2) situé au rez supérieur d'une petite PPE construite en 2019…
+120 m2
+Dans la localité de Pensier, à quelques minutes de Fribourg, de l'autoroute et de la gare, deux loc…
 Teilen
 E-Mail
 Facebook
@@ -325,7 +301,180 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-Preis auf Anfrage
+980'000
+CHF
+"Schmuckes Baudenkmal - Wallenbuch"
+Adresse auf Anfrage, 3206 Wallenbuch
+Array
+5.5 Zimmer
+188 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+188 m2
+Das seit vielen Jahren leerstehende Bauernhaus konnte nach langer Vorbereitungs- und Planungsphase …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+550'000
+CHF
+Résidences "Les Roseaux"
+Adresse auf Anfrage, 1786 Sugiez
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+Appartement 3.5 pièces au 1er étage (lot A2) au sein d'un immeuble de 4 appartements qui disposera …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 29
+390'000
+CHF
+Charmantes Wohnen auf dem Land, ein Kat…
+Hauptstrasse 29, 3285 Galmiz
+Array
+2.5 Zimmer
+89 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+89 m2
+Diese sehr grosszügige 2.5-Zimmer-Wohnung unter dem Dach ist ideal für Singles, ein Paar oder als W…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+555'000
+CHF
+RESERVIERT
+Adresse auf Anfrage, 3280 Murten
+Array
+4.5 Zimmer
+92 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+92 m2
+Etage
+Dieses einmalige Angebot mit Weitsicht sucht einen neuen Besitzer. Bei der Liegenschaft angekommen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Haberkornweg
+690'000
+CHF
+Traumhafte 4.5-Zimmer-Maisonette-Eigent…
+Haberkornweg, 3213 Liebistorf
+Array
+4.5 Zimmer
+122 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+4.5
+Wohnfläche
+122 m2
+Wilkommen in Ihrer neuen Maisonettewohnung. In diesem Mehrfamilienhaus entstehen insgesamt 6 helle …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mösli 5
+405'000
+CHF
+Zu verkaufen / à vendre appartements de…
+Mösli 5, 1792 Cordast
+Array
+3.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+83 m2
+Für Deutsch (siehe unten)----------------------------------DANS IMMEUBLE PPE DE 6 APPARTEMENTS3 app…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oelegasse 20
+1'195'000
+CHF
+"Das Objekt für Wohnen, Arbeiten, Freiz…
+Oelegasse 20, 3210 Kerzers
+Array
+8.5 Zimmer
+250 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+8.5
+Wohnfläche
+250 m2
+Die ehemalige ,,Öli von Kerzers" war bis 1956 im Betrieb und es wurde Mohn, Rabs, Baumnüsse und Buc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Courtepin
+412'000
+CHF
+Bel appartement de 3.5 pièces à Courtep…
+Courtepin, 1784 Courtepin
+Array
+3 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+86 m2
+Bel appartement situé dans un immeuble de 2008, bien isolé et assurant de faibles charges de chauff…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lischera 73
+565'000
+CHF
+Appartement 3.5 pces avec terrasse à Gu…
+Lischera 73, 1792 Cordast
+Array
+3.5 Zimmer
+106 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+106 m2
+Magnifique appartement 3.5 pces (106 m2) situé au rez supérieur d'une petite PPE construite en 2019…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+830'000
+CHF
 Résidence "Avalon" - Lugnorre
 Adresse auf Anfrage, 1789 Lugnorre
 Array
@@ -338,80 +487,6 @@ Zimmer
 Wohnfläche
 118 m2
 Appartement 4.5 pièces au 1er étage (lot D) au sein d'un immeuble de 9 appartements qui disposera d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-325'000
-CHF
-PRIX TOP! AU CALME, CADRE AGREABLE, IDE…
-Adresse auf Anfrage, 1784 Courtepin
-Array
-3 Zimmer
-104 m2
-Objekttyp
-Wohnung, Loft
-Zimmer
-3
-Wohnfläche
-104 m2
-Cet espace, entièrement rénové et de plain pied, peut être dédié à diverses activités. Il est compo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Impasse du Verger 2
-390'000
-CHF
-3,5 Zi.-Wohnung-EG. mit Terrasse und Ga…
-Impasse du Verger 2, 1784 Courtepin
-Array
-3.5 Zimmer
-73 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-73 m2
-3,5 Zimmer Wohnung mit Terrasse und Garten zu verkaufenDas Mehrfamilienhaus besteht aus 7 Wohnungen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-390'000
-CHF
-Appartement 2,5 piéces
-Adresse auf Anfrage, 1784 Courtepin
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Concept-immobilier vous présente un appartement 2,5 pièces au rez supérieur de la PPE de la Craus…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-895'000
-CHF
-Villa 5,5 pièces MINERGIE, aux finition…
-Adresse auf Anfrage, 1784 Courtepin
-Array
-5.5 Zimmer
-149 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-5.5
-Wohnfläche
-149 m2
-Etage
-A 15 minutes de Fribourg, cette villa contiguë d'angle de 5,5 pièces de 149 m2, remise entièrement…
 Teilen
 E-Mail
 Facebook
@@ -435,62 +510,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-sur demande
-Preis auf Anfrage
-Villa entre ciel et lac à Lugnorre
-sur demande, 1789 Lugnorre
-Array
-6 Zimmer
-260 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6
-Wohnfläche
-260 m2
-Villa exceptionnellement lumineuse. Vue ouverte à 180° sur le lac et les montagnes. Jardin créé ave…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-sur demande
-895'000
-CHF
-Maison de 5 pièces à Courtepin.
-sur demande, 1784 Courtepin
-Array
-5 Zimmer
-149 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5
-Wohnfläche
-149 m2
-Maison mitoyenne rénovée à neuf surplombant Courtepin. Dans chemin en impasse. Environnement calme …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-sur demande
-350'000
-CHF
-Appartement 2,5 pièces ou 2 grands stud…
-sur demande, 1783 Pensier
-Array
-2 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-120 m2
-Dans la localité de Pensier, à quelques minutes de Fribourg, de l'autoroute et de la gare, deux loc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Villas des Saules
 770'000
 CHF
@@ -506,24 +525,6 @@ Zimmer
 Wohnfläche
 140 m2
 A 10 minutes de Fribourg et d'Avenches, à 3-5 kms de Belfaux, Grolley ou Courtepin, Misery est un v…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Résidences "Les Roseaux"
-Adresse auf Anfrage, 1786 Sugiez
-Array
-3.5 Zimmer
-93 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-93 m2
-Appartement 3.5 pièces au 1er étage (lot A3) au sein d'un immeuble de 4 appartements qui disposera …
 Teilen
 E-Mail
 Facebook

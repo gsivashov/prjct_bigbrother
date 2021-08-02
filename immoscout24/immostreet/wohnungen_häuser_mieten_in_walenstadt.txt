@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-walenstadt/
 Title: Wohnungen & Häuser mieten in Walenstadt - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Walenstadt - Immostreet.ch: ImmoStreet.ch hat 14 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Walenstadt - Immostreet.ch: ImmoStreet.ch hat 23 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-14 Resultate gefunden ·
+23 Resultate gefunden ·
 Wohnungen & Häuser mieten in Walenstadt
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,22 +122,226 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Baumgartenstrasse 3
-1'620
+Loftstrasse 3
+1'540
 CHF
 /Monat
-Wenn Wohnträume wahr werden!
-Baumgartenstrasse 3, 8880 Walenstadt
+Ruhige und helle 3.5-Zimmerwohnung
+Loftstrasse 3, 8880 Walenstadt
+Array
+3.5 Zimmer
+74 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+74 m2
+Über die WohnungWir vermieten im Zentrum von Walenstadt diese charmante 3.5-Zimmerwohnung.Die nach …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 10a
+1'310
+CHF
+/Monat
+Zentrale 2.5 Zimmerwohnung mit grosser …
+Bahnhofstrasse 10a, 8880 Walenstadt
 Array
 2.5 Zimmer
-70 m2
+63 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
+63 m2
+Etage
+Willkommen in WalenstadtIm Herzen von Walenstadt vermieten wir per 1.Oktober 2021 oder nach Vereinb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rempartenstrasse 14
+980
+CHF
+/Monat
+sanierte Wohnung zu vermieten
+Rempartenstrasse 14, 8880 Walenstadt
+Array
+3 Zimmer
 70 m2
-Zur Überbauung Churfirstenpark gehört eine wunderbare Aussicht auf die Churfirsten. Die Überbauung …
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+70 m2
+Wir vermieten eine sanierte 3- Zimmerwohnung
+-ganze Wohnung Bodenbeläge Marmoleum
+-offene Küche…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 10a
+1'260
+CHF
+/Monat
+Moderne und zentrale 2.5 Zimmerwohnung …
+Bahnhofstrasse 10a, 8880 Walenstadt
+Array
+2.5 Zimmer
+47 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+47 m2
+Etage
+Willkommen in WalenstadtIm Herzen von Walenstadt vermieten wir per 1.Oktober 2021 oder nach Vereinb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hanfländerweg 35
+1'176
+CHF
+/Monat
+Gemütliche 4-Zimmerwohnung
+Hanfländerweg 35, 8880 Walenstadt
+Array
+4 Zimmer
+73 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+73 m2
+Die gepflegte 4-Zimmerwohnung mit praktischem Grundriss ist perfekt für Familien oder Paare und pun…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Torkelweg 4
+2'360
+CHF
+/Monat
+Grosszügige 5.5-Zimmer-Wohnung an ausge…
+Torkelweg 4, 8880 Walenstadt
+Array
+5.5 Zimmer
+165 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+165 m2
+Renovierte 5.5-Zimmer-Wohnung in ruhigem Wohnquartier ab sofort zu vermieten.- Küche mit Granitabde…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sarganserstrasse 7
+120
+CHF
+/Monat
+Tiefgaragenplatz zu vermieten
+Sarganserstrasse 7, 8880 Walenstadt
+Array
+Objekttyp
+Tiefgarage
+Tiefgaragenplatz an der Sarganserstrasse 7, Walenstadt für Fr. 120.00 / Monat zu vermieten.
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Torkelweg 6a
+40
+CHF
+/Monat
+Parkplatz zu vermieten
+Torkelweg 6a, 8880 Walenstadt
+Array
+Objekttyp
+Offener Parkplatz
+Parkplatz Torkelweg 6a, Walenstadt für Fr. 40.00/mtl. zu vermieten.
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse 55
+1'299
+CHF
+/Monat
+Charmante Wohnung an ländlicher Lage zu…
+Seestrasse 55, 8880 Walenstadt
+Array
+4 Zimmer
+57 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+57 m2
+Die 4-Zimmerwohnung mit praktischem Grundriss ist perfekt für Familien oder Paare und punktet mit f…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse 61
+1'095
+CHF
+/Monat
+Ländlich wohnen
+Seestrasse 61, 8880 Walenstadt
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Die 3-Zimmerwohnung mit praktischem Grundriss ist perfekt für Familien oder Paare und punktet mit f…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Loftstrasse 1
+1'690
+CHF
+/Monat
+Frisch renovierte 4.0-Zimmerwohnung im …
+Loftstrasse 1, 8880 Walenstadt
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Über die WohnungDiese charmante Wohnung im Zentrum von Walenstadt, wurde im Jahr 2021 frisch renovi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Büntenstrasse 26
+1'780
+CHF
+/Monat
+Sonnige 4 1/2-Zimmer-Erdgeschosswohnung…
+Büntenstrasse 26, 8880 Walenstadt
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Etage
+Wunderschöne Wohnung mit 105 m2 und einem grosszügigem Sitzplatz (24 m²). Da sind gemütliche Stunde…
 Teilen
 E-Mail
 Facebook
@@ -162,6 +366,20 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+Parkplätze + Tiefgarage
+100
+CHF
+/Monat
+Parkplätze in der nähe des Walensee
+Parkplätze + Tiefgarage, 8880 Walenstadt
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten per sofort Abstellplätze in der genannten Liegenschaft für CHF 100.00 exkl. MwSt. mon…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Baumgartenstrasse 5
 1'860
 CHF
@@ -182,26 +400,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Platzrietstrasse 5
-1'350
-CHF
-/Monat
-Gemütliche Dachwohnung in der Nähe des …
-Platzrietstrasse 5, 8880 Walenstadt
-Array
-2.5 Zimmer
-54 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-54 m2
-Wir vermieten in einer schönen Überbauung eine heimelige 2.5-Zimmer Dachwohnung mit sichtbaren Balk…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Schützenweg 1
 660
 CHF
@@ -215,26 +413,6 @@ Wohnung, Flach
 Zimmer
 1
 Am Schützenweg 1 in Walenstadt vermieten wir eine 1-Zimmerwohnungen im 2. Obergeschoss. Die Liegens…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weidstrasse
-1'090
-CHF
-/Monat
-Nette 2.5 Zimmerwohnung .. Balkon, Blic…
-Weidstrasse, 8880 Walenstadt
-Array
-2.5 Zimmer
-60 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-60 m2
-ruhig, zentral, verfügbar ab Juni 2021 oder Absprache, ev mit Einzelgarage
 Teilen
 E-Mail
 Facebook
@@ -295,71 +473,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Bahnhofstrasse 10
-2'850
-CHF
-/Monat
-«Ob Büro-, Praxis,-Verkaufs oder Gewerb…
-Bahnhofstrasse 10, 8880 Walenstadt
-Array
-Objekttyp
-Verkauf, Praxis
-Wir bieten ein vielseitiges Gewerbeobjekt zu äusserst interessanten Konditionen an idealer Lage.
-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schützenweg 1
-840
-CHF
-/Monat
-praktische 2-Zimmerwohnung zu vermieten
-Schützenweg 1, 8880 Walenstadt
-Array
-2 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
+Seite 1 von 2
+1
 2
-Etage
-Auf den 1. Mai 2020 vermieten wir am Schützenweg 1 in Walenstadt eine schöne 2-Zimmerwohnung mit 24…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schützenweg 1
-940
-CHF
-/Monat
-praktische 2.5-Zimmerwohnung zu vermiet…
-Schützenweg 1, 8880 Walenstadt
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Etage
-Am Schützenweg 1 in Walenstadt vermieten wir eine 2.5-Zimmerwohnungen im 1. und 2. Obergeschoss. Di…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sarganserstrasse 7
-120
-CHF
-/Monat
-Tiefgaragenplatz zu vermieten
-Sarganserstrasse 7, 8880 Walenstadt
-Array
-Objekttyp
-Tiefgarage
-Tiefgaragenplatz an der Sarganserstrasse 7, Walenstadt für Fr. 120.00 / Monat zu vermieten.
-Teilen
-E-Mail
-Facebook
-Whatsapp
+nächste Seite
 ImmoStreet.ch
 Mieten
 Immobilien mieten in der Stadt Walenstadt

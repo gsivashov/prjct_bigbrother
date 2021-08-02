@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-uster/
 Title: Wohnung kaufen in Bezirk Uster - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Uster - Immostreet.ch: ImmoStreet.ch hat 40 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Uster - Immostreet.ch: ImmoStreet.ch hat 41 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-40 Resultate gefunden ·
+41 Resultate gefunden ·
 Wohnung kaufen in Bezirk Uster
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,22 +134,363 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Sonnenbergstrasse 31
-1'450'000
+Pfaffhausen
+1'300'000
 CHF
-MONTESOLE - Sonne von früh bis spät!
-Sonnenbergstrasse 31, 8600 Dübendorf
+Moderne 3.5 Zimmer Gartenwohnung
+Pfaffhausen, 8118 Pfaffhausen
+Array
+3.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+110 m2
+Diese attraktive 3.5 Zimmerwohnung befindet sich in einem ruhigen und gepflegten Wohnquartier an na…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schulhausstrasse 4
+1'190'000
+CHF
+Eigentumswohnung mit hochwertigen Innen…
+Schulhausstrasse 4, 8606 Nänikon
+Array
+153 m2
+Objekttyp
+Wohnung, Flach
+Wohnfläche
+153 m2
+In Nänikon, direkt neben dem historischen Schulhaus, verkaufen wir per sofort oder nach Vereinbarun…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dietenrainweg 10
+695'000
+CHF
+Renovationsbedürftige 3.5 Zi. Wohnung m…
+Dietenrainweg 10, 8610 Uster
+Array
+3.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+83 m2
+Renovationsbedürftige 3.5 Zimmer Etagenwohnung mit SeesichtDie Erstbesichtigung findet statt: Donne…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Stadtrand 53b
+1'630'000
+CHF
+Hoch hinaus - Ihre Wohlfühloase mit Wei…
+Am Stadtrand 53b, 8600 Dübendorf
 Array
 4.5 Zimmer
-100 m2
+153 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-100 m2
+153 m2
+Sie wohnen im aufstrebenden Quartier Hochbord, 200 m vom Bahnhof Stettbach entfernt. In 5 Minuten i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'150'000
+CHF
+Sauna, Privacy und top Ausbau
+Adresse auf Anfrage, 8604 Volketswil
+Array
+5.5 Zimmer
+208 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+Wohnfläche
+208 m2
+Viel Privatsphäre, Blick ins Grüne und Wohlfühl-Extras: Diese 5.5-Zimmer-Attikawohnung verwöhnt Gro…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'280'000
+CHF
+BRILLIANT IN BINZ
+Adresse auf Anfrage, 8122 Binz
+Array
+3.5 Zimmer
+104 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+104 m2
+Folgende Besichtigungen finden statt: - Dienstag, 20. Juli 2021, von 09:00 - 11:00 Uhr - Freitag, …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'442'000
+CHF
+Wohnung 3.5 Zimmer
+Adresse auf Anfrage, 8600 Dübendorf
+Array
+3.5 Zimmer
+113 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+113 m2
+Eigentumswohnungen Lindenhof Dübendorf Neubau Zentrum
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schmiedgasse 4
+890'000
+CHF
+Immobilienerlebnis für Lebensfreude
+Schmiedgasse 4, 8604 Volketswil
+Array
+3.5 Zimmer
+102 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+102 m2
+In der schönen 3.5-Zimmer-Dachwohnung leben Sie in einer einzigartigen Oase in Volketswil.
+Das …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Austrasse 34
+895'000
+CHF
+Neuwertige Dachgeschosswohnung in famil…
+Austrasse 34, 8604 Volketswil
+Array
+3.5 Zimmer
+108 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+108 m2
+Die neuwertige 3.5 Dachgeschosswohnung umfasst ca. 108 m² Nettowohnfläche und vermittelt durch ihre…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fällandenstrasse 2
+815'000
+CHF
+Den See zum Greifen nah!
+Fällandenstrasse 2, 8124 Maur
+Array
+2.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+65 m2
 Etage
+Geniessen Sie gemütliche Stunden mit Ihren Gästen auf der grosszügigen und südlich ausgerichteten T…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+In Hätzelwisen 12
+1'190'000
+CHF
+MAISONETTE-WOHNUNG
+In Hätzelwisen 12, 8602 Wangen b. Dübendorf
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+4.5
+Wohnfläche
+110 m2
+Frisch renovierte 4.5-Zimmer-Maisonette-Wohnung ist ab sofort zu kaufen. Die im Eigentumsstandard r…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sonnenbergstrasse 31
+2'250'000
+CHF
+MONTESOLE - Sonne bis in die Abendstund…
+Sonnenbergstrasse 31, 8600 Dübendorf
+Array
+5.5 Zimmer
+152 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+Wohnfläche
+152 m2
 Sind Sie auf der Suche nach einem neuen, modernen Eigenheim an äusserst zentraler und dennoch ruhig…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sonnenbergstrasse 9
+950'000
+CHF
+4 ½-Zimmer-Eigentumswohnung mit zwei Te…
+Sonnenbergstrasse 9, 8603 Schwerzenbach
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+110 m2
+Etage
+Die Dachwohnung liegt an einer ruhigen Quartierstrasse ohne Durchgangsverkehr, in der verkehrstechn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tennmoosstrasse 9
+1'060'000
+CHF
+Sonnig, zentral mit Balkon und Sicht in…
+Tennmoosstrasse 9, 8044 Gockhausen
+Array
+4.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+112 m2
+Die grosse 4.5 -Zimmerwohnung im Hochparterre mit Balkon, und separater Waschküche, Kellerabteil un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+RESERVIERT Eine Perle an guter Lage
+Adresse auf Anfrage, 8602 Wangen b. Dübendorf
+Array
+6.5 Zimmer
+163 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+6.5
+Wohnfläche
+163 m2
+Etage
+Nutzen Sie die Sommerferien für Ihren Umzug Es erwartet Sie hier ein Raumwunder mit viel Platz für …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Brünneli 28
+565'000
+CHF
+Beste Lage und sonnige Aussichten auf R…
+Im Brünneli 28, 8127 Forch
+Array
+3 Zimmer
+66 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+66 m2
+Die gemütliche 3-Zimmer-Wohnung gehört zu einer gut unterhaltenen Liegenschaft in einem familienfre…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Brünneli 22
+620'000
+CHF
+Platz zum Wohlfühlen an beliebter Lage
+Im Brünneli 22, 8127 Forch
+Array
+3.5 Zimmer
+71 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+71 m2
+Die helle 3,5-Zimmer-Wohnung gehört zu einer gut unterhaltenen Liegenschaft in einem familienfreund…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sulzbacherstrasse 16
+1'380'000
+CHF
+Charmante und komfortable 3.5 Zimmer Wo…
+Sulzbacherstrasse 16, 8610 Uster
+Array
+3.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+110 m2
+Lassen Sie sich von den vielen Vorzügen dieser Parterre Wohnung überraschen. Die Lage, die Ausstatt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brandstrasse 31
+1'410'000
+CHF
+AgentSelly - Hier verwöhnen Sie Familie…
+Brandstrasse 31, 8610 Uster
+Array
+5.5 Zimmer
+148 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+148 m2
+Wer gerne seine Familie und Freunde verwöhnt, fühlt sich hier zuhause. Auf einer Fläche von 150m2 f…
 Teilen
 E-Mail
 Facebook
@@ -173,346 +514,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Sonnenbergstrasse 31
-1'050'000
-CHF
-MONTESOLE - Sonne den ganzen Tag!
-Sonnenbergstrasse 31, 8600 Dübendorf
-Array
-2.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-75 m2
-Sind Sie auf der Suche nach einem neuen, modernen Eigenheim an äusserst zentraler und dennoch ruhig…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sonnenbergstrasse 31
-1'260'000
-CHF
-MONTESOLE - Sonne von früh bis spät!
-Sonnenbergstrasse 31, 8600 Dübendorf
-Array
-3.5 Zimmer
-88 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-88 m2
-Sind Sie auf der Suche nach einem neuen, modernen Eigenheim an äusserst zentraler und dennoch ruhig…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schulhausstrasse 2 + 4
-1'160'000
-CHF
-Historischer Charme mitten in Nänikon -…
-Schulhausstrasse 2 + 4, 8606 Nänikon
-Array
-4.5 Zimmer
-153 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-153 m2
-Im ortsbildgeschützten, über 200 Jahre alten Mehrfamilienhaus entsteht diese hochwertig ausgebaute …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schützenweg 2
-Preis auf Anfrage
-PROJEKTANKÜNDIGUNG!
-Schützenweg 2, 8604 Volketswil
-Array
-Objekttyp
-Wohnung, Flach
-Moderne aussergewöhnliche Eigentumswohnungen am Waldrand von Volketswil
-Projektumfang: Terrassen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'550'000
-CHF
-Schlichte Eleganz, hochwertiger Ausbau
-Adresse auf Anfrage, 8600 Dübendorf
-Array
-4.5 Zimmer
-146 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Wohnfläche
-146 m2
-Ein grosszügiger Grundriss, moderner Innenausbau und gesuchte, zentrale Lage: Damit punktet diese 4…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Leubergstrasse 21
-1'071'000
-CHF
-Solevista: Geniessen Sie eine traumhaft…
-Leubergstrasse 21, 8615 Wermatswil
-Array
-3.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-79 m2
-Das Neubauprojekt «Solevista» in Wermatswil ist eine einzigartige Kombination aus exzellenter Lage …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Im Langstuck 27
-1'050'000
-CHF
-Viel Platz - Innen wie Aussen
-Im Langstuck 27, 8044 Gockhausen
-Array
-4.5 Zimmer
-135 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-135 m2
-Im Auftrag unseres Kunden verkaufen wir diese 4.5-Zimmer-Wohnung im 2. Obergeschoss an sonniger und…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-995'000
-CHF
-WOHLFÜHLOASE MIT GROSSEM GARTEN
-Adresse auf Anfrage, 8600 Dübendorf
-Array
-3.5 Zimmer
-93 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-93 m2
-Sie suchen eine ruhige Oase mit viel Ruhe, Sonne, Vogelgezwitscher und Natur? Dann kommen Sie hier …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'145'000
-CHF
-.
-Adresse auf Anfrage, 8604 Volketswil
-Array
-4.5 Zimmer
-157 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Wohnfläche
-157 m2
-Alles ausser GewöhnlichDiese Immobilie bietet die perfekte Kombination. Die Nähe zum Zentrum, zum G…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hubrainstrasse 22
-1'850'000
-CHF
-Terrassenwohnung 'Residenz Hubrain'
-Hubrainstrasse 22, 8124 Maur
-Array
-4.5 Zimmer
-139 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-4.5
-Wohnfläche
-139 m2
-Etage
-An bester Lageklasse in Maur entstehen fünf exklusive Terrassenwohnungen.
-Bereits der Eintritt i…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alte Landstrasse 39
-Preis auf Anfrage
-2½ Zimmer-Galeriewohnung im Dachgeschos…
-Alte Landstrasse 39, 8600 Dübendorf
-Array
-2.5 Zimmer
-115 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-115 m2
-2-geschossige Dachwohnung ca. 115m2 mit einem geschlossenen Zimmer, offener Galerie sowie Keller un…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'375'000
-CHF
-FAMILIENFREUNDLICH AN ZENTRALER LAGE
-Adresse auf Anfrage, 8117 Fällanden
-Array
-5.5 Zimmer
-135 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-135 m2
-Wenn Sie gerne schnell mitten im Geschehen sind und keine langen Wege mögen, sich aber gerne mal zu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Haldenstrasse 55
-1'180'000
-CHF
-"Eine verborgene Wohnperle"
-Haldenstrasse 55, 8306 Brüttisellen
-Array
-4.5 Zimmer
-147 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Wohnfläche
-147 m2
-Ein überaus komfortables Zuhause für Menschen mit Sinn für das Aussergewöhnliche: Diese 4.5-Zimmer-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wangen b. Dübendorf
-900'000
-CHF
-Familienfreundliche, helle und ruhige M…
-Wangen b. Dübendorf, 8602 Wangen b. Dübendorf
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Diese helle Maisonette- Wohnung verfügt über einen originellen Grundriss. Die Räumlichkeiten sind a…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Forchstrasse 179
-895'000
-CHF
-Ein Hupf zur Forchstation
-Forchstrasse 179, 8132 Hinteregg
-Array
-3.5 Zimmer
-124 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-124 m2
-Diese helle und freundliche Dachwohnung liegt nur 1 Gehminute von der Forchbahnhaltestelle entfernt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bachtobelstrasse 38
-695'000
-CHF
-2.5-Zimmer Garten-Wohnung mit Hobbyraum
-Bachtobelstrasse 38, 8123 Ebmatingen
-Array
-2.5 Zimmer
-56 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-56 m2
-Ebenerdige 2.5-Zimmer Wohnung mit eigener Laube, Hobbyraum und EinstellhallenplatzDiese ebenerdige …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Eine Perle mitten im Dorf
-Adresse auf Anfrage, 8602 Wangen b. Dübendorf
-Array
-6.5 Zimmer
-163 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-6.5
-Wohnfläche
-163 m2
-Etage
-Nutzen Sie die Sommerferien für Ihren UmzugEs erwartet Sie hier ein Raumwunder mit viel Platz für e…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Leubergstrasse 21
-1'071'000
-CHF
-Solevista: Ruhiges Wohnen an Traumlage!
-Leubergstrasse 21, 8615 Wermatswil
-Array
-2.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-79 m2
-Das Neubauprojekt «Solevista» in Wermatswil ist eine einzigartige Kombination aus exzellenter Lage …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seite 1 von 2
+Seite 1 von 3
 1
 2
+3
 nächste Seite
 ImmoStreet.ch
 Kaufen

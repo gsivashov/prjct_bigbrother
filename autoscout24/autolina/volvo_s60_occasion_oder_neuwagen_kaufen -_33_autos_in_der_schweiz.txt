@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -101,7 +101,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -155,324 +155,318 @@ WIR-ANTEIL
 33 Treffer
 Suche zurücksetzen
 VOLVO
-S60 T6 AWD Summum Geartronic
-CHF 13'500
-ab CHF 145/Monat
-12.2011
-Automat
-105'000 km
-Benzin
-Allradantrieb
-grau
-304 PS
+S60 2.4D Momentum
+CHF 4'850
+06.2005
+Handschaltung
+230'007 km
+Diesel
+Vorderradantrieb
+blau
+163 PS
 ZH
 Merken
 VOLVO
-S60 T6 AWD Summum Geartronic
-12.2011
-304 PS
-105'000 km
-CHF 13'500
+S60 2.4D Momentum
+06.2005
+163 PS
+230'007 km
+CHF 4'850
 Merken
-ab CHF 145/Monat
 VOLVO
-S60 T5 R-Design Geartronic
-CHF 43'800
-ab CHF 516/Monat
-06.2020
+S60 T8 e AWD Twin Engine Polestar Geartronic
+CHF 59'700
+ab CHF 642/Monat
+03.2020
 Automat
-8'000 km
-Benzin
-Vorderradantrieb
+9'380 km
+Plug-in-Hybrid Benzin/Elektro
+Allradantrieb
 schwarz
-250 PS
-AG
+405 PS
+GR
 Merken
 VOLVO
-S60 T5 R-Design Geartronic
-06.2020
-250 PS
-8'000 km
-CHF 43'800
+S60 T8 e AWD Twin Engine Polestar...
+03.2020
+405 PS
+9'380 km
+CHF 59'700
 Merken
-ab CHF 516/Monat
+ab CHF 642/Monat
 VOLVO
-S60 D3 Kinetic Geartronic
-CHF 6'900
-05.2011
+S60 2.0 B5 MH Inscription AWD
+CHF 54'351
+ab CHF 584/Monat
+11.2020
 Automat
-449'000 km
-Diesel
-Vorderradantrieb
-grau
-163 PS
-TI
-Merken
-VOLVO
-S60 D3 Kinetic Geartronic
-05.2011
-163 PS
-449'000 km
-CHF 6'900
-Merken
-VOLVO
-S60 R AWD
-CHF 11'950
-ab CHF 135/Monat
-05.2005
-Automat
-201'000 km
-Benzin
+4'593 km
+Mild-Hybrid Benzin/Elektro
 Allradantrieb
 grau
-300 PS
-SG
-Merken
-VOLVO
-S60 R AWD
-05.2005
-300 PS
-201'000 km
-CHF 11'950
-Merken
-ab CHF 135/Monat
-VOLVO
-S60 Cross Country 2.0 D3 MomentumS/S
-CHF 18'900
-ab CHF 203/Monat
-03.2017
-Automat
-72'500 km
-Diesel
-Vorderradantrieb
-weiss
-150 PS
-SG
-Merken
-VOLVO
-S60 Cross Country 2.0 D3 Momentum...
-03.2017
-150 PS
-72'500 km
-CHF 18'900
-Merken
-ab CHF 203/Monat
-VOLVO
-S60 2.0 20V T 180 Kinetic
-CHF 4'900
-03.2006
-Automat
-101'000 km
-Benzin
-Vorderradantrieb
-grau
-180 PS
+250 PS
 SO
 Merken
 VOLVO
-S60 2.0 20V T 180 Kinetic
-03.2006
-180 PS
-101'000 km
-CHF 4'900
+S60 2.0 B5 MH Inscription AWD
+11.2020
+250 PS
+4'593 km
+CHF 54'351
 Merken
+ab CHF 584/Monat
 VOLVO
-S60 D5 AWD Summum Geartronic
-CHF 12'900
-ab CHF 139/Monat
-03.2012
+S60 D4 Kinetic
+CHF 14'250
+ab CHF 154/Monat
+09.2015
 Automat
-130'500 km
+116'900 km
 Diesel
-Allradantrieb
-weiss
-215 PS
-LU
-Merken
-VOLVO
-S60 D5 AWD Summum Geartronic
-03.2012
-215 PS
-130'500 km
-CHF 12'900
-Merken
-ab CHF 139/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-VOLVO
-S60 D5 AWD Summum Geartronic
-CHF 18'900
-ab CHF 203/Monat
-11.2011
-Automat
-91'000 km
-Diesel
-Allradantrieb
+Vorderradantrieb
 schwarz
-225 PS
+181 PS
+SO
+Merken
+VOLVO
+S60 D4 Kinetic
+09.2015
+181 PS
+116'900 km
+CHF 14'250
+Merken
+ab CHF 154/Monat
+VOLVO
+S60 2.0T Momentum
+CHF 6'900
+10.2010
+Handschaltung
+237'000 km
+Benzin
+Vorderradantrieb
+weiss
+203 PS
 AG
 Merken
 VOLVO
-S60 D5 AWD Summum Geartronic
-11.2011
-225 PS
-91'000 km
-CHF 18'900
+S60 2.0T Momentum
+10.2010
+203 PS
+237'000 km
+CHF 6'900
 Merken
-ab CHF 203/Monat
 VOLVO
-S60 T5 R-Design
-CHF 41'500
-ab CHF 446/Monat
-09.2019
+S60 T5 AWD Inscription
+CHF 61'830
+ab CHF 664/Monat
+03.2021
 Automat
-28'500 km
+4'500 km
 Benzin
-Vorderradantrieb
+Allradantrieb
 grau
 250 PS
-OW
+SG
 Merken
 VOLVO
-S60 T5 R-Design
-09.2019
+S60 T5 AWD Inscription
+03.2021
 250 PS
-28'500 km
-CHF 41'500
+4'500 km
+CHF 61'830
 Merken
-ab CHF 446/Monat
+ab CHF 664/Monat
+VOLVO
+S60 T5 R-Design Geartronic Black Styling
+CHF 43'790
+ab CHF 471/Monat
+07.2020
+Automat
+6'800 km
+Benzin
+Vorderradantrieb
+anthrazit
+250 PS
+SG
+Merken
+VOLVO
+S60 T5 R-Design Geartronic Black ...
+07.2020
+250 PS
+6'800 km
+CHF 43'790
+Merken
+ab CHF 471/Monat
+VOLVO
+S60 3.0 T6 Summum AWD
+CHF 16'400
+ab CHF 177/Monat
+02.2014
+Automat
+58'000 km
+Benzin
+Allradantrieb
+schwarz
+304 PS
+SG
+Merken
+VOLVO
+S60 3.0 T6 Summum AWD
+02.2014
+304 PS
+58'000 km
+CHF 16'400
+Merken
+ab CHF 177/Monat
 VOLVO
 S60 T8 e AWD Polestar
-CHF 92'248
-ab CHF 991/Monat
+CHF 75'850
+ab CHF 815/Monat
 -
 Automat
-1 km
-Plug-in-Hybrid Benzin/Elektro
+30 km
+Voll-Hybrid Benzin/Elektro
+Allradantrieb
+schwarz
+405 PS
+SG
+Merken
+VOLVO
+S60 T8 e AWD Polestar
+-
+405 PS
+30 km
+CHF 75'850
+Merken
+ab CHF 815/Monat
+VOLVO
+S60 T8 e AWD Polestar
+CHF 74'850
+ab CHF 804/Monat
+-
+Automat
+30 km
+Voll-Hybrid Benzin/Elektro
 Allradantrieb
 weiss
+407 PS
+SG
+Merken
+VOLVO
+S60 T8 e AWD Polestar
+-
+407 PS
+30 km
+CHF 74'850
+Merken
+ab CHF 804/Monat
+VOLVO
+S60 T6 AWD R-Design
+CHF 51'750
+ab CHF 556/Monat
+05.2020
+Automat
+19'000 km
+Benzin
+Allradantrieb
+schwarz
+310 PS
+SG
+Merken
+VOLVO
+S60 T6 AWD R-Design
+05.2020
+310 PS
+19'000 km
+CHF 51'750
+Merken
+ab CHF 556/Monat
+VOLVO
+S60 2.0T
+CHF 1'200
+12.2002
+Automat
+315'000 km
+Benzin
+Vorderradantrieb
+schwarz
+180 PS
+ZH
+Merken
+VOLVO
+S60 2.0T
+12.2002
+180 PS
+315'000 km
+CHF 1'200
+Merken
+VOLVO
+S60 T8 e AWD Polestar
+CHF 61'900
+ab CHF 665/Monat
+12.2019
+Automat
+16'650 km
+Plug-in-Hybrid Benzin/Elektro
+Allradantrieb
+sonstiges
 405 PS
 VS
 Merken
 VOLVO
 S60 T8 e AWD Polestar
--
+12.2019
 405 PS
-1 km
-CHF 92'248
+16'650 km
+CHF 61'900
 Merken
-ab CHF 991/Monat
+ab CHF 665/Monat
 VOLVO
-S60 2.0 T5 Inscription AWD
-CHF 40'900
-ab CHF 440/Monat
-11.2019
+S60 2.0 T5 R-Design
+CHF 45'620
+ab CHF 490/Monat
+10.2019
 Automat
-10'000 km
+25'000 km
 Benzin
-Allradantrieb
-schwarz
+Vorderradantrieb
+weiss
 250 PS
-AG
+BE
 Merken
 VOLVO
-S60 2.0 T5 Inscription AWD
-11.2019
+S60 2.0 T5 R-Design
+10.2019
 250 PS
-10'000 km
-CHF 40'900
+25'000 km
+CHF 45'620
 Merken
-ab CHF 440/Monat
+ab CHF 490/Monat
 VOLVO
 S60 2.0 T8 TE Polestar eAWD
-CHF 62'900
-ab CHF 676/Monat
-01.2020
+CHF 67'350
+ab CHF 724/Monat
+11.2020
 Automat
-7'300 km
-Plug-in-Hybrid Benzin/Elektro
+3'791 km
+Voll-Hybrid Benzin/Elektro
 Allradantrieb
-silber
+grau
 317 PS
 BE
 Merken
 VOLVO
 S60 2.0 T8 TE Polestar eAWD
-01.2020
+11.2020
 317 PS
-7'300 km
-CHF 62'900
+3'791 km
+CHF 67'350
 Merken
-ab CHF 676/Monat
+ab CHF 724/Monat
 35-Punkte-Check
 Kostenlose Probefahrt
 Garantieversprechen
 Faires Eintauschangebot
-VOLVO
-S60 T5 AWD Inscription
-CHF 40'710
-ab CHF 438/Monat
-11.2019
-Automat
-13'000 km
-Benzin
-Allradantrieb
-schwarz
-250 PS
-AG
-Merken
-VOLVO
-S60 T5 AWD Inscription
-11.2019
-250 PS
-13'000 km
-CHF 40'710
-Merken
-ab CHF 438/Monat
-VOLVO
-S60 T5 R-Design
-CHF 37'760
-ab CHF 406/Monat
-05.2019
-Automat
-22'850 km
-Benzin
-Vorderradantrieb
-grau
-250 PS
-SG
-Merken
-VOLVO
-S60 T5 R-Design
-05.2019
-250 PS
-22'850 km
-CHF 37'760
-Merken
-ab CHF 406/Monat
-VOLVO
-S60 T8 e AWD Twin Engine Polestar Geartronic
-CHF 58'900
-ab CHF 694/Monat
-10.2020
-Automat
-4'100 km
-Plug-in-Hybrid Benzin/Elektro
-Allradantrieb
-schwarz
-317 PS
-ZH
-Merken
-VOLVO
-S60 T8 e AWD Twin Engine Polestar...
-10.2020
-317 PS
-4'100 km
-CHF 58'900
-Merken
-ab CHF 694/Monat
 1
 1
 2

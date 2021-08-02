@@ -3,7 +3,6 @@ Title: Auto verkaufen – Online inserieren – comparis.ch
 Description: Autoverkauf einfach gemacht: Ihr Online-Inserat erscheint gleichzeitig auf autoscout24.ch und comparis.ch. 
 Weiterführende Tipps zum Fahrzeugverkauf, gratis Fahrzeugbewertung und Vertragsvorlagen. 
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -20,7 +19,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr

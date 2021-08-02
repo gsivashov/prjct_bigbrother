@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-affoltern/
 Title: Wohnung kaufen in Bezirk Affoltern - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Affoltern - Immostreet.ch: ImmoStreet.ch hat 25 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Affoltern - Immostreet.ch: ImmoStreet.ch hat 40 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-25 Resultate gefunden ·
+40 Resultate gefunden ·
 Wohnung kaufen in Bezirk Affoltern
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,69 +134,62 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-695'000
+Dorfstrasse 1
+965'000
 CHF
-Attraktive Attika-WG an der neu geplant…
-Adresse auf Anfrage, 8913 Ottenbach
+"Projektankündigung" - Adler Knonau - A…
+Dorfstrasse 1, 8934 Knonau
 Array
 3.5 Zimmer
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Bewilligtes Neubau-Mehrfamilienhaus Projekt mit 6 attraktiven Eigentumswohnungen und Einstellhalle,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stallikon
-1'595'000
-CHF
-Schöne und familienfreundliche 5.5-Zimm…
-Stallikon, 8143 Stallikon
-Array
-5.5 Zimmer
-148 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-148 m2
-Die Liegenschaft präsentiert sich an ruhiger und sonniger Lage in Stallikon.Die Wohnung verfügt übe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gartenstrasse 8
-Preis auf Anfrage
-Projektankündigung: Gartenstrasse - Zuh…
-Gartenstrasse 8, 8910 Affoltern am Albis
-Array
+120 m2
 Objekttyp
 Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+120 m2
 Etage
-Projektankündigung: Jetzt vormerken für den voraussichtlichen Vermarktungsstart Ende August 2021 In…
+Unter das Dach des geschichtsträchtigen Gasthofs zieht neues Leben ein.EHEMALIGER GASTHOF - histori…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Stampfenmatt
-805'000
+Dorfstrasse 1
+950'000
 CHF
-Einzigartige Wohnqualität mit Charme
-Stampfenmatt, 8909 Zwillikon
+"Projektankündigung" - Adler Knonau - R…
+Dorfstrasse 1, 8934 Knonau
+Array
+4.5 Zimmer
+122 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+122 m2
+Etage
+Unter das Dach des geschichtsträchtigen Gasthofs zieht neues Leben ein.EHEMALIGER GASTHOF - histori…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse 1
+685'000
+CHF
+"Projektankündigung" - Adler Knonau - H…
+Dorfstrasse 1, 8934 Knonau
 Array
 2.5 Zimmer
-85 m2
+77 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-85 m2
-Baustart erfolgt - 2/3 der Wohnungen sind bereits verkauft!An guter Lage mit optimaler Verkehrsanbi…
+77 m2
+Etage
+Unter das Dach des geschichtsträchtigen Gasthofs zieht neues Leben ein.EHEMALIGER GASTHOF - histori…
 Teilen
 E-Mail
 Facebook
@@ -220,8 +213,159 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+Adresse auf Anfrage
+830'000
+CHF
+Erholsames Wohnen für die ganze Familie
+Adresse auf Anfrage, 8913 Ottenbach
+Array
+4.5 Zimmer
+106 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+106 m2
+Die Wohnung befindet sich im Erdgeschoss eines charmanten Mehrfamilienhauses mit Lift. Die Lage ist…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Untere Bahnhofstrasse 39
+1'070'000
+CHF
+UB39 | ZH
+Untere Bahnhofstrasse 39, 8910 Affoltern am Albis
+Array
+4.5 Zimmer
+115 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+115 m2
+Etage
+Das Neubauprojekt liegt im Herzen von Affoltern am Albis an zentralster Lage. Insgesamt stehen 12 a…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Untere Bahnhofstrasse 39
+1'120'000
+CHF
+UB39 | ZH
+Untere Bahnhofstrasse 39, 8910 Affoltern am Albis
+Array
+3.5 Zimmer
+116 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+3.5
+Wohnfläche
+116 m2
+Das Neubauprojekt liegt im Herzen von Affoltern am Albis an zentralster Lage. Insgesamt stehen 12 a…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Untere Bahnhofstrasse 39
+1'080'000
+CHF
+UB39 | ZH
+Untere Bahnhofstrasse 39, 8910 Affoltern am Albis
+Array
+4.5 Zimmer
+115 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+115 m2
+Das Neubauprojekt liegt im Herzen von Affoltern am Albis an zentralster Lage. Insgesamt stehen 12 a…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Untere Bahnhofstrasse 39
+1'080'000
+CHF
+UB39 | ZH
+Untere Bahnhofstrasse 39, 8910 Affoltern am Albis
+Array
+4.5 Zimmer
+114 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+114 m2
+Etage
+Das Neubauprojekt liegt im Herzen von Affoltern am Albis an zentralster Lage. Insgesamt stehen 12 a…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+8907 Wettswil am Albis
+1'290'000
+CHF
+Schön, ruhig, gepflegt und vor allem ze…
+8907 Wettswil am Albis, 8907 Wettswil
+Array
+4.5 Zimmer
+116 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+116 m2
+Aufgrund der hohen Nachfrage ist diese Wohnung nach nur kurzer Zeit bereits für eine Familie reserv…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'710'000
+CHF
+RESERVIERT: Hochwertig und exklusiv an …
+Adresse auf Anfrage, 8910 Affoltern am Albis
+Array
+7 Zimmer
+201 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+7
+Wohnfläche
+201 m2
+Etage
+Wir verkaufen per sofort oder nach Vereinbarung diese exklusive und hochwertige Maisonettewohnung a…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Sonnenberg - 5.5 - Zimmer Terrassenhaus…
+Adresse auf Anfrage, 8910 Affoltern am Albis
+Array
+5.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Dieses attraktive, repräsentative und familienfreundliche Terrassenhaus ? das unterste einer Vierer…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Im Wil 2
-960'000
+895'000
 CHF
 Elegante 3.5 Zimmer Wohnung mit zusätzl…
 Im Wil 2, 8910 Affoltern am Albis
@@ -239,112 +383,81 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Chrüzacherweg 3
-1'225'000
+Albisstrasse 56
+1'155'000
 CHF
-Weitsicht ! nur das Wetter setzt Grenzen
-Chrüzacherweg 3, 8906 Bonstetten
-Array
-5.5 Zimmer
-153 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-153 m2
-unverbaubare Weitsicht mit Morgen und AbendsonneRaumhöhe bis zu 3.8 MeterHauptterr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfstrasse 1
-Preis auf Anfrage
-"Projektankündigung" - Adler Knonau - a…
-Dorfstrasse 1, 8934 Knonau
-Array
-Objekttyp
-Wohnung, Flach
-Wohnungsmix2 .5 bis 6 .5 Zimmer-WohnungenWohnungsgrössenca. 76.6 m² bis 174.8 m²Preisspanneauf Anfr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mythenblick 8
-890'000
-CHF
-Leben und wohl fühlen - Gartenwohnung a…
-Mythenblick 8, 8926 Uerzlikon
-Array
-3.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-105 m2
-Etage
-Im naturnahen, ländlichen und doch sehr zentralem Uerzlikon verkaufen wir eine moderne 3.5-Zimmer-G…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Guggenbüelweg 1
-625'000
-CHF
-Neubau: Moderne 3.5 Zi-Wohnung im Grünen
-Guggenbüelweg 1, 8932 Mettmenstetten
-Array
-3.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-70 m2
-Etage
-Highlights der Wohnungen+ Neubau nach neusten Standards+ moderner und zweckmässiger Innenausbau+ li…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Guggenbüelweg 1
-695'000
-CHF
-Neubau: Moderne 3.5 Zi-Maisonettewohnung
-Guggenbüelweg 1, 8932 Mettmenstetten
-Array
-3.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-79 m2
-Etage
-Highlights der Wohnungen+ Neubau nach neusten Standards+ moderner und zweckmässiger Innenausbau+ li…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stallikerstrasse 10
-960'000
-CHF
-4.5-Zimmer-Hochparterrewohnung im Grüne…
-Stallikerstrasse 10, 8906 Bonstetten
+Neubau: Bijou 4 ½-Zimmer-Dach-Maisonett…
+Albisstrasse 56, 8932 Mettmenstetten
 Array
 4.5 Zimmer
-107 m2
+126 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Dachwohnung
 Zimmer
 4.5
 Wohnfläche
-107 m2
-Erstbezug EigentumswohnungIm Mauritiuspark in Bonstetten bieten wir eine bezugsbereite, moderne 4.5…
+126 m2
+Etage
+Neubau: Bijou 4 ½-Zimmer-Dach-Maisonette-WohnungErfüllen Sie sich Ihren Traum vom Eigenheim an leic…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Brunnenstrasse 6
+595'000
+CHF
+Feierabend auf einem lauschigen Balkon
+Brunnenstrasse 6, 8910 Affoltern am Albis
+Array
+3.5 Zimmer
+79 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+79 m2
+Leben zwischen Landluft und Stadtflair an ruhiger und sonniger Lage mit direktem Anschluss ins Zent…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mülibergstrasse 28
+1'500'000
+CHF
+Wohnen auf der Sonnenterrasse in Aeugst…
+Mülibergstrasse 28, 8914 Aeugst am Albis
+Array
+4.5 Zimmer
+184 m2
+Objekttyp
+Wohnung, Duplex, Maisonette
+Zimmer
+4.5
+Wohnfläche
+184 m2
+Etage
+EINE DER LETZTEN 4 1/2 ZIMMER ATTIKA-MAISONETTE WOHNUNGEN ZU VERKAUFEN !!
+HOHER AUSBAU-STAN…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Pilatusstrasse
+795'000
+CHF
+* Ihr neues Zuhause im Grünen *
+Pilatusstrasse, 8915 Hausen am Albis
+Array
+3.5 Zimmer
+108 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+108 m2
+An ruhiger sonniger Wohnlage im Grünen, ohne Durchgangsverkehr, verkaufen wir diese schöne 3.5 Zimm…
 Teilen
 E-Mail
 Facebook
@@ -368,136 +481,40 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Pilatusstrasse 31
-795'000
+Stallikerstrasse 10
+960'000
 CHF
-*Interessante Gartenwohnung ohne Durchg…
-Pilatusstrasse 31, 8915 Hausen am Albis
-Array
-3.5 Zimmer
-108 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-108 m2
-An ruhiger sonniger Wohnlage im Grünen ohne Durchgangsverkehr verkaufen wir diese schöne 3.5 Zimmer…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'420'000
-CHF
-Sonnige Wohnoase mit Weitsicht
-Adresse auf Anfrage, 8910 Affoltern am Albis
+4.5-Zimmer-Hochparterrewohnung im Grüne…
+Stallikerstrasse 10, 8906 Bonstetten
 Array
 4.5 Zimmer
-159 m2
+107 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-159 m2
-Mit schöner Sicht, charmanten Dachschrägen und einem grosszügigen Grundriss ist diese 4.5-Zimmer-At…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Affolternstrasse 32
-1'025'000
-CHF
-Charmante 5.5-Zimmer Gartenwohnung
-Affolternstrasse 32, 8913 Ottenbach
-Array
-5.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-120 m2
-Ruhe im Grünen und alles so nahDiese Gartenwohnung präsentiert sich in moderner, gleichzeitig zeitl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wolserstrasse 26
-492'000
-CHF
-Neubau Wolserstrasse 26, 2.5 Zimmerwohn…
-Wolserstrasse 26, 8912 Obfelden
-Array
-2.5 Zimmer
-54 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-54 m2
-meinwohntraum an der WolserstrasseWillkommen an der Wolserstrasse in Obfelden im Bezirk Affoltern a…
+107 m2
+Erstbezug EigentumswohnungIm Mauritiuspark in Bonstetten bieten wir eine bezugsbereite, moderne 4.5…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'100'000
+1'150'000
 CHF
-Pure Eleganz in idyllischer Umgebung
-Adresse auf Anfrage, 8913 Ottenbach
-Array
-5.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-Wohnfläche
-150 m2
-Die charmante 5.5-Zimmer-Maisonette-Dachwohnung befindet sich in einem ruhigen Wohnquartier an eine…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Untere Kirchfeldstrasse 5
-1'325'000
-CHF
-Endlich das richtige gefunden
-Untere Kirchfeldstrasse 5, 8910 Affoltern am Albis
+EXKLUSIVES UND HEIMELIGES SCHMUCKSTÜCK …
+Adresse auf Anfrage, 8932 Mettmenstetten
 Array
 4.5 Zimmer
-125 m2
+141 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-125 m2
-Etage
-Suchen Sie was aussergewöhnliches und geborgenes mit hohem Standard? Dann dürfen Sie diese Chance n…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'195'000
-CHF
-HAUSGEFÜHLE
-Adresse auf Anfrage, 8143 Stallikon
-Array
-3.5 Zimmer
-135 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-135 m2
-In der Nähe von der Stadt Zurich verkaufen wir in Stallikon an ruhiger Lage eine äusserst grosszügi…
+141 m2
+An ruhiger, familienfreundlicher und sonnenverwöhnter Lage präsentiert sich diese wunderschöne Dach…
 Teilen
 E-Mail
 Facebook

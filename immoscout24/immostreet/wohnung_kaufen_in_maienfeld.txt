@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/in-maienfeld/
 Title: Wohnung kaufen in Maienfeld - Immostreet.ch
-Description: Wohnung kaufen in  Maienfeld - Immostreet.ch: ImmoStreet.ch hat 4 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in  Maienfeld - Immostreet.ch: ImmoStreet.ch hat 2 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-4 Resultate gefunden ·
+2 Resultate gefunden ·
 Wohnung kaufen in Maienfeld
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,46 +134,6 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Loretscher 14
-1'100'000
-CHF
-41/2 (51/2) - Zimmerwohnung 2.OG
-Loretscher 14, 7304 Maienfeld
-Array
-4.5 Zimmer
-155 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-155 m2
-Etage
-Nach Vereinbarung verkaufen wir in Maienfeld eine top moderne 41/2-Zimmerwohnung. Gemäss Grundbuch …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mühlebündtestrasse 8
-360'000
-CHF
-3.5 Zimmer-Wohnung zu verkaufen
-Mühlebündtestrasse 8, 7304 Maienfeld
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Etage
-Das Mehrfamilienhaus Mühlbach liegt zentrumsnah und sehr ruhig an der Mühlebündtestrasse in Maienfe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Pfandgraben 7A
 850'000
 CHF

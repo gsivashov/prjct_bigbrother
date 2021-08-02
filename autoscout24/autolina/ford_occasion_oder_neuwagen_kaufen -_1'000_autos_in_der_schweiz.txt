@@ -81,7 +81,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -99,7 +99,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -154,6 +154,197 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 FORD
+Capri 2800i (Coupé)
+CHF 14'000
+ab CHF 151/Monat
+01.1983
+Handschaltung
+198'000 km
+Benzin
+Hinterradantrieb
+grau
+160 PS
+BE
+Merken
+FORD
+Capri 2800i (Coupé)
+01.1983
+160 PS
+198'000 km
+CHF 14'000
+Merken
+ab CHF 151/Monat
+FORD
+Tourneo
+Grand Connect
+CHF 22'500
+ab CHF 242/Monat
+06.2018
+Automat
+54'000 km
+Diesel
+Vorderradantrieb
+silber
+120 PS
+ZH
+Merken
+FORD
+Tourneo
+Grand Connect
+06.2018
+120 PS
+54'000 km
+CHF 22'500
+Merken
+ab CHF 242/Monat
+FORD
+Focus 2.5i 20V ST
+CHF 7'400
+ab CHF 84/Monat
+04.2007
+Handschaltung
+151'000 km
+Benzin
+Vorderradantrieb
+schwarz
+225 PS
+SG
+Merken
+FORD
+Focus 2.5i 20V ST
+04.2007
+225 PS
+151'000 km
+CHF 7'400
+Merken
+ab CHF 84/Monat
+FORD
+Mustang Shelby GT500 SVT 2013 20th Anniversary
+CHF 69'900
+ab CHF 751/Monat
+12.2012
+Handschaltung
+72'000 km
+Benzin
+Hinterradantrieb
+weiss
+662 PS
+ZH
+Merken
+FORD
+Mustang Shelby GT500 SVT 2013 20t...
+12.2012
+662 PS
+72'000 km
+CHF 69'900
+Merken
+ab CHF 751/Monat
+FORD
+Grand C-Max 1.6i EB SCTi 150 Carving S/S
+CHF 10'200
+ab CHF 115/Monat
+11.2012
+Handschaltung
+50'100 km
+Benzin
+Vorderradantrieb
+blau
+150 PS
+SO
+Merken
+FORD
+Grand C-Max 1.6i EB SCTi 150 Carv...
+11.2012
+150 PS
+50'100 km
+CHF 10'200
+Merken
+ab CHF 115/Monat
+FORD
+Focus Coupé-Cabrio 1.6i 16V Ambiente
+CHF 8'700
+ab CHF 98/Monat
+09.2010
+Handschaltung
+71'000 km
+Benzin
+Vorderradantrieb
+schwarz
+100 PS
+ZH
+Merken
+FORD
+Focus Coupé-Cabrio 1.6i 16V Ambie...
+09.2010
+100 PS
+71'000 km
+CHF 8'700
+Merken
+ab CHF 98/Monat
+FORD
+MUSTANG GT
+CHF 27'000
+ab CHF 290/Monat
+12.2012
+Handschaltung
+140'000 km
+Benzin
+Hinterradantrieb
+weiss
+452 PS
+TG
+Merken
+FORD
+MUSTANG GT
+12.2012
+452 PS
+140'000 km
+CHF 27'000
+Merken
+ab CHF 290/Monat
+FORD
+Kuga 2.0 TDCi 163 Individual FPS
+CHF 12'200
+ab CHF 132/Monat
+03.2012
+Automat
+117'600 km
+Diesel
+Allradantrieb
+schwarz
+163 PS
+ZH
+Merken
+FORD
+Kuga 2.0 TDCi 163 Individual FPS
+03.2012
+163 PS
+117'600 km
+CHF 12'200
+Merken
+ab CHF 132/Monat
+FORD
+Mustang Convertible 2.3 EcoBoost
+CHF 49'000
+ab CHF 527/Monat
+06.2020
+Automat
+11'000 km
+Benzin
+Hinterradantrieb
+schwarz
+270 PS
+AG
+Merken
+FORD
+Mustang Convertible 2.3 EcoBoost
+06.2020
+270 PS
+11'000 km
+CHF 49'000
+Merken
+ab CHF 527/Monat
+FORD
 C-Max 2.0 177 Energi
 CHF 20'800
 ab CHF 224/Monat
@@ -174,50 +365,6 @@ C-Max 2.0 177 Energi
 CHF 20'800
 Merken
 ab CHF 224/Monat
-NEU
-FORD
-FOCUS 1.5 SCTi ST Line 182HP
-CHF 27'400
-ab CHF 323/Monat
-06.2020
-Automat
-6'000 km
-Benzin
-Vorderradantrieb
-grau
-182 PS
-ZH
-Merken
-FORD
-FOCUS 1.5 SCTi ST Line 182HP
-06.2020
-182 PS
-6'000 km
-CHF 27'400
-Merken
-ab CHF 323/Monat
-NEU
-FORD
-Puma 1.0 MHEV ST-Line X
-CHF 24'700
-ab CHF 291/Monat
-01.2021
-Handschaltung
-10 km
-Mild-Hybrid Benzin/Elektro
-Vorderradantrieb
-grau
-125 PS
-ZH
-Merken
-FORD
-Puma 1.0 MHEV ST-Line X
-01.2021
-125 PS
-10 km
-CHF 24'700
-Merken
-ab CHF 291/Monat
 FORD
 Mustang Coupé 5.0 V8 GT Black Shadow Ed.
 CHF 37'500
@@ -239,27 +386,6 @@ Mustang Coupé 5.0 V8 GT Black Sha...
 CHF 37'500
 Merken
 ab CHF 403/Monat
-FORD
-Fiesta 1.5 EcoB ST
-CHF 23'500
-ab CHF 253/Monat
-11.2019
-Handschaltung
-7'996 km
-Benzin
-Vorderradantrieb
-rot
-200 PS
-ZH
-Merken
-FORD
-Fiesta 1.5 EcoB ST
-11.2019
-200 PS
-7'996 km
-CHF 23'500
-Merken
-ab CHF 253/Monat
 FORD
 Mustang(Cabriolet)
 CHF 51'900
@@ -303,48 +429,6 @@ CHF 20'000
 Merken
 ab CHF 215/Monat
 FORD
-Mustang Coupé 5.0 V8 GT Premium
-CHF 39'680
-ab CHF 427/Monat
-01.2012
-Handschaltung
-23'605 km
-Benzin
-Hinterradantrieb
-schwarz
-417 PS
-AG
-Merken
-FORD
-Mustang Coupé 5.0 V8 GT Premium
-01.2012
-417 PS
-23'605 km
-CHF 39'680
-Merken
-ab CHF 427/Monat
-FORD
-Focus 2.0 TDCi ST-3
-CHF 20'600
-ab CHF 222/Monat
-04.2016
-Automat
-73'256 km
-Diesel
-Vorderradantrieb
-grau
-185 PS
-TG
-Merken
-FORD
-Focus 2.0 TDCi ST-3
-04.2016
-185 PS
-73'256 km
-CHF 20'600
-Merken
-ab CHF 222/Monat
-FORD
 Tourneo Custom 310 L2H1 Titanium (Bus)
 CHF 36'900
 ab CHF 397/Monat
@@ -366,110 +450,26 @@ CHF 36'900
 Merken
 ab CHF 397/Monat
 FORD
-Focus 2.3 EcoB RS+ Race Red Edition
-CHF 41'000
-ab CHF 441/Monat
-07.2018
+Ranger Wildtrak 3.2 TDCi 4x4
+CHF 29'000
+ab CHF 312/Monat
+12.2016
 Handschaltung
-19'000 km
-Benzin
-Allradantrieb
-rot
-350 PS
-FR
-Merken
-FORD
-Focus 2.3 EcoB RS+ Race Red Editi...
-07.2018
-350 PS
-19'000 km
-CHF 41'000
-Merken
-ab CHF 441/Monat
-FORD
-Mondeo Station Wagon 2.0 TDCi 210 Titanium
-CHF 13'900
-ab CHF 150/Monat
-08.2016
-Automat
-105'000 km
+97'000 km
 Diesel
-Vorderradantrieb
+Allradantrieb
 schwarz
-210 PS
-AG
+200 PS
+BE
 Merken
 FORD
-Mondeo Station Wagon 2.0 TDCi 210...
-08.2016
-210 PS
-105'000 km
-CHF 13'900
+Ranger Wildtrak 3.2 TDCi 4x4
+12.2016
+200 PS
+97'000 km
+CHF 29'000
 Merken
-ab CHF 150/Monat
-FORD
-C-Max 1.6i EB SCTi 150 Carving S/S
-CHF 10'000
-ab CHF 113/Monat
-07.2012
-Handschaltung
-120'000 km
-Benzin
-Vorderradantrieb
-weiss
-150 PS
-FR
-Merken
-FORD
-C-Max 1.6i EB SCTi 150 Carving S/...
-07.2012
-150 PS
-120'000 km
-CHF 10'000
-Merken
-ab CHF 113/Monat
-FORD
-Mustang 3.8 Cabriolet
-CHF 6'500
-ab CHF 74/Monat
-05.1995
-Automat
-130'000 km
-Benzin
-Hinterradantrieb
-blau
-140 PS
-TG
-Merken
-FORD
-Mustang 3.8 Cabriolet
-05.1995
-140 PS
-130'000 km
-CHF 6'500
-Merken
-ab CHF 74/Monat
-FORD
-Grand C-Max 1.6i EB SCTi 150 Carving S/S
-CHF 11'900
-ab CHF 134/Monat
-11.2012
-Handschaltung
-50'100 km
-Benzin
-Vorderradantrieb
-blau
-150 PS
-SO
-Merken
-FORD
-Grand C-Max 1.6i EB SCTi 150 Carv...
-11.2012
-150 PS
-50'100 km
-CHF 11'900
-Merken
-ab CHF 134/Monat
+ab CHF 312/Monat
 1
 1
 2
@@ -491,6 +491,7 @@ Die Marke heute – Lebensfreude und Fahrspass als Motto
 Wie die meisten marktführenden Automobilhersteller, so musste auch Ford Absatzschwankungen ausgleichen. Dies ist dem Unternehmen gelungen, indem sich Marktangebote von USA nach Europa, von Deutschland nach Asien und ähnlich verschoben. Hinsichtlich der Vielzahl von Neuentwicklungen setzt Ford auf optische Designveränderungen, sofern sich ein Modell wie der Ford FOCUS oder das „Schwestermodell“ Focus RS als kundentauglich erweist. Eine weitere Strategie ist es, die bereits vorhandenen Modelle um Ausstattungsmerkmale, bessere Motoren und innovative Bedienbarkeit aufzurüsten. Assistenzsysteme, unterhaltsame und strassensichere Bordelektronik sowie besserer Insassenkomfort gehören aktuell zur Standardausstattung fast aller Modelle. Mit individueller Sonderausstattung können die kleinsten und grössten PKWs und Nutzfahrzeuge von den Kunden ihren Bedürfnissen optimal angepasst werden.
 FORD Modellübersicht
 FORD B-MAX
+FORD BRONCO
 FORD C-MAX
 FORD CAPRI
 FORD ECOSPORT
@@ -505,17 +506,19 @@ FORD FOCUS
 FORD FUSION
 FORD GALAXY
 FORD Grand C-MAX
-FORD GT
 FORD KA
 FORD KUGA
+FORD MAVERICK
 FORD MONDEO
 FORD MUSTANG
+FORD MUSTANG MACH-E
 FORD PUMA
 FORD RANGER
 FORD S-MAX
 FORD SIERRA
 FORD STREETKA
 FORD Taunus
+FORD TAURUS
 FORD THUNDERBIRD
 FORD TOURNEO
 FORD TOURNEO CONNECT

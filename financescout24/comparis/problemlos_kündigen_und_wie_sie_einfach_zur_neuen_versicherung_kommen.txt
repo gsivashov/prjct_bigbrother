@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/versicherung/kuendigen
 Title: Versicherung kündigen – kostenlose Vorlagen
 Description: Verpassen Sie keine Kündigungsfrist mehr und sparen Sie Zeit mit kostenlosen Mustern für Kündigungsschreiben. Von Autoversicherung bis Krankenkasse-Zusatzversicherung finden Sie wertvolle Tipps, Prämienrechner und Vorlagen, damit Sie optimal versichert bleiben und Prämien sparen können.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr

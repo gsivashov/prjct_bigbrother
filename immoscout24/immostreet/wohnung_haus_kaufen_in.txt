@@ -149,389 +149,362 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Sum il Vitg
-275'000
+Bergstrasse
+340'000
 CHF
-Wohnhaushälfte im Herzen von Trun
-Sum il Vitg, 7166 Trun
+Ferienwohnung direkt an der Skipiste
+Bergstrasse, 8897 Flumserberg Tannenheim
 Array
-5.5 Zimmer
-158 m2
+2 Zimmer
+65 m2
 Objekttyp
-Wohnung, Doppeleinfamilienhaus
+Wohnung, Flach
 Zimmer
-5.5
+2
 Wohnfläche
-158 m2
+65 m2
 Etage
-Raumaufteilung
-Der Eingang befindet sich seitlich (rechts) vom Haus. Durch den Zaun gelangen Sie r…
+Wohnen wie im Hotel. 2 Zimmer Wohnung mit Sicht auf die Skipiste.Bad mit Dusche, 2 Balkone, einer d…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-907'000
+750'000
 CHF
-Nouvelle promotion de deux superbes vil…
-Adresse auf Anfrage, 1489 Murist
-Array
-5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-5
-Wohnfläche
-160 m2
-Etage
-Permis en force!Nouvelle promotion Route de la Vounaise à Estavayer, projet d'un ensemble de 2 vill…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Landstrasse 18
-1'345'000
-CHF
-Einfamilienhaussiedlung SUNNWIESLI in A…
-Landstrasse 18, 8450 Andelfingen
-Array
-4.5 Zimmer
-161 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-161 m2
-Etage
-Mit der Einfamilienhaussiedlung SUNNWIESLI entstehen per Herbst 2022 an zentraler, leicht erhöhter …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Landstrasse 18
-1'285'000
-CHF
-Einfamilienhaussiedlung SUNNWIESLI in A…
-Landstrasse 18, 8450 Andelfingen
-Array
-3.5 Zimmer
-133 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-3.5
-Wohnfläche
-133 m2
-Etage
-Mit der Einfamilienhaussiedlung SUNNWIESLI entstehen per Herbst 2022 an zentraler, leicht erhöhter …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'120'000
-CHF
-Bella villetta indipendente a Bedano
-Adresse auf Anfrage, 6930 Bedano
-Array
-4.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-130 m2
-Etage
-Vendiamo a Bedano, in quartiere residenziale, bella villetta monofamiliare indipendente 4.5 locali,…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-370'000
-CHF
-Appartamento di 2.5 locali con vista pa…
-Adresse auf Anfrage, 6500 Bellinzona
+ELEGANTE 2.5 LOCALI IN ZONA CENTRALE A …
+Adresse auf Anfrage, 6900 Massagno
 Array
 2.5 Zimmer
-62 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
-Wohnfläche
-62 m2
-Vendiamo a Bellinzona città, in zona tranquilla, verde e pianeggiante (Via Vallone a Pratocarasso) …
+Elegante e spazioso 2.5 locali alto standing di ca. 70 mq lordi, ubicato al 5Â° piano attico di una…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'200'000
+990'000
 CHF
-Grande casa Minergie-P con giardino e P…
-Adresse auf Anfrage, 6997 Sessa
+MODERNA VILLA 5.5 LOCALI CON PANORAMICA…
+Adresse auf Anfrage, 6821 Rovio
 Array
 5.5 Zimmer
-234 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
 5.5
-Wohnfläche
-234 m2
-Etage
-Vendiamo a Sessa, nel medio Malcantone, in un contesto tranquillo e di campagna, grande casa di rec…
+Bellissima e moderna villa di 5.5 locali e ca. 182 mq lordi distribuiti su due livelli, con terrazz…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Strada di Prato 27
-515'000
+Adresse auf Anfrage
+500'000
 CHF
-Casa/Chalet unifamiliare immerso nel ve…
-Strada di Prato 27, 6773 Prato (Leventina)
+SPLENDIDA MANSARDA 3.5 LOCALI IN NUOVA …
+Adresse auf Anfrage, 6862 Rancate
 Array
-5.5 Zimmer
-148 m2
+3.5 Zimmer
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Flach
 Zimmer
-5.5
-Wohnfläche
-148 m2
-Etage
-A Mascengo, frazione del comune di Prato Leventina, in un oasi di tranquillità e circondato dal ver…
+3.5
+In contesto residenziale di sole 6 unitÃ  da poco realizzato nel pieno rispetto di tutte le normati…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Landstrasse 18
-1'365'000
-CHF
-Einfamilienhaussiedlung SUNNWIESLI in A…
-Landstrasse 18, 8450 Andelfingen
-Array
-4.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-150 m2
-Etage
-Mit der Einfamilienhaussiedlung SUNNWIESLI entstehen per Herbst 2022 an zentraler, leicht erhöhter …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Landstrasse 18
-1'375'000
-CHF
-Einfamilienhaussiedlung SUNNWIESLI in A…
-Landstrasse 18, 8450 Andelfingen
-Array
-4.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-150 m2
-Etage
-Mit der Einfamilienhaussiedlung SUNNWIESLI entstehen per Herbst 2022 an zentraler, leicht erhöhter …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Landstrasse 18
-1'485'000
-CHF
-Einfamilienhaussiedlung SUNNWIESLI in A…
-Landstrasse 18, 8450 Andelfingen
-Array
-4.5 Zimmer
-150 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-150 m2
-Etage
-Mit der Einfamilienhaussiedlung SUNNWIESLI entstehen per Herbst 2022 an zentraler, leicht erhöhter …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Via delle scuole
-1'150'000
-CHF
-Grande casa di 5.5 locali a Figino
-Via delle scuole, 6918 Figino
-Array
-5.5 Zimmer
-211 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-211 m2
-Vendiamo a Figino (Lugano-Barbengo), in zona residenziale tranquilla, vicina al lago e scuole, gran…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Augartenstrasse 18A
-Preis auf Anfrage
-6-Zi Einfamilienhaus mit 2 Garagen und …
-Augartenstrasse 18A, 9204 Andwil SG
-Array
-6 Zimmer
-155 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6
-Wohnfläche
-155 m2
-Etage
-6-Zimmer-Einfamilienhaus südlich des Siedlungskerns, nahe des Siedlungsrands mit guter Besonnung un…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schönaustrasse 47
+Adresse auf Anfrage
 510'000
 CHF
-Wohnen mitten in Wettingen
-Schönaustrasse 47, 5430 Wettingen
+ELEGANTE APPARTAMENTO 3.5 LOCALI IN COR…
+Adresse auf Anfrage, 6855 Stabio
 Array
 3.5 Zimmer
-65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Appartamento da circa 86 mq con portico di 7 mq ca. ubicato al primo piano in una palazzina di 8 ap…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+405'000
+CHF
+APPARTAMENTO 3.5 LOCALI A REDDITO A TAV…
+Adresse auf Anfrage, 6807 Taverne
+Array
+3.5 Zimmer
+74 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-65 m2
-Etage
-Die 3.5-Zimmer-Eigentumswohnung befindet sich an sonniger und ruhiger Wohnlage im sehr beliebten Al…
+74 m2
+Appartamento a reddito di 3.5 locali per ca. 80 mq complessivi con terrazza di ca 8 mq, situato al …
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-Preis auf Anfrage
-Projektierter Loft-Bau im Grünen - Idea…
-Adresse auf Anfrage, 4245 Kleinlützel
-Array
-Objekttyp
-Wohnung, Einzelhaus
-In Kleinlützel (Petit-Lucelle) entsteht für Sie ein attraktives Loft Home. Entfliehen Sie der Stadt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Via Sursilvana
-470'000
+1'215'000
 CHF
-Die heimelige 5.5 Zimmerwohnung mitten …
-Via Sursilvana, 7175 Sumvitg
-Array
-5.5 Zimmer
-180 m2
-Objekttyp
-Wohnung, Duplex, Maisonette
-Zimmer
-5.5
-Wohnfläche
-180 m2
-Etage
-Objektbeschreibung
-Die zum Verkauf stehende Eigentumswohnung befindet sich im Zweifamilienhaus «Ca…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rue de l'Ancien-Comté 16
-345'000
-CHF
-Appartement de 3.5 pces avec 2 balcons …
-Rue de l'Ancien-Comté 16, 1635 La Tour-de-Trême
-Array
-3.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-65 m2
-Au 2ème étage d'immeuble avec ascenseur rénové en 2020, appartement 3.5 pces (65 m2) composé :- d'u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-MEDITERRANE VILLA - PROVENCE IM SEELAND
-Adresse auf Anfrage, 3232 Ins
-Array
-8.5 Zimmer
-450 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-8.5
-Wohnfläche
-450 m2
-Die Villa liegt an bevorzugter Hanglage in einem ruhigen Einfamilienhausquartier mit uneingeschränk…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'345'000
-CHF
-Superbe attique de 4.5 pièces ! Panoram…
-Adresse auf Anfrage, 1820 Veytaux
+AMPIO DUPLEX 4.5 LOCALI CON VISTA LAGO …
+Adresse auf Anfrage, 6935 Bosco Luganese
 Array
 4.5 Zimmer
-140 m2
+164 m2
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-140 m2
-Etage
-Situé au cur du village de Veytaux, à quelques pas du Château de Chillon, ce bel appartement de 4.5…
+164 m2
+Ampio e moderno appartamento duplex di 4.5 locali per ca. 180 mq lordi, con giardino privato e tre …
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-535'000
+880'000
 CHF
-BEL APPARTEMENT TRAVERSANT DE 3,5 PCES …
-Adresse auf Anfrage, 1880 Bex
+MODERNO 4.5 LOCALI CON TERRAZZA DI 40 M…
+Adresse auf Anfrage, 6826 Riva San Vitale
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+110 m2
+- CLICCA IL LINK QUI SOTTO PER FARE UNA VISITA VIRTUALE ALLA PROPRIETÃ€! -https://youtu.be/qI3th0q8…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+840'000
+CHF
+AMPIO 4.5 LOCALI CON 2 TERRAZZE A LUGAN…
+Adresse auf Anfrage, 6963 Pregassona
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+110 m2
+- CLICCA IL LINK QUI SOTTO PER FARE UNA VISITA VIRTUALE ALLA PROPRIETÃ€! -https://youtu.be/vEJRFyy_…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+270'000
+CHF
+BELLISSIMO MONOLOCALE AL QUARTO PIANO A…
+Adresse auf Anfrage, 6900 Paradiso
+Array
+1.5 Zimmer
+33 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+33 m2
+- CLICCA IL LINK QUI SOTTO PER FARE UNA VISITA VIRTUALE ALLA PROPRIETÃ€! -https://youtu.be/XKaw20XJ…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+690'000
+CHF
+3.5 LOCALI IN STABILE DI PREGIO A PARAD…
+Adresse auf Anfrage, 6900 Paradiso
 Array
 3.5 Zimmer
-83 m2
+78 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-83 m2
-Ce charmant appartement traversant de 3,5 pièces est le cocon idéal pour les amoureux de la nature,…
+78 m2
+- CLICCA IL LINK QUI SOTTO PER FARE UNA VISITA VIRTUALE ALLA PROPRIETÃ€! -https://youtu.be/Eoj5kFcb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+999'999
+CHF
+CASA BIFAMILIARE CON TERRENO EDIFICABIL…
+Adresse auf Anfrage, 6989 Purasca
+Array
+7.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+7.5
+- VERO AFFARE! -Casa bifamigliare composta da due appartamenti di 3.5 e 4.5 locali per ca. 200 mq c…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+820'000
+CHF
+APPARTAMENTO 3.5 LOCALI IN ZONA CENTRAL…
+Adresse auf Anfrage, 6900 Lugano
+Array
+3.5 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+86 m2
+- CLICCA IL LINK QUI SOTTO PER FARE UNA VISITA VIRTUALE ALLA PROPRIETÃ€! -https://youtu.be/CfdoXDuk…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+795'000
+CHF
+GRANDE APPARTAMENTO 4.5 LOCALI CON GIAR…
+Adresse auf Anfrage, 6932 Breganzona
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
+- CLICCA IL LINK QUI SOTTO PER FARE UNA VISITA VIRTUALE ALLA PROPRIETÃ€! -https://youtu.be/2PeIYNl0…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'450'000
+CHF
+APPARTAMENTO 4.5 LOCALI CON MERAVIGLIOS…
+Adresse auf Anfrage, 6815 Melide
+Array
+4.5 Zimmer
+97 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+97 m2
+Splendido ed ampio appartamento 4.5 locali di 118 mq ca., con terrazza di 18 mq ca. e stupenda vist…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+550'000
+CHF
+LUMINOSO 3.5 LOCALI RISTRUTTURATO IN CE…
+Adresse auf Anfrage, 6900 Lugano
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+Ampio appartamento 3.5 locali di ca. 92 mq lordi, completamente ristrutturato di recente e completa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+850'000
+CHF
+ACCOGLIENTE CASA 4.5 LOCALI CON GIARDIN…
+Adresse auf Anfrage, 6850 Mendrisio
+Array
+4.5 Zimmer
+155 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+155 m2
+- CLICCA IL LINK QUI SOTTO PER FARE UNA VISITA VIRTUALE ALLA PROPRIETÃ€! -https://youtu.be/s094VJiQ…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'070'000
+CHF
+APPARTAMENTO 5.5 LOCALI CON VISTA LAGO …
+Adresse auf Anfrage, 6827 Brusino Arsizio
+Array
+5.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+- CLICCA IL LINK QUI SOTTO PER FARE UNA VISITA VIRTUALE ALLA PROPRIETÃ€! -https://youtu.be/IX51XeLd…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+515'000
+CHF
+LUMINOSO 3.5 LOCALI AL 10Â° PIANO CON B…
+Adresse auf Anfrage, 6912 Pazzallo
+Array
+3.5 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+78 m2
+- CLICCA IL LINK QUI SOTTO PER FARE UNA VISITA VIRTUALE ALLA PROPRIETÃ€! -https://youtu.be/EBK4at6X…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+355'000
+CHF
+LUMINOSO 3.5 LOCALI CON TERRAZZA DA RIN…
+Adresse auf Anfrage, 6593 Cadenazzo
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Luminoso appartamento 3.5 locali di ca. 83 mq lordi, con balcone e stupenda vista aperta sulle mont…
 Teilen
 E-Mail
 Facebook

@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marke/tata
 Title: Tata Modelle - Preise vergleichen mit comparis.ch
 Description: Alle Tata Modelle der grössten Schweizer Auto-Portale in der Übersicht. Vergleichen Sie mit Comparis die Preise und finden Sie Ihr Traumauto.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -149,21 +147,11 @@ Tata Automarkt Schweiz
 3 Occasionen
 0 Neuwagen
 0 Vorführwagen
-Tata Indica - 1 Inserat im Automarkt - Ab CHF 1'800
+Tata Indica - 1 Inserat im Automarkt - Ab CHF 1'100
 Tata Pick
 Up - 0 Inserate im Automarkt - Ab CHF 0
 Tata Safari - 1 Inserat im Automarkt - Ab CHF 3'000
 Tata Modelle
-Tata Indica - 1 Inserat anzeigen
-TATA INDICA
-Occasion
-02.2011
-137'000 km
-Mehr
-5.0
-CHF
-1'800
-10.03.2021
 comparis.ch
 Über Comparis
 Medien

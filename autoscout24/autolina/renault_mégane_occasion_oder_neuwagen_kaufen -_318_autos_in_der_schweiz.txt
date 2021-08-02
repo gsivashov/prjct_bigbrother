@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -101,7 +101,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -154,196 +154,289 @@ TI
 WIR-ANTEIL
 318 Treffer
 Suche zurücksetzen
-NEU
 RENAULT
-Mégane Coupé 2.0 16V Turbo RS
-CHF 14'990
-ab CHF 161/Monat
-09.2011
+Mégane Coupé 2.0 TCe GT
+CHF 7'200
+ab CHF 82/Monat
+06.2011
 Handschaltung
-50'000 km
+160'000 km
 Benzin
 Vorderradantrieb
-schwarz
-250 PS
-ZH
+weiss
+180 PS
+VS
 Merken
 RENAULT
-Mégane Coupé 2.0 16V Turbo RS
-09.2011
-250 PS
-50'000 km
-CHF 14'990
+Mégane Coupé 2.0 TCe GT
+06.2011
+180 PS
+160'000 km
+CHF 7'200
 Merken
-ab CHF 161/Monat
+ab CHF 82/Monat
 NEU
 RENAULT
-Mégane 1.2 16V Turbo 90th Anniversary EDC
-CHF 16'990
-ab CHF 183/Monat
-04.2018
-Automat
-46'400 km
-Benzin
-Vorderradantrieb
-silber
-131 PS
-ZH
-Merken
-RENAULT
-Mégane 1.2 16V Turbo 90th Anniver...
-04.2018
-131 PS
-46'400 km
-CHF 16'990
-Merken
-ab CHF 183/Monat
-NEU
-RENAULT
-Mégane 1.3 16V Turbo Zen
-CHF 17'900
-ab CHF 193/Monat
-05.2019
-Handschaltung
-24'200 km
-Benzin
-Vorderradantrieb
-silber
-140 PS
-ZH
-Merken
-RENAULT
-Mégane 1.3 16V Turbo Zen
-05.2019
-140 PS
-24'200 km
-CHF 17'900
-Merken
-ab CHF 193/Monat
-NEU
-RENAULT
-Mégane Coupé Sport 2.0 Turbo RS
-CHF 22'800
-ab CHF 245/Monat
-04.2015
-Handschaltung
-17'000 km
-Benzin
-Vorderradantrieb
-schwarz
-265 PS
-SG
-Merken
-RENAULT
-Mégane Coupé Sport 2.0 Turbo RS
-04.2015
-265 PS
-17'000 km
-CHF 22'800
-Merken
-ab CHF 245/Monat
-NEU
-RENAULT
-Mégane 1.6 16V Turbo 90th Anniversary EDC
-CHF 19'900
-ab CHF 214/Monat
-05.2018
-Automat
-49'206 km
-Benzin
-Vorderradantrieb
-schwarz
-165 PS
-VD
-Merken
-RENAULT
-Mégane 1.6 16V Turbo 90th Anniver...
-05.2018
-165 PS
-49'206 km
-CHF 19'900
-Merken
-ab CHF 214/Monat
-NEU
-RENAULT
-Mégane Grandtour 1.3 16V Turbo GT Line
-CHF 19'500
-ab CHF 210/Monat
-06.2019
-Handschaltung
-24'000 km
-Benzin
-Vorderradantrieb
-schwarz
-140 PS
-LU
-Merken
-RENAULT
-Mégane Grandtour 1.3 16V Turbo GT...
-06.2019
-140 PS
-24'000 km
-CHF 19'500
-Merken
-ab CHF 210/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-RENAULT
-Mégane Grandtour 1.6 E-Tech R.S. Line
-CHF 39'490
-ab CHF 425/Monat
-11.2020
-Automat
-4'000 km
-Plug-in-Hybrid Benzin/Elektro
-Vorderradantrieb
-blau
-160 PS
-LU
-Merken
-RENAULT
-Mégane Grandtour 1.6 E-Tech R.S. ...
-11.2020
-160 PS
-4'000 km
-CHF 39'490
-Merken
-ab CHF 425/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-NEU
-RENAULT
-MÉGANE Cabrio 2.0 16V Leder Temp. Dyn.Conf
-CHF 5'889
-05.2006
-Handschaltung
-96'001 km
-Benzin
-Vorderradantrieb
-schwarz
-135 PS
-AG
-Merken
-RENAULT
-MÉGANE Cabrio 2.0 16V Leder Temp....
-05.2006
-135 PS
-96'001 km
-CHF 5'889
-Merken
-NEU
-RENAULT
-Mégane Grandtour 1.6 16V Turbo GT EDC
-CHF 17'900
-ab CHF 193/Monat
+Mégane 1.5 dCi Bose EDC
+CHF 14'900
+ab CHF 176/Monat
 01.2017
 Automat
 78'000 km
+Diesel
+Vorderradantrieb
+rot
+110 PS
+AG
+Merken
+RENAULT
+Mégane 1.5 dCi Bose EDC
+01.2017
+110 PS
+78'000 km
+CHF 14'900
+Merken
+ab CHF 176/Monat
+RENAULT
+Mégane 1.3 TCe 160 Edition One EDC
+CHF 33'750
+ab CHF 363/Monat
+03.2021
+Automat
+42 km
+Benzin
+Vorderradantrieb
+grau
+159 PS
+BL
+Merken
+RENAULT
+Mégane 1.3 TCe 160 Edition One ED...
+03.2021
+159 PS
+42 km
+CHF 33'750
+Merken
+ab CHF 363/Monat
+RENAULT
+Mégane 1.5 dCi Bose EDC
+CHF 10'900
+ab CHF 123/Monat
+03.2016
+Automat
+157'300 km
+Diesel
+Vorderradantrieb
+blau
+110 PS
+ZH
+Merken
+RENAULT
+Mégane 1.5 dCi Bose EDC
+03.2016
+110 PS
+157'300 km
+CHF 10'900
+Merken
+ab CHF 123/Monat
+RENAULT
+Mégane RS 280 EDC
+CHF 35'900
+ab CHF 386/Monat
+09.2020
+Automat
+15'000 km
+Benzin
+Vorderradantrieb
+pink
+280 PS
+VD
+Merken
+RENAULT
+Mégane RS 280 EDC
+09.2020
+280 PS
+15'000 km
+CHF 35'900
+Merken
+ab CHF 386/Monat
+RENAULT
+Mégane 1.5 dCi Dynamique S/S
+CHF 5'900
+05.2012
+Handschaltung
+144'000 km
+Diesel
+Vorderradantrieb
+blau
+110 PS
+SG
+Merken
+RENAULT
+Mégane 1.5 dCi Dynamique S/S
+05.2012
+110 PS
+144'000 km
+CHF 5'900
+Merken
+RENAULT
+Mégane 1.6 16V T GT Line
+CHF 19'790
+ab CHF 213/Monat
+03.2018
+Automat
+25'900 km
+Benzin
+Vorderradantrieb
+blau
+165 PS
+GE
+Merken
+RENAULT
+Mégane 1.6 16V T GT Line
+03.2018
+165 PS
+25'900 km
+CHF 19'790
+Merken
+ab CHF 213/Monat
+RENAULT
+Mégane GrT 1.6 E-Tech Plug-in Ed.One
+CHF 34'900
+ab CHF 375/Monat
+11.2020
+Automat
+5'500 km
+Plug-in-Hybrid Benzin/Elektro
+Vorderradantrieb
+grau
+91 PS
+OW
+Merken
+RENAULT
+Mégane GrT 1.6 E-Tech Plug-in Ed....
+11.2020
+91 PS
+5'500 km
+CHF 34'900
+Merken
+ab CHF 375/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+RENAULT
+Mégane 1.6 TCe 205 GT EDC
+CHF 19'900
+ab CHF 214/Monat
+12.2017
+Automat
+58'344 km
+Benzin
+Vorderradantrieb
+blau
+205 PS
+ZH
+Merken
+RENAULT
+Mégane 1.6 TCe 205 GT EDC
+12.2017
+205 PS
+58'344 km
+CHF 19'900
+Merken
+ab CHF 214/Monat
+RENAULT
+Mégane Coupé 2.0 16V Turbo RS Trophy
+CHF 19'900
+ab CHF 214/Monat
+05.2015
+Handschaltung
+94'637 km
+Benzin
+Vorderradantrieb
+weiss
+273 PS
+VD
+Merken
+RENAULT
+Mégane Coupé 2.0 16V Turbo RS Tro...
+05.2015
+273 PS
+94'637 km
+CHF 19'900
+Merken
+ab CHF 214/Monat
+RENAULT
+Mégane 1.2 16V Turbo Life
+CHF 9'900
+ab CHF 112/Monat
+09.2016
+Handschaltung
+117'100 km
+Benzin
+Vorderradantrieb
+weiss
+100 PS
+GR
+Merken
+RENAULT
+Mégane 1.2 16V Turbo Life
+09.2016
+100 PS
+117'100 km
+CHF 9'900
+Merken
+ab CHF 112/Monat
+RENAULT
+Mégane 1.6 16V Turbo GT EDC
+CHF 18'700
+ab CHF 201/Monat
+01.2017
+Automat
+59'300 km
+Benzin
+Vorderradantrieb
+schwarz
+205 PS
+AG
+Merken
+RENAULT
+Mégane 1.6 16V Turbo GT EDC
+01.2017
+205 PS
+59'300 km
+CHF 18'700
+Merken
+ab CHF 201/Monat
+RENAULT
+Mégane RS 280 EDC
+CHF 28'900
+ab CHF 311/Monat
+05.2018
+Automat
+46'150 km
+Benzin
+Vorderradantrieb
+grau
+280 PS
+FR
+Merken
+RENAULT
+Mégane RS 280 EDC
+05.2018
+280 PS
+46'150 km
+CHF 28'900
+Merken
+ab CHF 311/Monat
+RENAULT
+Mégane Grandtour 1.6 16V Turbo GT EDC
+CHF 19'800
+ab CHF 213/Monat
+12.2017
+Automat
+46'000 km
 Benzin
 Vorderradantrieb
 blau
@@ -352,142 +445,33 @@ ZH
 Merken
 RENAULT
 Mégane Grandtour 1.6 16V Turbo GT...
-01.2017
+12.2017
 205 PS
-78'000 km
-CHF 17'900
+46'000 km
+CHF 19'800
 Merken
-ab CHF 193/Monat
-NEU
+ab CHF 213/Monat
 RENAULT
-Mégane 1.3 16V Turbo Intens EDC
-CHF 24'990
-ab CHF 269/Monat
-11.2019
-Automat
-8'700 km
-Benzin
-Vorderradantrieb
-schwarz
-160 PS
-ZH
-Merken
-RENAULT
-Mégane 1.3 16V Turbo Intens EDC
-11.2019
-160 PS
-8'700 km
-CHF 24'990
-Merken
-ab CHF 269/Monat
-NEU
-RENAULT
-Mégane 1.3 16V Turbo GT Line EDC
-CHF 22'900
-ab CHF 246/Monat
-03.2019
-Automat
-15'500 km
-Benzin
-Vorderradantrieb
-schwarz
-140 PS
-ZH
-Merken
-RENAULT
-Mégane 1.3 16V Turbo GT Line EDC
-03.2019
-140 PS
-15'500 km
-CHF 22'900
-Merken
-ab CHF 246/Monat
-NEU
-RENAULT
-Mégane 1.2 16V Turbo Bose
-CHF 15'000
-ab CHF 162/Monat
-07.2016
+Mégane Grandtour 1.2 16V Turbo Zen
+CHF 13'990
+ab CHF 151/Monat
+05.2017
 Handschaltung
-48'850 km
+65'103 km
 Benzin
 Vorderradantrieb
-silber
-131 PS
-AG
-Merken
-RENAULT
-Mégane 1.2 16V Turbo Bose
-07.2016
-131 PS
-48'850 km
-CHF 15'000
-Merken
-ab CHF 162/Monat
-NEU
-RENAULT
-Mégane GrT 1.6 E-Tech Plug-in Ed.One
-CHF 40'950
-ab CHF 440/Monat
--
-Automat
-0 km
-Plug-in-Hybrid Benzin/Elektro
-Vorderradantrieb
 schwarz
-91 PS
+131 PS
 ZH
 Merken
 RENAULT
-Mégane GrT 1.6 E-Tech Plug-in Ed....
--
-91 PS
-0 km
-CHF 40'950
-Merken
-ab CHF 440/Monat
-RENAULT
-Mégane 1.2 16V T Zen
-CHF 16'950
-ab CHF 183/Monat
-07.2018
-Automat
-44'500 km
-Benzin
-Vorderradantrieb
-blau
+Mégane Grandtour 1.2 16V Turbo Ze...
+05.2017
 131 PS
-AG
+65'103 km
+CHF 13'990
 Merken
-RENAULT
-Mégane 1.2 16V T Zen
-07.2018
-131 PS
-44'500 km
-CHF 16'950
-Merken
-ab CHF 183/Monat
-RENAULT
-Mégane 1.2 16V T Bose
-CHF 10'900
-ab CHF 123/Monat
-07.2015
-Handschaltung
-71'500 km
-Benzin
-Vorderradantrieb
-silber
-131 PS
-BL
-Merken
-RENAULT
-Mégane 1.2 16V T Bose
-07.2015
-131 PS
-71'500 km
-CHF 10'900
-Merken
-ab CHF 123/Monat
+ab CHF 151/Monat
 1
 1
 2

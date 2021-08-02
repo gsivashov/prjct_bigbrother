@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marktplatz/tvr/occasion
 Title: TVR Occasion – Preise vergleichen mit Comparis
 Description: Finden Sie unter 7 TVR Occasion Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -605,7 +603,9 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 38'900
 ab CHF 710 / Monat
+Preisreduktion
 TVR Cerbera V8 4.5
+4.0
 04.03.2021
 Occasion
 08.2004, Manuell, Benzin
@@ -613,8 +613,8 @@ Occasion
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 59'800
-ab CHF 1'092 / Monat
+CHF 57'900
+ab CHF 1'057 / Monat
 TVR S-Serie
 01.03.2021
 Occasion
@@ -637,7 +637,6 @@ CHF 49'900
 ab CHF 911 / Monat
 Preisreduktion
 TVR CHIMAERA 4.0 RHD
-5.5
 05.07.2019
 Occasion
 03.1997, Schaltgetriebe, Benzin

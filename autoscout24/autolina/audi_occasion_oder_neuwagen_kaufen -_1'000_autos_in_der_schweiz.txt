@@ -81,7 +81,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -99,7 +99,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -154,320 +154,322 @@ WIR-ANTEIL
 Suche zurücksetzen
 NEU
 AUDI
-Q2 30 TFSI S-Tronic S-Line NAV LED PDC RFK
-CHF 28'700
-ab CHF 338/Monat
-01.2021
+Q2 1.4 TFSI S-Tronic
+CHF 25'000
+ab CHF 269/Monat
+07.2017
 Automat
-10 km
+45'000 km
 Benzin
 Vorderradantrieb
-weiss
-115 PS
-ZH
-Merken
-AUDI
-Q2 30 TFSI S-Tronic S-Line NAV LE...
-01.2021
-115 PS
-10 km
-CHF 28'700
-Merken
-ab CHF 338/Monat
-AUDI
-RS6 Avant 5.0 V10 TFSI quattro T-Tronic
-CHF 30'000
-ab CHF 323/Monat
-03.2010
-Automat
-105'000 km
-Benzin
-Allradantrieb
-grau
-580 PS
-FR
-Merken
-AUDI
-RS6 Avant 5.0 V10 TFSI quattro T-...
-03.2010
-580 PS
-105'000 km
-CHF 30'000
-Merken
-ab CHF 323/Monat
-AUDI
-A1 Sportback 2.0 40 TFSI S Line S-Tronic
-CHF 33'000
-ab CHF 355/Monat
-06.2019
-Automat
-56'000 km
-Benzin
-Vorderradantrieb
-grün
-200 PS
+schwarz
+150 PS
 VD
 Merken
 AUDI
-A1 Sportback 2.0 40 TFSI S Line S...
-06.2019
-200 PS
-56'000 km
-CHF 33'000
+Q2 1.4 TFSI S-Tronic
+07.2017
+150 PS
+45'000 km
+CHF 25'000
 Merken
-ab CHF 355/Monat
+ab CHF 269/Monat
+NEU
 AUDI
-Q5 2.0 55 TFSI e Sport qu. S-T
-CHF 69'500
-ab CHF 747/Monat
-02.2020
+RS3 Limousine 2.5 T FSI quattro S-Tronic
+CHF 58'000
+ab CHF 623/Monat
+07.2019
 Automat
-16'500 km
-Voll-Hybrid Benzin/Elektro
+30'000 km
+Benzin
+Allradantrieb
+schwarz
+400 PS
+VD
+Merken
+AUDI
+RS3 Limousine 2.5 T FSI quattro S...
+07.2019
+400 PS
+30'000 km
+CHF 58'000
+Merken
+ab CHF 623/Monat
+NEU
+AUDI
+A1 Sportback 1.4 TFSI COD
+CHF 17'000
+ab CHF 183/Monat
+10.2015
+Handschaltung
+11'000 km
+Benzin
+Vorderradantrieb
+schwarz
+150 PS
+VS
+Merken
+AUDI
+A1 Sportback 1.4 TFSI COD
+10.2015
+150 PS
+11'000 km
+CHF 17'000
+Merken
+ab CHF 183/Monat
+AUDI
+A6 Avant Quattro, Automat
+CHF 20'000
+ab CHF 215/Monat
+12.1996
+Automat
+199'027 km
+Benzin
+Allradantrieb
+anthrazit
+-
+ZH
+Merken
+AUDI
+A6 Avant Quattro, Automat
+12.1996
+-
+199'027 km
+CHF 20'000
+Merken
+ab CHF 215/Monat
+AUDI
+SQ8 50 TDI quattro Aut. 1.9% Leasing (CH)
+CHF 145'900
+ab CHF 1567/Monat
+-
+Automat
+999 km
+Diesel
+Allradantrieb
+schwarz
+435 PS
+AG
+Merken
+AUDI
+SQ8 50 TDI quattro Aut. 1.9% Leas...
+-
+435 PS
+999 km
+CHF 145'900
+Merken
+ab CHF 1567/Monat
+AUDI
+A5 Sportback 2.0 TDI quattro S-Tronic
+CHF 36'500
+ab CHF 392/Monat
+07.2018
+Automat
+18'800 km
+Diesel
+Allradantrieb
+weiss
+190 PS
+BL
+Merken
+AUDI
+A5 Sportback 2.0 TDI quattro S-Tr...
+07.2018
+190 PS
+18'800 km
+CHF 36'500
+Merken
+ab CHF 392/Monat
+AUDI
+A5 ABT Coupé 3.0 TDI Sport quattro Aut. (CH)
+CHF 54'900
+ab CHF 590/Monat
+04.2018
+Automat
+49'999 km
+Diesel
 Allradantrieb
 grau
-252 PS
-SG
+286 PS
+AG
 Merken
 AUDI
-Q5 2.0 55 TFSI e Sport qu. S-T
-02.2020
-252 PS
-16'500 km
-CHF 69'500
+A5 ABT Coupé 3.0 TDI Sport quattr...
+04.2018
+286 PS
+49'999 km
+CHF 54'900
 Merken
-ab CHF 747/Monat
+ab CHF 590/Monat
 AUDI
-S4 Avant 3.0 TFSI quattro S-tronic
-CHF 12'900
-ab CHF 152/Monat
-04.2011
-Automat
-198'500 km
+A5 Coupé 3.2 V6 FSI quattro
+CHF 8'999
+ab CHF 102/Monat
+03.2008
+Handschaltung
+234'000 km
 Benzin
 Allradantrieb
 weiss
-333 PS
+265 PS
 ZH
 Merken
 AUDI
-S4 Avant 3.0 TFSI quattro S-troni...
-04.2011
-333 PS
-198'500 km
-CHF 12'900
+A5 Coupé 3.2 V6 FSI quattro
+03.2008
+265 PS
+234'000 km
+CHF 8'999
 Merken
-ab CHF 152/Monat
+ab CHF 102/Monat
 AUDI
-A5 Cabriolet 2.0 TFSI quattro S-tronic
-CHF 18'900
-ab CHF 223/Monat
-03.2011
+A6 2.0 TDI 190 S-Tronic
+CHF 29'000
+ab CHF 312/Monat
+07.2016
 Automat
-103'000 km
-Benzin
-Allradantrieb
-schwarz
-211 PS
-ZH
-Merken
-AUDI
-A5 Cabriolet 2.0 TFSI quattro S-t...
-03.2011
-211 PS
-103'000 km
-CHF 18'900
-Merken
-ab CHF 223/Monat
-AUDI
-TT Roadster 2.0 TFSI S-Tronic
-CHF 30'000
-ab CHF 323/Monat
-07.2015
-Automat
-32'000 km
-Benzin
-Vorderradantrieb
-anthrazit
-230 PS
-VS
-Merken
-AUDI
-TT Roadster 2.0 TFSI S-Tronic
-07.2015
-230 PS
-32'000 km
-CHF 30'000
-Merken
-ab CHF 323/Monat
-AUDI
-A5 Sportback 2.0 TDI 190 quattro S-Tronic
-CHF 20'900
-ab CHF 225/Monat
-10.2014
-Automat
-114'000 km
+40'000 km
 Diesel
-Allradantrieb
-schwarz
+Vorderradantrieb
+weiss
 190 PS
-ZH
-Merken
-AUDI
-A5 Sportback 2.0 TDI 190 quattro ...
-10.2014
-190 PS
-114'000 km
-CHF 20'900
-Merken
-ab CHF 225/Monat
-AUDI
-A6 3.0 V6 TFSI Ambiente q.S-Tr.
-CHF 18'000
-ab CHF 194/Monat
-07.2012
-Automat
-145'800 km
-Benzin
-Allradantrieb
-anthrazit
-300 PS
-ZH
-Merken
-AUDI
-A6 3.0 V6 TFSI Ambiente q.S-Tr.
-07.2012
-300 PS
-145'800 km
-CHF 18'000
-Merken
-ab CHF 194/Monat
-AUDI
-Q2 1.4 TFSI S-Tronic
-CHF 22'900
-ab CHF 246/Monat
-04.2017
-Automat
-81'000 km
-Benzin
-Vorderradantrieb
-schwarz
-150 PS
-TI
-Merken
-AUDI
-Q2 1.4 TFSI S-Tronic
-04.2017
-150 PS
-81'000 km
-CHF 22'900
-Merken
-ab CHF 246/Monat
-AUDI
-Q5 2.0 TDI
-CHF 23'000
-ab CHF 247/Monat
-01.2015
-Handschaltung
-152'000 km
-Diesel
-Vorderradantrieb
-grau
-150 PS
-GE
-Merken
-AUDI
-Q5 2.0 TDI
-01.2015
-150 PS
-152'000 km
-CHF 23'000
-Merken
-ab CHF 247/Monat
-AUDI
-S4 Avant 3.0 TFSI quattro S-tronic
-CHF 21'900
-ab CHF 258/Monat
-11.2009
-Automat
-116'500 km
-Benzin
-Allradantrieb
-grau
-333 PS
-SG
-Merken
-AUDI
-S4 Avant 3.0 TFSI quattro S-troni...
-11.2009
-333 PS
-116'500 km
-CHF 21'900
-Merken
-ab CHF 258/Monat
-AUDI
-SQ7 4.0 V8 TDI quattro T-Tronic
-CHF 57'700
-ab CHF 620/Monat
-09.2016
-Automat
-86'950 km
-Diesel
-Allradantrieb
-schwarz
-435 PS
-VS
-Merken
-AUDI
-SQ7 4.0 V8 TDI quattro T-Tronic
-09.2016
-435 PS
-86'950 km
-CHF 57'700
-Merken
-ab CHF 620/Monat
-AUDI
-A3 Sportback 1.8 16V T FSI Attraction quat.
-CHF 11'900
-ab CHF 134/Monat
-05.2011
-Handschaltung
-130'000 km
-Benzin
-Allradantrieb
-grau
-160 PS
 FR
 Merken
 AUDI
-A3 Sportback 1.8 16V T FSI Attrac...
-05.2011
-160 PS
-130'000 km
-CHF 11'900
+A6 2.0 TDI 190 S-Tronic
+07.2016
+190 PS
+40'000 km
+CHF 29'000
 Merken
-ab CHF 134/Monat
+ab CHF 312/Monat
 AUDI
-A5 Sportback 2.0 TFSI quattro S-Tronic
-CHF 15'000
-ab CHF 162/Monat
-07.2011
+A1 Sportback 35 TFSi advanced
+CHF 27'800
+ab CHF 299/Monat
+11.2019
 Automat
-94'000 km
+3'000 km
+Benzin
+Vorderradantrieb
+schwarz
+150 PS
+ZH
+Merken
+AUDI
+A1 Sportback 35 TFSi advanced
+11.2019
+150 PS
+3'000 km
+CHF 27'800
+Merken
+ab CHF 299/Monat
+AUDI
+RS3 Sportback 2.5 T FSI quattro S-Tronic
+CHF 35'000
+ab CHF 376/Monat
+06.2015
+Automat
+117'000 km
 Benzin
 Allradantrieb
+grau
+367 PS
+VD
+Merken
+AUDI
+RS3 Sportback 2.5 T FSI quattro S...
+06.2015
+367 PS
+117'000 km
+CHF 35'000
+Merken
+ab CHF 376/Monat
+AUDI
+A3 Sportback 35 TFSI advanced Attraction S-tronic
+CHF 31'500
+ab CHF 339/Monat
+08.2020
+Automat
+15'000 km
+Benzin
+Vorderradantrieb
 silber
-211 PS
-VD
+150 PS
+ZH
 Merken
 AUDI
-A5 Sportback 2.0 TFSI quattro S-T...
-07.2011
-211 PS
-94'000 km
-CHF 15'000
+A3 Sportback 35 TFSI advanced Att...
+08.2020
+150 PS
+15'000 km
+CHF 31'500
 Merken
-ab CHF 162/Monat
+ab CHF 339/Monat
+AUDI
+TTS Rds 2.0 TFSI quattro 4x4 Aut,
+CHF 44'900
+ab CHF 483/Monat
+06.2017
+Automat
+55'900 km
+Benzin
+Allradantrieb
+grau
+310 PS
+AG
+Merken
+AUDI
+TTS Rds 2.0 TFSI quattro 4x4 Aut,
+06.2017
+310 PS
+55'900 km
+CHF 44'900
+Merken
+ab CHF 483/Monat
+AUDI
+A5 Coupé 2.0 TFSI quattro S-Tronic
+CHF 11'490
+ab CHF 130/Monat
+01.2011
+Automat
+186'000 km
+Benzin
+Allradantrieb
+schwarz
+211 PS
+ZG
+Merken
+AUDI
+A5 Coupé 2.0 TFSI quattro S-Troni...
+01.2011
+211 PS
+186'000 km
+CHF 11'490
+Merken
+ab CHF 130/Monat
+AUDI
+A5 Coupé 2.0 TDI 170
+CHF 11'800
+ab CHF 133/Monat
+04.2010
+Handschaltung
+153'000 km
+Diesel
+Vorderradantrieb
+silber
+170 PS
+LU
+Merken
+AUDI
+A5 Coupé 2.0 TDI 170
+04.2010
+170 PS
+153'000 km
+CHF 11'800
+Merken
+ab CHF 133/Monat
 1
 1
 2
@@ -494,7 +496,6 @@ Auch der Audi der Schweiz achtet in den gängigen Modellangeboten auf geringen K
 Vier Ringe, ein Slogan – auch für Neuwagenkunden in der Schweiz
 Die vier verschlungenen Ringe sind von jeher das wortlose Symbol einer kunden- und zukunftsorientierten Firmenphilosophie. Der buchstäbliche Firmenslogan „Vorsprung durch Technik“ (© Audiwerke) bezieht sich auch auf den Vorsprung beim Kundenservice, auch für die Auslieferung von Audi in der Schweiz. Dies bedeutet, dass über den Generalimporteur AMAG nur hundertprozentig saubere und funktionstüchtige Modelle beim Importkunden, egal, an welchem Schweizer Standort, ausgeliefert werden. Hinsichtlich der Modellvielfalt stellt Audi der Schweiz alle Modelle vom e-tron über Q3 oder Q5 oder Q7, den R8 und RS sowie die Modelle A1 bis A8, auch in Sonderausführungen, bereit.
 AUDI Modellübersicht
-AUDI 100
 AUDI 200
 AUDI 80
 AUDI 90

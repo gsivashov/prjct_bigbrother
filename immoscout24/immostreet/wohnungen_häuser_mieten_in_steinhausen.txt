@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-steinhausen/
 Title: Wohnungen & Häuser mieten in Steinhausen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Steinhausen - Immostreet.ch: ImmoStreet.ch hat 48 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Steinhausen - Immostreet.ch: ImmoStreet.ch hat 43 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-48 Resultate gefunden ·
+43 Resultate gefunden ·
 Wohnungen & Häuser mieten in Steinhausen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,60 +122,71 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Bahnhofstrasse 53
-2'210
+Mattenstrasse 42
+3'060
 CHF
 /Monat
-Hello, moderne 2.5-Zimmerwohnung in Ste…
-Bahnhofstrasse 53, 6312 Steinhausen
+Maisonettewohnung mit interessantem Gru…
+Mattenstrasse 42, 6312 Steinhausen
 Array
-2.5 Zimmer
+6 Zimmer
+152 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Duplex
 Zimmer
-2.5
-Ein Einstellhallenplatz kann für monatlich CHF 150.- dazugemietet werden.https://www.gebr-oswald.ch…
+6
+Wohnfläche
+152 m2
+In ruhigem und kinderfreundlichen Quartier vermieten wir eine grosszügige Maisonettewohnung. Das He…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Bahnhofstrasse 54
-2'050
+496
 CHF
 /Monat
-4 Zimmer-Wohnung an zentraler Lage zu v…
+20 m2 Büroraum in Bürogemeinschaft zu v…
 Bahnhofstrasse 54, 6312 Steinhausen
 Array
-4 Zimmer
-97 m2
+1 Zimmer
+20 m2
 Objekttyp
-Wohnung, Flach
+Büro
 Zimmer
-4
+1
 Wohnfläche
-97 m2
+20 m2
 Etage
-4 Zimmer97 m22. OGWohn- und Schlafzimmer mit Laminatboden (neu v…
+Wir vermieten per 1. August 2021 oder nach Vereinbarung:- einen 20m2 grossen Büroraum mit Reduit-ge…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Wald 2
-1'850
+Grabenackerstrasse 40
+70
 CHF
 /Monat
-4-Zimmer-Wohnung auf dem Land
-Wald 2, 6312 Steinhausen
+Abstellplatz in Steinhausen gesucht?
+Grabenackerstrasse 40, 6312 Steinhausen
 Array
-4 Zimmer
-104 m2
 Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-104 m2
-In Steinhausen, in 2-Familienhaus, an ruhiger Lage, per 1. September 2021, für beschränkte Zeit von…
+Offener Parkplatz
+An der Grabenackerstrasse 40-50 in Steinhausen vermieten wir per sofort oder nach Vereinbarung Abst…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grabenackerstrasse 40-50
+30
+CHF
+/Monat
+Benötigen Sie noch ein Zuhause für Ihr …
+Grabenackerstrasse 40-50, 6312 Steinhausen
+Array
+Objekttyp
+Covered parking place bike, Covered parking place bike
+An der Grabenackerstrasse 40-50 in Steinhausen vermieten wir per sofort oder nach Vereinbarung eine…
 Teilen
 E-Mail
 Facebook
@@ -229,52 +240,187 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+Rigistrasse 28
+3'110
+CHF
+/Monat
+STEINHAUSEN - ERSTVERMIETUNG SCHLOSSBER…
+Rigistrasse 28, 6312 Steinhausen
+Array
+3.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+75 m2
+SCHLOSSBERG - Wohnen im Herzen von Steinhausen an Toplage!
+ERSTVERMIETUNG per 1. Dezember 2021 i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Erlenweg 10
+234
+CHF
+Büro-/Verwaltungsraum, 100 m2 im 2. OG
+Erlenweg 10, 6312 Steinhausen
+Array
+Objekttyp
+Büro
+Etage
+Ab 1. Oktober 2021 vermieten wir 100 m2 Büro- und/oder Verwaltungsräume im 2. OG.
+Zusätzlich ver…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
-Preis auf Anfrage
-GUT AUSGEBAUT, VERKEHRSGÜNSTIGER LAGE (…
+2'184
+CHF
+/Monat
+4.5 Wohnung in Steinhausen ZG
 Adresse auf Anfrage, 6312 Steinhausen
 Array
-9 Zimmer
+4.5 Zimmer
 Objekttyp
-Büro
+Wohnung, Flach
 Zimmer
-9
-Die klimatisierten Büroräume laden zu produktiven Arbeiten ein. Durch die optimale Lage im Kanton Z…
+4.5
+4 ,5 Zimmer 94m2 Wohnung, Etage 3. Stock mit Lift zu vermieten in Steinhause Pilatusstrasse 14 1 …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Eichholzstrasse 18
-160
+Hinterbergstrasse 24
+170
 CHF
-/Monat
-Bastelraum in Steinhausen - Eichholz I,…
-Eichholzstrasse 18, 6312 Steinhausen
+Nachmieter gesucht: Attika-Büro mit Ber…
+Hinterbergstrasse 24, 6312 Steinhausen
 Array
-Objekttyp
-Atelier
-Ihre Vorteile auf einen BlickBastelraum mit TageslichtBeheizt für angenehmes Arbei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 54
-495
-CHF
-/Monat
-Helles Büro an zentraler Lage
-Bahnhofstrasse 54, 6312 Steinhausen
-Array
-1 Zimmer
-20 m2
+611 m2
 Objekttyp
 Büro
-Zimmer
-1
 Wohnfläche
-20 m2
-Etage
-Ab sofort oder nach Vereinbarung ein Nachmieter gesucht.Küche, WC's sowie Dusche zur Mitbenutzung.P…
+611 m2
+Am Stadtrand von Zug, unweit vom Autobahnanschluss Zug-West und Migros Einkaufszentrum «Zugerland» …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hammerstrasse 1
+130
+CHF
+/Monat
+Parkplatz in Einstellhalle
+Hammerstrasse 1, 6312 Steinhausen
+Array
+Objekttyp
+Tiefgarage
+Hammerstrasse 1, zentral gelegen, Einfahrt hinter Migros
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Pilatusstr. 15
+2'040
+CHF
+/Monat
+Sanierte Wohnung an ruhiger Wohnlage
+Pilatusstr. 15, 6312 Steinhausen
+Array
+3.5 Zimmer
+82 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+82 m2
+Wir vermieten per 1. September 2021 oder nach Vereinbarung eine attraktive 3.5 Zimmer-Wohnung an ru…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Turmstrasse 18
+1'260
+CHF
+/Monat
+Modern ausgebautes Büro mit Sicht auf d…
+Turmstrasse 18, 6312 Steinhausen
+Array
+Objekttyp
+Büro
+Wir vermieten per sofort ein ausgebautes, modernes und helles Büro inkl. Mitbenutzung der Küche und…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Turmstrasse 18
+1'512
+CHF
+/Monat
+Modern ausgebautes Büro mit Sicht auf d…
+Turmstrasse 18, 6312 Steinhausen
+Array
+Objekttyp
+Büro
+Wir vermieten per sofort ein ausgebautes, modernes und helles Büro inkl. Mitbenutzung der Küche und…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Turmstrasse 18
+1'596
+CHF
+/Monat
+Modern ausgebautes Büro mit unverbaubar…
+Turmstrasse 18, 6312 Steinhausen
+Array
+Objekttyp
+Büro
+Wir vermieten per sofort ein ausgebautes, modernes und helles Büro inkl. Mitbenutzung der Küche und…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Turmstrasse 18
+920
+CHF
+/Monat
+Modern ausgebautes Büro mit Sicht ins G…
+Turmstrasse 18, 6312 Steinhausen
+Array
+Objekttyp
+Büro
+Wir vermieten per sofort ein modern ausgebautes und helles Büro mit Teppichboden. Mitbenutzung der …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hinterbergstrasse 18
+255
+CHF
+Prisma Steinhausen - Einzel- und Grossr…
+Hinterbergstrasse 18, 6312 Steinhausen
+Array
+Objekttyp
+Büro
+Am Stadtrand von Zug, unweit vom Autobahnanschluss Zug-West und Migros Einkaufszentrum «Zugerland» …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hinterbergstrasse 18
+240
+CHF
+Prisma Steinhausen - Bestens angeschlos…
+Hinterbergstrasse 18, 6312 Steinhausen
+Array
+Objekttyp
+Büro
+Am Stadtrand von Zug, unweit vom Autobahnanschluss Zug-West und Migros Einkaufszentrum «Zugerland» …
 Teilen
 E-Mail
 Facebook
@@ -288,156 +434,6 @@ Array
 Objekttyp
 Büro
 Das Büro wird komplett neu ausgebaut. Fertig ausgebaut verfügt das Büro über:auf Wunsch ein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Pilatusstr. 4
-1'840
-CHF
-/Monat
-Wohnen in ruhiger Umgebung
-Pilatusstr. 4, 6312 Steinhausen
-Array
-4 Zimmer
-92 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-92 m2
-Suchen Sie eine familienfreundliche Umgebung, in welcher Sie sich wohlfühlen können? Dann haben wir…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sennweidstrasse 46
-129
-CHF
-Ebenerdige Anlieferung - verschiedenste…
-Sennweidstrasse 46, 6312 Steinhausen
-Array
-Objekttyp
-Verkauf, Gewerbe
-Die äusserst helle und teils ausgebaute Fläche verfügt bereits über zwei abgetrennte Einzelbüros, e…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 54
-850
-CHF
-/Monat
-50 m2 Hobbyraum zu vermieten
-Bahnhofstrasse 54, 6312 Steinhausen
-Array
-50 m2
-Objekttyp
-Werkstatt
-Wohnfläche
-50 m2
-Per 1. Juni 2021 vermieten wir einen 50 m2 Hobbyraum zur Privatnutzung.Facts:-bodeneben, Zutritt pe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Abstellplätze
-Preis auf Anfrage
-Haben Sie noch kein Parkplatz für Ihr A…
-Abstellplätze, 6312 Steinhausen
-Array
-Objekttyp
-Offener Parkplatz
-.. dann haben wir ihn für Sie!An der Zugerstrasse 30 in 6312 Steinhausen vermieten wir per sofort o…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sennweidstrasse 45
-880
-CHF
-/Monat
-Sennweidstrasse 43/45 Steinhausen - Hel…
-Sennweidstrasse 45, 6312 Steinhausen
-Array
-Objekttyp
-Büro
-Etage
-Die Idealbüros an der Sennweidstrasse befinden sich in unmittelbarer Nähe zur Autobahn, Bahn- und B…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mattenstrasse 42
-3'060
-CHF
-/Monat
-Maisonettewohnung mit interessantem Gru…
-Mattenstrasse 42, 6312 Steinhausen
-Array
-6 Zimmer
-152 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-6
-Wohnfläche
-152 m2
-In ruhigem und kinderfreundlichen Quartier vermieten wir eine grosszügige Maisonettewohnung. Das He…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rainstrasse 11
-15
-CHF
-/Monat
-Weinkeller an zentraler Lage
-Rainstrasse 11, 6312 Steinhausen
-Array
-Objekttyp
-Verkauf, Lager
-Ihre Lage-VorteileDas Weinkellerabteil befindet sich im 1. UG einer Wohnliegenschaft in Steinhausen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chollerstrasse 23
-95
-CHF
-Top Lager von 47 m² an erschlossener La…
-Chollerstrasse 23, 6312 Steinhausen
-Array
-Objekttyp
-Kellerabteil
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Pilatusstr. 12
-75
-CHF
-/Monat
-Abstellplatz aussen - gegenüber Schulha…
-Pilatusstr. 12, 6312 Steinhausen
-Array
-Objekttyp
-Offener Parkplatz
-Wohnen Sie an oder in der Nähe der Pilatusstrasse 12 in Steinhausen und suchen einen Parkplatz?Dan…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hinterbergstrasse 32a/34a
-85
-CHF
-Lagerraum an verkehrsgünstiger Lage
-Hinterbergstrasse 32a/34a, 6312 Steinhausen
-Array
-Objekttyp
-Verkauf, Lager
-Wir vermieten per 01.08.2021 in der Industriezone einen Lagerraum mit folgenden Eckdaten: - ca. 51 …
 Teilen
 E-Mail
 Facebook

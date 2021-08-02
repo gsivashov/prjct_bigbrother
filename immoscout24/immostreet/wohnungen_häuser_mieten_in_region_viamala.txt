@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/bezirk-viamala/
 Title: Wohnungen & Häuser mieten in Region Viamala - Immostreet.ch
-Description: Wohnungen & Häuser mieten in Region Viamala - Immostreet.ch: ImmoStreet.ch hat 13 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in Region Viamala - Immostreet.ch: ImmoStreet.ch hat 22 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-13 Resultate gefunden ·
+22 Resultate gefunden ·
 Wohnungen & Häuser mieten in Region Viamala
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,42 +122,40 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-650
+Obere Stallstrasse 32
+2'340
 CHF
 /Monat
-Ferienwohnung zu vermieten
-Adresse auf Anfrage, 7433 Donat
+7 1/2 Zi Wohnung mit Innenhof und gross…
+Obere Stallstrasse 32, 7430 Thusis
 Array
-2.5 Zimmer
-65 m2
+7.5 Zimmer
+130 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+7.5
 Wohnfläche
-65 m2
-Termin: Ab dem 01.Oktober 2021, Kinder freundlich, teilmöbliert, Waschmaschine / Tumbler vorh., se…
+130 m2
+Etage
+Diese geräumige Wohnung befindet sich auf 2 Etagen. Sie fahren mit Ihrem Auto auf den Autoabstellpl…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Alte Strasse 5
-1'110
+Adresse auf Anfrage
+1'370
 CHF
 /Monat
-3.5-Zimmerwohnung im 1.OG zu vermieten!
-Alte Strasse 5, 7430 Thusis
+Atelierhaus in Tartar zu vermieten
+Adresse auf Anfrage, 7421 Summaprada
 Array
-3.5 Zimmer
-71 m2
+5.5 Zimmer
 Objekttyp
-Wohnung, Flach
+Wohnung, Einzelhaus
 Zimmer
-3.5
-Wohnfläche
-71 m2
-Wir vermieten per 1. Oktober 2021 eine heimelige 3.5-Zimmerwohnung mit sanierter, grosszügiger Küch…
+5.5
+Zu vermieten5½-Zimmerhaus in sanft und ökologisch renoviertem Wohnhaus in Dorfzentrum von Tartar, G…
 Teilen
 E-Mail
 Facebook
@@ -182,23 +180,36 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Oberdorf 34
-1'220
+Altdorfstrasse 23
+560
 CHF
 /Monat
-4.5 Zi Wohnung mit Gartensitzplatz
-Oberdorf 34, 7411 Sils im Domleschg
+Studio mit DU/WC und Kleinküche
+Altdorfstrasse 23, 7430 Thusis
 Array
-4.5 Zimmer
-95 m2
+1 Zimmer
+Objekttyp
+Wohnung, Studio
+Zimmer
+1
+Einfaches und Praktisches Studio im Alten Dorfzentrum Thusis, nähe Spital und Einkaufsmöglichkeiten…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Feldstrasse 11
+1'410
+CHF
+/Monat
+grosszügige 3-Zimmerwohnung
+Feldstrasse 11, 7430 Thusis
+Array
+3 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
-Wohnfläche
-95 m2
-Etage
-Helle, grosszügige 4.5 Zimmer Wohnung mit eigenem Gartensitzplatz. Die Zimmer sind im Vergleich mit…
+3
+Mitten in Thusis an ruhiger Lage vermieten wir diese grosse und helle 3-Zimmerwohnung. Sie verfügt …
 Teilen
 E-Mail
 Facebook
@@ -220,63 +231,248 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-dorfstrasse 7
-795
+Veia Granda 81A
+1'010
 CHF
 /Monat
-Wohnung voll eingerichtet
-dorfstrasse 7, 7438 Hinterrhein
+tolle und zentrale Wohnung in Andeer
+Veia Granda 81A, 7440 Andeer
 Array
-2.5 Zimmer
-65 m2
+3.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
-Wohnfläche
-65 m2
-Diese Wohnung ist in einem 450 jährigen Haus. Die Grösse ist geschätzt. Sie werden selber bei einer…
+3.5
+Wir vermieten diese helle und schöne Wohnung per 01. August 2021. Durch die ganze Wohnung ist der r…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bachweg24
-680
+Quadra 8
+1'600
 CHF
 /Monat
-Nachmiter
-Bachweg24, 7430 Thusis
+Neubau Quadra Tomils - Ihr neuer Wohntr…
+Quadra 8, 7418 Tumegl/Tomils
 Array
-1.5 Zimmer
-2 m2
+3.5 Zimmer
+74 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-1.5
+3.5
 Wohnfläche
-2 m2
-Grosszügige singelwohnung
+74 m2
+Wir vermieten per 1. November 2021 eine 3.5 Zimmer-Wohnung im 1. Obergeschoss. Diese attraktive Woh…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Innere Bahnhofstrasse 16
-1'120
+Blumenweg 1, Thusis
+1'600
 CHF
 /Monat
-Zentral gelegene gediegene Wohnung
-Innere Bahnhofstrasse 16, 7430 Thusis
+Sonnige 4.5 Zimmer Wohnung
+Blumenweg 1, Thusis, 7430 Thusis
 Array
-1.5 Zimmer
-63 m2
+4.5 Zimmer
+98 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-1.5
+4.5
 Wohnfläche
-63 m2
+98 m2
+Sonnige, helle Wohnung, Balkon, Sitzplatz, Chemineé, Keller, Estrich, Waschmaschine, Tumbler, Abwas…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterdorf 8
+2'150
+CHF
+/Monat
+Erstbezug Gartenoase - Neubau
+Unterdorf 8, 7408 Cazis
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
 Etage
-Diese moderne, komfortable Wohnung wird Sie begeistern !Sie liegt zentrumsnah direkt beim Bahnhof, …
+Sorgenlos einziehen im Dezember 2021 - Hier entsteht ein Neubau mit 17 Mietwohnungen.Ergreifen Sie …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterdorf 8
+2'150
+CHF
+/Monat
+Zentrales Neubau-Meisterwerk
+Unterdorf 8, 7408 Cazis
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Etage
+Einziehen und wohlfühlen im charmanten Neubau per 01.12.2021.Diese 4.5 Zimmer-Wohnung überzeugt mit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterdorf 8
+1'850
+CHF
+/Monat
+Dorfzentrum - kurze Distanzen garantiert
+Unterdorf 8, 7408 Cazis
+Array
+3.5 Zimmer
+99 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+99 m2
+Etage
+Diese moderne 3.5-Zimmer-Neubau-Wohnung könnte schon bald Ihr neues Zuhause werden. Lassen Sie sich…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterdorf 8
+1'980
+CHF
+/Monat
+Neu, modern und chic - Erstbezug
+Unterdorf 8, 7408 Cazis
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Etage
+Willkommen in der Viamala-Ferienregion. Hier entstehen 17 exklusive Neubauwohnungen über 4 Etagen i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterdorf 8
+1'980
+CHF
+/Monat
+"Exklusiv" einziehen - wenns an nichts …
+Unterdorf 8, 7408 Cazis
+Array
+3.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+112 m2
+Etage
+Sorgenloses einziehen im Neubau Cazis mit 17 Wohnungen über 4 Etagen - Bezug per Dezember 2021.Erle…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterdorf 8
+1'980
+CHF
+/Monat
+*Erstbezug-Neubau* - greifen Sie zu
+Unterdorf 8, 7408 Cazis
+Array
+3.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+112 m2
+Etage
+Eleganz, Stil und viel Charme werden durch diese Wohnung widerspiegelt. Erleben Sie die vorbildlich…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterdorf 8
+1'980
+CHF
+/Monat
+Erstbezug - gehen Sie mit der Zeit
+Unterdorf 8, 7408 Cazis
+Array
+3.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+112 m2
+Etage
+Diese 3.5 Zimmer-Wohnung begeistert mit überdurchschnittlichem Komfort, inmitten der Gemeinde Cazis…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterdorf 8
+1'850
+CHF
+/Monat
+Gartenwohnung der Extraklasse - Erstbez…
+Unterdorf 8, 7408 Cazis
+Array
+3.5 Zimmer
+99 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+99 m2
+Etage
+Erstbezug Dezember 2021 - an zentraler Lage entstehen 17 Neubau-Wohnungen. Diese 3.5-Zimmer-Wohnung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterdorf 8
+1'850
+CHF
+/Monat
+Mehr Berg oder Tal - Ihre Wahl
+Unterdorf 8, 7408 Cazis
+Array
+3.5 Zimmer
+99 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+99 m2
+Etage
+ERSTBEZUG - WOW alles NEU.Treten Sie in Ihre 3.5-Zimmer-Neubau-Wohnung im 1. OG ein und Sie werden …
 Teilen
 E-Mail
 Facebook
@@ -295,26 +491,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Domleschgerstrasse 18
-450
-CHF
-/Monat
-Atelierraum
-Domleschgerstrasse 18, 7413 Fürstenaubruck
-Array
-1 Zimmer
-30 m2
-Objekttyp
-Atelier
-Zimmer
-1
-Wohnfläche
-30 m2
-Wollten Sie schon lange kreativ sein ? Unser reizender Atelierraum wird Sie begeistern. Er verfügt …
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Äussere Bahnhofstrasse
 100
 CHF
@@ -329,34 +505,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Innere Bahnhofstrasse 14/16 TG
-100
-CHF
-/Monat
-Tiefgaragenplätze im Zentrum von Thusis…
-Innere Bahnhofstrasse 14/16 TG, 7430 Thusis
-Array
-Objekttyp
-Tiefgarage
-Wir vermieten ab sofort mehrere Tiefgaragenplätze mitten im Zentrum von Thusis. Bei Interesse freue…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Industriezone
-95
-CHF
-Attraktive und günstige Gewerbeflächen
-Industriezone, 7408 Cazis
-Array
-Objekttyp
-Verkauf, Gewerbe
-Etage
-Wir verkaufen oder vermieten im neuen Gewerbepark Cazis attraktive, günstige Gewerbeflächen für Unt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
+Seite 1 von 2
+1
+2
+nächste Seite
 ImmoStreet.ch
 Mieten
 Immobilien mieten im Bezirk Viamala

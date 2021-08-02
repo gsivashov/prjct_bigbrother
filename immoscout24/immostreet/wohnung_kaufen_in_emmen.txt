@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/unterkategorie-flat/in-emmen/
 Title: Wohnung kaufen in Emmen - Immostreet.ch
-Description: Wohnung kaufen in  Emmen - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in  Emmen - Immostreet.ch: ImmoStreet.ch hat 16 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-7 Resultate gefunden ·
+16 Resultate gefunden ·
 Wohnung kaufen in Emmen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,20 +134,136 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Rosenaustrasse 12
-900'000
+Seetalstrasse 145
+985'000
 CHF
-FELD EINS: Letzte Verkaufsetappe
-Rosenaustrasse 12, 6032 Emmen
+4.5 Zimmer-Neubauwohnung mit Rasenfläche
+Seetalstrasse 145, 6032 Emmen
 Array
-5.5 Zimmer
-116 m2
+4.5 Zimmer
+122 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+4.5
+Wohnfläche
+122 m2
+Etage
+Das neu errichtete Mehrfamilienhaus an der Seetalstrasse 145 in Emmen, mit seinen drei 3.5 Zimmerwo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+790'000
+CHF
+Grünmatt Emmen - Wohnen an der Reuss
+Adresse auf Anfrage, 6032 Emmen
+Array
+4.5 Zimmer
+117 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-5.5
+4.5
 Wohnfläche
-116 m2
+117 m2
+Die Grünmatt bietet grosszügigen Wohnraum für Familien mit Kindern und alle, die naturnah wohnen wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'180'000
+CHF
+Grünmatt Emmen - Wohnen an der Reuss
+Adresse auf Anfrage, 6032 Emmen
+Array
+6.5 Zimmer
+168 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+6.5
+Wohnfläche
+168 m2
+Die Grünmatt bietet grosszügigen Wohnraum für Familien mit Kindern und alle, die naturnah wohnen wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+850'000
+CHF
+Grünmatt Emmen - Wohnen an der Reuss
+Adresse auf Anfrage, 6032 Emmen
+Array
+4.5 Zimmer
+122 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+122 m2
+Die Grünmatt bietet grosszügigen Wohnraum für Familien mit Kindern und alle, die naturnah wohnen wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+790'000
+CHF
+Grünmatt Emmen - Wohnen an der Reuss
+Adresse auf Anfrage, 6032 Emmen
+Array
+3.5 Zimmer
+94 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+94 m2
+Die Grünmatt bietet grosszügigen Wohnraum für Familien mit Kindern und alle, die naturnah wohnen wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alfred-Schindler-Weg 14
+780'000
+CHF
+FELD EINS: Letzte Verkaufsetappe
+Alfred-Schindler-Weg 14, 6032 Emmen
+Array
+4.5 Zimmer
+102 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+102 m2
+Endlich Wohneigentum in Emmen - Letzte Verkaufsetappe
+Bezahlbarer, familienfreundlicher und ökol…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Feldbreiteweg 5
+630'000
+CHF
+FELD EINS: Letzte Verkaufsetappe
+Feldbreiteweg 5, 6032 Emmen
+Array
+3.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+83 m2
 Endlich Wohneigentum in Emmen - Letzte Verkaufsetappe
 Bezahlbarer, familienfreundlicher und ökol…
 Teilen
@@ -175,81 +291,138 @@ E-Mail
 Facebook
 Whatsapp
 Rosenaustrasse 12
-730'000
+900'000
 CHF
 FELD EINS: Letzte Verkaufsetappe
 Rosenaustrasse 12, 6032 Emmen
 Array
-4.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-95 m2
-Endlich Wohneigentum in Emmen - Letzte Verkaufsetappe
-Bezahlbarer, familienfreundlicher und ökol…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Feldbreiteweg 5
-630'000
-CHF
-FELD EINS: Letzte Verkaufsetappe
-Feldbreiteweg 5, 6032 Emmen
-Array
-3.5 Zimmer
-83 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-83 m2
-Endlich Wohneigentum in Emmen - Letzte Verkaufsetappe
-Bezahlbarer, familienfreundlicher und ökol…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Parkpromenade 3
-920'000
-CHF
-FELD EINS: Letzte Verkaufsetappe
-Parkpromenade 3, 6032 Emmen
-Array
 5.5 Zimmer
-112 m2
+116 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 5.5
 Wohnfläche
-112 m2
+116 m2
 Endlich Wohneigentum in Emmen - Letzte Verkaufsetappe
 Bezahlbarer, familienfreundlicher und ökol…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Alfred-Schindler-Weg 14
-780'000
+Rosenaustrasse 10
+740'000
 CHF
 FELD EINS: Letzte Verkaufsetappe
-Alfred-Schindler-Weg 14, 6032 Emmen
+Rosenaustrasse 10, 6032 Emmen
 Array
 4.5 Zimmer
-102 m2
+95 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-102 m2
+95 m2
 Endlich Wohneigentum in Emmen - Letzte Verkaufsetappe
 Bezahlbarer, familienfreundlicher und ökol…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+720'000
+CHF
+Grünmatt Emmen - Wohnen an der Reuss
+Adresse auf Anfrage, 6032 Emmen
+Array
+3.5 Zimmer
+104 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+104 m2
+Die Grünmatt bietet grosszügigen Wohnraum für Familien mit Kindern und alle, die naturnah wohnen wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seetalstrasse 145
+880'000
+CHF
+3.5 Zimmer-Attikawohnung Neubau
+Seetalstrasse 145, 6032 Emmen
+Array
+3.5 Zimmer
+103 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+103 m2
+Neubau AttikawohnungDas neu errichtete Mehrfamilienhaus an der Seetalstrasse 145 in Emmen, mit sein…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seetalstrasse 145
+730'000
+CHF
+3.5 Zimmer-Neubauwohnung
+Seetalstrasse 145, 6032 Emmen
+Array
+3.5 Zimmer
+93 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+93 m2
+Etage
+Helle Neubauwohnung mit LoggiaDas neu errichtete Mehrfamilienhaus an der Seetalstrasse 145 in Emmen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seetalstrasse 145
+760'000
+CHF
+3.5 Zimmerwohnung mit Rasenfläche
+Seetalstrasse 145, 6032 Emmen
+Array
+3.5 Zimmer
+93 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+93 m2
+Etage
+Neubau Terrassenwohnung mit RasenflächeDas neu errichtete Mehrfamilienhaus an der Seetalstrasse 145…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seetalstrasse 145
+950'000
+CHF
+4.5 Zimmer-Neubauwohnung
+Seetalstrasse 145, 6032 Emmen
+Array
+4.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+123 m2
+Moderne NeubauwohnungDas neu errichtete Mehrfamilienhaus an der Seetalstrasse 145 in Emmen, mit sei…
 Teilen
 E-Mail
 Facebook

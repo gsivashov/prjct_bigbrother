@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-aarburg/
 Title: Wohnungen & Häuser mieten in Aarburg - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Aarburg - Immostreet.ch: ImmoStreet.ch hat 86 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Aarburg - Immostreet.ch: ImmoStreet.ch hat 99 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-86 Resultate gefunden ·
+99 Resultate gefunden ·
 Wohnungen & Häuser mieten in Aarburg
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,50 +122,92 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Frohburgstrasse 61
-1'326
+Im Kupferschmied 20
+1'309
 CHF
 /Monat
-Charmante 4.5 ZWG sucht Nachmieter
-Frohburgstrasse 61, 4663 Aarburg
+3-Zimmerdachwohnung sucht Nachmieter...
+Im Kupferschmied 20, 4663 Aarburg
 Array
-4.5 Zimmer
+3 Zimmer
+72 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
-In einer ruhigen Wohngegend in Aarburg vermieten wir eine charmante 4.5 Zimmerwohnung.
-•Das gros…
+3
+Wohnfläche
+72 m2
+Wir vermieten diese gemütliche 3.5-Zimmerwohnung im 3. OG in Aarburg, welche Ihnen nebst dem modern…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Grabenstrasse 17
-1'240
+Strickereistrasse 10
+1'530
 CHF
 /Monat
-3.5-Z Wohnung an ruhiger Lage am Graben…
-Grabenstrasse 17, 4663 Aarburg
+Singlewohnung an idyllischer Lage
+Strickereistrasse 10, 4663 Aarburg
 Array
-3.5 Zimmer
-66 m2
+2.5 Zimmer
+69 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+2.5
 Wohnfläche
-66 m2
-Die Wohnung befindet sich in einer ruhigen kinderfreundlichen Wohnungshaus am Grabenstrasse 17 in A…
+69 m2
+Suchen Sie eine Wohnung mit Ausrichtung ins Grüne?Dann ist diese Wohnung die optimale Wahl.Das Obje…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Strickereistrasse 14
+1'410
+CHF
+/Monat
+schöner Wohnen!
+Strickereistrasse 14, 4663 Aarburg
+Array
+2.5 Zimmer
+63 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+63 m2
+Die moderne Wohnung lässt den künftigen Mietern keine Wünsche offen. Neben der praktischen Verkehrs…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'200
+990
 CHF
 /Monat
-IN HISTORISCHER ALTSTADT
+1 Zimmer Wohnung im Aarburger Städtli
 Adresse auf Anfrage, 4663 Aarburg
+Array
+1 Zimmer
+36 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+36 m2
+HauptangabenGemeinde	AarburgWohnfläche	36.4 m²Stockwerk	EGNutzfläche	36.4 m²Verfügbarkeit	ab Oktobe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Kupferschmied 32
+1'135
+CHF
+/Monat
+Ihr neues Zuhause!
+Im Kupferschmied 32, 4663 Aarburg
 Array
 3 Zimmer
 80 m2
@@ -175,162 +217,270 @@ Zimmer
 3
 Wohnfläche
 80 m2
-Diese helle, geräumige Wohnung befindet sich mitten in der schönen Altstadt abseits der Strasse an …
+Etage
+Wir vermieten diese gemütliche 3.5-Zimmerwohnung im 1. OG in Aarburg, welche Ihnen nebst dem modern…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Oltnerstrasse 15
-1'150
+Frohburgstrasse 8
+1'089
 CHF
 /Monat
-Im Städtli von Aarburg (70m2) !
-Oltnerstrasse 15, 4663 Aarburg
+Helle und charmante 3.5-Zimmerwohnung m…
+Frohburgstrasse 8, 4663 Aarburg
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Ruhige LageCharmante und helle 3.5-Zimmerwohnung an ruhiger Lage. - Nähe Bahnhof - 1 Balkon- Einbau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Städtchen 26
+1'390
+CHF
+/Monat
+2 1/2 Zimmer Maisonette- Wohnung im Aar…
+Städtchen 26, 4663 Aarburg
 Array
 2.5 Zimmer
-70 m2
+65 m2
 Objekttyp
-Wohnung, Dachwohnung
+Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-70 m2
-Diese helle, grosszügige 2.5-Zimmerwohnung an zentraler und doch ruhiger Lage im Städtli in Aarburg…
+65 m2
+HauptangabenGemeinde	AarburgWohnfläche	65 m²Stockwerk	3. StockwerkNutzfläche	65 m²Verfügbarkeit	Sof…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bifangstrasse 42
-1'400
+Kupferschmied 7
+1'580
 CHF
 /Monat
-Helle Familienwohnung im Herzen Aarburgs
-Bifangstrasse 42, 4663 Aarburg
+Schöne und familiäre3 Wohnlagee nähe Sc…
+Kupferschmied 7, 4663 Aarburg
 Array
 4.5 Zimmer
-82 m2
+99 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-82 m2
-Per 01.09.2021 oder nach Vereinbarung vermieten wir folgende  4.5 - Zimmerwohnung im 3. OG:   - …
+99 m2
+Wir vermieten per 01. November oder nach Vereinbarung eine grosszügige 4.5-Zimmerwohnung im Erdgesc…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bahnhofstrasse 5
-750
+Güterstrasse 2
+210
 CHF
-/Monat
-MODERN UND ZENTRAL
-Bahnhofstrasse 5, 4663 Aarburg
+Ihr neues Büro - Ihre neue Ladenfläche …
+Güterstrasse 2, 4663 Aarburg
 Array
-1 Zimmer
-30 m2
 Objekttyp
-Geschäft, Atelier
-Zimmer
-1
-Wohnfläche
-30 m2
-Sind Sie auf der Suche nach einem modernen Studio / Atelier um Ihren Traum zu verwirklichen? Dann s…
+Verkauf, Geschäft
+Etage
+Per 1. Februar 2021 suchen wir für unseren Kunde einen Nachmieter für die Laden-/Bürofläche in Aarb…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Oltnerstrasse 117
-1'350
+Strickereistrasse 14
+1'990
 CHF
 /Monat
-3.5 Zimmer-Wohnung zu Vermieten ab 01.0…
-Oltnerstrasse 117, 4663 Aarburg
+Welcome home
+Strickereistrasse 14, 4663 Aarburg
 Array
 3.5 Zimmer
-75 m2
+93 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+93 m2
+Die moderne Wohnung lässt den künftigen Mietern keine Wünsche offen. Neben der praktischen Verkehrs…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bifangstrasse 32
+1'200
+CHF
+/Monat
+Wohnen im Städtchen
+Bifangstrasse 32, 4663 Aarburg
+Array
+3.5 Zimmer
+72 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-75 m2
-An der Oltnerstrasse 117 in Aarburg vermieten wir ab 01.07.2021 oder nach Vereinbarung eine 3.5 Zim…
+72 m2
+Per 15.11.2021 oder nach Vereinbarung suchen wir für folgende 3.5 Zimmerwohnung im Hochparterre ein…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Mühlegasse 6
-2'880
+Gishalde 5b
+1'870
 CHF
 /Monat
-zentral gelegenes grosszügiges Doppel E…
-Mühlegasse 6, 4663 Aarburg
+Wohnen ohne Heiz- und Stromkosten
+Gishalde 5b, 4663 Aarburg
 Array
-5.5 Zimmer
-187 m2
+3.5 Zimmer
+98 m2
 Objekttyp
-Wohnung, Doppeleinfamilienhaus
+Wohnung, Flach
 Zimmer
-5.5
+3.5
 Wohnfläche
-187 m2
-Etage
-Suchen Sie ein neues Zuhause mit grosszügigen Raumangebot und dennoch zentral gelegen? Dann müssen …
+98 m2
+Per 01.12.2021 suchen wir für diese schöne 3.5 Zimmerwohnung im EG einen neuen Mieter:- Komplette W…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Stampfibachstr. 7A
-1'760
+Im Feld 7
+1'815
 CHF
 /Monat
-Moderne Attikawohnung mit wunderschönem…
-Stampfibachstr. 7A, 4663 Aarburg
+Hier finden Sie Ihren neuen Familienwoh…
+Im Feld 7, 4663 Aarburg
+Array
+4.5 Zimmer
+118 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+118 m2
+Per 1. Oktober 2021 vermieten wir diese tolle und grosszügige 4.5-Zimmerwohnung. Die moderne Wohnun…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sommeraustrasse 13A
+1'490
+CHF
+/Monat
+Elegante 2.5 Zimmerwohnung mit grosszüg…
+Sommeraustrasse 13A, 4663 Aarburg
 Array
 2.5 Zimmer
-64 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-2.5
-Wohnfläche
-64 m2
-Geniessen Sie Ihren Feierabend auf der Terrasse dieser schönen und modernen Attikawohnung.Damit die…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stampfibachstr. 7C
-1'320
-CHF
-/Monat
-Erstklassig wohnen
-Stampfibachstr. 7C, 4663 Aarburg
-Array
-2.5 Zimmer
-59 m2
+56 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-59 m2
-Lassen Sie Ihren Blick in die Ferne schweifen und geniessen Sie die tolle Aussicht ins Grüne. Diese…
+56 m2
+Wir vermieten eine schöne, elegante 2.5 Zimmerwohnung im 1. Stock an ruhiger Lage.Die Liegenschaft …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Güterstr. 2
-225
+Gishalde 5c
+1'870
 CHF
 /Monat
-Lagerfläche zu mieten in Hello Aarburg
-Güterstr. 2, 4663 Aarburg
+Wohnen ohne Strom- und Heizkosten
+Gishalde 5c, 4663 Aarburg
+Array
+3.5 Zimmer
+98 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+98 m2
+Per 01.10.2021 suchen wir für diese schöne 3.5 Zimmerwohnung im 2.OG einen neuen Mieter:- Komplette…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stampfibachstr. 7B
+1'865
+CHF
+/Monat
+Tolle Neubauwohnung sucht einen Nachmie…
+Stampfibachstr. 7B, 4663 Aarburg
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+Wir vermieten per sofort oder nach Vereinbarung diese schöne Neubauwohnung in Aarbug. Die Überbauun…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Turnhallenstrasse 2
+1'400
+CHF
+/Monat
+Geräumige 4-Zimmerwohnung in mitten der…
+Turnhallenstrasse 2, 4663 Aarburg
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Etage
+Per sofort vermieten wir eine geräumige 4-Zimmerwohnung- grosse Küche- geräumige und lichtdurchflut…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Strickereistrasse 2a, 2b und 2c
+180
+CHF
+webipark.ch - Ihr neues Firmendomizil i…
+Strickereistrasse 2a, 2b und 2c, 4663 Aarburg
 Array
 Objekttyp
-Verkauf, Lager
-Suchen Sie einen Lagerraum an zentraler Lage?Per 01.07.2021 oder nach Vereinbarung vermieten wir di…
+Büro
+webipark.chIhre LagevorteileDie repräsentativen Geschäftsräumlichkeiten mit grosszügigen Fensterflä…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Frohburgstrasse 13
+1'450
+CHF
+/Monat
+3.5 Zi - Dachwohnung mit Galerie
+Frohburgstrasse 13, 4663 Aarburg
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Sehr schöne Dachwohnung mit Galeriein freistehendem 3-FMHTop Lage, Nähe Bus und Bahnhofmoderne offe…
 Teilen
 E-Mail
 Facebook
@@ -351,159 +501,6 @@ Zimmer
 Wohnfläche
 193 m2
 Im Aarburger Städtli, am Ende einer Sackgasse, vermieten wir Räumlichkeiten welche sich auf verschi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bärengasse 5
-1'550
-CHF
-/Monat
-90m2 Maisonette im Städtchen Aarburg
-Bärengasse 5, 4663 Aarburg
-Array
-2.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-90 m2
-Etage
-Einmalige Lage, direkt unter der berühmten Burg.Die totalsanierte Altstadtwohnung im Städtchen von …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rindelstrasse 22
-1'670
-CHF
-/Monat
-Familienfreundliche Wohnung im Grünen
-Rindelstrasse 22, 4663 Aarburg
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Ideal für Familien und NaturliebhaberPer 1. August 2021 oder nach Vereinbarung, vermieten wir diese…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bärengasse 1
-1'410
-CHF
-/Monat
-Moderne 3.5-Zimmer-Wohnung in 4663 Aarb…
-Bärengasse 1, 4663 Aarburg
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wir vermieten nach einer Komplettsanierung im Jahr 2019 diese topmoderne 3.5-Zimmer-Wohnung mitten …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bifangstrasse 38
-1'200
-CHF
-/Monat
-Wohnen im Herzen Aarburgs
-Bifangstrasse 38, 4663 Aarburg
-Array
-3.5 Zimmer
-67 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-67 m2
-Per 01.09.2021 oder nach Vereinbarung suchen wir für folgende 3.5 Zimmerwohnung im 2.OG einen neuen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kupferschmied 7
-1'378
-CHF
-/Monat
-Schöne Dachwohnung ohne Dachschräge
-Kupferschmied 7, 4663 Aarburg
-Array
-3 Zimmer
-70 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3
-Wohnfläche
-70 m2
-Diese 3-Zimmerwohnung befindet sich in der Nähe der Aare an schöner Lage.Die Wohnung verfügt über e…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Städtchen 26
-1'490
-CHF
-/Monat
-2 1/2 Zimmer Maisonette- Wohnung im Aar…
-Städtchen 26, 4663 Aarburg
-Array
-2.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-65 m2
-HauptangabenGemeinde	AarburgWohnfläche	65 m²Stockwerk	3. StockwerkNutzfläche	65 m²Verfügbarkeit	Sof…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alte Zofingerstrasse
-1'640
-CHF
-/Monat
-Haus 80m2 für Alleinstehende
-Alte Zofingerstrasse, 4663 Aarburg
-Array
-3 Zimmer
-80 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-3
-Wohnfläche
-80 m2
-Zu vermieten ein eigenes Haus mit Mini-Garten.80m2. Im Erdgeschoss befindet sich ein grosser Wohnbe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Frohburgstrasse 61
-1'330
-CHF
-/Monat
-Hübsche Wohnung zu vermieten
-Frohburgstrasse 61, 4663 Aarburg
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-In einer ruhigen Wohngegend in Aarburg vermieten wir eine charmante 4.5 Zimmerwohnung.
-•Das gros…
 Teilen
 E-Mail
 Facebook

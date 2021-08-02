@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/bezirk-gaeu/
 Title: Wohnung & Haus kaufen in Bezirk Gäu - Immostreet.ch
-Description: Wohnung & Haus kaufen in Bezirk Gäu - Immostreet.ch: ImmoStreet.ch hat 41 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in Bezirk Gäu - Immostreet.ch: ImmoStreet.ch hat 45 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-41 Resultate gefunden ·
+45 Resultate gefunden ·
 Wohnung & Haus kaufen in Bezirk Gäu
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,30 +151,241 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Oberbuchsiten
-1'055'000
+Wolfwilerstrasse 24
+780'000
 CHF
-Moderne 4.5-Zimmer Terrassenwohnung auf…
-Oberbuchsiten, 4625 Oberbuchsiten
+Zauberhaftes Zuhause mit Ausbaupotenzial
+Wolfwilerstrasse 24, 4626 Niederbuchsiten
 Array
-4.5 Zimmer
-199 m2
+6.5 Zimmer
+174 m2
 Objekttyp
-Wohnung, Terrassenwohnung
+Wohnung, Einzelhaus
 Zimmer
-4.5
+6.5
 Wohnfläche
-199 m2
-Diese geräumige Terrassenwohnung wird Sie begeistern. Die Highlights sind das lichtdurchflutete Woh…
+174 m2
+Das beeindruckende ehemalige Bauernhaus mit 6.5 Zimmern und dazugehöriger Scheune präsentiert sich …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bienkenstrasse 14
-565'000
+Adresse auf Anfrage
+1'050'000
 CHF
-4.5 Zimmer Wohnung an zentraler Lage
-Bienkenstrasse 14, 4702 Oensingen
+5½ Zimmer Einfamilienhaus mit Autowerks…
+Adresse auf Anfrage, 4625 Oberbuchsiten
+Array
+5.5 Zimmer
+156 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+156 m2
+Etage
+5½ Zimmer Einfamilienhaus mit AutowerkstattSie suchen eine Gewerbeliegenschaft und ein Einfamilienh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+670'000
+CHF
+REFH mit spannendem Raumkonzept und gep…
+Adresse auf Anfrage, 4623 Neuendorf
+Array
+5.5 Zimmer
+130 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+130 m2
+Die Lage dieser Liegenschaft zeichnet sich durch Ruhe und wenig Verkehr aus. Die Quartierstrasse wi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Leuenallee 29
+780'000
+CHF
+Attraktive, moderne und helle 5 .5 Zi. …
+Leuenallee 29, 4702 Oensingen
+Array
+5.5 Zimmer
+146 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+146 m2
+Attraktive, moderne und helle 5 .5 Zimmer Eigentumswohnung, mit gedecktem, sowie verglastem Balkon?…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+575'000
+CHF
+NEUANFANG IN NEUENDORF
+Adresse auf Anfrage, 4623 Neuendorf
+Array
+5.5 Zimmer
+151 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+5.5
+Wohnfläche
+151 m2
+Folgende Besichtigungen finden statt: - Donnerstag, 5. August 2021, von 14:00 - 15:30 Uhr - Dienst…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lehnrüttiweg 7
+395'000
+CHF
+Praktische 4.5-Zimmerwohnung mit ideale…
+Lehnrüttiweg 7, 4702 Oensingen
+Array
+4.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+85 m2
+Oensingen | An zentraler Lage in Oensingen befindet sich Ihre neue 4.5-Zimmerwohnung, welche perfek…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+720'000
+CHF
+Großräumige Eigentumswohnung an Hanglage
+Adresse auf Anfrage, 4702 Oensingen
+Array
+3.5 Zimmer
+121 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+121 m2
+Grossräumige 3,5-Zimmer Wohnung in Oensingen mit modernem Ausbaustandart (letzte Renovationen 2018)…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'900'000
+CHF
+ATEMBERAUBENDE AUSSICHT UND SEHR EXKLUS…
+Adresse auf Anfrage, 4702 Oensingen
+Array
+5.5 Zimmer
+178 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+178 m2
+Die einzigartige Lage begeistert immer wieder von neuem. Diese Villa liegt an schönster Südlage mit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oensingen
+690'000
+CHF
+Zentral gelegenes 4.5 Zi-REFH mit Pergo…
+Oensingen, 4702 Oensingen
+Array
+4.5 Zimmer
+121 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+4.5
+Wohnfläche
+121 m2
+Dieses gepflegte Reihenhaus liegt in einem verkehrsberuhigten, sehr kinderfreundlichen und gut ers…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Vorstadt 3
+595'000
+CHF
+Haushälfte mit Einliegerstudio im Zentr…
+Vorstadt 3, 4622 Egerkingen
+Array
+6 Zimmer
+150 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6
+Wohnfläche
+150 m2
+Etage
+Haus mit 4.5 Zimmern plus EinliegerstudioKernsaniert 1996 / moderner Ausbaustandard
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rain 21, Niederbuchsiten
+1'180'000
+CHF
+6-Zi-EFH u. Atelier,an zentralen, ruhig…
+Rain 21, Niederbuchsiten, 4626 Niederbuchsiten
+Array
+6 Zimmer
+240 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6
+Wohnfläche
+240 m2
+Von Privat zu verkaufen:. 6-Zi-EFH, 240m2 an zentralen und ruhigen Hanglage zwischen Zürich und Ber…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+765'000
+CHF
+Bezaubernde Attikawohnung mit Aussicht …
+Adresse auf Anfrage, 4702 Oensingen
+Array
+5.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+Wohnfläche
+125 m2
+Die gepflegte Attkiawohnung im Obergeschoss ist bequem mit wenigen Treppenstufen erreichbar. Im Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+520'000
+CHF
+Besonnt - Ruhig - Schulnähe
+Adresse auf Anfrage, 4626 Niederbuchsiten
 Array
 4.5 Zimmer
 110 m2
@@ -184,25 +395,7 @@ Zimmer
 4.5
 Wohnfläche
 110 m2
-Die schöne und helle Wohnung befindet sich in einem Mehrfamilienhaus im 2.OG an zentraler Lage in O…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Familienwohnglück der extraklasse!
-Adresse auf Anfrage, 4628 Wolfwil
-Array
-5.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-120 m2
-Sind Sie auf der Suche nach einem neuen Zuhause für Sie und Ihre Liebsten? Dann sind Sie hier genau…
+Diese schöne und gepflegte 4.5 Zimmer Parterrewohnung mit kleinem Garten befindet sich an ruhiger L…
 Teilen
 E-Mail
 Facebook
@@ -226,49 +419,11 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-525'000
+Fulenbacherstrasse 40
+580'000
 CHF
-Ihr neues Zuhause wartet auf Sie!
-Adresse auf Anfrage, 4702 Oensingen
-Array
-4.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-95 m2
-Auf Sie und Ihre Familie wartet im Zentrum von Oensingen eine gemütliche Hochparterre-Wohnung im er…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-650'000
-CHF
-DYNAMISCHE DACHWOHNUNG
-Adresse auf Anfrage, 4702 Oensingen
-Array
-5 Zimmer
-155 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-155 m2
-Folgende Besichtigungen finden statt: - Mittwoch, 2. Juni 2021, von 10:30 Uhr bis 12:00 Uhr - Mont…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Santelstrasse 6
-655'000
-CHF
-SANTEL - EGERKINGEN Mehr als ein Zuhaus…
-Santelstrasse 6, 4622 Egerkingen
+Trendige Neubauwohnungen - Günstige Gel…
+Fulenbacherstrasse 40, 4623 Neuendorf
 Array
 4.5 Zimmer
 120 m2
@@ -279,259 +434,106 @@ Zimmer
 Wohnfläche
 120 m2
 Etage
-An malerischer sanfter Hanglage, direkt am Jurasüdfuss mit Blick auf die Mittellandebene und die Al…
+Besichtigung der Musterwohnung möglich nach Terminvereinbarung.Wir verkaufen modernes und wertvolle…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Guetstrasse 9
-625'000
+Bifang 3
+425'000
 CHF
-Wunderschöne 5.5-Zimmer Maisonette-Wohn…
-Guetstrasse 9, 4702 Oensingen
-Array
-5.5 Zimmer
-137 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-Wohnfläche
-137 m2
-Beschrieb:Diese wunderschöne und grosszügige 5.5-Zimmer Maisonette-Wohnung mit 137 m2 Wohnfläche be…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'780'000
-CHF
-Panorama-Einfamilienhäuser in Egerkingen
-Adresse auf Anfrage, 4622 Egerkingen
-Array
-5.5 Zimmer
-307 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-307 m2
-Etage
-Wir erstellen an wunderbarer Aussichtslage grosszügige Panorama-Einfamilienhäuser.Brutto Wohnfläche…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'500'000
-CHF
-6-MFH an ruhiger Lage zu verkaufen
-Adresse auf Anfrage, 4703 Kestenholz
-Array
-7.5 Zimmer
-964 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7.5
-Wohnfläche
-964 m2
-Interessantes Renditeobjekt: 2x4.5 Zi.-Wg., 2x3,5 Zi.-Wg, 1 x 2,5 Zi.-Wg., 1x1-Zi.-Wg + 4 Garagen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-*RESERVIERT*** Familienparadies mit Wel…
-Adresse auf Anfrage, 4625 Oberbuchsiten
-Array
-6.5 Zimmer
-274 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-274 m2
-Etage
-Eingebettet in einem ruhigen Quartier und umgeben von viel Grünfläche, schlummert ein Zuhause, für …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schachenstrasse 46
-Preis auf Anfrage
-Schönes Reiheneinfamiliehaus mit Attika…
-Schachenstrasse 46, 4702 Oensingen
-Array
-5.5 Zimmer
-215 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-215 m2
-Etage
-Das Reiheneinfamilienhaus liegt an ruhiger, kinderfreundlicher Lage mit viel Grünfläche. Die Zubrin…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Solothurnstrasse
-480'000
-CHF
-3.5-Zimmer-Eigentums-Wohnung im "Leuenf…
-Solothurnstrasse, 4702 Oensingen
-Array
-3.5 Zimmer
-89 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-89 m2
-An der Solothurnstrasse, am Eingang zum «Leuenfeld» entsteht ein neues Mehrfamilienhaus. Im Erdgesc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Buchsweg
-1'190'000
-CHF
-IHR WOHNTRAUM AN IDYLLISCHER LAGE
-Buchsweg, 4625 Oberbuchsiten
-Array
-7.5 Zimmer
-186 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7.5
-Wohnfläche
-186 m2
-Etage
-Herzlich willkommen am Buchsweg in Oberbuchsiten:
-Sie sind schon länger auf der Suche nach eine…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brunnenweg 2
-695'000
-CHF
-Wohnqualität an zentraler Lage
-Brunnenweg 2, 4702 Oensingen
+Grosszügige 4.5 ZWG mit 2 Aussenparkpla…
+Bifang 3, 4625 Oberbuchsiten
 Array
 4.5 Zimmer
-110 m2
+125 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-110 m2
-Etage
-An attraktiver Wohnlage und familienfreundlicher Umgebung entsteht ab März 2021 das "Mehrfamilienha…
+125 m2
+Die attraktive 4.5 Zimmer- Wohnung mit Balkon und Keller befindet sichim 1. Obergeschoss in einem 7…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Besonnt - Ruhig - Schulnähe
-Adresse auf Anfrage, 4626 Niederbuchsiten
-Array
-4.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-110 m2
-Diese schöne und gepflegte 4.5 Zimmer Parterrewohnung mit kleinem Garten befindet sich an ruhiger L…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Egerkingen
-825'000
+Winkelstrasse 23
+460'000
 CHF
-Grosszügige 5.5-Zimmer Attika-Maisonett…
-Egerkingen, 4622 Egerkingen
-Array
-5.5 Zimmer
-200 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-200 m2
-Die geräumige Wohnung auf zwei Etagen wird Sie begeistern. Hier finden Sie perfektes Wohnen und ein…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Santelstrasse 2
-385'000
-CHF
-SANTEL - EGERKINGEN Mehr als ein Zuhaus…
-Santelstrasse 2, 4622 Egerkingen
+"Traumwohnung: 2.5 Zimmer Neubau mit ei…
+Winkelstrasse 23, 4703 Kestenholz
 Array
 2.5 Zimmer
-62 m2
+68 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-62 m2
-Etage
-An malerischer sanfter Hanglage, direkt am Jurasüdfuss mit Blick auf die Mittellandebene und die Al…
+68 m2
+Wohnräume, um den Alltag aussergewöhnlich zu machen.
+An der Winkelstrasse in Kestenholz im wunde…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Wolfwilerweg 23
-1'200'000
+Winkelstrasse 21
+640'000
 CHF
-Wohlfühloase nach Feng Shui mit Fernsic…
-Wolfwilerweg 23, 4624 Härkingen
+«Modernes Wohnen in herrlicher Kulisse …
+Winkelstrasse 21, 4703 Kestenholz
 Array
-7.5 Zimmer
-220 m2
+4.5 Zimmer
+106 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Flach
 Zimmer
-7.5
+4.5
 Wohnfläche
-220 m2
-Etage
-Viele reden von Harmonie - Sie leben sie, und zwar in Ihrem neuen Zuhause in der Nähe von Wald und …
+106 m2
+Wohnräume, um den Alltag aussergewöhnlich zu machen.
+An der Winkelstrasse in Kestenholz im wunde…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Wohlfühloase mit Weitblick
-Adresse auf Anfrage, 4702 Oensingen
+Winkelstrasse 19
+710'000
+CHF
+«Standard or Standout! 3.5 Zimmer Attik…
+Winkelstrasse 19, 4703 Kestenholz
 Array
-7.5 Zimmer
-194 m2
+3.5 Zimmer
+110 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Flach
 Zimmer
-7.5
+3.5
 Wohnfläche
-194 m2
-Etage
-In der schönsten und beliebtesten Wohnlage in Oensingen,liegt dieses freistehende Einfamilienhaus m…
+110 m2
+Wohnräume, um den Alltag aussergewöhnlich zu machen.
+An der Winkelstrasse in Kestenholz im wunde…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Winkelstrasse 13
+890'000
+CHF
+«Modernes Wohnen in herrlicher Kulisse …
+Winkelstrasse 13, 4703 Kestenholz
+Array
+5.5 Zimmer
+144 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+144 m2
+Wohnräume, um den Alltag aussergewöhnlich zu machen.
+An der Winkelstrasse in Kestenholz im wunde…
 Teilen
 E-Mail
 Facebook

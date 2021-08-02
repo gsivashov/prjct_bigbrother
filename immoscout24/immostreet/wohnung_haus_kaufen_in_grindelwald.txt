@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/apartment-and-house/in-grindelwald/
 Title: Wohnung & Haus kaufen in Grindelwald - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Grindelwald - Immostreet.ch: ImmoStreet.ch hat 22 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Grindelwald - Immostreet.ch: ImmoStreet.ch hat 23 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-22 Resultate gefunden ·
+23 Resultate gefunden ·
 Wohnung & Haus kaufen in Grindelwald
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,6 +151,165 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Bisiweg 4
+1'945'000
+CHF
+Helle 4.5-Zimmerwohnung im Dachgeschoss…
+Bisiweg 4, 3818 Grindelwald
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Etage
+ObjektbeschreibungDie Maisonnette-Dachwohnung im Chalet Snow Flake liegt an vorzüglicher und sonnig…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Terrassenweg 164
+3'450'000
+CHF
+Chalet Home - Wohnkomfort am Terrassenw…
+Terrassenweg 164, 3818 Grindelwald
+Array
+6.5 Zimmer
+213 m2
+Objekttyp
+Wohnung, Chalet
+Zimmer
+6.5
+Wohnfläche
+213 m2
+Dieses einmalige sowie prächtige ?Bijou? lässt bestimmt auch Ihr Herz höher schlagen! Die Liegensch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Terrassenweg 10
+Preis auf Anfrage
+Einfamilienchalet Weid
+Terrassenweg 10, 3818 Grindelwald
+Array
+7.5 Zimmer
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Etage
+ObjektbeschreibungDas grosszügige Einfamilienchalet Weid umfasst 3 Geschosse. Nebst der prominenten…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Spillstattstrasse 44
+3'250'000
+CHF
+4.5-Zimmerwohnung im Chalet Alpenblume
+Spillstattstrasse 44, 3818 Grindelwald
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Etage
+ObjektbeschreibungHerzlich willkommen in der edlen 4.5-Zimmer-Attikawohnung im Chalet Alpenblume. M…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sagistutz 11
+2'880'000
+CHF
+Moderne 5.5-Zimmerwohnung mit Galerie, …
+Sagistutz 11, 3818 Grindelwald
+Array
+5.5 Zimmer
+182 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+5.5
+Wohnfläche
+182 m2
+ObjektbeschreibungChalet Bärgrose - wohnen an friedvoller und sonniger Südhanglage! Entdecken Sie d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Herrschaftsweg 16
+5'800'000
+CHF
+Exklusives Chalet Bellosguardo
+Herrschaftsweg 16, 3818 Grindelwald
+Array
+5.5 Zimmer
+336 m2
+Objekttyp
+Wohnung, Chalet
+Zimmer
+5.5
+Wohnfläche
+336 m2
+ObjektbeschreibungAm sonnigsten Berghang von Grindelwald finden Sie das grosszügige und luxuriöse C…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grundstrasse 3
+2'845'000
+CHF
+Chalet Antara, helle Dachwohnung nähe B…
+Grundstrasse 3, 3818 Grindelwald
+Array
+4.5 Zimmer
+154 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+154 m2
+ObjektbeschreibungDie helle und grossräumige Dachwohnung mit Galerie im Chalet Antara bietet einen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Weidweg 3
+4'950'000
+CHF
+Stilvolles Chalet Princess mit grosszüg…
+Weidweg 3, 3818 Grindelwald
+Array
+5.5 Zimmer
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Etage
+ObjektbeschreibungDas Chalet Princess wurde im Jahr 2011 nach den neusten energietechnischen Standa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Spillstattstrasse 70
+1'880'000
+CHF
+Zentral gelegene 4.5-Zimmerwohnung im C…
+Spillstattstrasse 70, 3818 Grindelwald
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+ObjektbeschreibungDie traumhafte 4.5-Zimmerwohnung befindet sich im 1. Obergeschoss des Chalets Bäc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Wychelstrasse 11
 Preis auf Anfrage
 Schönes Einfamilienhaus Chalet Eleven m…
@@ -248,13 +407,13 @@ Gemütliche Erdgeschosswohnung an traumh…
 Kirchbühlstrasse 40, 3818 Grindelwald
 Array
 1.5 Zimmer
-35 m2
+41 m2
 Objekttyp
 Wohnung, Terrassenwohnung
 Zimmer
 1.5
 Wohnfläche
-35 m2
+41 m2
 ObjektbeschreibungDie gemütliche 1.5-Zimmerwohnung befindet sich im Erdgeschoss des Chalets Vivaldi…
 Teilen
 E-Mail
@@ -309,25 +468,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Terrassenweg 164
-3'450'000
-CHF
-Chalet Home - Wohnkomfort am Terrassenw…
-Terrassenweg 164, 3818 Grindelwald
-Array
-6.5 Zimmer
-213 m2
-Objekttyp
-Wohnung, Chalet
-Zimmer
-6.5
-Wohnfläche
-213 m2
-ObjektbeschreibungDieses einmalige sowie prächtige ?Bijou? lässt bestimmt auch Ihr Herz höher schla…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Kirchbühlstrasse 38
 2'900'000
 CHF
@@ -359,144 +499,6 @@ Zimmer
 Wohnfläche
 95 m2
 ObjektbeschreibungDie schöne 4.5-Zimmerwohnung befindet sich im Dach- und Galeriegeschoss des Chale…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Spillstattstrasse 44
-3'250'000
-CHF
-4.5-Zimmerwohnung im Chalet Alpenblume
-Spillstattstrasse 44, 3818 Grindelwald
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4.5
-Etage
-ObjektbeschreibungHerzlich willkommen in der edlen 4.5-Zimmer-Attikawohnung im Chalet Alpenblume. M…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Terrassenweg 10
-5'000'000
-CHF
-Einfamilienchalet Weid
-Terrassenweg 10, 3818 Grindelwald
-Array
-Objekttyp
-Wohnung, Einzelhaus
-ObjektbeschreibungDas grosszügige Einfamilienchalet Weid umfasst 3 Geschosse. Nebst der prominenten…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Spillstattstrasse 70
-1'880'000
-CHF
-Zentral gelegene 4.5-Zimmerwohnung im C…
-Spillstattstrasse 70, 3818 Grindelwald
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-ObjektbeschreibungDie traumhafte 4.5-Zimmerwohnung befindet sich im 1. Obergeschoss des Chalets Bäc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Bergwelt Grindelwald Chalet Beryll
-Adresse auf Anfrage, 3818 Grindelwald
-Array
-6.5 Zimmer
-272 m2
-Objekttyp
-Wohnung, Chalet
-Zimmer
-6.5
-Wohnfläche
-272 m2
-Willkommen in unserer Bergwelt ? wir entführen Sie in das spannendste Wohnprojekt im Berner Oberlan…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Herrschaftsweg 16
-5'800'000
-CHF
-Exklusives Chalet Bellosguardo
-Herrschaftsweg 16, 3818 Grindelwald
-Array
-5.5 Zimmer
-336 m2
-Objekttyp
-Wohnung, Chalet
-Zimmer
-5.5
-Wohnfläche
-336 m2
-ObjektbeschreibungAm sonnigsten Berghang von Grindelwald finden Sie das grosszügige und luxuriöse C…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weidweg 3
-4'950'000
-CHF
-Stilvolles Chalet Princess mit grosszüg…
-Weidweg 3, 3818 Grindelwald
-Array
-5.5 Zimmer
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Etage
-ObjektbeschreibungDas Chalet Princess wurde im Jahr 2011 nach den neusten energietechnischen Standa…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grundstrasse 3
-2'845'000
-CHF
-Chalet Antara, helle Dachwohnung nähe B…
-Grundstrasse 3, 3818 Grindelwald
-Array
-4.5 Zimmer
-154 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-154 m2
-ObjektbeschreibungDie helle und grossräumige Dachwohnung mit Galerie im Chalet Antara bietet einen …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grundstrasse 11
-4'750'000
-CHF
-Einfamilienchalet im Alpenchicstil nähe…
-Grundstrasse 11, 3818 Grindelwald
-Array
-6.5 Zimmer
-350 m2
-Objekttyp
-Wohnung, Chalet
-Zimmer
-6.5
-Wohnfläche
-350 m2
-ObjektbeschreibungIn leicht erhöhter Position über dem Ortsteil ,,Rothenegg" entstand ein Ensemble …
 Teilen
 E-Mail
 Facebook

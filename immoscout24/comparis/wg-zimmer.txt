@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/immobilien/listgeo/show?mode=6
 Title: WG-Zimmer - Immobiliensuche Schweiz
 Description: WG-Zimmer , besser entscheiden dank Zusatzinformationen. Im grössten Immobilienportal der Schweiz suchen und WG-Zimmer finden.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr

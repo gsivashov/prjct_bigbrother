@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/kanton-nidwalden/
 Title: Wohnung & Haus mieten in Kanton Nidwalden - Immostreet.ch
-Description: Wohnung & Haus mieten in Kanton Nidwalden - Immostreet.ch: ImmoStreet.ch hat 101 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Kanton Nidwalden - Immostreet.ch: ImmoStreet.ch hat 83 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-101 Resultate gefunden ·
+83 Resultate gefunden ·
 Wohnung & Haus mieten in Kanton Nidwalden
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,353 +152,153 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Mühlematthof 4
-1'290
+Büntistrasse
+920
 CHF
 /Monat
-Charmante Kleinwohnung
-Mühlematthof 4, 6374 Buochs
+Moderne 1.5 Zimmer Wohnung in Stans
+Büntistrasse, 6370 Stans
 Array
-2.5 Zimmer
-55 m2
+1.5 Zimmer
+33 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+1.5
 Wohnfläche
-55 m2
-Hier lässt es sich wohnenDiese Wohnung befindet sich an zentraler Lage mitten in Buochs. Diverse Ei…
+33 m2
+Per 01.Oktober 2021 verfügbar.Modernes Bad, Küche, Bodenheizung, Einbauschränke, Kellerabteil und V…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Mühlemattstrasse 4
-1'205
+Adresse auf Anfrage
+1'490
 CHF
 /Monat
-Wohnen im Zentrum von Buochs
-Mühlemattstrasse 4, 6374 Buochs
+Gemütliche 3-Zi Dachwohnung 75 m2
+Adresse auf Anfrage, 6375 Beckenried
 Array
-2.5 Zimmer
-56 m2
+3 Zimmer
+75 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+3
 Wohnfläche
-56 m2
-Hier lässt es sich wohnenDiese Wohnung befindet sich an zentraler Lage mitten in Buochs. Diverse Ei…
+75 m2
+Beckenried NW ? gesucht ab Mitte August 2021 oder nach Vereinbarung, Nachmieter fürsehr helle, gemü…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Büelstrasse 21
-3'060
+Sonnhaldenstrasse 9
+2'000
 CHF
 /Monat
-Mieten ohne Kaution - Luxuriöse Terrass…
-Büelstrasse 21, 6052 Hergiswil NW
+4,5 Zimmer in ruhiger Lage
+Sonnhaldenstrasse 9, 6052 Hergiswil NW
 Array
 4.5 Zimmer
-134 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-134 m2
-Wunderschöne, moderne Attikawohnung an traumhafter Lage per 01.10.2021 zu vermieten!Sie bietet eine…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mattli 1
-2'480
-CHF
-/Monat
-Attraktive Familienwohnung an zentraler…
-Mattli 1, 6052 Hergiswil NW
-Array
-4.5 Zimmer
-127 m2
+95 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-127 m2
-Hier lässt es sich wohnenDas lang gezogene Dorf Hergiswil liegt am wunderschönen Vierwaldstättersee…
+95 m2
+2 Balkone, 2 Bäder mit Dusche und Badewanne, Parkgarage, grosser Keller, ruhige Lage, schöne Aussic…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Pilatusstrasse 46
-2'070
+Stanserstrasse 8
+1'700
 CHF
 /Monat
-Helle 3.5-Zimmerwohnung mit Sitzplatz
-Pilatusstrasse 46, 6052 Hergiswil NW
-Array
-3.5 Zimmer
-101 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-101 m2
-Etage
-Hier lässt es sich wohnenDie Überbauung Untersteinhof befindet sich in unmittelbarer Nähe des Autob…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stanserstrasse 34
-900
-CHF
-/Monat
-Charmante 4-Zi Altbauwohnung in Ennetbü…
-Stanserstrasse 34, 6373 Ennetbürgen
+ZENTRAL UND LÄNDLICH
+Stanserstrasse 8, 6362 Stansstad
 Array
 4 Zimmer
+72 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4
-Wir vermieten ab sofort oder nach Übereinkunft eine einfache 4-Zi-Altbauwohnung im 1. Stock eines 2…
+Wohnfläche
+72 m2
+Diese renovierte 4-Zimmer-Wohnung eignet sich ideal für ein Paar oder eine Einzelperson. Der Eingan…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterscheid 14
+160
+CHF
+/Monat
+Disponibelraum mit 12m2
+Unterscheid 14, 6375 Beckenried
+Array
+Objekttyp
+Atelier
+Für weitere Informationen stehen wir Ihnen gerne zur Verfügung.
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'290
+1'900
 CHF
 /Monat
-SONNIGE UND ZENTRALE LAGE
+Extravagante Wohnung
+Adresse auf Anfrage, 6052 Hergiswil NW
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Unglaublicher Ausblick auf den See und die Berge, ruhige gegend. 3 Zimmer , super aufgeteilt auf 4 …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hirsacher 2
+2'320
+CHF
+/Monat
+3.5 Zimmerwohnung Erstvermietung
+Hirsacher 2, 6373 Ennetbürgen
+Array
+3.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+95 m2
+Attraktive 3.5-Zimmer Neubauwohnungen im sonnigen Ennetbürgen in der neuen Überbauung Hirsacher zu …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'550
+CHF
+/Monat
+3.5 Zi-Wohnung in Stans (EG) zu vermiet…
 Adresse auf Anfrage, 6370 Stans
 Array
 3.5 Zimmer
-70 m2
+90 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-70 m2
-Diese Wohnung befindet sich in einem sehr ruhigen und gepflegten Wohnquartier mit hervorragender In…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfplatz 1
-950
-CHF
-/Monat
-1 Zimmerwohnung / Studio
-Dorfplatz 1, 6052 Hergiswil NW
-Array
-1 Zimmer
-Objekttyp
-Wohnung, Einzelzimmer
-Zimmer
-1
-Etage
-Mitten im Dorf in Hergiswil NW, eine 1 Zimmerwohnung mit Küche/ Studio im 2. OG zu vermieten.
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Feld 5
-2'810
-CHF
-/Monat
-5.5-Zimmer-Maisonette-Wohnung, 3.+4. OG
-Feld 5, 6362 Stansstad
-Array
-5.5 Zimmer
-171 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-5.5
-Wohnfläche
-171 m2
-Etage
-Hier lässt es sich wohnenDie Wohnung befindet sich an sonniger und zentraler Lage, Coop und Bahnhof…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Buochserstrasse 86
-1'250
-CHF
-/Monat
-1.5 Zi.-Appartement in Beckenried
-Buochserstrasse 86, 6375 Beckenried
-Array
-1.5 Zimmer
-40 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-40 m2
-Für alle, die das Kleine aber Feine schätzen, zu vermieten an der Buochserstrasse 86 in Beckenried:…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zielmatte, Stansstad
-1'575
-CHF
-/Monat
-3.5-Zimmer-Wohnung hell, sonnig und mit…
-Zielmatte, Stansstad, 6362 Stansstad
-Array
-3.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-75 m2
-Zu vermieten per 1. September eine sonnige, helle Wohnung mit grosszügigem Balkon, an zentraler Lag…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eichli 17
-1'230
-CHF
-/Monat
-Hübsche 2 1/2 Zimmer Dach Wohnung mit s…
-Eichli 17, 6370 Stans
-Array
-2.5 Zimmer
-60 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-60 m2
-Schöne 2 1/2 Zimmer Dachwohnung in ruhigem Quartier. Ab sofort zu vermieten. Die Wohnung ist teilwe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schützenmatte B 11
-1'065
-CHF
-/Monat
-Kleine Wohnung im Grünen
-Schützenmatte B 11, 6362 Stansstad
-Array
-1.5 Zimmer
-49 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-49 m2
-In wenigen Minuten sind Sie am See, um sich von den Strapazen des Alltags zu erholen.Autobahnanschl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fellerwil 4
-2'750
-CHF
-/Monat
-4.5-Zimmerwohnung mit separatem Studio
-Fellerwil 4, 6375 Beckenried
-Array
-4.5 Zimmer
-125 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-125 m2
-Sie Suchen eine neues Zuhause an schöner Aussichtslage mit guter Anbindung an ÖV und Autobahn? Dann…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obermattweg 9
-690
-CHF
-/Monat
-Schönes WG-Zimmer in Hergiswil (NW) ver…
-Obermattweg 9, 6052 Hergiswil NW
-Array
-11 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-11 m2
-- 11.3 m2 Zimmer im WG "Neptun" des Studentenheims Universe 9 (4. Stock), geeignet für Studenten un…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhostrasse 11
-1'595
-CHF
-/Monat
-WOHNEN im steuergünstigen Stansstad
-Bahnhostrasse 11, 6362 Stansstad
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Sehr helle 4.5-Zimmerwohnung nahe vom Bahnhof und vom See mit überdachter Terrasse.Alle Zimmer habe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Allmendstrasse 8
-1'395
-CHF
-/Monat
-Nachmieter gesucht für 3,5 Zimmer Wohn…
-Allmendstrasse 8, 6362 Stansstad
-Array
-3.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-65 m2
-Für meine schöne 3,5 Zimmer-Wohnung 2 OG suche ich per sofort oder nach Vereinbarung eine/n Nachmie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-900
-CHF
-/Monat
-KLEIN ABER FEIN, MÖBLIERT
-Adresse auf Anfrage, 6376 Emmetten
-Array
-1 Zimmer
-22 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-1
-Wohnfläche
-22 m2
-Dieses Objekt befindet sich in einen ruhigen Wohnquartier mit gutem Anschluss an ÖV und Infrastrukt…
+90 m2
+Schöne 3.5-Zi-Wohnung. Zentral gelegen in Stans (5 Min zum Bahnhof und Einkaufsläden, etc.). Ruhige…
 Teilen
 E-Mail
 Facebook
@@ -523,33 +323,222 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Riedstrasse 2
-1'950
+Engelbergstrasse
+450
 CHF
 /Monat
-4-Zimmer-Wohnung mit Bergpanorama an ze…
-Riedstrasse 2, 6373 Ennetbürgen
+WG Kollegin oder -Kollege gesucht
+Engelbergstrasse, 6370 Stans
 Array
-4 Zimmer
-120 m2
+20 m2
 Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-4
+Wohnung, Einzelzimmer
 Wohnfläche
-120 m2
-Etage
-Zu vermieten an zentraler Lage im sonnigen Ennetbürgen - Helle 4-Zimmer-DachwohnungEnnetbürgen ist …
+20 m2
+Wir, 2 Männer im Alter von 40 plus, suchen eine unkomplizierte, ordentliche WG-Kollegin oder WG-Kol…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 6
+Adresse auf Anfrage
+6'250
+CHF
+/Monat
+Zu vermieten, Einfamilien-Haus, Generat…
+Adresse auf Anfrage, 6052 Hergiswil NW
+Array
+7.5 Zimmer
+290 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Wohnfläche
+290 m2
+Zu vermieten ab Herbst 2021 im steuergünstigen Hergiswil am Vierwaldstättersee;grosszügiges Einfami…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mühlematthof 3
+2'570
+CHF
+/Monat
+Wohnen im Einfamilienhaus
+Mühlematthof 3, 6374 Buochs
+Array
+4.5 Zimmer
+175 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+175 m2
+Hier lässt es sich wohnenDas alleinstehende Haus befindet sich an zentraler Lage im beliebten und k…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+brisenstrasse 5, Stans
+650
+CHF
+/Monat
+Untermieter gesucht!
+brisenstrasse 5, Stans, 6370 Stans
+Array
+7 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+7
+Das Frei Zimmer ist CA 14mq, unmobliert, 650 miete inkl. Nebenkosten, für Strom, Wasser, Heizung, u…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stanserstrasse 1
+950
+CHF
+/Monat
+Wohnung mit separater Küche
+Stanserstrasse 1, 6373 Ennetbürgen
+Array
+1 Zimmer
+28 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+28 m2
+Die 1 Zimmerwohnung befindet sich mitten im Dorfzentrum von Ennetbürgen direkt bei der Postautohalt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kohltalstrasse 8
+730
+CHF
+/Monat
+Möblierte 2-Zimmer Ferienwohnung / daue…
+Kohltalstrasse 8, 6376 Emmetten
+Array
+2 Zimmer
+40 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+40 m2
+Zur Vermietung steht eine möblierte 2-Zimmer Wohnung zur Nutzung als Ferienwohnung / Wochenendwohnu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stanserstrasse 32
+1'425
+CHF
+/Monat
+Zentral gelegene, helle und ruhige 4.5 …
+Stanserstrasse 32, 6373 Ennetbürgen
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Zu vermieten per sofort o.n.V. an zentraler, ruhiger Lage neben Altersheim Oeltrotte und ÖV helle, …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'140
+CHF
+/Monat
+Nachmieter für 4.5 Zimmer Wohnung gesuc…
+Adresse auf Anfrage, 6370 Stans
+Array
+4.5 Zimmer
+118 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+118 m2
+Stans: Wunderschöne helle 4 1/2 Zimmer Wohnung auf 118 m2 sucht einen Nachmieter. Die Wohnung biete…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Aemättlihof 115
+2'220
+CHF
+/Monat
+Ihr neues Reich mit Blick aufs Stanserh…
+Aemättlihof 115, 6370 Stans
+Array
+5.5 Zimmer
+107 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+107 m2
+Hier lässt es sich wohnenDiese Wohnung befindet sich im beliebten Aemättlihof-Familienquartier. In …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Riedmatt 11
+2'170
+CHF
+/Monat
+Mieten ohne Kaution - Hier sind Sie auf…
+Riedmatt 11, 6373 Ennetbürgen
+Array
+4.5 Zimmer
+106 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+106 m2
+In der Überbauung Riedmatt in Ennetbürgen vermieten wir per 01.10.2021 eine traumhafte 4.5 Zimmer-W…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfplatz 4
+580
+CHF
+/Monat
+Möbliertes 1-Zimmer-Studio an zentraler…
+Dorfplatz 4, 6052 Hergiswil NW
+Array
+15 m2
+Objekttyp
+Wohnung, Studio
+Wohnfläche
+15 m2
+Wir vermieten per sofort oder nach Vereinbarung ein Studio mit Lavabo im Zentrum von Hergiswil.
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 5
 1
 2
 3
 4
-5
 nächste Seite
 ImmoStreet.ch
 Mieten

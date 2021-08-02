@@ -48,6 +48,7 @@ Physische Edelmetalle
 Highlights
 Börsenspiel
 Börse: Marktübersicht
+Vorsorgefonds
 Unser Vorsorgebuch
 Nachhaltig –
 wie «grün» ist Ihr Fonds?
@@ -58,9 +59,8 @@ Jetzt ermitteln
 Hypothek
 Hypothek in der Übersicht
 Festhypothek
-Libor-Hypothek
-Variable Hypothek
 SARON-Hypothek
+Variable Hypothek
 Hypolimite
 Baukredit
 Eigenheim kaufen
@@ -83,6 +83,7 @@ Kredit in der Übersicht
 Konsumkredit
 Privatkredit
 Autokredit
+Autoleasing
 Weiterbildungskredit
 Limite
 Lombardkredit
@@ -259,7 +260,7 @@ Kontakt
 Downloads
 Produkt-Infoblatt (PDF, 608k)
 Preis-Broschüre (PDF, 2461k)
-Angebots-Broschüre (PDF, 1898k)
+Angebots-Broschüre (PDF, 2139k)
 Ihre Vorteile
 Die Karte wird weltweit in vielen Geschäften vor Ort akzeptiert.
 Sie ersetzt fehlendes Kleingeld bei Spontankäufen.
@@ -326,6 +327,9 @@ Einkauf bezahlen, aufrunden
 und ansparen
 Zahlen Sie mit Maestro-Karte oder Migros App und legen Sie automatisch Geld zurück.
 Weiterlesen
+Visa Free
+Ihre perfekte Shoppingbegleitung – weltweit und online.
+Mehr dazu
 Kontakt
 Wir helfen Ihnen mit Ihrem Anliegen gerne weiter:
 Privatpersonen

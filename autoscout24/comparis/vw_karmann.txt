@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marktplatz/vw/karmann
 Title: VW Karmann – Preise vergleichen mit Comparis
 Description: Finden Sie unter 7 VW Karmann Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -610,7 +608,7 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 VW
-(18'380)
+(16'026)
 VW Karmann Occasion
 (4)
 VW Karmann Oldtimer
@@ -623,21 +621,21 @@ VW Karmann Benzin
 (6)
 Modelle
 VW Golf
-(4'832)
-VW Tiguan
-(2'000)
+(4'441)
 VW Polo
-(1'796)
+(1'814)
+VW Tiguan
+(1'551)
 VW Passat
-(1'376)
-VW Touran
-(913)
+(1'087)
 VW T6
-(874)
-VW T-ROC
-(814)
+(745)
+VW Touran
+(702)
 VW Caddy
-(801)
+(687)
+VW T-ROC
+(683)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -653,6 +651,16 @@ weniger
 6 Inserate
 0 Inserate
 0 Inserate
+VW KARMANN-GHIA VW 14-KARMANN
+11.06.2021
+Oldtimer
+05.1972, Manuell, Benzin
+64'000 km, 50 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 22'000
+ab CHF 402 / Monat
 VW KARMANN-GHIA 34
 27.05.2021
 Occasion
@@ -694,17 +702,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 33'500
 ab CHF 612 / Monat
-Preisreduktion
-VW KARMANN-GHIA Coupé
-02.06.2020
-Oldtimer
-02.1961, Manuell, Benzin
-72'000 km, Weiss
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 34'500
-ab CHF 630 / Monat
 Preisreduktion
 VW KARMANN-GHIA
 07.09.2019

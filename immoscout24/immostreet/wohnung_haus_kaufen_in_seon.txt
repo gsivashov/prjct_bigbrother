@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/in-seon/
 Title: Wohnung & Haus kaufen in Seon - Immostreet.ch
-Description: Wohnung & Haus kaufen in  Seon - Immostreet.ch: ImmoStreet.ch hat 5 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in  Seon - Immostreet.ch: ImmoStreet.ch hat 7 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-5 Resultate gefunden ·
+7 Resultate gefunden ·
 Wohnung & Haus kaufen in Seon
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,27 +151,29 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Hargartenstrasse 14
-1'780'000
+Unterdorfstrasse 52
+990'000
 CHF
-Ein ultimativ grosszügiges Einfamilienh…
-Hargartenstrasse 14, 5703 Seon
+Traumwohnung als Eigentum in Top Infras…
+Unterdorfstrasse 52, 5703 Seon
 Array
-6.5 Zimmer
+4.5 Zimmer
+109 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Flach
 Zimmer
-6.5
-Etage
-Bausubstanz - mit hoher Qualität und Stil ! Zu verkaufen, da nun viel zu gross! das charmante  Einf…
+4.5
+Wohnfläche
+109 m2
+Alles was Ihr Herz begehrt und das in einem Ort mit fantastischer Infrastruktur!Wunderschöne Wohnun…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Lindenweg 3
-825'000
+795'000
 CHF
-Home sweet home
+Dachwohnung mit 2 Balkonen
 Lindenweg 3, 5703 Seon
 Array
 5.5 Zimmer
@@ -187,21 +189,54 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Oberdorfstrasse 25
-1'100'000
+Gässli
+750'000
 CHF
-Heimeliges Bauernhaus im rustikalen Sti…
-Oberdorfstrasse 25, 5703 Seon
+6-Zimmer-Bauernhaus mit Ausbaupotential
+Gässli, 5703 Seon
 Array
-8 Zimmer
-170 m2
+6 Zimmer
+Objekttyp
+Wohnung, Bauernhaus
+Zimmer
+6
+- 6-Zimmer Bauernhaus mit Scheune - Ruhige, sonnige Lage - Grosser, besonnter Vorplatz - Ausbaupote…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hargartenstrasse
+1'095'000
+CHF
+Sonnenverwöhnt und umgeben von der Natur
+Hargartenstrasse, 5703 Seon
+Array
+5.5 Zimmer
+160 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-8
+5.5
 Wohnfläche
-170 m2
-Per sofort oder nach Vereinbarung kann das heimelige Bauernhaus im rustikalen Stil an der Oberdorfs…
+160 m2
+Wohnen im vollem Genuss. Die Gemeinde Seon bietet Ihnen eine ruhige, idyllische und doch zentrale L…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hargartenstrasse 14
+1'780'000
+CHF
+Ein helles Einfamilienhaus an sehr ruhi…
+Hargartenstrasse 14, 5703 Seon
+Array
+6.5 Zimmer
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Etage
+Bausubstanz - von hoher Qualität und Stil ! Zu verkaufen, da nun viel zu gross! das charmante  Einf…
 Teilen
 E-Mail
 Facebook

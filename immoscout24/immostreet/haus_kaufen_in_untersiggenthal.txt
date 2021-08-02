@@ -138,47 +138,66 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-535'000
+Hofacherstrasse 4
+497'000
 CHF
-41/2 Zimmer Wohnung zu verkaufen
-Adresse auf Anfrage, 5417 Untersiggenthal
+Frisch und umfassend sanierte 3.5-Zimme…
+Hofacherstrasse 4, 5417 Untersiggenthal
 Array
-4.5 Zimmer
-100 m2
+3.5 Zimmer
+75 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+3.5
 Wohnfläche
-100 m2
-Im 5 Stock, mit Lift. Traumhafte Aussicht Richtung Brugg und an den Siggenberg! Ink. Waschmaschine,…
+75 m2
+Diese im Mai / Juni 2021 attraktiv sanierte 3.5-Zimmerwohnung in der gepflegten Liegenschaft an der…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Niederwiesstrasse 10
-535'000
+Lochmattstrasse 6
+750'000
 CHF
-4.5-Zimmerwohnung mit Weitblick
-Niederwiesstrasse 10, 5417 Untersiggenthal
+4.5-Zimmer-Erdgeschosswohnung mit Tiefg…
+Lochmattstrasse 6, 5417 Untersiggenthal
 Array
 4.5 Zimmer
-100 m2
+110 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-100 m2
+110 m2
+KaufobjektDiese ruhig gelegene 4.5-Zimmer-Gartenwohnung am Bauzonenrand besticht mit herrlichem Ums…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Weinbergstrasse 59
+1'680'000
+CHF
+5.5-Zimmer-Terrassenhaus
+Weinbergstrasse 59, 5417 Untersiggenthal
+Array
+5.5 Zimmer
+151 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+5.5
+Wohnfläche
+151 m2
 Etage
-Auf dem sonnigen Balkon geniesst man die Weitsicht auf das Limmattal und hat Zugang zu allen Zimmer…
+Auf unserer eigens kreierten Website über dieses Terrassenhaus entdecken Sie noch unzählige weitere…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Bodenächerstrasse 20
-330'000
+320'000
 CHF
 Klein aber fein, renovierte Wohnung mit…
 Bodenächerstrasse 20, 5417 Untersiggenthal
@@ -192,26 +211,6 @@ Zimmer
 Wohnfläche
 47 m2
 Klein aber fein ? renovierte Wohnung mit Südbalkon und AussichtDie charmante 2.5-Zimmerwohnung lieg…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Niederwiesstrasse 12
-625'000
-CHF
-Spezielle grosszügige 2.5-Zimmerwohnung…
-Niederwiesstrasse 12, 5417 Untersiggenthal
-Array
-3 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-100 m2
-Etage
-Merkmale und AusstattungDiese sehr gepflegte und grosszügige 2.5-Zimmerwohnung ist aus der Fläche e…
 Teilen
 E-Mail
 Facebook

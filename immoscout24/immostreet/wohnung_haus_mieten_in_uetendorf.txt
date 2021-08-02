@@ -152,31 +152,27 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Postgässli 15
-1'690
-CHF
-/Monat
-Super zentrale, ruhig gelegene Wohnung
-Postgässli 15, 3661 Uetendorf
+Adresse auf Anfrage
+Preis auf Anfrage
+ZENTRAL UND LICHTDURCHFLUTET
+Adresse auf Anfrage, 3661 Uetendorf
 Array
-4.5 Zimmer
-98 m2
+3.5 Zimmer
+81 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+3.5
 Wohnfläche
-98 m2
-Die 4½-Zimmerwohnung befindet sich in der 1. Etage in einem Mehrfamilienhaus. Die Wohnung wurde 201…
+81 m2
+Diese Wohnung zeichnet sich durch Ihre zentrale Lage inmitten Uetendorf aus. Die gute Raumaufteilun…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'970
-CHF
-/Monat
-ZENTRAL UND LICHTDURCHFLUTET
+Preis auf Anfrage
+LICHTDURCHFLUTET, STILVOLL UND ZENTRAL
 Adresse auf Anfrage, 3661 Uetendorf
 Array
 4.5 Zimmer
@@ -192,12 +188,49 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Fliederweg 12
+Aegertenstrasse 8
+1'700
+CHF
+/Monat
+5 Zimmer Wohnung in Bauernhaus
+Aegertenstrasse 8, 3661 Uetendorf
+Array
+5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+5
+5 Zimmer Wohnung auf 2 Stockwerken, mit Balkon und Cheminée. Waschmaschine und Tumbler in der Wohnu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zelgstrasse 76
+1'900
+CHF
+/Monat
+Grosse 5.5 Zimmer Wohnung in Uetendorf
+Zelgstrasse 76, 3661 Uetendorf
+Array
+5.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+110 m2
+UetendorfBeschreibungDiese Wohnung zeichnet sich durch die Lichtdurfluteten Räume aus. Die schlaue …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fliederweg, 12
 1'100
 CHF
 /Monat
 Gemütliche Wohnung in Uetendorf
-Fliederweg 12, 3661 Uetendorf
+Fliederweg, 12, 3661 Uetendorf
 Array
 2 Zimmer
 43 m2
@@ -207,41 +240,7 @@ Zimmer
 2
 Wohnfläche
 43 m2
-Die Wohnung hat folgendes zu bieten: ParkettBadezimmer mit BadewanneLift
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Postgässli 17
-1'020
-CHF
-/Monat
-2-Zimmerwohnung im EG
-Postgässli 17, 3661 Uetendorf
-Array
-2 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Im EG von Mehrfamilienhaus am Postgässli 17. Miete CHF 1020.--, zuzüglich NK 350.--, bei Bedarf EHP…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfstrasse 80
-1'280
-CHF
-/Monat
-2,5 Zimmer Wohnung neu renoviert
-Dorfstrasse 80, 3661 Uetendorf
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Mitten in Uetedorf ist die helle, freundliche und geräumige 2,5 Zimmerwohnung an der Dorfstrasse zu…
+Die Wohnung hat folgendes zu bieten:  ParkettBadezimmer mit BadewanneLift…
 Teilen
 E-Mail
 Facebook

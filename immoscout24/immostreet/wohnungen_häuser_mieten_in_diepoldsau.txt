@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-diepoldsau/
 Title: Wohnungen & Häuser mieten in Diepoldsau - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Diepoldsau - Immostreet.ch: ImmoStreet.ch hat 17 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Diepoldsau - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-17 Resultate gefunden ·
+20 Resultate gefunden ·
 Wohnungen & Häuser mieten in Diepoldsau
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,19 +122,180 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Palmenstrasse 1
-1'740
+Feldstrasse 1a
+1'200
 CHF
 /Monat
-5.5 Zimmerwohnung mit neuer Küche
-Palmenstrasse 1, 9444 Diepoldsau
+moderne 2.5 Zimmer Wohnung im 1. OG
+Feldstrasse 1a, 9444 Diepoldsau
 Array
-5.5 Zimmer
+2.5 Zimmer
+56 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-5.5
-LageWir vermieten in einem Mehrfamilienhaus eine ruhige, helle, grosszügige 5.5 Zimmerwohnung mit e…
+2.5
+Wohnfläche
+56 m2
+Etage
+Facts:-helle und freundliche Räumlichkeiten dank grossen Fenstern-moderner Ausbaustandart-kleine Wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tramstrasse 1
+600
+CHF
+/Monat
+WG-Zimmer in 4.5 Zimmerwohnung im Zentr…
+Tramstrasse 1, 9444 Diepoldsau
+Array
+50 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+50 m2
+WG-Zimmer in 4.5 Zimmerwohnung im Zentrum von DiepoldsauDiepoldsau-Zentrum: Tramstrasse 1, 4,5 Zimm…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stickerstrasse 10
+1'620
+CHF
+/Monat
+Tolle 4 1/2 Zimmer-Wohnung
+Stickerstrasse 10, 9444 Diepoldsau
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Grosszügige 4 1/2-Zi-Wohnung Stickerstrasse 10, 9444 DiepoldsauKOSTENNettomiete 1'490 CHF/MonatNebe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kirchweg 3
+1'740
+CHF
+/Monat
+schöne, grosszügige Wohnung an guter La…
+Kirchweg 3, 9444 Diepoldsau
+Array
+4.5 Zimmer
+107 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+107 m2
+LAGE- sonnige, ruhige Lage und doch zentral- Bäckerei in direkter Nähe- weitere Infrastrukturen wie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Steigstrasse 11a
+1'350
+CHF
+/Monat
+Tolle 3.5 Whg. in sanierter Liegenschaf…
+Steigstrasse 11a, 9444 Diepoldsau
+Array
+3.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+70 m2
+Wir vermieten eine sanierte 3.5 Whg. mit 70m2 und einem Balkon. Die komplette Liegenschaft wurde ve…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tramstrasse 1
+1'730
+CHF
+/Monat
+4.5 Eigentumswohnung im Zentrum zu vermi
+Tramstrasse 1, 9444 Diepoldsau
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
+4.5 Eigentumswohnung im Zentrum zu vermietet auch WG möglich.Der moderne Wohnblock erfüllt in Punkt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hintere Kirchstrasse 3
+1'480
+CHF
+/Monat
+Helle 3.5 Zimmer-Wohnung mit viel Charme
+Hintere Kirchstrasse 3, 9444 Diepoldsau
+Array
+3.5 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+65 m2
+Hübsche 3.5 Zimmer-Wohnung an zentraler Lage Die Wohnung liegt unmittelbar im Zentrum von Diepoldsa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tramstrasse 6
+1'530
+CHF
+/Monat
+Nachmieter gesucht
+Tramstrasse 6, 9444 Diepoldsau
+Array
+2.5 Zimmer
+60 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+60 m2
+Neubauwohnung Preis ist mit Tiefgarage und Strom pauschal Gesucht wird nachmieter ab 1.Juli Waschtu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bitziweg 2
+1'850
+CHF
+/Monat
+Topmoderne Wohnung mit gedecktem Balkon
+Bitziweg 2, 9444 Diepoldsau
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+100 m2
+An ruhiger Lage in Diepoldsau vermieten wir:eine topmoderne Wohnunggrosse, edle Kü…
 Teilen
 E-Mail
 Facebook
@@ -169,26 +330,6 @@ Array
 Objekttyp
 Verkauf, Autogarage
 Einstellplätze in Tiefgarage zu vermietenPer sofort oder nach Vereinbarung vermieten wir folgende O…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'330
-CHF
-/Monat
-Dachwohnung sucht Nachmieter
-Adresse auf Anfrage, 9444 Diepoldsau
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-Wir suchen per 01.08.2021 oder nach Vereinbarung einen Nachmieter unserer schönen Dachwohnung. Sie …
 Teilen
 E-Mail
 Facebook
@@ -231,46 +372,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Stickerstrasse 10
-1'620
-CHF
-/Monat
-Tolle 4 1/2 Zimmer-Wohnung
-Stickerstrasse 10, 9444 Diepoldsau
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Grosszügige 4 1/2-Zi-Wohnung Stickerstrasse 10, 9444 DiepoldsauKOSTENNettomiete 1'490 CHF/MonatNebe…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Tramstrasse 1
-1'770
-CHF
-/Monat
-4.5 Eigentumswohnung im Zentrum zu vermi
-Tramstrasse 1, 9444 Diepoldsau
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-120 m2
-4.5 Eigentumswohnung im Zentrum zu vermietet auch WG möglich.Der moderne Wohnblock erfüllt in Punkt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Ferggerstrasse 12
 2'000
 CHF
@@ -292,7 +393,7 @@ E-Mail
 Facebook
 Whatsapp
 Kirchweg11
-1'850
+1'730
 CHF
 /Monat
 4.5 Zimmer Wohnung
@@ -307,27 +408,7 @@ Zimmer
 Wohnfläche
 125 m2
 Etage
-Sehr schöne Wohnung mit zwei Balkonen zu vermieten.Alle Böden mit Fussbodenheizung…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hintere Kirchstrasse 3
-1'550
-CHF
-/Monat
-Helle 3.5 Zimmer-Wohnung mit viel Charme
-Hintere Kirchstrasse 3, 9444 Diepoldsau
-Array
-3.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-65 m2
-Hübsche 3.5 Zimmer-Wohnung an zentraler Lage Die Wohnung liegt unmittelbar im Zentrum von Diepoldsa…
+Sehr schöne Wohnung mit zwei Balkonen zu vermieten.Alle Böden mit Fussbodenheizung.
 Teilen
 E-Mail
 Facebook
@@ -365,20 +446,6 @@ Zimmer
 Wohnfläche
 136 m2
 BeschriebFacts:- kein Balkon vorhanden- hochwertiger Ausbaustandard- helle und freundliche Räumlich…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Steigstrasse 16a
-140
-CHF
-/Monat
-Tiefgaragenplätze zu vermieten
-Steigstrasse 16a, 9444 Diepoldsau
-Array
-Objekttyp
-Tiefgarage
-An der Steigstrasse 16a vermieten wir diverse Tiefgaragenplätze.Zögern Sie nicht sich mit uns in Ve…
 Teilen
 E-Mail
 Facebook

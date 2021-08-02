@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-sissach/
 Title: Wohnung kaufen in Bezirk Sissach - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Sissach - Immostreet.ch: ImmoStreet.ch hat 27 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Sissach - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-27 Resultate gefunden ·
+19 Resultate gefunden ·
 Wohnung kaufen in Bezirk Sissach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,6 +134,105 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Rünenbergerstrasse 25
+920'000
+CHF
+Attraktive 5.5 Zimmer Wohnung mit Aussi…
+Rünenbergerstrasse 25, 4460 Gelterkinden
+Array
+5.5 Zimmer
+115 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+115 m2
+Etage
+Erschwingliche Familienwohnung Wer die Nähe zur Natur sucht und dörflichen Charakter, unweit des ur…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rünenbergerstrasse 25
+1'075'000
+CHF
+Einzigartige und familienfreundliche Ga…
+Rünenbergerstrasse 25, 4460 Gelterkinden
+Array
+4.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+145 m2
+Etage
+Die LiegenschaftWer die Nähe zur Natur sucht und dörflichen Charakter, unweit des urbanen Zentrums …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sonnhaldenweg 23A
+2'010'000
+CHF
+Wohn(t)raum mit Einfamilienhausfeeling …
+Sonnhaldenweg 23A, 4450 Sissach
+Array
+4.5 Zimmer
+200 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+200 m2
+Sind Sie auf der Suche nach einem neuen Zuhause für sich? Legen Sie Wert auf einen exklusiven und p…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 157
+350'000
+CHF
+Klein - Fein - MEIN: Hier will ich wohn…
+Hauptstrasse 157, 4466 Ormalingen
+Array
+3.5 Zimmer
+67 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3.5
+Wohnfläche
+67 m2
+Willkommen zu Hause!
+Das gepflegte Mehrfamilienhaus wurde 1995 an ein historisches Gebäude angeb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+595'000
+CHF
+Die Leinwand für Ihre Wohnideen
+Adresse auf Anfrage, 4452 Itingen
+Array
+4.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+95 m2
+Etage
+Diese grosszügige Wohnoase an idealer Lage bietet Platz für Ihre Wohnideen, Komfort und Privatsphär…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Adresse auf Anfrage
 1'500'000
 CHF
@@ -192,21 +291,40 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Stockenmattweg 101
-498'000
+Hauptstrasse 7a
+450'000
 CHF
-Auf dem Sonnenplateau leben!
-Stockenmattweg 101, 4497 Rünenberg
+Endlich etwas Eigenes!
+Hauptstrasse 7a, 4441 Thürnen
 Array
-4.5 Zimmer
-110 m2
+4 Zimmer
+68 m2
 Objekttyp
-Wohnung, Duplex
+Wohnung, Flach
 Zimmer
-4.5
+4
 Wohnfläche
-110 m2
-Die lichtdurchflutete 4.5-Zimmer-Maisonnette-Wohnung befindet sich im 2. Obergeschoss eines Mehrfam…
+68 m2
+Die zum Verkauf stehende 4-Zimmer-Wohnung befindet in einem grünen und ruhigen Wohnquartier unweit …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Buuserstrasse 1
+820'000
+CHF
+Altes "Säli" mit viel Stil renoviert
+Buuserstrasse 1, 4464 Maisprach
+Array
+3.5 Zimmer
+182 m2
+Objekttyp
+Wohnung, Loft
+Zimmer
+3.5
+Wohnfläche
+182 m2
+Wände, die Geschichten erzählen können. Menschen, die Geschichten mit allen Sinnen hören und wahrne…
 Teilen
 E-Mail
 Facebook
@@ -225,84 +343,7 @@ Zimmer
 4.5
 Wohnfläche
 133 m2
-Was Sie erwartet Gepflegt, grosszügig und in gehobenem Ausbau präsentiert sich diese 4.5 Zimmer Woh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-HOCHWERTIG AUSGEBAUT, GROSSER GARTEN UN…
-Adresse auf Anfrage, 4456 Tenniken
-Array
-5.5 Zimmer
-128 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-128 m2
-Diese total sanierte und lichtdurchflutete Wohnung liegt an sonniger Lage im Dorfkern von Tenniken.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schmittenackerstrasse 10
-445'000
-CHF
-Wohnen an erhöhter Lage mit Aussicht
-Schmittenackerstrasse 10, 4448 Läufelfingen
-Array
-4.5 Zimmer
-119 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-119 m2
-In erhöhter Lage von Läufelfingen, an der Schmittenackerstrasse 10 verkaufen wir eine grosszügige 4…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Landstrasse 80
-699'000
-CHF
-4.5 Zimmerwohnung mit Einstellanplatz, …
-Landstrasse 80, 4452 Itingen
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-120 m2
-Etage
-IMMOROSSIverkaufet per sofort oder nach Vereinbarung an der Landstrasse 80 in 4452 Itingen im 2. OG…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rünenbergerstrasse 25
-795'000
-CHF
-Attraktive Neubauwohnungen mit Aussicht
-Rünenbergerstrasse 25, 4460 Gelterkinden
-Array
-4.5 Zimmer
-99 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-99 m2
-Etage
-Die NeubauwohnungWer die Nähe zur Natur sucht und dörflichen Charakter, unweit des urbanen Zentrums…
+Was Sie erwartetBitte beachten Sie, dass unser Büro vom 9. Juli 2021 bis am 9. August 2021 geschlos…
 Teilen
 E-Mail
 Facebook
@@ -367,29 +408,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Sägegasse 2
-1'330'000
-CHF
-Nur noch zwei Terrassenhäuser an Hangla…
-Sägegasse 2, 4460 Gelterkinden
-Array
-5.5 Zimmer
-151 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-151 m2
-Wir setzen auf Nachhaltigkeit, Sie auch? Wunderbar! Denn mit der hochwertigen Bauqualität wird dafü…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 850'000
 CHF
-Top ausgestatteter Wohntraum
+Schöner als im Urlaub
 Adresse auf Anfrage, 4442 Diepflingen
 Array
 4.5 Zimmer
@@ -406,128 +428,85 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Eselweg 3
-520'000
+Chrummacherweg 3
+1'096'005
 CHF
-3½-Zimmer-Maisonettewohnung mit unverba…
-Eselweg 3, 4446 Buckten
-Array
-3.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-3.5
-Wohnfläche
-100 m2
-Etage
-Sie wollen sich den Traum vom Haus erfüllen wären aber auch mit einer wunderbaren Eigentumswohnung …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schmittenackerstrasse 10
-320'000
-CHF
-Schöne , grosszügige 3.5-Zimmer-Wohnung…
-Schmittenackerstrasse 10, 4448 Läufelfingen
-Array
-3.5 Zimmer
-78 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-78 m2
-Inklusiv Parkplatz kostet Die Wohnung CHF 320.000.-
-Wohnung zum Preis von CHF 310.000.- + Aussen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-699'000
-CHF
-Ihre Einrichtungswünsche sind gefragt
-Adresse auf Anfrage, 4452 Itingen
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-An zentraler Lage entsteht hier Ihr neuer Wohntraum. Die moderne Wohnoase, mit neustem und hochwert…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-749'000
-CHF
-Pendlerparadies
-Adresse auf Anfrage, 4452 Itingen
-Array
-3.5 Zimmer
-95 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-95 m2
-Herzlich willkommen in Ihrem neuen DaheimDie zentral und verkehrstechnisch ideal angebundene Lage m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-595'000
-CHF
-Alles in einem
-Adresse auf Anfrage, 4452 Itingen
+4.5 Zimmer-Attikawohnung mit Galerie u.…
+Chrummacherweg 3, 4460 Gelterkinden
 Array
 4.5 Zimmer
-95 m2
+155 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-95 m2
-Etage
-Diese grosszügige Wohnoase an idealer Lage bietet Platz für Ihre Ideen, Komfort und Privatsphäre.Ob…
+155 m2
+Baustart Mai 2021, Fertigstellung max. 20 Monate nach Baustart.4.5 Zimmer-Attikawohnung mit Galerie…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Gstaadmattstrasse
-936'000
+Chrummacherweg 3
+471'500
 CHF
-5½-Zimmer Parterrewohnung mit grossem S…
-Gstaadmattstrasse, 4452 Itingen
+Renditeobjekt 2- Zimmer-Maisonette-Wohn…
+Chrummacherweg 3, 4460 Gelterkinden
 Array
-5.5 Zimmer
-122 m2
+2 Zimmer
+65 m2
+Objekttyp
+Wohnung, Duplex, Maisonette
+Zimmer
+2
+Wohnfläche
+65 m2
+Etage
+BAUSTART IM MAI 2021Wohnung Nr. B1.2Die beiden hellen Zimmer dieser Maisonette-Wohnung mit grossen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schulgasse 17
+835'000
+CHF
+Grosszügige und helle 4.5 Zimmerwohnung…
+Schulgasse 17, 4455 Zunzgen
+Array
+4.5 Zimmer
+126 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-5.5
+4.5
 Wohnfläche
-122 m2
+126 m2
 Etage
-Mit der Wohnüberbauung "Sonnengarten" entsteht in Itingen BL ein komplett neues Quartier mit viel F…
+Zeit für etwas Besonderes: statt eines konventionellen rechteckigen Neubaus erwartet  Sie ein runde…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 2
-1
-2
-nächste Seite
+Schulgasse 17
+890'000
+CHF
+Aussergewöhnliche und grosszügige Wohnu…
+Schulgasse 17, 4455 Zunzgen
+Array
+3.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+145 m2
+Etage
+Zeit für etwas Besonderes! Grosszügige und intelligent konzipierte Wohnung mit grosszügigem Winterg…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 ImmoStreet.ch
 Kaufen
 Wohnung zu kaufen

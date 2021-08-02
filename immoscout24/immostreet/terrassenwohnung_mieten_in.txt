@@ -1,6 +1,6 @@
-URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-terrassenwohnung/
+URL: https://www.immostreet.ch/de/mieten/apartment-and-house/unterkategorie-terrace-apartment/
 Title: Terrassenwohnung mieten in - Immostreet.ch
-Description: Terrassenwohnung mieten in   - Immostreet.ch: ImmoStreet.ch hat 76 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Terrassenwohnung mieten in   - Immostreet.ch: ImmoStreet.ch hat 90 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -71,12 +71,25 @@ Möbliertes Wohnobjekt
 Dachwohnung
 Maisonette / Duplex
 Attikawohnung
+Einfamilienhaus
 Einzelzimmer
 Studio
+Doppeleinfamilienhaus
+Hobbyraum
+Reihenfamilienhaus
 Loft
+Villa
 Terrassenwohnung
+Chalet
+Bauernhaus
 Einliegerwohnung
 Mansarde
+Kellerabteil
+Terrassenhaus
+Rustico
+Stöckli
+Schloss
+Höhlen- / Erdhaus
 Preis von
 Preis bis
 Zimmer von
@@ -84,6 +97,14 @@ Zimmer bis
 Fläche von
 m2
 Fläche bis
+m2
+Grundstückfläche von
+m2
+Grundstückfläche bis
+m2
+Nutzfläche von
+m2
+Nutzfläche bis
 m2
 Etage
 Alle
@@ -116,7 +137,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-76 Resultate gefunden ·
+90 Resultate gefunden ·
 Terrassenwohnung mieten in
 Preis (aufsteigend)
 Preis (absteigend)
@@ -130,409 +151,413 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Adresse auf Anfrage
-1'550
+3'950
 CHF
 /Monat
-CHARMANT STUDIO AVEC TERRASSE
-Adresse auf Anfrage, 1260 Nyon
+Chambésy appartement: propre, spacieux,…
+Adresse auf Anfrage, 1292 Chambésy
 Array
-1 Zimmer
-38 m2
+4 Zimmer
+110 m2
 Objekttyp
 Wohnung, Terrassenwohnung
 Zimmer
-1
+4
 Wohnfläche
-38 m2
-Studio confortable dans un immeuble neuf avec belle cuisine agencée et moderne. La pièce à vivre es…
+110 m2
+Superb apartment situé au center de Chambesy. Il est au rez-de-jardin d'une grande maison avec troi…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Im Nippel 13
-1'500
+Schönbüelstrasse 20
+3'150
 CHF
 /Monat
-A terrace appartement is looking for a …
-Im Nippel 13, 8180 Bülach
+Traumhafte Terrassenwohnung mit Seeblick
+Schönbüelstrasse 20, 8330 Pfäffikon ZH
 Array
-2.5 Zimmer
-67 m2
+3.5 Zimmer
+105 m2
 Objekttyp
 Wohnung, Terrassenwohnung
 Zimmer
-2.5
+3.5
 Wohnfläche
-67 m2
-Eine terrassen Wohnung in Bülach sucht neuen Mieter per sofort. Die helle Wohnung kann in ca. 10min…
+105 m2
+3 Familienhausgeeignet für Single oder PaareMinergieGarage mit W…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-1'580
+Schlössliweg
+2'350
 CHF
 /Monat
-Magnifique 1.5 pièces au calme à Choulex
-Adresse auf Anfrage, 1244 Choulex
-Array
-1.5 Zimmer
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-1.5
-Magnifique petit appartement de 1.5 pièces au calmeSuperbe 1.5 pièces se situant au RDC dans la com…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-980
-CHF
-/Monat
-Libero da subito 2.5 con vista lago 980…
-Adresse auf Anfrage, 6573 Magadino
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-2.5
-Etage
-Libero da subito 2.5 a MagadinoUn bellissimo appartamento in casa privata, 3 unità abitative, compr…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberwilerstrasse 54
-2'990
-CHF
-/Monat
-Exklusives Wohnen in Seenähe
-Oberwilerstrasse 54, 6062 Wilen (Sarnen)
+Grosszügige 4.5 Terrassenwohnung in der…
+Schlössliweg, 8200 Schaffhausen
 Array
 4.5 Zimmer
-139 m2
+130 m2
 Objekttyp
 Wohnung, Terrassenwohnung
 Zimmer
 4.5
 Wohnfläche
-139 m2
-Raum für entspanntes Wohnen an traumhafter LageDiese Terrassenwohnung besticht nicht nur durch ihre…
+130 m2
+Vor 4 Jahren totalrenoviertHell (grosse Fensterfront gegen Süden)Garten +…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Chemin de Chamblandes 9
-6'650
+Obernauerstrasse 88
+1'790
 CHF
 /Monat
-Triplex avec jardin et balcon au calme …
-Chemin de Chamblandes 9, 1009 Pully
+Lichtdurchflutete 3 ½ Zimmer Terrassenw…
+Obernauerstrasse 88, 6012 Obernau
 Array
-7 Zimmer
-230 m2
+3.5 Zimmer
+80 m2
 Objekttyp
 Wohnung, Terrassenwohnung
 Zimmer
-7
+3.5
 Wohnfläche
-230 m2
-Ce bel objet rare profite du calme d'un quartier peu passant et d'un bel environnement arborisé, il…
+80 m2
+Etage
+Die Terrassenwohnung befindet sich im Obernau in der schönen Agglomeration von Kriens, und liegt ei…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hauptstrasse 32
+Via Domenico Fontana 8
+1'350
+CHF
+/Monat
+Appartamento 3.5 locali a Bellinzona
+Via Domenico Fontana 8, 6500 Bellinzona
+Array
+3.5 Zimmer
+80 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+3.5
+Wohnfläche
+80 m2
+Cerco URGENTEMENTE subentrante per il 1 ottobre per un appartamento di 3.5 locali situato a Bellinz…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Klemme 19
+580
+EUR
+/Monat
+Südl.Schwarzwald schöne 2 Zi Terassen W…
+Klemme 19, 79837 Häusern
+Array
+2 Zimmer
+43 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+2
+Wohnfläche
+43 m2
+Ich vermiete eine schöne 2 Zimmerwohnung als Ferienwohnung für dauerhaft. Die Wohnung befindet sich…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Etzelstrasse
 1'810
 CHF
 /Monat
-2557 Studen: Attique avec grande terras…
-Hauptstrasse 32, 2557 Studen BE
-Array
-3.5 Zimmer
-92 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-3.5
-Wohnfläche
-92 m2
-Etage
-Studen: Haupstrasse 32 A louer selon ententeCet appartement moderne de 3.5 pièces et spacieux vous …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchweg 17
-1'740
-CHF
-/Monat
-2557 Studen: Attique avec grande terras…
-Kirchweg 17, 2557 Studen BE
-Array
-3.5 Zimmer
-92 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-3.5
-Wohnfläche
-92 m2
-Etage
-Studen: Kirchweg 17A louer selon ententeCet appartement moderne de 3.5 pièces et spacieux vous gara…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rigistrasse 31
-2'300
-CHF
-/Monat
-Schöne Gartenwohnung am Rigiblick
-Rigistrasse 31, 8006 Zürich
-Array
-3 Zimmer
-75 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-3
-Wohnfläche
-75 m2
-Wir vermieten unsere katzenfreundliche Gartenwohnung für bis zu drei Jahre unter. Sie ist frisch im…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zwidellen 26A
-1'900
-CHF
-/Monat
-Einzigartige Wohnung an ruhiger Lage im…
-Zwidellen 26A, 5070 Frick
-Array
-3 Zimmer
-65 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-3
-Wohnfläche
-65 m2
-Etage
-Gedeckter AutoabstellplatzDachterrasse 53m2 mit Ausblick ins GrüneKellera…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lettenweg 87
-1'990
-CHF
-/Monat
-Sonnige 4.5 mit grosser Terrasse & Schw…
-Lettenweg 87, 4325 Schupfart
-Array
-4.5 Zimmer
-125 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-4.5
-Wohnfläche
-125 m2
-Etage
-Wir suchen neue Nachbaren für unser familiäres 5-Mehrfamilienhaus!Sehr helle, grosszügige Wohnung a…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lütisämetstrasse 84
-4'020
-CHF
-/Monat
-Charmante 4.5 Zimmer Gartenwohnung an I…
-Lütisämetstrasse 84, 8706 Meilen
-Array
-4.5 Zimmer
-105 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-4.5
-Wohnfläche
-105 m2
-Die charmante 4.5 Zimmer-Gartenwohnung in der steuergünstigen Seegemeinde Meilen liegt eingebettet …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-5'000
-CHF
-/Monat
-Très bel appartement au Grand-Saconnex …
-Adresse auf Anfrage, 1218 Le Grand-Saconnex
-Array
-4.5 Zimmer
-100 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-4.5
-Wohnfläche
-100 m2
-Agence : Millenium Properties SARéf : JL 971Situé dans un quartier résidentiel sécurisé, cet appart…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-6'300
-CHF
-/Monat
-Lichtdurchflutete Terrassenwohnung im E…
-Adresse auf Anfrage, 8832 Wilen b. Wollerau
-Array
-5.5 Zimmer
-185 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-5.5
-Wohnfläche
-185 m2
-In der beliebten und steuergünsünstigen Gemeinde Wilen b. Wollerau, liegt diese lichtdurchflutete 5…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rebmoosweg 69
-2'500
-CHF
-/Monat
-Wohnen am Brugger Berg
-Rebmoosweg 69, 5200 Brugg AG
-Array
-5.5 Zimmer
-110 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-5.5
-Wohnfläche
-110 m2
-Etage
-Diese 5 ½ -Zimmer Terrassenwohnung wurde 2014 komplett renoviert und hat einen zeigemässen Look. Si…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'990
-CHF
-/Monat
-TOP AUSSICHT, MODERN UND EINZIGARTIG
-Adresse auf Anfrage, 2505 Biel/Bienne
-Array
-4.5 Zimmer
-115 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-4.5
-Wohnfläche
-115 m2
-Hier können Sie Ihre Seele wortwörtlich baumeln lassen. Die Wohnung mit grosser, gedeckter Terrasse…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ried 14a
-1'300
-CHF
-/Monat
-Suche Nachmieter
-Ried 14a, 3616 Schwarzenegg
-Array
-4.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Terrassenwohnung
-Zimmer
-4.5
-Wohnfläche
-90 m2
-Etage
-Suche ab 1.8.21 oder 1.9.21 einen Nachmieter für eine schöne 4.5 Zimmer Wohnung auf dem Land. Küche…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Via Molinazzo 36
-1'550
-CHF
-/Monat
-Wohnen wie im Penthouse
-Via Molinazzo 36, 6982 Agno
+Attraktive 2 1/2 Zimmerwohnung , Garte…
+Etzelstrasse, 8808 Pfäffikon SZ
 Array
 2.5 Zimmer
-80 m2
+60 m2
 Objekttyp
 Wohnung, Terrassenwohnung
 Zimmer
 2.5
 Wohnfläche
-80 m2
-Hohe Wohnqualität und ein aussergewöhnlich grosszügiger Grundriss mit Riesen-Terrasse, offener Logg…
+60 m2
+Ideal gelegene , restaurierte Wohnung , im steuergünstigen Pfäffikon per 01.10. zu vermiete…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Reinertstrasse 30
-3'400
+Klösterli 2
+1'280
 CHF
 /Monat
-Erstbezug exklusive Erdgeschosswohnung …
-Reinertstrasse 30, 4515 Oberdorf SO
+Komplett renovierte 3.5-Zimmer-Wohnung …
+Klösterli 2, 9554 Tägerschen
+Array
+3.5 Zimmer
+67 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+3.5
+Wohnfläche
+67 m2
+Komplett renovierte 3.5-Zimmer-Wohnung mit grosser TerrasseAlle Immobilien, Fotos und weitere Infos…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rue de Rive 45
+3'200
+CHF
+/Monat
+Appartement 3 pièces
+Rue de Rive 45, 1260 Nyon
+Array
+3 Zimmer
+94 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+3
+Wohnfläche
+94 m2
+Etage
+Dans le quartier de Rive à 10 minutes à pieds de la gare, cet appartement de qualité au 1er étage -…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alte Bruggerstrasse 7
+1'350
+CHF
+/Monat
+Nachmieter gesucht! Zentral gelegene 2.…
+Alte Bruggerstrasse 7, 5506 Mägenwil
+Array
+2.5 Zimmer
+57 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+2.5
+Wohnfläche
+57 m2
+Diese gemütliche, ruhige und zentral gelegene 2.5 Zimmer Terrassenwohnung sucht per 01.11.2021 oder…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hennelistrasse 10
+2'950
+CHF
+/Monat
+Traum(hafte) Terrassenwohnung zu vermie…
+Hennelistrasse 10, 4625 Oberbuchsiten
 Array
 4.5 Zimmer
-177 m2
+159 m2
 Objekttyp
 Wohnung, Terrassenwohnung
 Zimmer
 4.5
 Wohnfläche
-177 m2
+159 m2
 Etage
-Neu gebaute Gartenwohnung per sofort zur Miete verfügbarAuf einer der letzten unverbaubaren Landpar…
+Traum(hafte) Terrassenwohnung zu vermietenWir vermieten per 01. November 2021 diese wunderschöne Te…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Rue des Roncoz 39
-745
+Alte Landstrasse 106
+1'775
 CHF
 /Monat
-Appartement de 1 pièce dans un immeuble…
-Rue des Roncoz 39, 1906 Charrat
+4 Zimmer-Wohnung: Modern und alt kombin…
+Alte Landstrasse 106, 6314 Unterägeri
 Array
-1 Zimmer
-32 m2
+4 Zimmer
+65 m2
 Objekttyp
 Wohnung, Terrassenwohnung
 Zimmer
-1
+4
 Wohnfläche
-32 m2
+65 m2
 Etage
-Situé dans un quartier résidentiel, proche de toutes les commodités, des transports publics et des …
+Gut geschnittene, helle,  modern renovierte 4-Zimmer Wohnung (65m2), mitten im Oberdorf und doch et…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 4
+Obernaustrasse 90
+1'650
+CHF
+/Monat
+Tolle renovierte Wohnung mit Sicht in d…
+Obernaustrasse 90, 6012 Obernau
+Array
+3.5 Zimmer
+78 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+3.5
+Wohnfläche
+78 m2
+Etage
+Wunderschöne helle 3.5 Zimmerwohnung mit grosser Terrasse und Sicht in die Berge. Die Wohnung wurde…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Panoramaweg 3
+2'960
+CHF
+/Monat
+Exklusive Attikawohnung grosser Terrass…
+Panoramaweg 3, 8274 Tägerwilen
+Array
+4.5 Zimmer
+127 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+4.5
+Wohnfläche
+127 m2
+Etage
+Wissenswertes...!Diese exklusive Attika-Wohnung bietet Ihnen ein einmaliges Raumgefühl und noch vie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mühlackerstrasse 115
+2'650
+CHF
+/Monat
+3.5-Zimmerwohnung in der Nähe des Katze…
+Mühlackerstrasse 115, 8046 Zürich
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+3.5
+Wohnfläche
+100 m2
+Etage
+Schöne und grosszügige 3.5- Zimmerwohnung (ca. 100m2) mit einem Badezimmer sowie mit einem WC mit D…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Imbisbühlhalde 5
+3'990
+CHF
+/Monat
+Nachmieter für grosszügige 170 m2 in Zü…
+Imbisbühlhalde 5, 8049 Zürich
+Array
+5.5 Zimmer
+170 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+5.5
+Wohnfläche
+170 m2
+Wir suchen einen solventen Nachmieter per 01.09.2021 für unsere wunderschöne und grosszügige Maison…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Av. Secrétan 12
+1'450
+CHF
+/Monat
+Charmant appartement 4-p. avec jardin, …
+Av. Secrétan 12, 1854 Leysin
+Array
+4 Zimmer
+68 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+4
+Wohnfläche
+68 m2
+Charmant appartement de 4 pièces à Feydey-Leysin au 1er étage d'un bel immeuble classé. Cuisine int…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Buchsweg 11
+2'900
+CHF
+/Monat
+Moderne, hochwertige 3.5 Zimmerwohnung …
+Buchsweg 11, 8400 Winterthur
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+3.5
+Wohnfläche
+100 m2
+Etage
+An ruhiger Wohnlage in grünem Quartier, 12 Min. zu Fuss zum HB , 3 Min. zum Bus, 5 Min. zu verschie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wehrlisteig 19
+5'570
+CHF
+/Monat
+Exklusive Terassenwohnung mit Panaromas…
+Wehrlisteig 19, 8049 Zürich
+Array
+5.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+5.5
+Wohnfläche
+140 m2
+Etage
+Zuoberst am Hönggerberg, an fantastischer Lage!Vom Alpen-Kamm über den Zürichsee, die Albiskette, d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+3'000
+CHF
+/Monat
+Maisonette Terrassenwohnung am idyllisc…
+Adresse auf Anfrage, 6331 Hünenberg
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Terrassenwohnung
+Zimmer
+4.5
+Etage
+An ruhiger und sonniger Lage mit schöner Fernsicht ins Grüne, vermieten wir per 01.10.2021 in Hünen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 5
 1
 2
 3
@@ -540,7 +565,7 @@ Seite 1 von 4
 nächste Seite
 ImmoStreet.ch
 Mieten
-Wohnung zu mieten
+Wohnung & Haus zu mieten
 Immobilien mieten in
 Basel
 Bern

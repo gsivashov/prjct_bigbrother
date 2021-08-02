@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/motorrad/info/glossar/strasse
 Title: Strassenmotorrad
 Description: Motorräder speziell für die Strasse konzipiert. Bei comparis.ch finden Sie eine Übersicht der Occasion Angebote in der Schweiz.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr

@@ -3,7 +3,6 @@ Title: Unterversicherung – comparis.ch
 Description: Eine Unterversicherung liegt dann vor, wenn die vereinbarte Versicherungssumme tiefer liegt als der effektive Wert des Hausrats. Mögliche folgen davon im Schadensfall erfahren Sie hier.
 
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -20,7 +19,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr

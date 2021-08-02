@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung_und_haus/in-geroldswil/
 Title: Wohnungen & Häuser mieten in Geroldswil - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Geroldswil - Immostreet.ch: ImmoStreet.ch hat 11 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Geroldswil - Immostreet.ch: ImmoStreet.ch hat 28 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-11 Resultate gefunden ·
+28 Resultate gefunden ·
 Wohnungen & Häuser mieten in Geroldswil
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,48 +122,21 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Huebwiesenstr. 7a
-2'730
+Poststrasse 9/11
+130
 CHF
 /Monat
-Dachwohnung mit Galerie für Geniesser
-Huebwiesenstr. 7a, 8954 Geroldswil
+Parkplatz in Einstellhalle
+Poststrasse 9/11, 8954 Geroldswil
 Array
-5.5 Zimmer
-155 m2
 Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-Wohnfläche
-155 m2
-Wir vermieten diese grosszügige und lichtdurchflutete Wohnung auf zwei Etagen:- Parkettboden im Woh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bergstrasse 22
-2'360
-CHF
-/Monat
-Familienwohnung am Südhang von Geroldsw…
-Bergstrasse 22, 8954 Geroldswil
-Array
-4.5 Zimmer
-107 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-107 m2
-Die grosszügige, helle Wohnung befindet sich in einem ruhigen Quartier mit viel grüner Umgebung. Da…
+Tiefgarage
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Dorfstrasse 94
-1'585
+1'485
 CHF
 /Monat
 Zentrale Wohnung mit Cheminée und schön…
@@ -182,137 +155,338 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Welbrigring 42
-970
+Waldrütistrasse 21
+2'655
 CHF
 /Monat
-Schönes, helles, möbliertes Zimmer 16 m…
-Welbrigring 42, 8954 Geroldswil
-Array
-1 Zimmer
-16 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-16 m2
-Schönes, helles, möbliertes Zimmer 16m2, mit Bett 1.20, grossem Kleiderschrank, Tisch, Stuhl(e). In…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfstrasse 100
-2'015
-CHF
-/Monat
-Wohnung mit Aussicht und grosser Terras…
-Dorfstrasse 100, 8954 Geroldswil
-Array
-4.5 Zimmer
-86 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-86 m2
-Diese schöne 4.5-Zimmerwohnung an grüner Lage in Geroldswil bietet Ihnen nebst dem grosszügigen Gru…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Diverse Adressen
-60
-CHF
-/Monat
-Ein- und Abstellplätze zu vermieten
-Diverse Adressen, 8954 Geroldswil
-Array
-Objekttyp
-Offener Parkplatz
-Wir vermieten in Geroldswil/Fahrweid Aussenparkplätze/Tiefgargenparkplätze ab sofort oder nach Vere…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grindlenstrasse 5
-2'501
-CHF
-/Monat
-Raum für Raum die richtige Wahl!
-Grindlenstrasse 5, 8954 Geroldswil
-Array
-Objekttyp
-Büro
-Per sofort oder nach Vereinbarung, suchen wir für die inserierte Fläche einen passenden Nachmieter.…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grindlenstrasse 5
-1'485
-CHF
-/Monat
-Einziehen und loslegen!
-Grindlenstrasse 5, 8954 Geroldswil
-Array
-Objekttyp
-Büro
-Per 1.11.2021 oder nach Vereinbarung, vermieten wir an gut erschlossener und steuergünstigen Lage, …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Limmattalstrasse 50 2. UG
-150
-CHF
-/Monat
-Einstellplätze Zentrum Huebegg
-Limmattalstrasse 50 2. UG, 8954 Geroldswil
-Array
-Objekttyp
-Tiefgarage
-Im Namen und Auftrag der politischen Gemeinde Geroldswil vermieten wir per sofort oder nach Vereinb…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'095
-CHF
-/Monat
-Schöne, ruhige und helle 3.5 Zimmerwohn…
-Adresse auf Anfrage, 8954 Geroldswil
+ERSTVERMIETUNG: Wohnen an einzigartiger…
+Waldrütistrasse 21, 8954 Geroldswil
 Array
 3.5 Zimmer
-99 m2
+87 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-99 m2
-Etage
-zu vermieten mit Waschmaschine und Tumbler in Geroldswil nach Vereinbarung inkl., zuzügl. 2 Garagen…
+87 m2
+Das moderne  5-Familienhaus befindet sich an bester Lage und thront buchstäblich über Geroldswil. D…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Grindlenstrasse 5
-740
+Huebwiesenstr. 7b
+2'700
 CHF
 /Monat
-Auf Sie zugeschnitten
-Grindlenstrasse 5, 8954 Geroldswil
+Platz für die ganze Familie!
+Huebwiesenstr. 7b, 8954 Geroldswil
+Array
+5.5 Zimmer
+151 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+5.5
+Wohnfläche
+151 m2
+Wir vermieten ab 1. Oktober 2021 oder nach Vereinbarung eine grosszügige und lichtdurchflutete Wohn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse 96
+1'555
+CHF
+/Monat
+Helle Wohnung mit Cheminée an ruhiger W…
+Dorfstrasse 96, 8954 Geroldswil
+Array
+3.5 Zimmer
+78 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+78 m2
+Diese Liegenschaft befindet sich oberhalb des Dorfzentrums an kinderfreundlicher und ruhiger Wohnla…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stettenstrasse 6
+2'950
+CHF
+/Monat
+5 1/2-Zimmer-Attikawohnung mit Terrasse
+Stettenstrasse 6, 8954 Geroldswil
+Array
+5.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+5.5
+Wohnfläche
+145 m2
+Wir vermieten per 1. Oktober 2021 diese 5 1/2-Zimmer-Attikawohnung mit 145 m² Wohnfläche und 94 m² …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse 58a
+1'960
+CHF
+/Monat
+Neuwertig, zentral und doch ruhig geleg…
+Dorfstrasse 58a, 8954 Geroldswil
+Array
+3.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+70 m2
+Wir vermieten per 1. Oktober 2021 diese moderne und neuwertige 3.5-Zimmerwohnung mit folgender Auss…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Steinhaldenring 10
+1'090
+CHF
+/Monat
+Neue Gewerbe an ruhiger Lage in Gerolds…
+Steinhaldenring 10, 8954 Geroldswil
+Array
+1 Zimmer
+Objekttyp
+Verkauf, Gewerbe
+Zimmer
+1
+Diverse Einkaufsmöglichkeiten (Apotheke, Coop, Denner etc.) befinden sich 5 Gehminuten entfernt. Di…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bergstrasse 8-22
+115
+CHF
+/Monat
+Einstellplätze zum vermieten
+Bergstrasse 8-22, 8954 Geroldswil
+Array
+Objekttyp
+Tiefgarage
+Schützen Sie Ihr Fahrzeug vor jedem Wetter. Wir vermieten nach Vereinbarung an der Bergstrasse 8-22…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Steinhaldenring 10
+1'090
+CHF
+/Monat
+Neues Büro an ruhiger Lage in Geroldswi…
+Steinhaldenring 10, 8954 Geroldswil
+Array
+1 Zimmer
+Objekttyp
+Büro
+Zimmer
+1
+Diverse Einkaufsmöglichkeiten (Apotheke, Coop, Denner etc.) befinden sich 5 Gehminuten entfernt. Di…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse 74
+2'195
+CHF
+/Monat
+Einzigartige Wohnung mit super Aussicht
+Dorfstrasse 74, 8954 Geroldswil
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+100 m2
+In der Wohnüberbauung Wiberg vermieten wir per 1. September 2021 oder nach Vereinbarung diese einzi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Huebwiesenstr. 9b
+1'950
+CHF
+/Monat
+Lichtdurchflutetes Wohnen garantiert!
+Huebwiesenstr. 9b, 8954 Geroldswil
+Array
+4.5 Zimmer
+88 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+88 m2
+Wir vermieten folgende grosszügige und lichtdurchflutete Wohnung:- Parkettboden im Wohnzimmer, Korr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Huebwiesenstrasse 33
+1'980
+CHF
+/Monat
+3.5-Zimmerwohnung mit grosser Dachterra…
+Huebwiesenstrasse 33, 8954 Geroldswil
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wir vermieten eine grosszügige 3.5-Zimmerwohnung mit Dachterrasse im Zentrum von Geroldswil.
+Di…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse 57
+1'660
+CHF
+/Monat
+Wohnung in familienfreundlicher Lage
+Dorfstrasse 57, 8954 Geroldswil
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+DAS WICHTIGSTENasszelle komplett saniert 2021abgeschlossene Küche (Baujahr 1996)
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Limmattalstr. 48
+1'840
+CHF
+/Monat
+Hier wartet Ihr neues Zuhause auf Sie
+Limmattalstr. 48, 8954 Geroldswil
+Array
+2.5 Zimmer
+64 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+64 m2
+Die Liegenschaft wurde im Herbst 2020 erstellt und befindet sich unmittelbar im Zentrum von Gerold…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Buebenaustrasse 1
+1'750
+CHF
+/Monat
+schöne helle 4.5 Zi.WHG mit Cheminée un…
+Buebenaustrasse 1, 8954 Geroldswil
+Array
+4.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+90 m2
+Etage
+Die Wohnung verfügt über:Entrèe: mit Parkettboden, EinbauschränkenWohnen/Essen (ca.25m2): mit Parke…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse
+1'695
+CHF
+/Monat
+Schöne 4 Zimmer Gartenwohnung mit gross…
+Dorfstrasse, 8954 Geroldswil
+Array
+4 Zimmer
+86 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+86 m2
+Schöne 4 Zimmer Gartenwohnung mit grosser SitzplatzWir suchen ein Nachmieter per 1. August 2021 od…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dorfstrasse 81
+1'751
+CHF
+/Monat
+Ruhige, helle Gewerbe- oder Bürofläche …
+Dorfstrasse 81, 8954 Geroldswil
+Array
+105 m2
+Objekttyp
+Verkauf, Gewerbe
+Wohnfläche
+105 m2
+Etage
+Per sofort oder nach Vereinbarung vermieten wir an ruhiger Lage in Geroldswil eine Gewerbe- / Bürof…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Steinhaldenstrasse 30
+170
+CHF
+Büro- und Gewerbeflächen 300m2
+Steinhaldenstrasse 30, 8954 Geroldswil
 Array
 Objekttyp
 Büro
-Im gepflegten und verkehrstechnisch ideal gelegenen Büro/Gewerbehaus in Geroldswil, vermieten wir p…
+Wir vermieten ab 01.10.2021 oder nach Vereinbarung ein grosszügiges Büro an idealer Lage!Den derzei…
 Teilen
 E-Mail
 Facebook
 Whatsapp
+Steinhaldenstrasse 30
+161
+CHF
+Attraktives Büro zu vermieten!
+Steinhaldenstrasse 30, 8954 Geroldswil
+Array
+Objekttyp
+Büro
+Wir vermieten per sofort oder nach Vereinbarung ein Büro im 1. OG.Den derzeitigen Ausbau können Sie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 2
+1
+2
+nächste Seite
 ImmoStreet.ch
 Mieten
 Immobilien mieten in der Stadt Geroldswil

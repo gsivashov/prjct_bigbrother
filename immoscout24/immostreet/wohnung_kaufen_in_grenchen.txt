@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/in-grenchen/
 Title: Wohnung kaufen in Grenchen - Immostreet.ch
-Description: Wohnung kaufen in  Grenchen - Immostreet.ch: ImmoStreet.ch hat 14 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in  Grenchen - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-14 Resultate gefunden ·
+19 Resultate gefunden ·
 Wohnung kaufen in Grenchen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,21 +134,58 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-460'000
-CHF
-Gemütliche 4,5-Zimmerwohnung!
-Adresse auf Anfrage, 2540 Grenchen
+Girardstrasse 12
+Preis auf Anfrage
+MODERN UND ZENTRAL GELEGEN
+Girardstrasse 12, 2540 Grenchen
 Array
-4.5 Zimmer
-95 m2
+3.5 Zimmer
+90 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
+3.5
+Wohnfläche
+90 m2
+Extravaganz und ein atemberaubender Komfort bietet diese offene, modern gehaltene und charmante Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+690'000
+CHF
+TRAUM WOHNUNG, MIT AUSSICHT, RUHE UND P…
+Adresse auf Anfrage, 2540 Grenchen
+Array
+3.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+100 m2
+In Grenchen an zentraler, ruhiger Lage, sucht diese großzügige 3.5 Zimmer Attika Eigentumswohnung m…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Auf Anfrage
+715'000
+CHF
+Natur pur - 4.5-Attika-Maisonette mit t…
+Auf Anfrage, 2540 Grenchen
+Array
+4.5 Zimmer
+117 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
 4.5
 Wohnfläche
-95 m2
-An bevorzugter Lage in der Stadt Grenchen verkaufen wir eine renovierte 4.5 Zi-Wohnung. Die Wohnung…
+117 m2
+Natur pur - 4.5-Attika-Maisonette mit traumhafter AussichtIm idyllischen Grenchen gelegen, finden S…
 Teilen
 E-Mail
 Facebook
@@ -172,6 +209,130 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+Adresse auf Anfrage
+470'000
+CHF
+ALLERLIEBSTE GARTENWOHNUNG
+Adresse auf Anfrage, 2540 Grenchen
+Array
+4.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+85 m2
+An der Allerheiligenstrasse in Grenchen verkaufen wir in einer vor mehr als 100 Jahren gebauten, he…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alemannenweg 5
+575'000
+CHF
+«Eine der letzten 3.5 Zimmer Eigentumsw…
+Alemannenweg 5, 2540 Grenchen
+Array
+3.5 Zimmer
+88 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+88 m2
+WOHNEN IN NEUKASTELSIm Nordosten von Grenchen im beliebten Quartier Kastels befindet sich die neue …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alemannenweg 25
+595'000
+CHF
+«Die letzte 3.5 Zimmer Eigentumswohnung…
+Alemannenweg 25, 2540 Grenchen
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+WOHNEN IN NEUKASTELSIm Nordosten von Grenchen im beliebten Quartier Kastels befindet sich die neue …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Cooles Penthouse, super Terrasse, tolle…
+Adresse auf Anfrage, 2540 Grenchen
+Array
+Objekttyp
+Wohnung, Attikawohnung
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Gemütliche 4,5-Zimmerwohnung!
+Adresse auf Anfrage, 2540 Grenchen
+Array
+4.5 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+95 m2
+An bevorzugter Lage in der Stadt Grenchen verkaufen wir eine renovierte 4.5 Zi-Wohnung. Die Wohnung…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Studenstrasse 25
+1'130'000
+CHF
+LETZTE neue Eigentumswohnung in der Sie…
+Studenstrasse 25, 2540 Grenchen
+Array
+5.5 Zimmer
+158 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+158 m2
+Ihr neues Eigenheim an hervorragender LageIm Nordosten der Stadt und an bevorzugter Südwestlage lie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bettlachstrasse 57
+660'000
+CHF
+Eigenheim mit vielen Extras!
+Bettlachstrasse 57, 2540 Grenchen
+Array
+4.5 Zimmer
+135 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+135 m2
+Im beliebten Quartier Ziegelmatt, praktisch im Zentrum von Grenchen und trotzdem äusserst ruhig gel…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Gibelfeldstrasse 48
 820'000
 CHF
@@ -188,82 +349,6 @@ Wohnfläche
 111 m2
 Etage
 Einzigartige Neubau Attika-Wohnungen mit unvergleichlicher Terrasse! An der Gibelfeldstrasse entste…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Alpensicht - Sonnig - Ruhig
-Adresse auf Anfrage, 2540 Grenchen
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Wohnfläche
-120 m2
-Etage
-Zuerst mieten, dann kaufen!An erhöhter Lage in Grenchen befindet sich diese sonnenverwöhnte 4.5 Zim…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bellevuestrasse 28,
-430'000
-CHF
-Einziehen und wohlfühlen, preiswerte 5.…
-Bellevuestrasse 28,, 2540 Grenchen
-Array
-5.5 Zimmer
-114 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-114 m2
-Besuchen Sie Ihre Traumimmobilie schon heute. Auf unserer Homepage haben Sie die Möglichkeit Ihre I…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-690'000
-CHF
-Fehr Immobilien - Grosszügige und exklu…
-Adresse auf Anfrage, 2540 Grenchen
-Array
-5.5 Zimmer
-157 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-157 m2
-Repräsentative Duplex-Wohnung an sonniger und zentrumsnaher Wohnlage Das 2005 erbaute Mehrfamilienh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-399'000
-CHF
-Praktische 4.5-Zimmerwohnung in Grenchen
-Adresse auf Anfrage, 2540 Grenchen
-Array
-4.5 Zimmer
-101 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-101 m2
-Diese gemütliche 4.5-Zimmerwohnung liegt im Hochparterre eines gepflegten Mehrfamilienhauses (Heizu…
 Teilen
 E-Mail
 Facebook

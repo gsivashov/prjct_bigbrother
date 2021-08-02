@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/motorrad/marktplatz/ducati/1098-s
 Title: Ducati 1098 S Motorrad occasion oder neu kaufen - comparis.ch
 Description: Ducati 1098 S Motorrad Occasion oder neu zum besten Preis kaufen. Im grössten Motorradmarkt der Schweiz alle Inserate der grössten Online Portale auf einen Blick
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -901,77 +899,65 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Ducati
-(963)
+(1'010)
 Ducati Occasion
-(712)
+(735)
 Ducati Neu
-(181)
+(209)
 Ducati Vorführmodell
-(40)
+(35)
 Ducati Oldtimer
-(30)
+(31)
 Aufbau
 Ducati Strasse
-(840)
+(853)
 Ducati Gelände / Enduro
-(18)
+(27)
 Ducati
 Modelle
 Ducati 1200 Diavel Carbon ABS
-(12)
+(15)
 Ducati 1200 Multistrada ABS
-(16)
+(18)
 Ducati 1200 Multistrada Enduro
 (13)
 Ducati 1200 Multistrada S
-(13)
+(16)
 Ducati 1200 Multistrada S ABS
-(20)
+(25)
 Ducati 1200 S Monster
 ABS
-(15)
-Ducati 1260 Multistrada S
-(12)
-Ducati 696M Monster
-(15)
-Ducati 796M Monster ABS
 (14)
+Ducati 1260 Multistrada S
+(13)
+Ducati 696M Monster
+(14)
+Ducati 796M Monster ABS
+(17)
 Ducati 821 Monster ABS
-(20)
+(19)
+Ducati 950 Supersport S
+(11)
 Ducati Diavel 1260 S
-(12)
+(13)
 Ducati Multistrada 950
-(13)
+(17)
 Ducati Multistrada 950 S
-(12)
+(11)
 Ducati Panigale V4
-(35)
-Ducati Scrambler 1100
-(22)
-Ducati Scrambler 1100 Sport
-(11)
-Ducati Scrambler Desert Sled
-(13)
-Ducati Scrambler Icon
 (30)
-Ducati XDiavel 1260
-(11)
+Ducati Scrambler 1100
+(19)
+Ducati Scrambler Classic ABS
+(12)
+Ducati Scrambler Desert Sled
+(16)
+Ducati Scrambler Icon
+(37)
 Ducati XDiavel 1260 S
-(15)
+(13)
 Weitere Modelle
-(963)
-Ducati 1098 S
-Alle Details
-Inserat vom 06.06.2021
-Occasion
-05.2009
-14'100 km
-1099 ccm
-Preis
-CHF 8'900.-
-Alle Details
-CHF 8'900.-
-Alle Details
+(1'010)
 Ducati 1098 S
 Alle Details
 Inserat vom 16.03.2021
@@ -1075,6 +1061,18 @@ Occasion
 09.2007
 25'400 km
 1099 ccm
+Preis
+CHF 9'900.-
+Alle Details
+CHF 9'900.-
+Alle Details
+Ducati 1098 S
+Alle Details
+Inserat vom 13.01.2020
+Occasion
+04.2007
+28'500 km
+1098 ccm
 Preis
 CHF 9'900.-
 Alle Details

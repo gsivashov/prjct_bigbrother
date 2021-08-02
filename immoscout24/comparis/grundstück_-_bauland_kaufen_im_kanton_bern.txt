@@ -3,7 +3,6 @@ Title: Grundstück - Bauland kaufen im Kanton Bern
  - Immobiliensuche Schweiz
 Description: Bauland kaufen in Bern, besser entscheiden dank Zusatzinformationen. Im grössten Immobilienportal der Schweiz suchen und Bauland finden.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -20,7 +19,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -148,7 +146,7 @@ Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseit
 Grundstück - Bauland kaufen im Kanton Bern
 Bleiben Sie auf dem Laufenden und verpassen Sie keine Ausschreibung für Bauland. Auf comparis.ch haben Sie den besten Überblick aller Grundstücke der grössten Immobilien-Portale der Schweiz. Wer besser informiert ist, spart Geld beim Bauland und kann es später in den Hausbau investieren.
 Gemeinden in diesem Kanton
-BeatenbergBernBiel/BienneBoltigenBrienz (BE)CorgémontDiemtigenEriswilFrutigenGalsGerzenseeGrindelwaldGrossaffolternGsteigHilterfingenHindelbankHofstetten bei BrienzInnertkirchenKallnachKonolfingenLangenthalLangnau im EmmentalLauterbrunnenLenkLyssMadiswilMeiringenMoosseedorfMoutierMünchenbuchseeNiederbippPieterlenReconvilierReisiswilRinggenberg (BE)Roggwil (BE)RüscheggSafnernSaules (BE)SigriswilSt. StephanSumiswaldThunUtzenstorfWiedlisbachWimmisZollikofenZweisimmen
+Arni (BE)BernBoltigenBrienz (BE)BurgisteinCorgémontEriswilErsigenFrauenkappelenFrutigenGalsGerzenseeGrindelwaldGrossaffolternGurzelenHabkernHaslibergHofstetten bei BrienzInnertkirchenKonolfingenLangnau im EmmentalLauterbrunnenLenkLyssMadiswilMeiringenMelchnauMoosseedorfMünchenbuchseeNiederbippPieterlenReconvilierRinggenberg (BE)Roggwil (BE)RüscheggSaules (BE)SchwarzenburgSchwarzhäusernSpiezSt. StephanSteffisburgSumiswaldThunUnterseenUtzenstorfWiedlisbachWimmisZollikofenZweisimmen
 comparis.ch
 Über Comparis
 Medien

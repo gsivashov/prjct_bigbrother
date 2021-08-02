@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/in-burgdorf/
 Title: Wohnung mieten in Burgdorf - Immostreet.ch
-Description: Wohnung mieten in  Burgdorf - Immostreet.ch: ImmoStreet.ch hat 62 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Burgdorf - Immostreet.ch: ImmoStreet.ch hat 68 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-62 Resultate gefunden ·
+68 Resultate gefunden ·
 Wohnung mieten in Burgdorf
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,99 +131,42 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Gyrischachenstrasse 42
-1'280
+Oberburgstr. 106
+1'920
 CHF
 /Monat
-Wunderschöne Balkonwohnung in familienf…
-Gyrischachenstrasse 42, 3400 Burgdorf
+Wohnen am Südrand von Burgdorf
+Oberburgstr. 106, 3400 Burgdorf
 Array
-3.5 Zimmer
-75 m2
+4.5 Zimmer
+102 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+4.5
 Wohnfläche
-75 m2
-Das perfekte Zuhause!An einem familienfreundlichem Quartier mitten im Grünen vermieten wir per sofo…
+102 m2
+Wir vermieten per 01.10.2021 oder nach Vereinbarung eine grosszügige 4.5-Zimmerwohnung.Geniessen Si…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Steinhof 5
-2'240
+Schlössliweg, 9
+1'100
 CHF
 /Monat
-Ihre neue Maisonettewohnung - Mieten oh…
-Steinhof 5, 3400 Burgdorf
-Array
-5.5 Zimmer
-144 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-Wohnfläche
-144 m2
-Wir vermieten eine gemütliche Wohnung mit folgenden Vorzügen: - Gut durchdachter Grundriss mit viel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Brunnadernstrasse 11
-1'250
-CHF
-/Monat
-Charmante 2-Zimmer Dachwohnung zu vermi…
-Brunnadernstrasse 11, 3400 Burgdorf
-Array
-2 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Im attraktiven Quartier Bern Schosshalde steht per 1. August 2021eine charmante 2-Zimmer Wohnung zu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchbergstrasse 63
-550
-CHF
-/Monat
-Studio in Burgdorf
-Kirchbergstrasse 63, 3400 Burgdorf
-Array
-1 Zimmer
-29 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-29 m2
-Das Mehrfamilienhaus liegt an zentraler Lage. Diverse Einkaufsmöglichkeiten sowie Anschlüsse an den…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Pleerweg 11d
-1'415
-CHF
-/Monat
-Moderne 2 1/2-Zimmerwohnung
-Pleerweg 11d, 3400 Burgdorf
+schöne neu renovierte Wohnung an Superl…
+Schlössliweg, 9, 3400 Burgdorf
 Array
 2.5 Zimmer
-76 m2
+70 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-76 m2
-Wir vermieten auf den 1.9.2021 oder nach Vereinbarung eine attraktive 2.5-Zimmerwohnung in der Nähe…
+70 m2
+Zentral und doch in Erholungsgebietschöne Wohnung im 2. Stock ( zuoberst) in 3 fam haus per 1.Sep.z…
 Teilen
 E-Mail
 Facebook
@@ -248,29 +191,32 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Lyssachstrasse 9
-1'850
+Weissensteinstrasse 12
+1'380
 CHF
 /Monat
-Sie wünschen sich eine Wohnung im Stadt…
-Lyssachstrasse 9, 3400 Burgdorf
+2-Zimmerwohnung, 3. Stock rechts
+Weissensteinstrasse 12, 3400 Burgdorf
 Array
-4.5 Zimmer
+2 Zimmer
+54 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
-Dann haben wir genau Ihr neues Zuhause.Helle und sanierte 4.5-Zimmer-Wohnung zu vermieten. Geschlos…
+2
+Wohnfläche
+54 m2
+Die Liegenschaft befindet sich an zentraler und ruhiger Wohnlage. Der Bahnhof ist nur wenige Gehmin…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Kirchbergstrasse 86
-1'090
+Weissensteinstrasse 14
+1'200
 CHF
 /Monat
-Helle Wohnung an zentraler Lage
-Kirchbergstrasse 86, 3400 Burgdorf
+2-Zimmerwohnung, 2. Stock links
+Weissensteinstrasse 14, 3400 Burgdorf
 Array
 2 Zimmer
 50 m2
@@ -280,236 +226,301 @@ Zimmer
 2
 Wohnfläche
 50 m2
-Das Mehrfamilienhaus liegt an zentraler Lage und verfügt über eine eigene Einstellhalle. Diverse Ei…
+Die Liegenschaft befindet sich an zentraler und ruhiger Lage. Der Bahnhof ist ca. 500 Meter entfern…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alpenstrasse 41
+2'200
+CHF
+/Monat
+Sehr previegiertes 41/5 Wohnung
+Alpenstrasse 41, 3400 Burgdorf
+Array
+4.5 Zimmer
+125 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+125 m2
+An ruhigen erhöhter Lage per 1.10.2021 zu vermieten. Mit schönen Aussicht kein Durchgang Verkehr be…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Steinhofstrasse 47
+1'345
+CHF
+/Monat
+4-Zimmerwohnung, 1. Stock links
+Steinhofstrasse 47, 3400 Burgdorf
+Array
+4 Zimmer
+74 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+74 m2
+Die Liegenschaft liegt an sonniger, ruhiger und kinderfreundlichen Lage.Die moderne Küche verfügt ü…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Metzgergasse 1
+980
+CHF
+/Monat
+Ihre Wohnung im Zentrum von Burgdorf
+Metzgergasse 1, 3400 Burgdorf
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+An der Metzgergasse 1 in Burgdorf vermieten wir eine zentral liegende 2½-Zimmer-Wohnung per 01.11.2…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'300
+790
 CHF
 /Monat
-3.5 Zimmerwohnung in Burgdorf
+Dach-Studio in Burgdorfer Oberstadt zu …
 Adresse auf Anfrage, 3400 Burgdorf
 Array
-3.5 Zimmer
+1.5 Zimmer
+40 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
-Suche einen Nachmieter per ende Juni oder nach Vereinbarung. Die Wohnung liegt in der Nähe vom Spit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gyrischachenstrasse 6a
-1'775
-CHF
-/Monat
-Tolle Familienwohnung mit Aussicht und …
-Gyrischachenstrasse 6a, 3400 Burgdorf
-Array
-4.5 Zimmer
-99 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
+1.5
 Wohnfläche
-99 m2
-Die LageIm Quartier Gyrischachen werden Sie sich dank der Nähe zur Bushaltestelle "Gyri Ost", zu ve…
+40 m2
+Charmantes Dach-Studio mit viel Cachet. Teppichboden im Schlafbereich. Parkettboden im Wohnbereich.…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Tiergarten 3
-500
+Einungerstrasse 16
+2'190
 CHF
 /Monat
-Männer-WG sucht neuen Mitbewohner!
-Tiergarten 3, 3400 Burgdorf
+Moderner Wohnen?
+Einungerstrasse 16, 3400 Burgdorf
 Array
-1 Zimmer
-Objekttyp
-Wohnung, Einzelzimmer
-Zimmer
-1
-Per sofort oder nach Vereinbarung vermieten wir in einer 5er-Männer-Wohngemeinschaft im Tiergarten …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Finkhubelweg 4
-2'330
-CHF
-/Monat
-Viel Licht und Raum für Jung und Alt
-Finkhubelweg 4, 3400 Burgdorf
-Array
-4.5 Zimmer
-108 m2
+5.5 Zimmer
+140 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+5.5
 Wohnfläche
-108 m2
-Gehören Sie ebenso zu den Menschen, welche die Natur lieben - durch die malerische Landschaft spazi…
+140 m2
+Per 1. Oktober 2021 vermieten wir diese moderne Wohnung in einer schönen und gepflegten Überbauung.…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Steinhofstr. 51
-630
-CHF
-/Monat
-Gemütliche Dachwohnung
-Steinhofstr. 51, 3400 Burgdorf
-Array
-1 Zimmer
-22 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-22 m2
-Diese kleine aber feine Wohnung hat folgende Eigenschaften:- Küche mit zwei Platten und Mikrowelle-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Pleerweg 3b
+Typonweg 5
 1'690
 CHF
 /Monat
-Grosse 3.5-Zimmerwohnung mit riesigem B…
-Pleerweg 3b, 3400 Burgdorf
+Mein eigenes Paradies im Herzen von Bur…
+Typonweg 5, 3400 Burgdorf
 Array
 3.5 Zimmer
-85 m2
+89 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-85 m2
-Im schönen Pleerweg-Quartier vermieten wir auf den 1. September 2021 eine 3.5-Zimmerwohnung im 2.OG…
+89 m2
+Wir vermieten per 1. Oktober 2021 im Herzen von Burgdorf diese grosszügige 3.5-Zimmerwohnung im Erd…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bernstrasse 33
-1'390
+Steinhofstrasse 25
+1'190
 CHF
 /Monat
-Ihr wunderschönes neues zu Hause
-Bernstrasse 33, 3400 Burgdorf
+3 1/2-Zimmerwohnung, 2. Stock rechts
+Steinhofstrasse 25, 3400 Burgdorf
 Array
 3.5 Zimmer
-80 m2
+64 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-80 m2
-Diese wunderschöne Wohnung bietet Ihnen folgendes: Neuwertige Küche mit Glaskeramik und Ges…
+64 m2
+Die Einkaufsmöglichkeiten und öffentliche Verkehrsmittel befinden sich in der Nähe.Zweckmässige Küc…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Mühlegasse 1
-1'290
+Dammstrasse 26
+1'770
 CHF
 /Monat
-ZENTRAL MIT BLICK AUF DIE ALTSTADT
-Mühlegasse 1, 3400 Burgdorf
+Im Herzen von Burgdorf wohnen!
+Dammstrasse 26, 3400 Burgdorf
 Array
 3.5 Zimmer
-95 m2
+89 m2
 Objekttyp
-Wohnung, Dachwohnung
+Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-95 m2
-Mitten in der Altstadt von Burgdorf vermieten wir eine wunderschöne und helle Attikawohnung. Die Wo…
+89 m2
+Wir vermieten per 1. November 2021 an der Dammstrasse 26 in Burgdorf diese grosszügige 3.5-Zimmerwo…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Strandweg 1
-1'250
+Bahnhofstrasse 59
+1'480
 CHF
 /Monat
-Neue Wohnung an ruhiger Lage gesucht?
-Strandweg 1, 3400 Burgdorf
+Geräumige Wohnung Nähe Bahnhof zu vermi…
+Bahnhofstrasse 59, 3400 Burgdorf
+Array
+3 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+100 m2
+Diese schöne 3-Wohnung mit grosszügiger Raumaufteilung befindet sich im 3. OG. Ein geräumiger Einga…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kirchbergstrasse 86
+1'450
+CHF
+/Monat
+Zentrales Wohnen in Burgdorf
+Kirchbergstrasse 86, 3400 Burgdorf
+Array
+4 Zimmer
+80 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+80 m2
+Das Mehrfamilienhaus liegt an zentraler Lage und verfügt über eine eigene Einstellhalle. Diverse Ei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tiergartenstrasse 4
+1'170
+CHF
+/Monat
+Wohnen in Burgdorf!
+Tiergartenstrasse 4, 3400 Burgdorf
+Array
+3 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+70 m2
+Per 01.10.2021 oder nach Vereinbarung vermieten wir diese neu sanierte 3-Zimmerwohnung mit folgende…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Burgdorf
+1'700
+CHF
+/Monat
+zu vermieten in 3400 Burgdorf ruhige 4-…
+Burgdorf, 3400 Burgdorf
+Array
+4.5 Zimmer
+93 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+93 m2
+Zu vermieten in Burgdorf ab 1. Sept- 2021 oder nach Vereinbarung4-Zimmer-Wohnung in 2-Fam.-Haus, 1.…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberburgstr. 106
+1'216
+CHF
+/Monat
+Gemütliche 2.5-Zimmer-Wohnung mit Rasen…
+Oberburgstr. 106, 3400 Burgdorf
+Array
+2.5 Zimmer
+61 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+61 m2
+Wir vermieten per 01.10.2021 oder nach Vereinbarung eine schöne 2.5-Zimmerwohnung.Geniessen Sie in …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bernstrasse 115
+1'190
+CHF
+/Monat
+Günstige und gemütliche Wohnung mit neu…
+Bernstrasse 115, 3400 Burgdorf
 Array
 3 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
 3
-Etage
-Suchen Sie eine geräumige Wohnung an ruhiger Lage? Dann haben wir das passende Objekt für Sie! Die …
+Sie suchen eine zentral gelegene, geräumige & freundliche 3 Zimmerwohnung mit neuer Küche?? Dan…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Gotthelfstr. 52
-1'090
+Amietstrasse 26
+1'440
 CHF
 /Monat
-Sonnig und nähe Bahnhof
-Gotthelfstr. 52, 3400 Burgdorf
-Array
-2 Zimmer
-53 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-53 m2
-Diese gemütliche und geräumige Wohnung hat folgende Eigenschaften:- Küche mit Geschirrspüler und Gl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gotthelfstr. 52
-1'426
-CHF
-/Monat
-Schön und zentral wohnen!
-Gotthelfstr. 52, 3400 Burgdorf
+Eine Wohlfühloase!
+Amietstrasse 26, 3400 Burgdorf
 Array
 3.5 Zimmer
-78 m2
+82 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-78 m2
-Diese gemütliche und geräumige Wohnung hat folgende Eigenschaften:- Küche mit Geschirrspüler und Gl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gyrischachenstrasse 48
-1'295
-CHF
-/Monat
-3.5 Zimmerwohnung in Burgdorf
-Gyrischachenstrasse 48, 3400 Burgdorf
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Per sofort oder nach Vereinbarung vermieten wir eine tolle 3.5-Zimmer-Wohnung in einem ruhigen Wohn…
+82 m2
+Wir vermieten eine attraktive Wohnung in kinderfreundlicher Umgebung mit folgenden Vorteilen:- Lich…
 Teilen
 E-Mail
 Facebook

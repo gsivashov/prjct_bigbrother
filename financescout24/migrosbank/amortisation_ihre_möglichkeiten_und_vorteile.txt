@@ -48,6 +48,7 @@ Physische Edelmetalle
 Highlights
 Börsenspiel
 Börse: Marktübersicht
+Vorsorgefonds
 Unser Vorsorgebuch
 Nachhaltig –
 wie «grün» ist Ihr Fonds?
@@ -58,9 +59,8 @@ Jetzt ermitteln
 Hypothek
 Hypothek in der Übersicht
 Festhypothek
-Libor-Hypothek
-Variable Hypothek
 SARON-Hypothek
+Variable Hypothek
 Hypolimite
 Baukredit
 Eigenheim kaufen
@@ -83,6 +83,7 @@ Kredit in der Übersicht
 Konsumkredit
 Privatkredit
 Autokredit
+Autoleasing
 Weiterbildungskredit
 Limite
 Lombardkredit
@@ -207,14 +208,14 @@ Hypothek
 Amortisation
 Hypothek in der Übersicht
 Festhypothek
-Libor-Hypothek
-Variable Hypothek
 SARON-Hypothek
+Variable Hypothek
 Hypolimite
 Baukredit
 Eigenheim kaufen
 Hypothek wechseln
 Highlights
+Online-Hypothek
 Individuelle Beratung
 Bankwechsel
 Hypotheken vergleichen
@@ -239,7 +240,7 @@ Mit diesen zusätzlichen Amortisationen können Sie Ihre Zinskosten dauerhaft se
 Sie zahlen zusätzlich auf ein Vorsorgekonto ein (indirekte Amortisation).
 Sie zahlen nach Rücksprache mit Ihrem Kundenberater einmalig mehr zurück (möglich bei der Variablen Hypothek).
 Sie kündigen die Variable Hypothek und zahlen den gewünschten Betrag nach Ablauf der Kündigungsfrist zurück.
-Sie verlängern eine auslaufende Festhypothek oder eine Libor-Hypothek nur teilweise.
+Sie verlängern eine auslaufende Festhypothek oder eine SARON-Hypothek nur teilweise.
 Sind Sie interessiert?
 Hypothek online beantragen
 Online Termin vereinbaren
@@ -313,6 +314,9 @@ Weitere Highlights aus unserer Beratung
 Hypothek
 Der sichere finanzielle
 Boden für Ihr Zuhause
+Mehr erfahren
+Vorsorgekonto 3a
+Mit Steuervorteil sparen
 Mehr erfahren
 Kontakt
 Wir helfen Ihnen mit Ihrem Anliegen gerne weiter:

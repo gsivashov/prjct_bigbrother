@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/immobilien/listgeo/show?mode=5
 Title: Möblierte Wohnung - Immobiliensuche Schweiz
 Description: Möblierte Wohnung, besser entscheiden dank Zusatzinformationen. Im grössten Immobilienportal der Schweiz suchen und Möblierte finden.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr

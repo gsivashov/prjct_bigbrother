@@ -122,6 +122,81 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Grünhalde 3
+1'560
+CHF
+/Monat
+See und Städtli in unmittelbarer Nähe
+Grünhalde 3, 6204 Sempach
+Array
+4.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+90 m2
+Ihre Lage-VorteileSempach bietet mit seinen vielen Einkaufs-, Verweilungs- und Freizeitmöglichkeite…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Allmend 8 / 10
+154
+CHF
+Arbeiten im Grünen - div. Büroräume im …
+Allmend 8 / 10, 6204 Sempach
+Array
+Objekttyp
+Verkauf, Geschäftshaus
+Etage
+Attraktive, inspirierende, ruhige und helle Büro- oder Arbeitsräume im 3. OG Neubau Allmend 10. Arb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hubelweid 1
+2'350
+CHF
+/Monat
+Familienfreundliche Maisonettewohnung a…
+Hubelweid 1, 6204 Sempach
+Array
+6.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+6.5
+Wohnfläche
+150 m2
+Etage
+Sie suchen eine grosszügigen Wohnung mit Charme und tollem Weitblick? Diese helle 6 ½-Zimmer-Maison…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mattweid 28
+1'550
+CHF
+/Monat
+Wohnen in der Nähe vom Sempachersee
+Mattweid 28, 6204 Sempach
+Array
+3.5 Zimmer
+69 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+69 m2
+Sie suchen eine Wohnung in grüner Umgebung? Wir vermieten per 1. September 2021 eine 3 ½-Zimmerwohn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Feld 14
 1'970
 CHF
@@ -145,6 +220,7 @@ Whatsapp
 Gerbegass 6
 985
 CHF
+/Monat
 Vielseitig nutzbare Räumlichkeiten in a…
 Gerbegass 6, 6204 Sempach
 Array
@@ -200,23 +276,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Müligass 2
-1'710
-CHF
-/Monat
-5-Zimmer-Wohnung im Städtli Sempach
-Müligass 2, 6204 Sempach
-Array
-5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Nachmieter für schöne heimelige 5-Zimmer-Wohnung (EG) im Städtli Sempach gesucht. Wohnung hat einen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Grünhalde 4
 1'400
 CHF
@@ -237,27 +296,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Kronengasse 1
-1'980
-CHF
-/Monat
-Exklusives Wohnerlebnis in Sempach
-Kronengasse 1, 6204 Sempach
-Array
-4 Zimmer
-103 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-103 m2
-Etage
-Wir vermieten per sofort oder nach Vereinbarung diese frisch sanierte 4-Zimmer-Altbau-Wohnung in Se…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Allmend, 6a
 1'255
 CHF
@@ -273,29 +311,8 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Stadtstrasse 2
-1'500
-CHF
-/Monat
-Schmucke Wohnung im Städtli Sempach
-Stadtstrasse 2, 6204 Sempach
-Array
-2 Zimmer
-47 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-47 m2
-Wohnen in Sempach
-Die beliebte Gemeinde Sempach überzeugt mit historischem Charme. Sempach ist mit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Allmend 6a
-160
+214
 CHF
 Grosszügige und helle Büro-/Lagerfläche…
 Allmend 6a, 6204 Sempach
@@ -304,20 +321,6 @@ Objekttyp
 Büro
 Etage
 Im Gewerbegebäude Allmend 6a in Sempach vermieten wir ab sofort oder nach Vereinbarung Büro- (2. OG…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rainerstrasse 7
-950
-CHF
-/Monat
-Individuelle Räume zum Arbeiten
-Rainerstrasse 7, 6204 Sempach
-Array
-Objekttyp
-Büro
-Die stilvolle und grosszügige Architektur aus den 30er Jahren sowie die Nähe zur Stadt und zum See …
 Teilen
 E-Mail
 Facebook

@@ -81,7 +81,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -99,7 +99,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -152,28 +152,69 @@ TI
 WIR-ANTEIL
 1000+ Treffer
 Suche zurücksetzen
-NEU
 MAZDA
-6 Sportwagon 2.0 SKYACTIV-G Ambition AT NAV LED HUD PDC ACC
-CHF 26'500
-ab CHF 312/Monat
-11.2019
-Automat
-9'000 km
+MX-5 1.6i-16V Red Pepper
+CHF 12'900
+ab CHF 139/Monat
+06.1997
+Handschaltung
+52'500 km
 Benzin
-Vorderradantrieb
-schwarz
-145 PS
+Hinterradantrieb
+grün
+90 PS
 ZH
 Merken
 MAZDA
-6 Sportwagon 2.0 SKYACTIV-G Ambit...
-11.2019
-145 PS
-9'000 km
-CHF 26'500
+MX-5 1.6i-16V Red Pepper
+06.1997
+90 PS
+52'500 km
+CHF 12'900
 Merken
-ab CHF 312/Monat
+ab CHF 139/Monat
+MAZDA
+CX-3 1.5 D Ambition
+CHF 16'900
+ab CHF 182/Monat
+01.2017
+Handschaltung
+57'000 km
+Diesel
+Vorderradantrieb
+rot
+105 PS
+BS
+Merken
+MAZDA
+CX-3 1.5 D Ambition
+01.2017
+105 PS
+57'000 km
+CHF 16'900
+Merken
+ab CHF 182/Monat
+MAZDA
+MX-5 1.8i-16V Youngster
+CHF 11'900
+ab CHF 134/Monat
+01.2000
+Handschaltung
+61'000 km
+Benzin
+Hinterradantrieb
+schwarz
+140 PS
+ZH
+Merken
+MAZDA
+MX-5 1.8i-16V Youngster
+01.2000
+140 PS
+61'000 km
+CHF 11'900
+Merken
+ab CHF 134/Monat
 MAZDA
 5 2.0 DISI Exclusive
 CHF 6'200
@@ -195,115 +236,6 @@ MAZDA
 CHF 6'200
 Merken
 ab CHF 70/Monat
-MAZDA
-5 2.0 DISI Exclusive
-CHF 8'000
-ab CHF 91/Monat
-07.2011
-Handschaltung
-123'000 km
-Benzin
-Vorderradantrieb
-blau
-150 PS
-NW
-Merken
-MAZDA
-5 2.0 DISI Exclusive
-07.2011
-150 PS
-123'000 km
-CHF 8'000
-Merken
-ab CHF 91/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-MAZDA
-MX-30 e-Skyactiv First Edition
-CHF 29'890
-ab CHF 352/Monat
-10.2020
-Automat
-3'900 km
-Elektro
-Vorderradantrieb
-schwarz
-145 PS
-TG
-Merken
-MAZDA
-MX-30 e-Skyactiv First Edition
-10.2020
-145 PS
-3'900 km
-CHF 29'890
-Merken
-ab CHF 352/Monat
-MAZDA
-3 SKYACTIV-G 120 Ambition Plus Automat
-CHF 17'990
-ab CHF 194/Monat
-06.2018
-Automat
-68'900 km
-Benzin
-Vorderradantrieb
-braun
-120 PS
-SH
-Merken
-MAZDA
-3 SKYACTIV-G 120 Ambition Plus Au...
-06.2018
-120 PS
-68'900 km
-CHF 17'990
-Merken
-ab CHF 194/Monat
-MAZDA
-CX-5 2.0 Ambition AWD
-CHF 15'900
-ab CHF 171/Monat
-02.2014
-Automat
-93'200 km
-Benzin
-Allradantrieb
-blau
-160 PS
-VD
-Merken
-MAZDA
-CX-5 2.0 Ambition AWD
-02.2014
-160 PS
-93'200 km
-CHF 15'900
-Merken
-ab CHF 171/Monat
-MAZDA
-6 Sport Wagon 2.2 D Ambition
-CHF 11'500
-ab CHF 130/Monat
-02.2015
-Automat
-136'000 km
-Diesel
-Vorderradantrieb
-weiss
-150 PS
-SG
-Merken
-MAZDA
-6 Sport Wagon 2.2 D Ambition
-02.2015
-150 PS
-136'000 km
-CHF 11'500
-Merken
-ab CHF 130/Monat
 MAZDA
 MX-5 Roadster 2.0 Sport
 CHF 14'450
@@ -325,163 +257,230 @@ MX-5 Roadster 2.0 Sport
 CHF 14'450
 Merken
 ab CHF 156/Monat
-MAZDA
-3 Hatchback 2.0 180 100th Anniversary
-CHF 34'400
-ab CHF 405/Monat
--
-Automat
-8 km
-Benzin
-Vorderradantrieb
-weiss
-179 PS
-TG
-Merken
-MAZDA
-3 Hatchback 2.0 180 100th Anniver...
--
-179 PS
-8 km
-CHF 34'400
-Merken
-ab CHF 405/Monat
 NEU
 MAZDA
-CX-30 2.0 180 PS Revolution AWD
-CHF 30'800
-ab CHF 331/Monat
-12.2019
+3 2.2 D Revolution
+AT C
+CHF 16'800
+ab CHF 181/Monat
+02.2017
 Automat
-16'850 km
+53'750 km
+Diesel
+Vorderradantrieb
+rot
+150 PS
+SG
+Merken
+MAZDA
+3 2.2 D Revolution
+AT C
+02.2017
+150 PS
+53'750 km
+CHF 16'800
+Merken
+ab CHF 181/Monat
+NEU
+MAZDA
+CX-30 X 180 RevolutionAWD
+CHF 33'858
+ab CHF 364/Monat
+04.2020
+Automat
+10'500 km
 Benzin
 Allradantrieb
 grau
 180 PS
-LU
+AG
 Merken
 MAZDA
-CX-30 2.0 180 PS Revolution AWD
-12.2019
+CX-30 X 180 RevolutionAWD
+04.2020
 180 PS
-16'850 km
-CHF 30'800
+10'500 km
+CHF 33'858
 Merken
-ab CHF 331/Monat
+ab CHF 364/Monat
+NEU
+MAZDA
+CX-30 2.0 186 Revolution AWD AT LW
+CHF 42'150
+ab CHF 453/Monat
+-
+Automat
+0 km
+Benzin
+Allradantrieb
+rot
+186 PS
+SG
+Merken
+MAZDA
+CX-30 2.0 186 Revolution AWD AT L...
+-
+186 PS
+0 km
+CHF 42'150
+Merken
+ab CHF 453/Monat
+NEU
+MAZDA
+MX-5 1.8i-16V Anniversary Youngster
+CHF 19'900
+ab CHF 214/Monat
+02.2002
+Handschaltung
+9'000 km
+Benzin
+Hinterradantrieb
+blau
+140 PS
+ZH
+Merken
+MAZDA
+MX-5 1.8i-16V Anniversary Youngst...
+02.2002
+140 PS
+9'000 km
+CHF 19'900
+Merken
+ab CHF 214/Monat
+MAZDA
+5 2.0 DISI Sport
+CHF 9'900
+ab CHF 112/Monat
+10.2013
+Handschaltung
+75'100 km
+Benzin
+Vorderradantrieb
+sonstiges
+150 PS
+TG
+Merken
+MAZDA
+5 2.0 DISI Sport
+10.2013
+150 PS
+75'100 km
+CHF 9'900
+Merken
+ab CHF 112/Monat
 35-Punkte-Check
 Kostenlose Probefahrt
 Garantieversprechen
 Faires Eintauschangebot
-NEU
 MAZDA
-3 2.0 120 Revolution Automat
-CHF 20'700
-ab CHF 223/Monat
-10.2018
+6 Combi/Break
+CHF 8'489
+ab CHF 105/Monat
+12.2012
+Handschaltung
+150'001 km
+Benzin
+Vorderradantrieb
+weiss
+165 PS
+AG
+Merken
+MAZDA
+6 Combi/Break
+12.2012
+165 PS
+150'001 km
+CHF 8'489
+Merken
+ab CHF 105/Monat
+MAZDA
+CX-5 2.0 Ambition AWD
+CHF 20'900
+ab CHF 225/Monat
+01.2017
 Automat
-26'560 km
+67'500 km
+Benzin
+Allradantrieb
+grau
+160 PS
+TG
+Merken
+MAZDA
+CX-5 2.0 Ambition AWD
+01.2017
+160 PS
+67'500 km
+CHF 20'900
+Merken
+ab CHF 225/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+MAZDA
+3 1.5 Challenge
+CHF 11'900
+ab CHF 134/Monat
+09.2016
+Handschaltung
+82'900 km
+Benzin
+Vorderradantrieb
+rot
+100 PS
+ZG
+Merken
+MAZDA
+3 1.5 Challenge
+09.2016
+100 PS
+82'900 km
+CHF 11'900
+Merken
+ab CHF 134/Monat
+MAZDA
+2 1.5 90 Revolution
+CHF 26'290
+ab CHF 283/Monat
+-
+Automat
+0 km
 Benzin
 Vorderradantrieb
 blau
-120 PS
-AG
+90 PS
+ZH
 Merken
 MAZDA
-3 2.0 120 Revolution Automat
-10.2018
-120 PS
-26'560 km
-CHF 20'700
+2 1.5 90 Revolution
+-
+90 PS
+0 km
+CHF 26'290
 Merken
-ab CHF 223/Monat
-NEU
+ab CHF 283/Monat
 MAZDA
-CX-5 2.0 Revolution AWD Automat
-CHF 14'400
-ab CHF 155/Monat
-11.2012
+2 1.5 90 Revolution
+CHF 26'290
+ab CHF 283/Monat
+-
 Automat
-120'509 km
-Benzin
-Allradantrieb
-schwarz
-160 PS
-AG
-Merken
-MAZDA
-CX-5 2.0 Revolution AWD Automat
-11.2012
-160 PS
-120'509 km
-CHF 14'400
-Merken
-ab CHF 155/Monat
-NEU
-MAZDA
-CX-3 2.0 Ambition Plus Automat
-CHF 21'500
-ab CHF 231/Monat
-06.2019
-Automat
-14'387 km
+0 km
 Benzin
 Vorderradantrieb
-anthrazit
-121 PS
-AG
+sonstiges
+90 PS
+ZH
 Merken
 MAZDA
-CX-3 2.0 Ambition Plus Automat
-06.2019
-121 PS
-14'387 km
-CHF 21'500
+2 1.5 90 Revolution
+-
+90 PS
+0 km
+CHF 26'290
 Merken
-ab CHF 231/Monat
-NEU
-MAZDA
-CX-5 2.0 Ambition AWD
-CHF 12'700
-ab CHF 137/Monat
-05.2013
-Handschaltung
-103'000 km
-Benzin
-Allradantrieb
-weiss
-160 PS
-VD
-Merken
-MAZDA
-CX-5 2.0 Ambition AWD
-05.2013
-160 PS
-103'000 km
-CHF 12'700
-Merken
-ab CHF 137/Monat
-NEU
-MAZDA
-CX-5 SKYACTIV-G 194 Homura AWD Automat
-CHF 41'600
-ab CHF 447/Monat
-06.2021
-Automat
-300 km
-Benzin
-Allradantrieb
-rot
-194 PS
-VD
-Merken
-MAZDA
-CX-5 SKYACTIV-G 194 Homura AWD Au...
-06.2021
-194 PS
-300 km
-CHF 41'600
-Merken
-ab CHF 447/Monat
+ab CHF 283/Monat
 1
 1
 2
@@ -518,18 +517,17 @@ MAZDA CX-3
 MAZDA CX-30
 MAZDA CX-5
 MAZDA CX-7
-MAZDA CX-9
 MAZDA MX-3
 MAZDA MX-30
 MAZDA MX-5
 MAZDA RX-7
+MAZDA RX-8
 MAZDA Nach Fahrzeugaufbau
 Cabriolet
 Coupé
 SUV / Geländewagen
 Kombi
 Limousine
-Pick-Up
 Van
 MAZDA Nach Kanton Suchen
 Aargau

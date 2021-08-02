@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-kerzers/distanz-10/zimmer-4.0-/
 Title: Wohnungen & Häuser mieten in Kerzers - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Kerzers - Immostreet.ch: ImmoStreet.ch hat 5 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Kerzers - Immostreet.ch: ImmoStreet.ch hat 3 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -111,7 +111,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-5 Resultate gefunden ·
+3 Resultate gefunden ·
 Wohnungen & Häuser mieten in Kerzers
 Preis (aufsteigend)
 Preis (absteigend)
@@ -124,6 +124,26 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Bahnhofplatz 4
+1'800
+CHF
+/Monat
+4.5 Zimmer Wohnung im Zentrum Kerzers
+Bahnhofplatz 4, 3210 Kerzers
+Array
+4.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+140 m2
+4,5-Zimmer Wohnung zu vermieten im Zentrum von Kerzers mit 140m2.3 Schlafzimmer1 Badezimmer mit Bad…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Allmendstrasse 8a
 2'110
 CHF
@@ -132,13 +152,10 @@ modernes Familienglück!
 Allmendstrasse 8a, 3210 Kerzers
 Array
 4.5 Zimmer
-80 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Wohnfläche
-80 m2
 Etage
 Wir vermieten per sofort oder nach Vereinbarung diese moderne und geräumige 4.5-Zimmerwohnung im 1.…
 Teilen
@@ -158,65 +175,6 @@ Wohnung, Flach
 Zimmer
 4.5
 Wir vermieten per sofort oder nach Vereinbarung diese moderne und geräumige 4.5-Zimmer-Wohnung im 1…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oelegasse 60
-1'480
-CHF
-/Monat
-wunderschöne, helle, 4.5 Zimmerwohnung …
-Oelegasse 60, 3210 Kerzers
-Array
-4.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-90 m2
-wunderschöne helle 4.5 Zimmer Wohnung zu vermieten
-- Badezimmer mit zwei Lavabos und Tageslicht
-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Scheuerackerweg 5
-2'130
-CHF
-/Monat
-Moderne 4.5-Zimmerwohnung mit Sitzplatz
-Scheuerackerweg 5, 3210 Kerzers
-Array
-4.5 Zimmer
-108 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-108 m2
-Wir vermieten am Scheuerackerweg 5 in Kerzers an ruhiger Wohnlage per 01. September 2021 oder nach …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gerbeackerstrasse 1
-1'805
-CHF
-/Monat
-Helle, grosse 4.5-Zimmer-Wohnung in Ker…
-Gerbeackerstrasse 1, 3210 Kerzers
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wir vermieten per 1. Juni 2021 oder nach Vereinbarung eine 4.5-Zimmer-Wohnung in Kerzers. Das Obje…
 Teilen
 E-Mail
 Facebook

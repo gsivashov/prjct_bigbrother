@@ -1,6 +1,6 @@
-URL: https://www.immostreet.ch/de/mieten/apartment-and-house/unterkategorie-flat/in-meiringen/
+URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-wohnung/in-meiringen/
 Title: Wohnung mieten in Meiringen - Immostreet.ch
-Description: Wohnung mieten in  Meiringen - Immostreet.ch: ImmoStreet.ch hat 4 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Meiringen - Immostreet.ch: ImmoStreet.ch hat 8 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -72,25 +72,12 @@ Möbliertes Wohnobjekt
 Dachwohnung
 Maisonette / Duplex
 Attikawohnung
-Einfamilienhaus
 Einzelzimmer
 Studio
-Doppeleinfamilienhaus
-Hobbyraum
-Reihenfamilienhaus
 Loft
-Villa
 Terrassenwohnung
-Chalet
-Bauernhaus
 Einliegerwohnung
 Mansarde
-Kellerabteil
-Terrassenhaus
-Rustico
-Stöckli
-Schloss
-Höhlen- / Erdhaus
 Preis von
 Preis bis
 Zimmer von
@@ -98,14 +85,6 @@ Zimmer bis
 Fläche von
 m2
 Fläche bis
-m2
-Grundstückfläche von
-m2
-Grundstückfläche bis
-m2
-Nutzfläche von
-m2
-Nutzfläche bis
 m2
 Etage
 Alle
@@ -139,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-4 Resultate gefunden ·
+8 Resultate gefunden ·
 Wohnung mieten in Meiringen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,6 +131,100 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
+Mälchplatz
+775
+CHF
+/Monat
+Studiowohnung in Meiringen
+Mälchplatz, 3860 Meiringen
+Array
+1 Zimmer
+17 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+17 m2
+Eine schöne renovierte Studiowohnung, ebenerdig, mit direkten Zugang zum grosszügigen Garten. Es ha…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Allmendstrasse 14
+990
+CHF
+/Monat
+Superangebot! Totalrenovierte Wohnung
+Allmendstrasse 14, 3860 Meiringen
+Array
+2 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+70 m2
+In Gepflegter Liegenschaft, kinderfreundliche Gegend vermieten wir eine grosszügige und gemütliche …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Amthausgasse 2
+1'150
+CHF
+/Monat
+Nachmieter gesucht per 31.08.2021 oder …
+Amthausgasse 2, 3860 Meiringen
+Array
+2 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Nachmieter gesucht per 31.08.2021 auch auf 31.07.2021 möglich. 2 Zimmer Wohnung mit Terrasse in Mei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'496
+CHF
+/Monat
+4½ ZI-WOHNUNG IN MEIRINGEN (BE), MÖBLIE…
+Adresse auf Anfrage, 3860 Meiringen
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+4.5
+Wohnfläche
+100 m2
+MIETDAUER ab 1. September 2021 bis 30. November 2021 (mind. 3 Monate)AllgemeinWunderschöne, gemütli…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Feldlistrasse 18
+1'340
+CHF
+/Monat
+Wohnen Sie noch oder leben Sie schon?
+Feldlistrasse 18, 3860 Meiringen
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Geräumige 3.5-Zimmer Wohnung mit Südbalkon zum Schnäppchenpreis!Sie sind auf der Suche nach einer g…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Hauptstrasse 13A
 1'340
 CHF
@@ -167,7 +240,7 @@ Zimmer
 3.5
 Wohnfläche
 83 m2
-Per 01.04.2021 oder nach Vereinbarung vermieten wir diese schöne Wohnung mit folgenden Eigenschafte…
+Nach Vereinbarung vermieten wir diese schöne Wohnung mit folgenden Eigenschaften: Parkettbo…
 Teilen
 E-Mail
 Facebook
@@ -192,26 +265,6 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Landhausgasse 4
-1'150
-CHF
-/Monat
-2 1/2-Zimmer Dachwohnung mit schöner Au…
-Landhausgasse 4, 3860 Meiringen
-Array
-2.5 Zimmer
-72 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-72 m2
-Die Wohnung liegt im dritten Obergeschoss. Sie verfügt über eine eigene Waschmaschine im Badezimmer…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 480
 CHF
@@ -228,9 +281,9 @@ Facebook
 Whatsapp
 ImmoStreet.ch
 Mieten
-Wohnung & Haus zu mieten
+Wohnung zu mieten
 Wohnung mieten in der Stadt Meiringen
-Wohnung & Haus zu mieten PLZ 3860
+Wohnung zu mieten PLZ 3860
 Privatperson
 Inserieren
 Suchabo

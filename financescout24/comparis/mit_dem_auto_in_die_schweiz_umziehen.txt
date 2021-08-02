@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/umzug-schweiz/migration/auto-umzug-schweiz
 Title: Mit dem Auto in die Schweiz umziehen
 Description: Alles zur Einfuhr, Zulassung und Fahrzeugprüfung. Auf comparis.ch Autoversicherungen vergleichen und auswählen.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr

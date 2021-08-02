@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-frauenfeld/
 Title: Haus kaufen in Bezirk Frauenfeld - Immostreet.ch
-Description: Haus kaufen in Bezirk Frauenfeld - Immostreet.ch: ImmoStreet.ch hat 57 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Frauenfeld - Immostreet.ch: ImmoStreet.ch hat 49 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-57 Resultate gefunden ·
+49 Resultate gefunden ·
 Haus kaufen in Bezirk Frauenfeld
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,366 +138,132 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Escherweg 26
-700'000
+Huebackerstrasse
+1'300'000
 CHF
-Schönes Reiheneinfamilienhaus an ruhige…
-Escherweg 26, 8546 Kefikon TG
-Array
-137 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Wohnfläche
-137 m2
-Etage
-Reiheneinfamilienhaus an ruhiger Lage - Familienfreundliches Wohnquartier - Sehr gepflegtes Reih…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rodelstrasse 44
-Preis auf Anfrage
-Bauhaus-Villa mit Pool an erhöhter, ruh…
-Rodelstrasse 44, 8266 Steckborn
+Neubau: Einfamilienhaus "Huebacker" in…
+Huebackerstrasse, 8265 Mammern
 Array
 5.5 Zimmer
-243 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-243 m2
-Bewusst und nachhaltig Leben mit Sinn für Genuss und Qualität hier finden Sie das ideale, moderne …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gartenweg 4
-920'000
-CHF
-Freistehendes Einfamilienhaus im Paradi…
-Gartenweg 4, 8252 Schlatt TG
-Array
-5.5 Zimmer
-145 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-145 m2
-Anzahl Etagen 3Wohnfläche 145m2Grundstücksfläche 553m2Kubatur …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'400'000
-CHF
-Absolut Familienfreundliches Wohnen in …
-Adresse auf Anfrage, 8500 Frauenfeld
-Array
-6.5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-160 m2
-In Frauenfeld in bester Lage werden in diesem sehr schönen 6.5 Zimmer Haus Wohnträume war. Die verk…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Steinacker 13
-925'000
-CHF
-sehr gepflegtes Einfamilienhaus
-Steinacker 13, 9548 Matzingen
-Array
-5.5 Zimmer
-177 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-177 m2
-Im Auftrag verkaufen wir ein sehr gepflegtes Einfamilienhaus am Steinacker 13 in Matzingen. Das Hau…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Häckiweg 14
-846'000
-CHF
-Gemütliches Einfamilienholzhaus mit Tra…
-Häckiweg 14, 8264 Eschenz
-Array
-4.5 Zimmer
-104 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-104 m2
-Dieses gemütliche Holzhaus befindet sich an sehr ruhiger, familienfreundlicher und ländlicher Lage …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Islikon
-1'550'000
-CHF
-Attraktives Wohnhaus mit Oekonomiegebäu…
-Islikon, 8546 Islikon
-Array
-6.5 Zimmer
-200 m2
-Objekttyp
-Wohnung, Bauernhaus
-Zimmer
-6.5
-Wohnfläche
-200 m2
-Dieses gut unterhaltene und gepflegte Liebhaberobjekt mit grosser Grundstücksfläche, Scheune, Pferd…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grundstrasse 33
-945'000
-CHF
-Ruhig wohnen mitten in Frauenfeld
-Grundstrasse 33, 8500 Frauenfeld
-Array
-5 Zimmer
-118 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5
-Wohnfläche
-118 m2
-Etage
-Mitten im ruhigen, familienfreundlichen Wohnquartier befindet sich die renovierte, einseitig angeba…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Hier werden Träume wahr - Reitsportimmo…
-Adresse auf Anfrage, 8507 Hörhausen
-Array
-4.5 Zimmer
-118 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-118 m2
-Ein Paradies für Ross und Reiter! Die Reitsportimmobilie liegt in Hörhausen im lebenswerten Thurgau…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gerlikonerstrasse 13
-Preis auf Anfrage
-Einfamilienhaus im Zentrum von Frauenfe…
-Gerlikonerstrasse 13, 8500 Frauenfeld
-Array
-6.5 Zimmer
-200 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-200 m2
-Etage
-Im Zentrum von Frauenfeld und doch sehr ruhig gelegenDas schöne Einfamilienhaus wurde 1920 erbaut u…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weinbergstrasse
-2'800'000
-CHF
-Ein Zuhause mit aussergewöhnlich viel P…
-Weinbergstrasse, 8537 Nussbaumen TG
-Array
-10.5 Zimmer
-388 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-10.5
-Wohnfläche
-388 m2
-Ein (t)raumhafter WohlFühlOrt in den Weinbergen
-(Homing für Anspruchsvolle)
-Auf einem Grundst…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Dorfstrasse 17 und 17a
-1'695'000
-CHF
-Mehrgenerationenhaus oder Wohnen /Arbei…
-Dorfstrasse 17 und 17a, 8537 Nussbaumen TG
-Array
-13 Zimmer
-390 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-13
-Wohnfläche
-390 m2
-Etage
-Neue Passiv-Minergie-Liegenschaft in Holzbauweise und ein liebevoll renoviertes Bauernhaus (mit Ver…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberdorfstrasse 12
-1'100'000
-CHF
-Ländliche Idylle & grosszügige Wohnräume
-Oberdorfstrasse 12, 8553 Mettendorf TG
-Array
-5.5 Zimmer
-260 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-260 m2
-Etage
-Hoch erhoben über Felder und Häuser an maximal besonnter Lage mit unverbaubarem Fernblick bietet di…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-3'330'000
-CHF
-Fantastische 12-Zi.-Villa "3 Multiplex"…
-Adresse auf Anfrage, 8546 Islikon
-Array
-12 Zimmer
-460 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-12
-Wohnfläche
-460 m2
-Etage
-Exklusive 12-Zimmer Villa mit hochwertigem und modernem Innenausbau, vielen Nebenräumen, 6 Garagenp…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grabenackerstrasse 4c
-865'000
-CHF
-Freistehendes EFH bei Frauenfeld
-Grabenackerstrasse 4c, 8552 Felben-Wellhausen
-Array
-5.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-130 m2
-Etage
-Das freistehende Einfamilienhaus wurde im Jahr 1997 erbaut und über die Jahre gut gepflegt und unte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rheinstrasse 7 / Rheinhalde 7
-1'795'000
-CHF
-Ein hübsches Stück Schweiz - viel Platz…
-Rheinstrasse 7 / Rheinhalde 7, 8253 Diessenhofen
-Array
-10 Zimmer
-434 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-10
-Wohnfläche
-434 m2
-Etage
-Direkt am Hochrhein gelegen, inmitten einer hügeligen Landschaft mit Rebhängen und weitverzweigten …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'750'000
-CHF
-Idyllisches Zuhause an sonnenverwöhnter…
-Adresse auf Anfrage, 8537 Nussbaumen TG
-Array
-7.5 Zimmer
-275 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7.5
-Wohnfläche
-275 m2
-Herzlich willkommen in diesem grosszügigen Einfamilienhaus mit traumhafter und unverbaubarer Weitsi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kirchweg 2c
-1'250'000
-CHF
-MODERN UND UMWELTBEWUSST
-Kirchweg 2c, 8553 Hüttlingen
-Array
-5.5 Zimmer
-198 m2
+159 m2
 Objekttyp
 Wohnung, Doppeleinfamilienhaus
 Zimmer
 5.5
 Wohnfläche
-198 m2
-Hier entsteht ein familienfreundliches und top modernes Neubau-Doppeleinfamilienhaus mit Gartensitz…
+159 m2
+Etage
+Das einseitig angebaute Einfamilienhaus mit 159m² Wohnfläche und einem vollausgebauten Keller von w…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Huebackerstrasse
+1'140'000
+CHF
+Modernes Einfamilienhaus "Huebacker" i…
+Huebackerstrasse, 8265 Mammern
+Array
+5.5 Zimmer
+161 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+161 m2
+Etage
+Das Reiheneckhaus mit seiner Ausrichtung nach Südwesten bietet mit dem umliegenden Gartenfläche von…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+3'800'000
+CHF
+Das Haus am Bach
+Adresse auf Anfrage, 8265 Mammern
+Array
+11.5 Zimmer
+395 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+11.5
+Wohnfläche
+395 m2
+Das grosszügige Anwesen mit Haupthaus, separatem Gästehaus und freistehendem Wellnesshaus befindet …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse, 23
+590'000
+CHF
+3.5 Zimmer Doppeleinfamilienhaus "3.5-Z…
+Bahnhofstrasse, 23, 8259 Kaltenbach
+Array
+3.5 Zimmer
+76 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+3.5
+Wohnfläche
+76 m2
+Wir verkaufen in Etzwilen (Wagenhausen) ein 3.5-Zimmer-Doppeleinfamilienhaus mit ca. 76 m²Wohnfläch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obere Giger 5
+Preis auf Anfrage
+7.5-Zimmer Landhaus mit Einliegerwohnung
+Obere Giger 5, 8259 Kaltenbach
+Array
+7.5 Zimmer
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Traumhafte Aussicht vom Hohentwiel bis zum UnterseeDas Einfamilienhaus liegt in einem ruhigen und f…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Oase ganz in Weiss
+Adresse auf Anfrage, 8500 Frauenfeld
+Array
+5.5 Zimmer
+334 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+5.5
+Wohnfläche
+334 m2
+Etage
+Weitere Bilder, Grundrisspläne auf Anfrage, ein Video und zusätzliche Informationen finden Sie auf …
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Guetenbergli 15
-1'295'000
+425'000
 CHF
-2-Familien-Dorfliegenschaft mit 2 Haust…
+5½-Zimmer-Hausteil im alten Dorfkern
 Guetenbergli 15, 8254 Basadingen
 Array
-9.5 Zimmer
-263 m2
+5.5 Zimmer
+119 m2
 Objekttyp
-Wohnung, Bauernhaus
+Wohnung, Doppeleinfamilienhaus
 Zimmer
-9.5
+5.5
 Wohnfläche
-263 m2
+119 m2
 Die ausführlichen Verkaufsunterlagen finden Sie auf unserer Homepage!
 www.fleischmann.ch
 An ruh…
@@ -505,22 +271,249 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Kehlhofstrasse 26c
-1'050'000
+Guetenbergli 15
+875'000
 CHF
-Einfamilienhaus mit gemütlichem Garten …
-Kehlhofstrasse 26c, 8500 Frauenfeld
+4½-Zimmer-Hausteil - einseitig angebaut…
+Guetenbergli 15, 8254 Basadingen
 Array
-6.5 Zimmer
-155 m2
+4.5 Zimmer
+144 m2
 Objekttyp
 Wohnung, Doppeleinfamilienhaus
 Zimmer
+4.5
+Wohnfläche
+144 m2
+Die ausführlichen Verkaufsunterlagen finden Sie auf unserer Homepage!
+www.fleischmann.ch
+An ruh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 22
+Preis auf Anfrage
+Schönes Riegelhaus mit Scheune (ausbaub…
+Hauptstrasse 22, 8536 Hüttwilen
+Array
+5 Zimmer
+Objekttyp
+Wohnung, Bauernhaus
+Zimmer
+5
+Etage
+Schönes Riegelhaus mit Scheune (ausbaubar) aus Erbschaft im Bieterverfahren zu verkaufen. Das Haus …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Geere 3
+740'000
+CHF
+Wohnen am Stadtrand von Frauenfeld
+Im Geere 3, 8552 Felben-Wellhausen
+Array
+5.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+105 m2
+Etage
+-Hübscher Sitzplatz mit Garten und Balkon
+-Spielplatz im Siedlungszentrum ohne Strassenverkehr
+…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Moderner Familientraum in unmittelbarer…
+Adresse auf Anfrage, 8259 Wagenhausen
+Array
+6.5 Zimmer
+283 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
 6.5
 Wohnfläche
-155 m2
+283 m2
+Wenige Fussschritte vom Rheinufer entfernt, erwartet Sie in diesem freistehenden Einfamilienhaus ei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obere Steig 5
+1'180'000
+CHF
+4.5-Zimmer-EFH mit bezaubernder Weitsic…
+Obere Steig 5, 9507 Stettfurt
+Array
+4.5 Zimmer
+141 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+141 m2
+Dieses einzigartige Bijou besticht durch seine fantastische Lage in Stettfurt. Der Standort überzeu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Trottenweg 4
+1'950'000
+CHF
+Einzigartige Liegenschaft mit exklusive…
+Trottenweg 4, 8526 Oberneunforn
+Array
+225 m2
+Objekttyp
+Wohnung, Villa
+Wohnfläche
+225 m2
 Etage
-Einfamilienhaus mit gemütlichem Garten an zentraler Lage -zentrale Lage von Frauenfeld -gepflegte…
+Einzigartige Liegenschaft mit exklusivem Wohnkomfort - familienfreundliches Wohnquatier - erhöhte …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'480'000
+CHF
+Familienidylle mitten in Frauenfeld
+Adresse auf Anfrage, 8500 Frauenfeld
+Array
+5.5 Zimmer
+170 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+170 m2
+Das freistehende 5.5-Zimmer-Einfamilienhaus präsentiert sich auf einem ebenen Grundstück an ruhiger…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sulackerstrasse 11 und 13
+1'165'000
+CHF
+Projektankündigung Goldacker
+Sulackerstrasse 11 und 13, 8500 Frauenfeld
+Array
+5.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+5.5
+Wohnfläche
+145 m2
+Attraktives Neubauprojekt mit 2 Doppeleinfamilienhäuser und 6 Reiheneinfamilienhäuser.Ihr neues Zuh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 10
+1'199'000
+CHF
+Anlage mit 3 Gebäuden und viel Potential
+Hauptstrasse 10, 8259 Kaltenbach
+Array
+11 Zimmer
+194 m2
+Objekttyp
+Wohnung, Bauernhaus
+Zimmer
+11
+Wohnfläche
+194 m2
+Etage
+Wir verkaufen im Auftrag eine einmalige und äusserst interessante Immobilie. Das Grundstück mit 166…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+4'900'000
+CHF
+Wunderschöne Villa an idealer Lage mit …
+Adresse auf Anfrage, 8266 Steckborn
+Array
+7 Zimmer
+308 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7
+Wohnfläche
+308 m2
+Etage
+An bester Lage in Steckborn, mit wunderschöner und unverbaubarer Seesicht, verkaufen wir diese atem…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'650'000
+CHF
+Historisches Wohnhaus an einmaliger Rhe…
+Adresse auf Anfrage, 8253 Diessenhofen
+Array
+390 m2
+Objekttyp
+Wohnung, Einzelhaus
+Wohnfläche
+390 m2
+Etage
+Historisches Wohnhaus an einmaliger RheinlageDas historische Wohnhaus liegt direkt in der Altstadt …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Exclusive Landhausvilla an bester Lage
+Adresse auf Anfrage, 9507 Stettfurt
+Array
+8.5 Zimmer
+352 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+8.5
+Wohnfläche
+352 m2
+Etage
+Diese elegante 8.5 Zimmer-Villa wurde in Massivbauweise aufwendig, mit vielen Extras und hochwertig…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+4'700'000
+CHF
+Zu Verkaufen 2 - Familien Haus mit gros…
+Adresse auf Anfrage, 8500 Frauenfeld
+Array
+12 Zimmer
+360 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+12
+Wohnfläche
+360 m2
+Etage
+Die Liegenschaft für Grosse Familien ohne störende Nachbar, und doch nahe an der Stadt Frauenfeld. …
 Teilen
 E-Mail
 Facebook

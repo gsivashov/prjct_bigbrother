@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/motorrad/marktplatz/malaguti
 Title: Malaguti Motorrad occasion oder neu kaufen - comparis.ch
 Description: Malaguti Motorrad Occasion oder neu zum besten Preis kaufen. Im grössten Motorradmarkt der Schweiz alle Inserate der grössten Online Portale auf einen Blick
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -149,7 +147,7 @@ Favoriten (0)
 Ihre Auswahl
 Malaguti Motorrad
 Motorradmarkt: Occasionen und neue Motorräder
-191
+147
 Treffer für Sie gefunden auf allen grossen Schweizer Motorrad-Portalen
 Treffer für Sie gefunden auf allen grossen Schweizer Motorrad-Portalen
 Erstzulassung
@@ -704,39 +702,65 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Malaguti
-(191)
+(147)
 Malaguti Neu
-(160)
+(119)
 Malaguti Occasion
-(29)
+(25)
+Malaguti Vorführmodell
+(3)
 Aufbau
 Malaguti Strasse
-(46)
-Malaguti Gelände / Enduro
-(20)
+(33)
 Malaguti Roller
-(17)
+(14)
+Malaguti Gelände / Enduro
+(13)
 Malaguti
 Modelle
 Malaguti XSM 125
-(23)
+(16)
 Malaguti XTM 125
-(11)
-Malaguti Monte 125
+(7)
+Malaguti Phantom F-12 100 (45km/h) ab 16 Jahren 90Km/h
 Alle Details
-Inserat vom 09.06.2021
+Inserat vom 30.07.2021
+Occasion
+06.2002
+27'600 km
+94 ccm
+Preis
+CHF 1'250.-
+Alle Details
+CHF 1'250.-
+Alle Details
+Malaguti Dune 125
+Alle Details
+Inserat vom 29.07.2021
 Occasion
 03.2021
-500 km
+521 km
 124 ccm
 Preis
-CHF 3'700.-
+CHF 3'600.-
 Alle Details
-CHF 3'700.-
+CHF 3'600.-
+Alle Details
+Malaguti XTM 50
+Alle Details
+Inserat vom 24.07.2021
+Occasion
+06.2006
+4'568 km
+49 ccm
+Preis
+CHF 1'500.-
+Alle Details
+CHF 1'500.-
 Alle Details
 Malaguti RST 125
 Alle Details
-Inserat vom 08.06.2021
+Inserat vom 23.07.2021
 Neu
 01.1970
 10 km
@@ -745,102 +769,75 @@ Preis
 CHF 4'590.-
 Alle Details
 CHF 4'590.-
+Alle Details
+Malaguti Monte
+Alle Details
+Inserat vom 23.07.2021
+Neu
+07.2021
+10 km
+125 ccm
+Preis
+CHF 3'990.-
+Alle Details
+CHF 3'990.-
+Alle Details
+Malaguti andere/autre Civetta 6.0
+Alle Details
+Inserat vom 22.07.2021
+Neu
+05.2021
+0 km
+Preis
+CHF 5'290.-
+Alle Details
+CHF 5'290.-
+Alle Details
+Malaguti andere/autre Civetta 6.1
+Alle Details
+Inserat vom 22.07.2021
+Neu
+05.2021
+0 km
+Preis
+CHF 5'990.-
+Alle Details
+CHF 5'990.-
 Alle Details
 Malaguti RST 125
 Alle Details
-Inserat vom 08.06.2021
+Inserat vom 15.07.2021
 Neu
-01.1970
-10 km
-125 ccm
+07.2021
+1 km
+124 ccm
 Preis
-CHF 4'590.-
+CHF 4'300.-
 Alle Details
-CHF 4'590.-
+CHF 4'300.-
 Alle Details
-Malaguti Dune 125
+Malaguti RST 125
 Alle Details
-Inserat vom 08.06.2021
-Neu
-01.1970
-10 km
-125 ccm
+Inserat vom 11.07.2021
+Occasion
+06.2021
+130 km
+124 ccm
 Preis
-CHF 3'790.-
+CHF 3'900.-
 Alle Details
-CHF 3'790.-
+CHF 3'900.-
 Alle Details
-Malaguti Dune 125
+Malaguti Monte
 Alle Details
-Inserat vom 08.06.2021
+Inserat vom 25.06.2021
 Neu
-01.1970
-10 km
-125 ccm
-Preis
-CHF 3'790.-
-Alle Details
-CHF 3'790.-
-Alle Details
-Malaguti Madison 300
-Alle Details
-Inserat vom 08.06.2021
-Neu
-01.1970
-10 km
-300 ccm
-Preis
-CHF 6'690.-
-Alle Details
-CHF 6'690.-
-Alle Details
-Malaguti XSM/XTM
-Alle Details
-Inserat vom 08.06.2021
-Neu
-01.1970
-10 km
-125 ccm
+06.2021
+1 km
 Preis
 CHF 3'990.-
 Alle Details
 CHF 3'990.-
-Alle Details
-Malaguti XSM/XTM
-Alle Details
-Inserat vom 08.06.2021
-Neu
-01.1970
-10 km
-125 ccm
-Preis
-CHF 3'990.-
-Alle Details
-CHF 3'990.-
-Alle Details
-Malaguti XSM/XTM
-Alle Details
-Inserat vom 08.06.2021
-Neu
-01.1970
-10 km
-125 ccm
-Preis
-CHF 3'790.-
-Alle Details
-CHF 3'790.-
-Alle Details
-Malaguti XSM/XTM
-Alle Details
-Inserat vom 08.06.2021
-Neu
-01.1970
-10 km
-125 ccm
-Preis
-CHF 3'790.-
-Alle Details
-CHF 3'790.-
 Alle Details
 vorherige Seite
 Sie befinden sich auf Seite1
@@ -849,7 +846,7 @@ Sie befinden sich auf Seite1
 4
 5
 6
-20
+15
 nächste Seite
 ×
 comparis.ch

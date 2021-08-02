@@ -85,9 +85,9 @@ Sich anmelden
 Ihre E-Mail-Adresse wurde registriert.
 Es liegt ein Systemfehler vor.
 Profitieren Sie von den besten Zinssätzen unserer Partner
-Festzins 3 Jahre ab 0.63%
-Festzins 5 Jahre ab 0.71%
-Festzins 10 Jahre ab 1.05%
+Festzins 3 Jahre ab 0.57%
+Festzins 5 Jahre ab 0.62%
+Festzins 10 Jahre ab 0.92%
 Weiter
 Ein Service in Partnerschaft mit
 Nach Hypothekenart gefiltert
@@ -95,7 +95,7 @@ Banken
 Versicherungen
 Online-Hypotheken
 Zurück zum Vergleich / Liste der Hypothekarzinsen (Vriabler Zins, LIBOR und Festzins)
-Stand 07.06.2021
+Stand 29.07.2021
 Bank / ProduktFür weitere infos klicken Sie bitte auf den Namen des Anbieters
 DarlehenMinimum
 Zins
@@ -158,7 +158,7 @@ acrevis LIBOR 3 Monate / Libor-Hypothek
 Bank WIR
 / LIBOR 3 Monate
 100000
-1.350
+1.360
 Eine Hypothek mit LIBOR-Zinssatz für eine grössere Flexibilität
 Profitieren Sie von der Liste der Hypothekarzinssätze, um die ideale Hypothek für Ihr Projekt zu finden! Wir raten Ihnen, auch den Hypothekenrechner zu nutzen, der Ihnen eine schnelle Analyse Ihres Hypothekendossiers ermöglicht, indem er sich auf die drei für eine Finanzierung wichtigen Angaben stützt: Ihr Jahreseinkommen, Ihr Eigenkapital und der Kaufpreis der Immobilie, die Sie kaufen möchten. Holen Sie über unseren Beratungsservice eine individuelle Offerte ein.
 Schnellansicht der Hypothekarzinssätze

@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marktplatz/ford/granada/occasion
 Title: Ford Granada Occasion – Preise vergleichen mit Comparis
 Description: Finden Sie unter 0 Ford Granada Occasion Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -597,24 +595,24 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Ford
-(8'980)
+(7'474)
 Modelle
 Ford Focus
-(1'305)
+(1'150)
 Ford Kuga
-(1'147)
+(1'027)
 Ford Fiesta
-(1'134)
-Ford Transit
-(711)
+(897)
 Ford Puma
-(671)
+(609)
+Ford Transit
+(531)
 Ford Mustang
-(583)
+(507)
 Ford Mondeo
-(525)
+(401)
 Ford Transit Custom
-(380)
+(337)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...

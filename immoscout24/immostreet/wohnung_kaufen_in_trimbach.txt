@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/apartment/unterkategorie-flat/in-trimbach/
 Title: Wohnung kaufen in Trimbach - Immostreet.ch
-Description: Wohnung kaufen in  Trimbach - Immostreet.ch: ImmoStreet.ch hat 6 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in  Trimbach - Immostreet.ch: ImmoStreet.ch hat 4 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-6 Resultate gefunden ·
+4 Resultate gefunden ·
 Wohnung kaufen in Trimbach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -135,19 +135,19 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Längmattstrasse 2
-610'000
+750'000
 CHF
-Zentral Wohnen in nachhaltigem Holzbau
+Neubau - Nur 5 Fahrradmin. bis Bahnhof …
 Längmattstrasse 2, 4632 Trimbach
 Array
-3.5 Zimmer
-92 m2
+4.5 Zimmer
+117 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+4.5
 Wohnfläche
-92 m2
+117 m2
 Auf dem Grundstück entsteht per Spätsommer/Herbst 2022 ein zeitgenössischer, hochwertiger und nachh…
 Teilen
 E-Mail
@@ -173,29 +173,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Rankwog 6
-305'000
-CHF
-AgentSelly - Solide Basis inklusive ein…
-Rankwog 6, 4632 Trimbach
-Array
-3.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-75 m2
-Hoch über den Dächern von Trimbach, verkaufen wir diese weitsichtige Eigentumswohung im zehnten Sto…
-Teilen
-E-Mail
-Facebook
-Whatsapp
 Adresse auf Anfrage
 345'000
 CHF
-Attraktives Angebot für Ihre Zukunft
+RESERVIERT
 Adresse auf Anfrage, 4632 Trimbach
 Array
 4.5 Zimmer
@@ -215,7 +196,7 @@ Whatsapp
 Adresse auf Anfrage
 325'000
 CHF
-Hier liegt Ihnen die Welt zu Füssen
+Gehen Sie hoch hinaus
 Adresse auf Anfrage, 4632 Trimbach
 Array
 4.5 Zimmer
@@ -227,25 +208,6 @@ Zimmer
 Wohnfläche
 92 m2
 Diese, an einer idealen Lage gelegene Perle, überzeugt durch einen praktischen Grundriss und bietet…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rankwog 2
-275'000
-CHF
-Helle und gemütliche 3.5 Zimmerwohnung …
-Rankwog 2, 4632 Trimbach
-Array
-3.5 Zimmer
-75 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-75 m2
-Die helle 3.5 Zimmerwohnung befindet sich an sonniger und zentraler Lage in Trimbach. Diese Wohnung…
 Teilen
 E-Mail
 Facebook

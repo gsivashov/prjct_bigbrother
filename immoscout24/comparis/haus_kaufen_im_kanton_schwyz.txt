@@ -3,7 +3,6 @@ Title: Haus kaufen im Kanton Schwyz
  - Immobiliensuche Schweiz
 Description: Haus kaufen in Schwyz, besser entscheiden dank Zusatzinformationen. Im grössten Immobilienportal der Schweiz suchen und Haus finden.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -20,7 +19,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -149,7 +147,7 @@ Haus kaufen im Kanton Schwyz
 Ein Haus zu kaufen, braucht gute Vorbereitung. Auf comparis.ch haben Sie den besten Überblick aller Inserate der grössten Immobilien-Portale der Schweiz. Vergleichen Sie die Preise, prüfen Sie die historische Preisentwicklung und die Immobilienpreise in Ihrer zukünftigen Nachbarschaft.
 Für die Finanzierung können Sie erste Berechnungen mit dem Hypothekenrechner durchführen und die Steuerbelastung in der neuen Gemeinde berechnen.
 Gemeinden in diesem Kanton
-AltendorfArthEinsiedelnFreienbachGalgenenGersauIngenbohlMuotathalReichenburgSattelSchübelbachSchwyzSteinenVorderthalWollerau
+AlpthalAltendorfArthEinsiedelnGersauMuotathalOberibergReichenburgSattelSchwyzSteinenWangen (SZ)Wollerau
 comparis.ch
 Über Comparis
 Medien

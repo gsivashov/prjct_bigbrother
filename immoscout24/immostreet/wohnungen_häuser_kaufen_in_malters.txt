@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/unterkategorie-flat/in-malters/
 Title: Wohnungen & Häuser kaufen in Malters - Immostreet.ch
-Description: Wohnungen & Häuser kaufen in  Malters - Immostreet.ch: ImmoStreet.ch hat 3 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser kaufen in  Malters - Immostreet.ch: ImmoStreet.ch hat 5 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -107,7 +107,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-3 Resultate gefunden ·
+5 Resultate gefunden ·
 Wohnungen & Häuser kaufen in Malters
 Preis (aufsteigend)
 Preis (absteigend)
@@ -120,20 +120,40 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Weiherweg 3
-Preis auf Anfrage
-helle und charmante Attikawohnung
-Weiherweg 3, 6102 Malters
+Adresse auf Anfrage
+500'000
+CHF
+Grosszügige und zentrale Wohnung
+Adresse auf Anfrage, 6102 Malters
 Array
-5.5 Zimmer
-134 m2
+2.5 Zimmer
+65 m2
 Objekttyp
-Wohnung, Dachwohnung
+Wohnung, Flach
 Zimmer
-5.5
+2.5
 Wohnfläche
-134 m2
-Die helle und charmante Attikawohnung hat einiges zu bieten:- super Grundriss für die individuelle …
+65 m2
+Die schöne 2.5 Zimmer-Wohnung nach bonacasa-Standard hebt sich durch den hohen Ausbaustandard und e…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+980'000
+CHF
+Wohlfühloase in idyllischer Umgebung
+Adresse auf Anfrage, 6102 Malters
+Array
+4.5 Zimmer
+138 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+138 m2
+Hier erwartet Sie eine moderne 4.5 Zimmer Wohnung, welche im Jahr 2013 komplett renoviert wurde und…
 Teilen
 E-Mail
 Facebook
@@ -158,20 +178,38 @@ E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-980'000
+725'000
 CHF
-Wohlfühloase in idyllischer Umgebung
+Sonnige 4.5-Zimmer-Wohnung mit Winterga…
 Adresse auf Anfrage, 6102 Malters
 Array
 4.5 Zimmer
-138 m2
+115 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-138 m2
-Hier erwartet Sie eine moderne 4.5 Zimmer Wohnung, welche im Jahr 2013 komplett renoviert wurde und…
+115 m2
+Diese helle 4.5-Zimmer Hochparterre-Wohnung liegt an schöner ruhiger Lage und ist Teil einer nach S…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Weiherweg 3
+Preis auf Anfrage
+helle und charmante Attikawohnung
+Weiherweg 3, 6102 Malters
+Array
+5.5 Zimmer
+134 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+5.5
+Wohnfläche
+134 m2
+Die helle und charmante Attikawohnung hat einiges zu bieten:- super Grundriss für die individuelle …
 Teilen
 E-Mail
 Facebook

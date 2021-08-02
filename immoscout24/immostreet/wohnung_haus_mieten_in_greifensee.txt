@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/in-greifensee/
 Title: Wohnung & Haus mieten in Greifensee - Immostreet.ch
-Description: Wohnung & Haus mieten in  Greifensee - Immostreet.ch: ImmoStreet.ch hat 20 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in  Greifensee - Immostreet.ch: ImmoStreet.ch hat 12 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-20 Resultate gefunden ·
+12 Resultate gefunden ·
 Wohnung & Haus mieten in Greifensee
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,50 +152,154 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Burstwiesenstr. 18
-120
+Tumigerstrasse 67
+2'080
 CHF
 /Monat
-Bastelraum in Wohnliegenschaft zu vermi…
-Burstwiesenstr. 18, 8606 Greifensee
+Moderne und helle Wohnung
+Tumigerstrasse 67, 8606 Greifensee
 Array
-Objekttyp
-Atelier
-Wir vermieten, nach Vereinbarung einen ca. 14m2 grossen Bastelraum (offener Holzverschlag). Einstel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Müllerwis 22
-120
-CHF
-/Monat
-Bastelraum in Wohnliegenschaft zu vermi…
-Müllerwis 22, 8606 Greifensee
-Array
-Objekttyp
-Atelier
-Wir vermieten, nach Vereinbarung einen ca. 14m2 grossen Bastelraum. Einstellplätze à CHF 125.--/Mon…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Am Pfisterhölzli 54
-1'260
-CHF
-/Monat
-gepflegte Single-Wohnung mit attraktive…
-Am Pfisterhölzli 54, 8606 Greifensee
-Array
-2 Zimmer
-57 m2
+4.5 Zimmer
+97 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2
+4.5
 Wohnfläche
-57 m2
-Wir vermieten in der Liegenschaft "am Pfisterhölzli 54" eine bestens unterhaltene 2.0 Zimmer-Wohnun…
+97 m2
+Wir vermieten diese schöne und helle 4.5-Zimmerwohnung in begrünter und ruhiger Umgebung, welche Ih…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Pfisterhölzli 26
+1'720
+CHF
+/Monat
+Familienfreundliche Überbauung im Grünen
+Am Pfisterhölzli 26, 8606 Greifensee
+Array
+4 Zimmer
+84 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+84 m2
+Wir vermieten diese familienfreundliche Wohnung am Greifensee, welche Ihnen nebst der grünen Umgebu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Einfamilienhaus in ruhiger Lage in Grei…
+Adresse auf Anfrage, 8606 Greifensee
+Array
+5.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+150 m2
+TeilmöbliertInternet und Kabel TVMit modernen Geräten ausgestatt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Am Pfisterhölzli 40
+800
+CHF
+/Monat
+WG-Zimmer Greifensee
+Am Pfisterhölzli 40, 8606 Greifensee
+Array
+18 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+18 m2
+In der Nähe7min Fussweg zum Bahnhof Nänikon-Greifensee. 15min Fussweg zum Einkaufszentrum Meierwis …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Müllerwis 19
+1'889
+CHF
+/Monat
+Greifensee: Das Naherholungsgebiet
+Müllerwis 19, 8606 Greifensee
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Wir vermieten per sofort oder nach Vereinbarung eine zentral gelegene 3½-Zimmer-Wohnung mit folgend…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Burstwiesenstrasse 69
+2'030
+CHF
+/Monat
+Ihre neue Wohlfühloase - Wohnen ohne Mi…
+Burstwiesenstrasse 69, 8606 Greifensee
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Per sofort oder nach Vereinbarung vermieten wir verschiedene, moderne 4½-Zimmer-Wohnungen in unters…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Müllerwis 30
+1'947
+CHF
+/Monat
+Wohnung mit Gartensitzplatz
+Müllerwis 30, 8606 Greifensee
+Array
+4 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+81 m2
+Wir vermieten nach Vereinbarung eine zentral gelegene 4-Zimmer-Wohnung mit folgenden Eckdaten:- All…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Burstwiesenstrasse 63
+2'010
+CHF
+/Monat
+SONNIGE WOHNUNG MIT BLICK AUF DEN GREIF…
+Burstwiesenstrasse 63, 8606 Greifensee
+Array
+4.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+110 m2
+Diese schöne 4.5-Zimmer-Wohnung im 4. Obergeschoss überzeugt mit einem funktionellen Grundriss und …
 Teilen
 E-Mail
 Facebook
@@ -216,146 +320,6 @@ Zimmer
 Wohnfläche
 90 m2
 Wir vermieten nach Vereinbarung eine zentral gelegene 4.0-Zimmer-Wohnung mit folgenden Eckdaten:- A…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Müllerwis 30
-1'846
-CHF
-/Monat
-Ihre neue Wohnung im Herzen von Greifen…
-Müllerwis 30, 8606 Greifensee
-Array
-4 Zimmer
-81 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-81 m2
-Wir vermieten nach Vereinbarung eine zentral gelegene 4.0-Zimmer-Wohnung mit folgenden Eckdaten:- A…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seilerwis 7
-1'794
-CHF
-/Monat
-Greifensee: Das Naherholungsgebiet
-Seilerwis 7, 8606 Greifensee
-Array
-4 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-90 m2
-Wir vermieten nach Vereinbarung eine zentral gelegene 4.0-Zimmer-Wohnung mit folgenden Eckdaten:- A…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Müllerwis 27
-1'788
-CHF
-/Monat
-Greifensee: Das Naherholungsgebiet
-Müllerwis 27, 8606 Greifensee
-Array
-4 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-90 m2
-Wir vermieten nach Vereinbarung eine zentral gelegene 4.0-Zimmer-Wohnung mit folgenden Eckdaten:- A…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Müllerwis 16
-1'765
-CHF
-/Monat
-Von Ihrer Wohnung, zu Fuss an den Greif…
-Müllerwis 16, 8606 Greifensee
-Array
-3.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-77 m2
-Wir vermieten nach Vereinbarung eine zentral gelegene 3½-Zimmer-Wohnung mit folgenden Eckdaten:- Al…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wildsbergstrasse 44
-2'830
-CHF
-/Monat
-Modern ausgebaute Wohnung an herrlicher…
-Wildsbergstrasse 44, 8606 Greifensee
-Array
-3.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-120 m2
-Im Weiler Wildsberg, Gemeinde Greifensee, an herrlicher Aussichtslage, ist eine 3 1/2 - Zimmerwohnu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sandbüelstrasse 14
-1'790
-CHF
-/Monat
-Helle 3-Zimmerwohnung mit separater Küc…
-Sandbüelstrasse 14, 8606 Greifensee
-Array
-3 Zimmer
-71 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-71 m2
-Wir vermieten eine schöne und sehr helle 3-Zimmerwohnung an zentraler Lage in Greifensee. Bahnhof, …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Am Pfisterhölzli 15
-1'870
-CHF
-/Monat
-Familienfreundliche Überbauung im Grünen
-Am Pfisterhölzli 15, 8606 Greifensee
-Array
-5 Zimmer
-94 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-94 m2
-Wir vermieten diese 5-Zimmerwohnung, welche sich in einer grünen und ruhigen Überbauung befindet. D…
 Teilen
 E-Mail
 Facebook
@@ -396,123 +360,6 @@ Zimmer
 Wohnfläche
 90 m2
 Wir vermieten per 01.08.2021 eine zentral gelegene 3½-Zimmer-Wohnung mit folgenden Eckdaten:- Alle …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Burstwiesenstrasse 39
-1'960
-CHF
-/Monat
-Ihre neue Wohlfühloase - Wohnen ohne Mi…
-Burstwiesenstrasse 39, 8606 Greifensee
-Array
-4.5 Zimmer
-97 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-97 m2
-Per sofort oder nach Vereinbarung vermieten wir verschiedene, moderne 4½-Zimmer-Wohnungen in unters…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Am Pfisterhölzli 4
-2'250
-CHF
-/Monat
-Sonnige Wohnung mit See- und Weitsicht
-Am Pfisterhölzli 4, 8606 Greifensee
-Array
-5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wir vermieten per sofort diese schöne 5-Zimmerwohnung, welche am Erholungsraum des Greifensee liegt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sandbüelstrasse 16
-1'950
-CHF
-/Monat
-Schnell am See und in der Stadt
-Sandbüelstrasse 16, 8606 Greifensee
-Array
-3 Zimmer
-71 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-71 m2
-Diese schöne, zentral gelegene Gartenwohnung wird per 01. Juli 2021 neu vermietet. Sie verfügt über…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Müllerwis 30
-1'947
-CHF
-/Monat
-Wohnung mit Gartensitzplatz
-Müllerwis 30, 8606 Greifensee
-Array
-4 Zimmer
-81 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-81 m2
-Wir vermieten nach Vereinbarung eine zentral gelegene 4-Zimmer-Wohnung mit folgenden Eckdaten:- All…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Am Pfisterhölzli 15
-1'944
-CHF
-/Monat
-Wohnen in grüner Umgebung
-Am Pfisterhölzli 15, 8606 Greifensee
-Array
-5 Zimmer
-94 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-94 m2
-Wir vermieten per 01.07.2021 diese schöne 5-Zimmerwohnung in grüner Umgebung in der Nähe des Greife…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Müllerwis 21
-1'945
-CHF
-/Monat
-Ihr neues Wohlfühlzuhause
-Müllerwis 21, 8606 Greifensee
-Array
-4 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-90 m2
-- Wohn- und Schlafbereich Parkettböden- Küche und Bad Plattenboden- Moderne Küche mit Geschirrspüle…
 Teilen
 E-Mail
 Facebook

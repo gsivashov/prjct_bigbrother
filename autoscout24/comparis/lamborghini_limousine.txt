@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marktplatz/lamborghini/limousine?page=1
 Title: Lamborghini Limousine – Preise vergleichen mit Comparis - Seite 2
 Description: Finden Sie unter 32 Lamborghini Limousine Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -568,54 +566,132 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Lamborghini
-(382)
+(352)
 Lamborghini Occasion
-(360)
+(332)
 Lamborghini Vorführwagen
-(11)
+(12)
 Lamborghini Neuwagen
-(7)
+(5)
 Lamborghini Oldtimer
-(4)
+(3)
 Aufbau
 Lamborghini Coupé
-(206)
+(186)
 Lamborghini Cabrio
-(98)
+(92)
 Lamborghini Geländewagen
-(46)
+(42)
 Lamborghini Limousine
 (32)
 Motor
 Lamborghini Benzin
-(376)
+(347)
 Modelle
 Lamborghini Gallardo
-(99)
-Lamborghini Huracan
-(87)
+(88)
 Lamborghini Aventador
 (83)
+Lamborghini Huracan
+(74)
 Lamborghini Urus
-(46)
+(42)
 Lamborghini Murciélago
-(30)
+(29)
 Lamborghini Diablo
 (20)
 Lamborghini Countach
-(7)
-Lamborghini Huracan EVO Coupé DCT
-30.04.2021
+(6)
+Lamborghini Huracan LP610-4 Coupé DCT
+3.5
+01.07.2021
 Occasion
-06.2020, Automat, Benzin
-4'500 km, 639 PS, Grau
+03.2016, Automat, Benzin
+16'500 km, 610 PS, Blau
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 259'000
-ab CHF 4'730 / Monat
-Lamborghini Gallardo LP560-4 Coupé E-Gear
+CHF 189'500
+ab CHF 3'461 / Monat
+Lamborghini Aventador LP700-4 Coupé E-Gear
+2.5
+17.06.2021
+Occasion
+10.2012, Automat, Benzin
+57'900 km, 700 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 229'000
+ab CHF 4'182 / Monat
+Lamborghini Aventador LP750-4 Superveloce Coupé E-Gear
+2.5
+11.06.2021
+Occasion
+08.2017, Automat, Benzin
+17'900 km, 750 PS, Grün
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 399'900
+ab CHF 7'304 / Monat
+Lamborghini Huracan LP610-4 Coupé DCT
+3.5
+09.06.2021
+Occasion
+04.2017, Automat, Benzin
+9'800 km, 610 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 204'500
+ab CHF 3'735 / Monat
+Lamborghini Aventador LP700-4 Coupé E-Gear
 3.0
+06.06.2021
+Occasion
+04.2012, Automat, Benzin
+18'500 km, 700 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 295'800
+ab CHF 5'402 / Monat
+Preisreduktion
+Lamborghini Aventador S LP740-4 Coupé E-Gear
+4.0
+29.05.2021
+Occasion
+04.2018, Automat, Benzin
+26'300 km, 741 PS, Rot
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 315'000
+ab CHF 5'753 / Monat
+Lamborghini Gallardo LP550-2 Cpé V.B.
+5.0
+04.05.2021
+Occasion
+04.2010, Automat, Benzin
+11'900 km, 551 PS, Schwarz
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 124'500
+ab CHF 2'274 / Monat
+Lamborghini Diablo 5.7 SV
+30.04.2021
+Occasion
+05.1999, Manuell, Benzin
+77'500 km, 530 PS, Silber
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 199'000
+ab CHF 3'634 / Monat
+Lamborghini Gallardo LP560-4 Coupé E-Gear
+4.5
 30.04.2021
 Occasion
 04.2009, Automat, Benzin
@@ -625,18 +701,9 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 106'800
 ab CHF 1'951 / Monat
-Lamborghini Aventador LP750-4 Superveloce Coupé E-Gear
-15.04.2021
-Occasion
-05.2020, Automat, Benzin
-750 km, 750 PS, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 468'500
-ab CHF 8'556 / Monat
 Preiserhöhung
 Lamborghini Huracan EVO RWD
+4.5
 07.04.2021
 Occasion
 06.2020, Manuell, Benzin
@@ -646,68 +713,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 245'000
 ab CHF 4'475 / Monat
-Lamborghini Huracan EVO Coupé DCT
-01.04.2021
-Occasion
-04.2020, Automat, Benzin
-1'800 km, 639 PS, Rot
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 249'500
-ab CHF 4'557 / Monat
-Lamborghini Espada GT400 III
-31.03.2021
-Occasion
-01.1973, Manuell, Benzin
-54'500 km, 350 PS, Weiss
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 198'500
-ab CHF 3'625 / Monat
-Lamborghini Espada GT 400 Serie 3
-31.03.2021
-Occasion
-04.1973, Manuell, Benzin
-48'000 km, 348 PS, Weiss
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 189'800
-ab CHF 3'466 / Monat
-Preisreduktion
-Lamborghini Huracan LP640-4 Coupé Performante DCT
-13.03.2021
-Occasion
-02.2018, Automat, Benzin
-4'000 km, 639 PS, Blau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 275'000
-ab CHF 5'022 / Monat
-Lamborghini Huracan LP610-4 Spyder DCT
-4.5
-11.03.2021
-Occasion
-02.2017, Automat, Benzin
-7'900 km, 610 PS, Schwarz
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 228'500
-ab CHF 4'173 / Monat
-Lamborghini Huracan EVO Coupé DCT
-09.03.2021
-Occasion
-05.2020, Automat, Benzin
-7'500 km, 639 PS, Grau
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 285'685
-ab CHF 5'218 / Monat
 vorherige Seite
 1
 Sie befinden sich auf Seite2

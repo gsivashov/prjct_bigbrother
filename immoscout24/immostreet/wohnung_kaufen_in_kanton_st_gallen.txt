@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/kanton-stgallen/?pagenum=5
 Title: Wohnung kaufen in Kanton St. Gallen - Immostreet.ch
-Description: Wohnung kaufen in Kanton St. Gallen - Immostreet.ch: ImmoStreet.ch hat 412 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Kanton St. Gallen - Immostreet.ch: ImmoStreet.ch hat 405 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-412 Resultate gefunden ·
+405 Resultate gefunden ·
 Wohnung kaufen in Kanton St. Gallen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,381 +134,398 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Lignoformstrasse 4
-Preis auf Anfrage
-VERKAUFT
-Lignoformstrasse 4, 8717 Benken SG
+Schänis
+1'680'000
+CHF
+Eine Attikawohnung welche keine Wünsche…
+Schänis, 8718 Schänis
 Array
-3.5 Zimmer
-102 m2
+4.5 Zimmer
+194 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
-3.5
+4.5
 Wohnfläche
-102 m2
-*DIESE WOHNUNG IST VERKAUFT*Diese schöne Wohnung an ruhiger Lage mit Aussicht ins Grüne konnte erfo…
+194 m2
+Panoramafenster, lichtdurchflutete Räume und eine grosse Terrasse mit Wintergarten laden zum Verwei…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Obere Waldhofstrasse 8
-420'000
+Bergstrasse
+340'000
 CHF
-GROSSZÜGIG AN RUHIGER LAGE
-Obere Waldhofstrasse 8, 9240 Uzwil
+Ferienwohnung direkt an der Skipiste
+Bergstrasse, 8897 Flumserberg Tannenheim
+Array
+2 Zimmer
+65 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+65 m2
+Etage
+Wohnen wie im Hotel. 2 Zimmer Wohnung mit Sicht auf die Skipiste.Bad mit Dusche, 2 Balkone, einer d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bürgerheimstrasse 3
+680'000
+CHF
+Wohnen am Dorfbach - Wohnung Nr. 1.3 im…
+Bürgerheimstrasse 3, 9606 Bütschwil
 Array
 4.5 Zimmer
-100 m2
+120 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-100 m2
-An sonniger und ruhiger Lage lockt diese gepflegte 4.5-Zimmer-Wohnung. Der ausgeklügelte Grundriss …
+120 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Ringstrasse 4c
-660'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-4.5 Zimmer
-111 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-111 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-550'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-735'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-5.5 Zimmer
-128 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-128 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-645'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-4.5 Zimmer
-111 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-111 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-655'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-4.5 Zimmer
-111 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-111 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-725'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-5.5 Zimmer
-128 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-128 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-735'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-5.5 Zimmer
-128 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-128 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-550'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
-890'000
-CHF
-Attikawohnung Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-5.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-130 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4e
-665'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
-Array
-4.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-112 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4c
+Bürgerheimstrasse 3
 880'000
 CHF
-Attikawohnung Neubauprojekt BLUME
-Ringstrasse 4c, 8737 Gommiswald
-Array
-5.5 Zimmer
-129 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-129 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4e
-650'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
+Wohnen am Dorfbach - Attikawohnung Nr. …
+Bürgerheimstrasse 3, 9606 Bütschwil
 Array
 4.5 Zimmer
-112 m2
+127 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-112 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
+127 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Ringstrasse 4e
-740'000
+Bürgerheimstrasse 3
+530'000
 CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
-Array
-5.5 Zimmer
-128 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-128 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4e
-550'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
+Wohnen am Dorfbach - Wohnung Nr. 1.4 im…
+Bürgerheimstrasse 3, 9606 Bütschwil
 Array
 3.5 Zimmer
-90 m2
+87 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-90 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
+87 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Ringstrasse 4e
-540'000
+Bürgerheimstrasse 3
+890'000
 CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4e
-740'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
-Array
-5.5 Zimmer
-128 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-128 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ringstrasse 4e
-650'000
-CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
+Wohnen am Dorfbach - Attikawohnung Nr. …
+Bürgerheimstrasse 3, 9606 Bütschwil
 Array
 4.5 Zimmer
-112 m2
+129 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-112 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
+129 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Ringstrasse 4e
-730'000
+Adresse auf Anfrage
+670'000
 CHF
-Neubauprojekt BLUME
-Ringstrasse 4e, 8737 Gommiswald
+Schön renoviertes Bijou mit Cheminée!
+Adresse auf Anfrage, 9243 Jonschwil
+Array
+4.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+140 m2
+Etage
+Die Wohnung befindet sich im 2. Obergeschoss - der obersten Etage des Mehrfamilienhauses. Sie wurde…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+990'000
+CHF
+Grosszügige Familienwohnung mit Fernsic…
+Adresse auf Anfrage, 9604 Lütisburg
 Array
 5.5 Zimmer
-128 m2
+204 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 5.5
 Wohnfläche
-128 m2
-Überbauung "BLUME" Gommiswald22 neue EigentumswohnungenProjektbeschrieb:In Gommiswald, an der Rings…
+204 m2
+Etage
+Sie sind auf der Suche nach einer grosszügigen Familienwohnung, die Ihnen beim Raumangebot wie auch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bürgerheimstrasse 3
+480'000
+CHF
+Wohnen am Dorfbach - Wohnung Nr. 0.1 im…
+Bürgerheimstrasse 3, 9606 Bütschwil
+Array
+3.5 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+81 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bürgerheimstrasse 3
+690'000
+CHF
+Wohnen am Dorfbach - Wohnung Nr. 0.3 im…
+Bürgerheimstrasse 3, 9606 Bütschwil
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bürgerheimstrasse 3
+520'000
+CHF
+Wohnen am Dorfbach - Wohnung Nr. 0.4 im…
+Bürgerheimstrasse 3, 9606 Bütschwil
+Array
+3.5 Zimmer
+87 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+87 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bürgerheimstrasse 3
+490'000
+CHF
+Wohnen am Dorfbach - Wohnung Nr. 1.1 im…
+Bürgerheimstrasse 3, 9606 Bütschwil
+Array
+3.5 Zimmer
+81 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+81 m2
+Etage
+Sind Sie auf der Suche nach einem Eigenheim in einer aufstrebenden Gemeinde?Sie schätzen die Region…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Auwiesenstrasse 37
+680'000
+CHF
+Top sanierte 4.5 Zimmer Wohnung in fami…
+Auwiesenstrasse 37, 9030 Abtwil SG
+Array
+4.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+105 m2
+Etage
+Suchen Sie eine bezahlbare Wohnung, die sich von den üblichen Angeboten am Markt abhebt?Wünschen Si…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gartenweg
+700'000
+CHF
+NEUBAUWOHNUNG AN ZENTRALER LAGE DIREKT …
+Gartenweg, 9606 Bütschwil
+Array
+4.5 Zimmer
+116 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+116 m2
+WILLKOMMEN AM GARTENWEG IN BÜTSCHWILWir erstellen an zentralster und ruhiger Lage, direkt beim Bahn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gartenweg
+690'000
+CHF
+3.5-ZIMMERWOHNUNG IM OBERGESCHOSS MIT W…
+Gartenweg, 9606 Bütschwil
+Array
+3.5 Zimmer
+106 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+106 m2
+WILLKOMMEN AM GARTENWEG IN BÜTSCHWILWir erstellen an zentralster und ruhiger Lage, direkt beim Bahn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Riederen 31
+1'090'000
+CHF
+Stilvolle und moderne 4.5 Zimmer Dachwo…
+Riederen 31, 9402 Mörschwil
+Array
+4.5 Zimmer
+123 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+123 m2
+Lesenswerter Objektbeschrieb mit wichtigen Detailinformationen.Sind Sie auf der Suche nach einer er…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zürcherstrasse 70
+545'000
+CHF
+3.5 - Zimmer - Neubauwohnungen in Sarga…
+Zürcherstrasse 70, 7320 Sargans
+Array
+3.5 Zimmer
+79 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+79 m2
+Etage
+Bis zum Frühling 2021 werden in Sargans im "Böglifeld" vier neue Mehrfamilienhäuser gebaut. Die Übe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Städtchenstrasse 97
+790'000
+CHF
+Exklusive Neubauwohnung an zentraler La…
+Städtchenstrasse 97, 7320 Sargans
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Etage
+Die Überbauung BöglifeldBis zum Frühjahr 2021 wurden in Sargans im "Böglifeld" vier neue Mehrfamili…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Städtchenstrasse 97
+780'000
+CHF
+Jetzt Traumwohnung gestalten an zentral…
+Städtchenstrasse 97, 7320 Sargans
+Array
+3.5 Zimmer
+112 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+112 m2
+Etage
+Bis zum Frühjahr 2021 wurden in Sargans im "Böglifeld" vier neue Mehrfamilienhäuser gebaut. Die Übe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Messmerhölzli
+1'140'000
+CHF
+Exklusive Attikawohnung mit einmaliger …
+Messmerhölzli, 8887 Mels
+Array
+4.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+4.5
+Wohnfläche
+150 m2
+Etage
+An sonniger Hanglage mit wunderbarem Ausblick auf die umliegende Bergwelt sowie das Schloss Sargans…
 Teilen
 E-Mail
 Facebook

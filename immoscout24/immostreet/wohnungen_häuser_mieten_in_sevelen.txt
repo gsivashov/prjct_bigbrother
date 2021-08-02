@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-sevelen/
 Title: Wohnungen & Häuser mieten in Sevelen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Sevelen - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Sevelen - Immostreet.ch: ImmoStreet.ch hat 38 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-19 Resultate gefunden ·
+38 Resultate gefunden ·
 Wohnungen & Häuser mieten in Sevelen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -123,84 +123,7 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Guschastrasse 19
-1'480
-CHF
-/Monat
-Ländliche Lage mit Weitblick
-Guschastrasse 19, 9475 Sevelen
-Array
-3.5 Zimmer
-69 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-3.5
-Wohnfläche
-69 m2
-Geniessen sie den herrlichen Panoramablick und die Aussicht ins Grüne. Die Dachwohnung befindet sic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gärtli 5
-1'082
-CHF
-/Monat
-Renovierte 4.5 Zimmerwohnung
-Gärtli 5, 9475 Sevelen
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Frisch renovierte, grosszügige 4.5 Zimmerwohnung in ruhiger Lage. Für Familien sehr gut geeignet. G…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alvierstr. 13
-1'080
-CHF
-/Monat
-Sie gehört Ihnen - Ihre erste eigene Wo…
-Alvierstr. 13, 9475 Sevelen
-Array
-2 Zimmer
-39 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-39 m2
-Lichtdurchflutetes Wohnzimmer mit ParkettbodenHelles, grosszügiges Schlafzimmer
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Calandastrasse 10
-1'420
-CHF
-/Monat
-Ihr neues Zuhause...
-Calandastrasse 10, 9475 Sevelen
-Array
-3.5 Zimmer
-87 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-87 m2
-Wir vermieten nach Vereinbarung eine gemütliche 3.5-Zimmerwohnung an sonniger Lage. Die Wohnung prä…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Guschastrasse 19
-1'630
+1'600
 CHF
 /Monat
 Familienwohnung mit sonnigem Balkon
@@ -239,6 +162,133 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+Alvierstr. 13
+1'080
+CHF
+/Monat
+Sie gehört Ihnen - Ihre erste eigene Wo…
+Alvierstr. 13, 9475 Sevelen
+Array
+2 Zimmer
+39 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+39 m2
+Lichtdurchflutetes Wohnzimmer mit ParkettbodenHelles, grosszügiges Schlafzimmer
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alvierstrasse 9/11, EP
+110
+CHF
+/Monat
+Einstellplätze in der Tiefgarage
+Alvierstrasse 9/11, EP, 9475 Sevelen
+Array
+Objekttyp
+Tiefgarage
+Wir vermieten per sofort oder nach Vereinbarung Einstellplätze in der Tiefgarage.Wir freuen uns auf…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Nordstrasse 20
+1'320
+CHF
+/Monat
+charmante 2.5-Zimmer-Wohnung
+Nordstrasse 20, 9475 Sevelen
+Array
+2.5 Zimmer
+49 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+49 m2
+Diese charmante 2.5 Zimmer-Wohnung mit ihren behaglichen Wohnräumen verfügt über folgendes Raumange…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alvierstr. 13
+1'270
+CHF
+/Monat
+Helle, charmante Wohnung an grüner Lage!
+Alvierstr. 13, 9475 Sevelen
+Array
+2 Zimmer
+53 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+53 m2
+Lichtdurchflutetes Wohnzimmer mit Parkettboden und CheminéeHelles Schlafzimmer mit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gribstrasse 5
+1'790
+CHF
+/Monat
+helle und grosszügige Wohnung an ruhige…
+Gribstrasse 5, 9475 Sevelen
+Array
+4.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Etage
+4 .5-Zimmer-Wohnung mit 113 m² Wohnflächegrosszügige Zimmerpraktische Raumaufteilu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Pfäfersweg 1
+1'250
+CHF
+/Monat
+Maisonette - Dachwohnung an ruhiger Lag…
+Pfäfersweg 1, 9475 Sevelen
+Array
+4.5 Zimmer
+106 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+106 m2
+Etage
+Maisonette - Dachwohnung an ruhiger Lage in Sevelen Ab dem 01. Oktober 2021 oder nach Vereinbarung …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 38
+50
+CHF
+/Monat
+Zentraler Parkplatz
+Bahnhofstrasse 38, 9475 Sevelen
+Array
+Objekttyp
+Offener Parkplatz
+Zentraler ParkplatzWir vermieten per sofort oder nach Vereinbarung einen Parkplatz beim Postgebäude…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Pfäfersweg 1
 890
 CHF
@@ -255,103 +305,163 @@ Zimmer
 Wohnfläche
 40 m2
 Etage
-Ab dem 01. Juli 2021 oder nach Vereinbarung vermieten wir diese neuwertige 2.5 - Zimmer - Wohnung a…
+Ab sofort oder nach Vereinbarung vermieten wir diese neuwertige 2.5 - Zimmer - Wohnung an ruhiger L…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-UNG Guschastrasse 35 - 39
-120
+Guschastrasse 11 - 23 Parkplätze
+110
 CHF
 /Monat
-Einstellplätze zu vermieten
-UNG Guschastrasse 35 - 39, 9475 Sevelen
+Einstellplatz in Dorfnähe zu vermieten
+Guschastrasse 11 - 23 Parkplätze, 9475 Sevelen
 Array
 Objekttyp
 Tiefgarage
-Wir vermieten per sofort oder nach Vereinbarung Einstellplätze in der Tiefgarage an der Guschastras…
+Nach Vereinbarung vermieten wir einen Einstellplatz. Der Mietzins für den Einstellplatz beträgt CHF…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Guschastrasse 19
-990
+Alvierstr. 3a
+1'240
 CHF
 /Monat
-Gepflegt wohnen in ländlicher Umgebung
-Guschastrasse 19, 9475 Sevelen
+schöne helle 3.5-Zimmer-Wohnung
+Alvierstr. 3a, 9475 Sevelen
 Array
-2 Zimmer
-49 m2
+3.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-2
-Wohnfläche
-49 m2
-Nach einem hektischen Tag bringt Sie der herrliche Panoramablick von Ihrem sonnigen Balkon aus schn…
+3.5
+Wir vermieten per 1. Oktober 2021 oder nach Vereinbarung eine schöne, gepflegte Wohnung mit Aussich…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Välsli, 43
-550
+Veltur, 14c
+1'750
 CHF
 /Monat
-Gediegenes Mietverhältnis
-Välsli, 43, 9475 Sevelen
+Attika-Wohnung mit viel Platz! - 1. Net…
+Veltur, 14c, 9475 Sevelen
 Array
-Objekttyp
-Wohnung, Einzelzimmer
-2 Zimmer, Bad und Küche zur mitbenutzung! Parkplatz inklusive! Tiere natürlich willkommen! Gruass A…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-bahnhofstrasse 12
-1'420
-CHF
-/Monat
-Nachmieter gesucht
-bahnhofstrasse 12, 9475 Sevelen
-Array
-5 Zimmer
-130 m2
+3.5 Zimmer
+102 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-5
+3.5
 Wohnfläche
-130 m2
-Guten Tag, hiermit Suchen wir einen Nachmieter für die Wunderschöne 5 Zimmer Wohnung an der Bahnhof…
+102 m2
+Die Wohnung verfügt über einen interessanten Grundriss, welcher viel Platz für individuelle Wohnide…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Rheinstrasse 1707
-1'500
+Gribstrasse 11
+1'590
 CHF
 /Monat
-Sehr schöne 4.5 Zimmerwohnung in Sevele…
-Rheinstrasse 1707, 9475 Sevelen
+Gemütliche 4 1/2-Zimmer-Dachwohnung in …
+Gribstrasse 11, 9475 Sevelen
 Array
 4.5 Zimmer
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Etage
+Schöne, helle Dachwohnung an ruhiger Wohnlagefrisch sanierte Küche mit Glaskeramikherd und …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Guschastrasse 17
+1'370
+CHF
+/Monat
+Gemütliche Gartenwohnung für Geniesser
+Guschastrasse 17, 9475 Sevelen
+Array
+3.5 Zimmer
+84 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+84 m2
+Wenn Sie eine komfortable Wohnung an einer ruhigen, ländlichen, familienfreundlichen Lage suchen, d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alvierstr. 3
+1'220
+CHF
+/Monat
+Praktische 3-Zimmer-Wohnung
+Alvierstr. 3, 9475 Sevelen
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wir vermieten per 1. Oktober oder nach Vereinbarung eine gepflegte praktische Wohnung mit Balkon.Ne…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Calandastrasse 10
+1'200
+CHF
+/Monat
+Originelle Maisonette-Wohnung mit 2 Bal…
+Calandastrasse 10, 9475 Sevelen
+Array
+2.5 Zimmer
+56 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+2.5
+Wohnfläche
+56 m2
+Wir vermieten diese grosszügige, gemütliche 2.5-Zimmer Maisonette-Wohnung mit folgenden Annehmlichk…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Nordstrasse 18
+2'590
+CHF
+/Monat
+traumhafte 4.5-Zimmer-Attikawohnung mit…
+Nordstrasse 18, 9475 Sevelen
+Array
+4.5 Zimmer
+134 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
-Nach Vereinbarung vermieten wir diese schöne 4.5 Zimmerwohnung in Sevelen
-Wohnung verfügt über K…
+Wohnfläche
+134 m2
+Diese attraktive 4.5 Zimmer-Attikawohnung mit ihren lichtdurchfluteten und behaglichen Wohnräumen v…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Veltur 14d
-1'370
+Veltur, 14e
+1'390
 CHF
 /Monat
-Wohnen kann so schön sein...
-Veltur 14d, 9475 Sevelen
+Hoher Ausbaustandard an Top Wohnlage!
+Veltur, 14e, 9475 Sevelen
 Array
 2.5 Zimmer
 64 m2
@@ -361,122 +471,35 @@ Zimmer
 2.5
 Wohnfläche
 64 m2
-Etage
-Wohnen in naher Natur - treffender könnte der Name dieser Wohnsiedlung mit hohem Ausbaustandard kau…
+Die Wohnung glänzt aufgrund der sehr guten Lage. Ruhe und Entspannung ist hier garantiert.  Lassen …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Guschastrasse 39
-1'875
+Veltur, 14d
+1'360
 CHF
 /Monat
-Schön wohnen in Sevelen
-Guschastrasse 39, 9475 Sevelen
+Attraktive Wohnung an TOP Lage !
+Veltur, 14d, 9475 Sevelen
 Array
-4.5 Zimmer
-121 m2
+2.5 Zimmer
+53 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+2.5
 Wohnfläche
-121 m2
-Etage
-Suchen Sie ein neues Zuhause an ruhiger aber zentraler Lage?Die Wohnung zeichnet sich durch folgend…
+53 m2
+Die 2.5 Zimmer-Wohnung im hohen Ausbaustandard befindet sich im 1. Obergeschoss. Die Wohnung verfüg…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Alvierstr. 3
-1'370
-CHF
-/Monat
-Gepflegte 4-Zimmer-Wohnung mit sonnigem…
-Alvierstr. 3, 9475 Sevelen
-Array
-4 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wir vermieten ab 1. April oder nach Vereinbarung eine schöne, gepflegte Wohnung im Hochparterre.Mod…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Veltur 14c
-1'880
-CHF
-/Monat
-Attika-Wohnung mit viel Platz! - 1. Net…
-Veltur 14c, 9475 Sevelen
-Array
-3.5 Zimmer
-102 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-102 m2
-Etage
-Profitieren Sie von unserer Aktion und erhalten Sie einen Nettomietzins geschenkt bei Vertragsabsc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 18a
-1'890
-CHF
-/Monat
-einzigartige und neuwertige Wohnung
-Bahnhofstrasse 18a, 9475 Sevelen
-Array
-4.5 Zimmer
-114 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-114 m2
-LAGE* zentrale Lage in Sevelen* Nähe zu Naherholungszonen sowie örtlichen Infrastrukturen* Nähe zum…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Alvierstr. 3a
-1'350
-CHF
-/Monat
-4.5-Zimmer-Wohnung mit sonnigem Balkon
-Alvierstr. 3a, 9475 Sevelen
-Array
-4.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wir vermieten per sofort oder nach Vereinbarung eine schöne 4.5-Zimmer-Wohnung im 1. Obergeschoss m…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Industriestrasse
-Preis auf Anfrage
-Industrielagerhalle von 1.000 m2 mit Au…
-Industriestrasse, 9475 Sevelen
-Array
-Objekttyp
-Verkauf, Warenhaus
-Zu vermieten in 9475 Sevelen SG
-Lagerhalle ebenerdig von rd. 1.100 m2, Hallenhöhe 7.50 m1
-In de…
-Teilen
-E-Mail
-Facebook
-Whatsapp
+Seite 1 von 2
+1
+2
+nächste Seite
 ImmoStreet.ch
 Mieten
 Immobilien mieten in der Stadt Sevelen

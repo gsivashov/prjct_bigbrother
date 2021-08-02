@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/bezirk-stein/
 Title: Wohnung & Haus mieten in Bezirk Stein - Immostreet.ch
-Description: Wohnung & Haus mieten in Bezirk Stein - Immostreet.ch: ImmoStreet.ch hat 13 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Bezirk Stein - Immostreet.ch: ImmoStreet.ch hat 19 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-13 Resultate gefunden ·
+19 Resultate gefunden ·
 Wohnung & Haus mieten in Bezirk Stein
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,64 +152,62 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-1'400
+Degerfeldstrasse 19
+1'780
 CHF
 /Monat
-Mietliegenschaft mit vielfältigen Nutzu…
-Adresse auf Anfrage, 8260 Stein am Rhein
+Grosszügige Wohnung in ruhiger Umgebung
+Degerfeldstrasse 19, 8260 Stein am Rhein
 Array
-3 Zimmer
-105 m2
+3.5 Zimmer
+94 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
+3.5
 Wohnfläche
-105 m2
-Etage
-Die Liegenschaft befindet sich an der Hauptflaniermeile mitten in der Altstadt Stein am Rheins. Die…
+94 m2
+Per 01.11.2021 vermieten wir diese helle und grosszügige 3.5-Zimmerwohnung. Diese Wohnung an ruhige…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Schützenstrasse 621
-1'090
+Judebömmlistrasse 600 Haus B
+1'411
 CHF
 /Monat
-Wohnen in moderner Überbauung mit lands…
-Schützenstrasse 621, 8262 Ramsen
+Dorfmitte - nahe der Schule
+Judebömmlistrasse 600 Haus B, 8262 Ramsen
 Array
 2.5 Zimmer
-56 m2
+107 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Duplex
 Zimmer
 2.5
 Wohnfläche
-56 m2
-Die Wohnung in Ramsen, nahe der Grenze zu Deuschland, überzeugt mit viel Helligkeit und schöner, la…
+107 m2
+Diese grosszügige Maisonette-Wohnung mit Balkon in ruhigem Wohnquartier in der Dorfmitte von Ramsen…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Wagenhauserstrasse 17
-1'390
+Kaltenbacherstrasse 22a
+2'210
 CHF
 /Monat
-Grosszügig Wohnen mit Eigentumswohnung-…
-Wagenhauserstrasse 17, 8260 Stein am Rhein
+grosszügige 3.5-Zimmer-Loft-Wohnung
+Kaltenbacherstrasse 22a, 8260 Stein am Rhein
 Array
-2.5 Zimmer
-79 m2
+3.5 Zimmer
+118 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Loft
 Zimmer
-2.5
+3.5
 Wohnfläche
-79 m2
-Etage
-Wenn Sie sich wohl fühlen in einem grosszügigen Wohn- Essbereich, ausgestattet mit Materialien von …
+118 m2
+In der alten Massstabfabrik vermieten wir eine einzigartige Loft-Wohnung mit Wohlfühlcharakter. Die…
 Teilen
 E-Mail
 Facebook
@@ -234,6 +232,152 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+Understadt 24
+1'250
+CHF
+/Monat
+heimelige Wohnung mitten im Städtli
+Understadt 24, 8260 Stein am Rhein
+Array
+2 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+70 m2
+Etage
+Wunderschöne heimelige Altstadtwohnung im Herzen vom Städli direkt in der beliebten Fussgängerzone …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Judebömmlistrasse 600 Haus B
+2'045
+CHF
+/Monat
+Dorfmitte - nahe der Schule
+Judebömmlistrasse 600 Haus B, 8262 Ramsen
+Array
+4.5 Zimmer
+127 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+127 m2
+Diese helle und grosse Wohnung mit Sitzplatz in ruhigem Wohnquartier in der Dorfmitte von Ramsen, s…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Choligass 2
+1'440
+CHF
+/Monat
+Sanierte 3.5-Zimmer-Wohnung im Zentrum …
+Choligass 2, 8260 Stein am Rhein
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Mitten in der Einkaufsmeile des schönen Städtchens Stein am Rhein, vermieten wir diese aussergewöhn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Choligass 2
+1'340
+CHF
+/Monat
+Sanierte 2.5-Zimmer-Wohnung im Zentrum …
+Choligass 2, 8260 Stein am Rhein
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Mitten in der Einkaufsmeile des schönen Städtchens Stein am Rhein, vermieten wir diese aussergewöhn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rathausplatz 19
+1'470
+CHF
+/Monat
+Modernes Leben in der Altstadt mit Lift…
+Rathausplatz 19, 8260 Stein am Rhein
+Array
+2.5 Zimmer
+72 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+72 m2
+Hoher Wohnkomfort in historischem Stadtkern!Wir vermieten diese moderne 2.5-Zimmerwohnung mitten im…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Undergass 12
+1'980
+CHF
+/Monat
+Wohnen mitten in der Altstadt
+Undergass 12, 8260 Stein am Rhein
+Array
+5.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Haben Sie sich schon immer gewünscht, in einer historischen Altstadt zu wohnen und innert wenigen S…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Alemannenweg 402
+1'140
+CHF
+/Monat
+ruhige Wohnung mit Blick ins Grüne
+Alemannenweg 402, 8262 Ramsen
+Array
+3 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wir suchen per 1. Juli 2021 oder nach Vereinbarung für diese schöne 3-Zimmerwohnung im 1. Obergesch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eschenzerstrasse 18
+1'390
+CHF
+/Monat
+Neu Sanierte 4-Wohnung mit grossen Kind…
+Eschenzerstrasse 18, 8260 Stein am Rhein
+Array
+4 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wir vermieten diese wunderschöne, neu Sanierte 4-Zimmer-Wohnung inmitten der wunderschöne Stein am …
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Huberlistrasse 23
 2'630
 CHF
@@ -250,26 +394,6 @@ Zimmer
 Wohnfläche
 145 m2
 Privilegiertes Leben in Stein am Rhein. An schöner und ruhiger Südhanglage vermieten wir eine Neub…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'380
-CHF
-/Monat
-CHARMANT MIT GROSSER TERRASSE
-Adresse auf Anfrage, 8262 Ramsen
-Array
-4 Zimmer
-100 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-100 m2
-Objektart:Etagen-WohnungPLZ / Ort:8262 RamsenNettomiete:CHF 1'200.-Nebenkosten:CHF 180.-Zimmer:4.5W…
 Teilen
 E-Mail
 Facebook
@@ -331,27 +455,6 @@ Zimmer
 Wohnfläche
 127 m2
 Diese helle und grosse Wohnung in ruhigem Wohnquartier in der Dorfmitte von Ramsen, steht per sofor…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wagenhauserstrasse 29
-1'380
-CHF
-/Monat
-Modern trifft Wertig: Schicke grosse 3 …
-Wagenhauserstrasse 29, 8260 Stein am Rhein
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Etage
-Ihr neues Zuhause liegt verkehrsgünstig, aber ruhig, im ersten Obergeschoss eines kleinen Mehrfamil…
 Teilen
 E-Mail
 Facebook

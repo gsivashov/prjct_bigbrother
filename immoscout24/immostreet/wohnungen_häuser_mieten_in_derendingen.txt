@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-derendingen/
 Title: Wohnungen & Häuser mieten in Derendingen - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Derendingen - Immostreet.ch: ImmoStreet.ch hat 56 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Derendingen - Immostreet.ch: ImmoStreet.ch hat 49 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-56 Resultate gefunden ·
+49 Resultate gefunden ·
 Wohnungen & Häuser mieten in Derendingen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,59 +122,254 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-mühlegasse
-1'660
+Adresse auf Anfrage
+2'390
 CHF
 /Monat
-Ab 1 juli
-mühlegasse, 4552 Derendingen
+Freistehendes älteres Einfamilienhaus i…
+Adresse auf Anfrage, 4552 Derendingen
+Array
+4.5 Zimmer
+120 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+4.5
+Wohnfläche
+120 m2
+Zu vermieten nach Vereinbarung.Netto Miete CHF 1'990.-- und alle Nebenkosten werden vom Mieter über…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+hauptstrasse 11
+850
+CHF
+/Monat
+Eizel zimmer
+hauptstrasse 11, 4552 Derendingen
+Array
+18 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+18 m2
+Ja Fur weitere infos 0762210610
+Teilen
+E-Mail
+Facebook
+Whatsapp
+hauptstrasse 11
+1'100
+CHF
+/Monat
+Doppel Zimmer
+hauptstrasse 11, 4552 Derendingen
+Array
+25 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+25 m2
+Top zimmer tv,wifi ,badzimmer ,fur weitere infos 0762210610
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 31A
+1'570
+CHF
+/Monat
+4,5 Zimmer-Attika-Wohnung, auch geeigne…
+Hauptstrasse 31A, 4552 Derendingen
+Array
+4.5 Zimmer
+180 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+180 m2
+Zu vermieten helle, grosszügige 4,5 Zi-Attika-Wohnung 180m2, 5. Stock (kein Lift), Sie bewohnen die…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Steinmattstrasse 35
+1'580
+CHF
+/Monat
+«Renovierte Wohnung an zentraler Lage»
+Steinmattstrasse 35, 4552 Derendingen
 Array
 5.5 Zimmer
-120 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Etage
+Sonnig gelegene Wohnung an zentraler Lage, nähe Autobahnanschluss.Wohnung komplett neu renoviert mi…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mühlegasse 15,
+1'550
+CHF
+/Monat
+Zu Vermieten 5.5 Zi-Wohnung Derendingen
+Mühlegasse 15,, 4552 Derendingen
+Array
+5.5 Zimmer
+100 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 5.5
 Wohnfläche
-120 m2
-Ab 1 Juli
+100 m2
+Zu vermieten per sofort eine 5.5 Zimmer Wohnung in Derendingen. Sie ist im 2 Stock eines Mehrfamili…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hauptstr. 84
-1'290
+sternengasse
+1'170
 CHF
 /Monat
-Hier beginnt Ihre Wohnqualität!
-Hauptstr. 84, 4552 Derendingen
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Sanierte, sehr helle Wohnung an super Lage! Ganz nah zum öffentlichen Verkehr, nur ca. 300m von Kin…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Meisenweg 5
-1'190
-CHF
-/Monat
-gemütliche Familienwohnung in grüner Um…
-Meisenweg 5, 4552 Derendingen
+Dringend Nachmieter gesucht Ab 1 Oktober
+sternengasse, 4552 Derendingen
 Array
 3 Zimmer
-67 m2
+60 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3
 Wohnfläche
+60 m2
+Hallöchen schön interessierst du dich für meine 3 Zimmer Wohnung in Derendingen (Solothurn)an der …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Löhrstrasse 53
+1'960
+CHF
+/Monat
+Summerspecial: eine Netto-Monatsmietzin…
+Löhrstrasse 53, 4552 Derendingen
+Array
+3.5 Zimmer
+82 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+82 m2
+spechtmatt.ch Im Grünen wohnen und doch zentral sein! Mit spechtmatt.ch finden Sie modernen, att…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Birkenweg 8
+1'700
+CHF
+/Monat
+Dachwohnung 4 1/2 Zimmer in Derendingen…
+Birkenweg 8, 4552 Derendingen
+Array
+4.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+140 m2
+Schöne Dachwohnung in Derendingen an ruhiger Lage in einem 3-Familienhaus. Die Wohnung ist auf der …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 31A
+1'145
+CHF
+/Monat
+Helle, moderne 3-Zimmer-Wohnung
+Hauptstrasse 31A, 4552 Derendingen
+Array
+3 Zimmer
+82 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+82 m2
+Zu vermieten per sofort um Zentrum von Derendingenmoderne, helle 3-Zimmer-Wohnung2. Stock, ganze Wo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rapsweg 9
+1'590
+CHF
+/Monat
+Zu Vermieten
+Rapsweg 9, 4552 Derendingen
+Array
+4.5 Zimmer
+88 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+88 m2
+Zu Vermieten ab sofort inkl. Pauschal NK. An sehr schöne Lage angrenzend an Landwirtschafts Zone in…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Löhrstrasse 49
+1'630
+CHF
+/Monat
+Summerspecial: Jetzt mieten und eine Ne…
+Löhrstrasse 49, 4552 Derendingen
+Array
+2.5 Zimmer
 67 m2
-Per 1. August oder nach Vereinbarung vermieten wir eine helle und grosszügige 4-Zimmerwohnung im 3.…
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+67 m2
+spechtmatt.ch Im Grünen wohnen und doch zentral sein! Mit spechtmatt.ch finden Sie modernen, att…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 31A
+890
+CHF
+/Monat
+2-Zimmerwohnung, 4. Stock
+Hauptstrasse 31A, 4552 Derendingen
+Array
+2 Zimmer
+52 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+52 m2
+Zentrale Lage - Nähe Einkaufsmöglichkeiten und öV - kein LiftNeu renovierte Wohnung Wohnung mit Pla…
 Teilen
 E-Mail
 Facebook
@@ -199,144 +394,104 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Schluchtbachstrasse 12
-1'700
+Holunderweg 22
+1'080
 CHF
 /Monat
-Moderne Wohnung für Sie und Ihren Partn…
-Schluchtbachstrasse 12, 4552 Derendingen
+2 Zimmer-Wohnung im 2.Obergeschoss
+Holunderweg 22, 4552 Derendingen
+Array
+2 Zimmer
+53 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+53 m2
+2 Zimmer-Wohnung im 2. ObergeschossWir vermieten diese an sehr ruhiger und doch zentraler Lage steh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Luzernstrasse 20
+985
+CHF
+/Monat
+Nicht nur perfekt für Singles!
+Luzernstrasse 20, 4552 Derendingen
+Array
+2 Zimmer
+47 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+47 m2
+Wir vermieten eine attraktive Wohnung in der Nähe der Stadt Solothurn mit folgenden Vorzügen:- Wohn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 48
+1'990
+CHF
+/Monat
+Wohnen im Alter leicht gemacht!
+Hauptstrasse 48, 4552 Derendingen
 Array
 3.5 Zimmer
-91 m2
+93 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-91 m2
-Per 01.11.2021 oder nach Vereinbarung vermieten wir diese grosszügige Wohnung im 1. Obergeschoss, w…
+93 m2
+Wer im Viva Grüttbach wohnt, kann sich als privilegiert betrachten. Denn alles ist da, was man im S…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bocciaweg 2
-1'995
+Sternengasse 3
+1'410
 CHF
 /Monat
-Eigentumsstandard zum Mieten / Waschtur…
-Bocciaweg 2, 4552 Derendingen
+Schöne, helle, günstige Wohnung!
+Sternengasse 3, 4552 Derendingen
 Array
-4.5 Zimmer
-110 m2
+4 Zimmer
+80 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+4
 Wohnfläche
-110 m2
-Willkommen in Derendingen
-Gegenüber dem "alten" Bahnhof an sonniger Wohnlage und unmittelbar angre…
+80 m2
+Schöne helle Wohnung mit Wintergarten
+- Plattenboden im Wohnzimmer/Korridor
+- Laminat in den Sc…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bocciaweg 2
-1'995
+Hauptstrasse 31A
+890
 CHF
 /Monat
-Wohnen nache Emmenkanal
-Bocciaweg 2, 4552 Derendingen
+2-Zimmer-Wohnung per 1.7.21
+Hauptstrasse 31A, 4552 Derendingen
 Array
-4.5 Zimmer
-110 m2
+2 Zimmer
+60 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+2
 Wohnfläche
-110 m2
-Willkommen in Derendingen
-Gegenüber dem "alten" Bahnhof an sonniger Wohnlage und unmittelbar angre…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstr. 84
-1'250
-CHF
-/Monat
-Helle 3.5Zimmerwohnung an sehr guter La…
-Hauptstr. 84, 4552 Derendingen
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Sehr helle Wohnung an super Lage! Ganz nah zum öffentlichen Verkehr, nur ca. 300m von Kindergarten …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernstrasse 49
-1'280
-CHF
-/Monat
-Erstbezug, zentral gelegene 2.5 Zimmerw…
-Luzernstrasse 49, 4552 Derendingen
-Array
-2.5 Zimmer
-50 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-50 m2
-In zentraler Wohnlage entstehen 11 Mietwohnungen
-mit 2.5 - 4.5 Zimmern, der Bezugstermin ist ab d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernstrasse 49
-2'030
-CHF
-/Monat
-Erstbezug, zentral gelegene 3.5 Zimmerw…
-Luzernstrasse 49, 4552 Derendingen
-Array
-3.5 Zimmer
-89 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-89 m2
-In zentraler Wohnlage entstehen 11 Mietwohnungen
-mit 2.5 - 4.5 Zimmern, der Bezugstermin ist ab d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernstrasse 49
-1'780
-CHF
-/Monat
-Erstbezug, zentral gelegende 3.5 Zimmer…
-Luzernstrasse 49, 4552 Derendingen
-Array
-3.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-79 m2
-In zentraler Wohnlage entstehen 11 Mietwohnungen
-mit 2.5 - 4.5 Zimmern, der Bezugstermin ist ab d…
+60 m2
+Zu vermieten im Zentrum von Derendingen2-Zimmer-Wohnungmit Balkon, Plattenboden, 4. Stock (kein Lif…
 Teilen
 E-Mail
 Facebook
@@ -358,166 +513,6 @@ Wohnfläche
 79 m2
 In zentraler Wohnlage entstehen 11 Mietwohnungen
 mit 2.5 - 4.5 Zimmern, der Bezugstermin ist ab d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernstrasse 49
-1'780
-CHF
-/Monat
-Erstbezug, zentral gelegene 3.5 Zimmerw…
-Luzernstrasse 49, 4552 Derendingen
-Array
-3.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-79 m2
-In zentraler Wohnlage entstehen 11 Mietwohnungen
-mit 2.5 - 4.5 Zimmern, der Bezugstermin ist ab d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernstrasse 49
-2'130
-CHF
-/Monat
-Erstbezug, zentral gelegene 4.5 Zimmerw…
-Luzernstrasse 49, 4552 Derendingen
-Array
-4.5 Zimmer
-124 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-124 m2
-In zentraler Wohnlage entstehen 11 Mietwohnungen
-mit 2.5 - 4.5 Zimmern, der Bezugstermin ist ab d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernstrasse 49
-1'780
-CHF
-/Monat
-Erstbezug, zentral gelegene 3.5 Zimmerw…
-Luzernstrasse 49, 4552 Derendingen
-Array
-3.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-79 m2
-In zentraler Wohnlage entstehen 11 Mietwohnungen
-mit 2.5 - 4.5 Zimmern, der Bezugstermin ist ab d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernstrasse 49
-1'280
-CHF
-/Monat
-Erstbezug, zentral gelegene 2.5 Zimmerw…
-Luzernstrasse 49, 4552 Derendingen
-Array
-2.5 Zimmer
-50 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-50 m2
-In zentraler Wohnlage entstehen 11 Mietwohnungen
-mit 2.5 - 4.5 Zimmern, der Bezugstermin ist ab d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernstrasse 49
-1'480
-CHF
-/Monat
-Erstbezug, zentral gelegene 2.5 Zimmerw…
-Luzernstrasse 49, 4552 Derendingen
-Array
-2.5 Zimmer
-69 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-69 m2
-In zentraler Wohnlage entstehen 11 Mietwohnungen
-mit 2.5 - 4.5 Zimmern, der Bezugstermin ist ab d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Luzernstrasse 49
-1'980
-CHF
-/Monat
-Erstbezug, zentral gelegene 3.5 Zimmerw…
-Luzernstrasse 49, 4552 Derendingen
-Array
-3.5 Zimmer
-84 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-84 m2
-In zentraler Wohnlage entstehen 11 Mietwohnungen
-mit 2.5 - 4.5 Zimmern, der Bezugstermin ist ab d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-hauptstrasse 11
-1'100
-CHF
-/Monat
-Doppel Zimmer
-hauptstrasse 11, 4552 Derendingen
-Array
-25 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-25 m2
-Top zimmer tv,wifi ,badzimmer ,fur weitere infos 0762210610
-Teilen
-E-Mail
-Facebook
-Whatsapp
-hauptstrasse 11
-850
-CHF
-/Monat
-Eizel zimmer
-hauptstrasse 11, 4552 Derendingen
-Array
-18 m2
-Objekttyp
-Wohnung, Einzelzimmer
-Wohnfläche
-18 m2
-Fur weitere infos 0762210610
 Teilen
 E-Mail
 Facebook

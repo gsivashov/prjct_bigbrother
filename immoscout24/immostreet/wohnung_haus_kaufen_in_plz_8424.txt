@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung-und-haus/in-8424/
 Title: Wohnung & Haus kaufen in PLZ 8424 - Immostreet.ch
-Description: Wohnung & Haus kaufen in PLZ 8424 - Immostreet.ch: ImmoStreet.ch hat 13 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus kaufen in PLZ 8424 - Immostreet.ch: ImmoStreet.ch hat 24 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -138,7 +138,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-13 Resultate gefunden ·
+24 Resultate gefunden ·
 Wohnung & Haus kaufen in PLZ 8424
 Preis (aufsteigend)
 Preis (absteigend)
@@ -151,59 +151,60 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Hintergass 17
-1'390'000
+Stationsstrasse 91
+1'250'000
 CHF
-Exklusive, luxuriöse 4 ½-Zi.-Dachwohnung
-Hintergass 17, 8424 Embrach
+Neubau, moderne 4.5 Zimmer Wohnung in E…
+Stationsstrasse 91, 8424 Embrach
 Array
 4.5 Zimmer
-204 m2
+115 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-204 m2
-Exklusive und luxuriöse 4 ½-Zi.-Dachwohnung mit gut besonntem Westbalkon und herrlicher Aussicht in…
+115 m2
+CO2 neutrales Haus mit Fernwärme an der Stationsstrasse 91 in EmbrachDurch die umweltfreundliche Fe…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Alte Rheinstrasse 87
-710'000
+Stationsstrasse 91
+1'550'000
 CHF
-Moderner Lebensraum an geschichtsträcht…
-Alte Rheinstrasse 87, 8424 Embrach
+Neubau, moderne 5.5 Zimmer Attika-Wohnu…
+Stationsstrasse 91, 8424 Embrach
 Array
-3.5 Zimmer
-88 m2
+5.5 Zimmer
+142 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
-3.5
+5.5
 Wohnfläche
-88 m2
-Neuwertige 3 ½-Zi.-Wohnung im 2. OG mit gut besonntem Balkon an geschichtsträchtigem Ort in der ehe…
+142 m2
+CO2 neutrales Haus mit Fernwärme an der Stationsstrasse 91 in EmbrachDurch die umweltfreundliche Fe…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Jakob Bosshart-Strasse 4
-940'000
+Adresse auf Anfrage
+1'340'000
 CHF
-"Wohnen im Oberdorf von Embri"
-Jakob Bosshart-Strasse 4, 8424 Embrach
+Eins obendrauf gesetzt
+Adresse auf Anfrage, 8424 Embrach
 Array
-4.5 Zimmer
-109 m2
+5.5 Zimmer
+145 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4.5
+5.5
 Wohnfläche
-109 m2
-"Wohnen im Oberdorf von Embri"In Embrach entstehen in Mitten dem belebten Dorfzentrum an gut besonn…
+145 m2
+Etage
+Zu Fuss oder etwas bequemer mit dem Lift geht es hinauf ins zweite Obergeschoss, wo Ihr neuer Highe…
 Teilen
 E-Mail
 Facebook
@@ -227,10 +228,245 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+Jakob Bosshart-Strasse 4
+975'000
+CHF
+"Wohnen im Oberdorf von Embri"
+Jakob Bosshart-Strasse 4, 8424 Embrach
+Array
+4.5 Zimmer
+109 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+109 m2
+"Wohnen im Oberdorf von Embri"In Embrach entstehen in Mitten dem belebten Dorfzentrum an gut besonn…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorfstrasse 17
+940'000
+CHF
+Eigentumswohnung in Kernzone
+Oberdorfstrasse 17, 8424 Embrach
+Array
+5.5 Zimmer
+131 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+131 m2
+Etage
+Eigentumswohnung in KernzoneIn diesem modernen Mehrfamilienhaus mit erhaltenem Bauernhaus-Charakter…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorfstrasse 17
+990'000
+CHF
+Eigentumswohnung in Kernzone
+Oberdorfstrasse 17, 8424 Embrach
+Array
+4.5 Zimmer
+160 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+160 m2
+Etage
+Eigentumswohnung in KernzoneIn diesem modernen Mehrfamilienhaus mit erhaltenem Bauernhaus-Charakter…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorfstrasse 17
+700'000
+CHF
+Eigentumswohnung in Kernzone
+Oberdorfstrasse 17, 8424 Embrach
+Array
+4.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+105 m2
+Etage
+Eigentumswohnung in KernzoneIn diesem modernen Mehrfamilienhaus mit erhaltenem Bauernhaus-Charakter…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oberdorfstrasse 17
+800'000
+CHF
+Eigentumswohnung in Kernzone
+Oberdorfstrasse 17, 8424 Embrach
+Array
+5.5 Zimmer
+119 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+119 m2
+Etage
+Eigentumswohnung in KernzoneIn diesem modernen Mehrfamilienhaus mit erhaltenem Bauernhaus-Charakter…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hintergass 14
+595'000
+CHF
+'Hintergass' Embrach: Verkaufsstart Hau…
+Hintergass 14, 8424 Embrach
+Array
+2.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+70 m2
+WOHNEN, WO DER WILDBACH PLÄTSCHERT
+Innerhalb der beschaulichen Kernzone Embrachs, an einer ruhig…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hintergass 14
+920'000
+CHF
+'Hintergass' Embrach: Verkaufsstart Hau…
+Hintergass 14, 8424 Embrach
+Array
+4.5 Zimmer
+107 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+107 m2
+WOHNEN, WO DER WILDBACH PLÄTSCHERT
+Innerhalb der beschaulichen Kernzone Embrachs, an einer ruhig…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hintergass 14
+1'140'000
+CHF
+'Hintergass' Embrach: Verkaufsstart Hau…
+Hintergass 14, 8424 Embrach
+Array
+3.5 Zimmer
+145 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+145 m2
+WOHNEN, WO DER WILDBACH PLÄTSCHERT
+Innerhalb der beschaulichen Kernzone Embrachs, an einer ruhig…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stationsstrasse 91
+755'000
+CHF
+Neubau, moderne 3.5 Zimmer Wohnung in E…
+Stationsstrasse 91, 8424 Embrach
+Array
+3.5 Zimmer
+68 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+68 m2
+CO2 neutrales Haus mit Fernwärme an der Stationsstrasse 91 in EmbrachDurch die umweltfreundliche Fe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stationsstrasse 91
+455'000
+CHF
+Neubau, moderne 1.5 Zimmer Wohnung in E…
+Stationsstrasse 91, 8424 Embrach
+Array
+1.5 Zimmer
+42 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+42 m2
+CO2 neutrales Haus mit Fernwärme an der Stationsstrasse 91 in EmbrachDurch die umweltfreundliche Fe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stationsstrasse 91
+875'000
+CHF
+Neubau, moderne 3.5 Zimmer Attika-Wohnu…
+Stationsstrasse 91, 8424 Embrach
+Array
+3.5 Zimmer
+71 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
+3.5
+Wohnfläche
+71 m2
+CO2 neutrales Haus mit Fernwärme an der Stationsstrasse 91 in Embrach Durch die umweltfreundliche F…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hintergass 17
+1'390'000
+CHF
+Exklusive, luxuriöse 4 ½-Zi.-Dachwohnung
+Hintergass 17, 8424 Embrach
+Array
+4.5 Zimmer
+204 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+204 m2
+Exklusive und luxuriöse 4 ½-Zi.-Dachwohnung mit gut besonntem Westbalkon und herrlicher Aussicht in…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Hintergass 15
 1'170'000
 CHF
-Verkaufsstart: 'Hintergass' Embrach
+'Hintergass' Embrach
 Hintergass 15, 8424 Embrach
 Array
 4.5 Zimmer
@@ -250,7 +486,7 @@ Whatsapp
 Hintergass 15
 960'000
 CHF
-Verkaufsstart: 'Hintergass' Embrach
+'Hintergass' Embrach
 Hintergass 15, 8424 Embrach
 Array
 3.5 Zimmer
@@ -270,7 +506,7 @@ Whatsapp
 Hintergass 15
 1'190'000
 CHF
-Verkaufsstart: 'Hintergass' Embrach
+'Hintergass' Embrach
 Hintergass 15, 8424 Embrach
 Array
 4.5 Zimmer
@@ -290,7 +526,7 @@ Whatsapp
 Hintergass 15
 930'000
 CHF
-Verkaufsstart: 'Hintergass' Embrach
+'Hintergass' Embrach
 Hintergass 15, 8424 Embrach
 Array
 3.5 Zimmer
@@ -307,103 +543,10 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Hintergass 15
-990'000
-CHF
-Verkaufsstart: 'Hintergass' Embrach
-Hintergass 15, 8424 Embrach
-Array
-3.5 Zimmer
-121 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-121 m2
-WOHNEN, WO DER WILDBACH PLÄTSCHERT
-Innerhalb der beschaulichen Kernzone Embrachs, an einer ruhig…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Blauenweg 8
-720'000
-CHF
-Das könnte Ihr neues Zuhause sein.
-Blauenweg 8, 8424 Embrach
-Array
-4.5 Zimmer
-106 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-106 m2
-Etage
-Das könnte Ihr neues Zuhause sein. Seit dem Baujahr 1986 wurde die Wohnung gepflegt und ist in eine…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stationsstrasse 67
-940'000
-CHF
-4.5-Zimmer Eigentumswohnung "ÜB Roggenf…
-Stationsstrasse 67, 8424 Embrach
-Array
-4.5 Zimmer
-113 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-113 m2
-Im nördlichen Teil der Gemeinde Embrach entsteht eine Wohnüberbauung mit 19 Eigentumswohnungen inkl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Roggenfeldstrasse 3
-1'475'000
-CHF
-4.5-Zimmer Attikawohnung A.302 "ÜB Rogg…
-Roggenfeldstrasse 3, 8424 Embrach
-Array
-4.5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-4.5
-Wohnfläche
-130 m2
-Im nördlichen Teil der Gemeinde Embrach entsteht eine Wohnüberbauung mit 19 Eigentumswohnungen inkl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Roggenfeldstrasse 3
-995'000
-CHF
-4.5-Zimmer Eigentumswohnung A.101 / A.2…
-Roggenfeldstrasse 3, 8424 Embrach
-Array
-4.5 Zimmer
-116 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-116 m2
-Im nördlichen Teil der Gemeinde Embrach entsteht eine Wohnüberbauung mit 19 Eigentumswohnungen inkl…
-Teilen
-E-Mail
-Facebook
-Whatsapp
+Seite 1 von 2
+1
+2
+nächste Seite
 ImmoStreet.ch
 Kaufen
 Wohnung & Haus zu kaufen

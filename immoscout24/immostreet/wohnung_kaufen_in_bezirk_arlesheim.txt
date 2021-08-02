@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-arlesheim/
 Title: Wohnung kaufen in Bezirk Arlesheim - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Arlesheim - Immostreet.ch: ImmoStreet.ch hat 109 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Arlesheim - Immostreet.ch: ImmoStreet.ch hat 99 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-109 Resultate gefunden ·
+99 Resultate gefunden ·
 Wohnung kaufen in Bezirk Arlesheim
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,154 +134,41 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Neueneichweg 22
-535'000
+Adresse auf Anfrage
+1'690'000
 CHF
-Unbeschwertes Leben auf dem Lande
-Neueneichweg 22, 4153 Reinach BL
-Array
-3 Zimmer
-64 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-64 m2
-Etage
-Dieses Angebot richtet sich an all jene, welche das ruhige, ländliche Leben lieben, mit der Natur v…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hauptstrasse 41
-965'000
-CHF
-Aussergewöhnliches Wohngefühl - Tag für…
-Hauptstrasse 41, 4148 Pfeffingen
+ATTRAKTIVE GARTENMAISONETTE
+Adresse auf Anfrage, 4103 Bottmingen
 Array
 5.5 Zimmer
-144 m2
+146 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 5.5
 Wohnfläche
-144 m2
-Diese 5.5-Zimmer-Triplex-Wohnung befindet sich im Zentrum von Pfeffingen, nahe zu allen wichtigen I…
+146 m2
+Folgende Besichtigungen finden statt: - Donnerstag, 5. August 2021 von 08:00 bis 10:00 Uhr - Monta…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Käppelirainweg 8
-845'000
+Schützenweg 12
+1'090'000
 CHF
-Lichtdurchflutete 3.5-Zimmer-Dachwohnun…
-Käppelirainweg 8, 4147 Aesch BL
+Lichtdurchflutete 3.5 Zimmer-Dachwohnun…
+Schützenweg 12, 4123 Allschwil
 Array
 3.5 Zimmer
-89 m2
+95 m2
 Objekttyp
 Wohnung, Dachwohnung
 Zimmer
 3.5
 Wohnfläche
-89 m2
-Diese fantastische Dachwohnung befindet sich in der 3. Etage eines sehr gepflegten Mehrfamilienhaus…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Binningerstrasse 14
-1'350'000
-CHF
-Attikawohnung mit traumhafter Weitsicht
-Binningerstrasse 14, 4103 Bottmingen
-Array
-3.5 Zimmer
 95 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-3.5
-Wohnfläche
-95 m2
-Die grosszügige 3½ Zi.-Attikawohnung begeistert durch Ihre offene und lichtdurchflutete Raumaufteil…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-679'000
-CHF
-HELLE WOHNUNG MITTEN IN ALLSCHWIL, ZENT…
-Adresse auf Anfrage, 4123 Allschwil
-Array
-3.5 Zimmer
-79 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-79 m2
-Diese, an ruhiger, ganztags- besonnter Wohnlage in Allschwil gelegene Wohnung, verfügt über 3.5 - Z…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Kilchmattstrasse
-580'000
-CHF
-3,5-Zimmer-Wohnung
-Kilchmattstrasse, 4132 Muttenz
-Array
-4 Zimmer
-94 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4
-Wohnfläche
-94 m2
-3,5-Zimmer-Wohnung*mit einer Wohnfläche von ca. 94 m2, Miteigentumsanteil, Autoeinstellplatz Nr. 10…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 8
-Preis auf Anfrage
-Exklusive, top Wohnung in Aesch
-Bahnhofstrasse 8, 4147 Aesch BL
-Array
-4.5 Zimmer
-138 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-138 m2
-Sehr geehte Interessentin, Sehr geehrte Interessent,In einem kleinen Mehrfamilienhaus, mit vier Woh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Allschwil
-695'000
-CHF
-Neuwertige Wohnung an ruhiger und zentr…
-Allschwil, 4123 Allschwil
-Array
-3.5 Zimmer
-89 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-89 m2
-Diese modern konzipierte und neuwertige 3.5-Zimmerwohnung bietet einen gehobenen Ausbau und einen f…
+Etage
+W8 - 3.5 Zimmer Dachwohnung mit Balkon & AbendsonneStadtnah, am Schützenweg 12 in der beliebten…
 Teilen
 E-Mail
 Facebook
@@ -306,6 +193,63 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+Sonnenbergstrasse 4a
+750'000
+CHF
+Zentralgelegene 4.5-Zimmer-Maisonettewo…
+Sonnenbergstrasse 4a, 4127 Birsfelden
+Array
+4.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+105 m2
+Diese grosszügig konzipierte 4.5-Zimmer-Maisonettewohnung befindet sich an zentraler Lage, unweit e…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 86
+695'000
+CHF
+Helle 3,5-Zimmer-Gartenwohnung
+Hauptstrasse 86, 4147 Aesch BL
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+GartenwohnungDiese charmante 3.5-Zimmerwohnung mit einem südlich ausgerichteten Sitzplatz und eigen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 46
+420'000
+CHF
+3.5-Zimmer Maisonette-Wohnung
+Hauptstrasse 46, 4105 Biel-Benken BL
+Array
+3.5 Zimmer
+99 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+3.5
+Wohnfläche
+99 m2
+Sie sind schon in Biel-Benken zu Hause und suchen eine etwas kleinere Bleibe. Oder Sie wollen auf's…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Im Winkel 17
 790'000
 CHF
@@ -326,202 +270,260 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Steinbühlweg 76
-740'000
+Brunngasse 25
+999'000
 CHF
-Modern und zentral wohnen (Baurecht)
-Steinbühlweg 76, 4123 Allschwil
-Array
-4.5 Zimmer
-101 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-101 m2
-Diese attraktive Eigentumswohnung befindet sich in einem modernen Mehrfamilienhaus (im Baurecht) un…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Fichtenrain 94
-Preis auf Anfrage
-Schöne, grosszügige 145qm - Geschosswoh…
-Fichtenrain 94, 4106 Therwil
-Array
-4.5 Zimmer
-145 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-145 m2
-Ein Leben zwischen der Hektik des Alltags und der Ruhe der Natur.
-Wohnen Sie gerne ruhig und doch …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Talstrasse 69
-1'385'000
-CHF
-Letzte gehobene 4 1/2 Zimmer-WHG mit 30…
-Talstrasse 69, 4104 Oberwil BL
-Array
-4.5 Zimmer
-123 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-123 m2
-Erstellt wurde ein grosszügiges  Dreifamilienhaus mit überdurchschnittlichem Ausbaustandard, in wel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Terrassenstrasse 29
-Preis auf Anfrage
-Arttikawohnung mit 5.5 Zimmern und 169q…
-Terrassenstrasse 29, 4144 Arlesheim
+GROSSE EIGENTUMSWOHNUNG 136 m2 , ZENTRA…
+Brunngasse 25, 4153 Reinach BL
 Array
 5.5 Zimmer
-183 m2
+136 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 5.5
 Wohnfläche
-183 m2
-Wohnen an exklusiver Lage
-In einem der schönsten Gebiete an exklusiver Lage in Arlesheim entsteh…
+136 m2
+LAGE
+Unser Objekt liegt verkehrstechnisch optimal. In etwas mehr als 1 km erreicht man die Autob…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Terrassenstrasse 29
-Preis auf Anfrage
-Gartenwohnung mit Aussicht, 4.5 Zimmern…
-Terrassenstrasse 29, 4144 Arlesheim
+Bahnhofstrasse 8
+1'200'000
+CHF
+Exklusive, top Wohnung in Aesch
+Bahnhofstrasse 8, 4147 Aesch BL
 Array
 4.5 Zimmer
-181 m2
+138 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-181 m2
-In einem der schönsten Gebiete an exklusiver Lage in Arlesheim entstehen zwei hochwertige Mehrfamil…
+138 m2
+Sehr geehte Interessentin, Sehr geehrte Interessent,In einem kleinen Mehrfamilienhaus, mit vier Woh…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Fichtenrain 94
+Kilchmattstrasse
+580'000
+CHF
+3,5-Zimmer-Wohnung
+Kilchmattstrasse, 4132 Muttenz
+Array
+4 Zimmer
+94 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+94 m2
+3,5-Zimmer-Wohnung mit einer Wohnfläche von ca. 94 m2, Miteigentumsanteil, Autoeinstellplatz Nr. 10…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Dürrmattweg 17
 Preis auf Anfrage
-Grosszügige 202qm - Gartenwohnung mit n…
-Fichtenrain 94, 4106 Therwil
-Array
-5.5 Zimmer
-202 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-202 m2
-Ein Leben zwischen der Hektik des Alltags und der Ruhe der Natur.
-Wohnen Sie gerne ruhig und doch …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Herrenmattstrasse 11
-760'000
-CHF
-Eine versteckte Oase inmitten von Mutte…
-Herrenmattstrasse 11, 4132 Muttenz
-Array
-3.5 Zimmer
-92 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-92 m2
-Was Sie erwartetRuhig und zentral gelegene, moderne 3.5 Zimmer Garteneigentumswohnung mit zusätzlic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Baselstrasse 68
-1'250'000
-CHF
-Neuwertige 4.5-Zimmer Gartenwohnung mit…
-Baselstrasse 68, 4153 Reinach BL
+Moderne Dachwohnung in Arlesheim
+Dürrmattweg 17, 4144 Arlesheim
 Array
 4.5 Zimmer
-121 m2
+190 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-121 m2
-Etage
-IMMOROSSIverkauft per 1.7.2021 oder nach Vereinbarung an sehr guter und gesuchter Lage an der Basel…
+190 m2
+Die individuell konzipierte Dachwohnung befindet sich in einem beliebten und ruhigen Wohnquartier v…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Fuchshaggraben 22
-1'780'000
+Birkenstrasse 1a
+1'120'000
 CHF
-Gartenwohnung im Neubauprojekt Fuchshag…
-Fuchshaggraben 22, 4102 Binningen
+Sonnenverwöhnte 5½ Zi.-Dachwohnung mit …
+Birkenstrasse 1a, 4106 Therwil
 Array
 5.5 Zimmer
-187 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-Wohnfläche
-187 m2
-An ruhiger Lage in Binningen entsteht dieses moderne Wohnensemble. Die Innen- und Aussenflächen sin…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obrechtstrasse 15
-980'000
-CHF
-3.5 Zimmer Maisonette Wohnung
-Obrechtstrasse 15, 4132 Muttenz
-Array
-3.5 Zimmer
-133 m2
+157 m2
 Objekttyp
 Wohnung, Dachwohnung
 Zimmer
-3.5
+5.5
 Wohnfläche
-133 m2
-Was Sie erwartetDiese 3.5 Zimmer Maisonette-Wohnung mit einer Nettowohnfläche von 133 m2 zuzüglich …
+157 m2
+In Therwil an beliebter Wohnlage befindet sich diese lichtdurchflutete und gepflegte 5½ Zi.-Dachwoh…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 6
+Bärenbrunnenweg 1-33
+2'450'000
+CHF
+Exklusive Attikawohnungen mit traumhaft…
+Bärenbrunnenweg 1-33, 4144 Arlesheim
+Array
+5.5 Zimmer
+202 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+202 m2
+An zauberhafter und aussichtsreicher Hanglage entsteht im bevorzugten Arlesheim eine attraktive Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 42
+1'290'000
+CHF
+Attraktive 4.5 Zimmer-Maisonette-Wohnun…
+Hauptstrasse 42, 4132 Muttenz
+Array
+4.5 Zimmer
+126 m2
+Objekttyp
+Wohnung, Duplex
+Zimmer
+4.5
+Wohnfläche
+126 m2
+Etage
+Am Puls des Lebens - Grosszügige, einmalige 4.5 Zimmer-Maisonette-Wohnung, W2Im Dorfkern von Mutten…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+In den Holeematten 4
+690'000
+CHF
+Wohnung mit Blick in den begrünten Inne…
+In den Holeematten 4, 4102 Binningen
+Array
+4 Zimmer
+95 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4
+Wohnfläche
+95 m2
+In der Nähe vom Neubad-Quartier befindet sich diese traumhafte 4 Zi.-Eigentumswohnung (Hochparterre…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schulstrasse 24
+590'000
+CHF
+Top-Angebot in Birsfelden
+Schulstrasse 24, 4127 Birsfelden
+Array
+3.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+70 m2
+Die gepflegte 3½ Zi.-Eigentumswohnung befindet sich an ruhiger sowie beliebter Wohnlage in Birsfeld…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Talackerstrasse 3
+460'000
+CHF
+Stadtnahe 3-Zimmer-Wohnung
+Talackerstrasse 3, 4153 Reinach BL
+Array
+3 Zimmer
+66 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+66 m2
+Suchen Sie die Alternative zur Mietwohnung? Oder wollen Sie ihr Geld gewinnbringend anlegen? Und di…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+In der Haselmatte 6
+850'000
+CHF
+Eigentumswohnung in familienfreundliche…
+In der Haselmatte 6, 4153 Reinach BL
+Array
+4.5 Zimmer
+94 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+94 m2
+Die Überbauung ?In der Haselmatte? ist ruhig und im grünen gelegen. Die Umgebung bietet eine famili…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+590'000
+CHF
+Top 2.5 Zi.-Dachwohnung mit riesigem Ba…
+Adresse auf Anfrage, 4153 Reinach BL
+Array
+2.5 Zimmer
+55 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+2.5
+Wohnfläche
+55 m2
+Nahe dem Dorfzentrum von Reinach:
+Ein absoluter "Singletraum" ist diese ansprechende 2.5 Zi. - D…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eptingerstr. 52
+710'000
+CHF
+Sonnige, moderne 3.5- Zimmerwohnung
+Eptingerstr. 52, 4132 Muttenz
+Array
+3.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+90 m2
+Die Wohnung befindet sich im 1. Obergeschoss und besticht über einen durchdachten und gut möbelierb…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 5
 1
 2
 3
 4
-5
 nächste Seite
 ImmoStreet.ch
 Kaufen

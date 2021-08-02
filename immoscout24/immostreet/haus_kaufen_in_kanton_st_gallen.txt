@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/kanton-stgallen/
 Title: Haus kaufen in Kanton St. Gallen - Immostreet.ch
-Description: Haus kaufen in Kanton St. Gallen - Immostreet.ch: ImmoStreet.ch hat 187 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Kanton St. Gallen - Immostreet.ch: ImmoStreet.ch hat 205 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-187 Resultate gefunden ·
+205 Resultate gefunden ·
 Haus kaufen in Kanton St. Gallen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,104 +138,50 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Stock 213
-575'000
+Gamsabeta
+905'000
 CHF
-Ferienhaus mit zwei Wohnungen im Grünen
-Stock 213, 8873 Amden
+Überbauung Gamsabeta in Azmoos - Vier n…
+Gamsabeta, 9478 Azmoos
 Array
-6 Zimmer
-115 m2
+5.5 Zimmer
+165 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Doppeleinfamilienhaus
 Zimmer
-6
+5.5
 Wohnfläche
-115 m2
+165 m2
 Etage
-Suchen Sie ein Ferienhaus ohne direkte Nachbarn welches aber trotzdem gut zugänglich ist? Dann wird…
+In Azmoos entstehen diese zwei modernen Doppeleinfamilienhäuser an ruhiger und bevorzugter Lage. Di…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Gartenparadies mit klassisch-elegantem …
-Adresse auf Anfrage, 9478 Azmoos
-Array
-11 Zimmer
-340 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-11
-Wohnfläche
-340 m2
-An schöner Aussichtslage mit Blick über das Rheintal und in die umliegende Bergwelt liegt dieses st…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rüdenstrasse 22a
-Preis auf Anfrage
-Sonnig und ruhig wohnen mit einzigartig…
-Rüdenstrasse 22a, 9442 Berneck
-Array
-7.5 Zimmer
-183 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7.5
-Wohnfläche
-183 m2
-Dieses einzigartige, behagliche Einfamilienhaus befindet sich etwas oberhalb Berneck im Gebiet Rüde…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'880'000
+Solenberg 25
+685'000
 CHF
-EFH mit XXL-Grundstück und bewilligtem …
-Adresse auf Anfrage, 9425 Thal
-Array
-7.5 Zimmer
-322 m2
-Objekttyp
-Wohnung, Villa
-Zimmer
-7.5
-Wohnfläche
-322 m2
-An privilegierter Lage inmitten eines sehr ruhigen Villenquartiers geniessen Sie eine wunderbare Si…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gusstrasse 14
-390'000
-CHF
-Ferienchalet mit Sicht auf den Walensee
-Gusstrasse 14, 8884 Oberterzen
+4.5 Zimmer Einfamilienhaus an wundersch…
+Solenberg 25, 8723 Maseltrangen
 Array
 4.5 Zimmer
-56 m2
+110 m2
 Objekttyp
-Wohnung, Chalet
+Wohnung, Einzelhaus
 Zimmer
 4.5
 Wohnfläche
-56 m2
-LAGE- atemberaubende Aussicht auf den Walensee sowie auf die umliegende Bergwelt- beste Besonnung- …
+110 m2
+Etage
+Das Einfamilienhaus am Solenberg 25Das tolle 4 1/2 Zimmer-Einfamilienhaus befindet sich auf ungefäh…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Rhodstrasse 14
+Adresse auf Anfrage
 Preis auf Anfrage
-Attraktives Dreigenerationenhaus zu kau…
-Rhodstrasse 14, 9464 Lienz
+Gemeinsam statt einsam im Generationenh…
+Adresse auf Anfrage, 9464 Rüthi (Rheintal)
 Array
 8 Zimmer
 193 m2
@@ -246,66 +192,186 @@ Zimmer
 Wohnfläche
 193 m2
 Etage
-Attraktives Dreigenerationenhaus zu kaufenMit viel Platz für mehrere Generationen oder auch als Ren…
+Sanft eingebettet am Fusse des Alpsteingebietes und dem Rheintal bietet sich diese attraktive Famil…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hofstrasse
-2'480'000
+Adresse auf Anfrage
+Preis auf Anfrage
+Schöne Villa "Giardino" mit traumhafter…
+Adresse auf Anfrage, 9404 Rorschacherberg
+Array
+280 m2
+Objekttyp
+Wohnung, Einzelhaus
+Wohnfläche
+280 m2
+MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Schöne Villa "Giardino" …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'200'000
 CHF
-Grosszügiges Wohnen/ 2 Häuser an fantas…
-Hofstrasse, 9015 St. Gallen
+Lichtdurchflutetes Designer-Einfamilie…
+Adresse auf Anfrage, 9204 Andwil SG
+Array
+296 m2
+Objekttyp
+Wohnung, Einzelhaus
+Wohnfläche
+296 m2
+MÜLLER FAMILY OFFICE AGImmobilien - Vermögensverwaltung - Kunstpräsentiert:Lichtdurchflutetes Desig…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Landstrasse 40
+1'770'000
+CHF
+Historisches Toggenburgerhaus mit Praxi…
+Landstrasse 40, 9606 Bütschwil
+Array
+435 m2
+Objekttyp
+Wohnung, Einzelhaus
+Wohnfläche
+435 m2
+Zentrale und sonnige LageDas Grundstück befindet sich im Dorfzentrum von Bütschwil mit ganztägig gu…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'400'000
+CHF
+PURO - Privilegiertes Wohnen am Wasser …
+Adresse auf Anfrage, 8733 Eschenbach SG
+Array
+5.5 Zimmer
+147 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+147 m2
+PURO - Privilegiertes Wohnen am Wasser Nahe am Wasser gebautPURO, das ist reines Wohnvergnügen. Lei…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'340'000
+CHF
+PURO - Privilegiertes Wohnen am Wasser …
+Adresse auf Anfrage, 8733 Eschenbach SG
+Array
+5.5 Zimmer
+154 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+154 m2
+Nahe am Wasser gebautPURO, das ist reines Wohnvergnügen. Leicht erhöht, als stünden sie auf einer k…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Nittenhaus 855
+650'000
+CHF
+Nittenhaus - Ruppen - Gemeinde Gais
+Nittenhaus 855, 9450 Altstätten SG
+Array
+5.5 Zimmer
+131 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+131 m2
+Ein schmuckes Höckli mit WeitsichtDieses Haus liegt in Ruppen bei Altstätten und bietet eine einmal…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Auf Anfrage
+640'000
+CHF
+Grosses Wohnhaus im Dorfzentrum
+Auf Anfrage, 9642 Ebnat-Kappel
 Array
 12 Zimmer
-262 m2
+232 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
 12
 Wohnfläche
-262 m2
-Etage
-Nahe zur Stadt St. Gallen wohnen, den ländlichen Vorteil und die Nähe zum Erholungsgebiet Gübsensee…
+232 m2
+An zentraler und attraktiver Wohnlage bietet Ihnen dieses Wohnhaus viel Platz und Potential. Es umf…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Lienertstrasse
-1'510'000
+Auf Anfrage
+1'750'000
 CHF
-*Doppel-Einfamilienhaus mit Garten*
-Lienertstrasse, 9010 St. Gallen
+Moderne Wohnoase mit viel Platz und Pri…
+Auf Anfrage, 9247 Henau
 Array
-6 Zimmer
-167 m2
+6.5 Zimmer
+309 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-6
+6.5
 Wohnfläche
-167 m2
-Es handelt sich um ein Einfamilienhaus mit Garten in bevorzugter Wohnlage! Die Gesamtfläche beträgt…
+309 m2
+Dieses grosszügige und lichtdurchflutete 6.5-Zi. Wohnjuwel wird Sie in allen Belangen überzeugen! E…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Reggenschwilerstrasse 20
-2'650'000
-CHF
-Freistehendes Einfamilienhaus
-Reggenschwilerstrasse 20, 9402 Mörschwil
+Sternenstr. 14 - 16
+Preis auf Anfrage
+Atemberaubende Aussichtslage + Premium-…
+Sternenstr. 14 - 16, 9453 Eichberg
+Array
+10.5 Zimmer
+360 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+10.5
+Wohnfläche
+360 m2
+Etage
+Wohngebäude mit 2 Haupteingängen, teilbar oder gemeinsam nutzbarZweiter Hausteil mit getrenntem Hau…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kirchstrasse 12
+Preis auf Anfrage
+Architektur-Ikone an privilegierter Woh…
+Kirchstrasse 12, 9248 Bichwil
 Array
 7.5 Zimmer
-240 m2
+270 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
 7.5
 Wohnfläche
-240 m2
-Etage
-Das gepflegte, grosszügige Einfamilienhaus befindet sich an bevorzugter, unverbaubarer Wohnlage, an…
+270 m2
+Dieses im Jahr 2008 erstbezogene Einfamilienhaus an privilegierter Lage mit fantastischer Aussicht …
 Teilen
 E-Mail
 Facebook
@@ -313,217 +379,139 @@ Whatsapp
 Adresse auf Anfrage
 890'000
 CHF
-Idyllisches Einfamilienhaus mit grossem…
-Adresse auf Anfrage, 9473 Gams
-Array
-4.5 Zimmer
-102 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-102 m2
-Etage
-Die im Jahr 1978 erbaute Liegenschaft liegt am Rande der politischen Gemeinde Gams, im Gebiet Gasen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-799'000
-CHF
-BAUMÖGLICHKEITEN MITTEN IN WIL SG!
-Adresse auf Anfrage, 9500 Wil SG
-Array
-5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5
-Wohnfläche
-120 m2
-Falls Sie Bauland suchen und Ihre eigenen Ideen haben, sind Sie bei diesem Bauland genau richtig. D…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'290'000
-CHF
-Topmodernes, grosses und neuwertiges Ei…
-Adresse auf Anfrage, 9127 St. Peterzell
+Wohntraum für die ganze Familie
+Adresse auf Anfrage, 9212 Arnegg
 Array
 6.5 Zimmer
-237 m2
+150 m2
 Objekttyp
-Wohnung, Einzelhaus
+Wohnung, Doppeleinfamilienhaus
 Zimmer
 6.5
 Wohnfläche
-237 m2
-Etage
-Eintreten und Wohlfühlen heisst hier das Motto! Suchen Sie ein neuwertiges, ansprechendes und gross…
+150 m2
+Die ansprechende Doppelhaushälfte profitiert von der idealen Lage in einem familienfreundlichen Qua…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Gossauerstrasse 16
-1'100'000
+Haldenstrasse 24
+2'450'000
 CHF
-Zweifamilienhaus mit Platz, Potenzial u…
-Gossauerstrasse 16, 9246 Niederbüren
+Einzigartiges Liebhaberobjekt an einmal…
+Haldenstrasse 24, 8717 Benken SG
 Array
-9 Zimmer
-253 m2
+7.5 Zimmer
+208 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-9
+7.5
 Wohnfläche
-253 m2
+208 m2
 Etage
-In Niederbüren wartet dieses Zweifamilienhaus mit Platz, Potenzial und vielen Optionen auf Sie. Die…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Konstanzerstrasse
-Preis auf Anfrage
-RUHIG UND ZENTRAL
-Konstanzerstrasse, 9512 Rossrüti
-Array
-4.5 Zimmer
-125 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-4.5
-Wohnfläche
-125 m2
-Suchen Sie ein harmonisches Zuhause für sich und Ihre Liebsten? Sie erfreuen sich an Ruhe und genie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'390'000
-CHF
-Am Maienberg
-Adresse auf Anfrage, 8890 Flums
-Array
-4.5 Zimmer
-119 m2
-Objekttyp
-Wohnung, Chalet
-Zimmer
-4.5
-Wohnfläche
-119 m2
-Etage
-Am Fusse des imposanten Pizolmassivs, umgeben von Bergen, Wäldern und Weiden, bietet der Alpweiler …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'390'000
-CHF
-Am Maienberg
-Adresse auf Anfrage, 7323 Wangs
-Array
-4.5 Zimmer
-119 m2
-Objekttyp
-Wohnung, Chalet
-Zimmer
-4.5
-Wohnfläche
-119 m2
-Etage
-Am Fusse des imposanten Pizolmassivs, umgeben von Bergen, Wäldern und Weiden, bietet der Alpweiler …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Neudorfstrasse 18
-1'480'000
-CHF
-Neuwertiges 6.5 Zi.-Einfamilienhaus mit…
-Neudorfstrasse 18, 9442 Berneck
-Array
-6.5 Zimmer
-155 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-155 m2
-Etage
-6.5 Zi.-Einfamilienhaus mit FlairDas neuwertige 6.5 Zi.-Einfamilienhaus befindet sich an bevorzugte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Berglistrasse 392
-320'000
-CHF
-Charmantes Weekend- / Ferienhaus mit un…
-Berglistrasse 392, 9601 Lütisburg Station
-Array
-3.5 Zimmer
-74 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-3.5
-Wohnfläche
-74 m2
-Etage
-Im Auftrag der Eigentümerinnen verkaufen wir das 3 1/2-Zimmer-Ferienhaus an der Berglistrasse 392/G…
+Einzigartiges Liebhaberobjekt an einmaliger LageIn Benken verkaufen wir dieses einzigartige, im Jah…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
 Preis auf Anfrage
-Privilegiertes Wohnen am östlichen Rose…
-Adresse auf Anfrage, 9010 St. Gallen
+Einzigartige Gelegenheit Liebhaberob…
+Adresse auf Anfrage, 9533 Kirchberg SG
 Array
-8.5 Zimmer
-295 m2
+4.5 Zimmer
+135 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
-8.5
+4.5
 Wohnfläche
-295 m2
-Die LageIn bevorzugtem Quartier, sehr ruhig, sonnige Wohnlage dank Sackgasse, erhöht, mit herrliche…
+135 m2
+Etage
+Privatsphäre pur in harmonischer UmgebungDas Wohnhaus bietet einen durchdachten Grundriss und eigne…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Mennweg 5
-Preis auf Anfrage
-wunderschönes wohnen mit Weitsicht
-Mennweg 5, 9434 Au SG
+Adresse auf Anfrage
+1'590'000
+CHF
+Traum vom Haus und Hof im Skiparadies m…
+Adresse auf Anfrage, 8896 Flumserberg Bergheim
+Array
+5.5 Zimmer
+150 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+150 m2
+Achtung! Wohnzimmer ist ein Symbolbild In der Ortschft Bergheim am Grossberg, mit atemberaubender …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'190'000
+CHF
+Ihr Traumhaus in Flumserberg mit 7'949 …
+Adresse auf Anfrage, 8896 Flumserberg Bergheim
 Array
 6.5 Zimmer
-222 m2
+224 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
 6.5
 Wohnfläche
-222 m2
-Wir verkaufen über den Dächern von Au ein einzigartiges Einfamilienhaus mit einer atemberaubendem W…
+224 m2
+Achtung! Wohnzimmer ist ein Symbolbild In der Ortschft Bergheim am Grossberg, mit atemberaubender …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 10
+Zelgstrasse 2
+1'190'000
+CHF
+6,5 Zimmer-Einfamilienhaus mit grosszüg…
+Zelgstrasse 2, 8725 Gebertingen
+Array
+6.5 Zimmer
+189 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+189 m2
+Etage
+Freistehendes 6,5-Zimmer-EinfamilienhausFamilienfreundlich und idyllisch gelegen!Dieses freistehend…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'800'000
+CHF
+Wohnen und arbeiten mit traumhafter Pan…
+Adresse auf Anfrage, 9453 Eichberg
+Array
+10.5 Zimmer
+360 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+10.5
+Wohnfläche
+360 m2
+Zuhause ist dort, wo man sich wohlfühlt...Diese einmalige Liegenschaft, auf einem Grundstück von 73…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seite 1 von 11
 1
 2
 3

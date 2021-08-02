@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marktplatz/lotus/esprit/occasion
 Title: Lotus Esprit Occasion – Preise vergleichen mit Comparis
 Description: Finden Sie unter 5 Lotus Esprit Occasion Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -568,31 +566,31 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Lotus
-(107)
+(89)
 Lotus Esprit Occasion
 (5)
 Aufbau
 Lotus Esprit Coupé
-(5)
+(6)
 Motor
 Lotus Esprit Benzin
-(6)
+(5)
 Typ
 Lotus Esprit
 (6)
 Modelle
 Lotus Elise
-(35)
+(33)
 Lotus Exige
-(27)
+(19)
 Lotus Evora
-(13)
+(10)
 Lotus Super Seven
-(11)
+(9)
 Lotus Elan
-(7)
+(6)
 Lotus Europa
-(5)
+(4)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
@@ -603,24 +601,25 @@ drive-in.ch wird durchsucht ...
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
-1 Inserat
-0 Inserate
-4 Inserate
 0 Inserate
 0 Inserate
-Lotus Esprit 3.5 V8 Sport 350
-28.02.2021
+5 Inserate
+0 Inserate
+0 Inserate
+Preisreduktion
+LOTUS ESPRIT Esprit S4
+16.07.2021
 Occasion
-06.1999, Manuell, Benzin
-52'000 km, 353 PS, Silber
+08.1995, Manuell, Benzin bleifrei
+56'000 km, 268 PS, Rot
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
-CHF 84'000
-ab CHF 1'534 / Monat
+CHF 36'900
+ab CHF 674 / Monat
 Preiserhöhung
 LOTUS Esprit 3.5 V8 SE
-3.0
+2.5
 10.08.2020
 Occasion
 03.2002, Manuell, Benzin
@@ -642,7 +641,6 @@ Ihre Anfrage wurde versendet.
 CHF 57'500
 ab CHF 1'050 / Monat
 LOTUS Esprit 3.5 V8 GT
-2.5
 -
 Occasion
 11.1998, Manuell, Benzin
@@ -653,7 +651,7 @@ Ihre Anfrage wurde versendet.
 CHF 84'500
 ab CHF 1'543 / Monat
 LOTUS Esprit 3.5 V8 SE
-1.5
+2.0
 -
 Occasion
 06.2012, Manuell, Benzin

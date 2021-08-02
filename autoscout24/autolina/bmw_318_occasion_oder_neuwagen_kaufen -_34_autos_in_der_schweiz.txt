@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -101,7 +101,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -155,159 +155,54 @@ WIR-ANTEIL
 34 Treffer
 Suche zurücksetzen
 BMW
-3er Reihe E91 Touring 318i
-CHF 12'000
-ab CHF 129/Monat
-06.2012
+3er Reihe E36 Coupé 318iS 1.9 ABS dAiB
+CHF 6'500
+ab CHF 74/Monat
+06.1997
 Handschaltung
-70'000 km
+265'000 km
 Benzin
 Hinterradantrieb
-weiss
-143 PS
-VS
-Merken
-BMW
-3er Reihe E91 Touring 318i
-06.2012
-143 PS
-70'000 km
-CHF 12'000
-Merken
-ab CHF 129/Monat
-BMW
-318d Touring Steptronic
-CHF 13'900
-ab CHF 150/Monat
-07.2017
-Automat
-166'000 km
-Diesel
-Hinterradantrieb
-weiss
-150 PS
-SZ
-Merken
-BMW
-318d Touring Steptronic
-07.2017
-150 PS
-166'000 km
-CHF 13'900
-Merken
-ab CHF 150/Monat
-BMW
-318 d Steptronic M Sport
-CHF 34'980
-ab CHF 376/Monat
-07.2020
-Automat
-6'252 km
-Diesel
-Hinterradantrieb
-schwarz
-150 PS
-ZH
-Merken
-BMW
-318 d Steptronic M Sport
-07.2020
-150 PS
-6'252 km
-CHF 34'980
-Merken
-ab CHF 376/Monat
-BMW
-318 d Steptronic M Sport
-CHF 34'980
-ab CHF 376/Monat
-07.2020
-Automat
-8'217 km
-Diesel
-Hinterradantrieb
-schwarz
-150 PS
-ZH
-Merken
-BMW
-318 d Steptronic M Sport
-07.2020
-150 PS
-8'217 km
-CHF 34'980
-Merken
-ab CHF 376/Monat
-BMW
-318d Steptronic Sport Line
-CHF 34'950
-ab CHF 376/Monat
-08.2020
-Automat
-8'800 km
-Diesel
-Hinterradantrieb
 blau
-150 PS
-LU
+140 PS
+NE
 Merken
 BMW
-318d Steptronic Sport Line
-08.2020
-150 PS
-8'800 km
-CHF 34'950
+3er Reihe E36 Coupé 318iS 1.9 ABS...
+06.1997
+140 PS
+265'000 km
+CHF 6'500
 Merken
-ab CHF 376/Monat
+ab CHF 74/Monat
 BMW
-318d xDrive I Euro 6 I FULL LED I Surround View I Sportsitze
-CHF 23'800
-ab CHF 256/Monat
-08.2017
+3er Reihe F31 Touring 318d xDrive
+CHF 13'499
+ab CHF 145/Monat
+11.2013
 Handschaltung
-70'000 km
+151'000 km
 Diesel
 Allradantrieb
-blau
-150 PS
-LU
+grau
+143 PS
+BE
 Merken
 BMW
-318d xDrive I Euro 6 I FULL LED I...
-08.2017
-150 PS
-70'000 km
-CHF 23'800
+3er Reihe F31 Touring 318d xDrive
+11.2013
+143 PS
+151'000 km
+CHF 13'499
 Merken
-ab CHF 256/Monat
+ab CHF 145/Monat
 BMW
-318d Touring M Sport Line Steptronic I Euro 6 I FULL LED I P
-CHF 24'800
-ab CHF 267/Monat
-01.2017
+318d
+CHF 25'900
+ab CHF 279/Monat
+11.2018
 Automat
-48'000 km
-Diesel
-Hinterradantrieb
-schwarz
-150 PS
-LU
-Merken
-BMW
-318d Touring M Sport Line Steptro...
-01.2017
-150 PS
-48'000 km
-CHF 24'800
-Merken
-ab CHF 267/Monat
-BMW
-318d Touring Steptronic
-CHF 24'900
-ab CHF 268/Monat
-10.2018
-Automat
-33'000 km
+22'200 km
 Diesel
 Hinterradantrieb
 schwarz
@@ -315,126 +210,202 @@ schwarz
 TI
 Merken
 BMW
-318d Touring Steptronic
-10.2018
+318d
+11.2018
 150 PS
-33'000 km
-CHF 24'900
+22'200 km
+CHF 25'900
 Merken
-ab CHF 268/Monat
+ab CHF 279/Monat
 BMW
-318i Cabrio ABS
-CHF 15'900
-ab CHF 188/Monat
-02.1992
+3er Reihe E91 Touring 318i
+CHF 7'650
+ab CHF 87/Monat
+11.2009
 Handschaltung
-276'000 km
+206'000 km
 Benzin
 Hinterradantrieb
-schwarz
-113 PS
+sonstiges
+143 PS
 ZH
 Merken
 BMW
-318i Cabrio ABS
-02.1992
-113 PS
-276'000 km
+3er Reihe E91 Touring 318i
+11.2009
+143 PS
+206'000 km
+CHF 7'650
+Merken
+ab CHF 87/Monat
+BMW
+318i Sport
+CHF 9'800
+ab CHF 111/Monat
+08.2009
+Handschaltung
+100'000 km
+Benzin
+Hinterradantrieb
+silber
+143 PS
+GR
+Merken
+BMW
+318i Sport
+08.2009
+143 PS
+100'000 km
+CHF 9'800
+Merken
+ab CHF 111/Monat
+BMW
+318 ti Compact
+CHF 1'390
+01.2003
+Handschaltung
+214'100 km
+Benzin
+Hinterradantrieb
+schwarz
+143 PS
+ZH
+Merken
+BMW
+318 ti Compact
+01.2003
+143 PS
+214'100 km
+CHF 1'390
+Merken
+BMW
+318iS Coupé
+CHF 9'900
+ab CHF 112/Monat
+03.1992
+Handschaltung
+203'000 km
+Benzin
+Hinterradantrieb
+grau
+140 PS
+ZH
+Merken
+BMW
+318iS Coupé
+03.1992
+140 PS
+203'000 km
+CHF 9'900
+Merken
+ab CHF 112/Monat
+BMW
+318d Touring Steptronic
+CHF 15'900
+ab CHF 188/Monat
+07.2015
+Automat
+101'800 km
+Diesel
+Hinterradantrieb
+weiss
+143 PS
+ZH
+Merken
+BMW
+318d Touring Steptronic
+07.2015
+143 PS
+101'800 km
 CHF 15'900
 Merken
 ab CHF 188/Monat
 BMW
-318d Touring Steptronic
-CHF 11'500
-ab CHF 130/Monat
-03.2012
+318i
+CHF 4'500
+04.2002
 Automat
-113'900 km
-Diesel
+121'000 km
+Benzin
 Hinterradantrieb
+grün
+143 PS
+SG
+Merken
+BMW
+318i
+04.2002
+143 PS
+121'000 km
+CHF 4'500
+Merken
+BMW
+318d xDrive Touring
+CHF 14'900
+ab CHF 161/Monat
+04.2015
+Handschaltung
+124'000 km
+Diesel
+Allradantrieb
 schwarz
 143 PS
 SG
 Merken
 BMW
-318d Touring Steptronic
-03.2012
+318d xDrive Touring
+04.2015
 143 PS
-113'900 km
-CHF 11'500
+124'000 km
+CHF 14'900
 Merken
-ab CHF 130/Monat
+ab CHF 161/Monat
 BMW
-3er Reihe F31 Touring 318d xDrive
-CHF 17'980
-ab CHF 194/Monat
-05.2014
+318iS
+CHF 19'500
+ab CHF 210/Monat
+03.1991
 Handschaltung
-56'000 km
-Diesel
-Allradantrieb
-weiss
-143 PS
+88'100 km
+Benzin
+Hinterradantrieb
+rot
+136 PS
 TG
 Merken
 BMW
-3er Reihe F31 Touring 318d xDrive
-05.2014
-143 PS
-56'000 km
-CHF 17'980
+318iS
+03.1991
+136 PS
+88'100 km
+CHF 19'500
 Merken
-ab CHF 194/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
+ab CHF 210/Monat
 BMW
-318d Touring Steptronic
-CHF 14'500
-ab CHF 156/Monat
-04.2016
+318 d Steptronic M Sport
+CHF 26'990
+ab CHF 290/Monat
+01.2019
 Automat
-163'000 km
+55'962 km
 Diesel
 Hinterradantrieb
-schwarz
+silber
 150 PS
 ZH
 Merken
 BMW
-318d Touring Steptronic
-04.2016
+318 d Steptronic M Sport
+01.2019
 150 PS
-163'000 km
-CHF 14'500
+55'962 km
+CHF 26'990
 Merken
-ab CHF 156/Monat
-BMW
-318d xDrive Touring M Sport Line
-CHF 26'500
-ab CHF 285/Monat
-04.2017
-Handschaltung
-60'000 km
-Diesel
-Allradantrieb
-schwarz
-150 PS
-TI
-Merken
-BMW
-318d xDrive Touring M Sport Line
-04.2017
-150 PS
-60'000 km
-CHF 26'500
-Merken
-ab CHF 285/Monat
+ab CHF 290/Monat
 BMW
 318d 48V Touring Steptronic
-CHF 49'900
-ab CHF 536/Monat
+CHF 51'200
+ab CHF 550/Monat
 03.2021
 Automat
 4'235 km
@@ -449,30 +420,51 @@ BMW
 03.2021
 150 PS
 4'235 km
-CHF 49'900
+CHF 51'200
 Merken
-ab CHF 536/Monat
+ab CHF 550/Monat
 BMW
-318Ci Cabriolet
-CHF 11'900
-ab CHF 134/Monat
-06.2004
-Handschaltung
-74'500 km
-Benzin
+318d Touring Steptronic
+CHF 24'900
+ab CHF 268/Monat
+10.2018
+Automat
+33'000 km
+Diesel
 Hinterradantrieb
 schwarz
-143 PS
-SG
+150 PS
+TI
 Merken
 BMW
-318Ci Cabriolet
-06.2004
-143 PS
-74'500 km
-CHF 11'900
+318d Touring Steptronic
+10.2018
+150 PS
+33'000 km
+CHF 24'900
 Merken
-ab CHF 134/Monat
+ab CHF 268/Monat
+BMW
+318d xDrive Touring
+CHF 14'900
+ab CHF 161/Monat
+01.2015
+Handschaltung
+159'800 km
+Diesel
+Allradantrieb
+grau
+143 PS
+VS
+Merken
+BMW
+318d xDrive Touring
+01.2015
+143 PS
+159'800 km
+CHF 14'900
+Merken
+ab CHF 161/Monat
 1
 1
 2

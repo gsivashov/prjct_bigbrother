@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/bezirk-frauenfeld/
 Title: Wohnung & Haus mieten in Bezirk Frauenfeld - Immostreet.ch
-Description: Wohnung & Haus mieten in Bezirk Frauenfeld - Immostreet.ch: ImmoStreet.ch hat 276 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung & Haus mieten in Bezirk Frauenfeld - Immostreet.ch: ImmoStreet.ch hat 279 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-276 Resultate gefunden ·
+279 Resultate gefunden ·
 Wohnung & Haus mieten in Bezirk Frauenfeld
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,404 +152,397 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Birkenweg 5b
-1'750
+Wellhauserweg 36
+1'690
 CHF
 /Monat
-Ihr zukünftiges Zuhause? Modern, ruhig …
-Birkenweg 5b, 8500 Frauenfeld
+Nachmieter für wunderschöne 4.5Zi Dachw…
+Wellhauserweg 36, 8500 Frauenfeld
+Array
+4.5 Zimmer
+94 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+94 m2
+Wir suchen für unsere Dachgeschosswohnung einen Nachmieter per 31.12.2021. Die Wohnung ist im 3. Ob…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wiesenstrasse 4
+1'620
+CHF
+/Monat
+Helle Altbauwohnung im Zentrum von Frau…
+Wiesenstrasse 4, 8500 Frauenfeld
 Array
 3.5 Zimmer
-81 m2
+85 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-81 m2
-Finden Sie Ihr neues Zuhause in der Überbauung Laubwiesen und geniessen Sie die ruhige Lage mit sen…
+85 m2
+Etage
+Für unsere Wohnung an der Wiesenstrasse 4 suchen wir per sofort oder nach Vereinbarung einen Nachmi…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Wannenfeldstrasse 83
-1'320
+Oststrasse 1
+1'171
 CHF
 /Monat
-Zentral gelegene Wohnung in Frauenfeld
-Wannenfeldstrasse 83, 8500 Frauenfeld
+Nachmieter für schöne 2.5 EG Wohnung ge…
+Oststrasse 1, 8500 Frauenfeld
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Schöne, helle 2,5 Zimmer Wohnung mit grossen Sitzplatz auf 1. Oktober 21 oder nach Vereinbarung zu …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schaffhauserstrasse 286
+750
+CHF
+/Monat
+Untermieter gesucht
+Schaffhauserstrasse 286, 8500 Frauenfeld
+Array
+21 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+21 m2
+Wir suchen einen Untermieter für 1-2 Zimmer in einem 6,5Zimmer Hausteil mit grossem Gemeinschaftsga…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rooswis 10
+2'280
+CHF
+/Monat
+Da sagt man sich noch Grüezi
+Rooswis 10, 9548 Matzingen
+Array
+6 Zimmer
+160 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6
+Wohnfläche
+160 m2
+Da sagt man sich noch Grüezi  Liebe Landmenschen In Halingen, oberhalb Matzingen, wird per 01.10.20…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 9
+1'680
+CHF
+/Monat
+Lichtdurchflutete grosszügige 3.5 Zimme…
+Hauptstrasse 9, 8512 Thundorf
 Array
 3.5 Zimmer
-74 m2
+89 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-74 m2
-Sie suchen eine gemütliche Wohnung an einer guten Lage aber dennoch ruhig?Die charmante 3.5 Zimmerw…
+89 m2
+Hier einige Highlights dieser neuen und modernen Wohnung:
+• Grosszügiger Grundriss im Eigentumss…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Pflanzschulweg 7
-1'640
+Rodelstrasse 43
+1'170
 CHF
 /Monat
-Schöne Maisonettewohnung an ruhiger Lage
-Pflanzschulweg 7, 8500 Frauenfeld
+Schöne Wohnung mit Seesicht in Steckborn
+Rodelstrasse 43, 8266 Steckborn
+Array
+2.5 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+70 m2
+Etage
+Schöne 2,5 Zimmer Wohnung in Steckborn mit Seesicht ab sofort zu vermieten.
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Frauenfeld, Aeussere Stammerau
+1'660
+CHF
+/Monat
+3.5 Zimmer Wohnung, ruhig, Ausblick ins…
+Frauenfeld, Aeussere Stammerau, 8500 Frauenfeld
 Array
 3.5 Zimmer
-109 m2
+107 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-109 m2
-Wir vermieten per 1. Oktober 2021 eine gemütliche, moderne 3.5-Zimmer-Maisonettewohnung mit grosszü…
+107 m2
+Wir suchen per sofort oder nach Vereinbarung einen Nachmieter für die schöne, helle 3.5 Zimmer Wohn…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Eisenwerkstrasse 47a
-1'050
+Rheinstrasse 3
+1'630
 CHF
 /Monat
-Zentral und doch im Grünen
-Eisenwerkstrasse 47a, 8500 Frauenfeld
+3.5 Zimmer Wohnung im Herzen der Stadt …
+Rheinstrasse 3, 8500 Frauenfeld
+Array
+3.5 Zimmer
+83 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+83 m2
+Wir suchen für unsere schöne Stadtwohnung einen Nachmieter ab dem 1.10.21. Spare dir die 1. Hälfte …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestr. 50
+450
+CHF
+/Monat
+Zimmer in 3er WG
+Seestr. 50, 8267 Berlingen
+Array
+17 m2
+Objekttyp
+Wohnung, Einzelzimmer
+Wohnfläche
+17 m2
+ZimmerHelles freundliches Zimmer.Schöne Wohnung mit großer Stube, Esszimmer und große Küche.LageSch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 9 a
+700
+CHF
+/Monat
+Zweizimmerwohnung mit Ausblick auf die …
+Hauptstrasse 9 a, 8506 Lanzenneunforn
 Array
 2 Zimmer
-55 m2
+40 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2
 Wohnfläche
-55 m2
-Unmittelbar beim Bahnhof und doch im Grünen wartet Ihr neues Zuhause mit folgenden Vorteilen auf Si…
+40 m2
+zu vermieten; einfache 2 Zimmerwohnung im Parterre Gartensitzplatz zur Mitbenutzung1 Parkplatz ink…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Thurstrasse 39
-1'465
+im Wiel 6
+1'935
 CHF
 /Monat
-Schöne, moderne Balkonwohnung an zentra…
-Thurstrasse 39, 8500 Frauenfeld
+Die letzte Wohnung im 5-Familien-Haus: …
+im Wiel 6, 8555 Müllheim Dorf
 Array
 4.5 Zimmer
-90 m2
+105 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-90 m2
-An einem zentral und im Grün gelegenen Mehrfamilienhaus vermieten wir per 1. Oktober 2021 eine wund…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Stettfurterstrasse 4
-1'530
-CHF
-/Monat
-2.5 Zi.-Wohnung an der Stettfurterstra…
-Stettfurterstrasse 4, 9548 Matzingen
-Array
-2.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-70 m2
-Zu vermieten per sofort neue sehr schöne, grosszügige Wohnung. 70 m2 Wohnfläche mit Sitzplatz. Mode…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 20
-990
-CHF
-/Monat
-Wohnung für 990.-
-Bahnhofstrasse 20, 8552 Felben-Wellhausen
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-?Bei Interesse bitte direkt hier melden:? g-laders1(at)bluewin.ch?Nachmieter gesucht per sofort ode…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seestrasse 55
-1'360
-CHF
-/Monat
-3.5 Zi-Wohnung direkt am See per 01. Au…
-Seestrasse 55, 8267 Berlingen
-Array
-3.5 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-80 m2
-Einzug per 01. August 2021Altbauwohnung direkt am See in BerlingenBaujahr 1916Aussenparkplatz vorha…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Thurstrasse 38
-2'170
-CHF
-/Monat
-Wunderschöne moderne Wohnung in ruhiger…
-Thurstrasse 38, 8500 Frauenfeld
-Array
-4.5 Zimmer
-120 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-120 m2
+105 m2
 Etage
-Modern & zentrumsnah WohnenThurstrasse 38, 8500 Frauenfeld4.5 Zimmer Wohnung1990.- Wohnung180.-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lindenstrasse 16
-1'450
-CHF
-/Monat
-Grosszügige 2.5-Zimmer-Wohnung direkt n…
-Lindenstrasse 16, 8500 Frauenfeld
-Array
-2.5 Zimmer
-77 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-77 m2
-In einem im 2011 erstellten Neubau mit Lift vermieten wir per 01. Sept. 2021 eine schöne, helle und…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schmiedgasse 25
-1'270
-CHF
-/Monat
-Heimelige 3 Zimmer Altbauwohnung mit gr…
-Schmiedgasse 25, 8253 Diessenhofen
-Array
-3 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Etage
-Mitten im Kern von Diessenhofen vermieten wir ab sofort eine heimelige 3 Zimmer Altabauwohnung mit …
+Wir vermieten an sehr ruhiger und sonniger Lage, in Gehdistanz zum Dorfzentrum von Müllheim (TG) 6 …
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Sonnenplatz 4
-1'715
+1'835
 CHF
 /Monat
-3 1/2-Zimmer-Wohnung
+Grosszügige und moderne Wohnung mit 3.5…
 Sonnenplatz 4, 8536 Hüttwilen
 Array
 3.5 Zimmer
-87 m2
+107 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-87 m2
-Hochwertige helle Wohnung im I. Stock in Hüttwilen zu vermieten:
-Wohnen im Grünen
-Sonnige und g…
+107 m2
+Etage
+Per 1. August 2021 vermieten wir in Hüttwilen (TG) - 10 Minuten nördlich von Frauenfeld eine herrli…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Thurstrasse 36
-1'970
+Lindenstrasse 8
+1'590
 CHF
 /Monat
-Wohnung im 1. OG (Maisonnette)
-Thurstrasse 36, 8500 Frauenfeld
+Ihr neues zu Hause mit Bahnanschluss
+Lindenstrasse 8, 8500 Frauenfeld
 Array
-5 Zimmer
-130 m2
+2.5 Zimmer
+72 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-5
+2.5
 Wohnfläche
-130 m2
-Etage
-Wohnung im 1. OG (Maisonnette) in einem 2 Familienhaus. In Naher Umgebung Schule, ÖV, Einkaufmöglic…
+72 m2
+Im September/Oktober 2017 fertig erstellten Neubau, Trio Frauenfeld, vermieten wir per 01. November…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Gaswerkstrasse 35
-1'490
+Bahnhofstrasse, 3a
+1'360
 CHF
 /Monat
-Hübsche 3.5-Zimmerwohnung mitten in Fra…
-Gaswerkstrasse 35, 8500 Frauenfeld
+Die perfekte Wohnung für Sie!
+Bahnhofstrasse, 3a, 8552 Felben-Wellhausen
 Array
 3.5 Zimmer
-63 m2
+68 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-63 m2
+68 m2
+Das Mehrfamilienhaus liegt in einem ruhigen Quartier in Felben-Wellhausen. In wenigen Gehminuten si…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Thundorferstr.124
+1'670
+CHF
+/Monat
+Wohnung in Spital Quartier
+Thundorferstr.124, 8500 Frauenfeld
+Array
+3.5 Zimmer
+79 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+79 m2
+Tolle 3.5 Zimmer-Wohnung im 2. OG mit folgendem Konfort:- Parkett in der ganzen Wohnung- Bad/WC- Du…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hintergasse 63
+2'500
+CHF
+/Monat
+3.5-Zimmer-Wohnung mit Aussicht auf Rhe…
+Hintergasse 63, 8253 Diessenhofen
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Die auf Eigentumswohnung-Standard ausgebaute Loft-Wohnung besticht durch das grosse Wohnzimmer mit …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wellhauserweg 36
+1'690
+CHF
+/Monat
+Nachmieter für wunderschöne 4.5Zi Dachw…
+Wellhauserweg 36, 8500 Frauenfeld
+Array
+4.5 Zimmer
+94 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+94 m2
 Etage
-Sie suchen eine gemütliche Wohnung mitten in Frauenfeld? Dann sind Sie hier goldrichtig!   An der…
+Wir suchen für unsere Dachgeschosswohnung einen Nachmieter. Die Wohnung ist im 3. Obergeschoss gele…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Mühlewiesenweg 3
-2'180
+Zielackerstrasse, 11
+645
 CHF
 /Monat
-Gepflegte und moderne Überbauung "Miete…
-Mühlewiesenweg 3, 8500 Frauenfeld
-Array
-4.5 Zimmer
-119 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-119 m2
-Ihre vier Wände zum Wohlfühlen!- Grosszügiger Grundriss- Ganze Wohnung mit Parkettböden- Offene Küc…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schaffhauserstr. 42b
-1'506
-CHF
-/Monat
-Über den Dächern von Frauenfeld...
-Schaffhauserstr. 42b, 8500 Frauenfeld
-Array
-4.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-85 m2
-Frauenfeld ist die Hauptstadt vom Thurgau und liegt im Westen des Kantons. Zusammen mit den angrenz…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Häberlinstrasse 6
-870
-CHF
-/Monat
-schöne 1 Zimmer Wohnung in Frauenfeld
-Häberlinstrasse 6, 8500 Frauenfeld
+Gemütliche Wohnung in ruhigem Quartier!
+Zielackerstrasse, 11, 8500 Frauenfeld
 Array
 1 Zimmer
-33 m2
+22 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 1
 Wohnfläche
-33 m2
-Etage
-Schöne 1 Zimmerwohnung mit Balkon an der Häberlinstrasse 6 in Frauenfeld zu vermieten.Hinter dem Ha…
+22 m2
+Das im Jahr 1968 erstellte Mehrfamilienhaus befindet sich im Osten der Stadt Frauenfeld im Landorfq…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-2'030
+Steckbornerstrasse 23
+2'270
 CHF
 /Monat
-HELLER NEUBAU IN STECKBORN! 4R 2.2
-Adresse auf Anfrage, 8266 Steckborn
-Array
-5.5 Zimmer
-119 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5.5
-Wohnfläche
-119 m2
-An sehr zentraler Lage in Steckborn gibt es wunderschöne helle Neubauwohnungen! Die Genossenschaft-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'800
-CHF
-/Monat
-NEUBAU - HOCHWERTIG - TOP LAGE! 3L 1.4
-Adresse auf Anfrage, 8266 Steckborn
+Eigentumswohnung an Traumlauge zum miet…
+Steckbornerstrasse 23, 8500 Frauenfeld
 Array
 4.5 Zimmer
-103 m2
+129 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-103 m2
-An sehr zentraler Lage in Steckborn gibt es wunderschöne helle Neubauwohnungen! Die Genossenschaft-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Messenriet 28
-1'798
-CHF
-/Monat
-Hier fühlen Sie sich wohl: Neue 3.5-Zi.…
-Messenriet 28, 8500 Frauenfeld
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Beschreibung
-Im Messenriet 28, Frauenfeld vermieten wir per 1. September 2021 als Erstbezug (Neuba…
+129 m2
+Diese traumhafte Terrassenwohnung befindet sich an der Steckbornerstrasse 23 in Herdern.
+Topmode…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-wohnung/in-meggen/
 Title: Wohnung mieten in Meggen - Immostreet.ch
-Description: Wohnung mieten in  Meggen - Immostreet.ch: ImmoStreet.ch hat 5 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Meggen - Immostreet.ch: ImmoStreet.ch hat 6 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-5 Resultate gefunden ·
+6 Resultate gefunden ·
 Wohnung mieten in Meggen
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,50 +131,42 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Kreuzbuchstrasse 130
-1'350
+Eiholzmatte 4
+2'295
 CHF
 /Monat
-2 1/2 Zimmerwohnung alles inkl.
-Kreuzbuchstrasse 130, 6045 Meggen
+Seenah Wohnen im steuergünstigen Meggen
+Eiholzmatte 4, 6045 Meggen
 Array
-2.5 Zimmer
+4 Zimmer
+91 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
-Gemütliche, sonnige 2 1/2 Zimmerwohnung im Megger Oberland per sofort oder nach Absprache zu vermie…
+4
+Wohnfläche
+91 m2
+Die LageDie Überbauung «Eiholzmatte» ist ruhig gelegen und optimal besonnt. Die Aussicht besticht T…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Schlösslistr. 31
-650
+Adresse auf Anfrage
+2'530
 CHF
 /Monat
-WG-Zimmer in Meggen ab 1.8.
-Schlösslistr. 31, 6045 Meggen
+Sonnige Mietwohnung mit traumhafter Aus…
+Adresse auf Anfrage, 6045 Meggen
 Array
-Objekttyp
-Wohnung, Einzelzimmer
-Ab 1 August, oder nach Absprache, wird mein WG-Zimmer in Meggen frei. Es ist das grösste Zimmer mit…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Scheideggstrasse 15
-3'350
-CHF
-/Monat
-Grosszügige 6-Zimmerwohnung in Meggen
-Scheideggstrasse 15, 6045 Meggen
-Array
-6 Zimmer
+4.5 Zimmer
+91 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-6
-Wir vermieten nach Vereinbarung eine 6-Zimmerwohnung im steuergünstigen Meggen Dank der fantastisc…
+4.5
+Wohnfläche
+91 m2
+Die geräumige 4½-Zimmer-Wohnung befindet sich in einem beliebten Wohnquartier in Meggen mit viel Ru…
 Teilen
 E-Mail
 Facebook
@@ -196,6 +188,40 @@ Wohnfläche
 90 m2
 Zu vermieten per sofort oder nach Vereinbarung
 Helle 4.5 ZWG mit Sicht auf See und Berge in Megg…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Kreuzbuchstrasse 130
+1'350
+CHF
+/Monat
+2 1/2 Zimmerwohnung alles inkl.
+Kreuzbuchstrasse 130, 6045 Meggen
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Gemütliche, sonnige 2 1/2 Zimmerwohnung im Megger Oberland per sofort oder nach Absprache zu vermie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Scheideggstrasse 15
+3'150
+CHF
+/Monat
+Grosszügige 6-Zimmerwohnung in Meggen
+Scheideggstrasse 15, 6045 Meggen
+Array
+6 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+6
+Wir vermieten nach Vereinbarung eine 6-Zimmerwohnung im steuergünstigen Meggen Dank der fantastisc…
 Teilen
 E-Mail
 Facebook

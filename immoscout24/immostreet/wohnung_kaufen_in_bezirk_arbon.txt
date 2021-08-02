@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/wohnung/bezirk-arbon/
 Title: Wohnung kaufen in Bezirk Arbon - Immostreet.ch
-Description: Wohnung kaufen in Bezirk Arbon - Immostreet.ch: ImmoStreet.ch hat 54 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung kaufen in Bezirk Arbon - Immostreet.ch: ImmoStreet.ch hat 45 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -121,7 +121,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-54 Resultate gefunden ·
+45 Resultate gefunden ·
 Wohnung kaufen in Bezirk Arbon
 Preis (aufsteigend)
 Preis (absteigend)
@@ -134,191 +134,100 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Seestrasse
-580'000
+Egnacherstrasse 73A
+590'000
 CHF
-Aurelia - Zuhause am See
-Seestrasse, 9326 Horn
+ATTIKA MIT SEESICHT
+Egnacherstrasse 73A, 9320 Frasnacht
 Array
-3.5 Zimmer
-97 m2
+5.5 Zimmer
+130 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Attikawohnung
 Zimmer
-3.5
+5.5
 Wohnfläche
-97 m2
-Zuhause sein, wo andere Ferien machen!Zwischen Arbon und Rorschach direkt am Drei-Länder-Eck entste…
+130 m2
+An ruhiger Lage liegt diese charmante 5.5-Zimmer-Attikawohnung. Die Wohnung verfügt über eine gut d…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wiesentalstrasse
+398'000
+CHF
+Ruhige, zentrumsnahe 4.5-Zimmer-Eigent…
+Wiesentalstrasse, 9320 Arbon
+Array
+4.5 Zimmer
+90 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+4.5
+Wohnfläche
+90 m2
+Ruhige, zentrumsnahe 4.5-Zimmer-Eigentumswohnung***Alle Immobilien, Fotos und weitere Infos. auf ww…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-390'000
+640'000
 CHF
-Leistbares Wohnen in zentraler Lage
-Adresse auf Anfrage, 8580 Amriswil
-Array
-3.5 Zimmer
-85 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-85 m2
-Leistbares Wohnen in zentraler Lage von Amriswil, diese praktisch geschnittene 3 Wohnung überzeugt…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Jakobsbergstrasse 3
-499'000
-CHF
-Maisonette-Wohnung an familienfreundlic…
-Jakobsbergstrasse 3, 9306 Freidorf TG
+Sonnige 4.5 Zimmer Wohnung inkl. Hobbyr…
+Adresse auf Anfrage, 9320 Arbon
 Array
 4.5 Zimmer
-98 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-4.5
-Wohnfläche
-98 m2
-Etage
-Für Familien oder Paare - das perfekte ZuhauseDiese gemütliche und charmante Maisonette-Wohnung bef…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-365'000
-CHF
-Leistbares Wohnen in Seenähe in Salmsach
-Adresse auf Anfrage, 8599 Salmsach
-Array
-4.5 Zimmer
-71 m2
+110 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-71 m2
-Leistbares Wohnen in Seenähe von Salmsach diese praktisch geschnittene 4 Wohnung im 3.OG (ohne Lif…
+110 m2
+Diese schöne 4.5 Zimmer Wohnung wird inkl. einem grossem Garagenplatz in der Tiefgarage und Kellera…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-325'000
+Vorderau 4
+940'000
 CHF
-Leistbares Wohnen in Seenähe in Salmsach
-Adresse auf Anfrage, 8599 Salmsach
-Array
-71 m2
-Objekttyp
-Wohnung, Flach
-Wohnfläche
-71 m2
-Leistbares Wohnen in Seenähe von Salmsach diese praktisch geschnittene 4 Wohnung im 2.OG (ohne Lif…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Seeackerstrasse 1
-690'000
-CHF
-Einziehen & geniessen. Wohnung mit Seeb…
-Seeackerstrasse 1, 9326 Horn
+Wohntraum mit Smart Home - Haselbach Ro…
+Vorderau 4, 9325 Roggwil TG
 Array
 4.5 Zimmer
-112 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-112 m2
-Ein echtes Zuhause für mehr Freiheit und Lebensqualität.Sie suchen eine Wohnung, die von allem ein …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schäfliplatz 6
-990'000
-CHF
-Leben Sie Ihren Wohntraum - Traumhafte …
-Schäfliplatz 6, 9315 Neukirch (Egnach)
-Array
-4.5 Zimmer
-119 m2
+114 m2
 Objekttyp
 Wohnung, Attikawohnung
 Zimmer
 4.5
 Wohnfläche
-119 m2
+114 m2
 Etage
-Ihr Traum vom Wohneigentum erfüllt sich HIER!Diese stilvolle Attikawohnung befindet sich in einem h…
+Willkommen in Roggwil - haselbach-roggwil.chDer Wohnungsmix reicht von 2½- bis 5½-Zimmer-Wohnungen …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Werftstrasse
-595'000
+Brühlstrasse 107
+465'000
 CHF
-Moderner Wohnraum in Seenähe
-Werftstrasse, 9320 Arbon
-Array
-3.5 Zimmer
-107 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-107 m2
-Ab 2022 (Bezugsbereit Ende November) verspricht dieses elegante Neubauprojekt zeitgemässe Wohnquali…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Werftstrasse
-685'000
-CHF
-Neubau in Seenähe
-Werftstrasse, 9320 Arbon
+4½-Zimmer-Wohnung an kinderfreundlicher…
+Brühlstrasse 107, 9320 Arbon
 Array
 4.5 Zimmer
-126 m2
+95 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-126 m2
-Ab 2022 (Bezugsbereit Ende November) verspricht dieses elegante Neubauprojekt zeitgemässe Wohnquali…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Werftstrasse
-690'000
-CHF
-Sichern Sie sich eine der letzen verfüg…
-Werftstrasse, 9320 Arbon
-Array
-4.5 Zimmer
-126 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-126 m2
-Ab 2022 (Bezugsbereit Ende November) verspricht dieses elegante Neubauprojekt zeitgemässe Wohnquali…
+95 m2
+Die ausführlichen Verkaufsunterlagen finden Sie auf unserer Homepage!
+www.fleischmann.ch
+Im Ort…
 Teilen
 E-Mail
 Facebook
@@ -343,6 +252,83 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
+Berglistrasse 6
+310'000
+CHF
+Modernisierte Wohnung in bevorzugtem Qu…
+Berglistrasse 6, 9320 Arbon
+Array
+3.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+75 m2
+Das bietet Ihnen diese Wohnung: + sehr ruhige und zentrale Lage + Einkaufsmöglichkeiten, Altstadt,…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seestrasse 25
+400'000
+CHF
+Kleine, hübsche Wohnung mit Nähe zum Bo…
+Seestrasse 25, 9320 Arbon
+Array
+3.5 Zimmer
+93 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+93 m2
+Träumen Sie von einer erschwinglichen Wohnung am Bodensee? In der beschaulichen Stadt Arbon, nur 27…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+540'000
+CHF
+4.5 Zimmer Wohnung in Romanshorn
+Adresse auf Anfrage, 8590 Romanshorn
+Array
+4.5 Zimmer
+100 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+100 m2
+Verkaufe eine Schöne Wohnung 4.5 Zimmer Wohnung in Romanshorn. Es ist eine sehr ruhige Nachbarschaf…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Feldeggstrasse 18
+630'000
+CHF
+Glückliches Wohnen / 3 1/2 Zi. Wohnung …
+Feldeggstrasse 18, 8590 Romanshorn
+Array
+3.5 Zimmer
+91 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+91 m2
+An ruhiger, bestens besonnter Wohnlage verkaufen wir eine fantastische
+3 1/2 Zi. Wohnung mit gro…
+Teilen
+E-Mail
+Facebook
+Whatsapp
 Schäfliplatz 6
 890'000
 CHF
@@ -363,148 +349,170 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Seemoosholzstrasse 19
-736'000
+Schäfliplatz 6
+990'000
 CHF
-Grosszügige Familienwohnungen im Seemoo…
-Seemoosholzstrasse 19, 9320 Arbon
-Array
-6.5 Zimmer
-164 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-6.5
-Wohnfläche
-164 m2
-Besuchen Sie die Webseite der Überbauung Seemoosholz www.seemoosholz.ch und erhalten Sie Zugang zu …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Vorderau 1
-940'000
-CHF
-Wohntraum mit Smart Home - Haselbach Ro…
-Vorderau 1, 9325 Roggwil TG
+Leben Sie Ihren Wohntraum - Traumhafte …
+Schäfliplatz 6, 9315 Neukirch (Egnach)
 Array
 4.5 Zimmer
-114 m2
+119 m2
 Objekttyp
 Wohnung, Attikawohnung
 Zimmer
 4.5
 Wohnfläche
-114 m2
-Willkommen in Roggwil - haselbach-roggwil.chDer Wohnungsmix reicht von 2½- bis 5½-Zimmer-Wohnungen …
+119 m2
+Etage
+Ihr Traum vom Wohneigentum erfüllt sich HIER!Diese stilvolle Attikawohnung befindet sich in einem h…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Friedrichshafnerstrasse 54
-2'900'000
+amriswil
+315'000
 CHF
-Wo sich Exklusivität, Charm und Stil ve…
-Friedrichshafnerstrasse 54, 8590 Romanshorn
-Array
-5.5 Zimmer
-Objekttyp
-Wohnung, Duplex
-Zimmer
-5.5
-URBANES WOHNEN in historischem Gebäude direkt am Bodensee - KORNHAUSWeite und lichtdurchflutete Räu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weinfelderstrasse 19
-420'000
-CHF
-3.5 Zimmer Wohnung an zentraler Lage in…
-Weinfelderstrasse 19, 8580 Amriswil
+Wohnung in Amriswil
+amriswil, 8580 Amriswil
 Array
 3.5 Zimmer
-74 m2
+70 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-74 m2
-BeschreibungDie 3.5 Zimmer Wohnung mit Baujahr 1990 befindet sich an der Weinfelderstrasse 19 in Am…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wiesentalstrasse
-398'000
-CHF
-Ruhige, zentrumsnahe 4.5-Zimmer-Eigent…
-Wiesentalstrasse, 9320 Arbon
-Array
-90 m2
-Objekttyp
-Wohnung, Dachwohnung
-Wohnfläche
-90 m2
-Ruhige, zentrumsnahe 4.5-Zimmer-Eigentumswohnung***Alle Immobilien, Fotos und weitere Infos. auf ww…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Feldeggstrasse 31
-425'000
-CHF
-3.5 Zimmer-Eigentumswohnung im Erdgesch…
-Feldeggstrasse 31, 8590 Romanshorn
-Array
-3.5 Zimmer
-86 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-86 m2
-Im Kundenauftrag verkaufen wir eine gut gelegene 3.5 Zimmer-Eigentumswohnung im Erdgeschoss mit sep…
+70 m2
+3.5 Zimmer70 m23. Stock, ohne LiftEs gibt dazu eine Garage für 30?000 fr
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-640'000
+Preis auf Anfrage
+1- und 2.5-Zimmerwohnung aktuell vermie…
+Adresse auf Anfrage, 8580 Amriswil
+Array
+Objekttyp
+Wohnung, Flach
+Etage
+1-Zimmer und 2.5-Zimmer Eigentumswohnungnebeneinanderliegend im 1.Obergeschoss LageAn ruhiger Wohnl…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Seewiesenstrasse 19
+880'000
 CHF
-Sonnige 4.5 Zimmer Wohnung inkl. Hobbyr…
-Adresse auf Anfrage, 9320 Arbon
+RESERVIERT - PARADIES NAHE AM BODENSEE
+Seewiesenstrasse 19, 9322 Egnach
 Array
 4.5 Zimmer
-110 m2
+120 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-110 m2
-Diese schöne 4.5 Zimmer Wohnung wird inkl. einem grossem Garagenplatz in der Tiefgarage und Kellera…
+120 m2
+Etage
+An ruhiger Lage, nahe am Bodensee (Luxburg) befinden sich die 2 überschaubaren und familiären Mehrf…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Berglistrasse 6
-350'000
+Frohheimstrasse 12
+590'000
 CHF
-Leben in einer vielseitigen Stadt, dire…
-Berglistrasse 6, 9320 Arbon
+Gemütliches Wohnen im attraktiven Roggw…
+Frohheimstrasse 12, 9325 Roggwil TG
 Array
-3.5 Zimmer
-80 m2
+4.5 Zimmer
+135 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
+4.5
+Wohnfläche
+135 m2
+Attraktive 4.5 Zimmer Maisonettewohnung mit Charme für Individualisten .Finden Sie an der Frohheims…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Sportplatzstrasse 10
+682'000
+CHF
+neuwertig, zentral und hochwertig
+Sportplatzstrasse 10, 8580 Amriswil
+Array
+4.5 Zimmer
+113 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+113 m2
+BeschriebMicrolageDie Liegenschaft liegt an im Westen von Amriswil an recht zentraler Lage, bei Sch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+430'000
+CHF
+RESERVIERT
+Adresse auf Anfrage, 8580 Hefenhofen
+Array
+3.5 Zimmer
+108 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
 3.5
 Wohnfläche
-80 m2
-Arbon, eingebettet in einer sanften Hügellandschaft, ist ländlich geprägt und liegt direkt am wunde…
+108 m2
+Etage
+An oberster Stelle wohnen - Einmalige Gelegenheit zum Greifen nah.Durch den Treppengang gelangen Si…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+St. Gallerstrasse
+1'125'000
+CHF
+Renditeobjekt zu verkaufen
+St. Gallerstrasse, 9320 Arbon
+Array
+7.5 Zimmer
+391 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+7.5
+Wohnfläche
+391 m2
+Wohn- und Geschäftshaus im Zentrum von Arbon. (Laden- und/oder Bürolokal, sowie zwei 4.5-Zimmer Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'295'000
+CHF
+Attraktiv mit pflegeleichtem Garten
+Adresse auf Anfrage, 8590 Romanshorn
+Array
+5.5 Zimmer
+195 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5.5
+Wohnfläche
+195 m2
+Geniessen Sie ein modernes Zuhause, das mit seiner hochwertigen Ausstattung innen und aussen uberze…
 Teilen
 E-Mail
 Facebook

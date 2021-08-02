@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/haus/bezirk-buelach/
 Title: Haus kaufen in Bezirk Bülach - Immostreet.ch
-Description: Haus kaufen in Bezirk Bülach - Immostreet.ch: ImmoStreet.ch hat 28 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Haus kaufen in Bezirk Bülach - Immostreet.ch: ImmoStreet.ch hat 34 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -125,7 +125,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-28 Resultate gefunden ·
+34 Resultate gefunden ·
 Haus kaufen in Bezirk Bülach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -138,40 +138,290 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Adresse auf Anfrage
-1'150'000
+Bassersdorf
+2'330'000
 CHF
-Charmantes Wohnen Nähe Rhein
-Adresse auf Anfrage, 8193 Eglisau
+Einzigartiges 7.5 Zimmer Einfamilienhau…
+Bassersdorf, 8303 Bassersdorf
+Array
+7.5 Zimmer
+240 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+7.5
+Wohnfläche
+240 m2
+Diese helle Liegenschaft präsentiert sich durch die laufend vorgenommenen Renovationen in einem fas…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'590'000
+CHF
+Freistehendes 8-Zimmer Einfamilienhaus
+Adresse auf Anfrage, 8196 Wil ZH
+Array
+8 Zimmer
+210 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+8
+Wohnfläche
+210 m2
+Etage
+Freistehendes 8-Zimmer EinfamilienhausAttraktives Haus zu einem hervorragenden Preis- Leistungsverh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obergass 12
+945'000
+CHF
+Historisches Raumwunder die "Alte Post"…
+Obergass 12, 8193 Eglisau
+Array
+11 Zimmer
+208 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+11
+Wohnfläche
+208 m2
+Etage
+Dieses Haus, die ehemalige "Alte Post", befindet sich mitten im "Städtli" von Eglisau und besticht …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Grossackerstrasse 28
+1'400'000
+CHF
+Bauland mit Abrissobjekt im Grossacker …
+Grossackerstrasse 28, 8152 Opfikon
+Array
+Objekttyp
+Wohnung, Einzelhaus
+Das grosszügige Grundstück befindet sich an einer Privatstrasse (Zufahrtsstrasse, Kat. 4809), welch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Mettlenstrasse 42
+Preis auf Anfrage
+Praktisch original erhaltenes Wohnhaus …
+Mettlenstrasse 42, 8193 Eglisau
 Array
 5.5 Zimmer
-142 m2
+124 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+5.5
+Wohnfläche
+124 m2
+Etage
+Kein Mindestkaufpreis
+Die Liegenschaft wird im Bieterverfahren an den Meistbietenden verkauft.
+…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eigenackerstrasse 112
+1'350'000
+CHF
+Doppeleinfamilienhaus an ruhiger Lage m…
+Eigenackerstrasse 112, 8193 Eglisau
+Array
+6.5 Zimmer
+165 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+6.5
+Wohnfläche
+165 m2
+Etage
+Familienfreundliches Zuhause mit viel Wohn- & Stauraum sowie schönem Garten und TerrassenAn vit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Werftstrasse 35
+1'875'000
+CHF
+6,5-Zimmer-Einfamilienhaus mit grosszüg…
+Werftstrasse 35, 8302 Kloten
+Array
+6.5 Zimmer
+161 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+161 m2
+Etage
+Einmalige Gelegenheit: Einfamilienhaus in Kloten mit grossem GartenWir begeben uns in ein ruhiges Q…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Herrengütlistrasse 24
+Preis auf Anfrage
+Doppeleinfamilienhäuser in Wallisellen
+Herrengütlistrasse 24, 8304 Wallisellen
+Array
+5.5 Zimmer
+170 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+170 m2
+Etage
+Doppeleinfamilienhäuser in WallisellenAn der Herrengütlistrasse 24, einer ruhigen Quartierstrasse i…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'190'000
+CHF
+bezahlbares Einfamilienhaus mit Umbaupo…
+Adresse auf Anfrage, 8152 Opfikon
+Array
+5.5 Zimmer
+120 m2
 Objekttyp
 Wohnung, Reihenfamilienhaus
 Zimmer
 5.5
 Wohnfläche
-142 m2
-Diese äusserst durchdachte Immobilie mit vier Einheiten wurde 1991 erstellt und präsentiert sich he…
+120 m2
+Etage
+Wünschen Sie sich schon länger ein bezahlbares Einfamilienhaus, welches Sie nach Ihren Wünschen umb…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Leestrasse
-3'250'000
+Eglisau
+2'080'000
 CHF
-Modernes Einfamilienhaus mit traumhafte…
-Leestrasse, 8193 Eglisau
+Stylisches, modernes Terrassenhaus mit …
+Eglisau, 8193 Eglisau
 Array
 5.5 Zimmer
-273 m2
+180 m2
 Objekttyp
-Wohnung, Villa
+Wohnung, Terrassenhaus
 Zimmer
 5.5
 Wohnfläche
-273 m2
-Dieses exklusive Einfamilienhaus wird Sie begeistern. Hier nur einige Punkte was dieses Einfamilien…
+180 m2
+Das aussergewöhnliche Terrassenhaus mit 2 Tiefgaragenplätzen, angrenzend an die Naherholungszone un…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Birkenweg 8
+1'190'000
+CHF
+Familienfreundliches Haus mit lauschige…
+Birkenweg 8, 8192 Glattfelden
+Array
+5.5 Zimmer
+149 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5.5
+Wohnfläche
+149 m2
+An sonniger und ruhiger Lage in Glattfelden verkaufen wir dieses einseitig angebaute Familienhaus.D…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Glärnischstrasse 24d
+1'300'000
+CHF
+In ruhigem Einfamilienhausquartier - Ne…
+Glärnischstrasse 24d, 8152 Opfikon
+Array
+5 Zimmer
+121 m2
+Objekttyp
+Wohnung, Doppeleinfamilienhaus
+Zimmer
+5
+Wohnfläche
+121 m2
+Die gut unterhaltene 5-Zimmer-Doppeleinfamilienhaushälfte befindet sich an ruhiger Lage und in der …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'095'000
+CHF
+Das Wohngefühl, das Sie brauchen
+Adresse auf Anfrage, 8303 Bassersdorf
+Array
+4.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Reihenfamilienhaus
+Zimmer
+4.5
+Wohnfläche
+140 m2
+Dieses Wohnjuwel befindet sich an sonniger und ruhiger Hanglage und bietet einen traumhaften Garten…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obholzerstrasse 14
+1'350'000
+CHF
+Terrassenhaus in Birchwil, absolut ruhi…
+Obholzerstrasse 14, 8309 Nürensdorf
+Array
+5.5 Zimmer
+220 m2
+Objekttyp
+Wohnung, Terrassenhaus
+Zimmer
+5.5
+Wohnfläche
+220 m2
+Etage
+Das Terassenhaus befindet sich an begehrter Hanglage in Birchwil mit Aussicht auf Wald, Felder und …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'450'000
+CHF
+Modernes Einfamilienhaus mit grossem Ga…
+Adresse auf Anfrage, 8197 Rafz
+Array
+6.5 Zimmer
+143 m2
+Objekttyp
+Wohnung, Einzelhaus
+Zimmer
+6.5
+Wohnfläche
+143 m2
+Etage
+Dieses wunderschöne Einfamilienhaus befindet sich in einer ruhigen Quartierstrasse und bietet tolle…
 Teilen
 E-Mail
 Facebook
@@ -195,326 +445,81 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Adresse auf Anfrage
-3'099'000
+Hagenbuchenstrasse 11
+1'980'000
 CHF
-Luxuriöses 6.5 Zimmer Haus an bester La…
-Adresse auf Anfrage, 8302 Kloten
-Array
-240 m2
-Objekttyp
-Wohnung, Einzelhaus
-Wohnfläche
-240 m2
-ADRESSE: ZIPFELSTRASSE 38, 8302 KLOTEN
-Moderne 6.5 Zimmer Villa in Kloten. Gebäude mit 56 Solarp…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Eigenstrasse 18c
-850'000
-CHF
-geräumig - sonnig - gut unterhalten
-Eigenstrasse 18c, 8193 Eglisau
-Array
-5 Zimmer
-130 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5
-Wohnfläche
-130 m2
-Das 5-Zimmer-Reiheneinfamilienhaus besticht durch seine geräumige Aufteilung, die sonnige Lage sowi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rietgass 8
-995'000
-CHF
-SONNIGE, HOCHWERTIGE WOHNUNG MIT UNTERS…
-Rietgass 8, 8197 Rafz
-Array
-3.5 Zimmer
-152 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-3.5
-Wohnfläche
-152 m2
-DAS OBJEKT
-Wem sein Herz für Qualität und gute Handwerkskunst schlägt, wird hier auf seine Koste…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bühlhof 3
-Preis auf Anfrage
-Ländliches Einfamilienhaus mit Pferdebo…
-Bühlhof 3, 8425 Oberembrach
-Array
-7 Zimmer
-357 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-7
-Wohnfläche
-357 m2
-Etage
-Ehemaliges Bauernhaus, bestehend aus einem Wohnhaus über 2 Wohngeschosse mit Wohnen/ Essen/ Küche, …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Möslistrasse 4b
-1'400'000
-CHF
-Ihr Zuhause im Einfamilienhausquartier
-Möslistrasse 4b, 8309 Nürensdorf
-Array
-6.5 Zimmer
-148 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-148 m2
-Etage
-In der steuergünstigen Gemeinde Nürensdorf verkaufen wir dieses charmante, nach südwesten ausgerich…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mittlere Gstücktstrasse 32a
-Preis auf Anfrage
-Haus 32a
-Mittlere Gstücktstrasse 32a, 8180 Bülach
+Wohnen am Südhang mit Alpensicht
+Hagenbuchenstrasse 11, 8303 Bassersdorf
 Array
 5.5 Zimmer
-183 m2
-Objekttyp
-Wohnung, Terrassenhaus
-Zimmer
-5.5
-Wohnfläche
-183 m2
-***   PROJEKTANKÜNDIGUNG   *** An erhöhter Hanglage, im begehrtesten Einfamilienhaus-Quartier von B…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Mittlere Gstücktstrasse 32
-Preis auf Anfrage
-Haus 32
-Mittlere Gstücktstrasse 32, 8180 Bülach
-Array
-5.5 Zimmer
-184 m2
-Objekttyp
-Wohnung, Terrassenhaus
-Zimmer
-5.5
-Wohnfläche
-184 m2
-***   PROJEKTANKÜNDIGUNG   *** An erhöhter Hanglage, im begehrtesten Einfamilienhaus-Quartier von B…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-Seltene Gelegenheit
-Adresse auf Anfrage, 8303 Bassersdorf
-Array
-8.5 Zimmer
-265 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-8.5
-Wohnfläche
-265 m2
-Etage
-Freistehendes Einfamilienhaus mit Einliegerwohnung/Büro in Bassersdorf. 8.5 Zimmer, ca. 265 m² Wohn…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Chrondelstrasse 12
-1'530'000
-CHF
-Exklusives und Familienfreundliches Hau…
-Chrondelstrasse 12, 8427 Rorbas
-Array
-5.5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5.5
-Wohnfläche
-160 m2
-Exklusives und Familienfreundliches Haus mit toller Fernsicht!Geniessen Sie in Ihrem neuen Zuhause …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hinterdorfstrasse 12
-890'000
-CHF
-Projekt-Gelegenheit für Architekten und…
-Hinterdorfstrasse 12, 8426 Lufingen
-Array
-5 Zimmer
-226 m2
-Objekttyp
-Wohnung, Reihenfamilienhaus
-Zimmer
-5
-Wohnfläche
-226 m2
-Das einseitig angebaute 5-Zimmer-Einfamilienhaus befindet sich auf einem grosszügigen Grundstück an…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Junkergasse 8
-1'690'000
-CHF
-Architektonisches Einfamilienhaus !
-Junkergasse 8, 8181 Höri
-Array
-6.5 Zimmer
-374 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-6.5
-Wohnfläche
-374 m2
-Etage
-Im Herzen von Höri, ein Steinwurf von Bülach entfernt, verkaufen wir dieses ungewöhnliche und geräu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Winkel
-1'970'000
-CHF
-Originelles, lichtdurchflutetes Einfami…
-Winkel, 8185 Winkel
-Array
-5 Zimmer
-160 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5
-Wohnfläche
-160 m2
-Dieses tolle Haus mit einem sehr professionellem gestaltetem Garten sowie Doppelgarage wurde mit qu…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Murgasse
-20'000
-CHF
-Kleintier-Stall/Haus in Kleintieranlage
-Murgasse, 8180 Bülach
-Array
-3 Zimmer
-50 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-3
-Wohnfläche
-50 m2
-ZU VERKAUFENSchöner Kleintier-Stall/Haus, 50m2(Preis verhandelbar) Das Objekt steht in der Kleintie…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Oberdorfstrasse 242
-790'000
-CHF
-AgentSelly - Gefunden: Das Haus mit dem…
-Oberdorfstrasse 242, 8195 Wasterkingen
-Array
-5.5 Zimmer
-129 m2
+171 m2
 Objekttyp
 Wohnung, Einzelhaus
 Zimmer
 5.5
 Wohnfläche
-129 m2
+171 m2
 Etage
-Mit vielen stimmungsvollen Details aus Holz wird Sie dieses Haus begeistern. Auf vier Etagen und ei…
+Suchen Sie für Ihre Familie ein modernes Traumhaus am Südhang mit wundervoller Sicht in die Alpen? …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Im Stieg 191
-1'600'000
+Im Winkel 4
+945'000
 CHF
-Vielseitiges Einfamilienhausmit Bauland…
-Im Stieg 191, 8195 Wasterkingen
+Grosszügiges 5.5-Zimmer Doppeleinfamili…
+Im Winkel 4, 8196 Wil ZH
 Array
 5.5 Zimmer
-142 m2
-Objekttyp
-Wohnung, Einzelhaus
-Zimmer
-5.5
-Wohnfläche
-142 m2
-Etage
-Die attraktive 5.5 Zimmer Einfamilienhaus mit Garten an ruhiger Lage überzeugt mit gut konzipierten…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rebweg 3A
-1'650'000
-CHF
-Umfassend renoviertes Haus an guter Lage
-Rebweg 3A, 8305 Dietlikon
-Array
-5.5 Zimmer
-145 m2
+153 m2
 Objekttyp
 Wohnung, Doppeleinfamilienhaus
 Zimmer
 5.5
 Wohnfläche
-145 m2
+153 m2
 Etage
-LageDas Haus liegt in einem idyllischen Einfamilienhausquartier. Die familienfreundliche Umgebung b…
+Im wunderschönen Wil an einer ruhigen Quartierstrasse steht dieses helle, grosszügige Doppeleinfami…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Dietlikon
-Preis auf Anfrage
-Helles Reiheneckhaus in familienfreundl…
-Dietlikon, 8305 Dietlikon
+Quentlistrasse 76
+1'040'000
+CHF
+Gut unterhaltenes 5.5-Zi.-Eckhaus in ei…
+Quentlistrasse 76, 8193 Eglisau
 Array
-4.5 Zimmer
-120 m2
+5.5 Zimmer
+125 m2
 Objekttyp
 Wohnung, Reihenfamilienhaus
 Zimmer
-4.5
+5.5
 Wohnfläche
-120 m2
-Dieses charmante Einfamilienhaus mit 2 Einstellplätzen in der Tiefgarage liegt an einer ruhigen Sa…
+125 m2
+Etage
+Dieses lichtdurchflutete und sehr gepflegte Eckhaus befindet sich in Eglisau in einem Einfamilienha…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Leestrasse
+3'250'000
+CHF
+Modernes Einfamilienhaus mit traumhafte…
+Leestrasse, 8193 Eglisau
+Array
+5.5 Zimmer
+273 m2
+Objekttyp
+Wohnung, Villa
+Zimmer
+5.5
+Wohnfläche
+273 m2
+Dieses exklusive Einfamilienhaus wird Sie begeistern. Hier nur einige Punkte was dieses Einfamilien…
 Teilen
 E-Mail
 Facebook

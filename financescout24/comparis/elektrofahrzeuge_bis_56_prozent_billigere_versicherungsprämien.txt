@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/autoversicherung/elektromobilitat/analyse/elektrofa
 Title: Elektroauto: Günstigere Versicherungsprämien
 Description: Gemäss eines Vergleiches von comparis.ch werden Elektrofahrzeuge immer präsenter und attraktiver. Was besonders interessant ist, sind die deutlich günstigeren Versicherungsprämien.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -174,11 +172,11 @@ Kaum Unterschiede zwischen den Prämien für die vier Vergleichsfahrzeuge gibt e
 Direkt-Versicherer sind nicht billiger
 Aus dieser Aufstellung wird zudem ersichtlich: Gerade wenn es um energieeffizientes Fahren geht, sind Direktversicherer nicht automatisch am günstigsten. Zwar offeriert die Basler Versicherung mit ihrem Direct-Produkt (baloisedirect) für eine Prämie von 654.80 Franken den eGolf am günstigsten. Doch die Policen von smile.direct und Dextra zählen zu den teureren Angeboten. Dextra begründet mit dem Argument: «Die Dextra Versicherungen AG vergibt keine Rabatte, sondern unterbreitet allen Kunden ein faires und risikogerechtes Angebot.»
 Verwandte Beiträge
+Elektroauto: Wie und wo kann ich meine Batterie laden?
 E-Trottinett & Co.: Was kosten Sharinganbieter?
 Reichweite: Keine Angst vor dem Winter
 Schweizer wollen staatlich geförderte Elektromobilität
 Facebook- und iPhone-Generation fährt auf Elektroautos ab. Verbrennungsmotor bald out?
-Günstiger unterwegs mit umweltfreundlichen Autos
 Newsletter
 Immer aktuell informiert über Sparmöglichkeiten sowie Experten-Tipps rund um die Themen Gesundheit, Finanzen und Steuern.
 Jetzt anmelden

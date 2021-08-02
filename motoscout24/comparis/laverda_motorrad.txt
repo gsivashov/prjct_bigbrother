@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/motorrad/marktplatz/laverda
 Title: Laverda Motorrad occasion oder neu kaufen - comparis.ch
 Description: Laverda Motorrad Occasion oder neu zum besten Preis kaufen. Im grössten Motorradmarkt der Schweiz alle Inserate der grössten Online Portale auf einen Blick
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -149,7 +147,7 @@ Favoriten (0)
 Ihre Auswahl
 Laverda Motorrad
 Motorradmarkt: Occasionen und neue Motorräder
-16
+14
 Treffer für Sie gefunden auf allen grossen Schweizer Motorrad-Portalen
 Treffer für Sie gefunden auf allen grossen Schweizer Motorrad-Portalen
 Erstzulassung
@@ -667,26 +665,14 @@ SuchaboSuchabo speichern
 Filter
 Das könnte Sie interessieren
 Laverda
-(16)
+(14)
 Laverda Occasion
-(10)
+(9)
 Laverda Oldtimer
-(6)
+(5)
 Aufbau
 Laverda Strasse
 (10)
-Laverda OR 600/1 Atlas
-Alle Details
-Inserat vom 03.04.2021
-Occasion
-03.1991
-42'262 km
-571 ccm
-Preis
-CHF 4'950.-
-Alle Details
-CHF 4'950.-
-Alle Details
 Laverda 1000
 Alle Details
 Inserat vom 23.03.2021
@@ -695,9 +681,9 @@ Oldtimer
 50'034 km
 1200 ccm
 Preis
-CHF 9'800.-
+CHF 9'300.-
 Alle Details
-CHF 9'800.-
+CHF 9'300.-
 Alle Details
 Laverda 750 SF
 Alle Details
@@ -707,9 +693,9 @@ Oldtimer
 54'564 km
 744 ccm
 Preis
-CHF 8'900.-
+CHF 8'400.-
 Alle Details
-CHF 8'900.-
+CHF 8'400.-
 Alle Details
 Laverda 750 S F
 Alle Details
@@ -733,17 +719,6 @@ Preis
 CHF 8'500.-
 Alle Details
 CHF 8'500.-
-Alle Details
-Laverda LAV 750 SF
-Alle Details
-Inserat vom 29.10.2019
-Oldtimer
-01.1970
-14'000 km
-Preis
-CHF 12'000.-
-Alle Details
-CHF 12'000.-
 Alle Details
 Laverda LB/1 125 Custom
 Alle Details
@@ -788,6 +763,28 @@ Oldtimer
 01.1970
 40'400 km
 750 ccm
+Preis
+CHF 12'500.-
+Alle Details
+CHF 12'500.-
+Alle Details
+Laverda 750S
+Alle Details
+Inserat vom 15.02.2019
+Occasion
+05.1970
+33'800 km
+Preis
+CHF 10'500.-
+Alle Details
+CHF 10'500.-
+Alle Details
+Laverda 750GT
+Alle Details
+Inserat vom 15.02.2019
+Occasion
+01.1970
+40'400 km
 Preis
 CHF 12'500.-
 Alle Details

@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -101,7 +101,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -154,6 +154,262 @@ TI
 WIR-ANTEIL
 51 Treffer
 Suche zurücksetzen
+OPEL
+Ampera-e Electric Excellence
+CHF 36'999
+ab CHF 398/Monat
+-
+Automat
+200 km
+Elektro
+Vorderradantrieb
+sonstiges
+204 PS
+FR
+Merken
+OPEL
+Ampera-e Electric Excellence
+-
+204 PS
+200 km
+CHF 36'999
+Merken
+ab CHF 398/Monat
+OPEL
+Ampera-e Electric Excellence
+CHF 34'880
+ab CHF 375/Monat
+-
+Automat
+50 km
+Elektro
+Vorderradantrieb
+blau
+204 PS
+BE
+Merken
+OPEL
+Ampera-e Electric Excellence
+-
+204 PS
+50 km
+CHF 34'880
+Merken
+ab CHF 375/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
+OPEL
+Ampera E-REV
+CHF 13'500
+ab CHF 145/Monat
+08.2013
+Automat
+76'000 km
+Plug-in-Hybrid Benzin/Elektro
+Vorderradantrieb
+weiss
+151 PS
+ZH
+Merken
+OPEL
+Ampera E-REV
+08.2013
+151 PS
+76'000 km
+CHF 13'500
+Merken
+ab CHF 145/Monat
+OPEL
+Ampera-e
+CHF 21'900
+ab CHF 236/Monat
+01.2018
+Automat
+44'800 km
+Elektro
+Vorderradantrieb
+weiss
+204 PS
+TI
+Merken
+OPEL
+Ampera-e
+01.2018
+204 PS
+44'800 km
+CHF 21'900
+Merken
+ab CHF 236/Monat
+OPEL
+Ampera-e Electric Excellence
+CHF 33'900
+ab CHF 365/Monat
+-
+Automat
+100 km
+Elektro
+Vorderradantrieb
+weiss
+204 PS
+ZH
+Merken
+OPEL
+Ampera-e Electric Excellence
+-
+204 PS
+100 km
+CHF 33'900
+Merken
+ab CHF 365/Monat
+OPEL
+Ampera-e
+CHF 22'900
+ab CHF 246/Monat
+01.2018
+Automat
+44'800 km
+Elektro
+Vorderradantrieb
+weiss
+204 PS
+TI
+Merken
+OPEL
+Ampera-e
+01.2018
+204 PS
+44'800 km
+CHF 22'900
+Merken
+ab CHF 246/Monat
+OPEL
+Ampera-e Electric Excellence
+CHF 36'999
+ab CHF 398/Monat
+06.2021
+Automat
+200 km
+Elektro
+Vorderradantrieb
+sonstiges
+204 PS
+FR
+Merken
+OPEL
+Ampera-e Electric Excellence
+06.2021
+204 PS
+200 km
+CHF 36'999
+Merken
+ab CHF 398/Monat
+OPEL
+Ampera-e Electric Excellence
+CHF 34'800
+ab CHF 374/Monat
+06.2021
+Automat
+50 km
+Elektro
+Vorderradantrieb
+blau
+204 PS
+SO
+Merken
+OPEL
+Ampera-e Electric Excellence
+06.2021
+204 PS
+50 km
+CHF 34'800
+Merken
+ab CHF 374/Monat
+OPEL
+Ampera E-REV
+CHF 11'500
+ab CHF 130/Monat
+08.2012
+Automat
+91'900 km
+Plug-in-Hybrid Benzin/Elektro
+Vorderradantrieb
+schwarz
+150 PS
+SG
+Merken
+OPEL
+Ampera E-REV
+08.2012
+150 PS
+91'900 km
+CHF 11'500
+Merken
+ab CHF 130/Monat
+OPEL
+Ampera-e
+CHF 23'990
+ab CHF 258/Monat
+11.2017
+Automat
+41'964 km
+Elektro
+Vorderradantrieb
+grau
+204 PS
+FL
+Merken
+OPEL
+Ampera-e
+11.2017
+204 PS
+41'964 km
+CHF 23'990
+Merken
+ab CHF 258/Monat
+OPEL
+Ampera-e ** CH-Auslieferung - 520 Km Reichweite **
+CHF 29'800
+ab CHF 321/Monat
+11.2017
+Automat
+17'000 km
+Elektro
+Vorderradantrieb
+bordeaux
+204 PS
+ZG
+Merken
+OPEL
+Ampera-e ** CH-Auslieferung - 520...
+11.2017
+204 PS
+17'000 km
+CHF 29'800
+Merken
+ab CHF 321/Monat
+OPEL
+AMPERA -e Electric Excellence
+CHF 35'200
+ab CHF 379/Monat
+03.2021
+Automat
+800 km
+Elektro
+Vorderradantrieb
+weiss
+204 PS
+ZH
+Merken
+OPEL
+AMPERA -e Electric Excellence
+03.2021
+204 PS
+800 km
+CHF 35'200
+Merken
+ab CHF 379/Monat
 OPEL
 Ampera E-REV
 CHF 12'700
@@ -217,274 +473,6 @@ Ampera-e Excellence
 CHF 29'990
 Merken
 ab CHF 323/Monat
-OPEL
-Ampera 1.4 16V E-REV
-CHF 15'480
-ab CHF 167/Monat
-08.2015
-Automat
-73'600 km
-Voll-Hybrid Benzin/Elektro
-Vorderradantrieb
-weiss
-151 PS
-FR
-Merken
-OPEL
-Ampera 1.4 16V E-REV
-08.2015
-151 PS
-73'600 km
-CHF 15'480
-Merken
-ab CHF 167/Monat
-OPEL
-AMPERA -e Electric Excellence
-CHF 33'200
-ab CHF 357/Monat
-03.2021
-Automat
-800 km
-Elektro
-Vorderradantrieb
-silber
-204 PS
-ZH
-Merken
-OPEL
-AMPERA -e Electric Excellence
-03.2021
-204 PS
-800 km
-CHF 33'200
-Merken
-ab CHF 357/Monat
-OPEL
-Ampera-e
-CHF 24'900
-ab CHF 268/Monat
-12.2017
--
-21'000 km
-Elektro
-Vorderradantrieb
-silber
-204 PS
-LU
-Merken
-OPEL
-Ampera-e
-12.2017
-204 PS
-21'000 km
-CHF 24'900
-Merken
-ab CHF 268/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-OPEL
-Ampera-e
-CHF 25'800
-ab CHF 278/Monat
-10.2017
--
-29'800 km
-Elektro
-Vorderradantrieb
-schwarz
-204 PS
-TG
-Merken
-OPEL
-Ampera-e
-10.2017
-204 PS
-29'800 km
-CHF 25'800
-Merken
-ab CHF 278/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-OPEL
-Ampera-e Electric Excellence
-CHF 34'900
-ab CHF 375/Monat
-03.2021
-Automat
-300 km
-Elektro
-Vorderradantrieb
-schwarz
-204 PS
-AG
-Merken
-OPEL
-Ampera-e Electric Excellence
-03.2021
-204 PS
-300 km
-CHF 34'900
-Merken
-ab CHF 375/Monat
-OPEL
-Ampera-e
-CHF 24'900
-ab CHF 268/Monat
-12.2017
--
-51'000 km
-Elektro
-Vorderradantrieb
-anthrazit
-204 PS
-ZG
-Merken
-OPEL
-Ampera-e
-12.2017
-204 PS
-51'000 km
-CHF 24'900
-Merken
-ab CHF 268/Monat
-OPEL
-Ampera-e Excellence
-CHF 25'900
-ab CHF 279/Monat
-12.2018
--
-54'000 km
-Elektro
-Vorderradantrieb
-schwarz
-204 PS
-VS
-Merken
-OPEL
-Ampera-e Excellence
-12.2018
-204 PS
-54'000 km
-CHF 25'900
-Merken
-ab CHF 279/Monat
-OPEL
-Ampera-e Electric Excellence
-CHF 34'900
-ab CHF 375/Monat
-08.2018
-Automat
-9'300 km
-Elektro
-Vorderradantrieb
-rot
-204 PS
-GL
-Merken
-OPEL
-Ampera-e Electric Excellence
-08.2018
-204 PS
-9'300 km
-CHF 34'900
-Merken
-ab CHF 375/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-OPEL
-Ampera 1.4 16V E-REV
-CHF 15'500
-ab CHF 167/Monat
-11.2014
-Automat
-81'600 km
-Voll-Hybrid Benzin/Elektro
-Vorderradantrieb
-schwarz
-151 PS
-GL
-Merken
-OPEL
-Ampera 1.4 16V E-REV
-11.2014
-151 PS
-81'600 km
-CHF 15'500
-Merken
-ab CHF 167/Monat
-35-Punkte-Check
-Kostenlose Probefahrt
-Garantieversprechen
-Faires Eintauschangebot
-OPEL
-Ampera E-REV
-CHF 15'900
-ab CHF 171/Monat
-01.2012
-Automat
-39'900 km
-Plug-in-Hybrid Benzin/Elektro
-Vorderradantrieb
-weiss
-150 PS
-TG
-Merken
-OPEL
-Ampera E-REV
-01.2012
-150 PS
-39'900 km
-CHF 15'900
-Merken
-ab CHF 171/Monat
-OPEL
-Ampera-e Excellence
-CHF 22'900
-ab CHF 270/Monat
-01.2018
-Automat
-87'800 km
-Elektro
-Vorderradantrieb
-bordeaux
-204 PS
-BE
-Merken
-OPEL
-Ampera-e Excellence
-01.2018
-204 PS
-87'800 km
-CHF 22'900
-Merken
-ab CHF 270/Monat
-OPEL
-Ampera E-REV
-CHF 15'900
-ab CHF 171/Monat
-01.2015
-Automat
-69'000 km
-Plug-in-Hybrid Benzin/Elektro
-Vorderradantrieb
-silber
-150 PS
-TI
-Merken
-OPEL
-Ampera E-REV
-01.2015
-150 PS
-69'000 km
-CHF 15'900
-Merken
-ab CHF 171/Monat
 1
 1
 2

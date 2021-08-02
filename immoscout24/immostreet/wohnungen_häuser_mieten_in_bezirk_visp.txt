@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/bezirk-visp/
 Title: Wohnungen & Häuser mieten in Bezirk Visp - Immostreet.ch
-Description: Wohnungen & Häuser mieten in Bezirk Visp - Immostreet.ch: ImmoStreet.ch hat 37 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in Bezirk Visp - Immostreet.ch: ImmoStreet.ch hat 31 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-37 Resultate gefunden ·
+31 Resultate gefunden ·
 Wohnungen & Häuser mieten in Bezirk Visp
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,40 +122,18 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Balfrinstrasse 5
-2'600
+Adresse auf Anfrage
+130
 CHF
-/Monat
-6-Zimmer-Attika-Wohnung 185 m2 auf 2 Et…
-Balfrinstrasse 5, 3930 Visp
+MODERN, LICHTDURCHFLUTET UND AN TOP LAGE
+Adresse auf Anfrage, 3930 Eyholz
 Array
-6 Zimmer
-185 m2
+5 Zimmer
 Objekttyp
-Wohnung, Attikawohnung
+Büro
 Zimmer
-6
-Wohnfläche
-185 m2
-Etage
-Langfristig zu vermieten ab sofort oder nach Übereinkunft Zentrale ruhige Lage beim Bahnhof Die Woh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Jasminweg 4
-70
-CHF
-/Monat
-Bastelraum zu vermieten
-Jasminweg 4, 3930 Visp
-Array
-21 m2
-Objekttyp
-Atelier
-Wohnfläche
-21 m2
-ab sofort oder nach Vereinbarung vermieten wir einen Bastelraum (20,6 m2) am Jasminweg 4 in Visp.Si…
+5
+Grosszügige Gewerbefläche an super Lage mit 35 m2 bis 473 m2 möglich. Die Räumlichkeiten lassen sic…
 Teilen
 E-Mail
 Facebook
@@ -163,7 +141,7 @@ Whatsapp
 Adresse auf Anfrage
 70
 CHF
-DIREKT AN DER HAUPTSTRASSE!
+NICHT MEHR VERFÜGBAR
 Adresse auf Anfrage, 3930 Visp
 Array
 1 Zimmer
@@ -171,33 +149,13 @@ Objekttyp
 Verkauf, Lager
 Zimmer
 1
-Sehr zentral gelegene Lagerfläche, Eingangs Visp, direkt an der Hauptstrasse. Das Lager befindet si…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Bahnhofstrasse 18
-2'400
-CHF
-/Monat
-2 1/2 Zimmer Dachwohnung
-Bahnhofstrasse 18, 3920 Zermatt
-Array
-2.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Dachwohnung
-Zimmer
-2.5
-Wohnfläche
-65 m2
-Die Dachwohnung befindet sich im Zentrum von Zermatt. Dennoch ruhige Lage. Sie ist möbeliert und ab…
+Diese Lagehalle ist leider nicht mehr verfügbar. Für andere Objekte verweisen wir Sie auf www.bette…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-1'500
+1'200
 CHF
 /Monat
 CHALEUREUSE MAISON PROCHE DE ZERMATT
@@ -216,22 +174,241 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-St.Jodernstrasse 3
-1'150
+Haus E Monte Rosa, Kantonsstrasse 48
+1'140
 CHF
 /Monat
-Schöne 3 Zi-WHG in ruhiger Lage Verfüg…
-St.Jodernstrasse 3, 3930 Visp
+Luxuriösausgestatt und möblieter 2-Zi-W…
+Haus E Monte Rosa, Kantonsstrasse 48, 3929 Täsch
+Array
+2.5 Zimmer
+46 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+46 m2
+Das Haus Monte Rosa liegt im ruhig gelegene Täsch nur 5 km von Zermatt entfernt. Mit der direkten B…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+AN DER HAUPTSTRASSE - DIREKT NEBEN DEM …
+Adresse auf Anfrage, 3930 Visp
+Array
+Objekttyp
+Verkauf, Geschäft
+Tolle Gewerbefläche an super Lage von 2000m2.Den Möglichkeiten sind keine Grenzen gesetzt.Präsentie…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wiestistrasse 172
+2'300
+CHF
+/Monat
+Ferienwohnung schön und gut gelegen, na…
+Wiestistrasse 172, 3920 Zermatt
+Array
+3.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Schöne, möblierte, grosszügige und zentral gelegene 3,5-Zimmer-Wohnung mit toller Aussicht aufs Hor…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+160
+CHF
+GEWERBE / BÜROFLÄCHE AN TOP LAGE!
+Adresse auf Anfrage, 3930 Visp
+Array
+Objekttyp
+Büro
+Grosszügige Gewerbefläche an super Lage von 200m2.Ideal für eine Praxis, als Ausstellungsraum, Verk…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Bahnhofstrasse 46, Haus C2
+975
+CHF
+/Monat
+helles Studio im Zentrum von Zermatt
+Bahnhofstrasse 46, Haus C2, 3920 Zermatt
+Array
+1 Zimmer
+25 m2
+Objekttyp
+Wohnung, Studio
+Zimmer
+1
+Wohnfläche
+25 m2
+Genau das Richtige für Singles.- ruhige Lage im Zentrum von Zermatt- Wohnbereich mit neuem Riemenpa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hannigstrasse 45
+800
+CHF
+/Monat
+Saas-Fee 1 ½ Zi Whg "Saphir" Saison-/J…
+Hannigstrasse 45, 3906 Saas-Fee
+Array
+1.5 Zimmer
+30 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+30 m2
+Die 1 ½ Zimmerwohnung im Haus "Saphir" im Dorfzentrum in leicht überhöhter, zentraler und ruhig…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obere Wildistrasse 6
+750
+CHF
+/Monat
+Möbliertes Studio mit grosser Terrasse …
+Obere Wildistrasse 6, 3906 Saas-Fee
+Array
+1 Zimmer
+24 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+24 m2
+" SAAS-FEE Sehr schönes möbliertes Studio, ab sofort frei, fur 1-2 Personen, Zentrum / Wildi. 2021 …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Galeriestrasse 25
+Preis auf Anfrage
+Schöne Ferienwohnung in Täsch bei Zerma…
+Galeriestrasse 25, 3929 Täsch
+Array
+2.5 Zimmer
+46 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+2.5
+Wohnfläche
+46 m2
+Ferienwohnung zu vermieten in Täsch, ideal für Wochenenden und Ferien. Ideal zum Wandern, Fahrradfa…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'200
+CHF
+/Monat
+Gediegene 2.5 Zi-Whg an zentraler Lage
+Adresse auf Anfrage, 3920 Zermatt
+Array
+Objekttyp
+Wohnung, Flach
+Kürzlich renovierte und geschmackvoll eingerichtete 2.5 Zimmer Wohnung mit eigenem Skischrank ab so…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+850
+CHF
+/Monat
+Gesucht Wohnung
+Adresse auf Anfrage, 3930 Visp
+Array
+2 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Bin Eidgenossin, ruhig , zwischen 50&60 Jahre alt , alleine! Keine Haustiere Hätte gerne Balkon…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Haus Marienhof
+9'390
+CHF
+/Monat
+Arcade commerciale et bureaux - Haus Ma…
+Haus Marienhof, 3906 Saas-Fee
+Array
+Objekttyp
+Verkauf, Gewerbe
+Niché entre les hôtels et les restaurants, l'objet bénéficie de l'effervescence touristique du vill…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Carl-Zuckmayer-weg 23
+900
+CHF
+/Monat
+Wallis, Saas-Fee - 2 1/2 Zi Wohnung i…
+Carl-Zuckmayer-weg 23, 3906 Saas-Fee
+Array
+2.5 Zimmer
+54 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+54 m2
+Die gemütlich 2 ½ Wohnung bietet Behaglichkeit und Platz für 2 Personen. Das Haus befindet sich am …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Luchernstrasse 37
+2'900
+CHF
+/Monat
+Homeoffice im Wander- Velo- und Skipar…
+Luchernstrasse 37, 3920 Zermatt
 Array
 3 Zimmer
-70 m2
+65 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3
 Wohnfläche
-70 m2
-3 Zimmer WHG in Visp in ruhigem Quartier (Nähe Spital)Verfügbarab dem 1. September 2021 oder nach V…
+65 m2
+Wunderschöne 3-Zimmer-Wohnung, modern möbiliert, in bester Lage, im einzigartigen Zermatt. Zwei sch…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+50
+CHF
+/Monat
+Ihr neuer Aussenparkplatz!
+Adresse auf Anfrage, 3925 Grächen
+Array
+Objekttyp
+Offener Parkplatz
+Suchen Sie einen Parkplatz an zentraler Lage? Wir haben das passende Objekt für Sie!Per sofort verm…
 Teilen
 E-Mail
 Facebook
@@ -246,32 +423,6 @@ Array
 Objekttyp
 Verkauf, Lager
 Wir vermieten in mitten zentraler Umgebung ab sofort oder nach Vereinbarung Bastelräume. (14m2)Miet…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-EH Mattaweg 13+15
-100
-CHF
-/Monat
-Einstellplatz in der Nähe vom Visper Ba…
-EH Mattaweg 13+15, 3930 Visp
-Array
-Objekttyp
-Tiefgarage
-Wir vermieten in mitten zentraler Umgebung ab sofort oder nach Vereinbarung Einstellhallenplätze.Mi…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-Preis auf Anfrage
-AN DER HAUPTSTRASSE - DIREKT NEBEN DEM …
-Adresse auf Anfrage, 3930 Visp
-Array
-Objekttyp
-Verkauf, Geschäft
-Tolle Gewerbefläche an super Lage von 2000m2.Den Möglichkeiten sind keine Grenzen gesetzt.Präsentie…
 Teilen
 E-Mail
 Facebook
@@ -309,163 +460,6 @@ Wohnung, Flach
 Zimmer
 1
 Das Haus Monte Rosa liegt im ruhig gelegene Täsch nur 5 km von Zermatt entfernt. Mit der direkten B…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-160
-CHF
-GEWERBE / BÜROFLÄCHE AN TOP LAGE!
-Adresse auf Anfrage, 3930 Visp
-Array
-Objekttyp
-Büro
-Grosszügige Gewerbefläche an super Lage von 200m2.Ideal für eine Praxis, als Ausstellungsraum, Verk…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Saas Grund
-700
-CHF
-/Monat
-Schöne möblierte Ferienwohnung dauerhaf…
-Saas Grund, 3910 Saas-Grund
-Array
-3 Zimmer
-55 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-55 m2
-Verfügbar ab 1.11.2021: Die Wohnung im Saas Grunder Ortsteil Tamatten liegt nur 3min Fussweg von de…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-800
-CHF
-/Monat
-MÖBLIERT MIT SCHÖNER FERNSICHT
-Adresse auf Anfrage, 3926 Embd
-Array
-3.5 Zimmer
-90 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-3.5
-Wohnfläche
-90 m2
-Diese Wunderschöne Möblierte Etagenwohnung mit Fernsicht auf das Tal Visavis Grächen. Sucht einen n…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Täsch
-1'590
-CHF
-/Monat
-Schöne 3.5 Zimmerwohnung mit Schwimmbad…
-Täsch, 3929 Täsch
-Array
-3.5 Zimmer
-65 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-65 m2
-Schone 3.5 Zimmerwohnung mit zugang zu Fitnessraum und Schwimmbad zu Vermieten.Übernahme nach Verei…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-130
-CHF
-MODERN, LICHTDURCHFLUTET UND AN TOP LAGE
-Adresse auf Anfrage, 3930 Eyholz
-Array
-5 Zimmer
-Objekttyp
-Büro
-Zimmer
-5
-Grosszügige Gewerbefläche an super Lage mit 35 m2 bis 473 m2 möglich. Die Räumlichkeiten lassen sic…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Matterstrasse, 51, CH
-1'000
-CHF
-/Monat
-Très beau studio avec balcon,meublé cal…
-Matterstrasse, 51, CH, 3920 Zermatt
-Array
-1.5 Zimmer
-36 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-36 m2
-"Grand et beau STUDIO entièrement meublé (36 m2) à louer au centre de ZERMATT, libre de suite. Calm…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Obere Wildistrasse 6
-750
-CHF
-/Monat
-Möbliertes Studio mit grosser Terrasse …
-Obere Wildistrasse 6, 3906 Saas-Fee
-Array
-1 Zimmer
-24 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-24 m2
-" SAAS-FEE Sehr schönes möbliertes Studio, ab sofort frei, fur 1-2 Personen, Zentrum / Wildi. 2021 …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-12'400
-CHF
-/Monat
-Visp : Ladenfläche zu vermieten
-Adresse auf Anfrage, 3930 Eyholz
-Array
-Objekttyp
-Verkauf, Geschäft
-Visp : Ladenfläche zu vermieten824 m2 + 327 m2 depotZentrale Lage.Bei Interesse zwingend nötige Un…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-2'200
-CHF
-/Monat
-Gediegene 2.5 Zi-Whg an zentraler Lage
-Adresse auf Anfrage, 3920 Zermatt
-Array
-Objekttyp
-Wohnung, Flach
-Kürzlich renovierte und geschmackvoll eingerichtete 2.5 Zimmer Wohnung mit eigenem Skischrank in Ja…
 Teilen
 E-Mail
 Facebook

@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/kaufen/bauland/kanton-baselland/
 Title: Bauland kaufen in Kanton Basel-Land - Immostreet.ch
-Description: Bauland kaufen in Kanton Basel-Land - Immostreet.ch: ImmoStreet.ch hat 11 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Bauland kaufen in Kanton Basel-Land - Immostreet.ch: ImmoStreet.ch hat 16 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -104,7 +104,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-11 Resultate gefunden ·
+16 Resultate gefunden ·
 Bauland kaufen in Kanton Basel-Land
 Preis (aufsteigend)
 Preis (absteigend)
@@ -118,6 +118,98 @@ PLZ (absteigend)
 Sortierung
 Abschicken
 Adresse auf Anfrage
+170'000
+CHF
+Erfüllen Sie sich Ihren Traum vom Eigen…
+Adresse auf Anfrage, 4254 Liesberg Dorf
+Array
+Objekttyp
+Plot, Bauland
+Wenn Sie auf der Suche nach einer attraktiven Baulandparzelle sind, dann sind Sie hier genau richti…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'900'000
+CHF
+Traumhafte Parzelle an bester Lage in P…
+Adresse auf Anfrage, 4133 Pratteln
+Array
+Objekttyp
+Plot, Bauland
+W1b ZoneBebauungsziffer 25%Ausnützungsziffer 40%Zurzeit befindet sich eine Liegenschaft auf dieser …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rebenweg
+605'080
+CHF
+Wohnbauland im idyllischen Hemmiken - R…
+Rebenweg, 4465 Hemmiken
+Array
+Objekttyp
+Plot, Bauland
+Ländliches Wohnen liegt im Trend. Realisieren Sie Ihr Bauprojekt auf dieser teilerschlossenen und s…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Langacherweg
+1'100
+CHF
+Bauland mit Aussicht an Bauzonengrenze
+Langacherweg, 4460 Gelterkinden
+Array
+Objekttyp
+Plot, Bauland
+Unverbaubare Aussichtslage, direkt an der Bauzonengrenze.
+Parzelle: 5269
+Wohnzone: W2
+Ersc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse
+240'000
+CHF
+Voll erschlossenes Bauland in Bretzwil …
+Hauptstrasse, 4207 Bretzwil
+Array
+Objekttyp
+Plot, Bauland
+Das Grundstück befindet sich im "Ziegelmätteli" in Bretzwil, direkt vor der Bushaltestelle "Mühle" …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+Preis auf Anfrage
+Baurechtsparzelle für Wohnen- und Arbei…
+Adresse auf Anfrage, 4153 Reinach BL
+Array
+Objekttyp
+Plot, Bauland
+Parzelle:Die 5`073 m2 grosse Parzelle Nr. 416 an der Aumattstrasse 70/72 in Reinach BL ist aktuell …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Baumgarten 1 + 1 A
+Preis auf Anfrage
+INTERESSANTES BAULAND GESUCHT?
+Im Baumgarten 1 + 1 A, 4102 Binningen
+Array
+Objekttyp
+Plot, Bauland
+Parzelle an ruhiger Lage in BinningenDas wunderbar grosse Grundstück mit 1'962 m2 und 2 Wohneinheit…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
 238'000
 CHF
 Grundstück mit unverbaubarer Aussicht
@@ -139,32 +231,6 @@ Array
 Objekttyp
 Plot, Bauland
 Dieses Grundstück befindet sich am Nordhang im ländlichen Burg im Leimental. Die Lage ist sensation…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-St. Arbogast-Strasse
-1'059'000
-CHF
-Baulandparzelle W1- an einmaliger Lage
-St. Arbogast-Strasse, 4132 Muttenz
-Array
-Objekttyp
-Plot, Bauland
-Die Baulandparzelle befindet sich an der St. Arbogast-Strasse im Muttenz mit sehr guter Fer…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-331
-CHF
-GANZTAGS SONNIG, RUHIG UND AM BACH
-Adresse auf Anfrage, 4117 Burg im Leimental
-Array
-Objekttyp
-Plot, Bauland
-Dieses wunderbar gelegene Bauland in Burg im Leimental bietet viele Vorteile. Sie haben unverbaubar…
 Teilen
 E-Mail
 Facebook
@@ -238,7 +304,7 @@ Parzelle 1435 u. 1628, 4418 Reigoldswil
 Array
 Objekttyp
 Plot, Bauland
-Träumen Sie von einem Haus im Grünen? Die Adimmo AG bietet Ihnen dazu das passende Bauland an ruhig…
+Die Adimmo AG verkauft im Auftrag der Firma Häring & Co. AG Wohnbauland an schöner, ruhiger Han…
 Teilen
 E-Mail
 Facebook
@@ -251,7 +317,7 @@ Parzelle 1435 u. 1628, 4418 Reigoldswil
 Array
 Objekttyp
 Plot, Bauland
-Die Adimmo AG verkauft im Auftrag des Eigentümers ca. 4'500 m² Wohnbauland (Zone W1) an schöner Han…
+Die Adimmo AG verkauft im Auftrag der Firma Häring & Co. AG Wohnbauland an schöner, ruhiger Han…
 Teilen
 E-Mail
 Facebook

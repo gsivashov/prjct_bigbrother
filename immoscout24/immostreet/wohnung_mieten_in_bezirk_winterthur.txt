@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/bezirk-winterthur/?pagenum=2
 Title: Wohnung mieten in Bezirk Winterthur - Immostreet.ch
-Description: Wohnung mieten in Bezirk Winterthur - Immostreet.ch: ImmoStreet.ch hat 555 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in Bezirk Winterthur - Immostreet.ch: ImmoStreet.ch hat 546 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-555 Resultate gefunden ·
+546 Resultate gefunden ·
 Wohnung mieten in Bezirk Winterthur
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,79 +131,60 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Rychenbergstrasse 223
-2'160
+Kehlhof 2a
+1'980
 CHF
 /Monat
-Schöne 3 1/2 - 4 Zimmer-Wohnung
-Rychenbergstrasse 223, 8404 Winterthur
+Idillisch, ruhig, zentral im Dorfkern H…
+Kehlhof 2a, 8409 Winterthur
 Array
-4 Zimmer
+4.5 Zimmer
+100 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-4
-Zentrumsnah, aber auch in wenigen Gehminuten vom Wald entfernt,vermieten wir auf Anfang August eine…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Weststr. 129
-1'544
-CHF
-/Monat
-Zentrumsnah in Wülflingen "Mieten ohne …
-Weststr. 129, 8408 Winterthur
-Array
-3 Zimmer
-73 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
+4.5
 Wohnfläche
-73 m2
-An der Weststrasse in Wülflingen wird diese 3-Zimmerwohnung frei.- Parkett im Wohn- und Essbereich-…
+100 m2
+Moderne, helle Wohnung, ruhige und sonnige Lage, am Mühlekanal.
+Kindergarten, Schulen, Einkauf, öf…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Heiniweg 8
-1'536
+Seuzacherstr. 9a
+1'810
 CHF
 /Monat
-Ruhiges Wohnen am Stadtrand! "Mieten oh…
-Heiniweg 8, 8404 Winterthur
+Singletraum im Zentrum Rosenberg
+Seuzacherstr. 9a, 8400 Winterthur
+Array
+2.5 Zimmer
+66 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+66 m2
+Ideale Single-Wohnung für Sie...- Moderne Wohnung an zentraler Lage- Gesamte Wohnung mit Parkett- O…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Binzhofstrasse 87
+2'200
+CHF
+/Monat
+Attraktive Wohnung in ruhigem Quartier
+Binzhofstrasse 87, 8404 Winterthur
 Array
 3.5 Zimmer
-77 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Wohnfläche
-77 m2
-An schöner und ruhiger Lage in Oberwinterthur vermieten wir diese 3.5 Zimmerwohnung: - Bodenbelag i…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Etzbergweg 17
-1'791
-CHF
-/Monat
-3.5-Komfortwohnung an bester Lage in Wi…
-Etzbergweg 17, 8405 Winterthur
-Array
-3.5 Zimmer
-96 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-96 m2
-Die Wohnung lässt sich dank ihrem grosszügigen und praktischen Grundriss individuell gestalten. Im …
+Ab sofort vermieten wir diese schöne, helle 3.5-Zimmer-Wohnung im 2. Stock an der Binzhofstrasse 87…
 Teilen
 E-Mail
 Facebook
@@ -228,69 +209,184 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Marktgasse 70
-2'400
+Adresse auf Anfrage
+1'331
 CHF
 /Monat
-über den Dächern von Winterthur
-Marktgasse 70, 8400 Winterthur
+Günstige Wohnung zu vermieten
+Adresse auf Anfrage, 8400 Winterthur
 Array
 3.5 Zimmer
+65 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Per 1. September 2021 vermieten wir diese schöne Dachgeschoss-Wohnung mitten in der Winterthurer-Al…
+Wohnfläche
+65 m2
+Auf den 1.10.2021 wird eine praktische 3 1/2 Zimmer Wohnung im Deutweg Quartier frei.Die Wohnung is…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Heinrich Bosshard-Weg 18
-2'070
+Adresse auf Anfrage
+1'900
 CHF
 /Monat
-Frühlingsbeginn
-Heinrich Bosshard-Weg 18, 8483 Kollbrunn
+Nachmieter*in gesucht
+Adresse auf Anfrage, 8413 Neftenbach
 Array
 4.5 Zimmer
-129 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Nachmieter*inn gesucht für eine 4,5 Zimmer Wohnung mit Garten per 1. Oktober.Die Wohnung befindet s…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Stationsstrasse 12
+1'080
+CHF
+/Monat
+2.5-Zimmerwohnung direkt am Bahnhof Töss
+Stationsstrasse 12, 8406 Winterthur
+Array
+2.5 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Per 1. Oktober 2021 wird diese 2.5-Zimmerwohnung verfügbar.Schlafzimmer mit Novilon
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Agnesstrasse, 45
+1'090
+CHF
+/Monat
+Suche NachmieterIn für schöne 2-Zimmer …
+Agnesstrasse, 45, 8406 Winterthur
+Array
+2 Zimmer
+55 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2
+Wohnfläche
+55 m2
+Die Wohnung liegt in einem sehr ruhigen Quartier in Töss mit Blick über die Dächer und ins Grüne. D…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tellstrasse 12
+1'850
+CHF
+/Monat
+Zentrumsnahe, ruhige Stadtwohnung mit F…
+Tellstrasse 12, 8400 Winterthur
+Array
+3 Zimmer
+78 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+3
+Wohnfläche
+78 m2
+lichte Dachwohnunggrosses Wohnzimmer (2 Räume zusammengelegt)Altes und Mo…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Schützenstrasse
+1'130
+CHF
+/Monat
+Schöne Altbauwohnung
+Schützenstrasse, 8400 Winterthur
+Array
+3 Zimmer
+70 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+70 m2
+Etage
+nähe Bahnhof mit kleinem Balkon Dusche ,Einbauküche Keller Estrich und Dachterrasse
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Tösstalstrasse 131
+1'250
+CHF
+/Monat
+Moderne 1-Zimmer Whg
+Tösstalstrasse 131, 8400 Winterthur
+Array
+1 Zimmer
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Moderne 1-Zimmer Single WhgPer 01.09.21 verfügbarBesichtigung 02.08. von 18:00-20:00
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Untere Hohlgasse 21
+1'700
+CHF
+/Monat
+Charmante Parterre- Wohnung in 180jähri…
+Untere Hohlgasse 21, 8404 Winterthur
+Array
+4.5 Zimmer
+100 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4.5
 Wohnfläche
-129 m2
-Die Wohnung (im Grundriss 10.1) besticht durch Ihren grosszügig konzipierten, durchdachten Grundris…
+100 m2
+- origineller Grundriss (ca. 100m2)- mehrheitlich mit Parkett und Bodenheizung- grosses Bad/ separa…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Aspstrasse 12
-2'100
+Zentralstrasse, 3
+1'600
 CHF
 /Monat
-Aspstrasse 12, 8472 Seuzach/Oberohringen
-Aspstrasse 12, 8472 Seuzach
+3 Zimmer Wohnung, 1600.-
+Zentralstrasse, 3, 8400 Winterthur
 Array
-4.5 Zimmer
-120 m2
+3 Zimmer
+60 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Bachelor flat
 Zimmer
-4.5
+3
 Wohnfläche
-120 m2
-Grosszügige, schöne 4 1/2 Zimmer-Wohnung ca. 120m2 Grosse helle Räume, alle Zimmer mit Parkettboden…
+60 m2
+Charmante 3 Zimmer Altbau Wohnung per 1.September oder nach Vereinbarung zu vermieten. Zentral gele…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Blatterstrasse 14
-2'090
+Bolsternstrasse 14
+1'820
 CHF
 /Monat
-Heimelige Wohnung Nähe KSW
-Blatterstrasse 14, 8400 Winterthur
+MFH Siedlung Piano, Attika- Wohnung, Ko…
+Bolsternstrasse 14, 8483 Kollbrunn
 Array
 3.5 Zimmer
 70 m2
@@ -300,223 +396,122 @@ Zimmer
 3.5
 Wohnfläche
 70 m2
-Für unsere heimelige 3.5 Zi. Dachwohnung Nähe dem Kantonspital Winterthur suchen wir nun einen Nach…
+Die 3 1/2- Zimmerwohnung 12-22 befindet sich im Dachgeschoss mit 2 Terrassen und einem Vorplatz bei…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Hinterdorfstrasse 8
-1'630
+Querstrasse 1
+1'850
 CHF
 /Monat
-Neubau-Wohnung - Hochwertig ausgestatte…
-Hinterdorfstrasse 8, 8487 Zell ZH
+Ruhiges, familienfreundliches Wohnen im…
+Querstrasse 1, 8406 Winterthur
 Array
-2.5 Zimmer
-63 m2
+4.5 Zimmer
+98 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+4.5
 Wohnfläche
-63 m2
-"Neubau-Wohnung - Hochwertig ausgestattet - mit sehr schönem Balkon"- Helle und ruhige 2,5 Zimmer W…
+98 m2
+Etage
+Sonnige Wohnung in 30er-Zone, grosser Spielplatz, gemeinsamer Sitzplatz im Garten.Balkon nach Süden…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Gutstrasse 13
-1'185
+Adresse auf Anfrage
+1'900
 CHF
 /Monat
-1 Zimmer-Wohung
-Gutstrasse 13, 8400 Winterthur
+4.5 Zi Maisonette Wohnung in Elgg mit G…
+Adresse auf Anfrage, 8353 Elgg
 Array
-1 Zimmer
-35 m2
+4.5 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-1
-Wohnfläche
-35 m2
-1 Zimmer-Whonung, 35 m2, separate Küche, Balkon 6.1 m2, 2 StockGutstrasse 138400 WinterthurFrei ab …
+4.5
+nach Vereinbarung (ab September oder Oktober) :4.5 Zi Maisonette Wohnung am Dorfrand in Elgg mit Ga…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Breitestrasse 4
-750
+Kernstrasse 17
+1'490
 CHF
 /Monat
-charmante Studio-Wohnung in Stadtnähe
-Breitestrasse 4, 8400 Winterthur
-Array
-1 Zimmer
-22 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1
-Wohnfläche
-22 m2
-Besichtigungstermine:
-Mittwoch, 16.06.2021 / 18.30 - 19.30 Uhr
-Samstag, 19.06.2021 / 14.00 - 15.0…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ebnetstrasse 6
-2'150
-CHF
-/Monat
-Designer Wohnung zu vermieten
-Ebnetstrasse 6, 8406 Winterthur
+Frisch sanierte Wohnung in Stadtnähe Wi…
+Kernstrasse 17, 8406 Winterthur
 Array
 3.5 Zimmer
+57 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
-Wir vermieten per sofort oder nach Vereinbarung eine 3.5-Zimmerwohnung im 1. Obergeschoss an der E…
+Wohnfläche
+57 m2
+Die Siedlung mit 4 Gebäuden wurde in den Jahren 1925-1929 erstellt und ist heute im Schutzinventar …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bäckerstrasse 12
-1'890
+Müllerstrasse 1
+910
 CHF
 /Monat
-Hochwertig möbliertes Business Apartmen…
-Bäckerstrasse 12, 8400 Winterthur
+3 Zimmer Wohnung mit Altbaucharme auf 1…
+Müllerstrasse 1, 8400 Winterthur
 Array
-1.5 Zimmer
-35 m2
+3 Zimmer
 Objekttyp
 Wohnung, Flach
 Zimmer
-1.5
-Wohnfläche
-35 m2
-An zentraler Lage in Winterthur vermieten wir eine hochwertig möblierte 1.5-Zimmer-Wohnung. Die Woh…
+3
+Die helle und charmante Wohnung befindet sich im 1. Stock eines 3 Parteien Hauses aus dem Jahre 190…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Ebnetstrasse 6
-1'990
+Grenzstrasse 42
+900
 CHF
 /Monat
-Hochwertig möbliertes Business Apartmen…
-Ebnetstrasse 6, 8406 Winterthur
+Singlewohnung an verkehrsgünstiger Lage
+Grenzstrasse 42, 8406 Winterthur
 Array
-1.5 Zimmer
-30 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-1.5
-Wohnfläche
-30 m2
-An zentraler Lage in Winterthur vermieten wir ein hochwertig möbliertes 1.5-Zimmer-Apartment. Das A…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Tössfeldstrasse 67
-2'450
-CHF
-/Monat
-Exklusives Business Apartment
-Tössfeldstrasse 67, 8406 Winterthur
-Array
-2.5 Zimmer
-55 m2
+1 Zimmer
+32 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
+1
 Wohnfläche
-55 m2
-An zentraler Lage in Winterthur vermieten wir eine hochwertig möblierte 2.5-Zimmer-Wohnung. Die Woh…
+32 m2
+Wir vermieten diese 1-Zimmerwohnung. Die Wohnung bietet Ihnen folgende Annehmlichkeiten:- Wohnzimme…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Bäckerstrasse 12
-1'890
+Tösstalstrasse 88
+920
 CHF
 /Monat
-Hochwertig möbliertes Business Apartmen…
-Bäckerstrasse 12, 8400 Winterthur
+*** zentrale, helle 1-Zimmerwohnung ***
+Tösstalstrasse 88, 8488 Turbenthal
 Array
-1.5 Zimmer
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-1.5
-An zentraler Lage in Winterthur vermieten wir eine hochwertig möblierte 1.5-Zimmer-Wohnung. Die Woh…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ebnetstrasse 6
-1'990
-CHF
-/Monat
-Hochwertig möbliertes Business Apartmen…
-Ebnetstrasse 6, 8406 Winterthur
-Array
-1.5 Zimmer
-30 m2
+1 Zimmer
+22 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-1.5
-Wohnfläche
-30 m2
-An zentraler Lage in Winterthur vermieten wir ein hochwertig möbliertes 1.5-Zimmer-Apartment. Das A…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-St. Gallerstrasse
-1'550
-CHF
-/Monat
-BUSINESS APARTMENT - FULLY FURNISHED
-St. Gallerstrasse, 8409 Winterthur
-Array
-1.5 Zimmer
-22 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-1.5
+1
 Wohnfläche
 22 m2
-Im VARIAS Apartment-House vermieten wir 17 hochwertig möblierte 1.5-Zimmer-Apartments. Die Apartmen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-St. Gallerstrasse
-1'450
-CHF
-/Monat
-BUSINESS APARTMENT - FULLY FURNISHED
-St. Gallerstrasse, 8409 Winterthur
-Array
-1.5 Zimmer
-22 m2
-Objekttyp
-Wohnung, Möblierte Wohnung
-Zimmer
-1.5
-Wohnfläche
-22 m2
-Im VARIAS Apartment-House vermieten wir 17 hochwertig möblierte 1.5-Zimmer-Apartments. Die Apartmen…
+Wir vermieten per 1. Oktober 2021 in einem Mehrfamilienhaus mit 5 Wohnungen und Gastronomiebetrieb,…
 Teilen
 E-Mail
 Facebook

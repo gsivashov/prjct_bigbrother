@@ -48,6 +48,7 @@ Physische Edelmetalle
 Highlights
 Börsenspiel
 Börse: Marktübersicht
+Vorsorgefonds
 Unser Vorsorgebuch
 Nachhaltig –
 wie «grün» ist Ihr Fonds?
@@ -58,9 +59,8 @@ Jetzt ermitteln
 Hypothek
 Hypothek in der Übersicht
 Festhypothek
-Libor-Hypothek
-Variable Hypothek
 SARON-Hypothek
+Variable Hypothek
 Hypolimite
 Baukredit
 Eigenheim kaufen
@@ -83,6 +83,7 @@ Kredit in der Übersicht
 Konsumkredit
 Privatkredit
 Autokredit
+Autoleasing
 Weiterbildungskredit
 Limite
 Lombardkredit
@@ -271,15 +272,15 @@ Kontrollieren Sie Ihre Ausgaben
 Wir empfehlen Ihnen, jeden Monat einen Betrag für die regelmässigen und unregelmässigen Ausgaben Ihres Eigenheims auf ein separates Konto zu überweisen. Dieser Betrag umfasst jeweils 1/12 der Nebenkosten (ein Prozent des Kaufpreises), der jährlichen Amortisation
 (6,7 Prozent einer 2. Hypothek) und der erwarteten Zinskosten (gemäss Kreditvertrag). So haben Sie die Kosten laufend im Griff – und über die Jahre eine einfache Übersicht über alle Ausgaben für Ihre Liegenschaft.
 Optimieren Sie Ihre Kosten
-Haben Sie gewusst, dass Sie Ihr Hypothekenmodell – die Festhypothek ausgenommen – auch nach der Vertragsunterzeichnung noch wechseln können? Sie können beispielsweise von der Variablen oder Libor-Hypothek in eine Festhypothek wechseln und so Ihre Zinskosten optimieren. Wir informieren Sie überdies rechtzeitig, wenn die Verlängerung einer auslaufenden Festhypothek oder Libor-Hypothek ansteht.
+Haben Sie gewusst, dass Sie Ihr Hypothekenmodell – die Festhypothek ausgenommen – auch nach der Vertragsunterzeichnung noch wechseln können? Sie können beispielsweise von der Variablen oder SARON-Hypothek in eine Festhypothek wechseln und so Ihre Zinskosten optimieren. Wir informieren Sie überdies rechtzeitig, wenn die Verlängerung einer auslaufenden Festhypothek oder SARON-Hypothek ansteht.
 Steigern Sie den Wert Ihrer Liegenschaft
 Mit Investitionen erhalten oder steigern Sie den Wert Ihres Eigenheims langfristig. Wenn Sie Ihr Eigenheim renovieren oder umbauen wollen, unterstützt die Migros Bank Sie gerne mit einer passenden und flexiblen Baufinanzierung.
 Weitere Highlights aus unserer Beratung
 Festhypothek
 Zins bis 10 Jahre fix
 Mehr erfahren
-Libor-Hypothek
-Für 3 Jahre
+SARON-Hypothek
+Marktorientiert und flexibel
 Mehr erfahren
 Hypolimite
 Erweitern Sie Ihren

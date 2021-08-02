@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung/unterkategorie-wohnung/in-cham/
 Title: Wohnung mieten in Cham - Immostreet.ch
-Description: Wohnung mieten in  Cham - Immostreet.ch: ImmoStreet.ch hat 13 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnung mieten in  Cham - Immostreet.ch: ImmoStreet.ch hat 18 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -118,7 +118,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-13 Resultate gefunden ·
+18 Resultate gefunden ·
 Wohnung mieten in Cham
 Preis (aufsteigend)
 Preis (absteigend)
@@ -131,42 +131,165 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Kleinweid 8
-2'760
+Obermühleweid 2
+2'220
 CHF
 /Monat
-Viel Wohnkomfort in familienfreundliche…
-Kleinweid 8, 6330 Cham
+Modern Wohnen in Cham
+Obermühleweid 2, 6330 Cham
 Array
-5.5 Zimmer
-122 m2
+2.5 Zimmer
+73 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-5.5
+2.5
 Wohnfläche
-122 m2
-In dieser geräumigen Wohnung erwartet Sie zeitgemässer Komfort in einer gepflegten und kinderfreund…
+73 m2
+Per 1. Oktober 2021 vermieten wir diese moderne 2.5 Zimmer-Wohnung, welche Ihnen folgende Annehmlic…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Luzernerstrasse 22
-2'640
+Allmendweg 1
+2'354
 CHF
 /Monat
-einzigartige Wohnung wartet auf einziga…
-Luzernerstrasse 22, 6330 Cham
+3.5 Zimmerwohnung im Zentrum von Cham
+Allmendweg 1, 6330 Cham
 Array
-4.5 Zimmer
-97 m2
+3 Zimmer
+92 m2
 Objekttyp
 Wohnung, Duplex
 Zimmer
+3
+Wohnfläche
+92 m2
+In Cham hinter der Andreasklinik vermieten wir per 1. Oktober 2021 eine 3 1/2-Zimmer-Maisonette-Woh…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hünenbergerstrasse
+4'950
+CHF
+/Monat
+3.5 Penthouse Wohnung mit sehr grossen …
+Hünenbergerstrasse, 6330 Cham
+Array
+3.5 Zimmer
+110 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+3.5
+Wohnfläche
+110 m2
+Etage
+Im Dorfzentrum von Cham, 250Meter zum Bahnhof, sehr grosszügige, luxeriös möbilierte 3.5 Zimmer-Pen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Obermühleweid 3
+3'790
+CHF
+/Monat
+Traumhafte Attikawohnung in Cham
+Obermühleweid 3, 6330 Cham
+Array
+4.5 Zimmer
+119 m2
+Objekttyp
+Wohnung, Attikawohnung
+Zimmer
 4.5
 Wohnfläche
-97 m2
-Das 1952 erbaute Gebäude wurde komplett saniert und erstrahlt seit August 2015 in neuem Glanz - und…
+119 m2
+Per 1. Oktober 2021 vermieten wir diese atemberaubende und grosszügige Attika-Wohnung im modernen Q…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adelheid-Pagestrasse 18a
+6'550
+CHF
+/Monat
+Ihre neue Wohn-Oase nur wenige Schritte…
+Adelheid-Pagestrasse 18a, 6330 Cham
+Array
+5.5 Zimmer
+191 m2
+Objekttyp
+Wohnung, Dachwohnung
+Zimmer
+5.5
+Wohnfläche
+191 m2
+Etage
+Die helle Attika-Wohnung ist sehr hochwertig ausgebaut und überzeugt durch das moderne und dennoch …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adelheid Page-Strasse 2
+1'530
+CHF
+/Monat
+Gemütliche 3 Zimmerwohnung in zentraler…
+Adelheid Page-Strasse 2, 6330 Cham
+Array
+3 Zimmer
+53 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+53 m2
+- Plattenboden in Küche und Badezimmer- Zimmer Laminat- Balkon vorhanden- Einkaufsmöglichkeiten und…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zugerstrasse 114
+3'900
+CHF
+/Monat
+Furnished 1 bed room apartment
+Zugerstrasse 114, 6330 Cham
+Array
+2.5 Zimmer
+75 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+2.5
+Wohnfläche
+75 m2
+Welcome to City Stay – Here you find your new temporary or long term home!
+Our apartments are th…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eichstr. 31
+2'200
+CHF
+/Monat
+Ihr Wohntraum mit herrlicher Aussicht
+Eichstr. 31, 6330 Cham
+Array
+2.5 Zimmer
+66 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+2.5
+Wohnfläche
+66 m2
+Wir vermieten per 01.10.2021 eine topmoderne 2.5 Zimmer- Wohnung in Cham.Folgende Highlights erwart…
 Teilen
 E-Mail
 Facebook
@@ -273,7 +396,7 @@ E-Mail
 Facebook
 Whatsapp
 Luzernerstrasse 19
-2'050
+1'750
 CHF
 /Monat
 Moderne und möblierte 2-Zimmerwohnungen…
@@ -287,7 +410,7 @@ Zimmer
 2
 Wohnfläche
 38 m2
-Nur für kurze Zeit haben wir ein besonderes Angebot für Sie: Spezialpreis von CHF 2050.- pro Monat …
+Nur für kurze Zeit haben wir ein besonderes Angebot für Sie: Spezialpreis von CHF 1750.- pro Monat …
 Teilen
 E-Mail
 Facebook
@@ -348,26 +471,6 @@ Zimmer
 Wohnfläche
 50 m2
 Nur für kurze Zeit haben wir ein besonderes Angebot für Sie: Wenn Sie bis zum Ende der Woche buchen…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Zugerstrasse 114
-3'600
-CHF
-/Monat
-Business Apartment - möbliert in Cham
-Zugerstrasse 114, 6330 Cham
-Array
-2.5 Zimmer
-72 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-72 m2
-Das Objekt ONE-ONELage in See- und Berg näheONE-ONE Türme - Blickfang und moderne,…
 Teilen
 E-Mail
 Facebook

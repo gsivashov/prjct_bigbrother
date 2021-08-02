@@ -149,101 +149,303 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Giessereistrasse 18
-100
+Schlachthofstrasse 1
+88
 CHF
-/Monat
-Ihr neues Lager im Puls 5
-Giessereistrasse 18, 8005 Zürich
+Zentral gelegene Lagerräume
+Schlachthofstrasse 1, 8406 Winterthur
 Array
 Objekttyp
 Verkauf, Lager
-Es stehen folgende Lagerflächen im Puls 5 im 1. Untergeschoss zur Verfügung:
-- 7m²
-- 26m²
-- 32…
+In unserem repräsentativen Geschäftshaus an der Schlachthofstrasse 1, 8406 Winterthur, vermieten wi…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Giessereistrasse 18
-320
+Forchstrasse 333
+2'444
 CHF
 /Monat
-Ihr neues Lager im Puls 5
-Giessereistrasse 18, 8005 Zürich
+Attraktive Räumlichkeiten In unmittelba…
+Forchstrasse 333, 8008 Zürich
 Array
+95 m2
 Objekttyp
-Verkauf, Lager
-Es stehen folgende Lagerflächen im Puls 5 im 1. Untergeschoss zur Verfügung:
-- 7m²
-- 26m²
-- 32…
+Büro
+Wohnfläche
+95 m2
+Die momentan als Büro genutzte Fläche kann per 1.September 2021 oder nach Vereinbarung übernommen w…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Gärtnerstrasse 2
-100
+Räffelstrasse 24
+265
 CHF
-Lager mit Warenlift an attraktiver, zen…
-Gärtnerstrasse 2, 8400 Winterthur
+Mieten. Mieten. Mieten. TicTricTrac.ch
+Räffelstrasse 24, 8045 Zürich
 Array
 Objekttyp
-Verkauf, Lager
-Etage
-In diesem gepflegten Geschäftshaus vermieten wir im Auftrag des Eigentümers per sofort oder nach Ve…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hofstrasse 17/19
-200
-CHF
-Administrieren - Lagern - Handeln
-Hofstrasse 17/19, 8181 Höri
-Array
-Objekttyp
-Verkauf, Gewerbe
-Etage
-In diesem kleineren Gewerbehaus vermieten wir eine vielseitig nutzbare Fläche mit einladendem Zugan…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Marktgasse 7
-1'200
-CHF
-/Monat
-Büroräume und Dienstleistungsflächen in…
-Marktgasse 7, 8302 Kloten
-Array
-Objekttyp
-Verkauf, Geschäft
-An bester Lage zu vermietenMöchten Sie für Ihre Kunden im Herzen von Kloten sein?Wir suchen Ihren i…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Sägereistrasse 10
-Preis auf Anfrage
-Ausgebaute Büroflächen an Business Loca…
-Sägereistrasse 10, 8152 Glattpark (Opfikon)
-Array
-Objekttyp
-Verkauf, Gewerbe
-Etage
-In der Geschäftsliegenschaft Airportal, im pulsierenden Zürich Nord, stehen ab sofort ca. 4'928m² B…
+Büro
+Drei moderne Gebäude, drei Namen, eine super Adresse Ihr perfekter Firmensitz. Denn TIC TRIC TRAC …
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Adresse auf Anfrage
-490
+Preis auf Anfrage
+Praxisraum in Wädenswil
+Adresse auf Anfrage, 8820 Wädenswil
+Array
+1 Zimmer
+Objekttyp
+Verkauf, Praxis
+Zimmer
+1
+Wir suchen Verstärkung für unser Praxisteam und bieten einen Praxisraum zur tageweisen Miete (2-5 T…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Industriestrasse 19
+120
+CHF
+«LINK» kreativer Raum für Zwischennutzu…
+Industriestrasse 19, 8112 Otelfingen
+Array
+Objekttyp
+Retail space, Atelier
+Etage
+Nach Vereinbarung vermieten wir in Otelfingen eine Atelierfläche à 182 m² exkl. einer Podestfläche …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Erspachstrasse 22
+850
 CHF
 /Monat
-Einzelbüro, 20m2
+Helles und modernes Loft mit Badezimmer…
+Erspachstrasse 22, 8932 Mettmenstetten
+Array
+1.5 Zimmer
+Objekttyp
+Verkauf, Gewerbe
+Zimmer
+1.5
+Etage
+Das Loft verfügt über eine gedeckte Loggia, einen modernen Ausbau sowie eine Nasszelle mit Dusche.
+…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Erspachstrasse 22
+850
+CHF
+/Monat
+Helles und modernes Loft mit Badezimmer…
+Erspachstrasse 22, 8932 Mettmenstetten
+Array
+1.5 Zimmer
+Objekttyp
+Büro
+Zimmer
+1.5
+Etage
+Das Loft verfügt über eine gedeckte Loggia, einen modernen Ausbau sowie eine Nasszelle mit Dusche.
+…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Moosstrasse 21-23
+226
+CHF
+Businesflächen im Amselhof - die Amseln…
+Moosstrasse 21-23, 8134 Adliswil
+Array
+Objekttyp
+Büro
+Viel Platz für ambitionierte Geschäftsideen!Dank flexibler Layouts, möglicher Teilungen oder Zusamm…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Moosstrasse 25
+212
+CHF
+Businessflächen im Hummelhof - eine wir…
+Moosstrasse 25, 8134 Adliswil
+Array
+Objekttyp
+Verkauf, Geschäft
+Entscheiden Sie sich für einen Firmensitz, in dem Arbeits- und Lebensräume verschmelzen. Die Fächen…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zürichstrasse 52
+208
+CHF
+Höfe Adliswil - Setzen Sie Ihr Business…
+Zürichstrasse 52, 8134 Adliswil
+Array
+Objekttyp
+Büro
+Stadt trifft auf Natur - Finden Sie Ihr neues Arbeitsambiente mit urbanem Charakter!An der Zürichst…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Zürichstrasse 58
+230
+CHF
+Ihre neue Ladenfläche im hippen Quartie…
+Zürichstrasse 58, 8134 Adliswil
+Array
+Objekttyp
+Verkauf, Geschäft
+Hohe Kundenfrequenz im Libellenhof garantiert!Betriebe, die vom direkten Kundenkontakt leben, finde…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Regina-Kägi-Strasse 11
+864
+CHF
+/Monat
+Heller Büroraum, inkl. NK und Reinigung…
+Regina-Kägi-Strasse 11, 8050 Zürich
+Array
+40 m2
+Objekttyp
+Büro
+Wohnfläche
+40 m2
+Weil unser Unternehmen gewachsen ist, müssen wir diesen tollen Standort in Oerlikon leider aufgeben…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rütistrasse 30
+650
+CHF
+/Monat
+Grosszügiger Büroraum mit viel Potential
+Rütistrasse 30, 8032 Zürich
+Array
+Objekttyp
+Büro
+Per 1. Oktober 2021 oder nach Vereinbarung vermieten wir diesen grosszügigen Büroraum im Erdgeschos…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Unterer Graben 35
+Preis auf Anfrage
+COMING SOON / Ihr neues Büro im Herzen …
+Unterer Graben 35, 8400 Winterthur
+Array
+Objekttyp
+Büro
+VORANKÜNDIGUNG
+Per Herbst 2022 vermieten wir im Dachgeschoss ca. 111 m2 Bürofläche, welche sich …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'950
+CHF
+/Monat
+REPRÄSENTATIV UND PRAKTISCH
+Adresse auf Anfrage, 8805 Richterswil
+Array
+1 Zimmer
+Objekttyp
+Verkauf, Geschäft
+Zimmer
+1
+Diese Ladenfläche befindet sich im Zentrum von Richterswil. Sie eignet sich für diverse Lokalitäten…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+3'900
+CHF
+/Monat
+REPRÄSENTATIV, HOCHWERTIG UND LICHTDURC…
 Adresse auf Anfrage, 8702 Zollikon
+Array
+5 Zimmer
+Objekttyp
+Büro
+Zimmer
+5
+Hier mieten Sie die repräsentative Lage in Zollikon in 1 Minute Gehdistanz vom Bahnhof. Die 150m2 …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+1'350
+CHF
+/Monat
+TOP STANDORT FÜR LADEN UND BÜRO IM SHOP…
+Adresse auf Anfrage, 8400 Winterthur
+Array
+1 Zimmer
+Objekttyp
+Verkauf, Geschäft
+Zimmer
+1
+Laden/Büro Vorteil von Laufkundschaft im Shopping-Seen in Winterthur. Mietpreis inkl. WLAN und Nebe…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Adresse auf Anfrage
+2'700
+CHF
+/Monat
+MIT GROSSEM KUNDENSTAMM
+Adresse auf Anfrage, 8006 Zürich
+Array
+2 Zimmer
+Objekttyp
+Verkauf, Praxis
+Zimmer
+2
+Ich gehe nach Hause ins Ausland zurück, deshalb verkaufe ich diesen stilvollen vollausgestatteten S…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Forchstrasse 8a
+1'375
+CHF
+/Monat
+Schönes Büro am Kreuzplatz ab sofort zu…
+Forchstrasse 8a, 8008 Zürich
+Array
+1 Zimmer
+Objekttyp
+Büro
+Zimmer
+1
+Sehr schönes Büro zentral am Kreuzplatz zu vermieten. 5 Gehminuten zu Fuss zum Bahnhof Stadelhofen …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Loorain 31
+585
+CHF
+/Monat
+Atelier / Studio / Büroraum / Therapier…
+Im Loorain 31, 8803 Rüschlikon
 Array
 1 Zimmer
 20 m2
@@ -253,200 +455,7 @@ Zimmer
 1
 Wohnfläche
 20 m2
-Wir vermieten nach Vereinbarung ein Einzelbüro mit Fenster und abschliessbarer Türe, ohne Möbilieru…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hönggerstrasse 65
-455
-CHF
-Moderne Büroflächen direkt beim Escher-…
-Hönggerstrasse 65, 8037 Zurich
-Array
-Objekttyp
-Büro
-Etage
-Die Highlights:Eine Grossraumbürofläche mit hoher Flexibilität an toller Lage (Kreis 5, direkt an d…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grabenstrasse 4
-Preis auf Anfrage
-Modern, flexibel unterteilbar, hochwert…
-Grabenstrasse 4, 8184 Bachenbülach
-Array
-Objekttyp
-Verkauf, Gewerbe
-Etage
-Suchen Sie attraktive und moderne Mietflächen? Dann haben wir genau das Richtige für Sie.
-Direk…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grabenstrasse 4
-Preis auf Anfrage
-Jetzt Teil vom Gesundheits-, Gewerbe- u…
-Grabenstrasse 4, 8184 Bachenbülach
-Array
-Objekttyp
-Verkauf, Praxis
-Etage
-Wir vermieten attraktive Praxisflächen in Bachenbülachs beliebtem Gewerbegebiet rund um Coop, Jumbo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Badenerstrasse 18
-Preis auf Anfrage
-Ihre Büroräumlichkeiten direkt im Stadt…
-Badenerstrasse 18, 8004 Zürich
-Array
-Objekttyp
-Büro
-An bester Lage vermieten wir per Vereinbarung Ihre zukünftigen Büroräumlichkeiten.Die Mietflächen b…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Riedstrasse 6
-90
-CHF
-Willkommen im Riedhof 6: 104 m2 Lager i…
-Riedstrasse 6, 8953 Dietikon
-Array
-Objekttyp
-Verkauf, Lager
-Der Riedhof 6 befindet sich mitten im lebendigen Gebiet Silbern, umgeben von zahlreichen Fachmärkte…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Rautistrasse 75
-720
-CHF
-/Monat
-.
-Rautistrasse 75, 8048 Zürich
-Array
-Objekttyp
-Verkauf, Lager
-Wir vermieten im Freilager Zürich nach Absprache verschiedene Lagerräume von ca. 72m2 im 2. Unterge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Disporäume, Bergstrasse 22/24
-70
-CHF
-/Monat
-Lagerräume zwischen 6.5 m2 - 20.5 m2 zu…
-Disporäume, Bergstrasse 22/24, 8953 Dietikon
-Array
-Objekttyp
-Verkauf, Lager
-Wir suchen für unsere Lagerräume ab sofort oder nach Vereinbarung neue Mieter.Die Lagerräume mit La…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-5'970
-CHF
-/Monat
-TOP LAGE MIT VIEL POTENZIAL
-Adresse auf Anfrage, 8001 Zürich
-Array
-Objekttyp
-Büro
-Hier können Sie ein perfekt gelegener Coiffeur Salon übernehmen der mit hochwertigen Materialien vo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-3'250
-CHF
-/Monat
-HELLE MODERNE UND OFFENE RÄUMLICHKEITEN
-Adresse auf Anfrage, 8610 Uster
-Array
-3 Zimmer
-Objekttyp
-Büro
-Zimmer
-3
-Hier finden Sie eine perfekte Fläche, um mit Ihrem Geschäft durchzustarten. Das Objekt verfügt über…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Limmatstrasse 264
-477
-CHF
-/Monat
-Lagerfläche im Zürcher Löwenbräu-Areal
-Limmatstrasse 264, 8005 Zürich
-Array
-Objekttyp
-Verkauf, Lager
-Per sofort oder nach Vereinbarung vermieten wir einen Lagerraum im 1. Untergeschoss des Brauereihau…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Freiestrasse 119
-2'700
-CHF
-/Monat
-Kreis 7: Exklusive Büroräumlichkeiten a…
-Freiestrasse 119, 8032 Zürich
-Array
-2.5 Zimmer
-72 m2
-Objekttyp
-Büro
-Zimmer
-2.5
-Wohnfläche
-72 m2
-Etage
-Atelier-Hofhaus, ideal zum Arbeiten oder Wohnen oder kombiniert Arbeiten/Wohnen, ruhig in grüner Um…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Neuwiesenstrasse 69a
-65
-CHF
-Lagerraum mit 40m2 im 2. Untergeschoss …
-Neuwiesenstrasse 69a, 8400 Winterthur
-Array
-Objekttyp
-Verkauf, Lager
-Wir vermieten per 1. Juli 2021 für Fr. 216.65 exkl 7.7% MwSt einen Lagerraum mit 40m2 im 2. Unterge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gattikonerstrasse 127
-550
-CHF
-/Monat
-Büro / Atelier (36 m2) mit Sicht direkt…
-Gattikonerstrasse 127, 8136 Gattikon
-Array
-2 Zimmer
-36 m2
-Objekttyp
-Büro
-Zimmer
-2
-Wohnfläche
-36 m2
-An ruhiger Lage mit einmaliger Sicht direkt auf die Sihl vermieten wir per sofort oder nach Vereinb…
+Ruhige Lage, nahe Bushaltestelle und Erholungsgebiet am WaldrandDie Räumlichkeit (20 m2) in einem W…
 Teilen
 E-Mail
 Facebook

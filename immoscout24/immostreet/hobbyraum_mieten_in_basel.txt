@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/wohnung-und-haus/unterkategorie-hobbyraum/in-basel/
 Title: Hobbyraum mieten in Basel - Immostreet.ch
-Description: Hobbyraum mieten in  Basel - Immostreet.ch: ImmoStreet.ch hat 8 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Hobbyraum mieten in  Basel - Immostreet.ch: ImmoStreet.ch hat 9 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -139,7 +139,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-8 Resultate gefunden ·
+9 Resultate gefunden ·
 Hobbyraum mieten in Basel
 Preis (aufsteigend)
 Preis (absteigend)
@@ -152,33 +152,74 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Sierenzerstrasse 31
-595
+Pfirtergasse 13
+275
 CHF
 /Monat
-Hobbyraum zum vermieten
-Sierenzerstrasse 31, 4055 Basel
+Bastel-/ Lagerraum im 4054-Quartier
+Pfirtergasse 13, 4054 Basel
 Array
-1 Zimmer
 Objekttyp
 Atelier
-Zimmer
-1
-Nach Vereinbarung vermieten wir an der Sierenzerstrasse 31 in Basel diesen Hobbyraum mit nachfolgen…
+Wir vermieten per sofort oder nach Vereinbarung einen Lager-/Bastelraum mit folgendem Ausbaustandar…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-J.J. Balmer-Strasse 8
-120
+Clarastrasse 3
+290
 CHF
 /Monat
-Ihre Lager- und Bastelmöglichkeit mitte…
-J.J. Balmer-Strasse 8, 4053 Basel
+zu vermieten an zentraler Lage Hobbyrau…
+Clarastrasse 3, 4058 Basel
 Array
 Objekttyp
 Atelier
-Wir vermieten im Gundeli per 01. Juli 2021 oder nach Vereinbarung einen Lagerraum mit ca. 11m²:- L…
+Zu vermieten Hobbyraum oder Büro im UG
+Bodenbelag Keramikplatten
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Türkheimerstrasse 42
+290
+CHF
+/Monat
+Hobby-/ Büroraum im Iselin-Quartier zu …
+Türkheimerstrasse 42, 4055 Basel
+Array
+Objekttyp
+Atelier
+Dieser beheizbare Hobby-/ Büroraum befindet sich im Untergeschoss einer Liegenschaft an zentraler L…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hochbergerstrasse 138
+310
+CHF
+/Monat
+Hobbyraum zu vermieten
+Hochbergerstrasse 138, 4057 Basel
+Array
+Objekttyp
+Atelier
+Wir vermieten einen geräumigen Hobbyraum mit 31 m2.
+Die öffentlichen Verkehrsmittel sind in wenig…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Wattstrasse 16
+355
+CHF
+/Monat
+Hier endet Ihre Ateliersuche
+Wattstrasse 16, 4056 Basel
+Array
+Objekttyp
+Atelier
+Wir vermieten einen Hobby-/Schulungs-/Lagerraum mit folgender Ausstattung:- Zimmer mit Marmoleum- W…
 Teilen
 E-Mail
 Facebook
@@ -193,34 +234,6 @@ Array
 Objekttyp
 Atelier
 ...
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Julia Gauss-Strasse 16
-240
-CHF
-/Monat
-Hobbyraum im 1. UG
-Julia Gauss-Strasse 16, 4056 Basel
-Array
-Objekttyp
-Atelier
-...
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Gundeli-Park (EH 3. UG)
-155
-CHF
-/Monat
-Rustikales und praktisches Lager in der…
-Gundeli-Park (EH 3. UG), 4053 Basel
-Array
-Objekttyp
-Atelier
-Wir vermieten per sofort oder nach Vereinbarung, einen Lagerraum mit ca. 21m².- 3. UG- Lift vorhan…
 Teilen
 E-Mail
 Facebook

@@ -83,7 +83,7 @@ von2345
 bis2345
 Suche filtern
 Marke
-AlleACADRIAAGMAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBERKELEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFISKERFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNASHNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPGOPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLER TEAMROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
+AlleACADRIAAGMAIWAYSAIXAMALFA ROMEOALLARDALPINEAMCASTON MARTINAUDIAUSTINAUSTIN-HEALEYAUTOBIANCHIBENIMARBENTLEYBMWBMW ALPINABUGATTIBUGGYBUICKBÜRSTNERCADILLACCATERHAMCHEVROLETCHRYSLERCITROENCUPRADACIADAEWOODAIHATSUDAIMLERDATSUNDE TOMASODELOREANDESOTODETHLEFFSDFSKDODGEDS AUTOMOBILESEDSELEQUI-TREKEXCALIBURFERRARIFIATFORDGAZGMCHONDAHUMBAURHUMMERHYUNDAIINFINITIINNOCENTIISUZUIVECOJACJAGUARJEEPJENSENKAISERKIALADALAMBORGHINILANCIALAND ROVERLEXUSLIGIERLINCOLNLOTUSMANMASERATIMATRAMAXUSMAYBACHMAZDAMCLARENMERCEDES-BENZMERCURYMESSERSCHMITTMGMINIMITSUBISHIMORGANMORRISNISSANNSUOLDSMOBILEOPELPACKARDPANTHERPEUGEOTPIAGGIOPLYMOUTHPOLESTARPONTIACPORSCHEPUCHRELIANTRENAULTRILEYRIMORROLLS ROYCEROVERRUFSAABSAURERSEATSIMCASKODASMARTSSANG YONGSTANDARDSTEYRSTUDEBAKERSUBARUSUNBEAMSUZUKITALBOTTATATESLATOYOTATRIUMPHTVRUNIMOGVAUXHALLVENTURIVOLVOVWWEINSBERGWESTFALIAWESTFIELDWIESMANNWILLYS
 Modell
 Alle
 Version
@@ -101,7 +101,7 @@ KleinwagenLimousineKombiVanCabrioletCoupéSUVPick-UpNutzfahrzeugWohnmobil
 Getriebeart
 Automat
 Handschaltung
-Fahrzeugart
+Fahrzeugzustand
 Occasion / Gebraucht
 Neuwagen
 Vorführwagen
@@ -155,320 +155,324 @@ WIR-ANTEIL
 74 Treffer
 Suche zurücksetzen
 BMW
-M4 Coupé Competition DKG
-CHF 57'890
-ab CHF 622/Monat
-04.2017
+M4 Coupé Competition HAMANN Aut.
+CHF 67'900
+ab CHF 730/Monat
+02.2018
 Automat
-66'000 km
+38'900 km
+Benzin
+Hinterradantrieb
+schwarz
+450 PS
+AG
+Merken
+BMW
+M4 Coupé Competition HAMANN Aut.
+02.2018
+450 PS
+38'900 km
+CHF 67'900
+Merken
+ab CHF 730/Monat
+BMW
+M4 Cabriolet DKG
+CHF 56'000
+ab CHF 602/Monat
+04.2015
+Automat
+17'800 km
 Benzin
 Hinterradantrieb
 grau
-450 PS
-SG
+431 PS
+OW
 Merken
 BMW
-M4 Coupé Competition DKG
-04.2017
-450 PS
-66'000 km
-CHF 57'890
+M4 Cabriolet DKG
+04.2015
+431 PS
+17'800 km
+CHF 56'000
 Merken
-ab CHF 622/Monat
+ab CHF 602/Monat
+35-Punkte-Check
+Kostenlose Probefahrt
+Garantieversprechen
+Faires Eintauschangebot
 BMW
 M4 Coupé Competition
-CHF 75'900
-ab CHF 816/Monat
-03.2020
+CHF 109'300
+ab CHF 1174/Monat
+03.2021
 Automat
-18'000 km
+3'000 km
 Benzin
 Hinterradantrieb
-rot
-450 PS
+weiss
+510 PS
 BL
 Merken
 BMW
 M4 Coupé Competition
-03.2020
-450 PS
-18'000 km
-CHF 75'900
+03.2021
+510 PS
+3'000 km
+CHF 109'300
 Merken
-ab CHF 816/Monat
+ab CHF 1174/Monat
 BMW
-M4 Coupé Competition
-CHF 125'200
-ab CHF 1345/Monat
+M4 Cabrio M Competition
+CHF 112'000
+ab CHF 1203/Monat
 -
 Automat
 1 km
-Benzin
-Hinterradantrieb
-sonstiges
-510 PS
-LU
-Merken
-BMW
-M4 Coupé Competition
--
-510 PS
-1 km
-CHF 125'200
-Merken
-ab CHF 1345/Monat
-BMW
-M4 Cabriolet DKG
-CHF 49'000
-ab CHF 527/Monat
-07.2015
-Automat
-66'000 km
-Benzin
-Hinterradantrieb
-silber
-431 PS
-ZG
-Merken
-BMW
-M4 Cabriolet DKG
-07.2015
-431 PS
-66'000 km
-CHF 49'000
-Merken
-ab CHF 527/Monat
-BMW
-M4 Coupé
-CHF 42'900
-ab CHF 461/Monat
-06.2015
-Automat
-126'000 km
-Benzin
-Hinterradantrieb
-blau
-431 PS
-FR
-Merken
-BMW
-M4 Coupé
-06.2015
-431 PS
-126'000 km
-CHF 42'900
-Merken
-ab CHF 461/Monat
-BMW
-M4 Coupé
-CHF 45'000
-ab CHF 484/Monat
-05.2016
-Handschaltung
-53'600 km
-Benzin
-Hinterradantrieb
-weiss
-431 PS
-JU
-Merken
-BMW
-M4 Coupé
-05.2016
-431 PS
-53'600 km
-CHF 45'000
-Merken
-ab CHF 484/Monat
-BMW
-M4 Cabriolet Competition DKG
-CHF 93'900
-ab CHF 1009/Monat
-02.2020
-Automat
-400 km
-Benzin
-Hinterradantrieb
-violett
-450 PS
-SG
-Merken
-BMW
-M4 Cabriolet Competition DKG
-02.2020
-450 PS
-400 km
-CHF 93'900
-Merken
-ab CHF 1009/Monat
-BMW
-M4 Coupé CS
-CHF 79'900
-ab CHF 859/Monat
-01.2018
-Automat
-45'000 km
-Benzin
-Hinterradantrieb
-sonstiges
-460 PS
-BE
-Merken
-BMW
-M4 Coupé CS
-01.2018
-460 PS
-45'000 km
-CHF 79'900
-Merken
-ab CHF 859/Monat
-BMW
-M4 Coupé Competition
-CHF 130'600
-ab CHF 1403/Monat
--
-Automat
-10 km
-Benzin
-Hinterradantrieb
-grün
-510 PS
-VS
-Merken
-BMW
-M4 Coupé Competition
--
-510 PS
-10 km
-CHF 130'600
-Merken
-ab CHF 1403/Monat
-BMW
-M4 Coupé Competition DKG
-CHF 89'800
-ab CHF 965/Monat
-09.2020
-Automat
-5'500 km
-Benzin
-Hinterradantrieb
-orange
-450 PS
-SG
-Merken
-BMW
-M4 Coupé Competition DKG
-09.2020
-450 PS
-5'500 km
-CHF 89'800
-Merken
-ab CHF 965/Monat
-BMW
-M4 Coupé Competition
-CHF 125'999
-ab CHF 1354/Monat
--
-Automat
-21 km
-Benzin
-Hinterradantrieb
-grau
-510 PS
-FL
-Merken
-BMW
-M4 Coupé Competition
--
-510 PS
-21 km
-CHF 125'999
-Merken
-ab CHF 1354/Monat
-BMW
-M4 Cabriolet DKG
-CHF 43'800
-ab CHF 471/Monat
-03.2015
-Automat
-113'000 km
 Benzin
 Hinterradantrieb
 schwarz
+450 PS
+BL
+Merken
+BMW
+M4 Cabrio M Competition
+-
+450 PS
+1 km
+CHF 112'000
+Merken
+ab CHF 1203/Monat
+BMW
+M4 Coupé
+CHF 59'600
+ab CHF 641/Monat
+05.2018
+Automat
+76'000 km
+Benzin
+Hinterradantrieb
+blau
 431 PS
+ZH
+Merken
+BMW
+M4 Coupé
+05.2018
+431 PS
+76'000 km
+CHF 59'600
+Merken
+ab CHF 641/Monat
+BMW
+M4 Coupé DKG
+CHF 53'900
+ab CHF 579/Monat
+09.2015
+Automat
+67'639 km
+Benzin
+Hinterradantrieb
+blau
+431 PS
+ZH
+Merken
+BMW
+M4 Coupé DKG
+09.2015
+431 PS
+67'639 km
+CHF 53'900
+Merken
+ab CHF 579/Monat
+BMW
+M4 Coupé Competition
+CHF 129'900
+ab CHF 1395/Monat
+-
+Automat
+10 km
+Benzin
+Hinterradantrieb
+schwarz
+510 PS
+BE
+Merken
+BMW
+M4 Coupé Competition
+-
+510 PS
+10 km
+CHF 129'900
+Merken
+ab CHF 1395/Monat
+BMW
+M4 Coupé
+CHF 60'000
+ab CHF 645/Monat
+05.2014
+Automat
+69'000 km
+Benzin
+Hinterradantrieb
+gelb
+460 PS
+VS
+Merken
+BMW
+M4 Coupé
+05.2014
+460 PS
+69'000 km
+CHF 60'000
+Merken
+ab CHF 645/Monat
+BMW
+M4 Cabriolet Competition DKG
+CHF 79'900
+ab CHF 859/Monat
+05.2018
+Automat
+19'000 km
+Benzin
+Hinterradantrieb
+gelb
+450 PS
 SH
 Merken
 BMW
-M4 Cabriolet DKG
-03.2015
-431 PS
-113'000 km
-CHF 43'800
+M4 Cabriolet Competition DKG
+05.2018
+450 PS
+19'000 km
+CHF 79'900
 Merken
-ab CHF 471/Monat
+ab CHF 859/Monat
+BMW
+M4 Cabrio Competition
+CHF 62'500
+ab CHF 672/Monat
+-
+Automat
+45'500 km
+Benzin
+Hinterradantrieb
+schwarz
+450 PS
+BL
+Merken
+BMW
+M4 Cabrio Competition
+-
+450 PS
+45'500 km
+CHF 62'500
+Merken
+ab CHF 672/Monat
+BMW
+M4 "UNIKAT" Coupé DKG
+CHF 89'000
+ab CHF 1048/Monat
+06.2019
+Automat
+33'200 km
+Benzin
+Hinterradantrieb
+weiss
+450 PS
+AG
+Merken
+BMW
+M4 "UNIKAT" Coupé DKG
+06.2019
+450 PS
+33'200 km
+CHF 89'000
+Merken
+ab CHF 1048/Monat
+BMW
+M4 Cabriolet DKG UNIKAT *Carbon Aussen und Innen*
+CHF 57'900
+ab CHF 622/Monat
+04.2016
+Automat
+50'000 km
+Benzin
+Hinterradantrieb
+blau
+431 PS
+AG
+Merken
+BMW
+M4 Cabriolet DKG UNIKAT *Carbon A...
+04.2016
+431 PS
+50'000 km
+CHF 57'900
+Merken
+ab CHF 622/Monat
+BMW
+M4 Coupé CS DKG
+CHF 86'800
+ab CHF 933/Monat
+03.2019
+Automat
+22'000 km
+Benzin
+Hinterradantrieb
+grau
+460 PS
+SG
+Merken
+BMW
+M4 Coupé CS DKG
+03.2019
+460 PS
+22'000 km
+CHF 86'800
+Merken
+ab CHF 933/Monat
 BMW
 M4 Coupé Competition
-CHF 77'900
-ab CHF 837/Monat
-06.2020
+CHF 128'200
+ab CHF 1377/Monat
+-
 Automat
-5'900 km
+10 km
 Benzin
 Hinterradantrieb
 sonstiges
-450 PS
-SO
+510 PS
+BE
 Merken
 BMW
 M4 Coupé Competition
-06.2020
-450 PS
-5'900 km
-CHF 77'900
+-
+510 PS
+10 km
+CHF 128'200
 Merken
-ab CHF 837/Monat
+ab CHF 1377/Monat
 BMW
-M4 Coupé Competition DKG
-CHF 73'988
-ab CHF 871/Monat
-04.2019
+M4 Coupé Competition
+CHF 74'900
+ab CHF 805/Monat
+10.2019
 Automat
-23'447 km
+14'600 km
 Benzin
 Hinterradantrieb
 blau
 450 PS
-LU
-Merken
-BMW
-M4 Coupé Competition DKG
-04.2019
-450 PS
-23'447 km
-CHF 73'988
-Merken
-ab CHF 871/Monat
-BMW
-M4 Coupé Competition
-CHF 72'700
-ab CHF 781/Monat
-06.2020
-Automat
-20'500 km
-Benzin
-Hinterradantrieb
-blau
-450 PS
-TG
+BE
 Merken
 BMW
 M4 Coupé Competition
-06.2020
+10.2019
 450 PS
-20'500 km
-CHF 72'700
+14'600 km
+CHF 74'900
 Merken
-ab CHF 781/Monat
+ab CHF 805/Monat
 1
 1
 2

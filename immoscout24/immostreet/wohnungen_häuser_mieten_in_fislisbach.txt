@@ -1,6 +1,6 @@
 URL: https://www.immostreet.ch/de/mieten/in-fislisbach/
 Title: Wohnungen & Häuser mieten in Fislisbach - Immostreet.ch
-Description: Wohnungen & Häuser mieten in  Fislisbach - Immostreet.ch: ImmoStreet.ch hat 48 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
+Description: Wohnungen & Häuser mieten in  Fislisbach - Immostreet.ch: ImmoStreet.ch hat 47 Angebote und hilft Ihnen das beste Angebot in  und Umgebung zu finden.
 
 Ihr Browser ist veraltet!
 Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt dazustellen. Den Browser jetzt aktualisieren
@@ -109,7 +109,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-48 Resultate gefunden ·
+47 Resultate gefunden ·
 Wohnungen & Häuser mieten in Fislisbach
 Preis (aufsteigend)
 Preis (absteigend)
@@ -122,79 +122,149 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Bollstrasse 2
-1'580
+Bollweg 1
+1'610
 CHF
 /Monat
-Tolle Maisonettewohnung
-Bollstrasse 2, 5442 Fislisbach
+Ruhige 3.5-Zimmer-Maisonette-Wohnung
+Bollweg 1, 5442 Fislisbach
 Array
-4 Zimmer
-93 m2
+3.5 Zimmer
 Objekttyp
-Wohnung, Attikawohnung
+Wohnung, Duplex, Maisonette
 Zimmer
-4
-Wohnfläche
-93 m2
-Wir vermieten per sofort heimelige Dach-Maisonettewohnung an ruhiger Lage. Die Wohnung befindet sic…
+3.5
+Etage
+Wir vermieten diese attraktive 3.5-Zimmer-Maisonette-Wohnung im 1. OG eines Zwei-Familienhauses.
+…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Moosäckerstrasse 10
-1'590
+Badenerstrasse 12
+2'000
 CHF
 /Monat
-Wohnen im Grünen
-Moosäckerstrasse 10, 5442 Fislisbach
+GROSSZÜGIGER GEWERBERAUM IM HERZEN VON …
+Badenerstrasse 12, 5442 Fislisbach
+Array
+Objekttyp
+Büro
+An zentralster Lage vermieten wir einen Gewerberaum mit Fensterfront zur Hauptstrasse und Nebenräum…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Badenerstrasse 12
+2'000
+CHF
+/Monat
+GROSSZÜGIGER GEWERBERAUM IM HERZEN VON …
+Badenerstrasse 12, 5442 Fislisbach
+Array
+Objekttyp
+Verkauf, Geschäft
+An zentralster Lage vermieten wir einen Gewerberaum mit Fensterfront zur Hauptstrasse und Nebenräum…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Leemattenstr. 1
+1'720
+CHF
+/Monat
+Zentrum Fislisbach
+Leemattenstr. 1, 5442 Fislisbach
 Array
 3.5 Zimmer
-83 m2
+100 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-83 m2
-Die Wohnung verfügt über: - Grosszügige, helle Räume- Neue offene Küche (hellgraue Fronten) - Grani…
+100 m2
+An zentraler ruhiger Lage mitten im Dorfkern von Fislisbach vermietenwir per 1.10.…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Schönbühlstrasse 23
-1'300
+Eschenweg
+1'885
 CHF
 /Monat
-Wohntraum für Familie
-Schönbühlstrasse 23, 5442 Fislisbach
+Schönes Wohnen im Zentrum.
+Eschenweg, 5442 Fislisbach
 Array
-3 Zimmer
-71 m2
+3.5 Zimmer
+85 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3
+3.5
 Wohnfläche
-71 m2
-Wir vermieten per 01.10.2021 diese wunderschöne und moderne 3.0-Zimmerwohnung an ruhiger Lage.Diese…
+85 m2
+Seniorenwohnungen - Wohnen mit SOVIS-Living - der Extraservice zu Ihrer WohnungIn der schön gelegen…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Mellingerstrasse
-1'250
+Steinäckerstr. 16b
+1'685
 CHF
 /Monat
-2,5 Zi-Wohnung, zentral gelegen mit eig…
-Mellingerstrasse, 5442 Fislisbach
+Familienfreundlich wohnen an ruhiger La…
+Steinäckerstr. 16b, 5442 Fislisbach
+Array
+4.5 Zimmer
+102 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+102 m2
+Es erwartet Sie eine helle Wohnung in einem gepflegten Mehrfamilienhaus. In der Nähe befinden sich …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eschenweg
+1'970
+CHF
+/Monat
+Schönes Wohnen im Zentrum. Hier schlag …
+Eschenweg, 5442 Fislisbach
+Array
+3.5 Zimmer
+85 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+85 m2
+Wohnen mit SOVIS-Living - der Extraservice zu Ihrer WohnungIn der schön gelegenen Gemeinde Fislisba…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Eschenweg
+1'535
+CHF
+/Monat
+Schönes Wohnen im Zentrum. Hier schlag …
+Eschenweg, 5442 Fislisbach
 Array
 2.5 Zimmer
+66 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
-Die Liegenschaft "Mellingerstrasse 1" liegt in der Nähe vom Dorfzentrum mit diversen Einkaufsmöglic…
+Wohnfläche
+66 m2
+Seniorenwohnungen - Wohnen mit SOVIS-Living - der Extraservice zu Ihrer WohnungIn der schön gelegen…
 Teilen
 E-Mail
 Facebook
@@ -214,265 +284,220 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-Badenerstrasse 12
-2'200
+Steinäckerstrasse 7a
+1'580
 CHF
 /Monat
-GROSSZÜGIGER GEWERBERAUM IM HERZEN VON …
-Badenerstrasse 12, 5442 Fislisbach
-Array
-Objekttyp
-Büro
-An zentralster Lage vermieten wir einen Gewerberaum mit Fensterfront zur Hauptstrasse und Nebenräum…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Büntenstrasse 3
-1'420
-CHF
-/Monat
-Grosszügige 3.5 Zimmerwohnung an ideal …
-Büntenstrasse 3, 5442 Fislisbach
+Zentrale Wohnung in Familienquartier
+Steinäckerstrasse 7a, 5442 Fislisbach
 Array
 3.5 Zimmer
-71 m2
+70 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-71 m2
-Per sofort oder nach Vereinbarung vermieten wir diese attraktive 3.5-Zimmerwohnung in Fislisbach. D…
+70 m2
+In ruhigem und familienfreundlichen Aussenquartier in Fislisbach wird eine schöne 3.5 Zimmer Dachwo…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Badenerstrasse 12
-2'200
+Grabenäckerstrasse 8B
+1'650
 CHF
 /Monat
-GROSSZÜGIGER GEWERBERAUM IM HERZEN VON …
-Badenerstrasse 12, 5442 Fislisbach
-Array
-Objekttyp
-Verkauf, Geschäft
-An zentralster Lage vermieten wir einen Gewerberaum mit Fensterfront zur Hauptstrasse und Nebenräum…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Büntenstrasse Fislisbach AG
-1'590
-CHF
-/Monat
-2 1/2 Zimmer in Fislisbach
-Büntenstrasse Fislisbach AG, 5442 Fislisbach
+Erstvermietung 2 ½ Einliegerwohnung - E…
+Grabenäckerstrasse 8B, 5442 Fislisbach
 Array
 2.5 Zimmer
-57 m2
+82 m2
 Objekttyp
-Wohnung, Flach
+Wohnung, Bachelor flat
 Zimmer
 2.5
 Wohnfläche
-57 m2
-Nachmieter gesucht für und moderne Wohnung mit grossem Balkon im 2. Stock- Kellerabteil- Eigener Wa…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Schönbühlstrasse 11
-1'162
-CHF
-/Monat
-Helle und zentral gelegene 3.5-Zimmerwo…
-Schönbühlstrasse 11, 5442 Fislisbach
-Array
-3.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Schöne Wohnung an zentraler Lage, Balkon, moderne Küche Garage zusätzlich Fr. 90.--
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Badenerstrasse 2
-2'625
-CHF
-/Monat
-Lichtdurchflutetes Ladenlokal im Zentru…
-Badenerstrasse 2, 5442 Fislisbach
-Array
-Objekttyp
-Verkauf, Geschäft
+82 m2
 Etage
-An bester Passantenlage in Fislisbach vermieten wir diese attraktive Verkaufsfläche für Dorfladen, …
+Erstvermietung: Hochwertige 2 ½ EinliegerwohnungEichenparkett im Wohnbereich, Platten Du/WC…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Moosäckerstrasse 10
-50
+Büntenstrasse, 5
+1'265
 CHF
 /Monat
-Motorradabstellplatz in der Nähe von Ba…
-Moosäckerstrasse 10, 5442 Fislisbach
-Array
-Objekttyp
-Covered parking place bike, Covered parking place bike
-In der Tiefgarage an der Moosäckerstrasse 10-14 vermieten wir Motorradabstellplätze zum Preis von 5…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Büntenstrasse 2
-1'339
-CHF
-/Monat
-Ruhig und gepflegt!
-Büntenstrasse 2, 5442 Fislisbach
-Array
-3.5 Zimmer
-70 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-70 m2
-Wir vermieten per 1. Juli 2021 eine helle 3.5-Zimmerwohnung im 3. Stock an der Büntenstrasse 2 in F…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Adresse auf Anfrage
-1'250
-CHF
-/Monat
-NACHMIETER gesucht
-Adresse auf Anfrage, 5442 Fislisbach
-Array
-2.5 Zimmer
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Zu vermieten per 01.08.2021 Hübsche 2.5 Zi Wohnung im 1.OG mit BalkonParkplatz oder evt. Garagenpla…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Erlenstrasse 2
-1'550
-CHF
-/Monat
-EIn Bijou in ruhigem Wohnquartier
-Erlenstrasse 2, 5442 Fislisbach
-Array
-4.5 Zimmer
-72 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-4.5
-Wohnfläche
-72 m2
-Ab 01.07.2021 vermieten wir an ruhiger Wohnlage eine schöne 4.5-Zimmerwohnung im 2. OG mit Parkettb…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ahornstrasse 4
-1'410
-CHF
-/Monat
-Wunderschöne, lichtdurchflutete Balkonw…
-Ahornstrasse 4, 5442 Fislisbach
+Gepflegte und günstige Wohnung in Fisli…
+Büntenstrasse, 5, 5442 Fislisbach
 Array
 3 Zimmer
-72 m2
+71 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3
 Wohnfläche
-72 m2
-Dürfen wir vorstellen: das perfekte Zuhause!An der Ahornstrasse 4 in Fislisbach vermieten wir per 1…
+71 m2
+Die preisgünstige 3-Zimmer-Wohnung an der Büntenstrasse 5 in Fislisbach befindet sich an ruhiger un…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Dorfstrasse 18c
-1'720
+Niederrohrdorferstrasse 8
+2'640
 CHF
 /Monat
-Wohn(t)raum in Fislisbach!
-Dorfstrasse 18c, 5442 Fislisbach
-Array
-2.5 Zimmer
-69 m2
-Objekttyp
-Wohnung, Attikawohnung
-Zimmer
-2.5
-Wohnfläche
-69 m2
-Die Überbauung verteilt sich auf drei Mehrfamilienhäuser mit insgesamt 40 Wohnungen und befindet si…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Ahornstrasse 11
-1'840
-CHF
-/Monat
-Stressfrei zügeln? Wir schenken Ihnen d…
-Ahornstrasse 11, 5442 Fislisbach
+Attikawohnung mit Wintergarten und mit …
+Niederrohrdorferstrasse 8, 5442 Fislisbach
 Array
 5.5 Zimmer
-95 m2
+140 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 5.5
 Wohnfläche
-95 m2
-Per 01.07.2021 vermieten wir diese schöne und charmante 5.5-Zimmerwohnung im 3. Stock. Die Wohnung …
+140 m2
+In Fislisbach suchen wir für eine schöne und sehr grosszügige Attikawohnung neue Bewohner.
+Die L…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Erlenstrasse 2
-1'250
+Schönbühlstrasse 21
+1'390
 CHF
 /Monat
-EIn Bijou in ruhigem Wohnquartier
-Erlenstrasse 2, 5442 Fislisbach
+Wohnen an ruhiger und doch zentraler La…
+Schönbühlstrasse 21, 5442 Fislisbach
 Array
-2.5 Zimmer
+3 Zimmer
+65 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2.5
-Ab 1. Juli 2021 vermieten wir an ruhiger Wohnlage eine schöne 2.5-Zimmerwohnung im EG mit Parkettbö…
+3
+Wohnfläche
+65 m2
+In einem gepflegten Mehrfamilienhaus vermieten wir per 1. September 2021 diese schöne 3-Zimmerwohnu…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Badenerstrasse 13
-900
+Leemattenweg 18
+1'460
 CHF
 /Monat
-Büroräume zu vermieten
-Badenerstrasse 13, 5442 Fislisbach
+Helle Wohnung gesucht?
+Leemattenweg 18, 5442 Fislisbach
+Array
+3.5 Zimmer
+68 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3.5
+Wohnfläche
+68 m2
+Die Überbauung befindet sich im Herzen von Fislisbach. Einkaufmöglichkeiten, Schulen und die Bushal…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Steinäckerstr. 16a
+1'580
+CHF
+/Monat
+Wohnkomfort für Geniesser
+Steinäckerstr. 16a, 5442 Fislisbach
+Array
+3 Zimmer
+84 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+84 m2
+Es erwartet Sie eine helle Wohnung in einem gepflegten Mehrfamilienhaus. In der Nähe befinden sich …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Fislisbach
+1'150
+CHF
+/Monat
+1.5 zimmer wohnung
+Fislisbach, 5442 Fislisbach
+Array
+1.5 Zimmer
+30 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1.5
+Wohnfläche
+30 m2
+Nachmieter gesucht!Fislisbach Nähe Baden und Zürich.Schöne sonnige möblierte 1,5 Zimmer - Wohnung …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Steinäckerstrasse, 17
+2'185
+CHF
+/Monat
+4.5 Zimmerwohnung in Fislisbach
+Steinäckerstrasse, 17, 5442 Fislisbach
+Array
+4.5 Zimmer
+140 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+140 m2
+Herausragende 4.5-Zimmer-Maisonette-Wohnung zu vermieten per 1. Oktober 2021 Die Wohnung befindet s…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Leemattenstrasse 3
+172
+CHF
+/Monat
+Lagerraum 8m2. Unkompliziert, modern & …
+Leemattenstrasse 3, 5442 Fislisbach
 Array
 Objekttyp
-Büro
-Mitten im Herzen von Fislisbach haben wir Büroräume zu vermieten.
-Folgendes hat dieses Objekt zu…
+Verkauf, Lager
+Stauraum macht Platz – und zwar bei dir zu Hause. Miete ganz unkompliziert und bequem deinen Lagerr…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+nahe Steinäckerstrasse
+1'150
+CHF
+/Monat
+schöne möblierte Wohnung
+nahe Steinäckerstrasse, 5442 Fislisbach
+Array
+1.5 Zimmer
+35 m2
+Objekttyp
+Wohnung, Möblierte Wohnung
+Zimmer
+1.5
+Wohnfläche
+35 m2
+genauere Details zur Wohnung:
+• Küche mit Glaskeramik und Geschirrspülmaschine, Mikrowelle
+• Ba…
 Teilen
 E-Mail
 Facebook

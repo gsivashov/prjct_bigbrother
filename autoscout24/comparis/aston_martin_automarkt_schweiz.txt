@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marke/aston-martin
 Title: Aston Martin Modelle - Preise vergleichen mit comparis.ch
 Description: Alle Aston Martin Modelle der grössten Schweizer Auto-Portale in der Übersicht. Vergleichen Sie mit Comparis die Preise und finden Sie Ihr Traumauto.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -146,15 +144,15 @@ Alle Automarken
 Aston Martin
 Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseite zu gewährleisten.
 Aston Martin Automarkt Schweiz
-280 Occasionen
-28 Neuwagen
-13 Vorführwagen
+264 Occasionen
+25 Neuwagen
+18 Vorführwagen
 Aston Martin Lagonda - 0 Inserate im Automarkt - Ab CHF 0
-Aston Martin Virage - 11 Inserate im Automarkt - Ab CHF 68'800
-Aston Martin DB 9 - 36 Inserate im Automarkt - Ab CHF 39'900
-Aston Martin DB 7 - 22 Inserate im Automarkt - Ab CHF 25'900
-Aston Martin Rapide - 20 Inserate im Automarkt - Ab CHF 39'900
-Aston Martin Cygnet - 5 Inserate im Automarkt - Ab CHF 35'007
+Aston Martin Virage - 10 Inserate im Automarkt - Ab CHF 59'900
+Aston Martin DB 9 - 34 Inserate im Automarkt - Ab CHF 39'900
+Aston Martin DB 7 - 19 Inserate im Automarkt - Ab CHF 23'900
+Aston Martin Rapide - 15 Inserate im Automarkt - Ab CHF 49'900
+Aston Martin Cygnet - 5 Inserate im Automarkt - Ab CHF 33'007
 Mein Name ist Martin. Aston Martin.
 Mondäner Weggefährte von James Bond und Luxus-Autotraum nicht nur für Actionfans: Der DB10 aus «Spectre», kürzlich für umgerechnet drei Millionen Franken versteigert, muss wohl Traum bleiben – aber der britische Sportwagenhersteller baut zum Glück auch Serienmodelle.
 Wer sich einen Aston Martin vors Haus stellt, hebt sich ab: 2016 wurden in der Schweiz gerade mal 127 Neuwagen verkauft; dabei teilten sich Vantage, Vanquish und Rapide den Grossteil der Käufer unter sich auf.
@@ -162,172 +160,253 @@ Preisgekrönt von «auto motor und sport»
 Derweil wurde – wieder einmal – ein renommierter Preis eingeheimst: Der DB11 darf sich «autonis – Beste Design-Neuheit 2016» nennen. Und weil ein Aston Martin nicht nur schön anzusehen ist, sondern ausserdem Handwerkskunst, Technologie und Komfort auf höchstem Niveau bietet, darf er auch was kosten:
 Ab 125'200.00 CHF steigt man in den V8 Vantage S ein. Der Vanquish Coupé Touchtronic wechselt ab 267'900.00 CHF den Besitzer. Zum ganz persönlichen Luxusauto mutiert er aber erst mit den Extras: Schaltwippen für 700.00 CHF, Carbon-Dach für 3'000.00 CH, schicke Lederausstattung für 10'000.00 CHF. Noch was Hübsches geht immer.
 Aston Martin Modelle
-Aston Martin DBS - 41 Inserate anzeigen
-Aston Martin DBS Coupé 6.0 V12 CH-Fahrzeug
+Aston Martin DBS - 40 Inserate anzeigen
+Aston Martin DBS Coupé Touchtronic 2
 Occasion
-03.2011
-52'555 km
-517 PS
+08.2009
+42'222 km
+524 PS
 Mehr
 5.0
 CHF
-99'007
-16.04.2021
-ASTON MARTIN DBS Coupé 6.0 V12 CH-Fahrzeug
-Occasion
-03.2011
-52'555 km
-516 PS
-Mehr
-5.0
-CHF
-99'007
-07.04.2021
+94'800
+28.07.2021
 ASTON MARTIN DBS Coupé Touchtronic 2
 Occasion
 08.2009
-20'000 km
+42'222 km
 517 PS
 Mehr
 5.0
 CHF
-94'900
-21.03.2021
-Aston Martin Virage - 11 Inserate anzeigen
+94'800
+21.07.2021
+ASTON MARTIN DBS Coupé Touchtronic 2
+Occasion
+06.2009
+34'000 km
+517 PS
+Mehr
+5.0
+CHF
+99'800
+19.07.2021
+Aston Martin V12 Vanquish - 34 Inserate anzeigen
+ASTON MARTIN Vanquish V12 5.9-48 Touchtronic 2
+Occasion
+12.2012
+25'800 km
+574 PS
+Mehr
+5.0
+CHF
+119'000
+27.07.2021
+ASTON MARTIN V12 Vanquish 6.0 CH-Fahrzeug
+Occasion
+09.2013
+27'399 km
+574 PS
+Mehr
+5.0
+CHF
+137'007
+15.07.2021
+ASTON MARTIN Vanquish V12 S 5.9-48
+Occasion
+08.2006
+29'700 km
+528 PS
+Mehr
+5.0
+CHF
+120'000
+28.06.2021
+Aston Martin Virage - 10 Inserate anzeigen
 ASTON MARTIN Virage Coupé V12 5.9-48 Touchtronic2
 Occasion
-07.2012
-11'600 km
+11.2012
+35'000 km
 497 PS
 Mehr
 5.0
 CHF
-89'700
-01.02.2021
-Aston Martin V8 Vantage - 64 Inserate anzeigen
-ASTON MARTIN V8 Vantage 4.7 S Sportshift
+79'895
+03.06.2021
+ASTON MARTIN Virage Coupé V12 5.9-48 Touchtronic2
 Occasion
-04.2017
-27'500 km
-437 PS
+01.2012
+35'000 km
+497 PS
 Mehr
 5.0
 CHF
-76'899
-04.06.2021
-Aston Martin V8/V12 Vantage S V8 Vantage 4.7 S Sportshift SP10
+79'900
+22.08.2020
+ASTON MARTIN Virage Coupé V12 5.9-48 Touchtronic2
 Occasion
-01.2014
-13'800 km
-436 PS
+01.2012
+13'000 km
+497 PS
 Mehr
 5.0
 CHF
-69'999
-08.05.2021
-ASTON MARTIN V8 Vantage Coupé 4.7 S Sportshift
+99'900
+10.05.2017
+Aston Martin V8 Vantage - 59 Inserate anzeigen
+ASTON MARTIN V8 Vantage 4.3 Sportshift
 Occasion
-03.2017
-19'700 km
-436 PS
+01.2008
+37'000 km
+385 PS
 Mehr
 5.0
 CHF
-76'900
-13.04.2021
-Aston Martin DB 7 - 22 Inserate anzeigen
-ASTON MARTIN DB7
+52'900
+28.07.2021
+ASTON MARTIN V8 Vantage 4.7 Sportshift
 Occasion
-05.2000
-109'500 km
-332 PS
+03.2011
+33'000 km
+426 PS
 Mehr
 5.0
 CHF
-25'900
-25.12.2020
+62'900
+24.07.2021
+ASTON MARTIN V8 Vantage 4.3 Sportshift
+Occasion
+05.2008
+27'000 km
+385 PS
+Mehr
+5.5
+CHF
+49'800
+19.07.2021
+Aston Martin DB 9 - 34 Inserate anzeigen
+ASTON MARTIN DB9 Volante 5.9 V12
+Occasion
+11.2007
+65'000 km
+455 PS
+Mehr
+5.0
+CHF
+59'000
+28.07.2021
+ASTON MARTIN DB9 VOLANTE
+Occasion
+07.2005
+6'700 km
+Mehr
+6.0
+CHF
+60'000
+22.07.2021
+ASTON MARTIN DB9 Touchtronic 2
+Occasion
+05.2008
+26'000 km
+457 PS
+Mehr
+5.0
+CHF
+89'000
+17.07.2021
+Aston Martin DB 7 - 19 Inserate anzeigen
 ASTON MARTIN DB7 Vantage
 Occasion
-10.2002
-83'500 km
-416 PS
-Mehr
-5.5
-CHF
-32'000
-16.10.2020
-ASTON MARTIN DB7 Vantage
-Occasion
-10.2002
-66'000 km
+03.2002
+49'000 km
 416 PS
 Mehr
 5.0
 CHF
-37'500
-06.04.2020
-Aston Martin Rapide - 20 Inserate anzeigen
-Aston Martin Rapide 5.9 V12 Touchtronic 2
+45'900
+16.05.2021
+ASTON MARTIN DB7 Vantage
 Occasion
-08.2011
-162'000 km
-476 PS
+07.2001
+33'000 km
+416 PS
 Mehr
-5.5
+5.0
 CHF
-39'900
-30.05.2021
-ASTON MARTIN Rapide 5.9 V12 Touchtronic 2
+54'800
+15.04.2021
+ASTON MARTIN DB7 Vantage
 Occasion
-08.2011
-162'000 km
-476 PS
+01.2001
+45'800 km
+416 PS
 Mehr
-5.5
+5.0
 CHF
-39'900
-21.05.2021
+47'500
+21.07.2020
+Aston Martin Rapide - 15 Inserate anzeigen
 ASTON MARTIN Rapide S 5.9 V12 Touchtronic 3
 Occasion
 07.2016
-27'000 km
+28'000 km
+560 PS
+Mehr
+5.5
+CHF
+79'900
+14.07.2021
+ASTON MARTIN Rapide 5.9 V12 Touchtronic 2
+Occasion
+06.2011
+85'000 km
+476 PS
+Mehr
+5.0
+CHF
+49'900
+02.07.2021
+ASTON MARTIN Rapide S 5.9 V12 Touchtronic 3
+Occasion
+10.2014
+15'400 km
 560 PS
 Mehr
 5.0
 CHF
-84'900
-23.01.2021
-Aston Martin DB 11 - 30 Inserate anzeigen
-ASTON MARTIN DB11 V8 Touchtronic 3
+104'900
+23.06.2021
+Aston Martin DB 11 - 32 Inserate anzeigen
+ASTON MARTIN DB11 Coupé 5.2 V12 Bi-Turbo
 Occasion
-08.2019
-13'500 km
-510 PS
-Mehr
-5.0
-CHF
-141'890
-19.05.2021
-ASTON MARTIN DB11 V12 AMR (Coupé)
-Occasion
-12.2019
-300 km
+09.2019
+5'600 km
 639 PS
 Mehr
 5.0
 CHF
-170'000
-17.03.2021
-ASTON MARTIN DB11 V8 Touchtronic 3
-Vorführwagen
-02.2021
+146'500
+20.07.2021
+Aston Martin DB11 V12
+Occasion
+07.2020
 1'200 km
-510 PS
+639 PS
 Mehr
 5.0
 CHF
-179'900
-14.12.2019
+159'900
+13.07.2021
+ASTON MARTIN DB11 V12
+Occasion
+07.2020
+1'200 km
+639 PS
+Mehr
+5.0
+CHF
+159'900
+12.07.2021
 comparis.ch
 Über Comparis
 Medien

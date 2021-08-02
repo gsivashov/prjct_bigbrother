@@ -1,8 +1,7 @@
 URL: https://www.comparis.ch/carfinder/marktplatz/hyundai/nexo
 Title: Hyundai Nexo – Preise vergleichen mit Comparis
-Description: Finden Sie unter 16 Hyundai Nexo Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
+Description: Finden Sie unter 13 Hyundai Nexo Inseraten das beste Angebot. Auto kaufen zum besten Preis - mit dem Comparis-Automarkt.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -595,51 +593,51 @@ Suchabo speichern
 Filter
 Das könnte Sie interessieren
 Hyundai
-(4'109)
-Hyundai Nexo Neuwagen
-(9)
+(3'466)
 Hyundai Nexo Vorführwagen
 (6)
+Hyundai Nexo Neuwagen
+(5)
 Aufbau
 Hyundai Nexo Geländewagen
-(16)
+(13)
 Motor
 Hyundai Nexo Wasserstoff
-(16)
+(13)
 Typ
 Hyundai nexo
-(16)
+(13)
 Modelle
 Hyundai Kona
-(899)
+(712)
 Hyundai i30
-(731)
+(610)
 Hyundai Tucson
-(585)
+(508)
 Hyundai i20
-(550)
+(507)
 Hyundai Santa
 Fe
-(395)
+(301)
 Hyundai i10
-(254)
+(209)
 Hyundai Ioniq
-(202)
+(181)
 Hyundai iX35
-(111)
+(98)
 CAR FOR YOU wird durchsucht ...
 auto-online wird durchsucht ...
 AutoScout24 wird durchsucht ...
 Carweb wird durchsucht ...
 drive-in.ch wird durchsucht ...
-16 Treffer auf allen grossen Schweizer Auto-Portalen
-16 Treffer auf allen Portalen
+13 Treffer auf allen grossen Schweizer Auto-Portalen
+13 Treffer auf allen Portalen
 Resultatduplikate sind in der totalen Trefferzahl ausgefiltert.
 alle anzeigen
 weniger
-2 Inserate
 0 Inserate
-15 Inserate
+0 Inserate
+13 Inserate
 0 Inserate
 0 Inserate
 HYUNDAI Nexo Fuel Cell Vertex
@@ -647,16 +645,6 @@ HYUNDAI Nexo Fuel Cell Vertex
 Neuwagen
 Automat, Wasserstoff
 1 km, 163 PS, Silber
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 92'900
-ab CHF 1'697 / Monat
-Hyundai Nexo Fuel Cell Vertex
-27.03.2021
-Neuwagen
-Automat, Wasserstoff
-21 km, 163 PS, Weiss
 Anfrage senden
 Anfrage senden
 Ihre Anfrage wurde versendet.
@@ -694,6 +682,7 @@ Ihre Anfrage wurde versendet.
 CHF 92'900
 ab CHF 1'697 / Monat
 HYUNDAI Nexo Fuel Cell Vertex
+4.5
 12.11.2020
 Vorführwagen
 12.2020, Automat, Wasserstoff
@@ -703,18 +692,9 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 84'900
 ab CHF 1'551 / Monat
-HYUNDAI Nexo Fuel Cell Vertex
-10.11.2020
-Neuwagen
-Automat, Wasserstoff
-1 km, 163 PS, Silber
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 92'900
-ab CHF 1'697 / Monat
 Preisreduktion
 HYUNDAI Nexo Fuel Cell Vertex
+4.5
 13.10.2020
 Vorführwagen
 10.2020, Manuell, Wasserstoff
@@ -724,17 +704,6 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 87'900
 ab CHF 1'605 / Monat
-Preisreduktion
-HYUNDAI NEXO Fuel Cell Vertex
-01.10.2020
-Neuwagen
-Automat, Wasserstoff
-50 km, 163 PS, Silber
-Anfrage senden
-Anfrage senden
-Ihre Anfrage wurde versendet.
-CHF 81'750
-ab CHF 1'493 / Monat
 HYUNDAI Nexo Fuel Cell Vertex
 10.09.2020
 Neuwagen
@@ -745,6 +714,42 @@ Anfrage senden
 Ihre Anfrage wurde versendet.
 CHF 92'900
 ab CHF 1'697 / Monat
+Preisreduktion
+HYUNDAI Nexo Fuel Cell Vertex
+4.5
+08.09.2020
+Vorführwagen
+09.2020, Automat, Wasserstoff
+1'000 km, 163 PS, Blau
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 87'990
+ab CHF 1'607 / Monat
+Preisreduktion
+HYUNDAI Nexo Fuel Cell Vertex
+4.5
+08.09.2020
+Occasion
+07.2019, Automat, Wasserstoff
+10'000 km, 163 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 76'500
+ab CHF 1'397 / Monat
+Preisreduktion
+HYUNDAI Nexo Fuel Cell Vertex
+4.5
+06.07.2020
+Vorführwagen
+08.2020, Automat, Wasserstoff
+10'000 km, 163 PS, Weiss
+Anfrage senden
+Anfrage senden
+Ihre Anfrage wurde versendet.
+CHF 79'900
+ab CHF 1'459 / Monat
 vorherige Seite
 Sie befinden sich auf Seite1
 2

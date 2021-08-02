@@ -48,6 +48,7 @@ Physische Edelmetalle
 Highlights
 Börsenspiel
 Börse: Marktübersicht
+Vorsorgefonds
 Unser Vorsorgebuch
 Nachhaltig –
 wie «grün» ist Ihr Fonds?
@@ -58,9 +59,8 @@ Jetzt ermitteln
 Hypothek
 Hypothek in der Übersicht
 Festhypothek
-Libor-Hypothek
-Variable Hypothek
 SARON-Hypothek
+Variable Hypothek
 Hypolimite
 Baukredit
 Eigenheim kaufen
@@ -83,6 +83,7 @@ Kredit in der Übersicht
 Konsumkredit
 Privatkredit
 Autokredit
+Autoleasing
 Weiterbildungskredit
 Limite
 Lombardkredit
@@ -207,14 +208,14 @@ Hypothek
 Hypotheken-Rechner
 Hypothek in der Übersicht
 Festhypothek
-Libor-Hypothek
-Variable Hypothek
 SARON-Hypothek
+Variable Hypothek
 Hypolimite
 Baukredit
 Eigenheim kaufen
 Hypothek wechseln
 Highlights
+Online-Hypothek
 Individuelle Beratung
 Bankwechsel
 Hypotheken vergleichen
@@ -288,7 +289,7 @@ Beratung
 +41 848 845 451
 Downloads
 Preis-Broschüre (PDF, 2461k)
-Produkt-Broschüre (PDF, 2463k)
+Produkt-Broschüre (PDF, 1746k)
 Weitere Highlights aus unserer Beratung
 Die drei Meilensteine
 zu Ihrem Eigenheim

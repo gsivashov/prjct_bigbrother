@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/carfinder/marke/porsche
 Title: Porsche Modelle - Preise vergleichen mit comparis.ch
 Description: Alle Porsche Modelle der grössten Schweizer Auto-Portale in der Übersicht. Vergleichen Sie mit Comparis die Preise und finden Sie Ihr Traumauto.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
@@ -146,199 +144,231 @@ Alle Automarken
 Porsche
 Bitte schalten sie Javascript ein, um das einwandfreie Funktionieren der Webseite zu gewährleisten.
 Porsche Automarkt Schweiz
-3'176 Occasionen
-544 Neuwagen
-146 Vorführwagen
-Porsche 924 - 13 Inserate im Automarkt - Ab CHF 6'900
-Porsche 928 - 39 Inserate im Automarkt - Ab CHF 19'999
-Porsche 968 - 11 Inserate im Automarkt - Ab CHF 18'900
-Porsche Carrera GT - 2 Inserate im Automarkt - Ab CHF 750'000
+3'045 Occasionen
+345 Neuwagen
+98 Vorführwagen
+Porsche 924 - 12 Inserate im Automarkt - Ab CHF 6'000
+Porsche 928 - 41 Inserate im Automarkt - Ab CHF 12'500
+Porsche 968 - 13 Inserate im Automarkt - Ab CHF 18'900
+Porsche Carrera GT - 1 Inserat im Automarkt - Ab CHF 750'000
 Porsche Modelle
-Porsche 911 - 1'367 Inserate anzeigen
-PORSCHE 911 Turbo
+Porsche 911 - 1'359 Inserate anzeigen
+PORSCHE 911 GT3
 Occasion
-11.2012
-132'000 km
+12.2018
+8'500 km
+476 PS
+Mehr
+5.0
+CHF
+140'000
+22.07.2021
+PORSCHE 911 (992) GT3 Cup
+Occasion
+03.2021
+8'000 km
+510 PS
+Mehr
+5.0
+CHF
+265'000
+20.07.2021
+PORSCHE 911 Turbo Cabrio Aut.
+Occasion
+02.2008
+19'900 km
+480 PS
+Mehr
+5.0
+CHF
+94'900
+20.07.2021
+Porsche Boxster - 172 Inserate anzeigen
+PORSCHE BOXSTER S
+Occasion
+02.2003
+41'000 km
+260 PS
+Mehr
+5.0
+CHF
+21'986
+20.07.2021
+PORSCHE 718 Boxster Spyder
+Occasion
+12.2020
+5'800 km
 420 PS
 Mehr
 5.0
 CHF
-49'900
-27.04.2021
-Porsche 911 Cabriolet 3.0 Carrera PDK...SCARICHI SPORTIVI
-Vorführwagen
-02.2020
-7'900 km
-385 PS
+101'718
+13.07.2021
+PORSCHE BOXSTER 718 GTS 4.0
+Occasion
+11.2020
+15'000 km
+400 PS
 Mehr
 5.0
 CHF
-149'500
-23.04.2021
-PORSCHE 911 Targa 4S PDK
+92'800
+08.07.2021
+Porsche Cayenne - 714 Inserate anzeigen
+Porsche Cayenne 4.5 V8 Turbo
 Occasion
-02.2016
-35'000 km
-420 PS
+03.2004
+174'000 km
+450 PS
+Mehr
+6.0
+CHF
+8'000
+02.08.2021
+PORSCHE Cayenne S
+Occasion
+04.2012
+126'591 km
+400 PS
+Mehr
+5.5
+CHF
+16'900
+01.08.2021
+PORSCHE Cayenne Diesel
+Occasion
+12.2012
+163'263 km
+245 PS
 Mehr
 5.0
 CHF
-119'900
-20.04.2021
-Porsche Boxster - 182 Inserate anzeigen
-Porsche Boxster S 3.2
+15'900
+31.07.2021
+Porsche Cayman - 136 Inserate anzeigen
+PORSCHE Cayman 3.4 320 S PDK
 Occasion
-02.2000
-165'430 km
-252 PS
-Mehr
-5.0
-CHF
-6'500
-30.05.2021
-PORSCHE BOXSTER Spyder
-Occasion
-03.2011
-11'500 km
+12.2011
+23'500 km
 320 PS
 Mehr
 5.0
 CHF
-65'900
-01.09.2020
-Porsche Boxster 718
-Neuwagen
-Neuwagen
-1 km
-300 PS
-Mehr
-5.0
-CHF
-64'700
-27.08.2020
-Porsche Cayenne - 863 Inserate anzeigen
-PORSCHE Cayenne S
+40'900
+16.07.2021
+PORSCHE CAYMAN 718 GTS 4.0
 Occasion
-05.2008
-193'000 km
-385 PS
-Mehr
-6.0
-CHF
-5'900
-09.06.2021
-PORSCHE CAYENNE GTS
-Vorführwagen
-06.2021
+04.2021
 3'000 km
-460 PS
-Mehr
-5.0
-CHF
-147'800
-04.06.2021
-PORSCHE Cayenne S
-Occasion
-03.2012
-89'000 km
 400 PS
 Mehr
 5.0
 CHF
-26'900
-03.06.2021
-Porsche Cayman - 162 Inserate anzeigen
-Porsche Cayman 718 GT4
-Occasion
-01.2021
-8'000 km
-Mehr
-5.0
-CHF
-103'500
-30.05.2021
-PORSCHE CAYMAN 718 GT4
-Occasion
-01.2021
-8'000 km
-420 PS
-Mehr
-5.0
-CHF
-103'500
-28.05.2021
-PORSCHE CAYMAN GTS 4.0
+109'900
+13.07.2021
+PORSCHE CAYMAN 718 GTS 4.0
 Vorführwagen
-05.2021
-7'500 km
+04.2021
+3'000 km
 400 PS
+Mehr
+5.0
+CHF
+106'700
+08.07.2021
+Porsche Panamera - 389 Inserate anzeigen
+PORSCHE Panamera Turbo PDK
+Occasion
+12.2017
+54'000 km
+550 PS
+Mehr
+5.0
+CHF
+98'000
+29.07.2021
+Porsche Panamera GTS Sp. Turismo
+Occasion
+08.2020
+19'000 km
+466 PS
+Mehr
+5.0
+CHF
+119'900
+29.07.2021
+Porsche Panamera GTS
+Occasion
+04.2016
+37'000 km
+446 PS
+Mehr
+5.5
+CHF
+72'500
+28.07.2021
+Porsche Macan - 429 Inserate anzeigen
+PORSCHE MACAN GTS
+Occasion
+12.2020
+8'500 km
+380 PS
+Mehr
+5.0
+CHF
+96'900
+16.07.2021
+PORSCHE MACAN GTS
+Occasion
+12.2020
+7'000 km
+380 PS
 Mehr
 5.0
 CHF
 99'900
-26.05.2021
-Porsche Panamera - 464 Inserate anzeigen
-PORSCHE PANAMERA 4S E-Hybrid Sport Tursimo
-Neuwagen
-Neuwagen
-30 km
-560 PS
+12.07.2021
+PORSCHE MACAN GTS
+Vorführwagen
+07.2021
+7'500 km
+380 PS
 Mehr
 5.0
 CHF
-192'900
-25.05.2021
-PORSCHE Panamera Sport Turismo 4.0 V8 Turbo
+99'900
+09.07.2021
+Porsche Taycan - 178 Inserate anzeigen
+PORSCHE TAYCAN Turbo
 Occasion
-07.2018
-51'900 km
-549 PS
+12.2020
+10'500 km
+680 PS
 Mehr
 5.0
 CHF
-118'680
-19.05.2021
-PORSCHE PANAMERA Turbo Sport Turismo
+149'900
+02.08.2021
+PORSCHE Taycan Turbo S
 Occasion
-12.2019
-21'850 km
-549 PS
+11.2020
+12'900 km
+761 PS
 Mehr
-5.5
+5.0
 CHF
-136'750
-15.05.2021
-Porsche Macan - 541 Inserate anzeigen
-Porsche Macan Turbo PDK
+184'900
+28.07.2021
+PORSCHE Taycan Turbo S
 Occasion
-09.2014
-153'000 km
-400 PS
+03.2020
+26'500 km
+761 PS
 Mehr
 5.0
 CHF
-31'880
-06.06.2021
-PORSCHE Macan Turbo PDK
-Occasion
-09.2014
-153'000 km
-400 PS
-Mehr
-5.0
-CHF
-31'880
-05.06.2021
-Porsche Macan 3.0 V6 S
-Neuwagen
-Neuwagen
-25 km
-354 PS
-Mehr
-5.0
-CHF
-85'300
-28.05.2021
+164'300
+22.07.2021
 comparis.ch
 Über Comparis
 Medien

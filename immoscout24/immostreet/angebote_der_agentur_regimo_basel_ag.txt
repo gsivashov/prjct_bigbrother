@@ -107,7 +107,7 @@ Filter
 Suchen
 Suche anpassen
 Das Suchabo wurde Ihrer Immobox hinzugefügt.
-97 Resultate gefunden ·
+101 Resultate gefunden ·
 Angebote der Agentur Regimo Basel AG
 Preis (aufsteigend)
 Preis (absteigend)
@@ -120,242 +120,68 @@ PLZ (aufsteigend)
 PLZ (absteigend)
 Sortierung
 Abschicken
-Tangentenweg 30
-1'800
+Alte Saline 2
+1'615
 CHF
 /Monat
-wohnen im schönen Erlenmattquartier
-Tangentenweg 30, 4058 Basel
-Array
-2.5 Zimmer
-62 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2.5
-Wohnfläche
-62 m2
-Etage
-Schätzen Sie modernes Wohnen? Wir bieten anspruchsvollen Mietern diese attraktive 2.5 Zimmer-Wohnun…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Tangentenweg 30
-1'800
-CHF
-/Monat
-wohnen im schönen Erlenmattquartier
-Tangentenweg 30, 4058 Basel
+Familienfreundlich wohnen mit Sicht ins…
+Alte Saline 2, 4310 Rheinfelden
 Array
 3.5 Zimmer
-79 m2
+80 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3.5
 Wohnfläche
-79 m2
-Etage
-Schätzen Sie modernes Wohnen? Wir bieten anspruchsvollen Mietern diese attraktive 3.5 Zimmer-Wohnun…
+80 m2
+In Mitten einer Waldlichtung erwartet Sie diese stilvolle Wohnung in einer gepflegten Überbauung. S…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Grabenring 30
-1'547
+Rüttihardstrasse 5
+1'480
 CHF
 /Monat
-Allein oder zu zweit: Hier könnte es Ih…
-Grabenring 30, 4123 Allschwil
+Gutes Preis-Leistungsverhältnis in Rhei…
+Rüttihardstrasse 5, 4127 Birsfelden
 Array
 3 Zimmer
-70 m2
+75 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 3
 Wohnfläche
-70 m2
-Ihr neues Zuhause befindet in einer gepflegten Siedlung, in der Sie sich wohl fühlen werden. Die Wo…
+75 m2
+Möchten Sie zentrumsnah und trotzdem in einer Umgebung mit viel Grün leben? In dieser komfortablen …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-St. Jakob-Strasse 10
-1'320
+Habsburgerstr. 26
+1'350
 CHF
 /Monat
-Suchen Sie Ihre erste Wohnung?
-St. Jakob-Strasse 10, 4132 Muttenz
+Sanierte Wohnung an ruhiger Wohnlage
+Habsburgerstr. 26, 4055 Basel
 Array
 2.5 Zimmer
-56 m2
+59 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-56 m2
-Diese Wohnung mit zeitgemässem Komfort und herrlichem Ausblick an den Wartenberg könnte Ihr neues Z…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Frenkenstrasse 20
-1'785
-CHF
-/Monat
-Komfortabel wohnen in moderner Überbauu…
-Frenkenstrasse 20, 4410 Liestal
-Array
-3.5 Zimmer
-82 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-82 m2
-Günstige Verkehrslage, attraktiver Grundriss, moderne Ausstattung, viel Licht und Luft: Diese Vorzü…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-St. Alban-Ring 282
-2'040
-CHF
-/Monat
-Moderne Wohnung in beliebtem Gellert-Qu…
-St. Alban-Ring 282, 4052 Basel
-Array
-3.5 Zimmer
-86 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-86 m2
-Suchen Sie etwas Spezielles an zentraler Lage? Möchten Sie sich Zuhause wohl fühlen und die Ruhe ge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-St. Alban-Vorstadt 11
-2'500
-CHF
-/Monat
-Moderne Wohnung im beliebtem Quartier
-St. Alban-Vorstadt 11, 4052 Basel
-Array
-1.5 Zimmer
-62 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-1.5
-Wohnfläche
-62 m2
-Suchen Sie etwas Spezielles an zentraler Lage? Möchten Sie sich Zuhause wohl fühlen und die Ruhe ge…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-St. Alban-Ring 278-286 EH
-Preis auf Anfrage
-Einstellhallenplatz im Gellert
-St. Alban-Ring 278-286 EH, 4052 Basel
-Array
-Objekttyp
-Tiefgarage
-Wir vermieten in der Einstellhalle an dem St. Alban-Ring 278 - 286 EH in Basel diverse Auto-Einstel…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Frenkenstrasse 28
-1'780
-CHF
-/Monat
-Wohnkomfort der kaum Wünsche offen lässt
-Frenkenstrasse 28, 4410 Liestal
-Array
-3.5 Zimmer
-82 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3.5
-Wohnfläche
-82 m2
-Geniessen Sie das Leben in in dieser modernen Wohnung an sonniger Lage. Der gemütliche Balkon lädt …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Lindenstrasse 27
-1'763
-CHF
-/Monat
-Diese Wohnung lädt zum Entspannen ein
-Lindenstrasse 27, 4123 Allschwil
-Array
-3 Zimmer
-80 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-3
-Wohnfläche
-80 m2
-Suchen Sie ein neues Zuhause in gepflegter Umgebung? Dann werden Sie sich in dieser Liegenschaft wo…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Grenzacherstrasse 30a
-1'825
-CHF
-/Monat
-Genau das Richtige für naturverbundene …
-Grenzacherstrasse 30a, 4058 Basel
-Array
-2 Zimmer
-74 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-2
-Wohnfläche
-74 m2
-Möchten Sie zentrumsnah und trotzdem in einer Umgebung mit viel Grün leben? Dann werden Sie sich in…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Wielandstr. 2
-2'540
-CHF
-/Monat
-Moderne Wohnung im Dorfkern von Reinach
-Wielandstr. 2, 4153 Reinach BL
-Array
-5 Zimmer
-121 m2
-Objekttyp
-Wohnung, Flach
-Zimmer
-5
-Wohnfläche
-121 m2
-Diese helle Wohnung mit viel Licht und Luft befindet sich im Zentrum von Reinach und bietet ihnen a…
+59 m2
+Die sanierte Wohnung befindet sich an einer Seitenstrasse in ruhigem Vorstadtquartier. Die öffentli…
 Teilen
 E-Mail
 Facebook
 Whatsapp
 Muttenzerstrasse 40
-1'405
+1'435
 CHF
 /Monat
 Modernes Wohnen in Pratteln
@@ -374,144 +200,326 @@ Teilen
 E-Mail
 Facebook
 Whatsapp
-St. Alban-Ring 187
-1'120
+Rottmannsbodenstrasse 7
+1'425
 CHF
 /Monat
-Single-Wohnung im beliebten Gellert-Qua…
-St. Alban-Ring 187, 4052 Basel
+Ruhige Wohnlage in Binningen
+Rottmannsbodenstrasse 7, 4102 Binningen
+Array
+3 Zimmer
+64 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+64 m2
+Möchten Sie die Ruhe geniessen und dennoch zentral Wohnen? In einer gepflegten Überbauung nahe des …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rudolfstrasse 39
+735
+CHF
+/Monat
+Genau das richtige für naturverbundene …
+Rudolfstrasse 39, 4054 Basel
+Array
+1 Zimmer
+28 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+28 m2
+Diese gemütliche Wohnung unweit des Schützenmattparks ist ideal für StudentInnen oder Singels, welc…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Rüttelistr. 13
+1'840
+CHF
+/Monat
+Schöne Wohnung in ruhiger Lage
+Rüttelistr. 13, 4416 Bubendorf
+Array
+4.5 Zimmer
+105 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+105 m2
+Ihr neues Zuhause befindet sich nahe dem Dorfkern in einer gepflegten und ruhigen Siedlung, in der …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Blauenstr. 32
+1'580
+CHF
+/Monat
+Wohnen in ruhigem Vorstadtquartier
+Blauenstr. 32, 4054 Basel
+Array
+3 Zimmer
+63 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+3
+Wohnfläche
+63 m2
+Diese Wohnung befindet sich in einem verkehrsruhigen Wohnquartier. Die öffentlichen Verkehrsmittel …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Müllheimerstrasse 144
+1'080
+CHF
+/Monat
+In gepflegtem Mehrfamilienhaus komforta…
+Müllheimerstrasse 144, 4057 Basel
 Array
 2 Zimmer
-52 m2
+51 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2
 Wohnfläche
-52 m2
-Hier erwartet Sie eine geräumige Studio-Wohnung im Dachgeschoss. Diese moderne und helle Wohnung be…
+51 m2
+Diese zentral gelegene Wohnung befindet sich in einem lebendigen Stadtquartier mit Einkaufsmöglichk…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Rüttihardstrasse 3 EH
-120
+Hammerstrasse 164
+2'737
 CHF
 /Monat
-Autoeinstellplatz in Birsfelden zu verm…
-Rüttihardstrasse 3 EH, 4127 Birsfelden
+Sanierte Familienwohnung im Herzen vom …
+Hammerstrasse 164, 4057 Basel
 Array
-Objekttyp
-Tiefgarage
-Per sofort oder nach Vereinbarung vermieten wir an der Rüttihardstrasse 3 in Birsfelden einen Auto-…
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Hebelstrasse 115
-1'040
-CHF
-/Monat
-Allein oder zu zweit: Hier könnte es Ih…
-Hebelstrasse 115, 4056 Basel
-Array
-2 Zimmer
-46 m2
+6 Zimmer
+152 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-2
+6
 Wohnfläche
-46 m2
-Dieses Mehrfamilienhaus befindet sich in einer ruhig gelegenen Seitenstrasse unweit der Universität…
+152 m2
+Suchen Sie eine stilvolle Familienwohnung in der architektonisch preisgekrönten Überbauung Hammer I…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Schänggelistrasse 35
-1'315
+Rottmannsbodenstrasse 7
+1'680
 CHF
 /Monat
-Profitieren Sie von einem attraktiven P…
-Schänggelistrasse 35, 4612 Wangen b. Olten
+Familienwohnung mit sonnigem Balkon
+Rottmannsbodenstrasse 7, 4102 Binningen
 Array
 4 Zimmer
+76 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 4
-In diesem gepflegten Mehrfamilienhaus erwartet Sie eine geräumige Wohnung mit zeitgemässem Komfort …
-Teilen
-E-Mail
-Facebook
-Whatsapp
-Riehenstrasse 90
-3'205
-CHF
-/Monat
-Moderne Maisonette-Wohnung im EG
-Riehenstrasse 90, 4058 Basel
-Array
-2.5 Zimmer
-134 m2
-Objekttyp
-Wohnung, Duplex
-Zimmer
-2.5
 Wohnfläche
-134 m2
-Etage
-Diese ansprechende und helle Maisonette-Wohnung befindet sich an zentraler Lage und ist den öffentl…
+76 m2
+Wenn Sie eine komfortable Wohnung an einer ruhigen und familienfreundlichen Lage suchen, dürfte die…
 Teilen
 E-Mail
 Facebook
 Whatsapp
-St. Alban-Ring 278
-2'056
+Steinentorstrasse 45
+1'610
 CHF
 /Monat
-Moderne Wohnung im beliebtem Quartier
-St. Alban-Ring 278, 4052 Basel
+Allein oder zu zweit: Hier wird es Ihne…
+Steinentorstrasse 45, 4051 Basel
 Array
-3.5 Zimmer
-86 m2
+2 Zimmer
+80 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
-3.5
+2
 Wohnfläche
-86 m2
-Suchen Sie etwas Spezielles an zentraler Lage? Möchten Sie sich Zuhause wohl fühlen und die Ruhe ge…
+80 m2
+Diese im Jahre 2015 umfassend sanierte Wohnung befindet sich in einem lebendigen Stadtquartier mit …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Rüttihardstrasse 7
-1'300
+Steinentorstrasse 45
+930
 CHF
 /Monat
-Gutes Preis-Leistungsverhältnis in Rhei…
-Rüttihardstrasse 7, 4127 Birsfelden
+Wohnen in lebendigem Stadtquartier
+Steinentorstrasse 45, 4051 Basel
+Array
+1 Zimmer
+32 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+32 m2
+Diese im Jahre 2015 umfassend sanierte Wohnung mit lichtdurchfluteten Räumen und einem attraktiven …
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Oetlingerstrasse 51
+945
+CHF
+/Monat
+Altbauwohnung in der Nähe des Kleinbasl…
+Oetlingerstrasse 51, 4057 Basel
+Array
+1 Zimmer
+34 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+1
+Wohnfläche
+34 m2
+Möchten Sie die Ruhe geniessen und dennoch den Puls des Lebens spüren? In dieser sanierten, preisgü…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lilienstrasse 39
+295
+CHF
+/Monat
+Einzelzimmer/Mansarde
+Lilienstrasse 39, 4123 Allschwil
+Array
+1 Zimmer
+14 m2
+Objekttyp
+Wohnung, Attic
+Zimmer
+1
+Wohnfläche
+14 m2
+Sie suchen ein Lernzimmer oder Hobbyraum in einer ruhigen Umgebung? In dieser gepflegten Liegenscha…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gstaltenrainweg 65
+2'315
+CHF
+/Monat
+Ruhig gelegen, in schöner Überbauung
+Gstaltenrainweg 65, 4125 Riehen
+Array
+4.5 Zimmer
+104 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+4.5
+Wohnfläche
+104 m2
+Schätzen Sie eine kinderfreundliche, grüne Umgebung? In einer gepflegten Überbauung haben wir die p…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Im Niederholzboden 56
+2'570
+CHF
+/Monat
+Wohn- und Lebensqualität für die ganze …
+Im Niederholzboden 56, 4125 Riehen
+Array
+5 Zimmer
+119 m2
+Objekttyp
+Wohnung, Flach
+Zimmer
+5
+Wohnfläche
+119 m2
+Möchten Sie zentrumsnah und trotzdem in einer Umgebung mit viel Grün leben? In dieser Wohnung fühlt…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Lilienstrasse 39
+295
+CHF
+/Monat
+Einzelzimmer/Mansarde
+Lilienstrasse 39, 4123 Allschwil
+Array
+1 Zimmer
+14 m2
+Objekttyp
+Wohnung, Attic
+Zimmer
+1
+Wohnfläche
+14 m2
+Sie suchen ein Lernzimmer oder Hobbyraum in einer ruhigen Umgebung? In dieser gepflegten Liegenscha…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Hauptstrasse 17
+2'160
+CHF
+/Monat
+Praxis- oder Büroräume in Zentraler Lage
+Hauptstrasse 17, 4102 Binningen
+Array
+Objekttyp
+Verkauf, Praxis
+Günstige Verkehrslage, attraktiver Grundriss, moderne Ausstattung, viel Licht und Luft. Diese Vorzü…
+Teilen
+E-Mail
+Facebook
+Whatsapp
+Gerbergasse 55/Falknerstr. 32
+2'100
+CHF
+/Monat
+Wohnen im Herzen der Altstadt von Basel
+Gerbergasse 55/Falknerstr. 32, 4051 Basel
 Array
 2.5 Zimmer
-65 m2
+82 m2
 Objekttyp
 Wohnung, Flach
 Zimmer
 2.5
 Wohnfläche
-65 m2
-Etage
-Möchten Sie zentrumsnah und trotzdem in einer Umgebung mit viel Grün leben? In dieser komfortablen …
+82 m2
+Diese modern ausgestattete Wohnung befindet sich im 2. OG einer umfassend renovierten Liegenschaft …
 Teilen
 E-Mail
 Facebook
 Whatsapp
-Seite 1 von 5
+Seite 1 von 6
 1
 2
 3
 4
+5
 nächste Seite
 ImmoStreet.ch
 Mieten

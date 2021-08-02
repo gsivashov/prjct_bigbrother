@@ -2,7 +2,6 @@ URL: https://www.comparis.ch/privatkredit/kreditrechner
 Title: Kreditrechner: Kreditkosten berechnen und Angebote vergleichen | comparis.ch
 Description: Prüfen Sie die ungefähre monatliche Rate und Gesamtkosten mit unserem Kreditrechner. So erhalten Sie schnell einen Eindruck, was ein Kredit Sie kostet.
 
-Suche
 Menü
 Newsletter
 Magazin
@@ -19,7 +18,6 @@ Fr
 It
 En
 Menü
-Suche
 DE
 De
 Fr
